@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">ทั้งหมด %d เพลง</item>
+    </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">กำลังค้นหาปกอัลบั้มและเนื้อเพลง (%1$d/%2$d)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">กำลังสำรองข้อมูลเพลง เหลืออีก%1$dเพลง (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">ปิดเครื่องเล่นในอีก %d นาที</item>
+    </plurals>
+    <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">คุณเลือกที่จะไม่หาปกอัลบั้มและเนื้อเพลงสำหรับเพลงในเครื่องโดยอัตโนมัติ ลบข้อมูลสำหรับ %d เพลง?</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">สร้างเมื่อ %1$s |รวมทั้งหมด %2$d เพลง</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">%d เพลง ยังไม่ได้สำรองข้อมูลไปยัง Mi คลาวด์ หยุดทันที?</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">เพิ่ม %d เพลงไปยังรายชื่อเพลงแล้ว</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d เพลง</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">นำเพลง %d เพลงออกจากรายชื่อเพลงแล้ว\"</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">มีเพลงที่คล้ายกันอีก %d เพลง</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">มี %1$d เพลงที่ไม่สามารถสำรองข้อมูลได้ (%2$.1fMB)\"</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">สำรองข้อมูล %1$d เพลง (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d ความคิดเห็น</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">ลบ %d รายการ?</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"ลบ %d รายการ?
+หมายเหตุ: ไฟล์จะถูกลบออกจากอุปกรณ์นี้เช่นกัน"</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">ลบ %d เพลง?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">ลบ %d เพลง?</item>
+    </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">ลบ %d เพลงจาก Mi คลาวด์ ไหม? รายการเหล่านี้จะถูกลบออกจากเพลย์ลิสต์ในเครื่องเช่นกัน</item>
+    </plurals>
+    <plurals name="download_finished">
+        <item quantity="other">ดาวน์โหลดแล้ว &lt;font color=\"red\">%d เพลง&lt;/font></item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">ลบ %d การดาวน์โหลดแล้ว</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">กำลังดาวน์โหลด &lt;font color=\"red\">%d เพลง&lt;/font></item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">เลือกไว้ %d รายการ</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d ผู้ติดตาม</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">กำลังเตรียมส่งเพลง %d เพลง</item>
+    </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">ข้าม %d เพลง. เปิดใช้งานบริการออนไลน์ในการตั้งค่าเพื่อฟัง</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">ใส่เพลงนี้เป็นเพลงโปรดแล้ว</item>
+    </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%d เพลง</item>
+    </plurals>
+</resources>

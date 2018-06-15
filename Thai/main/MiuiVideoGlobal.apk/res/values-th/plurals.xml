@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">คำบรรยายเร็วไป %.1f วินาที</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">คำบรรยายล่าช้า %.1f วินาที</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">ขนาด: %.2fKB</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d วิดีโอ</item>
+    </plurals>
+</resources>

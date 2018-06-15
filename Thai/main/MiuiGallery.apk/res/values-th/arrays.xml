@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baby_sexy">
+        <item>เด็กชาย</item>
+        <item>เด็กหญิง</item>
+    </string-array>
+    <string-array name="collage_month">
+        <item>ม.ค.</item>
+        <item>ก.พ.</item>
+        <item>มี.ค.</item>
+        <item>เม.ย.</item>
+        <item>พ.ค.</item>
+        <item>มิ.ย.</item>
+        <item>ก.ค.</item>
+        <item>ส.ค.</item>
+        <item>ก.ย.</item>
+        <item>ต.ค.</item>
+        <item>พ.ย.</item>
+        <item>ธ.ค.</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>บิดา</item>
+        <item>มารดา</item>
+        <item>ปู่</item>
+        <item>ย่า</item>
+        <item>ตา</item>
+        <item>ยาย</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>ฉัน</item>
+        <item>ลูก</item>
+        <item>ครอบครัว</item>
+        <item>เพื่อนร่วมงาน</item>
+        <item>เพื่อนร่วมชั้น</item>
+        <item>เพื่อน</item>
+        <item>ไม่ได้จัดกลุ่ม</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>พ่อ</item>
+        <item>แม่</item>
+        <item>ปู่</item>
+        <item>ย่า</item>
+        <item>ตา</item>
+        <item>ยาย</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">ยกเลิกการโอนจาก %1$s</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">กำลังรับ %1$s ไฟล์…</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">ได้รับไฟล์จาก %1$s เรียบร้อยแล้ว</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d ไฟล์จาก %1$s</item>
+    </plurals>
+    <plurals name="sender_file_num">
+        <item quantity="other">%1$d รายการ</item>
+    </plurals>
+</resources>
