@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">เพิ่มไปยังหน้าแรก</string>
     <string name="activity_not_found">ไม่พบการติดตั้งแอปในเครื่อง</string>
     <string name="add_screen">เพิ่มหน้าจอ</string>
@@ -92,6 +93,7 @@
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">แอปเพิ่มเติม</string>
     <string name="default_folder_title_security">ระบบ</string>
+    <string name="default_folder_title_services">บริการ</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">เครื่องมือ</string>
     <string name="default_screen_preview_title">แตะเพื่อตั้งค่าหน้าจอเริ่มต้น</string>
@@ -235,6 +237,7 @@
     <string name="open_personal_assistant_dialog_btn_cancel">ยกเลิก</string>
     <string name="open_personal_assistant_dialog_btn_confirm">ปิดใช้งาน</string>
     <string name="open_personal_assistant_dialog_desc">คุณไม่สามารถใช้แอป vault และรับการอัพเดต ปิดใช้งานทันที?</string>
+    <string name="open_personal_assistant_dialog_desc_international">คุณจะไม่สามารถใช้การ์ด App Vault (สต็อก, ปุ่มลัด ฯลฯ) และรับการอัพเดตหลังจากปิดคุณลักษณะนี้</string>
     <string name="open_personal_assistant_dialog_title">ปิดใช้แอป vault</string>
     <string name="open_personal_assistant_title">App vault</string>
     <string name="out_of_space">ไม่มีที่ว่างบนหน้าจอหลักแล้ว</string>
@@ -342,6 +345,4 @@
     <string name="widget_gadget_player">เพลง</string>
     <string name="widget_global_search">ค้นหา</string>
     <string name="widget_quick_function">ฟังค์ชั่นทางลัด</string>
-    <string name="default_folder_title_services">บริการ</string>
-    <string name="open_personal_assistant_dialog_desc_international">คุณจะไม่สามารถใช้การ์ด App Vault (สต็อก, ปุ่มลัด ฯลฯ) และรับการอัพเดตหลังจากปิดคุณลักษณะนี้</string>
 </resources>

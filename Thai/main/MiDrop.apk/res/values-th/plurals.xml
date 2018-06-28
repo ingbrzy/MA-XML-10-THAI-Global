@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="delete_confirm_multiple_files">
+        <item quantity="other">ลบ %d ไฟล์ที่เลือกไว้?</item>
+    </plurals>
     <plurals name="notif_receive_cancel">
         <item quantity="other">ยกเลิกการโอนจาก %1$s</item>
     </plurals>
@@ -12,7 +15,16 @@
     <plurals name="receiver_file_num">
         <item quantity="other">%2$d ไฟล์จาก %1$s</item>
     </plurals>
+    <plurals name="selected_file_num">
+        <item quantity="other">เลือก %d รายการ</item>
+    </plurals>
     <plurals name="sender_file_num">
         <item quantity="other">%1$d รายการ</item>
+    </plurals>
+    <plurals name="transfer_list_received_header">
+        <item quantity="other">รับ %1$d ไฟล์ (%2$s)</item>
+    </plurals>
+    <plurals name="transfer_list_sent_header">
+        <item quantity="other">ส่ง %1$d ไฟล์ (%2$s)</item>
     </plurals>
 </resources>

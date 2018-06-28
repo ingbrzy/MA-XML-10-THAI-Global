@@ -93,6 +93,7 @@
     <string name="activate_popup_confirm_error_device_id">ลองอีกครั้ง</string>
     <string name="activate_feature_mx">ข้อความ Mi</string>
     <string name="activate_feature_mx_and_voip">ข้อความและข้อความเสียง Mi</string>
+    <string name="activate_feature_voip">Mi Message Voice</string>
     <string name="activate_feature_mms_sync">ซิงค์ข้อความ</string>
     <string name="activate_feature_call_log_sync">ซิงค์ประวัติการโทร</string>
     <string name="activate_feature_find_device">ค้นหาอุปกรณ์</string>
@@ -117,4 +118,10 @@
     <string name="agree">อนุญาต</string>
     <string name="privacy_revoke_tips">หลังจากที่คุณยกเลิกการให้สิทธิ์แล้วข้อความจะหยุดรวบรวมข้อมูลของคุณและลบข้อมูลทั้งหมดของคุณออกจากเซิร์ฟเวอร์ การซิงค์กับ Mi คลาวด์, Mi ข้อความ และแอปอื่นๆ จะไม่สามารถใช้งานได้อีกต่อไป ยกเลิกการให้สิทธิ์หรือไม่?</string>
     <string name="privacy_revoke_failed_msg">การเปิดใช้งานต้องมีการให้สิทธิ์เพื่อให้ข้อความสามารถรับหมายเลขโทรศัพท์ของคุณได้</string>
+    <string name="waiting_sim_in_service">waiting sim in service</string>
+    <string name="checking_client">checking client env</string>
+    <string name="error_sim_not_in_service">sim not in service</string>
+    <string name="error_checking_client">client env error</string>
+    <string name="error_network_io">network error</string>
+    <string name="error_no_send_sms_permission">no send sms permission</string>
 </resources>

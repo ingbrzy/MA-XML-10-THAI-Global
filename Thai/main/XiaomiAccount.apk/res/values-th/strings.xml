@@ -4,6 +4,7 @@
     <string name="passport_notification_title">การเข้าสู่ระบบผิดพลาดสำหรับบัญชี %1$s</string>
     <string name="passport_login_prompt">ลงชื่อเข้าสู่บัญชี Mi เพื่อใช้บริการ Mi ทั้งหมด</string>
     <string name="passport_login_using_other_ways">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
+    <string name="passport_register_using_other_ways">สร้างบัญชีด้วยวิธีอื่น</string>
     <string name="passport_login_title">เข้าสู่ระบบบัญชีของ Mi</string>
     <string name="passport_login">ลงชื่อเข้าใช้</string>
     <string name="passport_relogin">ลงชื่อเข้าใช้อีกครั้ง</string>
@@ -27,6 +28,7 @@
     <string name="passport_reg_success_summary">ระบบได้ผูกโยง %1$s ไว้กับบัญชีของคุณแล้ว คุณสามารถใช้เครื่องนี้เข้าสู่บัญชีหรือตั้งรหัสผ่านใหม่ได้</string>
     <string name="passport_re_register">ลงทะเบียนอีกครั้ง</string>
     <string name="passport_register">สร้างบัญชีผู้ใช้</string>
+    <string name="passport_new_user_register">สร้างบัญชีผู้ใช้</string>
     <string name="passport_vcode_sms_send_prompt">ส่งรหัสยืนยันไปยัง %s</string>
     <string name="passport_get_verify_code">ขอรับรหัส</string>
     <string name="passport_re_get_verify_code">ขอรับรหัสอีกครั้ง</string>
@@ -72,6 +74,7 @@
     <string name="passport_skip_register">ข้ามการลงทะเบียน</string>
     <string name="passport_account_not_activated">ยังไม่ได้เปิดใช้งานบัญชี</string>
     <string name="passport_change_account"><u>เปลี่ยนบัญชี</u></string>
+    <string name="passport_btn_change_account">เปลี่ยนบัญชี</string>
     <string name="passport_register_account_verified_confirm">บัญชีได้รับการยืนยัน</string>
     <string name="passport_register_account_goto_email">ไปยังกล่องข้อความ</string>
     <string name="passport_error_dup_email">อีเมลที่คุณป้อนได้ผูกกับบัญชีอื่นไว้อยู่ก่อนแล้ว</string>
@@ -91,6 +94,7 @@
     <string name="passport_input_password_hint">ป้อนรหัสผ่าน</string>
     <string name="passport_input_captcha_hint">ป้อนรหัส</string>
     <string name="passport_input_vcode_hint">ป้อนรหัสการตรวจสอบ</string>
+    <string name="passport_input_voice_hint">ป้อนรหัสเสียง</string>
     <string name="passport_email">ที่อยู่อีเมล</string>
     <string name="passport_vcode_prompt_long">กรุณาป้อนรหัสยืนยัน</string>
     <string name="passport_input_phone_hint">ป้อนหมายเลขโทรศัพท์</string>
@@ -104,6 +108,7 @@
     <string name="passport_error_empty_pwd">ป้อนรหัสผ่านของคุณ</string>
     <string name="passport_error_illegal_pwd">รหัสผ่านไม่ถูกต้อง</string>
     <string name="passport_error_empty_captcha_code">ป้อนรหัสที่เห็น</string>
+    <string name="passport_error_empty_voice_code">ป้อนรหัสที่เห็น</string>
     <string name="passport_error_empty_vcode">ป้อนรหัสการตรวจสอบ</string>
     <string name="passport_i_know">รับทราบ</string>
     <string name="passport_retry">ลองอีกครั้ง</string>
@@ -116,6 +121,7 @@
     <string name="passport_yes">ใช่</string>
     <string name="passport_no">ไม่</string>
     <string name="passport_continue">ดำเนินการต่อ</string>
+    <string name="passport_Resend">ส่งใหม่</string>
     <string name="passport_loading">กำลังโหลด…</string>
     <string name="passport_reging">กำลังสร้างบัญชีผู้ใช้…</string>
     <string name="passport_checking_account">กำลังตรวจสอบรหัสผ่าน…</string>
@@ -147,6 +153,7 @@
     <string name="passport_error_user_name">ชื่อผู้ใช้ที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_access_denied">เข้าสู่ระบบไม่ได้</string>
     <string name="passport_wrong_captcha">รหัสที่คุณป้อนไม่ถูกต้อง</string>
+    <string name="passport_wrong_voice">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_wrong_vcode">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_error_device_id">ไม่สามารถระบุรหัสประจำอุปกรณ์ได้</string>
     <string name="passport_error_invalid_dev_id">รหัสรุ่นอุปกรณ์ของคุณไม่ถูกต้อง</string>
@@ -202,6 +209,12 @@
     <string name="passport_get_innetdate_agree">ตรวจสอบ</string>
     <string name="passport_get_innetdate_disagree">ไม่</string>
     <string name="passport_extra_gdpr_license">การสร้างบัญชี Mi ของคุณหมายความว่าคุณยอมรับว่า Xiaomi จะเก็บประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณรวมทั้งข้อมูลการยืนยัน (เช่นรหัสยืนยัน) ข้อมูลพื้นที่ทับซ้อน (เช่นข้อมูลเกี่ยวกับวิธีที่คุณใช้พื้นที่ทับซ้อนรหัสที่ใช้ในพื้นที่ปกติและทับซ้อน) และข้อมูลอื่นๆ ที่ระบุไว้ในนโยบายความเป็นส่วนตัวของเรา ดูนโยบายความเป็นส่วนตัวของเราเพื่อเรียนรู้วิธีที่เราประมวลผลและใช้ข้อมูลส่วนตัว</string>
+    <string name="passport_talkback_image_captcha">รหัสยืนยันรูปภาพ</string>
+    <string name="passport_talkback_voice_captcha">เปิดรหัสยืนยันเสียง</string>
+    <string name="passport_talkback_switch_voice_captcha">สลับเป็นรหัสยืนยันเสียง</string>
+    <string name="passport_talkback_switch_image_captcha">สลับเป็นรหัสยืนยันรูปภาพ</string>
+    <string name="passport_license_info_open">รายละเอียด</string>
+    <string name="passport_license_info_collapse">หุบ</string>
     <string name="search_app_name">บัญชี Mi</string>
     <string name="search_mi_account">บัญชี Mi</string>
     <string name="search_mi_account_key_words">Mi คลาวด์,การตั้งค่าบัญชี,ข้อมูล Mi Pay,ลงชื่อออก</string>
@@ -333,7 +346,7 @@
     <string name="account_user_details">ข้อมูลส่วนตัว</string>
     <string name="account_security">ความปลอดภัยบัญชี</string>
     <string name="account_mibi_center">Mi เครดิต</string>
-    <string name="account_mibi_charge">เพิ่ม Mi เครดิต</string>
+    <string name="account_mibi_charge">เติม Mi เครดิต</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">บริการ</string>
     <string name="cloud_service">Mi คลาวด์</string>

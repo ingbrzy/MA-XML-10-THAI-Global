@@ -41,6 +41,9 @@
     <plurals name="notification_group_overflow_description">
         <item quantity="other">%s แจ้งเตือนภายในเพิ่มเติม</item>
     </plurals>
+    <plurals name="notification_num_channels">
+        <item quantity="other">%d หมวดหมู่การแจ้งเตือน</item>
+    </plurals>
     <plurals name="notification_num_channels_desc">
         <item quantity="other">1 จาก %d หมวดหมู่แจ้งเตือนของแอปนี้</item>
     </plurals>

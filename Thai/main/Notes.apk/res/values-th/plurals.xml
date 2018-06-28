@@ -9,4 +9,10 @@
     <plurals name="note_terms">
         <item quantity="other">บันทึก %1$s รายการ</item>
     </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">เหลือ %d วินาที</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%s ตัวอักษร</item>
+    </plurals>
 </resources>

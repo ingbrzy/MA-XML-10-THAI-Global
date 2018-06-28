@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"เวอร์ชั่นแนะนำ %1$s
 ขนาด %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">ที่จัดเก็บข้อมูลไม่พร้อมใช้งาน ตรวจสอบ SD การ์ดของคุณ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ไม่สามารถเริ่มการดาวน์โหลดได้ ตรวจสอบให้แน่ใจว่าตัวจัดการการดาวน์โหลดทำงานปกติ</string>
     <string name="app_name">สำรองข้อมูล</string>
     <string name="local_app_name">สำรองข้อมูล</string>
@@ -226,6 +229,7 @@
     <string name="restore_backup">คืนค่า</string>
     <string name="enable_encrypt_description">เข้ารหัส</string>
     <string name="disable_encrypt_description">ไม่ได้เข้ารหัส</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">รอสักครู่…</string>
     <string name="state_mounting">กำลังเข้าถึงพื้นที่จัดเก็บข้อมูลเราเตอร์…</string>
     <string name="abort_backup_confirm">ยังสำรองข้อมูลไม่เสร็จ ยกเลิกหรือไม่?</string>
@@ -249,6 +253,7 @@
     <string name="err_filesystem_mount">ไม่สามารถเข้าถึงพื้นที่จัดเก็บข้อมูลเราเตอร์</string>
     <string name="err_router_disconnected">ตรวจสอบการเชื่อมต่อเราเตอร์ของคุณแล้วลองอีกครั้ง</string>
     <string name="err_router_files_delete">ไม่สามารถลบไฟล์ข้อมูลสำรองบนเราเตอร์ได้</string>
+    <string name="err_acquire_system_service">"Couldn't start system service."</string>
     <string name="err_not_allow">ไม่รองรับ</string>
     <string name="err_bakfile_not_exist">ไม่พบไฟล์ข้อมูลสำรองดังกล่าว</string>
     <string name="err_pkg_not_exist">ไม่พบแอป</string>
@@ -527,6 +532,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 คุณต้องสำรองข้อมูลก่อน iCloud"</string>
     <string name="list_footer_tip_title">เคล็ดลับ:</string>
     <string name="import_tip_summary">ข้อกำหนดปัญหาความเข้ากันได้ สำหรับอุปกรณ์ iOS คุณสามารถถ่ายโอนได้เฉเพาะข้อมูลบางส่วนเท่านั้น ตรวจสอบให้แน่ใจว่าคุณได้สำรองข้อมูลก่อนการเริ่มการถ่ายโอน</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">นำเข้า</string>
     <string name="select_empty">เลือกรายการที่จะนำเข้า</string>
     <string name="select_item_summary_wait">กำลังรอ…</string>
@@ -577,7 +583,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="perm_read_call_log">อ่านประวัติการโทร</string>
     <string name="perm_read_sms">อ่าน SMS</string>
     <string name="perm_storage">อ่านและเขียนที่บนที่จัดเก็บข้อมูลภายนอก</string>
-    <string name="lack_perm_title">ต้องการคำร้องขออนุญาต</string>
+    <string name="lack_perm_title">สิทธิ์ที่จำเป็น</string>
     <string name="lack_perm_msg">Mi Mover จำเป็นต้องได้รับการอนุญาตต่อไปนี้: &lt;b>%s&lt;/b></string>
     <string name="flash_drive_backup_restore">ข้อมูลสำรอง USB</string>
     <string name="flash_drive_backup_note">"สำรองข้อมูลไปยังที่เก็บข้อมูล USB 

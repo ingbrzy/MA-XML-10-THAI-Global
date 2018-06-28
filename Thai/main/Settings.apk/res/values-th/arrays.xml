@@ -23,12 +23,12 @@
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>ปิดภาพเคลื่อนไหว</item>
-        <item>ความเร็วภาพเคลื่อนไหว 0.5 เท่า</item>
-        <item>ความเร็วภาพเคลื่อนไหว 1 เท่า</item>
-        <item>ความเร็วภาพเคลื่อนไหว 1.5 เท่า</item>
-        <item>ความเร็วภาพเคลื่อนไหว 2 เท่า</item>
-        <item>ความเร็วภาพเคลื่อนไหว 5 เท่า</item>
-        <item>ความเร็วภาพเคลื่อนไหว 10 เท่า</item>
+        <item>ภาพเคลื่อนไหวซูม .5x</item>
+        <item>ภาพเคลื่อนไหวซูม 1x</item>
+        <item>ภาพเคลื่อนไหวซูม 1.5x</item>
+        <item>ภาพเคลื่อนไหวซูม 2x</item>
+        <item>ภาพเคลื่อนไหวซูม 5x</item>
+        <item>ภาพเคลื่อนไหวซูม 10x</item>
     </string-array>
     <string-array name="ap_identify">
         <item>ค่าเริ่มต้น</item>
@@ -187,12 +187,12 @@
         <item>ระดับเสียงการเข้าถึง</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>ขีดจำกัดมาตรฐาน</item>
-        <item>ไม่มีกระบวนการพื้นหลัง</item>
-        <item>มากที่สุด 1 กระบวนการ</item>
-        <item>มากที่สุด 2 กระบวนการ</item>
-        <item>มากที่สุด 3 กระบวนการ</item>
-        <item>มากที่สุด 4 กระบวนการ</item>
+        <item>ขอบเขตมาตรฐาน</item>
+        <item>ไม่อนุญาติให้ดำเนิการในพื้นหลัง</item>
+        <item>ไม่เกิน 1 การดำเนินการ</item>
+        <item>ไม่เกิน 2 การดำเนินการ</item>
+        <item>ไม่เกิน 3 การดำเนินการ</item>
+        <item>ไม่เกิน 4 การดำเนินการ</item>
     </string-array>
     <string-array name="automatic_storage_management_days">
         <item>เกิน 30 วัน</item>
@@ -223,72 +223,72 @@
         <item>IS95A</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>ใช้การเลือกระบบ (ค่าเริ่มต้น)</item>
-        <item>16 บิต/ตัวอย่าง</item>
-        <item>24 บิต/ตัวอย่าง</item>
-        <item>32 บิต/ตัวอย่าง</item>
+        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
+        <item>16 bits/sample</item>
+        <item>24 bits/sample</item>
+        <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>ใช้การเลือกระบบ (ค่าเริ่มต้น)</item>
-        <item>16 บิต/ตัวอย่าง</item>
-        <item>24 บิต/ตัวอย่าง</item>
-        <item>32 บิต/ตัวอย่าง</item>
+        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
+        <item>16 bits/sample</item>
+        <item>24 bits/sample</item>
+        <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>ใช้การเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
         <item>โมโน</item>
         <item>สเตอริโอ</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>ใช้การเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
         <item>โมโน</item>
         <item>สเตอริโอ</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>เพิ่มประสิทธิภาพสำหรับคุณภาพเสียง</item>
-        <item>คุณภาพเสียงและการเชื่อมต่อที่สมดุล</item>
-        <item>เพิ่มประสิทธิภาพสำหรับคุณภาพการเชื่อมต่อ</item>
-        <item>ความพยายามอย่างเต็มที่ (ปรับอัตราบิตอัตโนมัติ)</item>
+        <item>เพิ่มประสิทธิภาพคุณภาพเสียง</item>
+        <item>สมดุลคุณภาพเสียงและการเชื่อมต่อ</item>
+        <item>เพิ่มประสิทธิภาพคุณภาพการเชื่อมต่อ</item>
+        <item>ความพยายามที่ดีที่สุด (ปรับเปลี่ยนอัตราบิต)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>เพิ่มประสิทธิภาพสำหรับคุณภาพเสียง (990 kbps/909 kbps)</item>
-        <item>คุณภาพเสียงและการเชื่อมต่อที่สมดุล (660 kbps/606 kbps)</item>
-        <item>เพิ่มประสิทธิภาพสำหรับคุณภาพการเชื่อมต่อ (330 kbps/303 kbps)</item>
-        <item>ความพยายามอย่างเต็มที่ (ปรับอัตราบิตอัตโนมัติ)</item>
+        <item>เพิ่มประสิทธิภาพคุณภาพเสียง (990kbps/909kbps)</item>
+        <item>สมดุลคุณภาพเสียงและการเชื่อมต่อ (660kbps/606kbps)</item>
+        <item>เพิ่มประสิทธิภาพคุณภาพการเชื่อมต่อ (330kbps/303kbps)</item>
+        <item>ความพยายามที่ดีที่สุด (ปรับเปลี่ยนอัตราบิต)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>ใช้การเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>ใช้การเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>ใช้การเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>เปิดใช้ตัวแปลงรหัสที่ไม่บังคับ</item>
-        <item>ปิดใช้ตัวแปลงรหัสที่ไม่บังคับ</item>
+        <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
+        <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>ใช้การเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>เปิดใช้ตัวแปลงรหัสที่ไม่บังคับ</item>
-        <item>ปิดใช้ตัวแปลงรหัสที่ไม่บังคับ</item>
+        <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
+        <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (ค่าเริ่มต้น)</item>
@@ -651,12 +651,12 @@
         <item>กีโต</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>สีที่ได้รับการปรับปรุง</item>
-        <item>สีธรรมชาติตามที่ดวงตามองเห็น</item>
-        <item>สีที่เหมาะกับเนื้อหาดิจิทัล</item>
+        <item>เพิ่มสีสัน</item>
+        <item>สีธรรมชาติเหมือนที่ตาเห็น</item>
+        <item>สีที่เหมาะสำหรับเนื้อหาดิจิทัล</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>สด (ค่าเริ่มต้น)</item>
+        <item>สดใส (ค่าเริ่มต้น)</item>
         <item>ธรรมชาติ</item>
         <item>มาตรฐาน</item>
     </string-array>
@@ -686,12 +686,12 @@
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>ปิด</item>
-        <item>แสดงพื้นที่การวาดทับ</item>
-        <item>แสดงพื้นที่สำหรับคนตาบอดสีเขียว</item>
+        <item>แสดงพื้นที่การวาดเกิน</item>
+        <item>แสดงพื้นที่สำหรับตาบอดสี (Deuteranomaly)</item>
     </string-array>
     <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (ค่าเริ่มต้น)</item>
-        <item>OpenGL (Skia)</item>
+        <item>โอเพนจีแอล (ค่าเริ่มต้น)</item>
+        <item>โอเพนจีแอล (เงา)</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>ไม่เลย</item>
@@ -707,7 +707,7 @@
         <item>ไม่มี</item>
         <item>Logcat</item>
         <item>Systrace (กราฟิก)</item>
-        <item>ชุดรายการเรียกใน glGetError</item>
+        <item>สแต็คการเรียกบน glGetError</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>เล็ก</item>
@@ -739,14 +739,14 @@
         <item>ดัง</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>ห้ามใช้การตรวจสอบ HDCP</item>
-        <item>ใช้การตรวจสอบ HDCP สำหรับเนื้อหา DRM เท่านั้น</item>
-        <item>ใช้การตรวจสอบ HDCP เสมอ</item>
+        <item>ไม่ต้องใช้การตรวจสอบ HDCP</item>
+        <item>ใช้ HDCP ตรวจสอบเฉพาะเนื้อหา DRM เท่านั้น</item>
+        <item>ใช้ HDCP ตรวจสอบเสมอ</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>ไม่ต้องตรวจสอบ</item>
-        <item>ตรวจสอบเนื้อหา DRM เท่านั้น</item>
-        <item>ตรวจสอบทุกครั้ง</item>
+        <item>ตรวจสอบสำหรับเนื้อหา DRM เท่านั้น</item>
+        <item>ตรวจสอบเสมอ</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>สีน้ำเงิน</item>
@@ -920,8 +920,8 @@
         <item>1080p (ปลอดภัย)</item>
         <item>4K</item>
         <item>4K (ปลอดภัย)</item>
-        <item>4K (เพิ่มความละเอียด)</item>
-        <item>4K (เพิ่มความละเอียด ปลอดภัย)</item>
+        <item>4K (อัพเกรด)</item>
+        <item>4K (อัพเกรด, ปลอดภัย)</item>
         <item>720p, 1080p (หน้าจอคู่)</item>
     </string-array>
     <string-array name="perm_hips_action">
@@ -1040,42 +1040,42 @@
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>ปิด</item>
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>ปิด</item>
-        <item>64 K ต่อบัฟเฟอร์ไฟล์บันทึก</item>
-        <item>256 K ต่อบัฟเฟอร์ไฟล์บันทึก</item>
-        <item>1 M ต่อบัฟเฟอร์ไฟล์บันทึก</item>
-        <item>4 M ต่อบัฟเฟอร์ไฟล์บันทึก</item>
-        <item>16 M ต่อบัฟเฟอร์ไฟล์บันทึก</item>
+        <item>64K ต่อแต่ละบันทึกบัฟเฟอร์</item>
+        <item>256K ต่อแต่ละบันทึกบัฟเฟอร์</item>
+        <item>1M ต่อแต่ละบันทึกบัฟเฟอร์</item>
+        <item>4M ต่อแต่ละบันทึกบัฟเฟอร์</item>
+        <item>16M ต่อแต่ละบันทึกบัฟเฟอร์</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>ปิด</item>
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-        <item>4 M</item>
-        <item>16 M</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>ปิด</item>
-        <item>บัฟเฟอร์บันทึกทั้งหมด</item>
-        <item>ทั้งหมดยกเว้นบัฟเฟอร์บันทึกวิทยุ</item>
-        <item>เฉพาะบัฟเฟอร์ไฟล์บันทึกเคอร์เนล</item>
+        <item>บันทึกบัฟเฟอร์ทั้งหมด</item>
+        <item>ทั้งหมดไม่ใช่วิทยุยกเว้นบันทึกบัฟเฟอร์</item>
+        <item>เคอร์เนลบันทึกบัฟเฟอร์เท่านั้น</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>ปิด</item>
         <item>ทั้งหมด</item>
-        <item>ทั้งหมดเว้นวิทยุ</item>
-        <item>เฉพาะเคอร์เนล</item>
+        <item>วิทยุยกเว้นทั้งหมด</item>
+        <item>เคอร์เนลเท่านั้น</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>ปิด</item>
-        <item>วาดคลิปที่ไม่ใช่สี่เหลี่ยมด้วยสีฟ้า</item>
-        <item>ไฮไลต์คำสั่งวาดที่ทดสอบด้วยสีเขียว</item>
+        <item>ใช้สีน้ำเงินวาดบริเวณที่ไม่ใช่เหลี่ยม</item>
+        <item>ใช้สีเขียววาดทำให้คำสั่งเด่น</item>
     </string-array>
     <string-array name="silent_mode_duration_text">
         <item>เสมอ</item>
@@ -1099,7 +1099,7 @@
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>ปิด</item>
-        <item>เป็นแถบบนหน้าจอ</item>
+        <item>แสดงเป็นแผนภูมิแท่งบนหน้าจอ</item>
         <item>ใน adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="traffic_balance_entries">
@@ -1109,22 +1109,22 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>ปิดภาพเคลื่อนไหว</item>
-        <item>ภาพเคลื่อนไหวขนาด 0.5 เท่า</item>
-        <item>ภาพเคลื่อนไหวขนาด 1 เท่า</item>
-        <item>ภาพเคลื่อนไหวขนาด 1.5 เท่า</item>
-        <item>ภาพเคลื่อนไหวขนาด 2 เท่า</item>
-        <item>ภาพเคลื่อนไหวขนาด 5 เท่า</item>
-        <item>ภาพเคลื่อนไหวขนาด 10 เท่า</item>
+        <item>ภาพเคลื่อนไหวซูม .5x</item>
+        <item>ภาพเคลื่อนไหวซูม 1x</item>
+        <item>ภาพเคลื่อนไหวซูม 1.5x</item>
+        <item>ภาพเคลื่อนไหวซูม 2x</item>
+        <item>ภาพเคลื่อนไหวซูม 5x</item>
+        <item>ภาพเคลื่อนไหวซูม 10x</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>ช้ามาก</item>
         <item>ช้า</item>
         <item>ปกติ</item>
         <item>เร็ว</item>
-        <item>เร็วขึ้น</item>
+        <item>ค่อนข้างเร็ว</item>
         <item>เร็วมาก</item>
-        <item>เร็ว</item>
-        <item>เร็วมาก</item>
+        <item>อย่างเร็ว</item>
+        <item>อย่างเร็วมาก</item>
         <item>เร็วที่สุด</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
@@ -1133,10 +1133,10 @@
         <item>ชื่อแอปพลิเคชัน</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>การชาร์จ</item>
-        <item>MTP (โปรโตคอลการโอนสื่อ)</item>
-        <item>PTP (โปรโตคอลการโอนรูปภาพ)</item>
-        <item>RNDIS (อีเทอร์เน็ต USB)</item>
+        <item>กำลังชาร์จ</item>
+        <item>MTP (โอนไฟล์)</item>
+        <item>PTP (โอนรูปภาพ)</item>
+        <item>RNDIS (ต่อ USB)</item>
         <item>แหล่งที่มาของเสียง</item>
         <item>MIDI</item>
     </string-array>
@@ -1268,51 +1268,39 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>กำลังสแกน...</item>
+        <item>กำลังสแกน…</item>
         <item>กำลังเชื่อมต่อ…</item>
-        <item>กำลังตรวจสอบความถูกต้อง…</item>
+        <item>กำลังตรวจสอบสิทธิ์…</item>
         <item>กำลังรับที่อยู่ IP…</item>
         <item>เชื่อมต่อแล้ว</item>
-        <item>ระงับไว้</item>
-        <item>กำลังตัดการเชื่อมต่อ...</item>
+        <item>ระงับแล้ว</item>
+        <item>กำลังตัดการเชื่อมต่อ…</item>
         <item>ตัดการเชื่อมต่อ</item>
         <item>ไม่สำเร็จ</item>
-        <item>ถูกบล็อก</item>
-        <item>หลีกเลี่ยงการเชื่อมต่อกับสัญญาณที่ไม่แรงพอชั่วคราว</item>
+        <item>บล็อกแล้ว</item>
+        <item>หลีกเลี่ยงการเชื่อมต่อที่ไม่ดี</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>กำลังสแกน...</item>
-        <item>กำลังเชื่อมต่อไปยัง %1$s...</item>
-        <item>กำลังตรวจสอบสิทธิ์กับ%1$s...</item>
-        <item>กำลังรับที่อยู่ IP จาก %1$s…</item>
-        <item>เชื่อมต่อกับ %1$s แล้ว</item>
-        <item>ระงับไว้</item>
-        <item>กำลังตัดการเชื่อมต่อจาก %1$s</item>
+        <item>กำลังสแกน…</item>
+        <item>กำลังเชื่อมต่อกับ %1$s…</item>
+        <item>การรับรองความถูกต้องด้วย %1$s…</item>
+        <item>ได้รับที่อยู่ IP จาก %1$s…</item>
+        <item>กำลังเชื่อมต่อกับ %1$s</item>
+        <item>ระงับแล้ว</item>
+        <item>กำลังตัดการเชื่อมต่อจาก %1$s…</item>
         <item>ตัดการเชื่อมต่อ</item>
         <item>ไม่สำเร็จ</item>
-        <item>ถูกบล็อก</item>
-        <item>หลีกเลี่ยงการเชื่อมต่อกับสัญญาณที่ไม่แรงพอชั่วคราว</item>
+        <item>บล็อกแล้ว</item>
+        <item>หลีกเลี่ยงการเชื่อมต่อที่ไม่ดี</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>ปิดภาพเคลื่อนไหว</item>
-        <item>ภาพเคลื่อนไหวขนาด 0.5 เท่า</item>
-        <item>ภาพเคลื่อนไหวขนาด 1 เท่า</item>
-        <item>ภาพเคลื่อนไหวขนาด 1.5 เท่า</item>
-        <item>ภาพเคลื่อนไหวขนาด 2 เท่า</item>
-        <item>ภาพเคลื่อนไหวขนาด 5 เท่า</item>
-        <item>ภาพเคลื่อนไหวขนาด 10 เท่า</item>
-    </string-array>
-    <string-array name="device_global_support_face">
-        <item>whyred</item>
-        <item>polaris</item>
-        <item>ysl</item>
-    </string-array>
-    <string-array name="region_support_face">
-        <item>IN</item>
-        <item>ID</item>
-        <item>RU</item>
-        <item>HK</item>
-        <item>TW</item>
+        <item>ภาพเคลื่อนไหวซูม .5x</item>
+        <item>ภาพเคลื่อนไหวซูม 1x</item>
+        <item>ภาพเคลื่อนไหวซูม 1.5x</item>
+        <item>ภาพเคลื่อนไหวซูม 2x</item>
+        <item>ภาพเคลื่อนไหวซูม 5x</item>
+        <item>ภาพเคลื่อนไหวซูม 10x</item>
     </string-array>
 </resources>

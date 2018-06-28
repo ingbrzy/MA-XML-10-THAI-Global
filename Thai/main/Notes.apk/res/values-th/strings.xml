@@ -19,6 +19,11 @@
     <string name="all_terms">%1$s และ %2$s</string>
     <string name="app_name">บันทึก</string>
     <string name="app_widget">บันทึกย่อ</string>
+    <string name="application_icon">ไอคอนแอป</string>
+    <string name="audio_panel_time_counter_default">00:00</string>
+    <string name="audio_toast_file_invalid">ไฟล์เสียงไม่ถูกต้อง</string>
+    <string name="audio_toast_file_undownload">ไฟล์เสียงที่ดาวน์โหลดไม่ครบหรือเสียหาย</string>
+    <string name="audio_toast_network_is_not_available">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="call_folder_name">บันทึกย่อการโทร</string>
     <string name="cancel_alarm_description">ยกเลิกการปลุก</string>
     <string name="cloud_service_state_open_reminder">เปิดการซิงค์กับ Mi คลาวด์ เพื่อซิงค์บันทึก</string>
@@ -35,7 +40,8 @@
     <string name="dlg_check_reminder">ไม่ต้องแสดงอีก</string>
     <string name="dlg_delete_message">กำลังลบ…</string>
     <string name="dlg_hide_message">กำลังซ่อน…</string>
-    <string name="dlg_info_creating_message">กำลังเตรียมข้อความ…</string>
+    <string name="dlg_info_creating_message">กำลังสร้างภาพ…</string>
+    <string name="dlg_info_save_to_gallery_message">บันทึกภาพไปยังคลังภาพ…</string>
     <string name="dlg_message_password_reset">รหัสผ่านบันทึกย่อซ่อนจะถูกแทนที่ด้วยรหัสผ่านป้องกันความเป็นส่วนตัวสำหรับข้อความ, รูปภาพและโฟลเดอร์ซ่อน</string>
     <string name="dlg_message_set_password">รหัสผ่านป้องกันความเป็นส่วนตัวสำหรับข้อความ, รูปภาพและโฟลเดอร์ซ่อน</string>
     <string name="dlg_message_use_privacy_password">ใช้รหัสผ่านป้องกันความเป็นส่วนตัวสำหรับข้อความ, รูปภาพและโฟลเดอร์ซ่อน</string>
@@ -49,7 +55,9 @@
     <string name="dlg_unhide_message">กำลังเลิกซ่อน…</string>
     <string name="done">เสร็จสิ้น</string>
     <string name="edit_header_done_description">เสร็จสิ้น</string>
-    <string name="edit_header_home_description">ย้อนกลับ</string>
+    <string name="edit_header_lock_description">บันทึกที่ซ่อน</string>
+    <string name="empty_folder_import_notes">นำเข้าบันทึก</string>
+    <string name="empty_folder_no_notes">ไม่มีรายการ</string>
     <string name="enable_sync">ซิงค์</string>
     <string name="enable_sync_desc">ซิงค์บันทึกของคุณกับบัญชี Mi ของคุณ (%1$s)?</string>
     <string name="error_contact_not_exist">ไม่มีรายชื่อ</string>
@@ -61,18 +69,23 @@
     <string name="error_send_empty_note_to_weibo">ไม่สามารถส่งบันทึกเปล่าไปยัง Weibo ได้</string>
     <string name="error_unsupport_content">บันทึกนี้มีเนื้อหาที่ไม่รองรับ แตะที่นี่เพื่ออัพเดท</string>
     <string name="error_widget_exist_for_send_to_desktop">บันทึกนี้อยู่บนหน้าจอหลักของคุณอยู่แล้ว</string>
+    <string name="first_enter_custom_folder_hint">คุณสามารถเปลี่ยนชื่อ หรือลบโฟลเดอร์ต่อไปนี้</string>
     <string name="folder_exist">มีชื่อโฟลเดอร์นี้อยู่แล้ว</string>
+    <string name="folder_operation_delete">ลบ</string>
+    <string name="folder_operation_rename">แก้ไขชื่อ</string>
     <string name="force_touch_menu_add">เพิ่มบันทึก</string>
     <string name="format_move_note_out_folder">บันทึกนี้ถูกลบแล้ว</string>
     <string name="format_move_note_to_folder">ย้ายไปยัง %1$s</string>
     <string name="format_move_notes_out_folder">ย้าย %1$s แล้ว</string>
     <string name="format_move_notes_to_folder">ย้าย %1$s ไปยัง %2$s แล้ว</string>
     <string name="hidden_notes_fragment_title">บันทึกซ่อน</string>
+    <string name="hide_arrow_description">ซ่อน</string>
     <string name="hint_cannot_view_hidden_note_content">ไม่สามารถเรียกดูเนื้อหาจากบันทึกย่อที่ซ่อนไว้</string>
     <string name="hint_foler_name">ชื่อ</string>
     <string name="info_note_enter_desktop">เพิ่มในหน้าจอหลักแล้ว</string>
     <string name="loading_text">รอสักครู่…</string>
     <string name="login_sync">เข้าระบบและซิงค์</string>
+    <string name="menu_add_audio_description">เพิ่มบันทึกย่อเสียง</string>
     <string name="menu_add_description">เพิ่มบันทึก</string>
     <string name="menu_add_folder">เพิ่มในโฟลเดอร์</string>
     <string name="menu_add_folder_description">เพิ่มโฟลเดอร์</string>
@@ -94,6 +107,7 @@
     <string name="menu_title_select_folder">เลือกโฟลเดอร์</string>
     <string name="menu_unhide">เลิกซ่อน</string>
     <string name="menu_unstick">เลิกปักหมุด</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">ไม่ใช่ตอนนี้</string>
     <string name="note_alert_expired">หมดอายุแล้ว</string>
     <string name="note_description_content">แอปบันทึก เป็นเครื่องมือที่ยอดเยี่ยมสำหรับการบันทึกไอเดียของคุณ มีการแจ้งเตือนในตัวและซิงค์รายการของคุณกับ Mi คลาวด์ เพื่อให้คุณสามารถเข้าถึงได้ทุกที่ทุกเวลา ตรวจสอบให้แน่ใจว่าคุณรู้และเข้าใจคุณลักษณะเหล่านี้ก่อนที่จะลบแอป</string>
@@ -111,7 +125,7 @@
     <string name="permdesc_accessNote">แอปต้องสงสัยอาจใช้วิธีนี้ในการเข้าถึงข้อมูลส่วนบุคคลของคุณ</string>
     <string name="permlab_accessNote">บันทึกการเข้าถึง</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">ไม่ต้องยืนยันเมื่อมีการลบบันทึกย่อด้วยการใช้ท่าทาง</string>
-    <string name="pref_title_cloud_trash_bin">ลบบันทึกใน Mi คลาวด์</string>
+    <string name="pref_title_cloud_trash_bin">ลบบันทึกใน Mi คลาวด์แล้ว</string>
     <string name="pref_title_common">การตั้งค่าเพิ่มเติม</string>
     <string name="pref_title_font_size">ขนาดอักษร</string>
     <string name="pref_title_note_style">รูปแบบ</string>
@@ -122,7 +136,17 @@
     <string name="refuse_to_open_as_pic_because_of_loading">รอจนกว่าจะโหลดเสร็จและลองใหม่</string>
     <string name="refuse_to_share_as_pic_because_of_content">บันทึกนี้ใหญ่เกินไป ไม่สามารถแชร์ได้</string>
     <string name="rename_folder_dialog_tile">แก้ชื่อโฟลเดอร์</string>
+    <string name="rich_text_bold_description">ตัวหนา</string>
+    <string name="rich_text_center_description">กลาง</string>
+    <string name="rich_text_chooser_title">เลือกสไตล์</string>
+    <string name="rich_text_italic_description">ตัวเอียง</string>
+    <string name="rich_text_right_description">ขวา</string>
+    <string name="rich_text_size_description">ขนาด</string>
+    <string name="rich_text_underline_description">ขีดเส้นใต้</string>
     <string name="root_folder_name">บันทึกด่วน</string>
+    <string name="save_to_gallery_failure_message">บันทึกไม่ได้</string>
+    <string name="save_to_gallery_icon_name">บันทึกไปยังคลังภาพ</string>
+    <string name="save_to_gallery_success_message">บันทึกเรียบร้อยแล้ว</string>
     <string name="search">บันทึก</string>
     <string name="search_hint">ค้นหาบันทึก</string>
     <string name="search_keyword_notes">บันทึกย่อ;ความจำ</string>
@@ -131,7 +155,8 @@
     <string name="search_setting_description">ค้นหาข้อความในบันทึกย่อของคุณ</string>
     <string name="select_account_prompt">ซิงค์บันทึก</string>
     <string name="set_alarm_description">ตั้งการปลุก</string>
-    <string name="snippet_image_stub">[Image]</string>
+    <string name="snippet_audio_stub">บันทึกย่อเสียง</string>
+    <string name="snippet_image_stub">บันทึกย่อภาพ</string>
     <string name="snippet_image_template">[รูป %1$s]</string>
     <string name="sns_action_send">ส่ง</string>
     <string name="sns_choose_quality_high">สูง (%1$s)</string>
@@ -144,7 +169,7 @@
     <string name="sns_hint_content">ป้อนข้อความ</string>
     <string name="sns_hint_title">หัวเรื่อง (ไม่ระบุก็ได้)</string>
     <string name="sns_message_disconnect">เชื่อมต่อเครือข่ายไม่ได้้ กรุณาตรวจสอบการเชื่อมต่อแล้วลองใหม่</string>
-    <string name="sns_title_edit">แก้ไขชื่อเรื่อง</string>
+    <string name="sns_title_edit">แชร์บันทึก</string>
     <string name="sns_title_send">ส่งข้อความ</string>
     <string name="sns_toast_empty">ไม่สามารถส่งข้อความว่างเปล่าได้</string>
     <string name="sns_toast_over_limit">ส่งเป็นรูปภาพแล้ว</string>
@@ -175,14 +200,16 @@
     <string name="toast_reach_text_limit_attachment">ไม่สามารถใส่ไฟล์แนบใหม่ได้เนื่องจากบันทึกยาวเกินไป</string>
     <string name="toast_reach_text_limit_checkbox">ไม่สามารถเพิ่มช่องทำเครื่องหมายได้เนื่องจากบันทึกยาวเกินไป</string>
     <string name="toast_reach_text_limit_truncate">บันทึกนี้ยาวเกินไป ข้อความบางส่วนได้ถูกตัดออก</string>
+    <string name="toast_refuse_to_record_when_in_call">ไม่สามารถใช้คุณลักษณะนี้ในระหว่างการโทรได้</string>
     <string name="toolbar_check_description">เพิ่มช่องทำเครื่องหมาย</string>
     <string name="toolbar_delete_description">ลบบันทึกนี้</string>
     <string name="toolbar_gallery_description">เพิ่มรูปภาพ</string>
-    <string name="toolbar_more_description">เพิ่มเติม</string>
     <string name="toolbar_redo_description">ทำซ้ำ</string>
     <string name="toolbar_share_description">แชร์บันทึกนี้</string>
+    <string name="toolbar_text_description">ลักษณะอักษร</string>
     <string name="toolbar_theme_description">เลือกธีม</string>
     <string name="toolbar_undo_description">เลิกทำ</string>
+    <string name="toolbar_voice_description">เสียง</string>
     <string name="trash_folder_name">ขยะ</string>
     <string name="trash_folder_reminder">บันทึกที่คุณลบจะลบอย่างถาวรใน 30 วัน</string>
     <string name="undo">เลิกทำ</string>
@@ -192,5 +219,6 @@
  - ตั้งค่าการแจ้งเตือน"</string>
     <string name="widget_content_loading">รอสักครู่…</string>
     <string name="widget_havenot_content">แตะเพื่อสร้างบันทึก กดที่วิดเจ็ตค้างไว้เพื่อปรับขนาด</string>
-    <string name="dialog_share_title">แชร์บันทึก</string>
+    <string name="edit_header_home_description">ย้อนกลับ</string>
+    <string name="toolbar_more_description">เพิ่มเติม</string>
 </resources>

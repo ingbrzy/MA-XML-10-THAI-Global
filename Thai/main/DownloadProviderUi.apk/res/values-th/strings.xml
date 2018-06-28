@@ -106,6 +106,7 @@
     <string name="package_filter">แพ็คเกจ</string>
     <string name="other_filter">อื่นๆ</string>
     <string name="xunlei_brand">สนับสนุนโดย Xunlei</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">ตัวช่วยดาวน์โหลด Xunlei</string>
     <string name="turn_off_xunlei_title">ปิดใช้งาน Xunlei</string>
     <string name="turn_off_xunlei_message">การดาวน์โหลดของคุณจะช้าลง</string>
@@ -331,6 +332,8 @@
     <string name="xl_vip_open">ซื้อ</string>
     <string name="xl_vip_pay">จับภาพแนวยาว</string>
     <string name="xl_vip_overdue">หมดอายุ</string>
+    <string name="download_num_size">%1$s | %2$s</string>
+    <string name="app_size">%1$s</string>
     <string name="ad_title">คนเหล่านี้ดาวน์โหลดด้วย  %1$s </string>
     <string name="rank_data_empty">ไม่พบการจัดอันดับ</string>
     <string name="net_error">เชื่อมต่อกับเครือข่ายไม่ได้ ลองใหม่อีกครั้ง</string>

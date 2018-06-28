@@ -137,7 +137,7 @@
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
         <item>ปิด</item>
-        <item>ครึ่งชั่วโมง</item>
+        <item>30 นาที</item>
         <item>1 ชั่วโมง</item>
         <item>2 ชั่วโมง</item>
         <item>8 ชั่วโมง</item>

@@ -57,4 +57,8 @@
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="app_description_title">เกี่ยวกับเข็มทิศ</string>
     <string name="app_description_content">เข็มทิศใช้สำหรับการนำทางและการวางแนวและแสดงทิศทางของคุณ ตรวจสอบให้แน่ใจว่าคุณรับรู้และเข้าใจถึงคุณสมบัติเหล่านี้ก่อนที่คุณจะถอนการติดตั้งแอป</string>
+    <string name="open_perm_msg">เข็มทิศต้องการเข้าถึงข้อมูลตำแหน่งและกล้องถ่ายรูป นี่เป็นสิ่งจำเป็นในการกำหนดพิกัดและแสดงตัวอย่างสด อนุญาตหรือไม่?</string>
+    <string name="open_perm_title">สิทธิ์ที่จำเป็น</string>
+    <string name="cancel">ยกเลิก </string>
+    <string name="allow">อนุญาต</string>
 </resources>

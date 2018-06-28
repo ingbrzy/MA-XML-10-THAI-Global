@@ -113,10 +113,6 @@
     <string name="maml_component_customization_title">การตั้งค่า</string>
     <string name="default_name">ค่าเริ่มต้น</string>
     <string name="resource_select">เลือก</string>
-    <string name="group_name_contacts">รายชื่อ</string>
-    <string name="group_name_friends">เพื่อน</string>
-    <string name="group_name_family">ครอบครัว</string>
-    <string name="group_name_coworkers">เพื่อนร่วมงาน</string>
     <string name="fp_nav_center_action_choose_dlg_title">เปิดใช้งานปุ่มแตะลัด</string>
     <string name="fp_nav_center_action_choose_dlg_msg">คุณสามารถกลับไปที่หน้าจอหลักของคุณด้วยการแตะเบาๆที่ปุ่มโฮม คุณสามารถเปิดปิดคุณลักษณะนี้ได้ในการตั้งค่า > การตั้งค่าเพิ่มเติม > ปุ่ม > แตะปุ่มโฮมเพื่อย้อนกลับหน้าจอหลัก</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">เปิดใช้งาน</string>

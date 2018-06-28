@@ -70,11 +70,11 @@
         <item quantity="other">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> แอปไม่ได้ใช้งานเป็นเวลานาน, จัดการแอปด่วน;&lt;/Data></item>
     </plurals>
     <plurals name="clean_long_msg_p1">
-        <item quantity="other">"กำลังทำความสะอาด %1$d ไฟล์s เสร็จสิ้นแล้ว %2$d ไฟล์ 
+        <item quantity="other">"ทำความสะอาด %1$d ไฟล์ (%2$d%%)
 "</item>
     </plurals>
     <plurals name="clean_long_msg_p2">
-        <item quantity="other">%1$d%% รายการ/วินาที เวลาที่เหลือ:%2$s</item>
+        <item quantity="other">%1$d รายการต่อวินาที | เวลาที่เหลือ: %2$s</item>
     </plurals>
     <plurals name="hour">
         <item quantity="other">%1$d ชั่วโมง</item>

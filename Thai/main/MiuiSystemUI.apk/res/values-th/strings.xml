@@ -419,7 +419,7 @@
     <string name="daltonizer_mode_protanomaly">ตาบอดจางสีแดง (สีแดง/เขียว)</string>
     <string name="daltonizer_mode_tritanomaly">ตาบอดจางสีน้ำเงิน (สีน้ำเงิน/เหลือง)</string>
     <string name="daltonizer_type_overridden">แทนที่โดย %1$s</string>
-    <string name="data_connection_no_internet">ไม่มีอินเตอร์เน็ต</string>
+    <string name="data_connection_no_internet">ไม่ได้เชื่อมต่อกับอินเทอร์เน็ต</string>
     <string name="data_saver">ตัวประหยัดข้อมูล</string>
     <string name="data_usage_disabled_dialog">"ถึงขีดจำกัดข้อมูลที่คุณตั้งไว้แล้ว คุณไม่สามารถใช้ข้อมูลมือถือต่อได้ 
 
@@ -490,9 +490,9 @@
     <string name="drag_to_add_tiles">ลากเพื่อเพิ่มชื่อเรื่อง</string>
     <string name="drag_to_remove_tiles">ลากเพื่อลบออก</string>
     <string name="drive_mode_tip">โหมดขับรถเปิดอยู่</string>
-    <string name="drive_mode_tip_idle">แตะเพื่อออกจากโหมดขับรถ</string>
-    <string name="drive_mode_tip_idle_notch">ออกจากโหมดขับรถ</string>
-    <string name="drive_mode_tip_notch">โหมดขับรถเปิดอยู่</string>
+    <string name="drive_mode_tip_idle">โหมดขับรถเปิดอยู่</string>
+    <string name="drive_mode_tip_idle_notch">โหมดขับรถ</string>
+    <string name="drive_mode_tip_notch">โหมดขับรถ</string>
     <string name="empty_shade_text">ไม่การแจ้งเตือน</string>
     <string name="enable_adb">การแก้ไขข้อบกพร่อง USB</string>
     <string name="enable_adb_summary">โหมดแก้ไขข้อบกพร่องเมื่อเชื่อมต่อ USB</string>
@@ -931,12 +931,13 @@
     <string name="notification_all_categories">หมวดหมู่ทั้งหมด</string>
     <string name="notification_app_settings">ปรับแต่ง: %1$s</string>
     <string name="notification_channel_alerts">แจ้งเตือน</string>
+    <string name="notification_channel_battery">แบตเตอรี่</string>
     <string name="notification_channel_controls_closed_accessibility">ตัวควบคุมการแจ้งเตือนสำหรับ %1$s ปิดอยู่</string>
     <string name="notification_channel_controls_opened_accessibility">ตัวควบคุมการแจ้งเตือนสำหรับ %1$s เปิดอยู่</string>
     <string name="notification_channel_disabled">คุณจะไม่ได้รับการแจ้งเตือนเหล่านี้อีกต่อไป</string>
     <string name="notification_channel_general">ข้อความทั่วไป</string>
     <string name="notification_channel_location">ตำแหน่งพิกัด</string>
-    <string name="notification_channel_screenbutton">ปุ่มบนหน้าจอ</string>
+    <string name="notification_channel_screenbutton">ปุ่ม</string>
     <string name="notification_channel_screenshot">จับภาพหน้าจอ</string>
     <string name="notification_channel_storage">พื้นที่</string>
     <string name="notification_channel_switch_accessibility">อนุญาตการแจ้งเตือนจากช่องสัญญาณนี้</string>
@@ -946,7 +947,7 @@
     <string name="notification_group_collapse_button_text">พับ</string>
     <string name="notification_header_default_channel">การแจ้งเตือน</string>
     <string name="notification_header_title">การแจ้งเตือน</string>
-    <string name="notification_hidden_by_policy_text">ซ่อนเนื้อหาโดยนโยบาย</string>
+    <string name="notification_hidden_by_policy_text">เนื้อหาถูกซ่อนไว้</string>
     <string name="notification_hidden_text">คุณได้รับข้อความใหม่</string>
     <string name="notification_info_channel_disabled_text">คุณไม่ได้รับ %2$s การแจ้งเตือนจาก %1$s</string>
     <string name="notification_info_channel_enabled_text">คุณได้รับ %2$s การแจ้งเตือนจาก %1$s</string>
@@ -1043,6 +1044,7 @@
     <string name="power_remaining_charging_duration_only">อีก %1$s จึงจะชาร์จเต็ม</string>
     <string name="power_remaining_duration_only">อีกประมาณ %1$s</string>
     <string name="power_remaining_duration_only_short">เหลืออีก %1$s</string>
+    <string name="process_kernel_label">ระบบปฏิบัติการของ Android</string>
     <string name="profile_owned_footer">โปรไฟล์อาจได้รับการตรวจสอบ</string>
     <string name="prompt_danger">อันตราย</string>
     <string name="prompt_detecting">กำลังตรวจจับ</string>
@@ -1524,5 +1526,5 @@
     <string name="zen_priority_introduction">คุณจะไม่ถูกรบกวนด้วยเสียงและการสั่น ยกเว้นจากการปลุก การแจ้งเตือน กิจกรรม และผู้โทรที่คุณระบุ คุณยังได้ยินสิ่งที่คุณเลือกที่จะเล่นรวมถึงเพลง วิดีโอ และเกมส์</string>
     <string name="zen_silence_introduction">บล็อกเสียงและการสั่นทั้งหมด รวมทั้งจากการปลุก เพลง วิดีโอ และเกมส์</string>
     <string name="zen_silence_introduction_voice">บล็อกเสียงและการสั่นทั้งหมด รวมทั้งจากการปลุก เพลง วิดีโอ และเกมส์ คุณยังสามารถโทรออกได้</string>
-    <string name="notification_num_channels">%d หมวดหมู่การแจ้งเตือน</string>
+    <string name="notification_num_channels">หมวดหมู่การแจ้งเตือน %d หมวด</string>
 </resources>

@@ -34,10 +34,12 @@
     <string name="pref_front_mirror_title">แสดงกล้องหน้ากลับข้างซ้ายขวา</string>
     <string name="pref_video_quality_title">คุณภาพของวิดีโอ</string>
     <string name="pref_video_hfr_title">วิดีโอ HFR</string>
-    <string name="pref_video_quality_entry_4kuhd">UHD 4K</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080P</string>
-    <string name="pref_video_quality_entry_720p">HD 720P</string>
-    <string name="pref_video_quality_entry_480p">SD 480P</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080P, 30fps</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
+    <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
+    <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
     <string name="pref_video_encoder_title">การเข้ารหัสวิดีโอ</string>
     <string name="pref_video_encoder_entry_h264">ความเข้ากันได้สูง H.264</string>
     <string name="pref_video_encoder_entry_h265">ประสิทธิภาพสูง H.265</string>
@@ -429,6 +431,7 @@
     <string name="portrait_mode_depth_effect_success_hint">หน้าชัดหลังเบลอ</string>
     <string name="portrait_mode_use_hint">"โหมดภาพบุคคลจะทำให้พื้นหลังเบลอ
 และทำให้คนดูเด่นขึ้น"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">รูปสี่เหลี่ยม</string>
     <string name="simple_mode_button_text_square">ปิดใช้รูปสี่เหลี่ยม</string>
     <string name="face_beauty_smart">อัจฉริยะ</string>
@@ -443,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">โหมด</string>
     <string name="button_front_camera_title">ถ่ายเซลฟี่</string>
     <string name="button_normal_video_title">บันทึกวิดีโอ</string>
@@ -535,6 +539,6 @@
     <string name="pref_camera_picturesize_entry_fullscreen">เต็มหน้าจอ 16:9</string>
     <string name="lens_dirty_detected_title_back">เลนส์กล้องหลังสกปรก</string>
     <string name="lens_dirty_detected_title_front">เลนส์กล้องหน้าสกปรก</string>
-    <string name="lens_dirty_detected_content">"ตรวจพบว่าเลนส์กล้องสกปรก
-โปรดทำความสะอาดเลนส์กล้องเพื่อให้ได้ภาพที่ดีขึ้น"</string>
+    <string name="lens_dirty_detected_content">"ดูเหมือนว่าเลนส์กล้องของคุณจะสกปรก
+ทำความสะอาดเลนส์เพื่อให้ถ่ายได้ดีขึ้น"</string>
 </resources>
