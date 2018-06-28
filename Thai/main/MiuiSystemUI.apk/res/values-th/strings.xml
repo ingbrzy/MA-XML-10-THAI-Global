@@ -1044,7 +1044,6 @@
     <string name="power_remaining_charging_duration_only">อีก %1$s จึงจะชาร์จเต็ม</string>
     <string name="power_remaining_duration_only">อีกประมาณ %1$s</string>
     <string name="power_remaining_duration_only_short">เหลืออีก %1$s</string>
-    <string name="process_kernel_label">ระบบปฏิบัติการของ Android</string>
     <string name="profile_owned_footer">โปรไฟล์อาจได้รับการตรวจสอบ</string>
     <string name="prompt_danger">อันตราย</string>
     <string name="prompt_detecting">กำลังตรวจจับ</string>
