@@ -35,8 +35,6 @@
     <string name="mx_sub_dspt_provision_with_voip">การโทรทางอินเทอร์เน็ต</string>
     <string name="phone_number_required_dspt_provision">"การใช้งานบริการนี้ต้องระบุหมายเลขโทรศัพท์ของคุณ "</string>
     <string name="sync_dspt_provision">"ซิงค์รูปภาพ เบอร์โทรติดต่อ บันทึกย่อ และอื่นๆระหว่างอุปกรณ์ต่างๆของคุณได้ที่ "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"คุณสามารถเปิด-ปิดการการใช้งานนี้จากเมนูการตั้งค่าได้ตลอดเวลา
 "</string>
     <string name="sync_dspt_entrance_provision">"ซิงค์รูปภาพ รายชื่อในโทรศัพท์ ประวัติการโทรและข้อความของคุณระหว่างเครื่อง คุณสามารถเข้าถึงสิ่งที่คุณซิงค์ไว้ผ่านเบราว์เซอร์ได้ที่ %s "</string>
@@ -47,8 +45,6 @@
     <string name="sync_dspt_entrance_provision_skip">ข้ามขั้นตอนนี้</string>
     <string name="sync_dspt_entrance_provision_network">แอปนี้ต้องการเชื่อมต่อกับอินเทอร์เน็ตเพื่อทำงานได้ตามปกติ การซิงค์ข้อมูลอาจต้องใช้การเชื่อมต่อข้อมูลมือถือและเปิด Wi-Fi</string>
     <string name="find_device_dspt_provision">ในกรณีที่เครื่องโทรศัพท์ของคุณหาย คุณสามารถเข้าไปที่ %s เพื่อค้นหาพิกัดเครื่อง ทำการล็อกหรือรีเซ็ต โดยคุณสามารถเปิด-ปิดคุณลักษณะนี้ได้ตลอดเวลาในเมนูการตั้งค่า</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">"
 
 หากคุณเปลี่ยนซิมการ์ด ระบบจะส่งข้อความอีกครั้งเพื่อเปิดใช้งานบริการดังกล่าวโดยอัตโนมัติ"</string>
@@ -285,7 +281,6 @@
     <string name="micloud_find_device_opened">การค้นหาอุปกรณ์เปิดใช้งาน</string>
     <string name="micloud_find_device_open_fail">ไม่สามารถปิดใช้การค้นหาอุปกรณ์ได้</string>
     <string name="micloud_find_device_opened_content">ค้นหาอุปกรณ์ของคุณใน %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">ไม่สามารถเปิดใช้งานค้นหาอุปกรณ์อีกครั้งได้</string>
     <string name="micloud_find_device_close_fail">ไม่สามารถปิดใช้งานการค้นหาอุปกรณ์ได้</string>
     <string name="micloud_find_device_finish">เสร็จสิ้น</string>
@@ -351,8 +346,6 @@
     <string name="micloud_main_head_menu_state_close">ปิด</string>
     <string name="micloud_main_head_menu_state_unavailable">ไม่รองรับ</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">ค้นหาอุปกรณ์ไม่พร้อมใช้งานในพื้นที่ทับซ้อน คุณสามารถใช้งานได้ในพื้นที่ปกติ</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">การชำระเงินด้วยลายนิ้วมือ</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>

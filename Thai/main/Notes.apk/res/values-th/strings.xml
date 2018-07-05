@@ -110,7 +110,6 @@
     <string name="menu_title_select_folder">เลือกโฟลเดอร์</string>
     <string name="menu_unhide">เลิกซ่อน</string>
     <string name="menu_unstick">เลิกปักหมุด</string>
-    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">ไม่ใช่ตอนนี้</string>
     <string name="note_description_content">แอปบันทึก เป็นเครื่องมือที่ยอดเยี่ยมสำหรับการบันทึกไอเดียของคุณ มีการแจ้งเตือนในตัวและซิงค์รายการของคุณกับ Mi คลาวด์ เพื่อให้คุณสามารถเข้าถึงได้ทุกที่ทุกเวลา ตรวจสอบให้แน่ใจว่าคุณรู้และเข้าใจคุณลักษณะเหล่านี้ก่อนที่จะลบแอป</string>
     <string name="note_description_title">เกี่ยวกับบันทึก</string>
