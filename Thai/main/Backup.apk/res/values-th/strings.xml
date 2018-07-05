@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"เวอร์ชั่นแนะนำ %1$s
 ขนาด %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">ที่จัดเก็บข้อมูลไม่พร้อมใช้งาน ตรวจสอบ SD การ์ดของคุณ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ไม่สามารถเริ่มการดาวน์โหลดได้ ตรวจสอบให้แน่ใจว่าตัวจัดการการดาวน์โหลดทำงานปกติ</string>
     <string name="app_name">สำรองข้อมูล</string>
     <string name="local_app_name">สำรองข้อมูล</string>
@@ -226,6 +229,7 @@
     <string name="restore_backup">คืนค่า</string>
     <string name="enable_encrypt_description">เข้ารหัส</string>
     <string name="disable_encrypt_description">ไม่ได้เข้ารหัส</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">รอสักครู่…</string>
     <string name="state_mounting">กำลังเข้าถึงพื้นที่จัดเก็บข้อมูลเราเตอร์…</string>
     <string name="abort_backup_confirm">ยังสำรองข้อมูลไม่เสร็จ ยกเลิกหรือไม่?</string>
@@ -249,7 +253,7 @@
     <string name="err_filesystem_mount">ไม่สามารถเข้าถึงพื้นที่จัดเก็บข้อมูลเราเตอร์</string>
     <string name="err_router_disconnected">ตรวจสอบการเชื่อมต่อเราเตอร์ของคุณแล้วลองอีกครั้ง</string>
     <string name="err_router_files_delete">ไม่สามารถลบไฟล์ข้อมูลสำรองบนเราเตอร์ได้</string>
-    <string name="err_acquire_system_service">"Couldn't start system service."</string>
+    <string name="err_acquire_system_service">ไม่สามารถเริ่มต้นบริการระบบได้</string>
     <string name="err_not_allow">ไม่รองรับ</string>
     <string name="err_bakfile_not_exist">ไม่พบไฟล์ข้อมูลสำรองดังกล่าว</string>
     <string name="err_pkg_not_exist">ไม่พบแอป</string>
@@ -452,6 +456,12 @@
     <string name="backup_security_tips_message">แอปบางแอปอาจไม่สามารถสำรองข้อมูลหรือเรียกคืนค่าได้</string>
     <string name="trans_security_tips_title">ความเข้ากันได้ Mi Mover</string>
     <string name="trans_security_tips_message">บางแอปไม่สนับสนุน Mi Mover</string>
+    <string name="trans_cancel_selection_title">อยู่ที่ Mi Mover ต่อ</string>
+    <string name="trans_cancel_selection_message">ถ้าคุณออกจาก Mi Mover การถ่ายโอนข้อมูลจะถูกขัดจังหวะ กรุณารอจนกว่าการโอนจะเสร็จสมบูรณ์</string>
+    <string name="trans_select_notification_title">Mi Mover กำลังทำงาน…</string>
+    <string name="trans_select_notification_message">แตะเพื่อเรียกดู</string>
+    <string name="trans_button_stay">อยู่ต่อ</string>
+    <string name="trans_button_exit">ออก</string>
     <string name="trans_wlan_tips_title">ห้ามปิดใช้งาน Wi-Fi</string>
     <string name="trans_wlan_tips_message">ห้ามปิดใช้งานหรือสลับการเชื่อมต่อ Wi-fi ระหว่างการโอนย้าย. มิฉะนั้น Mi Mover จะไม่สามารถโอนย้ายข้อมูลได้</string>
     <string name="trans_disconnected_tips_title">อุปกรณ์ระยะไกลขาดการเชื่อมต่อ</string>
@@ -528,6 +538,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 คุณต้องสำรองข้อมูลก่อน iCloud"</string>
     <string name="list_footer_tip_title">เคล็ดลับ:</string>
     <string name="import_tip_summary">ข้อกำหนดปัญหาความเข้ากันได้ สำหรับอุปกรณ์ iOS คุณสามารถถ่ายโอนได้เฉเพาะข้อมูลบางส่วนเท่านั้น ตรวจสอบให้แน่ใจว่าคุณได้สำรองข้อมูลก่อนการเริ่มการถ่ายโอน</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">นำเข้า</string>
     <string name="select_empty">เลือกรายการที่จะนำเข้า</string>
     <string name="select_item_summary_wait">กำลังรอ…</string>

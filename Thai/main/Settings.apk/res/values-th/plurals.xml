@@ -124,10 +124,10 @@
         <item quantity="other">รหัส PIN ต้องเป็นตัวเลข %d หลัก</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">รหัส PIN จะต้องน้อยกว่า %d หลัก</item>
+        <item quantity="other">คุณสามารถป้อนได้มากสุด %d ตัว</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">รหัส PIN ต้องเป็นตัวเลข %d หลักขึ้นไป</item>
+        <item quantity="other">ป้อนอย่างน้อย %d ตัว</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">ลากผ่านอย่างน้อย %d จุด ลองใหม่อีกครั้ง</item>

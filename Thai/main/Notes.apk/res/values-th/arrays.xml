@@ -23,12 +23,12 @@
         <item>คุณสามารถใส่ข้อความ ภาพ และบันทึกเสียงในบันทึกย่อของคุณ ไลบรารีที่หลากหลายลักษณะและแบบอักษรจะทำให้การเขียนง่ายดูสวยงาม</item>
         <item>ตรวจสอบรายการและการช่วยเตือนจะช่วยคุณเมื่อคุณต้องการเครื่องมือพื้นฐาน และมีประสิทธิภาพมากขึ้นสำหรับการวางแผนการเดินทางครั้งต่อไปของคุณ</item>
         <item>แชร์บันทึก</item>
-        <item>You can generate scrolling screenshots in Notes automatically, and them share them with your friends.</item>
-        <item>Create &amp; switch between folders</item>
+        <item>คุณสามารถสร้างหน้าจอเลื่อนในบันทึกย่อโดยอัตโนมัติได้ และแบ่งปันกับเพื่อนของคุณได้</item>
+        <item>สร้าง &amp; สลับระหว่างโฟลเดอร์</item>
         <item>กดลูกศรด้านล่างเพื่อสร้างโฟลเดอร์ใหม่ หรือสลับกับที่มีอยู่</item>
     </string-array>
     <string-array name="folder_operations">
-        <item>แก้ไขชื่อ</item>
+        <item>เปลี่ยนชื่อ</item>
         <item>ลบ</item>
     </string-array>
     <string-array name="font_size_names">

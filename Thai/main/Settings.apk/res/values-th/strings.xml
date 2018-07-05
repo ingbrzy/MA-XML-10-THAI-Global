@@ -157,6 +157,7 @@
     <string name="add_device_admin_msg">เปิดใช้งานแอปผู้ดูแลระบบอุปกรณ์ไหม</string>
     <string name="add_facerecoginition_text">เพิ่มข้อมูลใบหน้า</string>
     <string name="add_fingerprint_cancel_button_text">ย้อนกลับ</string>
+    <string name="add_fingerprint_dirty_fingerprint">ตรวจดูให้แน่ใจว่าพื้นผิวของหน้าจอสะอาด ลองบันทึกลายนิ้วมือของคุณอีกครั้ง</string>
     <string name="add_fingerprint_done_msg">คุณสามารถปลดล็อกเครื่องโดยใช้ลายนิ้วมือได้แล้ว</string>
     <string name="add_fingerprint_done_title">เมื่อคุณพร้อมเราก็พร้อม มาลองใช้กัน!</string>
     <string name="add_fingerprint_edge_instruction_msg">ขยับนิ้วมือเล็กน้อยให้สามารถสแกนลายนิ้วมือของคุณได้ครบถ้วน</string>
@@ -165,6 +166,7 @@
     <string name="add_fingerprint_finished_button_text">เสร็จสิ้น</string>
     <string name="add_fingerprint_instruction_msg">เซ็นเซอร์ลายนิ้วมือติดตั้งรวมอยู่ในบริเวณปุ่มโฮมของเครื่อง</string>
     <string name="add_fingerprint_instruction_title">เพิ่มลายนิ้วมือของคุณ</string>
+    <string name="add_fingerprint_move_fast">วางนิ้วของคุณบนหน้าจอสักพัก</string>
     <string name="add_fingerprint_name_suggest_text">ชื่อลายนิ้วมือ</string>
     <string name="add_fingerprint_put_finger_edge_msg">ขยับนิ้วของคุณเล็กน้อยแล้วแตะบนเซ็นเซอร์อีกครั้งเพื่อสแกนลายนิ้วมือของคุณให้ครบทุกส่วน</string>
     <string name="add_fingerprint_put_finger_msg">วางนิ้วมือของคุณลงบนเซ็นเซอร์ซ้ำอีกครั้งและยกนิ้วออกเมื่อมีการสั่น</string>
@@ -1961,17 +1963,17 @@
     <string name="gsm_to_wifi_connect_type_title">GSM สู่ Wi-Fi</string>
     <string name="gxzw_add_fingerprint_continue">ดำเนินการต่อ</string>
     <string name="gxzw_add_fingerprint_edge_message">ขยับนิ้วมือเล็กน้อยให้สามารถสแกนลายนิ้วมือของคุณได้ครบถ้วน</string>
-    <string name="gxzw_add_fingerprint_edge_title">ขยับนิ้วของคุณเล็กน้อย</string>
-    <string name="gxzw_add_fingerprint_finish">เสร็จสิ้น</string>
-    <string name="gxzw_add_fingerprint_indicate">กดที่นี่</string>
+    <string name="gxzw_add_fingerprint_edge_title">ปรับมุมของนิ้ว</string>
+    <string name="gxzw_add_fingerprint_finish">เสร็จเรียบร้อย!</string>
+    <string name="gxzw_add_fingerprint_indicate">กดบริเวณนี้เบาๆ</string>
     <string name="gxzw_add_fingerprint_know">รับทราบ</string>
-    <string name="gxzw_add_fingerprint_message">ให้นิ้วมือและพื้นผิวหน้าจอสะอาด</string>
+    <string name="gxzw_add_fingerprint_message">ตรวจดูให้แน่ใจว่าทั้งนิ้วและหน้าจอของคุณสะอาด</string>
     <string name="gxzw_add_fingerprint_move_indicate">ขยับนิ้วของคุณเล็กน้อย</string>
-    <string name="gxzw_add_fingerprint_move_message">ไม่สามารถบันทึกส่วนที่เหลือของลายนิ้วมือของคุณได้ เลื่อนนิ้วไปเล็กน้อย</string>
+    <string name="gxzw_add_fingerprint_move_message">ขยับนิ้วมือเล็กน้อยให้สามารถสแกนลายนิ้วมือของคุณได้ครบถ้วน</string>
     <string name="gxzw_add_fingerprint_move_title">ขยับนิ้วของคุณเล็กน้อย</string>
-    <string name="gxzw_add_fingerprint_put_finger_message">กดแรงนิดหน่อยและยกนิ้วขึ้นหลังจากที่มีการสั่น ทำซ้ำหลายครั้ง</string>
-    <string name="gxzw_add_fingerprint_put_finger_title">กดหนักขึ้นและยกขึ้นหลังจากการสั่น</string>
-    <string name="gxzw_add_fingerprint_title">เพิ่มลายนิ้วมือ</string>
+    <string name="gxzw_add_fingerprint_put_finger_message">กดและยกนิ้วขึ้นหลังจากที่มีการสั่น ทำซ้ำหลายครั้ง</string>
+    <string name="gxzw_add_fingerprint_put_finger_title">กดและยกขึ้นหลังจากการสั่น</string>
+    <string name="gxzw_add_fingerprint_title">เพิ่มลายนิ้วมือของคุณ</string>
     <string name="handy_mode">โหมดถนัดมือ</string>
     <string name="handy_mode_enable">โหมดถนัดมือ</string>
     <string name="handy_mode_size">ขนาดของจอที่จะย่อลง</string>
@@ -2351,6 +2353,7 @@
     <string name="lockpassword_choose_your_pin_header">ตั้งรหัส PIN ของคุณ</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"ตั้งรหัส PIN 
  สำหรับพื้นที่ทับซ้อน"</string>
+    <string name="lockpassword_choose_your_pin_title">ป้อน 4-16 หลัก</string>
     <string name="lockpassword_confirm_for_second_user">ยืนยันรหัสผ่านพื้นที่ทับซ้อนของคุณ</string>
     <string name="lockpassword_confirm_passwords_dont_match">รหัสผ่านไม่ตรงกัน</string>
     <string name="lockpassword_confirm_pins_dont_match">PIN ไม่ตรงกัน</string>
@@ -2566,6 +2569,7 @@
     <string name="memory_title">ใช้งานได้: %1$s\u0009\u0009ทั้งหมด: %2$s</string>
     <string name="memory_usage">การใช้หน่วยความจำ</string>
     <string name="memory_usage_apps">หน่วยความจำที่แอปใช้</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">ใช้หน่วยความจำเฉลี่ย %1$s ใน 3 ชั่วโมงล่าสุด</string>
     <string name="menu_cancel">ยกเลิก</string>
     <string name="menu_check">ประสบการณ์</string>
@@ -3009,6 +3013,7 @@
     <string name="overlay_display_devices_title">จำลองจอแสดงผลที่สอง</string>
     <string name="overlay_settings">แสดงทับแอปอื่นๆ</string>
     <string name="owner_info_settings_edit_text_hint">เช่น Android ของสมชาย</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">ไม่มี</string>
     <string name="owner_info_settings_title">ลายเซ็นต์หน้าจอล็อก</string>
     <string name="owner_space">พื้นที่ปกติ</string>
@@ -3299,6 +3304,7 @@
     <string name="private_sms_recording_intro_header">วาดรูปแบบเพื่อปลดล็อก:</string>
     <string name="private_sms_reset_by_account">เข้าระบบบัญชี Mi ของคุณเพื่อรีเซ็ตรหัสผ่าน</string>
     <string name="process_dex2oat_label">การเพิ่มประสิทธิภาพแอป</string>
+    <string name="process_kernel_label">ระบบแอนดรอยด์</string>
     <string name="process_provider_in_use_description">ตัวให้บริการ %1$s ถูกใช้งานอยู่</string>
     <string name="process_service_in_use_description">บริการ %1$s ถูกใช้งานอยู่</string>
     <string name="process_stats_bg_ram_use">การใช้ RAM (พื้นหลัง)</string>
@@ -3590,7 +3596,6 @@
     <string name="screen_paper_mode_off_apps_title">ไม่ใช้โหมดการอ่าน</string>
     <string name="screen_paper_mode_range_title">การตั้งค่า</string>
     <string name="screen_paper_mode_set_apps_title">แอปที่ใช้งานโหมดอ่าน</string>
-    <string name="screen_paper_mode_summary">ลดการแผ่รังสีแสงสีฟ้าของจอภาพ</string>
     <string name="screen_paper_mode_time_summary">กำหนดเวลาในการเปิดและปิดโหมดการอ่าน</string>
     <string name="screen_paper_mode_time_title">ตั้งเวลา</string>
     <string name="screen_paper_mode_title">โหมดอ่าน</string>
@@ -4126,6 +4131,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sim_lock_settings_summary_on">ล็อกแล้ว</string>
     <string name="sim_lock_settings_title">ล็อกซิมการ์ด</string>
     <string name="sim_management_title">ซิมการ์ด &amp; เครือข่ายมือถือ</string>
+    <string name="sim_management_title_singlesim">ซิมการ์ด &amp; เครือข่ายมือถือ</string>
     <string name="sim_multi_sims_summary">เลือกซิมที่คุณต้องการใช้อินเทอร์เน็ตมือถือ</string>
     <string name="sim_multi_sims_title">พบหลายซิม</string>
     <string name="sim_name_hint">ป้อนชื่อซิม</string>
@@ -4224,6 +4230,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="status_bar_settings_all_app_display_loading">รอสักครู่…</string>
     <string name="status_bar_settings_app_notification_preferences">การตั้งค่าแอป</string>
     <string name="status_bar_settings_basic_settings">การตั้งค่าพื้นฐาน</string>
+    <string name="status_bar_settings_carrier_sim">"ซิม %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">แก้ไขชื่อเครือข่าย</string>
     <string name="status_bar_settings_custom_wifi_name">แก้ไขชื่อ Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">แสดงการแจ้งเตือน</string>

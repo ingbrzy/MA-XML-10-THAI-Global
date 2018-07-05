@@ -15,6 +15,7 @@
     <string name="hide_touch_assistant_intro">ซ่อนเมนูลัดในแอปที่เลือกไว้</string>
     <string name="hide_when_fullscreen">ย้ายเมนูลัดไปไว้ขอบจอขณะใช้งานแบบเต็มจอ</string>
     <string name="hide_when_fullscreen_intro">ย้ายเมนูลัดไปไว้ขอบจอขณะใช้งานแบบเต็มจอ</string>
+    <string name="mi_wallet_summary">บัตรโดยสาร/Mi Pay/คีย์การ์ด</string>
     <string name="motion_behavior">โหมดการควบคุม</string>
     <string name="name_alipay_payment_code">การชำระเงิน Alipay</string>
     <string name="name_alipay_scan">ตัวสแกน Alipay</string>
@@ -22,6 +23,7 @@
     <string name="name_handy_mode">โหมดถนัดมือ</string>
     <string name="name_long_press_power_key">กดปุ่มเปิด/ปิดค้างไว้</string>
     <string name="name_memory_clean">ล้างแคช</string>
+    <string name="name_mi_wallet">Mi Wallet</string>
     <string name="name_music_next_song">เพลงถัดไป</string>
     <string name="name_music_prev_song">เพลงก่อนหน้า</string>
     <string name="name_music_toggle">เล่น/หยุดเพลง</string>
@@ -53,6 +55,4 @@
     <string name="show_on_keyguard">แสดงบนหน้าจอล็อก</string>
     <string name="theme_manager_not_supported">ไม่รองรับตัวจัดการธีม</string>
     <string name="three_seconds_auto_hide">ย้ายปุ่มลัดไปอยู่ขอบจอเมื่อไม่ได้ใช้งานเป็นเวลา 3 วินาที</string>
-    <string name="mi_wallet_summary">บัตรโดยสาร/Mi Pay/คีย์การ์ด</string>
-    <string name="name_mi_wallet">Mi Wallet</string>
 </resources>

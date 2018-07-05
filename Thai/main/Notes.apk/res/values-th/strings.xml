@@ -4,6 +4,8 @@
     <string name="action_mode_switcher_grid_description">มุมมองมีกรอบ</string>
     <string name="action_mode_switcher_list_description">แสดงรายการ</string>
     <string name="action_settings_description">เปิดการตั้งค่า</string>
+    <string name="actionbar_close_description">Close</string>
+    <string name="actionbar_home_description">Back</string>
     <string name="add_account_desc">ซิงค์บันทึกของคุณกับบัญชี Mi ของคุณ?</string>
     <string name="alarm_bar_title">เตือนความจำ</string>
     <string name="alert_action_edit_anyway">แก้ไขต่อ</string>
@@ -36,15 +38,15 @@
     <string name="dialog_privacy_revoke_tips">หลังจากที่คุณยกเลิกการให้สิทธิ์ แอปจะหยุดรวบรวมข้อมูลและข้อมูลที่เกี่ยวข้องทั้งหมดจะถูกลบออกจากเซิร์ฟเวอร์ ซึ่งอาจทำให้แอปไม่สามารถใช้งานได้ เพิกถอนการให้สิทธิ์หรือไม่? เพื่อความปลอดภัยของบัญชีของคุณให้ลงชื่อเข้าใช้ i.mi.com ก่อนที่จะยกเลิกการให้สิทธิ์สำหรับบริการ Mi คลาวด์</string>
     <string name="dialog_share_as_pic">แชร์บันทึกเป็นรูปภาพ</string>
     <string name="dialog_share_as_text">แชร์บันทึกเป็นข้อความ</string>
-    <string name="dlg_btn_set_password">ตั้งรหัสผ่าน</string>
+    <string name="dlg_btn_set_password">กำหนดรหัสผ่าน</string>
     <string name="dlg_check_reminder">ไม่ต้องแสดงอีก</string>
     <string name="dlg_delete_message">กำลังลบ…</string>
     <string name="dlg_hide_message">กำลังซ่อน…</string>
     <string name="dlg_info_creating_message">กำลังสร้างภาพ…</string>
     <string name="dlg_info_save_to_gallery_message">บันทึกภาพไปยังคลังภาพ…</string>
-    <string name="dlg_message_password_reset">รหัสผ่านบันทึกย่อซ่อนจะถูกแทนที่ด้วยรหัสผ่านป้องกันความเป็นส่วนตัวสำหรับข้อความ, รูปภาพและโฟลเดอร์ซ่อน</string>
-    <string name="dlg_message_set_password">รหัสผ่านป้องกันความเป็นส่วนตัวสำหรับข้อความ, รูปภาพและโฟลเดอร์ซ่อน</string>
-    <string name="dlg_message_use_privacy_password">ใช้รหัสผ่านป้องกันความเป็นส่วนตัวสำหรับข้อความ, รูปภาพและโฟลเดอร์ซ่อน</string>
+    <string name="dlg_message_password_reset">รหัสผ่านบันทึกย่อซ่อนจะถูกแทนที่ด้วยรหัสผ่านป้องกันความเป็นส่วนตัวสำหรับข้อความ รูปภาพและโฟลเดอร์ซ่อน</string>
+    <string name="dlg_message_set_password">รหัสผ่านป้องกันความเป็นส่วนตัวสำหรับข้อความ รูปภาพและโฟลเดอร์ซ่อน</string>
+    <string name="dlg_message_use_privacy_password">ใช้รหัสผ่านป้องกันความเป็นส่วนตัวสำหรับข้อความ รูปภาพและโฟลเดอร์ซ่อน</string>
     <string name="dlg_move_message">กำลังย้าย…</string>
     <string name="dlg_quick_delete_title">ลบด่วน</string>
     <string name="dlg_restore_message">กำลังกู้คืนข้อมูล…</string>
@@ -94,6 +96,7 @@
     <string name="menu_delete_forever">ลบถาวร</string>
     <string name="menu_folders">โฟลเดอร์</string>
     <string name="menu_hide">ซ่อน</string>
+    <string name="menu_more_description">More</string>
     <string name="menu_move_parent_folder">โฟลเดอร์หลัก</string>
     <string name="menu_move_to">ย้ายไปยัง</string>
     <string name="menu_new_folder">โฟลเดอร์ใหม่</string>
@@ -107,8 +110,8 @@
     <string name="menu_title_select_folder">เลือกโฟลเดอร์</string>
     <string name="menu_unhide">เลิกซ่อน</string>
     <string name="menu_unstick">เลิกปักหมุด</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">ไม่ใช่ตอนนี้</string>
-    <string name="note_alert_expired">หมดอายุแล้ว</string>
     <string name="note_description_content">แอปบันทึก เป็นเครื่องมือที่ยอดเยี่ยมสำหรับการบันทึกไอเดียของคุณ มีการแจ้งเตือนในตัวและซิงค์รายการของคุณกับ Mi คลาวด์ เพื่อให้คุณสามารถเข้าถึงได้ทุกที่ทุกเวลา ตรวจสอบให้แน่ใจว่าคุณรู้และเข้าใจคุณลักษณะเหล่านี้ก่อนที่จะลบแอป</string>
     <string name="note_description_title">เกี่ยวกับบันทึก</string>
     <string name="note_link_email">เขียนอีเมล</string>
@@ -194,12 +197,13 @@
     <string name="toast_notes_delete_success">ลบเรียบร้อยแล้ว</string>
     <string name="toast_notes_hidden">ซ่อนเรียบร้อย</string>
     <string name="toast_notes_hidden_count">ซ่อน %1$s เรียบร้อย</string>
-    <string name="toast_notes_unhidden">ซ่อนเรียบร้อย</string>
+    <string name="toast_notes_unhidden">เลิกซ่อนเรียบร้อย</string>
     <string name="toast_notes_unhidden_count">เลิกซ่อน %1$s เรียบร้อย</string>
     <string name="toast_reach_text_limit_attachment">ไม่สามารถใส่ไฟล์แนบใหม่ได้เนื่องจากบันทึกยาวเกินไป</string>
     <string name="toast_reach_text_limit_checkbox">ไม่สามารถเพิ่มช่องทำเครื่องหมายได้เนื่องจากบันทึกยาวเกินไป</string>
     <string name="toast_reach_text_limit_truncate">บันทึกนี้ยาวเกินไป ข้อความบางส่วนได้ถูกตัดออก</string>
     <string name="toast_refuse_to_record_when_in_call">ไม่สามารถใช้คุณลักษณะนี้ในระหว่างการโทรได้</string>
+    <string name="toast_refuse_to_record_when_in_multi_window">"Can't use this feature with Split screen"</string>
     <string name="toolbar_check_description">เพิ่มช่องทำเครื่องหมาย</string>
     <string name="toolbar_delete_description">ลบบันทึกนี้</string>
     <string name="toolbar_gallery_description">เพิ่มรูปภาพ</string>
@@ -218,6 +222,5 @@
  - ตั้งค่าการแจ้งเตือน"</string>
     <string name="widget_content_loading">รอสักครู่…</string>
     <string name="widget_havenot_content">แตะเพื่อสร้างบันทึก กดที่วิดเจ็ตค้างไว้เพื่อปรับขนาด</string>
-    <string name="edit_header_home_description">ย้อนกลับ</string>
-    <string name="toolbar_more_description">เพิ่มเติม</string>
+    <string name="note_alert_expired">หมดอายุแล้ว</string>
 </resources>

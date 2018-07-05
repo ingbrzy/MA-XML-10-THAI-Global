@@ -48,6 +48,10 @@
         <item>โทรศัพท์</item>
         <item>แพด</item>
     </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>มุมมองแนวตั้ง</item>
+        <item>มุมมองแนวนอน</item>
+    </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>เล็กมาก</item>
         <item>เล็ก</item>

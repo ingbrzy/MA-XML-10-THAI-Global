@@ -12,9 +12,6 @@
     <plurals name="Nquit_warning">
         <item quantity="other">ปิดเครื่องเล่นในอีก %d นาที</item>
     </plurals>
-    <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">คุณเลือกที่จะไม่หาปกอัลบั้มและเนื้อเพลงสำหรับเพลงในเครื่องโดยอัตโนมัติ ลบข้อมูลสำหรับ %d เพลง?</item>
-    </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">สร้างเมื่อ %1$s |รวมทั้งหมด %2$d เพลง</item>
     </plurals>
@@ -84,5 +81,8 @@
     </plurals>
     <plurals name="songs_count">
         <item quantity="other">%d เพลง</item>
+    </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">ดู %1$s</item>
     </plurals>
 </resources>

@@ -15,6 +15,12 @@
     <plurals name="find_on_page_matches">
         <item quantity="other">พบ %d รายการ</item>
     </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">Last %d days</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d of %2$d</item>
+    </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">จะสร้างหน้าใหม่โดยอัตโนมัติหลังจาก %d วินาที</item>
     </plurals>
@@ -59,5 +65,11 @@
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">แจ่มใส</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">%d วันที่แล้ว</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">พบ %1$d จาก %2$d</item>
     </plurals>
 </resources>
