@@ -1365,9 +1365,7 @@
     <string name="menu_text_antispam">รายการบล็อก</string>
     <string name="menu_text_license_manager">การอนุญาต</string>
     <string name="menu_text_garbage_cleanup">ทำความสะอาด</string>
-    <string name="menu_text_garbage_cleanup_danger">เกินกว่า %s</string>
     <string name="menu_text_power_manager">การใช้แบตเตอรี่</string>
-    <string name="menu_text_power_percent_title">แบตเตอรี่ %s</string>
     <string name="menu_text_power_percent_title_default">แบตเตอรี่</string>
     <string name="last_check_canceled">การสแกนครั้งล่าสุดถูกยกเลิก</string>
     <string name="examination_score_100">ไม่พบสิ่งผิดปกติ!</string>

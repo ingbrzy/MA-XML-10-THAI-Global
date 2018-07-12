@@ -101,7 +101,6 @@
     <string name="incompatible_dialog_ok">รับทราบ</string>
     <string name="incompatible_dialog_title">ปัญหาความเข้ากันได้</string>
     <string name="is_setting_wallpaper_message">กำลังตั้งค่าภาพพื้นหลัง…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">การปลุก</string>
     <string name="item_resource_audio_optional_color_ring">เสียงเรียกกลับ</string>
     <string name="item_resource_audio_optional_notification_ring">การแจ้งเตือน</string>
@@ -294,7 +293,6 @@
     <string name="resource_pack_price_info">ราคาปกติ: %1$s</string>
     <string name="resource_pack_warning">คุณได้ซื้อส่วนประกอบ %1$d ส่วนในธีมนี้ไปแล้ว แนะนำให้ซื้อแต่ละส่วนที่เหลือแยกกันจะถูกกว่าซื้อทั้งธีม</string>
     <string name="resource_present">ของขวัญ</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">ฟรี</string>
     <string name="resource_price_unit"> Mi เครดิต</string>
     <string name="resource_purchase_common_error">เกิดข้อผิดพลาด ลองอีกครั้งในภายหลัง</string>
