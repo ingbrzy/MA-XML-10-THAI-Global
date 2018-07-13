@@ -68,7 +68,6 @@
     <string name="accessibility_wifi_two_bars">สัญญาณ Wi-Fi 2 ขีด</string>
     <string name="accessibility_wifi_three_bars">สัญญาณ Wi-Fi 3 ขีด</string>
     <string name="accessibility_wifi_signal_full">สัญญาณ Wi-Fi เต็ม</string>
-    <string name="process_kernel_label">ระบบปฏิบัติการของ Android</string>
     <string name="data_usage_uninstalled_apps">แอปพลิเคชันที่นำออก</string>
     <string name="data_usage_uninstalled_apps_users">แอปพลิเคชันและผู้ใช้ที่นำออก</string>
     <string name="tether_settings_title_usb">ปล่อยสัญญาณผ่าน USB</string>

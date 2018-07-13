@@ -130,7 +130,6 @@
     <string name="continue_backup">ดำเนินต่อ</string>
     <string name="cp_info_first">"บริการสตรีมเพลงออนไลน์
 ให้บริการโดย Ultimate Inc."</string>
-    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">สร้างรายการสั่งซื้อไม่ได้ ลองอีกครั้ง</string>
     <string name="create_playlist">สร้างรายการเพลง</string>
     <string name="create_playlist_failure">สร้างรายการเพลงไม่ได้</string>
@@ -227,7 +226,6 @@
     <string name="download_method">ดาวน์โหลด</string>
     <string name="download_no_application_title">ไม่สามารถเปิดไฟล์ได้</string>
     <string name="download_paused_in_power_save_mode">การดาวน์โหลดจะถูกหยุดขณะอยู่ในโหมดประหยัดแบตเตอรี่</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">กำลังดาวน์โหลด…</string>
     <string name="download_quality">คุณภาพการดาวน์โหลด</string>
     <string name="download_quality_summary">การตั้งค่าเพิ่มเติมสำหรับเพลงที่ดาวน์โหลด</string>
@@ -596,7 +594,6 @@
     <string name="priority_storage">เก็บไว้ใน SD การ์ดภายนอก</string>
     <string name="priority_storage_summary">ดาวน์โหลดเก็บไว้ใน SD การ์ดภายนอกโดยอัตโนมัติถ้ามี</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">อนุญาตให้มีการเปลี่ยนแปลงการตั้งค่าระบบ</string>
     <string name="pulluprefreshrecyclerview_loading_error">ไม่สามารถโหลดได้</string>
@@ -706,7 +703,6 @@
     <string name="start_to_check_new_version">กำลังตรวจสอบเพื่ออัพเดต…</string>
     <string name="start_to_download">กำลังดาวน์โหลด…</string>
     <string name="start_to_play">เล่น</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop">หยุด</string>
     <string name="stop_backup">หยุด</string>
     <string name="storage_internal">ที่จัดเก็บภายใน</string>
@@ -768,7 +764,6 @@
     <string name="upgrade_music_message">ไฟล์อัพเดทพร้อมแล้ว รีสตาร์ทเพื่ออัพเดท</string>
     <string name="upgrading_in_backstage">กำลังอัปเดตในพื้นหลัง…</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">เวอร์ชั่น</string>
     <string name="video_play_cellular">อุปกรณ์ของคุณไม่ได้เชื่อมต่อกับ Wi-fi ใช้ข้อมูลมือถือหรือไม่?</string>
     <string name="video_replay_btn">เล่นอีกครั้ง</string>
