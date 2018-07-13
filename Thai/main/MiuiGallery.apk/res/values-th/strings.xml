@@ -54,6 +54,7 @@
     <string name="album_name_people">บุคคล</string>
     <string name="album_name_recent_discovery">ล่าสุด</string>
     <string name="album_name_tags">จัดหมวดหมู่</string>
+    <string name="album_notes">บันทึกย่อ</string>
     <string name="album_others_share_baby_info_format">อัลบั้มลูกจาก %s</string>
     <string name="album_others_share_info_format">จาก %s</string>
     <string name="album_owner_share">แชร์แล้ว</string>
@@ -373,7 +374,6 @@
     <string name="enable_cloud_for_sharing">เปิดใช้อัลบั้ม Mi คลาวด์เพื่อดูรูปภาพที่แชร์</string>
     <string name="enable_face_album_summary">จัดเรียงรูปภาพตามบุคคลในภาพโดยอัตโนมัติ</string>
     <string name="enable_face_album_title">เรียงตามบุคคล</string>
-    <string name="enabling_face_feature">รอสักครู่…</string>
     <string name="enter_choice_mode">เข้าสู่แชร์สนทนา</string>
     <string name="enter_email_hint">ใส่ที่อยู่อีเมล</string>
     <string name="error_album_not_exist">ไม่มีอัลบั้ม</string>
@@ -446,7 +446,6 @@
     <string name="exit_video_play">ออก</string>
     <string name="expand_desc">เพิ่มเติม</string>
     <string name="expand_people">แสดงบุคคลเพิ่มเติม</string>
-    <string name="face_album_detecting_tip">รอสักครู่…</string>
     <string name="face_album_empty">"มีภาพถ่ายไม่เพียงพอที่จะยืนยันบุคคลได้
 ถ่ายภาพเพื่อนของคุณเพิ่ม!"</string>
     <string name="face_album_empty_syncing">กำลังซิงค์ข้อมูล กรุณารอสักครู่</string>
@@ -454,7 +453,6 @@
     <string name="face_album_long_tap_tip">สำหรับการเลือกหลายรายชื่อหรือเปลี่ยนการตั้งค่าของกลุ่ม ให้กดที่รูปประจำตัวค้างไว้</string>
     <string name="face_album_new_name_hint">ชื่อใหม่</string>
     <string name="face_album_not_named">ไม่มีชื่อ</string>
-    <string name="face_album_pending_enable_tip">ระบบจะจัดเรียงภาพเมื่อเชื่อมต่อกับเครือข่าย Wi-Fi</string>
     <string name="face_album_rename_hint">ป้อนชื่อบุคคล</string>
     <string name="face_album_title">รูปภาพของ %s</string>
     <string name="face_album_use_tip">จัดเรียงรูปภาพตามบุคคลในภาพโดยอัตโนมัติ</string>
@@ -465,6 +463,7 @@
     <string name="face_name_edit">แก้ไข</string>
     <string name="face_name_input">ป้อนชื่อ</string>
     <string name="face_recommend">ข้อเสนอแนะ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">ดำเนินการไม่เสร็จสิ้น</string>
     <string name="fail_to_pick_email">ที่อยู่อีเมลไม่ถูกต้อง</string>
     <string name="fail_to_sync_album">ไม่สามารถซิงค์อัลบั้ม ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองใหม่อีกครั้ง</string>
@@ -472,7 +471,10 @@
     <string name="fancy_color_desc">สี</string>
     <string name="fast_share_auto_render">โหมดฟรุ๊งฟริ๊ง</string>
     <string name="fast_share_auto_render_finish">ใช้โหมดฟรุ๊งฟริ๊งอยู่</string>
-    <string name="feature_guidance_photo_effects">เอ็ฟเฟคท์รูปภาพ</string>
+    <string name="feature_guidance_photo_effects">"เอฟเฟ็กต์​ภาพถ่ายใหม่
+พร้อมใช้งาน"</string>
+    <string name="feature_guidance_video_editor_smart_effects">เอฟเฟ็กต์​ใหม่พร้อมใช้งาน</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">ความทรงจำ</string>
     <string name="filter_bi_mono">โมโน</string>
     <string name="filter_bi_pink">ชมพู</string>
@@ -541,6 +543,7 @@
     <string name="gif_tip">ไฟล์ GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">ตั้งค่า</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"คลังภาพต้องการเข้าถึง 
 %s
  เพื่อให้ทำงานได้ตามปกติ แตะ \"ตั้งค่า\" เพื่อไปยังการอนุญาต"</string>
@@ -736,6 +739,7 @@
     <string name="people_mark_mode_title_no_mark_name">เลือกสักคน</string>
     <string name="people_page_label">บุคคล</string>
     <string name="people_page_unname">ไม่มีชื่อ</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">รูปภาพสัตว์เลี้ยง</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">รูปภาพ</string>
@@ -810,7 +814,13 @@
     <string name="photo_print_package_installing">กำลังโหลดปลั๊กอิน…</string>
     <string name="photo_save_to_msg">บันทึกไปยัง %s แล้ว</string>
     <string name="photomovie_audio_custom">ในเครื่อง</string>
+    <string name="photomovie_audio_default">หน่วยความจำ</string>
+    <string name="photomovie_audio_kawaii">โรแมนติก</string>
+    <string name="photomovie_audio_light">บัลลาด</string>
+    <string name="photomovie_audio_linear">ร็อค</string>
     <string name="photomovie_audio_none">ไม่มี</string>
+    <string name="photomovie_audio_soft">อูคูเลเล่</string>
+    <string name="photomovie_audio_sport">เทคโน</string>
     <string name="photomovie_cancel_download">ยกเลิก </string>
     <string name="photomovie_delete_disable">คุณต้องมีอย่างน้อย 3 รูปเพื่อสร้างคลิป</string>
     <string name="photomovie_download">ดาวน์โหลด</string>
@@ -832,6 +842,11 @@
     <string name="photomovie_tab_music">เพลง</string>
     <string name="photomovie_tab_template">แบบเริ่มต้น</string>
     <string name="photomovie_template_default">สโล</string>
+    <string name="photomovie_template_kawaii">เสน่ห์</string>
+    <string name="photomovie_template_light">ลมโชย</string>
+    <string name="photomovie_template_linear">เดินทาง</string>
+    <string name="photomovie_template_soft">วัยรุ่น</string>
+    <string name="photomovie_template_sport">แรง</string>
     <string name="pick_from_contact">เลือกจากรายชื่อผู้ติดต่อ</string>
     <string name="pick_too_many_recipients">ผู้รับมากเกินไป</string>
     <string name="picker_cancel_download">ยกเลิกการดาวน์โหลด</string>
@@ -844,6 +859,7 @@
     <string name="picker_image_will_download">%d รูปภาพที่เลือกไว้ไม่ได้อยู่บนอุปกรณ์ กำลังจะดาวน์โหลด</string>
     <string name="picker_no_network_message">เชื่อมต่อกับเครือข่ายเพื่อดาวน์โหลด</string>
     <string name="picker_origin_need_download">%1$d รูปภาพที่เลือกไว้ (%2$dMB) ไม่อยู่บนอุปกรณ์ ดาวน์โหลดด้วยข้อมูลมือถือหรือไม่?</string>
+    <string name="picker_origin_request_progress_message">กำลังเตรียมไฟล์​ต้นฉบับ (%1$d/%2$d)…</string>
     <string name="picker_title_format">เลือก %1$d - %2$d รูป</string>
     <string name="picker_title_selection_format">รูปภาพที่เลือกไว้: %d</string>
     <string name="picker_title_selection_format_multiple">เลือก %1$d - %2$d รูป (%3$d)</string>
@@ -957,12 +973,12 @@
     <string name="search_net_error">เกิดข้อผิดพลาดเกี่ยวกับเครือข่าย เชื่อมต่อเครือข่ายอื่นและลองอีกครั้ง</string>
     <string name="search_request_applied">ใช้งานแล้ว</string>
     <string name="search_request_open">เข้าร่วมทีมทดสอบ</string>
+    <string name="search_request_requesting">ใช้งานแล้ว กรุณารอสักครู่ก่อนที่คุณจะเริ่มต้น</string>
     <string name="search_result_empty">ไม่พบข้อมูล</string>
     <string name="search_retry">ลองอีกครั้ง</string>
     <string name="search_select_network">เลือกเครือข่าย</string>
     <string name="search_set_network_connection">การตั้งค่าเครือข่าย</string>
     <string name="search_setting_sub_title">ค้นหาบุคคล สถานที่ และเวลาบนรูปภาพของคุณ</string>
-    <string name="search_setting_sub_title_open">ใช้งานแล้ว กรุณารอสักครู่ก่อนที่คุณจะเริ่มต้น</string>
     <string name="search_setting_title">สืบค้นรูปภาพจากคลังภาพ</string>
     <string name="search_syncing">กำลังซิงค์ข้อมูล กรุณารอสักครู่</string>
     <string name="search_title_album">อัลบั้ม</string>
@@ -975,6 +991,9 @@
     <string name="search_title_recommend">แนะนำ</string>
     <string name="search_title_suggestion">ข้อเสนอแนะ</string>
     <string name="search_title_tag">สิ่งของ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">กำลังมองหาโปรเจคเตอร์…</string>
     <string name="secret_album_card_description">ที่ที่ดีที่สุดสำหรับความลับทั้งหมดของคุณ</string>
     <string name="secret_album_card_title">เปิดอัลบั้มที่ซ่อนไว้</string>
@@ -992,6 +1011,7 @@
     <string name="secret_reason_too_large">ไฟล์ใหญ่เกินไป</string>
     <string name="secret_reason_type_not_support">ไม่รองรับไฟล์ชนิดดังกล่าว</string>
     <string name="secret_reason_unknow_reasons">ขัดข้องไม่ทราบสาเหตุ</string>
+    <string name="secret_reason_video_not_support">ไม่สามารถเพิ่มไปยังอัลบั้มที่ซ่อนได้</string>
     <string name="see_ignore_faces">เรียกดูบุคคลที่คุณละเว้น</string>
     <string name="select_item_face">"บุคคลนี้คือ '%s'?"</string>
     <string name="select_origin_tip">ไฟล์ต้นฉบับ (%s)</string>
@@ -1205,7 +1225,7 @@
     <string name="video_editor_smart_effect_fastslow">เคลื่อนไหว</string>
     <string name="video_editor_smart_effect_freesze">หยุดการเคลื่อนไหว</string>
     <string name="video_editor_smart_effect_halo">รัศมี</string>
-    <string name="video_editor_smart_effect_high_iframes_text">เอฟเฟ็กต์นี้ทำงานได้ดีกับวิดีโออัตราเฟรมสูง</string>
+    <string name="video_editor_smart_effect_high_iframes_text">เอฟเฟ็กต์​ดีที่สุดสำหรับวิดีโอ 120 fps</string>
     <string name="video_editor_smart_effect_movie">ภาพยนตร์</string>
     <string name="video_editor_smart_effect_none">ไม่</string>
     <string name="video_editor_smart_effect_radical">รื่นเริง</string>
@@ -1233,6 +1253,7 @@
     <string name="video_editor_unsupport_audio_file">ไม่รองรับไฟล์เสียง</string>
     <string name="video_editor_unzip_file_fail">ไม่สามารถเลิกแพ็กวิดีโอได้</string>
     <string name="video_editor_video_is_short">ไม่สามารถแก้ไขวิดีโอนี้ได้</string>
+    <string name="video_editor_video_loading">กำลัง​เตรียม​วีดีโอ​ กรุณารอสักครู่​และลองอีกครั้ง</string>
     <string name="video_editor_watermark">ลายน้ำ</string>
     <string name="video_err">ไม่สามารถเล่นวีดีโอได้</string>
     <string name="video_not_exist">ไม่มีวิดีโอ</string>
@@ -1241,8 +1262,8 @@
     <string name="view_by_gallery_tip">คลังภาพ MIUI</string>
     <string name="view_face_album">ดูอัลบั้ม</string>
     <string name="view_more_face_desc">เรียกดูบุคคลเพิ่มเติม</string>
-    <string name="view_queuing_status">ตรวจสอบสถานะ</string>
     <string name="voice_assistant">ป้อนด้วยเสียง</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">ยินดีต้อนรับสู่ Mi คลาวด์</string>
     <string name="where_is_barcode">รหัส QR อยู่ที่ไหน?</string>
     <string name="who_is_this">บุคคลนี้คือใคร?</string>

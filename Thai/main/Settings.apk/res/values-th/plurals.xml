@@ -218,6 +218,9 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">ยังเหลืออีก %1$d ขั้นตอนในการส่งรายงานปัญหา</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">เพี่ยงแค่ %1$d ขั้นตอนเพื่อรีเซ็ตเป็นค่าเริ่มต้นจากโรงงาน</item>
+    </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d แอปใช้อินเทอร์เน็ตได้ไม่จำกัด</item>
         <item quantity="one">1 แอปใช้อินเทอร์เน็ตได้ไม่จำกัด</item>

@@ -91,6 +91,7 @@
     <string name="hints_apk_header_left">แพ็คเกจ</string>
     <string name="hints_residual_header_left">ไฟล์ตกค้าง</string>
     <string name="hints_memory_header_left">หน่วยความจำ</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ไฟล์ใหญ่: %d</string>
     <string name="hints_installed_apps_header_left">แอปที่ติดตั้งไว้: %d</string>
     <string name="toast_resolve_apk_error">แก้ไขข้อผิดพลาดไฟล์ APK</string>
@@ -298,6 +299,7 @@
     <string name="downloading">กำลังดาวน์โหลด</string>
     <string name="installing">กำลังติดตั้ง</string>
     <string name="start_install">ติดตั้งตอนนี้</string>
+    <string name="empty">" "</string>
     <string name="open_browser">เปิดด้วยเบราว์เซอร์</string>
     <string name="title_share_link">แชร์ลิงก์ URL</string>
     <string name="connecting">กำลังเชื่อมต่อ…</string>
@@ -528,4 +530,28 @@
     <string name="wechat_msg_time_long">dd-MM-yyyy</string>
     <string name="wechat_msg_time_short">dd-MM</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
+    <string name="main_total_garbage">ขยะทั้งหมด</string>
+    <string name="whatsapp_group_image">รูปภาพ</string>
+    <string name="whatsapp_group_video">วิดีโอ</string>
+    <string name="whatsapp_group_voice">เสียง</string>
+    <string name="whatsapp_group_audio">ดนตรี</string>
+    <string name="whatsapp_group_wallpaper">ภาพพื้นหลัง</string>
+    <string name="whatsapp_group_gif">GIF</string>
+    <string name="whatsapp_group_document">เอกสาร</string>
+    <string name="whatsapp_btn_quick_cleanup">ทำความสะอาด %s</string>
+    <string name="whatsapp_type_image_send">ส่งรูปภาพ</string>
+    <string name="whatsapp_type_image_recv">รับรูปภาพ</string>
+    <string name="whatsapp_type_document_send">ส่งไฟล์</string>
+    <string name="whatsapp_type_document_recv">ไฟล์ที่ได้รับ</string>
+    <string name="whatsapp_file_show_order">วันนี้</string>
+    <string name="whatsapp_clean_exit_confirm_title">หยุดการสแกนล้างข้อมูล WhatsApp</string>
+    <string name="whatsapp_clean_exit_confirm_msg">หยุดการสแกน</string>
+    <string name="whatsapp_clean_exit_confirm_cancel">ยกเลิก </string>
+    <string name="whatsapp_clean_exit_confirm_ok">ตกลง</string>
+    <string name="whatsapp_content_empty">ไม่มีไฟล์ที่จะล้าง</string>
+    <string name="whatsapp_delete_confirm_message">ลบ?</string>
+    <string name="whatsapp_delete_done">ทุกอย่างเสร็จเรียบร้อย!</string>
+    <string name="whatsapp_title">ทำความสะอาด whatsapp</string>
+    <string name="whatsapp_function_title">ทำความสะอาด whatsapp</string>
+    <string name="whatsapp_function_summery">ล้างไฟล์ขยะ WhatsApp</string>
 </resources>

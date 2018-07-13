@@ -68,6 +68,7 @@
     <string name="accessibility_wifi_two_bars">สัญญาณ Wi-Fi 2 ขีด</string>
     <string name="accessibility_wifi_three_bars">สัญญาณ Wi-Fi 3 ขีด</string>
     <string name="accessibility_wifi_signal_full">สัญญาณ Wi-Fi เต็ม</string>
+    <string name="process_kernel_label">ระบบปฏิบัติการของ Android</string>
     <string name="data_usage_uninstalled_apps">แอปพลิเคชันที่นำออก</string>
     <string name="data_usage_uninstalled_apps_users">แอปพลิเคชันและผู้ใช้ที่นำออก</string>
     <string name="tether_settings_title_usb">ปล่อยสัญญาณผ่าน USB</string>
@@ -406,7 +407,7 @@
     <string name="can_not_dial_vt_while_voice_prompt">ไม่สามารถวิดีโอคอลได้ขณะอยู่ระหว่างการโทร (เสียง)</string>
     <string name="voice_dial_out">โทร (เสียง)</string>
     <string name="notification_AllMissedCallTitle">สายที่ไม่ได้รับทั้งหมด</string>
-    <string name="close">ปิด</string>
+    <string name="close">ปิดใช้งาน</string>
     <string name="callFailed_simError">ซิมการ์ดผิดพลาด</string>
     <string name="incall_error_supp_service_unknown">ไม่รองรับบริการดังกล่าว</string>
     <string name="incall_error_power_off">ปิดใช้งานโหมดเครื่องบินเพื่อทำการโทร</string>

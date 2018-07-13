@@ -34,7 +34,9 @@
     <string name="alert_reminder_expired">หมดอายุแล้ว</string>
     <string name="alert_title">การแจ้งเตือนปฏิทิน</string>
     <string name="anniversary_event_title">ครบรอบปี: %1$s</string>
+    <string name="anniversary_secondary_tag">ครบรอบปี</string>
     <string name="app_label">ปฏิทิน</string>
+    <string name="birthday_born">วันเกิด</string>
     <string name="birthday_calendar_display_name">การแจ้งเตือนวันเกิด</string>
     <string name="birthday_event_description_a_week_ago">สัปดาห์ก่อน</string>
     <string name="birthday_event_description_a_week_later">อีกหนึ่งสัปดาห์</string>
@@ -74,6 +76,7 @@
     <string name="countdown_event_title">นับถอยหลัง: %1$s</string>
     <string name="countdown_notify_before_3_day_title">นับถอยหลัง: %1$s ใน 3 วัน</string>
     <string name="countdown_notify_title">นับถอยหลัง: %1$s</string>
+    <string name="countdown_secondary_tag">นับถอยหลัง</string>
     <string name="countdown_today">วันนี้</string>
     <string name="create_an_account_desc">"ปฏิทินใช้งานได้ดีกับ บัญชี Mi 
 
@@ -120,6 +123,7 @@
     <string name="edit_event_birthday_import_from_contact">นำเข้าวันเกิดจากรายชื่อ</string>
     <string name="edit_event_birthday_name_empty_hint">ป้อนชื่อ</string>
     <string name="edit_event_birthday_name_hint">ชื่อ</string>
+    <string name="edit_event_birthday_reminder_3_days_before">เตือนล่วงหน้า 3 วัน</string>
     <string name="edit_event_birthday_reminder_time">เวลาที่แจ้งเตือน</string>
     <string name="edit_event_calendar_label">ปฏิทิน</string>
     <string name="edit_event_choose_date">เลือกวันที่</string>
@@ -180,6 +184,10 @@
     <string name="global_football_final">รอบชิง</string>
     <string name="global_football_no_match">ไม่มีกำหนดการแข่งขันฟุตบอลในวันนี้</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="guide_card_import">นำเข้า</string>
+    <string name="guide_card_primary_text">นำเข้าวันเกิดของเพื่อน</string>
+    <string name="guide_card_second_text">ไม่พลาดวันสำคัญ</string>
+    <string name="guide_card_title">นำเข้าวันเกิด</string>
     <string name="hint_attendees">แขก</string>
     <string name="hint_description">รายละเอียด</string>
     <string name="hint_what">ชื่อกำหนดการ</string>
@@ -417,12 +425,4 @@
     <string name="xiaomi_calendar_display_name">ปฏิทินบัญชี Mi</string>
     <string name="yearly">ประจำทุกปี (ทุกวันที่ %s ของทุกปี)</string>
     <string name="yearly_plain">ทุกปี</string>
-    <string name="anniversary_secondary_tag">ครบรอบปี</string>
-    <string name="birthday_born">วันเกิด</string>
-    <string name="countdown_secondary_tag">นับถอยหลัง</string>
-    <string name="edit_event_birthday_reminder_3_days_before">เตือนล่วงหน้า 3 วัน</string>
-    <string name="guide_card_import">นำเข้า</string>
-    <string name="guide_card_primary_text">นำเข้าวันเกิดของเพื่อน</string>
-    <string name="guide_card_second_text">ไม่พลาดวันสำคัญ</string>
-    <string name="guide_card_title">นำเข้าวันเกิด</string>
 </resources>

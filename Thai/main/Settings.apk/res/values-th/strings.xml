@@ -902,6 +902,16 @@
     <string name="brightness_title">ความสว่าง</string>
     <string name="bt_hci_snoop_log">จัดเก็บบันทึกการใช้บลูทูธ HCI</string>
     <string name="bt_hci_snoop_log_summary">บันทึกแพ็คเกจบลูทูธ HCI ทั้งหมดเป็นไฟล์</string>
+    <string name="bt_ldac_declaration">เมื่ออุปกรณ์บลูทูธสนับสนุน LDAC ระบบจะเชื่อมต่อโดยค่าเริ่มต้น LDAC ให้ประสบการณ์ด้านเสียงที่มีคุณภาพสูงขึ้น แต่อาจสิ้นเปลืองพลังงานมากขึ้นเช่นกัน การเล่นอาจเกิดข้อผิดพลาดได้เนื่องจากข้อจำกัดด้านฮาร์ดแวร์บลูทูธ</string>
+    <string name="bt_ldac_dialog_summary">"LDAC มอบประสบการณ์ด้านเสียงที่มีคุณภาพสูง แต่อาจสิ้นเปลืองพลังงานมากขึ้นเช่นกัน
+คุณสามารถปิดคุณลักษณะนี้ได้ใน [Settings]"</string>
+    <string name="bt_ldac_dialog_title">อุปกรณ์ปัจจุบันสนับสนุน LDAC ซึ่งได้รับการเชื่อมต่อโดยค่าเริ่มต้น:</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC ให้ประสบการณ์ด้านเสียงที่มีคุณภาพสูงขึ้น แต่อาจสิ้นเปลืองพลังงานมากขึ้นเช่นกัน การเล่นอาจเกิดข้อผิดพลาดได้เนื่องจากข้อจำกัดด้านฮาร์ดแวร์บลูทูธ</string>
+    <string name="bt_ldac_open_dialog_title">คุณแน่ใจที่จะเปิด LDAC หรือไม่?</string>
+    <string name="bt_ldac_pre_summary">ให้ประสบการณ์ด้านเสียงคุณภาพสูง</string>
+    <string name="bt_ldac_property">แอตทริบิวต์</string>
+    <string name="bt_ldac_remember_choice">จดจำตัวเลือกนี้</string>
+    <string name="bt_ldac_settings">การตั้งค่า</string>
     <string name="bt_rarely_used_device_title">ใช้อุปกรณ์น้อยมาก (%d)</string>
     <string name="bt_trace_log">จัดเก็บบันทึกเส้นทางบลูทูธ</string>
     <string name="bt_trace_log_summary">จัดเก็บบันทึกเส้นทางบลูทูธ</string>
@@ -1841,6 +1851,8 @@
     <string name="firewall_temp_rule_reason">%2$s จำกัดการเชื่อมต่ออินเทอร์เน็ตสำหรับ %1$s</string>
     <string name="firewall_wifi_dialog_message">แอปที่ติดตั้งจะไม่สามารถเชื่อมต่อและใช้อินเตอร์เน็ตได้ หากคุณปิดสวิตช์นี้</string>
     <string name="firmware_version">เวอร์ชั่นแอนดรอยด์</string>
+    <string name="flash_drive_backup_restore">สำรองข้อมูลหรือเรียกคืนค่าโดยใช้ USB</string>
+    <string name="flash_drive_backup_restore_summary">เชื่อมต่ออุปกรณ์ USB</string>
     <string name="floating_window_switch_label">เปิดการใช้หน้าต่างลอย</string>
     <string name="floating_window_switch_label_disable">ปิดการใช้หน้าต่างลอย</string>
     <string name="fluency_mode">ภาพเคลื่อนไหวของระบบ</string>
@@ -2569,6 +2581,7 @@
     <string name="memory_title">ใช้งานได้: %1$s\u0009\u0009ทั้งหมด: %2$s</string>
     <string name="memory_usage">การใช้หน่วยความจำ</string>
     <string name="memory_usage_apps">หน่วยความจำที่แอปใช้</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">ใช้หน่วยความจำเฉลี่ย %1$s ใน 3 ชั่วโมงล่าสุด</string>
     <string name="menu_cancel">ยกเลิก</string>
     <string name="menu_check">ประสบการณ์</string>
@@ -3012,6 +3025,7 @@
     <string name="overlay_display_devices_title">จำลองจอแสดงผลที่สอง</string>
     <string name="overlay_settings">แสดงทับแอปอื่นๆ</string>
     <string name="owner_info_settings_edit_text_hint">เช่น Android ของสมชาย</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">ไม่มี</string>
     <string name="owner_info_settings_title">ลายเซ็นต์หน้าจอล็อก</string>
     <string name="owner_space">พื้นที่ปกติ</string>
@@ -3302,6 +3316,7 @@
     <string name="private_sms_recording_intro_header">วาดรูปแบบเพื่อปลดล็อก:</string>
     <string name="private_sms_reset_by_account">เข้าระบบบัญชี Mi ของคุณเพื่อรีเซ็ตรหัสผ่าน</string>
     <string name="process_dex2oat_label">การเพิ่มประสิทธิภาพแอป</string>
+    <string name="process_kernel_label">ระบบแอนดรอยด์</string>
     <string name="process_provider_in_use_description">ตัวให้บริการ %1$s ถูกใช้งานอยู่</string>
     <string name="process_service_in_use_description">บริการ %1$s ถูกใช้งานอยู่</string>
     <string name="process_stats_bg_ram_use">การใช้ RAM (พื้นหลัง)</string>
@@ -3500,6 +3515,7 @@
     <string name="retail_demo_reset_next">ถัดไป</string>
     <string name="retail_demo_reset_title">จำเป็นต้องตั้งรหัสผ่าน</string>
     <string name="retry">ลองอีกครั้ง</string>
+    <string name="rgb_manage_facerecoginition_text">จัดการข้อมูลใบหน้าสองมิติ</string>
     <string name="ring_volume_option_title">ระดับเสียงเรียกเข้า</string>
     <string name="ring_volume_title">ระดับเสียงเรียกเข้า</string>
     <string name="ringtone_slot_setting_title">การตั้งค่าซิมเดี่ยว</string>
@@ -3593,6 +3609,7 @@
     <string name="screen_paper_mode_off_apps_title">ไม่ใช้โหมดการอ่าน</string>
     <string name="screen_paper_mode_range_title">การตั้งค่า</string>
     <string name="screen_paper_mode_set_apps_title">แอปที่ใช้งานโหมดอ่าน</string>
+    <string name="screen_paper_mode_summary">โหมดอ่านทำให้สีของจอแสดงผลอุ่นขึ้น ช่วยให้ตาของคุณผ่อนคลาย</string>
     <string name="screen_paper_mode_time_summary">กำหนดเวลาในการเปิดและปิดโหมดการอ่าน</string>
     <string name="screen_paper_mode_time_title">ตั้งเวลา</string>
     <string name="screen_paper_mode_title">โหมดอ่าน</string>
@@ -3886,6 +3903,9 @@
     <string name="second_space">พื้นที่ทับซ้อน</string>
     <string name="secondspace_category">พื้นที่ทับซ้อน</string>
     <string name="secondspace_delete_space_title">ลบพื้นที่ทับซ้อน</string>
+    <string name="secspace_fod_finger_tips">ไม่สามารถยืนยันได้ กรุณาลองอีกครั้ง</string>
+    <string name="secspace_fod_finger_title">ยืนยังลายนิ้วมือของคุณ</string>
+    <string name="secspace_fod_use_password">ใส่รหัสผ่าน</string>
     <string name="secure_keyguard_business_title">ตั้งการล็อกหน้าจอ</string>
     <string name="secure_lock_encryption_warning">เนื่องจากคุณเปิดบริการความสามารถในการเข้าถึง อุปกรณ์ของคุณจะไม่ใช้ล็อกหน้าจอเพื่อปรับปรุงการเข้ารหัสข้อมูล</string>
     <string name="security_dashboard_summary">ล็อกหน้าจอ ลายนิ้วมือ</string>
@@ -4227,6 +4247,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="status_bar_settings_all_app_display_loading">รอสักครู่…</string>
     <string name="status_bar_settings_app_notification_preferences">การตั้งค่าแอป</string>
     <string name="status_bar_settings_basic_settings">การตั้งค่าพื้นฐาน</string>
+    <string name="status_bar_settings_carrier_sim">"ซิม %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">แก้ไขชื่อเครือข่าย</string>
     <string name="status_bar_settings_custom_wifi_name">แก้ไขชื่อ Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">แสดงการแจ้งเตือน</string>
@@ -4243,10 +4264,11 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="status_bar_settings_show_carrier_summary">เมื่อปิดใช้คุณลักษณะนี้ ชื่อเครือข่ายจะยังคงแสดงอยู่บนหน้าจอล็อกและแถบแจ้งเตือน</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">แสดงผู้ให้บริการเมื่ออุปกรณ์ถูกล็อกอยู่</string>
     <string name="status_bar_settings_show_floating_notification">การแจ้งเตือนหน้าต่างลอย</string>
-    <string name="status_bar_settings_show_floating_notification_summary">การแจ้งเตือนหน้าต่างลอยจะหายไปเองโดยอัตโนมัติเมื่อแสดงอยู่ด้านบนของจอสักพักหนึ่ง</string>
+    <string name="status_bar_settings_show_floating_notification_summary">อนุญาตการแจ้งเตือนที่สำคัญที่ด้านบนของหน้าจอ</string>
     <string name="status_bar_settings_show_flow_info">แสดงการใช้ข้อมูล</string>
     <string name="status_bar_settings_show_home_message">สัญญลักษณ์บนไอคอนแอป</string>
     <string name="status_bar_settings_show_keyguard_notification">การแจ้งเตือนในหน้าจอล็อก</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">อนุญาตการแจ้งเตือนที่สำคัญบนหน้าจอล็อก</string>
     <string name="status_bar_settings_show_network_speed">แสดงความเร็วในการเชื่อมต่อ</string>
     <string name="status_bar_settings_show_notification_icon">แสดงการแจ้งเตือนบนแถบสถานะ</string>
     <string name="status_bar_settings_show_wifi_name">แสดง Wi-Fi</string>
@@ -4435,6 +4457,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="strict_mode">โหมดเข้มงวดเปิดอยู่</string>
     <string name="strict_mode_summary">แฟลชหน้าจอเมื่อแอปดำเนินการนาน ในหัวข้อหลัก</string>
     <string name="structure_add_facerecoginition_text">เพิ่มข้อมูลใบหน้าสามมิติ</string>
+    <string name="structure_manage_facerecoginition_text">จัดการข้อมูลใบหน้าสามมิติ</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">แอปเหล่านี้ทำงานได้ดีที่สุดในโหมดเต็มจอ</string>
     <string name="suggested_fingerprint_lock_settings_summary">ปลดล็อกด้วยลายนิ้วมือ</string>
     <string name="suggested_fingerprint_lock_settings_title">ใช้ลายนิ้วมือ</string>

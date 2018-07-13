@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">เพิ่มการปลุก</string>
+    <string name="add_clock">เพิ่มนาฬิกา</string>
     <string name="add_timezone_title">เพิ่มโซนเวลา</string>
     <string name="alarm_alert_alert_silenced">เสียงปลุกจะเงียบภายใน %d นาที</string>
     <string name="alarm_alert_snooze_set">เลื่อนปลุกเป็นเวลา %d นาที</string>
@@ -36,6 +37,7 @@
     <string name="close_alarm">ปิดใช้งาน</string>
     <string name="common_settings">การตั้งค่า</string>
     <string name="confirm_abort">ไม่ต้องบันทึก</string>
+    <string name="content_desc_keep_screen">ปุ่ม \"เปิดหน้าจอไว้\"</string>
     <string name="control_set_alarm">ตั้งการปลุก</string>
     <string name="control_set_alarm_with_existing">ตั้งการปลุก: %s</string>
     <string name="day">1 วัน</string>
@@ -54,6 +56,7 @@
     <string name="dialog_message_agree">ตกลง</string>
     <string name="dialog_message_for_contact_permission">เพื่อให้มีการแจ้งเตือนวันเกิด นาฬิกาต้องเข้าถึงผู้ติดต่อของคุณ ตกลงหรือไม่?</string>
     <string name="dialog_message_negative">ไม่ตกลง</string>
+    <string name="dialog_message_not_remind">ไม่ต้องแสดงอีก</string>
     <string name="done">เสร็จสิ้น</string>
     <string name="dynamic_alarm_speech">การปลุกอัจฉริยะ</string>
     <string name="edit_alarm">แก้ไขการปลุก</string>
@@ -109,14 +112,14 @@
     <string name="menu_item_sort_by_name">เรียงลำดับตามชื่อ</string>
     <string name="minute">1 นาที</string>
     <string name="minutes">%d นาที</string>
-    <string name="module_download_cancel">ในภายหลัง</string>
-    <string name="module_download_data_msg">ในการปลุกอัจฉริยะ เสียงธรรมชาติและสัญญาณเตือนวันเกิดให้ทำงาน นาฬิกาต้องเชื่อมต่อกับอินเทอร์เน็ตและเข้าถึงผู้ติดต่อของคุณ คุณจะต้องดาวน์โหลดเสียงเพิ่มเติม ใช้ข้อมูลมือถือเพื่อดาวน์โหลดเสียงเพิ่มเติมหรือไม่?</string>
-    <string name="module_download_data_msg_golbal">ในการปลุกอัจฉริยะและเสียงธรรมชาติ นาฬิกาจะต้องดาวน์โหลดเสียงเพิ่มเติม ใช้ข้อมูลมือถือเพื่อดาวน์โหลดเสียงเพิ่มเติมหรือไม่?</string>
+    <string name="module_download_cancel">ไม่ ขอบคุณ</string>
+    <string name="module_download_data_msg">นาฬิกาต้องการเชื่อมต่อกับอินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียง (20MB) สำหรับเสียงและสัญญาณเตือนอัจฉริยะ คุณใช้ข้อมูลมือถือตอนนี้ อนุญาต?</string>
+    <string name="module_download_data_msg_golbal">นาฬิกาต้องการดาวน์โหลดไฟล์เสียง (20MB) สำหรับเสียงและสัญญาณเตือนอัจฉริยะ คุณใช้ข้อมูลมือถือตอนนี้ อนุญาต?</string>
     <string name="module_download_fail">ไม่สามารถดาวน์โหลดเสียงเพิ่มเติมได้</string>
-    <string name="module_download_msg">ในการปลุกอัจฉริยะ เสียงธรรมชาติและสัญญาณเตือนวันเกิดให้ทำงาน นาฬิกาต้องเชื่อมต่อกับอินเทอร์เน็ตและเข้าถึงผู้ติดต่อของคุณ คุณจะต้องดาวน์โหลดเสียงเพิ่มเติม ตกลงหรือไม่?</string>
-    <string name="module_download_msg_golbal">ในการปลุกอัจฉริยะและเสียงธรรมชาติ นาฬิกาจะต้องดาวน์โหลดเสียงเพิ่มเติม ตกลงหรือไม่?</string>
+    <string name="module_download_msg">นาฬิกาต้องการเชื่อมต่อกับอินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียงสำหรับเสียงและสัญญาณเตือนอัจฉริยะ อนุญาต?</string>
+    <string name="module_download_msg_golbal">นาฬิกาต้องดาวน์โหลดไฟล์เสียงสำหรับเสียงแวดล้อมและสัญญาณเตือนอัจฉริยะ อนุญาต?</string>
     <string name="module_download_no_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง</string>
-    <string name="module_download_ok">ตกลง &amp; ดาวน์โหลด</string>
+    <string name="module_download_ok">อนุญาต</string>
     <string name="module_download_success">ดาวน์โหลดเสียงเพิ่มเติมเรียบร้อยแล้ว</string>
     <string name="module_download_title">ต้องการเสียงเพิ่มเติม</string>
     <string name="module_downloading">กำลังดาวน์โหลดเสียงเพิ่มเติม…</string>
@@ -145,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">การปลุกจะดังหลังจากปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="slider_text">เลื่อนขึ้นเพื่อปิดใช้งาน</string>
     <string name="snooze_confirm_cancel">เลิกทำการปลุก</string>
@@ -153,6 +157,7 @@
     <string name="start_up">เริ่ม</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_title">จับเวลา</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">การตั้งค่า</string>
     <string name="system_time_settings_category_title">การตั้งค่าเวลา</string>
     <string name="temperature_unit">%1$s°</string>
@@ -183,10 +188,8 @@
     <string name="timer_item_picker_second">วิ</string>
     <string name="timer_new_item">เพิ่มตัวนับถอยหลัง</string>
     <string name="timer_notify_text">เลื่อนปลุกหรือหยุดการจับเวลา</string>
-    <string name="timer_pause_hint">หยุดพัก</string>
     <string name="timer_pause_timer">หยุดจับเวลา</string>
     <string name="timer_running">จับเวลากำลังทำงาน</string>
-    <string name="timer_running_hint">ดำเนินต่อ</string>
     <string name="timer_start_alarm">หมดเวลาแล้ว!</string>
     <string name="timer_start_timer">เริ่มจับเวลา</string>
     <string name="timer_title">นับถอยหลัง</string>
@@ -211,4 +214,6 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">ชั่วโมง</string>
     <string name="worldcolock_timezone_local">เหมือนกับเวลาท้องถิ่น</string>
+    <string name="timer_pause_hint">หยุดพัก</string>
+    <string name="timer_running_hint">ดำเนินต่อ</string>
 </resources>

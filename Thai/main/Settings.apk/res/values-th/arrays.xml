@@ -862,6 +862,10 @@
         <item>เครือข่ายช้าเนื่องจากสัญญาณอ่อนเกินไป</item>
         <item>กำลังย้าย…</item>
     </string-array>
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>กราฟิก</item>
+        <item>เปอร์เซ็นต์</item>
+    </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>

@@ -24,13 +24,4 @@
     <plurals name="timer_message_second">
         <item quantity="other">%1$d วินาที</item>
     </plurals>
-    <plurals name="auto_silence_summary">
-        <item quantity="other">เสียงปลุกจะเงียบภายใน %d นาที</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d นาที</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d วินาที</item>
-    </plurals>
 </resources>

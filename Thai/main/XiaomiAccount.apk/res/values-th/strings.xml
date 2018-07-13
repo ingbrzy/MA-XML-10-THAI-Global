@@ -146,7 +146,7 @@
     <string name="passport_license_host_unreachable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ คุณสามารถเรียกดูข้อมูลหน้านี้ได้จาก %s.</string>
     <string name="passport_login_failed">ไม่สามารถลงชื่อเข้าระบบได้</string>
     <string name="passport_reg_failed">ไม่สามารถตั้งค่าบัญชี</string>
-    <string name="passport_verification_failed">การตรวจสอบบัญชีล้มเหลว</string>
+    <string name="passport_verification_failed">ไม่สามารถยืนยันบัญชีได้</string>
     <string name="passport_reset_fail_title">ตั้งรหัสผ่านใหม่ไม่ได้</string>
     <string name="passport_identification_expired">รหัสยืนยันหมดอายุ เริ่มต้นใหม่</string>
     <string name="passport_bad_authentication">ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</string>
