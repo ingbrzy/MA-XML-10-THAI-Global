@@ -419,7 +419,7 @@
     <string name="root">เข้าถึงรูท</string>
     <string name="app_detail">รายละเอียด</string>
     <string name="app_version">เวอร์ชั่น:</string>
-    <string name="app_mobile">มือถือ</string>
+    <string name="app_mobile">Mobile data</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">ไม่มี</string>
     <string name="sorted_dialog_title">เรียงตาม</string>
@@ -433,6 +433,7 @@
     <string name="managed_user_title">แอปที่ทำงานทั้งหมด</string>
     <string name="pref_about_traffic_title">การตั้งค่าการใช้ข้อมูล</string>
     <string name="pref_traffic_manage_title">การใช้ข้อมูล</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">แพ็คเกจข้อมูล</string>
     <string name="pref_adjust_traffic_data">ตั้งการใช้ข้อมูล</string>
     <string name="pref_category_title_other">การตั้งค่าเพิ่มเติม</string>
@@ -896,7 +897,7 @@
     <string name="tether_over_limit_dialog_message">คุณใช้ข้อมูลฮอตสปอตแบบพกพาถึงขีดจำกัดแล้ว</string>
     <string name="tether_over_limit_dialog_cancle_btn">รีเซ็ตฮอตสปอต</string>
     <string name="network_traffic_warning_title">การใช้ข้อมูลสำหรับแอประบบ</string>
-    <string name="network_traffic_warning_text">MIUI ไม่สามารถคำนวณสถิติการใช้ข้อมูลสำหรับแอประบบของแต่ละระบบที่นี่ได้ คุณสามารถดูข้อมูลที่เกี่ยวข้องกับการใช้ข้อมูลได้ในรายละเอียดแอปในกรณีที่แอปนี้กำลังใช้ข้อมูลมือถืออยู่</string>
+    <string name="network_traffic_warning_text">"MIUI can't calculate data usage stats for individual system apps here. You will be able to see the data usage related info in the app details in case this app is using mobile data actively."</string>
     <string name="optimize_manage_title">เพิ่มความเร็ว</string>
     <string name="cpu_usage_android_system">ระบบแอนดรอยด์</string>
     <string name="cpu_usage_process_run_time_little_time">น้อยกว่า 1 นาที</string>
@@ -958,6 +959,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"แอปนี้อาจทำให้อุปกรณ์ของคุณ
 ช้าลง"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">ถอนการติดตั้ง %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">ถอนการติดตั้งแอปนี้เพื่อแก้ไขปัญหาการใช้แบตเตอรี่</string>
     <string name="om_ill_proc_type_wakelock_title">แอปบล็อกโหมดสลีปทำให้แบตเตอรี่หมดเร็ว</string>
@@ -974,7 +976,7 @@
     <string name="om_ill_proc_type_radio_detail">แก้ไขปัญหาการเชื่อมต่อเครือข่าย</string>
     <string name="om_ill_proc_activity_title">ปัญหา</string>
     <string name="power_center_title">การใช้งานแบตเตอรี่</string>
-    <string name="power_center_back">กลับไปการใช้งานแบตเตอรี่</string>
+    <string name="power_center_back">ย้อนกลับ</string>
     <string name="power_center_auto_shutdown">ตั้งเวลาเปิด/ปิดเครื่อง</string>
     <string name="power_center_ontime_boot">เวลาเปิดเครื่อง</string>
     <string name="power_center_time_to_boot">เวลาเปิดเครื่อง</string>
@@ -1016,6 +1018,7 @@
     <string name="usage_type_data_send">ปริมาณข้อมูลขาออก</string>
     <string name="usage_type_no_coverage">ระยะเวลาที่อับสัญญาณ</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">แอนดรอยด์</string>
     <string name="process_mediaserver_label">เซิร์ฟเวอร์สื่อมีเดีย</string>
     <string name="power_screen">หน้าจอ</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1362,11 +1365,13 @@
     <string name="menu_text_optimize_manage">เพิ่มความเร็ว</string>
     <string name="menu_text_networkassistants">การใช้ข้อมูล</string>
     <string name="menu_summary_networkassistants">จัดการแพ็คเกจข้อมูลของคุณ</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">เกินขีดจำกัด</string>
     <string name="menu_summary_networkassistants_3">มีข้อมูลเหลือเพียงพอ</string>
     <string name="menu_summary_networkassistants_4">ใช้ข้อมูลหมดแล้ว</string>
     <string name="menu_text_networkassistants_remain">คงเหลือ %s</string>
     <string name="menu_text_networkassistants_danger">ใช้เกินไป %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1379,12 +1384,14 @@
     <string name="menu_summary_garbage_cleanup">ไม่มีขยะ</string>
     <string name="menu_summary_garbage_cleanup_2">ปริมาณขยะ</string>
     <string name="menu_summary_garbage_cleanup_3">ล้างขยะทันที</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">การใช้แบตเตอรี่</string>
     <string name="menu_summary_power_manager">ตัวประหยัดแบตเตอรี่ช่วยให้โทรศัพท์ของคุณใช้งานได้นานขึ้น</string>
     <string name="menu_summary_power_manager_1">ชาร์จแบตเตอรี่เต็มแล้ว</string>
     <string name="menu_summary_power_manager_2">คงเหลือ %s</string>
     <string name="menu_summary_power_manager_3">เสียบที่ชาร์จ</string>
     <string name="menu_summary_power_manager_4">ชาร์จเต็มในอีก %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">การสแกนครั้งล่าสุดถูกยกเลิก</string>
     <string name="examination_score_100">ไม่พบสิ่งผิดปกติ!</string>
     <string name="examination_score_80_100">ยังปรับแต่งเล็กน้อยให้ดีขึ้นได้อีก</string>
@@ -1750,6 +1757,7 @@
     <string name="card_main_deepclean_wechat_action">ล้าง</string>
     <string name="card_main_sectool_title">เครื่องมือ</string>
     <string name="card_main_monthreport_action">เรียกดู</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ทดสอบเครือข่าย</string>
     <string name="card_main_netcheck_summary">ทดสอบการเชื่อมต่อสำหรับปัญหาเครือข่าย</string>
     <string name="card_main_netcheck_action">ทดสอบ</string>
@@ -2285,8 +2293,8 @@
     <string name="gamebox_type_gesture">ปัดเพื่อแสดง</string>
     <string name="gb_first_window_title">ตัวเร่งความเร็วในการเล่นเกม</string>
     <string name="gb_first_window_summary">เพิ่มความเร็วและประสิทธิภาพในระดับระบบ</string>
-    <string name="gb_first_window_gamebox_summary_four">ล้างแคช บันทึกภาพหน้าจอและจับภาพหน้าจอ</string>
-    <string name="gb_first_window_gamebox_summary_six">ใช้การตอบกลับด่วน ทำการบันทึกหน้าจอและจับภาพหน้าจอ</string>
+    <string name="gb_first_window_gamebox_summary_four">Use quick replies, make screen recordings and screenshots</string>
+    <string name="gb_first_window_gamebox_summary_six">Clear cache, make screen recordings and screenshots</string>
     <string name="gb_first_window_handsfree_title">แฮนด์ฟรี</string>
     <string name="gb_first_window_handsfree_summary">เปิดลำโพงโดยอัตโนมัติ</string>
     <string name="gb_first_window_antimsg_title">การแจ้งเตือนที่สะดวก</string>

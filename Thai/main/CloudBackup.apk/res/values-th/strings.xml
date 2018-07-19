@@ -163,4 +163,12 @@
     <string name="notification_channel_remind">เตือนความจำ</string>
     <string name="done_remove">ลบเรียบร้อยแล้ว</string>
     <string name="doing_restore_home">เรียกคืนหน้าจอหลักและการตั้งค่า…</string>
+    <string name="title_alert_cancel_restore">Stop restoring</string>
+    <string name="msg_alert_cancel_restore">Cloud backup is restoring, stop it?</string>
+    <string name="btn_restore_cancel">Cancel</string>
+    <string name="btn_restore_resume">Resume</string>
+    <string name="title_alert_restore_error">Restore failed</string>
+    <string name="msg_alert_restore_error">Restore cloud backup failed, try again please.</string>
+    <string name="btn_restore_retry">Retry</string>
+    <string name="btn_restore_abort">Cancel</string>
 </resources>

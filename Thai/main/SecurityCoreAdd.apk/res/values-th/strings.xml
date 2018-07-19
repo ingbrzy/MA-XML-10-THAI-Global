@@ -298,7 +298,7 @@
     <string name="xspace_default_setting_label">แอปเริ่มต้น</string>
     <string name="xspace_default_app_title">แอปเริ่มต้น</string>
     <string name="xspace_default_app_summary">ตั้งค่าแอปเริ่มต้นสำหรับการชำระเงิน การแชร์ รายการโปรด และอื่นๆ</string>
-    <string name="xspace_default_setting_dialog_title">ค่าเริ่มต้น</string>
+    <string name="xspace_default_setting_dialog_title"> ค่าเริ่มต้น</string>
     <string name="xspace_default_guide_notification_content">แตะเพื่อแก้ไข</string>
     <string name="xspace_default_guide_notification_main_title">ใช้แอปเริ่มต้น</string>
     <string name="xspace_default_guide_notification_xspace_title">ใช้แอปโคลน</string>

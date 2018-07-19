@@ -2092,7 +2092,6 @@
     <string name="instant_app_details_summary">ดูข้อมูลเพิ่มเติมใน %1$s</string>
     <string name="instant_apps_account">บัญชี Instant Apps</string>
     <string name="instruction_privacy_password">รหัสผ่านดังกล่าวจะป้องกันรายการดังต่อไปนี้</string>
-    <string name="instruction_title">วิธีใช้</string>
     <string name="insufficient_storage">พื้นที่จัดเก็บข้อมูลไม่เพียงพอ</string>
     <string name="intent_sender_account_label">บัญชี:</string>
     <string name="intent_sender_sendbroadcast_text">ส่ง broadcast</string>
@@ -2581,6 +2580,7 @@
     <string name="memory_title">ใช้งานได้: %1$s\u0009\u0009ทั้งหมด: %2$s</string>
     <string name="memory_usage">การใช้หน่วยความจำ</string>
     <string name="memory_usage_apps">หน่วยความจำที่แอปใช้</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">ใช้หน่วยความจำเฉลี่ย %1$s ใน 3 ชั่วโมงล่าสุด</string>
     <string name="menu_cancel">ยกเลิก</string>
     <string name="menu_check">ประสบการณ์</string>
@@ -3024,6 +3024,7 @@
     <string name="overlay_display_devices_title">จำลองจอแสดงผลที่สอง</string>
     <string name="overlay_settings">แสดงทับแอปอื่นๆ</string>
     <string name="owner_info_settings_edit_text_hint">เช่น Android ของสมชาย</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">ไม่มี</string>
     <string name="owner_info_settings_title">ลายเซ็นต์หน้าจอล็อก</string>
     <string name="owner_space">พื้นที่ปกติ</string>
@@ -3314,6 +3315,7 @@
     <string name="private_sms_recording_intro_header">วาดรูปแบบเพื่อปลดล็อก:</string>
     <string name="private_sms_reset_by_account">เข้าระบบบัญชี Mi ของคุณเพื่อรีเซ็ตรหัสผ่าน</string>
     <string name="process_dex2oat_label">การเพิ่มประสิทธิภาพแอป</string>
+    <string name="process_kernel_label">ระบบแอนดรอยด์</string>
     <string name="process_provider_in_use_description">ตัวให้บริการ %1$s ถูกใช้งานอยู่</string>
     <string name="process_service_in_use_description">บริการ %1$s ถูกใช้งานอยู่</string>
     <string name="process_stats_bg_ram_use">การใช้ RAM (พื้นหลัง)</string>
@@ -4205,6 +4207,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sound_settings_summary">ระดับเสียงเรียกเข้าที่ %1$s</string>
     <string name="sound_settings_summary_silent">ตั้งโปรแกรมสร้างเสียงเรียกเข้าเป็นโหมดเงียบแล้ว</string>
     <string name="sound_settings_summary_vibrate">ตั้งโปรแกรมสร้างเสียงเรียกเข้าเป็นโหมดสั่นแล้ว</string>
+    <string name="sound_stereo_mode_summary">ใช้ได้เฉพาะเมื่อคุณเล่นเสียงด้วยลำโพงเท่านั้น</string>
+    <string name="sound_stereo_mode_title">เสียงสเตอริโอ</string>
     <string name="sound_vibrate_settings">เสียง &amp; การสั่นเตือน</string>
     <string name="sound_work_settings">เสียงในโปรไฟล์งาน</string>
     <string name="special_access">สิทธิ์เข้าถึงพิเศษของแอป</string>
@@ -4244,6 +4248,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="status_bar_settings_all_app_display_loading">รอสักครู่…</string>
     <string name="status_bar_settings_app_notification_preferences">การตั้งค่าแอป</string>
     <string name="status_bar_settings_basic_settings">การตั้งค่าพื้นฐาน</string>
+    <string name="status_bar_settings_carrier_sim">"ซิม %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">แก้ไขชื่อเครือข่าย</string>
     <string name="status_bar_settings_custom_wifi_name">แก้ไขชื่อ Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">แสดงการแจ้งเตือน</string>
@@ -4453,6 +4458,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="strict_mode">โหมดเข้มงวดเปิดอยู่</string>
     <string name="strict_mode_summary">แฟลชหน้าจอเมื่อแอปดำเนินการนาน ในหัวข้อหลัก</string>
     <string name="structure_add_facerecoginition_text">เพิ่มข้อมูลใบหน้าสามมิติ</string>
+    <string name="structure_face_enroll_not_able_low_electric_itle">ไม่สามารถใช้คุณสมบัตินี้ได้เนื่องจากแบตเตอรี่เหลือน้อย</string>
+    <string name="structure_face_enroll_not_able_low_electric_msg">ต้องมีแบตเตอรี่เหลืออยู่อย่างน้อย 5% เพื่อเริ่มการบันทึก</string>
     <string name="structure_manage_facerecoginition_text">จัดการข้อมูลใบหน้าสามมิติ</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">แอปเหล่านี้ทำงานได้ดีที่สุดในโหมดเต็มจอ</string>
     <string name="suggested_fingerprint_lock_settings_summary">ปลดล็อกด้วยลายนิ้วมือ</string>

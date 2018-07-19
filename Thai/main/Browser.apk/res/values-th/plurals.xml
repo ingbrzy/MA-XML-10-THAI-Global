@@ -16,10 +16,10 @@
         <item quantity="other">พบ %d รายการ</item>
     </plurals>
     <plurals name="mw_last_num_days">
-        <item quantity="other">Last %d days</item>
+        <item quantity="other">%d วันที่แล้ว</item>
     </plurals>
     <plurals name="mw_matches_found">
-        <item quantity="other">%1$d of %2$d</item>
+        <item quantity="other">พบ %1$d จาก %2$d</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">จะสร้างหน้าใหม่โดยอัตโนมัติหลังจาก %d วินาที</item>

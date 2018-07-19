@@ -61,8 +61,6 @@
     <string name="asset_sync_power_alert_message">เสียบสายชาร์จเพื่อสำรองข้อมูลเพลง</string>
     <string name="asset_sync_power_alert_title">แบตเตอรี่ต่ำ</string>
     <string name="audio_picker_title">เลือกเพลง</string>
-    <string name="auto_payment">ต่ออายุโดยอัตโนมัติ</string>
-    <string name="auto_payment_date">ชำระเงินครั้งหน้า: %s</string>
     <string name="available_playlist_name_format">รายการเพลงใหม่ %d</string>
     <string name="avoid_to_use_traffic_summary">ห้ามใช้เครือข่ายมือถือในการเรียกฟังเพลง</string>
     <string name="avoid_to_use_traffic_title">สอบถามก่อนเมื่อใช้งานข้อมูลมือถือเพื่อเล่นเพลง</string>
@@ -71,8 +69,6 @@
     <string name="backup_empty_button">ยังไม่ได้เลือกเพลง</string>
     <string name="backup_immediate">สำรองข้อมูล</string>
     <string name="backup_song_title">เลือกเพลงที่จะสำรองข้อมูล</string>
-    <string name="being_disable_auto_payment">กำลังปิดใช้งาน…</string>
-    <string name="being_enable_auto_payment">กำลังเปิดใช้งาน…</string>
     <string name="bluetooth_device">อุปกรณ์เสียงบลูทูธ</string>
     <string name="buffering">กำลังบัฟเฟอร์…</string>
     <string name="button_cancel_download">ยกเลิก</string>
@@ -130,6 +126,7 @@
     <string name="continue_backup">ดำเนินต่อ</string>
     <string name="cp_info_first">"บริการสตรีมเพลงออนไลน์
 ให้บริการโดย Ultimate Inc."</string>
+    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">สร้างรายการสั่งซื้อไม่ได้ ลองอีกครั้ง</string>
     <string name="create_playlist">สร้างรายการเพลง</string>
     <string name="create_playlist_failure">สร้างรายการเพลงไม่ได้</string>
@@ -183,10 +180,6 @@
     <string name="dialog_title_not_available">ไม่สามารถดาวน์โหลดได้</string>
     <string name="dialog_title_queued_body">ไฟล์ยังไม่พร้อม</string>
     <string name="dialog_title_remove_tracks">เอาออก</string>
-    <string name="disable_auto_payment_fail">ไม่สามารถปิดใช้งานได้</string>
-    <string name="disable_auto_payment_fail_message">ไม่สามารถปิดใช้การต่ออายุโดยอัตโนมัติ</string>
-    <string name="disable_auto_payment_success">ปิดใช้งาน</string>
-    <string name="disable_auto_payment_success_message">ปิดใช้การต่ออายุโดยอัตโนมัติ หลังจากสมาชิกปัจจุบันของคุณหมดอายุ คุณจะต้องสมัครสมาชิกใหม่อีกครั้งเพื่อดาวน์โหลดเพลง</string>
     <string name="disallow_add_to_fm">ไม่สามารถเพิ่มเพลงไปยังวิทยุ FM</string>
     <string name="disallow_add_to_personal_radio">ไม่สามารถเพิ่มเพลงไปยังวิทยุส่วนตัว</string>
     <string name="do_not_remind_this_version">ไม่ต้องเตือนฉันเกี่ยวกับเวอร์ชันนี้</string>
@@ -226,6 +219,7 @@
     <string name="download_method">ดาวน์โหลด</string>
     <string name="download_no_application_title">ไม่สามารถเปิดไฟล์ได้</string>
     <string name="download_paused_in_power_save_mode">การดาวน์โหลดจะถูกหยุดขณะอยู่ในโหมดประหยัดแบตเตอรี่</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">กำลังดาวน์โหลด…</string>
     <string name="download_quality">คุณภาพการดาวน์โหลด</string>
     <string name="download_quality_summary">การตั้งค่าเพิ่มเติมสำหรับเพลงที่ดาวน์โหลด</string>
@@ -264,10 +258,6 @@
     <string name="edit_playlist_info">แก้ไขข้อมูลรายการเพลง</string>
     <string name="empty_page_no_album">ไม่มีอัลบั้ม</string>
     <string name="empty_page_no_artist">ไม่มีศิลปิน</string>
-    <string name="enable_auto_payment_fail">ไม่สามารถเปิดใช้งานได้</string>
-    <string name="enable_auto_payment_fail_message">ไม่สามารถเปิดใช้การต่ออายุโดยอัตโนมัติ</string>
-    <string name="enable_auto_payment_success">ต่ออายุโดยอัตโนมัติ</string>
-    <string name="enable_auto_payment_success_message">เปิดใช้การต่ออายุโดยอัตโนมัติ การชำระเงินครั้งหน้าวันที่ %s</string>
     <string name="enabled">เปิดใช้งาน</string>
     <string name="enter_garbage_clean">ทำความสะอาดพื้นที่จัดเก็บภายใน</string>
     <string name="eq_auto">กำหนดเอง</string>
@@ -485,8 +475,9 @@
     <string name="modify_song_info_success">อัพเดทข้อมูลเพลงแล้ว</string>
     <string name="more">เพิ่มเติม</string>
     <string name="more_add_song_list">เพิ่มเพลงไปยังคิว</string>
+    <string name="more_milink">Mi Link</string>
     <string name="more_settings">การตั้งค่าขั้นสูง</string>
-    <string name="more_settings_summary">การตั้งค่าดาวน์โหลด, ตั้งเวลาพักหน้าจอ, การจัดการข้อมูลมือถือ, ตัวกรองสำหรับไฟล์ ฯลฯ</string>
+    <string name="more_settings_summary">ตัวตั้งเวลาปิดเครื่อง ตัวกรองไฟล์ ฯลฯ</string>
     <string name="more_share">แชร์</string>
     <string name="music_browser_label">เพลง</string>
     <string name="music_filter">กรองไฟล์เสียงออก</string>
@@ -594,6 +585,7 @@
     <string name="priority_storage">เก็บไว้ใน SD การ์ดภายนอก</string>
     <string name="priority_storage_summary">ดาวน์โหลดเก็บไว้ใน SD การ์ดภายนอกโดยอัตโนมัติถ้ามี</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">อนุญาตให้มีการเปลี่ยนแปลงการตั้งค่าระบบ</string>
     <string name="pulluprefreshrecyclerview_loading_error">ไม่สามารถโหลดได้</string>
@@ -703,6 +695,7 @@
     <string name="start_to_check_new_version">กำลังตรวจสอบเพื่ออัพเดต…</string>
     <string name="start_to_download">กำลังดาวน์โหลด…</string>
     <string name="start_to_play">เล่น</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop">หยุด</string>
     <string name="stop_backup">หยุด</string>
     <string name="storage_internal">ที่จัดเก็บภายใน</string>
@@ -764,6 +757,7 @@
     <string name="upgrade_music_message">ไฟล์อัพเดทพร้อมแล้ว รีสตาร์ทเพื่ออัพเดท</string>
     <string name="upgrading_in_backstage">กำลังอัปเดตในพื้นหลัง…</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">เวอร์ชั่น</string>
     <string name="video_play_cellular">อุปกรณ์ของคุณไม่ได้เชื่อมต่อกับ Wi-fi ใช้ข้อมูลมือถือหรือไม่?</string>
     <string name="video_replay_btn">เล่นอีกครั้ง</string>
