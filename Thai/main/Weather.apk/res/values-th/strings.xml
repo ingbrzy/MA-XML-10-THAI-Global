@@ -81,12 +81,10 @@
     <string name="daily_forecast_add_city_message">ติดตามสภาพอากาศใน %1$s สำหรับการคาดการณ์รายละเอียดเพิ่มเติม</string>
     <string name="daily_forecast_add_city_title">ติดตามสภาพอากาศใน %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"รับข้อมูลสภาพอากาศไม่ได้
 ลากลงเพื่อรีเฟรชหรือตรวจสอบการตั้งค่าเครือข่าย"</string>
     <string name="data_provided_by">ข้อมูลโดย</string>
     <string name="edit_city">จัดการเมือง</string>
-    <string name="empty">" "</string>
     <string name="eu_region_version_first_start_network_msg">เมื่อใช้ผลิตภัณฑ์นี้ถือว่าคุณยอมรับว่า Xiaomi จะรวบรวมประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณรวมทั้งพิกัดของเมืองที่คุณค้นหาและข้อมูลประเภทอื่นๆ ที่ระบุไว้ในนโยบายส่วนบุคคลของเรา ดูนโยบายความเป็นส่วนตัวของเราเพื่อเรียนรู้วิธีการรวบรวมและประมวลผลข้อมูล การแตะ \"ตกลง\" หมายความว่าคุณยอมรับ %1$s และ %2$s ของ Xiaomi</string>
     <string name="feedback_heavy_rain">ฝนตกหนัก</string>
     <string name="feedback_heavy_snow">หิมะตก</string>
@@ -99,8 +97,6 @@
     <string name="first_start_network_title">การเชื่อมกับต่ออินเตอร์เน็ตและการเข้าถึงตำแหน่ง</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">ขณะนี้</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">ติดตั้งตอนนี้</string>
     <string name="index_item_install_dialog" />
@@ -112,12 +108,10 @@
     <string name="indices_title_feel">รู้สึกจริง</string>
     <string name="indices_title_pressure">ความกดอากาศ</string>
     <string name="install">ติดตั้ง</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ความกดอากาศ</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">รายละเอียด</string>
     <string name="international_details_uv_index_title">รังสียูวี</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ลม</string>
     <string name="it_is_going_to_rain">ฝนกำลังจะตก</string>
     <string name="locate_fail_detail_err">"ไม่สามารถระบุตำแหน่งอุปกรณ์ได้
@@ -188,7 +182,6 @@
     <string name="share_menu_title">แชร์</string>
     <string name="share_subject">แชร์</string>
     <string name="share_weather_desc">\#MIUI สภาพอากาศ#วันนี้ %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ไม่สามารถจัดเก็บภาพหน้าจอได้</string>
     <string name="some_where_on_earth">ที่ไหนสักแห่งบนโลก</string>

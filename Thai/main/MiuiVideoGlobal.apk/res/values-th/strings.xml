@@ -19,7 +19,6 @@
     <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
     <string name="abc_shareactionprovider_share_with_application">แชร์กับ %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="airkan_control_device_des">ควบคุมการเล่นได้โดยการแตะที่แถบด้านล่าง</string>
     <string name="airkan_device_xiaomi_phone">โทรศัพท์ของฉัน</string>
     <string name="airkan_playing">กำลังฉายภาพบน %s</string>

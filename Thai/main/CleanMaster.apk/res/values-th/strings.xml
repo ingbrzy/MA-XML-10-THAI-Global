@@ -91,7 +91,6 @@
     <string name="hints_apk_header_left">แพ็คเกจ</string>
     <string name="hints_residual_header_left">ไฟล์ตกค้าง</string>
     <string name="hints_memory_header_left">หน่วยความจำ</string>
-    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ไฟล์ใหญ่: %d</string>
     <string name="hints_installed_apps_header_left">แอปที่ติดตั้งไว้: %d</string>
     <string name="toast_resolve_apk_error">แก้ไขข้อผิดพลาดไฟล์ APK</string>
@@ -299,7 +298,6 @@
     <string name="downloading">กำลังดาวน์โหลด</string>
     <string name="installing">กำลังติดตั้ง</string>
     <string name="start_install">ติดตั้งตอนนี้</string>
-    <string name="empty">" "</string>
     <string name="open_browser">เปิดด้วยเบราว์เซอร์</string>
     <string name="title_share_link">แชร์ลิงก์ URL</string>
     <string name="connecting">กำลังเชื่อมต่อ…</string>
