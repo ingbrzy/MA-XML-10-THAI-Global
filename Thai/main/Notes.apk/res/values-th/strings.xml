@@ -4,8 +4,8 @@
     <string name="action_mode_switcher_grid_description">มุมมองมีกรอบ</string>
     <string name="action_mode_switcher_list_description">แสดงรายการ</string>
     <string name="action_settings_description">เปิดการตั้งค่า</string>
-    <string name="actionbar_close_description">Close</string>
-    <string name="actionbar_home_description">Back</string>
+    <string name="actionbar_close_description">ปิด</string>
+    <string name="actionbar_home_description">ย้อนกลับ</string>
     <string name="add_account_desc">ซิงค์บันทึกของคุณกับบัญชี Mi ของคุณ?</string>
     <string name="alarm_bar_title">เตือนความจำ</string>
     <string name="alert_action_edit_anyway">แก้ไขต่อ</string>
@@ -31,6 +31,10 @@
     <string name="cloud_service_state_open_reminder">เปิดการซิงค์กับ Mi คลาวด์ เพื่อซิงค์บันทึก</string>
     <string name="cloud_trash_bin_title">ลบบันทึกใน Mi คลาวด์</string>
     <string name="cta_reminder">แอปนี้ต้องการเชื่อมต่ออินเตอร์เน็ตเพื่อสำรองข้อมูลของ บันทึก ไปยัง Mi คลาวด์ รวมทั้งอ่านรายชื่อติดต่อของคุณเพื่อทำป้ายกำกับบันทึกย่อที่คุณใช้ระหว่างการโทร</string>
+    <string name="date_time_picker_alarm_reminder">การปลุก</string>
+    <string name="date_time_picker_dialog_title">ตั้งวันที่และเวลา</string>
+    <string name="date_time_picker_has_not_set_alarm">ไม่ได้ตั้งปลุก</string>
+    <string name="date_time_picker_has_set_alarm">ตั้งการปลุกเรียบร้อย</string>
     <string name="db_downgrade_clear_button">ล้างข้อมูลของแอป</string>
     <string name="db_downgrade_clear_date_reminder">การสลับไปใช้ MIUI เวอร์ชันอื่นต้องมีการล้างข้อมูลแอปบันทึก ก่อนที่คุณจะทำเช่นนั้นตรวจสอบให้แน่ใจว่าคุณได้สำรองข้อมูลของแอปบันทึกของคุณไว้ใน Mi คลาวด์ แล้ว</string>
     <string name="default_folder_name">โฟลเดอร์ไม่มีชื่อ</string>
@@ -96,7 +100,7 @@
     <string name="menu_delete_forever">ลบถาวร</string>
     <string name="menu_folders">โฟลเดอร์</string>
     <string name="menu_hide">ซ่อน</string>
-    <string name="menu_more_description">More</string>
+    <string name="menu_more_description">เพิ่มเติม</string>
     <string name="menu_move_parent_folder">โฟลเดอร์หลัก</string>
     <string name="menu_move_to">ย้ายไปยัง</string>
     <string name="menu_new_folder">โฟลเดอร์ใหม่</string>
@@ -110,6 +114,7 @@
     <string name="menu_title_select_folder">เลือกโฟลเดอร์</string>
     <string name="menu_unhide">เลิกซ่อน</string>
     <string name="menu_unstick">เลิกปักหมุด</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">ไม่ใช่ตอนนี้</string>
     <string name="note_description_content">แอปบันทึก เป็นเครื่องมือที่ยอดเยี่ยมสำหรับการบันทึกไอเดียของคุณ มีการแจ้งเตือนในตัวและซิงค์รายการของคุณกับ Mi คลาวด์ เพื่อให้คุณสามารถเข้าถึงได้ทุกที่ทุกเวลา ตรวจสอบให้แน่ใจว่าคุณรู้และเข้าใจคุณลักษณะเหล่านี้ก่อนที่จะลบแอป</string>
     <string name="note_description_title">เกี่ยวกับบันทึก</string>
@@ -202,7 +207,7 @@
     <string name="toast_reach_text_limit_checkbox">ไม่สามารถเพิ่มช่องทำเครื่องหมายได้เนื่องจากบันทึกยาวเกินไป</string>
     <string name="toast_reach_text_limit_truncate">บันทึกนี้ยาวเกินไป ข้อความบางส่วนได้ถูกตัดออก</string>
     <string name="toast_refuse_to_record_when_in_call">ไม่สามารถใช้คุณลักษณะนี้ในระหว่างการโทรได้</string>
-    <string name="toast_refuse_to_record_when_in_multi_window">"Can't use this feature with Split screen"</string>
+    <string name="toast_refuse_to_record_when_in_multi_window">ไม่สามารถใช้คุณลักษณะนี้กับหน้าจอแยก</string>
     <string name="toolbar_check_description">เพิ่มช่องทำเครื่องหมาย</string>
     <string name="toolbar_delete_description">ลบบันทึกนี้</string>
     <string name="toolbar_gallery_description">เพิ่มรูปภาพ</string>
@@ -216,10 +221,9 @@
     <string name="trash_folder_reminder">บันทึกที่คุณลบจะลบอย่างถาวรใน 30 วัน</string>
     <string name="undo">เลิกทำ</string>
     <string name="unknown_source">ไม่ทราบที่มา</string>
+    <string name="widget_content_loading">รอสักครู่…</string>
+    <string name="widget_havenot_content">แตะเพื่อสร้างบันทึก กดที่วิดเจ็ตค้างไว้เพื่อปรับขนาด</string>
     <string name="welcome_note_for_cm">"และคุณลักษณะที่ดีกว่า!
  - ซิงค์กับ Mi คลาวด์
  - ตั้งค่าการแจ้งเตือน"</string>
-    <string name="widget_content_loading">รอสักครู่…</string>
-    <string name="widget_havenot_content">แตะเพื่อสร้างบันทึก กดที่วิดเจ็ตค้างไว้เพื่อปรับขนาด</string>
-    <string name="note_alert_expired">หมดอายุแล้ว</string>
 </resources>

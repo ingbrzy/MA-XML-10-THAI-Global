@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s ดาวน์โหลด</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">ผู้ใช้งาน %1$s คน</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d วันก่อน</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d ชั่วโมงก่อน</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">พบจำนวน %d ยี่ห้อ</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d นาทีก่อน</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d ตอน</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d วิดีโอ</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">เล่นตอน %d</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">พบ %d วิดีโอ</item>
+    </plurals>
+</resources>

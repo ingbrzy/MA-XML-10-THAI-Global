@@ -17,6 +17,38 @@
         <item>ไม่เกิน 3 การดำเนินการ</item>
         <item>ไม่เกิน 4 การดำเนินการ</item>
     </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="battery_options">
         <item>แสดงเปอร์เซ็นต์เสมอ</item>
         <item>แสดงเปอร์เซ็นต์เมื่อชาร์จ (ค่าเริ่มต้น)</item>
@@ -90,10 +122,27 @@
         <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (ค่าเริ่มต้น)</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="carrier_name">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item>SmarToneVodafone</item>
+    </string-array>
+    <string-array name="carrier_simple_name">
+        <item>CM</item>
+        <item>CU</item>
+        <item>CT</item>
+        <item>SMC HK</item>
     </string-array>
     <string-array name="clock_options">
         <item>แสดงชั่วโมง นาที และวินาที</item>
@@ -168,6 +217,7 @@
         <item>4K (อัพเกรด, ปลอดภัย)</item>
         <item>720p, 1080p (หน้าจอคู่)</item>
     </string-array>
+    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>ปิด</item>
         <item>64K</item>
@@ -231,6 +281,17 @@
         <item>อย่างเร็ว</item>
         <item>อย่างเร็วมาก</item>
         <item>เร็วที่สุด</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>กำลังชาร์จ</item>

@@ -14,7 +14,7 @@
     <string name="setting_up_workspace">กำลังตั้งค่าโปรไฟล์งาน…</string>
     <string name="admin_has_ability_to_monitor_profile">ผู้ดูแลระบบสามารถตรวจสอบและจัดการการตั้งค่า การเข้าถึงของบริษัท แอป สิทธิ์ และข้อมูลที่เชื่อมโยงกับโปรไฟล์นี้ ซึ่งรวมถึงกิจกรรมในเครือข่ายของคุณ ตลอดจนตำแหน่งของอุปกรณ์ ประวัติการโทร และประวัติการค้นหารายชื่อติดต่อ&lt;br>&lt;br>โปรดติดต่อผู้ดูแลระบบเพื่อสอบถามข้อมูลเพิ่มเติม รวมทั้งนโยบายความเป็นส่วนตัวขององค์กร</string>
     <string name="admin_has_ability_to_monitor_device">ผู้ดูแลระบบสามารถตรวจสอบและจัดการการตั้งค่า การเข้าถึงของบริษัท แอป สิทธิ์ และข้อมูลที่เชื่อมโยงกับอุปกรณ์นี้ ซึ่งรวมถึงกิจกรรมในเครือข่ายของคุณ ตลอดจนตำแหน่งของอุปกรณ์ ประวัติการโทร และประวัติการค้นหารายชื่อติดต่อ&lt;br>&lt;br>โปรดติดต่อผู้ดูแลระบบเพื่อสอบถามข้อมูลเพิ่มเติม รวมทั้งนโยบายความเป็นส่วนตัวขององค์กร</string>
-    <string name="theft_protection_disabled_warning">หากต้องการใช้คุณลักษณะการป้องกันขโมย อุปกรณ์ของคุณต้องมีการล็อกหน้าจอที่ป้องกันด้วยรหัสผ่าน</string>
+    <string name="theft_protection_disabled_warning">หากต้องการใช้ฟีเจอร์การป้องกันขโมย อุปกรณ์ของคุณต้องมีการล็อกหน้าจอที่ป้องกันด้วยรหัสผ่าน</string>
     <string name="contact_your_admin_for_more_info">ติดต่อผู้ดูแลระบบสำหรับข้อมูลเพิ่มเติม รวมถึงนโยบายความเป็นส่วนตัวขององค์กร</string>
     <string name="learn_more_link">เรียนรู้เพิ่มเติม</string>
     <string name="cancel_setup">ยกเลิก</string>
@@ -27,7 +27,7 @@
     <string name="default_managed_profile_name">โปรไฟล์งาน</string>
     <string name="default_first_meat_user_name">ผู้ใช้หลัก</string>
     <string name="delete_profile_title">ลบโปรไฟล์ที่มีอยู่ใช่ไหม</string>
-    <string name="opening_paragraph_delete_profile">คุณมีโปรไฟล์งานอยู่แล้ว ซึ่งจัดการโดยใช้แอปต่อไปนี้</string>
+    <string name="opening_paragraph_delete_profile">คุณมีโปรไฟล์งานอยู่แล้ว ซึ่งมีการจัดการโดยใช้แอปต่อไปนี้</string>
     <string name="read_more_delete_profile">ก่อนดำเนินการต่อ โปรด<a href="#read_this_link">อ่านข้อมูลนี้</a></string>
     <string name="sure_you_want_to_delete_profile">หากดำเนินการต่อ ระบบจะลบแอปและข้อมูลทั้งหมดในโปรไฟล์นี้</string>
     <string name="delete_profile">ลบ</string>
@@ -40,17 +40,15 @@
     <string name="continue_provisioning_notify_text">แตะเพื่อตั้งค่าโปรไฟล์งานต่อ</string>
     <string name="managed_provisioning_error_text">ไม่สามารถตั้งค่าโปรไฟล์งานของคุณได้ โปรดติดต่อฝ่ายไอทีหรือลองอีกครั้งในภายหลัง</string>
     <string name="cant_add_work_profile">ไม่สามารถเพิ่มโปรไฟล์งาน</string>
-    <string name="user_cant_have_work_profile_contact_admin">ผู้ใช้นี้ไม่สามารถมีโปรไฟล์งาน โปรดติดต่อผู้ดูแลระบบเพื่อรับความช่วยเหลือ</string>
-    <string name="user_cannot_have_work_profiles_contact_admin">ผู้ใช้นี้ไม่สามารถมีโปรไฟล์งาน โปรดติดต่อผู้ดูแลระบบ</string>
-    <string name="device_owner_exists">ไม่สามารถติดตั้งโปรไฟล์งานบนอุปกรณ์ที่มีการจัดการ</string>
-    <string name="too_many_users_on_device_remove_user_try_again">อุปกรณ์นี้อาจมีผู้ใช้มากเกินไป โปรดนำผู้ใช้ออกแล้วลองอีกครั้ง</string>
+    <string name="cant_replace_or_remove_work_profile">ไม่สามารถเปลี่ยนหรือนำโปรไฟล์งานออก</string>
+    <string name="work_profile_cant_be_added_contact_admin">ไม่สามารถเพิ่มโปรไฟล์งานลงในอุปกรณ์นี้ หากมีคำถาม โปรดติดต่อผู้ดูแลระบบของคุณ</string>
     <string name="change_device_launcher">เปลี่ยน Launcher ของอุปกรณ์</string>
     <string name="launcher_app_cant_be_used_by_work_profile">โปรไฟล์งานของคุณไม่สามารถใช้แอป Launcher นี้</string>
     <string name="cancel_provisioning">ยกเลิก</string>
     <string name="pick_launcher">ตกลง</string>
     <string name="user_setup_incomplete">การตั้งค่าผู้ใช้ไม่สมบูรณ์</string>
     <string name="default_owned_device_username">ผู้ใช้อุปกรณ์ในการทำงาน</string>
-    <string name="setup_work_device">ตั้งค่าอุปกรณ์ที่ทำงาน</string>
+    <string name="setup_work_device">กำลังตั้งค่าอุปกรณ์ที่ทำงาน…</string>
     <string name="progress_data_process">กำลังดำเนินการกับข้อมูลการตั้งค่า…</string>
     <string name="progress_connect_to_wifi">กำลังเชื่อมต่อ Wi-Fi…</string>
     <string name="progress_download">กำลังดาวน์โหลดแอปผู้ดูแลระบบ…</string>
