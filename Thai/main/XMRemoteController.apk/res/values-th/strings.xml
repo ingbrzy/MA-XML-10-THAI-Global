@@ -20,7 +20,6 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์กับ %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="search_menu_title">ค้นหา</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ac_gree">Gree AC</string>
     <string name="ac_mode_auto">อัตโนมัติ</string>
     <string name="ac_mode_cold">ทำความเย็น</string>
@@ -103,7 +102,6 @@
     <string name="bind_stb">ดำเนินการจับคู่กล่องเซ็ตท็อปต่อ</string>
     <string name="bind_stb_dlg">จับคู่กับกล่องเซตท็อปเพื่อเปลี่ยนช่อง</string>
     <string name="bind_stb_dlg_agree">จับคู่</string>
-    <string name="brand_device">%1$s %2$s</string>
     <string name="brand_search_box_hint">เลือกผู้ผลิต</string>
     <string name="brand_title_all">ทั้งหมด</string>
     <string name="brand_title_hot">ยอดนิยม</string>
@@ -306,7 +304,6 @@
     <string name="hot_videos">ยอดนิยม</string>
     <string name="hour">ชม.</string>
     <string name="humidity">ความชื้น:</string>
-    <string name="humidity_frame">%1$d%%</string>
     <string name="increase">เพิ่ม</string>
     <string name="input_complete">ตกลง</string>
     <string name="input_dialogue_cancel_button">ยกเลิก</string>
@@ -406,7 +403,6 @@
     <string name="loading_more">รอสักครู่…</string>
     <string name="locate_current_place">ค้นหาตำแหน่งที่ตั้งปัจจุบัน</string>
     <string name="location_select">เปลี่ยนชื่ออุปกรณ์</string>
-    <string name="lock_screen_device_sum">%1$d</string>
     <string name="login">ลงชื่อเข้าใช้</string>
     <string name="login_directly">ลงชื่อเข้าใช้</string>
     <string name="login_done">ลงชื่อเข้าใช้แล้ว</string>
@@ -433,7 +429,6 @@
     <string name="match_data">ข้อมูลการจับคู่</string>
     <string name="match_data_error_tips">"ไม่สามารถขอรับข้อมูลได้
 ย้อนกลับไปเพื่อดำเนินการต่อ"</string>
-    <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_direction_default">ปุ่มทิศทางทำงานหรือไม่?</string>
     <string name="match_dvd_intro_pause">ปล่อยเมื่อ DVD หยุดชั่วคราว</string>
     <string name="match_dvd_intro_play">ปล่อยเมื่อ DVD เริ่มเล่น</string>
@@ -857,8 +852,6 @@
     <string name="scaning">กำลังค้นหา…</string>
     <string name="scanning_milink">กำลังค้นหาอุปกรณ์…</string>
     <string name="scene_default">ค่าเริ่มต้น</string>
-    <string name="scene_name_frame">%1$s %2$s%3$s</string>
-    <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">ภาพหน้าจอ</string>
     <string name="screenshot_failed">ไม่สามารถจับภาพหน้าจอได้</string>
     <string name="screenshot_failed_and_check_connection">ไม่สามารถจับภาพหน้าจอได้ ตรวจสอบอุปกรณ์ที่เชื่อมต่อ</string>
@@ -966,7 +959,6 @@
     <string name="start_diagnosis">ทดสอบ</string>
     <string name="start_match">จับคู่</string>
     <string name="stb">กล่องเซ็ตท็อป</string>
-    <string name="stb_detail_title_frame">%1$s - %2$d</string>
     <string name="stb_power">เปิด/ปิดกล่อง</string>
     <string name="steps">พยายามครั้งที่ #%d</string>
     <string name="sticky_on_top">ปักหมุด</string>
