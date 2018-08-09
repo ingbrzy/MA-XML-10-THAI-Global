@@ -91,6 +91,7 @@
     <string name="hints_apk_header_left">แพ็คเกจ</string>
     <string name="hints_residual_header_left">ไฟล์ตกค้าง</string>
     <string name="hints_memory_header_left">หน่วยความจำ</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ไฟล์ใหญ่: %d</string>
     <string name="hints_installed_apps_header_left">แอปที่ติดตั้งไว้: %d</string>
     <string name="toast_resolve_apk_error">แก้ไขข้อผิดพลาดไฟล์ APK</string>
@@ -194,7 +195,7 @@
     <string name="deepclean_normal_title">ทำความสะอาดอัตโนมัติ</string>
     <string name="deepclean_normal_item_desc1">โฟลเดอร์ขยะ</string>
     <string name="deepclean_normal_item_desc2">การทำความสะอาดไม่มีผลกระทบต่อการทำงานของระบบ</string>
-    <string name="deepclean_1_k_clean">ทำความสะอาดแบบเร็ว</string>
+    <string name="deepclean_1_k_clean">ล้างหน่วยความจำ</string>
     <string name="similar_image_title">รูปภาพ</string>
     <string name="similar_image_desc">ลบรูปซ้ำกัน</string>
     <string name="similar_image_scaning">กำลังตรวจสอบ…</string>
@@ -298,6 +299,7 @@
     <string name="downloading">กำลังดาวน์โหลด</string>
     <string name="installing">กำลังติดตั้ง</string>
     <string name="start_install">ติดตั้งตอนนี้</string>
+    <string name="empty">" "</string>
     <string name="open_browser">เปิดด้วยเบราว์เซอร์</string>
     <string name="title_share_link">แชร์ลิงก์ URL</string>
     <string name="connecting">กำลังเชื่อมต่อ…</string>
@@ -528,7 +530,7 @@
     <string name="wechat_msg_time_long">dd-MM-yyyy</string>
     <string name="wechat_msg_time_short">dd-MM</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
-    <string name="main_total_garbage">ขยะทั้งหมด</string>
+    <string name="main_total_garbage">ขนาดของขยะ</string>
     <string name="whatsapp_group_image">รูปภาพ</string>
     <string name="whatsapp_group_video">วิดีโอ</string>
     <string name="whatsapp_group_voice">ข้อความเสียง</string>
@@ -551,7 +553,17 @@
     <string name="whatsapp_content_empty">ไม่มีรายการ</string>
     <string name="whatsapp_delete_confirm_message">ลบทันที?</string>
     <string name="whatsapp_delete_done">เสร็จสิ้น</string>
-    <string name="whatsapp_title">ตัวทำความสะอาด Whatsapp</string>
+    <string name="whatsapp_title">ตัวทำความสะอาด WhatsApp</string>
     <string name="whatsapp_function_title">ตัวทำความสะอาด WhatsApp</string>
     <string name="whatsapp_function_summery">ล้างสิ่งที่แนบ WhatsApp</string>
+    <string name="clean_summary">ทำความสะอาด %1$s ไฟล์</string>
+    <string name="onekeyclean_boosting_title">กำลังเพิ่มความเร็ว</string>
+    <string name="onekeyclean_boosted_title">ล้างเรียบร้อยแล้ว</string>
+    <string name="onekeyclean_boost_cleaned">ทำความสะอาดแล้ว %s</string>
+    <string name="onekeyclean_boost_available">คงเหลือ %s</string>
+    <string name="onekeyclean_card_summery">ล้างขยะเพื่อเพิ่มพื้นที่ว่าง</string>
+    <string name="onekeyclean_card_btn">ทำความสะอาดทันที</string>
+    <string name="memory_clean_icon_text">ล้างหน่วยความจำ</string>
+    <string name="pref_title_create_onekeyclean_shortcut">แสดงปุ่มลัดบนหน้าจอหลัก</string>
+    <string name="memory_clean_no_trash_tip">ไม่พบสิ่งผิดปกติ</string>
 </resources>

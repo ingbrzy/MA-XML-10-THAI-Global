@@ -172,9 +172,12 @@
     <string name="wifi_assistant_wifi_no_internet">เครือข่าย Wi-Fi นี้ไม่มีอินเตอร์เน็ต</string>
     <string name="wifi_assistant_wifi_no_internet_detail">แตะเพื่อดูรายละเอียด</string>
     <string name="resolver_app_recommend_flag">แนะนำ</string>
-    <string name="voice_button_action_up">Press to talk</string>
-    <string name="voice_button_action_down">Release to search</string>
-    <string name="voice_begin">What are you looking for?</string>
-    <string name="voice_input_error_network">"Couldn't connect to the network. Check your network settings and try again."</string>
-    <string name="voice_input_error_other">An error occurred. Wait a minute or two and try again.</string>
+    <string name="voice_button_action_up">กดเพื่อพูด</string>
+    <string name="voice_button_action_down">ปล่อยเพื่อค้นหา</string>
+    <string name="voice_begin">คุณกำลังมองหาอะไร?</string>
+    <string name="voice_input_error_network">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองใหม่</string>
+    <string name="voice_input_error_other">เกิดข้อผิดพลาด รอประมาณ1-2นาทีแล้วลองใหม่อีกครั้ง</string>
+    <string name="miui_warning_button_ok">ตกลง</string>
+    <string name="miui_warning_button_cancel">ยกเลิก </string>
+    <string name="miui_warning_tip_info">เกิดข้อผิดพลาดใน %1$s ปิดแอปนี้เดี๋ยวนี้หรือไม่?</string>
 </resources>

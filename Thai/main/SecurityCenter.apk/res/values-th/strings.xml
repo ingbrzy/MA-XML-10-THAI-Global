@@ -433,6 +433,7 @@
     <string name="managed_user_title">แอปที่ทำงานทั้งหมด</string>
     <string name="pref_about_traffic_title">การตั้งค่าการใช้ข้อมูล</string>
     <string name="pref_traffic_manage_title">การใช้ข้อมูล</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">แพ็คเกจข้อมูล</string>
     <string name="pref_adjust_traffic_data">ตั้งการใช้ข้อมูล</string>
     <string name="pref_category_title_other">การตั้งค่าเพิ่มเติม</string>
@@ -442,9 +443,9 @@
     <string name="pref_title_declaration">คำจำกัดสิทธิ์ความรับผิดชอบ</string>
     <string name="pref_new_installed_preconfig_title">การตั้งค่าเริ่มต้นของแอปใหม่</string>
     <string name="pref_bg_network_title">การเชื่อมต่อพื้นหลัง</string>
-    <string name="pref_mi_sim_settings">การตั้งค่าซิม Mi</string>
-    <string name="pref_title_upload_data_usage">รายงานสถิติการใช้ข้อมูล</string>
-    <string name="pref_summary_upload_data_usage">รายงานสถิติการใช้ข้อมูลของคุณเพื่อช่วยปรับปรุง MIUI การรายงานจะดำเนินการตามนโยบายส่วนบุคคลของเรา</string>
+    <string name="pref_mi_sim_settings">%s การตั้งค่าแพคเกจ</string>
+    <string name="pref_title_upload_data_usage">รายงานข้อมูลการใช้ข้อมูล</string>
+    <string name="pref_summary_upload_data_usage">รายงานข้อมูลการใช้ข้อมูลของคุณเพื่อช่วยปรับปรุงบริการของ MIUI กระบวนการรายงานจะดำเนินการตามนโยบายส่วนบุคคลของเรา</string>
     <string name="pref_manual_adjust">ตั้งสถิติการใช้ข้อมูลด้วยตนเอง</string>
     <string name="pref_daily_adjust">ตั้งค่าการใช้ข้อมูลช่วงปกติ</string>
     <string name="pref_free_adjust">ตั้งเพดานการใช้ข้อมูลนอกช่วงปกติ</string>
@@ -885,6 +886,7 @@
     <string name="status_bar_network_flow_content">วันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; คงเหลือ: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">วันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; เดือนนี้: %2$s</string>
     <string name="status_bar_network_flow_today">วันนี้: %1$s</string>
+    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">ขีดจำกัดข้อมูลแบบครั้งเดียว</string>
     <string name="pref_key_tethering_title">ขีดจำกัดข้อมูลแบบครั้งเดียว</string>
     <string name="tether_limit_value_custom">กำหนดเอง</string>
@@ -958,6 +960,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"แอปนี้อาจทำให้อุปกรณ์ของคุณ
 ช้าลง"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">ถอนการติดตั้ง %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">ถอนการติดตั้งแอปนี้เพื่อแก้ไขปัญหาการใช้แบตเตอรี่</string>
     <string name="om_ill_proc_type_wakelock_title">แอปบล็อกโหมดสลีปทำให้แบตเตอรี่หมดเร็ว</string>
@@ -1016,6 +1019,7 @@
     <string name="usage_type_data_send">ปริมาณข้อมูลขาออก</string>
     <string name="usage_type_no_coverage">ระยะเวลาที่อับสัญญาณ</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">แอนดรอยด์</string>
     <string name="process_mediaserver_label">เซิร์ฟเวอร์สื่อมีเดีย</string>
     <string name="power_screen">หน้าจอ</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1362,11 +1366,13 @@
     <string name="menu_text_optimize_manage">เพิ่มความเร็ว</string>
     <string name="menu_text_networkassistants">การใช้ข้อมูล</string>
     <string name="menu_summary_networkassistants">จัดการแพ็คเกจข้อมูลของคุณ</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">เกินขีดจำกัด</string>
     <string name="menu_summary_networkassistants_3">มีข้อมูลเหลือเพียงพอ</string>
     <string name="menu_summary_networkassistants_4">ใช้ข้อมูลหมดแล้ว</string>
     <string name="menu_text_networkassistants_remain">คงเหลือ %s</string>
     <string name="menu_text_networkassistants_danger">ใช้เกินไป %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1379,12 +1385,14 @@
     <string name="menu_summary_garbage_cleanup">ไม่มีขยะ</string>
     <string name="menu_summary_garbage_cleanup_2">ปริมาณขยะ</string>
     <string name="menu_summary_garbage_cleanup_3">ล้างขยะทันที</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">การใช้แบตเตอรี่</string>
     <string name="menu_summary_power_manager">ตัวประหยัดแบตเตอรี่ช่วยให้โทรศัพท์ของคุณใช้งานได้นานขึ้น</string>
     <string name="menu_summary_power_manager_1">ชาร์จแบตเตอรี่เต็มแล้ว</string>
     <string name="menu_summary_power_manager_2">คงเหลือ %s</string>
     <string name="menu_summary_power_manager_3">เสียบที่ชาร์จ</string>
     <string name="menu_summary_power_manager_4">ชาร์จเต็มในอีก %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">การสแกนครั้งล่าสุดถูกยกเลิก</string>
     <string name="examination_score_100">ไม่พบสิ่งผิดปกติ!</string>
     <string name="examination_score_80_100">ยังปรับแต่งเล็กน้อยให้ดีขึ้นได้อีก</string>
@@ -1750,6 +1758,7 @@
     <string name="card_main_deepclean_wechat_action">ล้าง</string>
     <string name="card_main_sectool_title">เครื่องมือ</string>
     <string name="card_main_monthreport_action">เรียกดู</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ทดสอบเครือข่าย</string>
     <string name="card_main_netcheck_summary">ทดสอบการเชื่อมต่อสำหรับปัญหาเครือข่าย</string>
     <string name="card_main_netcheck_action">ทดสอบ</string>
@@ -1918,6 +1927,9 @@
     <string name="set_pattern_password_name">ตั้งค่ารูปแบบ</string>
     <string name="set_numeric_password_name">ตั้งค่ารหัส PIN</string>
     <string name="set_mixed_password_name">ตั้งรหัสผ่าน</string>
+    <string name="reset_data_title">ไม่สามารถกู้คืนรหัสผ่านได้</string>
+    <string name="reset_data_dialog_message">อุปกรณ์นี้ไม่เชื่อมโยงกับบัญชี Mi ของคุณ ไม่สามารถเรียกคืนหรือรีเซ็ตรหัสผ่านได้          สำรองข้อมูลรายการที่มีอยู่ทั้งหมดและดำเนินการรีเซ็ตเป็นค่าเริ่มต้น ข้อมูลทั้งหมดจะถูกลบอย่างถาวรและ SD การ์ดของคุณจะถูกลบ          ฟอร์แมตในระหว่างการรีเซ็ตเป็นค่าเริ่มต้น</string>
+    <string name="reset_data_dialog_ok">คืนค่าจากโรงงาน</string>
     <string name="wakepath_confirm_start_activity">อนุญาต %1$s ให้เปิด %2$s?</string>
     <string name="unlike">ไม่ ขอบคุณ</string>
     <string name="toast_network_eror">เชื่อมต่อกับเครือข่ายไม่ได้</string>
@@ -2170,7 +2182,7 @@
     <string name="sys_title_gamebooster_unit_mb">MB</string>
     <string name="gmscore_support_service">Google Services</string>
     <string name="gmscore_support_remind">เปิดใช้งานคุณลักษณะนี้หากคุณพบปัญหาในการใช้ Gmail, Google Maps และแอป Google อื่นๆ การดำเนินการนี้อาจจะใช้งานแบตเตอรี่เพิ่มขึ้น</string>
-    <string name="google_base_app_install_choice">\"%s\" จำเป็นต้องใช้ Google Service Framework เพื่อให้ทำงานได้ตามปกติ ดาวน์โหลดและติดตั้งหรือไม่?</string>
+    <string name="google_base_app_install_choice">แอปจำเป็นต้องใช้ Google Service Framework เพื่อให้ทำงานได้ตามปกติ ดาวน์โหลดและติดตั้งหรือไม่?</string>
     <string name="application_item_disable">จำกัดแล้ว</string>
     <string name="application_item_already_permission">อนุญาตแล้ว</string>
     <string name="man_add_application">เพิ่มแอปเริ่มต้นอัตโนมัติด้วยตนเอง</string>

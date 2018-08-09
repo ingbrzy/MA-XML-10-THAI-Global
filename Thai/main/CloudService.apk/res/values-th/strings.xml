@@ -35,6 +35,8 @@
     <string name="mx_sub_dspt_provision_with_voip">การโทรทางอินเทอร์เน็ต</string>
     <string name="phone_number_required_dspt_provision">"การใช้งานบริการนี้ต้องระบุหมายเลขโทรศัพท์ของคุณ "</string>
     <string name="sync_dspt_provision">"ซิงค์รูปภาพ เบอร์โทรติดต่อ บันทึกย่อ และอื่นๆระหว่างอุปกรณ์ต่างๆของคุณได้ที่ "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"คุณสามารถเปิด-ปิดการการใช้งานนี้จากเมนูการตั้งค่าได้ตลอดเวลา
 "</string>
     <string name="sync_dspt_entrance_provision">"ซิงค์รูปภาพ รายชื่อในโทรศัพท์ ประวัติการโทรและข้อความของคุณระหว่างเครื่อง คุณสามารถเข้าถึงสิ่งที่คุณซิงค์ไว้ผ่านเบราว์เซอร์ได้ที่ %s "</string>
@@ -45,6 +47,8 @@
     <string name="sync_dspt_entrance_provision_skip">ข้ามขั้นตอนนี้</string>
     <string name="sync_dspt_entrance_provision_network">แอปนี้ต้องการเชื่อมต่อกับอินเทอร์เน็ตเพื่อทำงานได้ตามปกติ การซิงค์ข้อมูลอาจต้องใช้การเชื่อมต่อข้อมูลมือถือและเปิด Wi-Fi</string>
     <string name="find_device_dspt_provision">ในกรณีที่เครื่องโทรศัพท์ของคุณหาย คุณสามารถเข้าไปที่ %s เพื่อค้นหาพิกัดเครื่อง ทำการล็อกหรือรีเซ็ต โดยคุณสามารถเปิด-ปิดคุณลักษณะนี้ได้ตลอดเวลาในเมนูการตั้งค่า</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">"
 
 หากคุณเปลี่ยนซิมการ์ด ระบบจะส่งข้อความอีกครั้งเพื่อเปิดใช้งานบริการดังกล่าวโดยอัตโนมัติ"</string>
@@ -87,6 +91,7 @@
     <string name="micloud_dspt">ใช้ Mi คลาวด์ ได้ทั้งการซิงค์ข้อมูลและค้นหาเครื่อง</string>
     <string name="micloud_sec_dspt">และยังแชร์สิ่งต่างๆกับเพื่อนได้อีกด้วย</string>
     <string name="micloud_dspt_provision">ใช้ Mi คลาวด์ในการซิงค์ข้อมูล ค้นหาเครื่องและแชร์สิ่งต่างๆกับเพื่อนของคุณ</string>
+    <string name="micloud_dspt_provision_xms">ใช้ Mi Cloud เพื่อซิงค์ข้อมูล</string>
     <string name="micloud_proceed">ดำเนินการต่อ</string>
     <string name="master_alert_notif_title">เปิดใช้การซิงค์กับ Mi คลาวด์</string>
     <string name="master_alert_notif_content">ไม่สามารถซิงค์ได้</string>
@@ -157,6 +162,7 @@
 ใช้บัญชีอื่น"</string>
     <string name="micloud_main_cancel_sync">ยกเลิกการซิงค์</string>
     <string name="micloud_main_query_again">ส่งคำร้องขออื่น</string>
+    <string name="micloud_main_cancel_sync_now">กำลังยกเลิก…</string>
     <string name="micloud_main_wait_wlan">กำลังรอ Wi-Fi</string>
     <string name="micloud_main_wait_wlan_charge_sleep">เชื่อมต่อ Wi-Fi ปิดหน้าจอและชาร์จอุปกรณ์ให้เต็มเพื่อดำเนินการซิงค์ต่อ</string>
     <string name="micloud_main_wait_wlan_charge">เชื่อมต่อ Wi-Fi และชาร์จอุปกรณ์ให้เต็มเพื่อดำเนินการซิงค์ต่อ</string>
@@ -166,6 +172,11 @@
     <string name="micloud_main_button_set_internet">การตั้งค่า</string>
     <string name="micloud_main_button_activate">เปิดใช้งาน</string>
     <string name="micloud_main_button_authorize">อนุญาต</string>
+    <string name="micloud_main_simple_synced">ซิงค์แล้ว</string>
+    <string name="micloud_main_simple_syncing">กำลังซิงค์</string>
+    <string name="micloud_main_simple_pending">รอดำเนินการ</string>
+    <string name="micloud_main_simple_off">การซิงค์ปิดอยู่</string>
+    <string name="micloud_main_simple_last_sync_time">ซิงค์ล่าสุดเมื่อ：%s</string>
     <string name="micloud_detail_syncing">กำลังซิงค์</string>
     <string name="micloud_detail_pending">กำลังรอ</string>
     <string name="micloud_detail_success">ซิงค์แล้ว</string>
@@ -281,6 +292,7 @@
     <string name="micloud_find_device_opened">การค้นหาอุปกรณ์เปิดใช้งาน</string>
     <string name="micloud_find_device_open_fail">ไม่สามารถปิดใช้การค้นหาอุปกรณ์ได้</string>
     <string name="micloud_find_device_opened_content">ค้นหาอุปกรณ์ของคุณใน %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">ไม่สามารถเปิดใช้งานค้นหาอุปกรณ์อีกครั้งได้</string>
     <string name="micloud_find_device_close_fail">ไม่สามารถปิดใช้งานการค้นหาอุปกรณ์ได้</string>
     <string name="micloud_find_device_finish">เสร็จสิ้น</string>
@@ -329,7 +341,7 @@
     <string name="micloud_request_permission_confirm">รับทราบ</string>
     <string name="short_cut_desc">เพิ่มไอคอน Mi คลาวด์ไปยังหน้าจอหลัก?</string>
     <string name="add_short_cut">เพิ่ม</string>
-    <string name="close_shortcut">Close</string>
+    <string name="close_shortcut">ปิด</string>
     <string name="added_successfully">เพิ่มเรียบร้อย</string>
     <string name="other_sync_item">รายการซิงค์อื่นๆ</string>
     <string name="network_unconnected">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
@@ -347,6 +359,8 @@
     <string name="micloud_main_head_menu_state_close">ปิด</string>
     <string name="micloud_main_head_menu_state_unavailable">ไม่รองรับ</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">ค้นหาอุปกรณ์ไม่พร้อมใช้งานในพื้นที่ทับซ้อน คุณสามารถใช้งานได้ในพื้นที่ปกติ</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">การชำระเงินด้วยลายนิ้วมือ</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>
@@ -373,15 +387,11 @@
     <string name="member_menu_vipname_premium">พรีเมี่ยม</string>
     <string name="member_menu_vipname_mega">เมก้า</string>
     <string name="member_menu_vipname_ultra">อัลตร้า</string>
+    <string name="micloud_storage_unit_mb">%sMB</string>
+    <string name="micloud_storage_unit_gb">%sGB</string>
     <string name="micloud_main_memory_low_title">ที่จัดเก็บข้อมูลภายในของโทรศัพท์ใกล้จะเต็มแล้ว</string>
     <string name="micloud_notif_title_memory_low">ไม่สามารถซิงค์กับ Mi คลาวด์ได้</string>
     <string name="find_device_service_title">ค้นหาอุปกรณ์</string>
     <string name="micloud_wipe_data_confirm_title">ลบรายการซิงค์กับ Mi คลาวด์จากโทรศัพท์หลังจากคุณลงชื่อออก?</string>
     <string name="wipe_data_dialog_msg">บางรายการ %s ยังไม่ได้ซิงค์ มันจะถูกบันทึกไว้ในโทรศัพท์ของคุณและจะไม่ถูกลบ</string>
-    <string name="hybrid_check_network">ตั้งค่าเครือข่าย</string>
-    <string name="hybrid_try_again">ลองใหม่</string>
-    <string name="hybrid_network_unavaliable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
-    <string name="hybrid_network_access_denied">ระบบไม่ได้รับอนุญาตให้ใช้งานเครือข่าย</string>
-    <string name="hybrid_service_unavailiable">บริการไม่พร้อมใช้งาน</string>
-    <string name="hybrid_data_error">เกิดข้อผิดพลาด</string>
 </resources>

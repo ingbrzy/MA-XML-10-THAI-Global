@@ -148,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">การปลุกจะดังหลังจากปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="slider_text">เลื่อนขึ้นเพื่อปิดใช้งาน</string>
     <string name="snooze_confirm_cancel">เลิกทำการปลุก</string>
@@ -156,6 +157,7 @@
     <string name="start_up">เริ่ม</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_title">จับเวลา</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">การตั้งค่า</string>
     <string name="system_time_settings_category_title">การตั้งค่าเวลา</string>
     <string name="temperature_unit">%1$s°</string>
@@ -174,10 +176,14 @@
     <string name="timer_alert_type_rain">ฝนละออง</string>
     <string name="timer_alert_type_stove_fire">เตาไฟ</string>
     <string name="timer_alert_type_summer_night">คืนฤดูร้อน</string>
+    <string name="timer_cancel_hint">หยุด</string>
     <string name="timer_cancel_timer">ยกเลิกจับเวลา</string>
     <string name="timer_clock_alert_text">ตั้งเวลา</string>
     <string name="timer_continue">ดำเนินการต่อ</string>
     <string name="timer_continue_timer">จับเวลาต่อ</string>
+    <string name="timer_end_time">จับเวลาจะหยุดที่ %s</string>
+    <string name="timer_end_time_format">HH:mm dd MMM</string>
+    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">ตกลง</string>
     <string name="timer_item_duration_display">%1$d นาที %2$d วินาที</string>
     <string name="timer_item_label_hint">ชื่อตั้งปลุก</string>
@@ -212,6 +218,4 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">ชั่วโมง</string>
     <string name="worldcolock_timezone_local">เหมือนกับเวลาท้องถิ่น</string>
-    <string name="timer_pause_hint">หยุดพัก</string>
-    <string name="timer_running_hint">ดำเนินต่อ</string>
 </resources>

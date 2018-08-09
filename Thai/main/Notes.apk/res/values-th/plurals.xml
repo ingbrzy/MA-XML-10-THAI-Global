@@ -13,6 +13,6 @@
         <item quantity="other">เหลือ %d วินาที</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%s ตัวอักษร</item>
+        <item quantity="other">%d ตัวอักษร</item>
     </plurals>
 </resources>

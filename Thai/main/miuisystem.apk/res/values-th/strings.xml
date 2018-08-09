@@ -13,6 +13,8 @@
     <string name="device_hongmi">Redmi</string>
     <string name="device_pad">Mi แพด</string>
     <string name="device_xiaomi">Mi Phone</string>
+    <string name="device_poco_global">POCOPHONE</string>
+    <string name="device_poco_india">POCO PHONE</string>
     <string name="solar_calendar">公历</string>
     <string name="lunar_calendar">ปฏิทินจีน</string>
     <string name="lunar_zheng">正</string>

@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">กล้อง</string>
     <string name="accessibility_carrier_network_change_mode">แก้ไขผู้ให้บริการเครือข่าย</string>
     <string name="accessibility_cast_name">เชื่อมต่อไปยัง %s แล้ว</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">หยุดการฉายภาพหน้าจอ</string>
     <string name="accessibility_cell_data">ข้อมูลมือถือ</string>
     <string name="accessibility_cell_data_off">ข้อมูลมือถือปิด</string>
@@ -144,6 +145,7 @@
     <string name="accessibility_quick_settings_airplane_off">โหมดเครื่องบินปิดอยู่</string>
     <string name="accessibility_quick_settings_airplane_on">โหมดเครื่องบินเปิดอยู่</string>
     <string name="accessibility_quick_settings_alarm">ตั้งค่าการปลุกเป็น %s</string>
+    <string name="accessibility_quick_settings_alarm_on">ตั้งการปลุกเปิด</string>
     <string name="accessibility_quick_settings_alarm_set">ตั้งการปลุก</string>
     <string name="accessibility_quick_settings_battery">แบตเตอรี่ %s</string>
     <string name="accessibility_quick_settings_bluetooth">บลูทูธ</string>
@@ -151,6 +153,7 @@
     <string name="accessibility_quick_settings_bluetooth_changed_on">เปิดใช้งานบลูทูธ</string>
     <string name="accessibility_quick_settings_bluetooth_connected">เชื่อมต่อบลูทูธแล้ว</string>
     <string name="accessibility_quick_settings_bluetooth_connecting">เชื่อมต่อบลูทูธ</string>
+    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">แบตเตอรี่อุปกรณ์บลูทูธ %d เปอร์เซ็นต์</string>
     <string name="accessibility_quick_settings_bluetooth_off">บลูทูธปิดอยู่</string>
     <string name="accessibility_quick_settings_bluetooth_on">บลูทูธเปิดอยู่</string>
     <string name="accessibility_quick_settings_close">ปิดแผงหน้าจอ</string>
@@ -274,7 +277,7 @@
     <string name="apn_settings_not_available">ผู้ใช้นี้ไม่มีสิทธิ์ในการตั้งค่า APN</string>
     <string name="app_info">ข้อมูลแอป</string>
     <string name="app_label">ระบบ UI</string>
-    <string name="app_name">ป้องกันการกดปุ่ม</string>
+    <string name="app_name">หน้าจอล็อก</string>
     <string name="app_process_limit_title">กำหนดการดำเนินการในพื้นหลัง</string>
     <string name="as_important">สำคัญ</string>
     <string name="as_unimportant">ไม่สำคัญ</string>
@@ -453,9 +456,9 @@
     <string name="daltonizer_type_overridden">แทนที่โดย %1$s</string>
     <string name="data_connection_no_internet">ไม่ได้เชื่อมต่อกับอินเทอร์เน็ต</string>
     <string name="data_saver">ตัวประหยัดข้อมูล</string>
-    <string name="data_saver_description">To help reduce data usage, Data Saver prevents some apps from sending or receiving data in the background. An app you’re currently using can access data, but may do so less frequently. This may mean, for example, that images don’t display until you tap them.</string>
-    <string name="data_saver_enable_button">Turn on</string>
-    <string name="data_saver_enable_title">Turn on Data Saver?</string>
+    <string name="data_saver_description">เพื่อช่วยลดการใช้ข้อมูล โปรแกรมป้องกันข้อมูลจะป้องกันไม่ให้แอปบางส่วนส่งหรือรับข้อมูลในพื้นหลัง แอปที่คุณใช้อยู่สามารถเข้าถึงข้อมูลได้ แต่อาจทำเช่นนั้นได้น้อยลง ซึ่งอาจหมายถึงภาพที่ไม่แสดงจนกว่าคุณจะแตะภาพ</string>
+    <string name="data_saver_enable_button">เปิดใช้งาน</string>
+    <string name="data_saver_enable_title">เปิดใช้โหมดประหยัดข้อมูล?</string>
     <string name="data_usage_disabled_dialog">"ถึงขีดจำกัดข้อมูลที่คุณตั้งไว้แล้ว คุณไม่สามารถใช้ข้อมูลมือถือต่อได้ 
 
  หากคุณดำเนินการต่อคุณอาจต้องเสียค่าใช้จ่ายสำหรับการใช้ข้อมูลเพิ่มเติม"</string>
@@ -713,6 +716,7 @@
     <string name="incorrect_pukcode">รหัส PUK ไม่ถูกต้อง</string>
     <string name="input_password_after_boot_msg">เพื่อปลดล็อกอุปกรณ์ กรุณาป้อนรหัสผ่าน</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ไม่สามารถสลับระหว่างพื้นที่ขณะโทรได้</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">ไม่สามารถสลับระหว่างช่องว่าง เมื่อเปิดใช้งานการปกป้องครอบครัว</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">คุณจำเป็นต้องเข้าสู่พื้นที่ปกติก่อนที่อุปกรณ์จะทำการรีบูต</string>
     <string name="input_password_handle_sdcard_fs">ไม่สามารถเข้าพื้นที่ทับซ้อนจากหน้าจอล็อกได้ กรุณาเข้าจากพื้นที่ปกติ</string>
     <string name="input_password_hint_text">ใส่รหัสผ่าน</string>
@@ -790,10 +794,14 @@
     <string name="keyguard_accessibility_pin_area">พื้นที่ PIN</string>
     <string name="keyguard_accessibility_sim_pin_area">พื้นที่ PIN ซิม</string>
     <string name="keyguard_accessibility_sim_puk_area">พื้นที่ PUK ซิม</string>
-    <string name="keyguard_carrier_default">ไม่มีบริการ</string>
+    <string name="keyguard_carrier_default">ไม่มีสัญญาณ</string>
     <string name="keyguard_charged">ชาร์จเต็ม</string>
     <string name="keyguard_charging_info_battery_used_time_text">ใช้แบตเตอรี่</string>
     <string name="keyguard_charging_info_click_to_detail">เรียกดูรายละเอียด</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">สัดส่วนการใช้แบต</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">วันนี้ %s</string>
@@ -803,7 +811,7 @@
     <string name="keyguard_charging_info_tip_text2">ไม่ควรชาร์ทนานเกินสมควร การชาร์จให้เพียงพอแล้วชาร์ทซ้ำย่อมดีกว่าการชาร์จทิ้งไว้ค้างคืน</string>
     <string name="keyguard_charging_info_tip_text3">ควรหลีกเลี่ยงการชาร์จเครื่องขณะอุณหภูมิโดยรอบต่ำกว่า 0℃</string>
     <string name="keyguard_charging_info_tip_text4">ห้ามใช้งานขณะชาร์จเเพราะทำให้เครื่องร้อนเกิน</string>
-    <string name="keyguard_charging_info_tip_text5">แบตจะชาร์จนานเมื่อมันร้อนกว่าปกติ</string>
+    <string name="keyguard_charging_info_tip_text5">ใช้เวลาชาร์จแบตเตอรี่นานขึ้นเมื่อแบตร้อนกว่าปกติ</string>
     <string name="keyguard_charging_info_tip_text6">ปิดหน้าจอและปล่อยไว้สักครู่เพื่อให้มันเย็นลง</string>
     <string name="keyguard_indication_charging_time">กำลังชาร์จ (อีก %s จะเต็ม)</string>
     <string name="keyguard_indication_charging_time_fast">กำลังชาร์จเร็ว (อีก %s จะเต็ม)</string>
@@ -817,7 +825,8 @@
     <string name="keyguard_missing_sim_instructions_long">ไม่พบซิมการ์ดหรืออ่านซิมการ์ดไม่ได้ กรุณาใส่ซิมการ์ด</string>
     <string name="keyguard_missing_sim_message">ไม่พบซิมการ์ดในเครื่อง</string>
     <string name="keyguard_missing_sim_message_short">ไม่พบซิมการ์ด</string>
-    <string name="keyguard_network_locked_message">เครือข่ายถูกล็อก</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
+    <string name="keyguard_network_locked_message">เครือข่ายถูกล็อกไว้</string>
     <string name="keyguard_password_enter_password_code">ป้อนรหัสผ่านเพื่อปลดล็อก</string>
     <string name="keyguard_password_enter_pin_code">ป้อนรหัส PIN</string>
     <string name="keyguard_password_enter_pin_password_code">ป้อนรหัส PIN เพื่อปลดล็อก</string>
@@ -838,7 +847,7 @@
     <string name="keyguard_sim_unlock_progress_dialog_message">กำลังปลดล็อกซิมการ์ด…</string>
     <string name="keyguard_torch_cover_text">กดปุ่มเปิดปิดเครื่องหากต้องการเปิดไฟฉายค้างไว้</string>
     <string name="keyguard_unlock">ปัดขึ้นเพื่อปลดล็อก</string>
-    <string name="kg_enter_confirm_pin_hint">ยืนยันรหัส PIN ที่ต้องการ</string>
+    <string name="kg_enter_confirm_pin_hint">ยืนยันรหัส PIN ใหม่</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">คุณพยายามปลดล็อคโทรศัพท์ผิดพลาด %1$d ครั้ง หากปลดล็อคไม่สำเร็จอีก %2$d ครั้ง โปรไฟล์งานจะถูกลบออก ซึ่งจะลบข้อมูลโปรไฟล์ทั้งหมด</string>
     <string name="kg_failed_attempts_almost_at_erase_user">คุณพยายามปลดล็อคโทรศัพท์ผิดพลาด %1$d ครั้ง หากปลดล็อคไม่สำเร็จอีก %2$d ครั้ง ผู้ใช้นี้จะถูกลบออก ซึ่งจะลบข้อมูลผู้ใช้ทั้งหมด</string>
     <string name="kg_failed_attempts_almost_at_login">"คุณพยายามวาดรูปแบบปลดล็อคผิดพลาด %1$d ครั้ง หากปลดล็อคไม่สำเร็จอีก %2$d ครั้ง คุณจะถูกขอให้ปลดล็อกโทรศัพท์โดยใช้บัญชีอีเมล
@@ -851,16 +860,16 @@
     <string name="kg_forgot_pattern_button_text">ลืมรูปแบบ</string>
     <string name="kg_invalid_confirm_pin_hint">รหัส PIN ไม่ตรงกัน</string>
     <string name="kg_invalid_puk">ป้อนรหัส PUK ที่ถูกต้องอีกครั้ง ใส่ผิดพลาดเยอะเกินไปซิมจะถูกปิดใช้งานอย่างถาวร</string>
-    <string name="kg_invalid_sim_pin_hint">ป้อนรหัส PIN ระหว่าง 4-8 ตัวเลข</string>
+    <string name="kg_invalid_sim_pin_hint">ป้อนรหัส PIN ที่เป็นตัวเลขความยาว 4-8 ตัว</string>
     <string name="kg_invalid_sim_puk_hint">รหัส PUK ควรเป็นตัวเลขมากกว่า 8 ตัวขึ้นไป</string>
     <string name="kg_login_too_many_attempts">ใส่รูปแบบผิดเกินจำนวนครั้งที่กำหนด</string>
-    <string name="kg_password_instructions">ป้อนรหัสผ่าน</string>
-    <string name="kg_password_pin_failed">ดำเนินการ PIN ซิมล้มเหลว</string>
-    <string name="kg_password_puk_failed">ดำเนินการ PUK ซิมล้มเหลว</string>
-    <string name="kg_password_wrong_pin_code_pukked">รหัส PIN ของซิมไม่ถูกต้อง คุณต้องติดต่อผู้ให้บริการเพื่อปลดล็อกอุปกรณ์ของคุณ</string>
+    <string name="kg_password_instructions">ใส่รหัสผ่าน</string>
+    <string name="kg_password_pin_failed">ไม่สามารถปลดล็อกรหัส PIN​ ซิมได้</string>
+    <string name="kg_password_puk_failed">ไม่สามารถปลดล็อก​ PUK ซิมได้</string>
+    <string name="kg_password_wrong_pin_code_pukked">รหัส PIN​ ไม่ถูกต้อง​ ติดต่อผู้ให้บริการของคุณเพื่อปลดล็อกอุปกรณ์ของคุณ</string>
     <string name="kg_password_wrong_puk_code_dead">ซิมไม่สามารถใช้งานได้ ติดต่อผู้ให้บริการของคุณ</string>
     <string name="kg_pattern_instructions">วาดรูปแบบของคุณ</string>
-    <string name="kg_pin_accepted">ยอมรับรหัส!</string>
+    <string name="kg_pin_accepted">ยอมรับรหัส</string>
     <string name="kg_pin_instructions">ป้อนรหัส PIN</string>
     <string name="kg_prompt_reason_device_admin">อุปกรณ์ถูกล็อกโดยผู้ดูแลระบบ</string>
     <string name="kg_prompt_reason_restart_password">ป้อนรหัสผ่านเพื่อปลดล็อก</string>
@@ -873,7 +882,7 @@
     <string name="kg_prompt_reason_timeout_pattern">ต้องการรูปแบบสำหรับความปลอดภัยเพิ่มเติม</string>
     <string name="kg_prompt_reason_timeout_pin">ต้องการรหัส PIN สำหรับความปลอดภัยเพิ่มเติม</string>
     <string name="kg_prompt_reason_user_request">อุปกรณ์ถูกล็อกด้วยตนเอง</string>
-    <string name="kg_puk_enter_pin_hint">ป้อนรหัส PIN ที่ต้องการ</string>
+    <string name="kg_puk_enter_pin_hint">ป้อนรหัส PIN ใหม่</string>
     <string name="kg_puk_enter_puk_hint">ซิมถูกปิดใช้งานแล้ว ป้อนรหัส PUK เพื่อดำเนินการต่อ ติดต่อผู้ให้บริการสำหรับรายละเอียด</string>
     <string name="kg_puk_enter_puk_hint_multi">ซิม \"%1$s\" ถูกปิดใช้งานแล้ว ป้อนรหัส PUK เพื่อดำเนินการต่อ ติดต่อผู้ให้บริการสำหรับรายละเอียด</string>
     <string name="kg_sim_pin_instructions">ป้อน PIN ของซิม</string>
@@ -900,6 +909,7 @@
     <string name="left_keycode">คีย์โค๊ดซ้าย</string>
     <string name="left_nav_bar_button_type">ประเภทปุ่มซ้ายพิเศษ</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">แตะเพื่อแก้ไขหรือลบรหัสผ่านสำหรับการสำรองข้อมูลหน้าจอหลักเต็มรูปแบบ</string>
     <string name="local_backup_password_summary_none">การสำรองข้อมูลหน้าจอหลักเต็มรูปแบบไม่ได้รับการป้องกันในขณะนี้</string>
     <string name="local_backup_password_title">รหัสผ่านข้อมูลสำรองหน้าจอหลัก</string>
@@ -927,8 +937,7 @@
     <string name="lockscreen_none">ไม่มี</string>
     <string name="lockscreen_shortcut_left">ปุ่มลัดซ้าย</string>
     <string name="lockscreen_shortcut_right">ปุ่มลัดขวา</string>
-    <string name="lockscreen_sim_error_message_short">บัตรไม่ถูกต้อง</string>
-    <string name="lockscreen_storage_locked">ปลดล็อกคุณลักษณะและข้อมูลทั้งหมด</string>
+    <string name="lockscreen_sim_error_message_short">ซิมการ์ดไม่ถูกต้อง</string>
     <string name="lockscreen_unlock_left">ปุ่มลัดซ้ายสามารถปลดล็อกอุปกรณ์</string>
     <string name="lockscreen_unlock_right">ปุ่มลัดขวาสามารถปลดล็อกอุปกรณ์</string>
     <string name="long_screenshot_not_support_msg">แอปปัจจุบันไม่รองรับการจับภาพหน้าจอแนวยาว</string>
@@ -962,6 +971,7 @@
     <string name="miui_guide_dialog_message">เสียงสื่อ (เพลงวิดีโอ ฯลฯ) จะยังคงเล่นในโหมดเงียบ คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ปลดล็อกโดยใช้อุปกรณ์บลูทูธ</string>
     <string name="miui_ringer_count_down">นับถอยหลัง</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">ปิดเสียง</string>
     <string name="miui_ringer_standard_description">ปิดเสียงเรียกเข้าสำหรับสายเรียกเข้าและการแจ้งเตือน</string>
     <string name="miui_ringer_total">ห้ามรบกวน</string>
@@ -988,12 +998,14 @@
 
 สำหรับข้อมูลเพิ่มเติมโปรดติดต่อผู้ดูแลระบบของคุณ"</string>
     <string name="monitoring_description_ca_cert_settings">เปิดหนังสือรับรองที่เชื่อถือได้</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">ผู้ให้บริการออกใบรับรองถูกติดตั้งบนอุปกรณ์นี้ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_do_body">ผู้ดูแลระบบของคุณสามารถตรวจสอบและจัดการการตั้งค่า การเข้าถึงองค์กร แอป ข้อมูลที่เกี่ยวข้องกับอุปกรณ์และข้อมูลตำแหน่งของอุปกรณ์ของคุณได้</string>
     <string name="monitoring_description_do_body_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ของคุณได้</string>
     <string name="monitoring_description_do_header_generic">อุปกรณ์ของคุณมีการจัดการโดย %1$s</string>
     <string name="monitoring_description_do_header_with_name">%1$s ใช้ %2$s เพื่อจัดการอุปกรณ์ของคุณ</string>
     <string name="monitoring_description_do_learn_more">เรียนรู้เพิ่มเติม</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">องค์กรของคุณได้ติดตั้งผู้ออกใบรับรองในโปรไฟล์งานของคุณ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_managed_profile_named_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ได้</string>
     <string name="monitoring_description_management">"อุปกรณ์ของคุณมีการจัดการโดยองค์กรของคุณ 
@@ -1025,6 +1037,7 @@
 
  คุณเชื่อมต่อกับ VPN ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายของคุณได้"</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">ใบรับรอง CA</string>
     <string name="monitoring_subtitle_network_logging">บันทึกข้อมูลระบบเครือข่าย</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1039,6 +1052,7 @@
     <string name="nav_guide_message">ใช้ท่าทางเพื่อซ่อน/แสดงปุ่มซอฟท์</string>
     <string name="nav_guide_ok">ติดตั้ง</string>
     <string name="nav_guide_title">ซ่อนปุ่มซอฟท์</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">ไม่มี</string>
     <string name="no_multi_window_app">ไม่มีแอปซึ่งรองรับการแบ่งหน้าจอ</string>
     <string name="no_notification_tips">ไม่มีการแจ้งเตือน</string>
@@ -1131,7 +1145,7 @@
     <string name="pip_menu_title">รูปภาพในเมนูรูปภาพ</string>
     <string name="pip_notification_message">หากคุณไม่ต้องการให้ %s ใช้คุณลักษณะนี้ แตะเพื่อเปิดการตั้งค่าและปิด</string>
     <string name="pip_notification_title">%s อยู่ในรูปภาพในรูปภาพ</string>
-    <string name="pip_notification_unknown_title">(ไม่มีชื่อเรื่องรายการ)</string>
+    <string name="pip_notification_unknown_title">(ไม่มีชื่อโปรแกรม)</string>
     <string name="pip_pause">หยุดชั่วคราว</string>
     <string name="pip_phone_close">ปิด</string>
     <string name="pip_phone_dismiss_hint">ลากลงเพื่อปิด</string>
@@ -1175,6 +1189,7 @@
     <string name="power_remaining_charging_duration_only">อีก %1$s จะชาร์จเต็ม</string>
     <string name="power_remaining_duration_only">เหลืออีกประมาณ %1$s</string>
     <string name="power_remaining_duration_only_short">เหลืออีก %1$s</string>
+    <string name="process_kernel_label">ระบบแอนดรอยด์</string>
     <string name="profile_owned_footer">โปรไฟล์อาจได้รับการตรวจสอบ</string>
     <string name="prompt_danger">อันตราย</string>
     <string name="prompt_detecting">กำลังตรวจจับ</string>
@@ -1699,6 +1714,7 @@
     <string name="wait_for_debugger">รอการแก้ไขข้อบกพร่อง</string>
     <string name="wait_for_debugger_summary">แอปรแก้ไขข้อบกพร่องรอการแก้ไขข้อบกพร่อง แนบก่อนดำเนินการ</string>
     <string name="wallpaper_global_des_drop_down_notify_text">ปล่อยเพื่อดูรายละเอียด</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">อัพเดทล่าสุด %1$s</string>
     <string name="wifi_aggressive_handover">สลับ Wi‑Fi เป็นข้อมูลมือถือเมื่อสัญญานอ่อน</string>
     <string name="wifi_aggressive_handover_summary">เมื่อเปิดใช้งาน การเชื่อมต่อจะสลับไปใช้ข้อมูลมือถือ เมื่อสัญญาณ Wi‑Fi ต่ำ</string>
@@ -1723,9 +1739,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">ไม่มี</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">เปิดใช้งานบริการซิมXiaomi</string>
+    <string name="app_name">เปิดใช้งานบริการซิม Xiaomi</string>
     <string name="accept">ตกลง</string>
     <string name="explain_send_sms_permission_title">ยืนยันหมายเลขโทรศัพท์ของคุณ</string>
     <string name="explain_send_sms_permission_msg">เปิดใช้ %s กรอบการทำงานของ Xiaomi จะส่งข้อความ SMS เพื่อยืนยันหมายเลขโทรศัพท์ของคุณ คุณจะต้องเสียค่าบริการข้อความ SMS ให้กับทางผู้ให้บริการ.</string>
     <string name="explain_send_sms_permission_button">ยืนยัน</string>
     <string name="activate_phone_failed_notif_title">ไม่สามารถเปิดใช้งานซิมการ์ดได้</string>
     <string name="activate_phone_failed_notif_title_msim">ไม่สามารถเปิดใช้งานซิมการ์ด %d ได้</string>
-    <string name="activate_phone_success_notif_title">ซิมการ์ดเปิดใช้งาน</string>
-    <string name="activate_phone_success_notif_title_msim">ซิมการ์ด %d เปิดใช้งาน</string>
-    <string name="activate_phone_cancel_notif_title">การเปิดใช้งานซิมการ์ดถูกยกเลิก</string>
-    <string name="activate_phone_cancel_notif_title_msim">การเปิดใช้งานซิมการ์ด %d ถูกยกเลิก</string>
+    <string name="activate_phone_success_notif_title">เปิดใช้งานซิมการ์ดสำเร็จ</string>
+    <string name="activate_phone_success_notif_title_msim">เปิดใช้งานซิมการ์ด %d สำเร็จ</string>
+    <string name="activate_phone_cancel_notif_title">ยกเลิกการเปิดใช้งานซิมการ์ด</string>
+    <string name="activate_phone_cancel_notif_title_msim">ยกเลิกการเปิดใช้งานซิมการ์ด %d</string>
     <string name="activate_status_title_activating">กำลังเปิดใช้งานซิมการ์ด…</string>
     <string name="activate_status_title_activating_msim">กำลังเปิดใช้งานซิม %d…</string>
     <string name="activate_auto_sms_notification_title">การเปิดใช้งานซิมการ์ด</string>
@@ -31,7 +31,7 @@
     <string name="activate_status_desc_prepare_sending_sms">กำลังเตรียมการส่งข้อความเปิดใช้งาน…</string>
     <string name="activate_status_desc_sending_sms">กำลังส่งข้อความเปิดใช้งาน…</string>
     <string name="activate_status_desc_sending_sms_fail">ไม่สามารถส่ง SMS เปิดใช้งานผ่านเกตเวย์ได้</string>
-    <string name="activate_status_desc_sms_sent">ส่งข้อความเปิดใช้งานแล้ว</string>
+    <string name="activate_status_desc_sms_sent">ส่งข้อความ SMS การเปิดใช้งานสำเร็จ</string>
     <string name="activate_status_desc_acquire_phone_number">กำลังยืนยันหมายเลขโทรศัพท์…</string>
     <string name="activate_status_desc_acquire_phone_number_server_error">พบข้อผิดพลาดขณะยืนยันหมายเลขโทรศัพท์จากเซิร์ฟเวอร์</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">ไม่สามารถยืนยันหมายเลขโทรศัพท์ได้</string>
@@ -65,12 +65,12 @@
     <string name="activate_popup_desc_register_account">การลงทะเบียนเพื่อสร้างบัญชี Mi ของคุณต้องการส่งข้อความออกซึ่งจะมีค่าใช้จ่าย ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความนี้</string>
     <string name="activate_popup_desc_register_account_intl">การลงทะเบียนเพื่อสร้างบัญชี Mi ของคุณต้องการส่งข้อความต่างประเทศซึ่งจะมีค่าใช้จ่าย ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความนี้</string>
     <string name="activate_popup_desc_register_account_downlink">ป้อนหมายเลขโทรศัพท์ของคุณ</string>
-    <string name="activate_popup_title_failed_send_sms">ไม่สามารถส่งข้อความได้</string>
+    <string name="activate_popup_title_failed_send_sms">ส่งข้อความ SMS ไม่ได้</string>
     <string name="activate_popup_desc_failed_send_sms">ไม่สามารถส่งข้อความเปิดใช้งาน ตรวจสอบให้แน่ใจว่าซิมการ์ดเปิดใช้งานแล้ว.</string>
-    <string name="activate_popup_confirm_failed_send_sms">ส่งใหม่</string>
+    <string name="activate_popup_confirm_failed_send_sms">ส่งอีกครั้ง</string>
     <string name="activate_popup_title_failed_query_info">ไม่พบเลขหมาย</string>
     <string name="activate_popup_desc_failed_query_info">ไม่พบหมายเลขโทรศัพท์ของคุณ กรุณาตรวจสอบให้แน่ใจว่าซิมการ์ดของคุณได้เปิดใช้งานแล้ว.</string>
-    <string name="activate_popup_confirm_failed_query_info">ส่งใหม่</string>
+    <string name="activate_popup_confirm_failed_query_info">ส่งอีกครั้ง</string>
     <string name="activate_popup_title_failed_server">เซิร์ฟเวอร์ผิดพลาด</string>
     <string name="activate_popup_desc_failed_server">กรุณาตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองใหม่.</string>
     <string name="activate_popup_confirm_failed_server">ลองอีกครั้ง</string>
@@ -80,20 +80,20 @@
     <string name="activate_popup_title_failed_phone_error">หมายเลขโทรศัพท์ไม่ถูกต้อง</string>
     <string name="activate_popup_desc_failed_phone_error">หมายเลขโทรศัพท์ที่คุณป้อนไม่ถูกต้อง.</string>
     <string name="activate_popup_confirm_failed_phone_error">ลองอีกครั้ง</string>
-    <string name="activate_popup_title_all_gateway_failed_send_sms">ไม่สามารถส่งข้อความได้</string>
+    <string name="activate_popup_title_all_gateway_failed_send_sms">ส่งข้อความ SMS ไม่ได้</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"ไม่สามารถส่งข้อความการเปิดใช้งานได้ ตรวจสอบว่าซิมการ์ดของคุณใช้งานได้ตามปกติ
-ใส่เลขหมายของซิมการ์ดใหม่เพื่อทำการเปิดใช้งานอีกครั้ง %s"</string>
+ใส่เลขหมายของซิมการ์ดใหม่เพื่อทำการเปิดใช้งานอีกครั้ง %s."</string>
     <string name="activate_popup_confirm_all_gateway_failed_send_sms">ลองอีกครั้ง</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">ไม่พบเลขหมาย</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"ไม่พบหมายเลขโทรศัพท์ ตรวจสอบว่าซิมการ์ดของคุณใช้งานได้ตามปกติ
-ใส่เลขหมายของซิมการ์ดใหม่เพื่อทำการเปิดใช้งานอีกครั้ง %s"</string>
+ใส่เลขหมายของซิมการ์ดใหม่เพื่อทำการเปิดใช้งานอีกครั้ง %s."</string>
     <string name="activate_popup_confirm_all_gateway_failed_query_info">ลองอีกครั้ง</string>
     <string name="activate_popup_title_error_device_id">IMEI ไม่ถูกต้อง</string>
     <string name="activate_popup_desc_error_device_id">กดโทรออก *#06# เพื่อตรวจสอบ IMEI</string>
     <string name="activate_popup_confirm_error_device_id">ลองอีกครั้ง</string>
     <string name="activate_feature_mx">ข้อความ Mi</string>
     <string name="activate_feature_mx_and_voip">ข้อความและข้อความเสียง Mi</string>
-    <string name="activate_feature_voip">ข้อความเสียง Mi</string>
+    <string name="activate_feature_voip">ข้อความ VoIP Mi</string>
     <string name="activate_feature_mms_sync">ซิงค์ข้อความ</string>
     <string name="activate_feature_call_log_sync">ซิงค์ประวัติการโทร</string>
     <string name="activate_feature_find_device">ค้นหาอุปกรณ์</string>
@@ -118,10 +118,10 @@
     <string name="agree">อนุญาต</string>
     <string name="privacy_revoke_tips">หลังจากที่คุณยกเลิกการให้สิทธิ์แล้วข้อความจะหยุดรวบรวมข้อมูลของคุณและลบข้อมูลทั้งหมดของคุณออกจากเซิร์ฟเวอร์ การซิงค์กับ Mi คลาวด์, Mi ข้อความ และแอปอื่นๆ จะไม่สามารถใช้งานได้อีกต่อไป ยกเลิกการให้สิทธิ์หรือไม่?</string>
     <string name="privacy_revoke_failed_msg">การเปิดใช้งานต้องมีการให้สิทธิ์เพื่อให้ข้อความสามารถรับหมายเลขโทรศัพท์ของคุณได้</string>
-    <string name="waiting_sim_in_service">กำลังรอซิมในบริการ</string>
-    <string name="checking_client">การตรวจสอบสภาพแวดล้อมการเปิดใช้งาน</string>
-    <string name="error_sim_not_in_service">ซิมไม่มีบริการ</string>
-    <string name="error_checking_client">การตรวจสอบสภาพแวดล้อมผิดพลาด</string>
-    <string name="error_network_io">เครือข่ายผิดพลาด</string>
-    <string name="error_no_send_sms_permission">ไม่มีสิทธิ์การส่งข้อความ SMS</string>
+    <string name="waiting_sim_in_service">รอซิมเพื่อเปิดใช้งาน</string>
+    <string name="checking_client">กำลังตรวจสอบสภาพแวดล้อมการเปิดใช้งาน</string>
+    <string name="error_sim_not_in_service">ไม่สามารถเปิดใช้งานซิมการ์ดได้ ตรวจสอบให้แน่ใจว่ายอดเงินของคุณเพียงพอ</string>
+    <string name="error_checking_client">เกิดข้อผิดพลาดระหว่างการเปิดใช้งาน</string>
+    <string name="error_network_io">เครือข่ายขัดข้อง</string>
+    <string name="error_no_send_sms_permission">บริการเปิดใช้งานซิม Xiaomi ต้องได้รับสิทธิ์ในการส่งข้อความ SMS</string>
 </resources>

@@ -128,6 +128,8 @@
     <string name="select_sim_hint">ไม่สามารถใช้ซิม %2$d ขณะที่ซิม %1$d ใช้งานอยู่</string>
     <string name="select_one_sim_title">ใช้ได้เฉพาะซิม %1$d เท่านั้น</string>
     <string name="can_not_use">ไม่สามารถใช้ได้</string>
+    <string name="sim1_description">ซิม1</string>
+    <string name="sim2_description">ซิม2</string>
     <string name="call_description_recording">กำลังบันทึกเสียง…</string>
     <string name="call_recording_error_privacy">ไม่สามารถบันทึกเสียงได้ขณะอยู่ในโหมดเยี่ยมชม</string>
     <string name="call_recording_error_sd_access">ไม่สามารถอ่าน SD การ์ดได้</string>
@@ -171,7 +173,7 @@
     <string name="close_camera_requesting">กำลังปิดกล้อง…</string>
     <string name="close_camera_failed">ปิดใช้งานกล้องไม่ได้…</string>
     <string name="change_to_voice_tips_when_background">ฝ่ายตรงข้ามสลับเป็นวอยซ์คอล</string>
-    <string name="video_crbt_title">%s วิดีโอเสียงเรียกเข้า</string>
+    <string name="video_crbt_title">กำลังเล่นเสียงวิดีโอเรียกเข้าของบุคคลอื่น</string>
     <string name="crbt_second_hold_prompt">%s ถูกระงับ…</string>
     <string name="crbt_second_hold_prompt_no_name">การโทรก่อนหน้านี้ถูกระงับ…</string>
     <string name="crbt_second_hold_prompt_conference">ประชุมทางโทรศัพท์ถูกระงับ…</string>

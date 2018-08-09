@@ -164,11 +164,11 @@
     <string name="done_remove">ลบเรียบร้อยแล้ว</string>
     <string name="doing_restore_home">เรียกคืนหน้าจอหลักและการตั้งค่า…</string>
     <string name="title_alert_cancel_restore">หยุดการเรียกคืนค่า</string>
-    <string name="msg_alert_cancel_restore">กำลังเรียกคืนค่าข้อมูลคลาวด์ หยุดหรือไม่?</string>
+    <string name="msg_alert_cancel_restore">เรียกคืนรายการ หยุดเดี๋ยวนี้?</string>
     <string name="btn_restore_cancel">ยกเลิก </string>
     <string name="btn_restore_resume">ทำต่อ</string>
-    <string name="title_alert_restore_error">การคืนค่าล้มเหลว</string>
-    <string name="msg_alert_restore_error">กู้คืนการสำรองข้อมูลในระบบคลาวด์ล้มเหลว กรุณาลองอีกครั้ง</string>
-    <string name="btn_restore_retry">ลองอีกครั้ง</string>
+    <string name="title_alert_restore_error">ไม่สามารถกู้คืนไฟล์ได้</string>
+    <string name="msg_alert_restore_error">ไม่สามารถคืนค่ารายการจาก Mi Cloud ได้ ลองอีกครั้ง</string>
+    <string name="btn_restore_retry">ลองใหม่</string>
     <string name="btn_restore_abort">ยกเลิก </string>
 </resources>

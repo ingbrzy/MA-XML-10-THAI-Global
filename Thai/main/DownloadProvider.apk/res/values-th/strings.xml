@@ -42,5 +42,4 @@
     <string name="download_running">กำลังดาวน์โหลด</string>
     <string name="download_error">ไม่สามารถดาวน์โหลดได้</string>
     <string name="download_running_percent">กำลังดาวน์โหลด %s</string>
-    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
 </resources>

@@ -192,6 +192,7 @@
     <string name="file_size">ขนาด:</string>
     <string name="file_title">ชื่อ:</string>
     <string name="file_width_height">ขนาด:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">ข้อความใหม่</string>
     <string name="forward_from">ส่งต่อจาก:</string>
     <string name="forward_prefix">"ส่งต่อ: "</string>
@@ -360,9 +361,18 @@
     <string name="no_subject_view">(ไม่มีชื่อเรื่อง)</string>
     <string name="non_english_subject_limit">จำกัดไม่เกิน 13 ตัวอักษร</string>
     <string name="nosend_message">ไม่ได้ส่ง</string>
+    <string name="notification_channel_msg_description">Notifications about messages</string>
+    <string name="notification_channel_msg_name">Messages</string>
+    <string name="notification_channel_other_description">Other notifications</string>
+    <string name="notification_channel_other_name">อื่นๆ</string>
+    <string name="notification_channel_sim1_description">Notifications about SIM 1 messages</string>
+    <string name="notification_channel_sim1_name">SIM 1 messages</string>
+    <string name="notification_channel_sim2_description">Notifications about SIM 2 messages</string>
+    <string name="notification_channel_sim2_name">SIM 2 messages</string>
     <string name="notification_copy">คัดลอก OTP</string>
     <string name="notification_failed_multiple">%s ข้อความที่่ไม่สามารถส่งได้</string>
     <string name="notification_failed_multiple_title">ไม่ได้ส่งข้อความ</string>
+    <string name="notification_group_name">กำลังส่งข้อความ</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">ข้อความใหม่</string>
     <string name="number_add_hint">ใส่หมายเลขโทรศัพท์</string>
@@ -397,7 +407,7 @@
     <string name="pref_show_sms_template_entry_summary">ตรวจสอบรหัสผ่านแบบครั้งเดียว และแสดงเมนูด่วน</string>
     <string name="pref_show_sms_template_in_summary">ตรวจจับรหัสผ่านแบบครั้งเดียวในข้อความ SMS โดยอัตโนมัติ</string>
     <string name="pref_show_sms_template_summary">เปิดการใช้งานคุณสมบัติอัจฉริยะของข้อความ Mi เช่น การคัดลอกรหัสยืนยัน, การเช็คยอดเงินและอื่นๆ</string>
-    <string name="pref_smart_messages_settings">ข้อความอัจฉริยะ</string>
+    <string name="pref_smart_messages_settings">Smart Messaging</string>
     <string name="pref_sms_storage_title">ที่จัดเก็บข้อมูล</string>
     <string name="pref_sms_theme_title">แสดง</string>
     <string name="pref_summary_allow_si_sl_push">อนุญาตให้ข้อความโหลดเนื้อหาจากเว็บไซต์</string>
@@ -541,6 +551,7 @@
     <string name="send_signature_confirm_dialog_title">ส่งข้อความ</string>
     <string name="send_sms">ส่งข้อความ</string>
     <string name="send_to">ถึง:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">วันที่ส่ง: %1s</string>
     <string name="sent_label">"ส่ง: "</string>
     <string name="service_message_not_found">ข้อความหมดอายุหรือไม่มีข้อความ</string>
@@ -652,6 +663,7 @@
     <string name="unstick">เลิกปักหมุด</string>
     <string name="unstick_conversation">เลิกปักหมุดการสนทนาปัจจุบัน</string>
     <string name="unsticked_conversation">ปลดหมุดการสนทนาแล้ว</string>
+    <string name="unsubscribe">ยกเลิกการสมัคร</string>
     <string name="unsupported_media_format">ระบบไม่รองรับไฟล์รูปแบบ %1$s</string>
     <string name="url_fraud_dangerous_alert">"เว็บไซต์ที่คุณกำลังพยายามเข้าเยี่ยมชมอยู่อาจเป็นอันตราย โดยอาจทำให้อุปกรณ์และข้อมูลของคุณเสียหาย เข้าเยี่ยมชมต่อหรือไม่?
 %s"</string>
@@ -672,6 +684,4 @@
     <string name="wild_msg_title">เลือกหมายเลขโทรศัพท์เพื่อซิงค์</string>
     <string name="yes">ตกลง</string>
     <string name="yesterday">เมื่อวาน</string>
-    <string name="notification_channel_description">แจ้งเตือนจากข้อความ</string>
-    <string name="notification_channel_name">ข้อความ</string>
 </resources>
