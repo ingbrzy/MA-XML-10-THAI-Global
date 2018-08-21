@@ -25,7 +25,6 @@
     <string name="s5">สร้างกิจกรรมในปฏิทิน</string>
     <string name="s6">อนุญาตให้โฆษณาสร้างกิจกรรมในปฏิทินไหม</string>
     <string name="s7">โฆษณาทดสอบ</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_action_bar_home_description">ไปยังหน้าเริ่มต้น</string>
     <string name="abc_action_bar_up_description">ขึ้นไป</string>
     <string name="abc_action_menu_overflow_description">เพิ่มเติม</string>
