@@ -4,7 +4,8 @@
     <string name="error_filename_too_long">ชื่อไฟล์ที่คุณป้อนยาวเกินไป</string>
     <string name="power_config_select_apps_title">แอป</string>
     <string name="power_config_event_delete">ลบ</string>
-    <string name="hide_mode_desc">เมื่อแอปทำงานในพื้นหลัง การทำงานจะได้รับการควบคุมเพื่อลดการใช้แบตเตอรี่</string>
+    <string name="hide_mode_desc"><font color="#000000">เมื่อแอปดำเนินการในพื้นหลัง กิจกรรมของแอปจะได้รับการตรวจดูเพื่อลดการใช้แบตเตอรี่ ฟังก์ชันนี้จะรับข้อมูลผู้ใช้และใช้ตาม %s</font></string>
+    <string name="privacy">นโยบายความเป็นส่วนตัว</string>
     <string name="power_hide_mode_title">แบตเตอรี่ &amp; ประสิทธิภาพ</string>
     <string name="power_config_apps">ตัวประหยัดแบตเตอรี่</string>
     <string name="app_list_title">เลือกแอปที่ต้องการ</string>
@@ -12,6 +13,7 @@
     <string name="about_hide_mode">เกี่ยวกับตัวประหยัดแบตเตอรี่</string>
     <string name="show_system_app">แสดงแอประบบ</string>
     <string name="hide_system_app">ซ่อนแอประบบ</string>
+    <string name="about_extreme_mode">เครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
     <string name="scenario_policies_title">รูปแบบอัจฉริยะ</string>
     <string name="config_scenario_policies_title">รูปแบบ</string>
     <string name="scenario_policies_summary">ใช้กลยุทธ์การประหยัดพลังงานที่แตกต่างกันตามสถานการณ์</string>
@@ -89,4 +91,6 @@
     <string name="appconfig_active_app_dialog_title">จัดการแอปใช้งาน</string>
     <string name="config_classify">จัดเรียงตามการตั้งค่าแอป</string>
     <string name="active_classify">จัดเรียงตามสถานะของกิจกรรม</string>
+    <string name="extreme_mode_max_item_alert">สามารถเลือกได้เพียง 4 แอปให้ทำงานในพื้นหลังในโหมดเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="message_i_know">ทราบแล้ว</string>
 </resources>

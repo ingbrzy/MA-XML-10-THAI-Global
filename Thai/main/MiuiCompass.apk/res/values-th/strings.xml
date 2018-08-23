@@ -61,4 +61,6 @@
     <string name="open_perm_title">สิทธิ์ที่จำเป็น</string>
     <string name="cancel">ยกเลิก </string>
     <string name="allow">อนุญาต</string>
+    <string name="preference_other">อื่นๆ</string>
+    <string name="preference_privacy_title">นโยบายความเป็นส่วนตัว</string>
 </resources>

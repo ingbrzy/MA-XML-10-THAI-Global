@@ -369,7 +369,7 @@
     <string name="tab_title_day">วัน</string>
     <string name="tab_title_month">เดือน</string>
     <string name="tab_title_week">สัปดาห์</string>
-    <string name="talk_back_read_date">วันที่ปัจจุบัน: %1$s (%2$s ตามปฏิทินจันทรคติ)</string>
+    <string name="talk_back_read_date">%1$s (%2$s ตามปฏิทินจันทรคติ)</string>
     <string name="template_announce_item_index">กิจกรรม %1$s ของ %2$s.</string>
     <string name="template_week_num">สัปหาห์ที่ %1$s</string>
     <string name="time_zone">เขตเวลา</string>
@@ -425,5 +425,9 @@
     <string name="xiaomi_calendar_display_name">ปฏิทินบัญชี Mi</string>
     <string name="yearly">ประจำทุกปี (ทุกวันที่ %s ของทุกปี)</string>
     <string name="yearly_plain">ทุกปี</string>
+    <string name="close_alarm">ปิดใช้งาน</string>
     <string name="discard_label">ยกเลิก </string>
+    <string name="guide_card_close">ปิด</string>
+    <string name="login_failed_toast">ไม่สามารถเข้าสู่ระบบได้ รีเฟรชและลองใหม่</string>
+    <string name="talk_back_setting">การตั้งค่า</string>
 </resources>

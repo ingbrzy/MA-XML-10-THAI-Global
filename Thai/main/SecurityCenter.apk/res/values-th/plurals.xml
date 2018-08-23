@@ -254,4 +254,16 @@
     <plurals name="gb_signed_days_sum">
         <item quantity="other">ลงชื่อเข้าใช้เป็นเวลา %d วันติดต่อกัน</item>
     </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    อีก +%1$d ตัวอักษร</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">สามารถซ่อน %d แอป</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d แอปซ่อนอยู่</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d ปัญหาต้องการการเพิ่มประสิทธิภาพ</item>
+    </plurals>
 </resources>

@@ -299,6 +299,7 @@
     <string name="title_schema_title">ไฮไลท์ชื่อ</string>
     <string name="toast_function_add_not_allowed">คุณสามารถเพิ่มได้สูงสุด 8 ทางลัด</string>
     <string name="toast_function_remove_not_allowed">คุณควรเพิ่มทางลัดอย่างน้อย 1 รายการ</string>
+    <string name="today_apps">แนะนำ</string>
     <string name="today_apps_bref">ค้นพบแอพใหม่ที่น่าสนใจ</string>
     <string name="today_apps_detail">ที่นี่คุณจะได้พบกับแอปใหม่ที่ได้รับความนิยมในขณะนี้</string>
     <string name="today_apps_loading">รอสักครู่…</string>

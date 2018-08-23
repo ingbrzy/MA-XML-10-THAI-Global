@@ -27,6 +27,9 @@
     <plurals name="device_import_done_toast">
         <item quantity="other">นำเข้า%1$dรายการ</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">นำเข้า %1$d รายชื่อแล้ว</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">บล็อก %1$d หมายเลขโทรศัพท์?</item>
     </plurals>

@@ -12,6 +12,7 @@
     <string name="menu_save_station_presets">เพิ่มลงในสถานีที่ตั้งไว้</string>
     <string name="menu_speaker">ออกลำโพง</string>
     <string name="menu_headset">ออกชุดหูฟัง</string>
+    <string name="menu_privacy">นโยบายความเป็นส่วนตัว</string>
     <string name="menu_exit">ออก</string>
     <string name="dialog_sleep_title">ตั้งเวลาปิด</string>
     <string name="search_dialog_title">ค้นหาสถานี</string>

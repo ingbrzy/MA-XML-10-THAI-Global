@@ -53,7 +53,7 @@
     <string name="low_battery_error_title">แบตเตอรี่ต่ำ</string>
     <string name="low_battery_error">เหลือแบตเตอรี่น้อยกว่า 5% หยุดและจัดเก็บเสียงที่บันทึกของคุณเพื่อป้องกันการสูญหาย</string>
     <string name="low_battery_error_confirm">ตกลง</string>
-    <string name="record_name_hour">-</string>
+    <string name="record_name_hour">.</string>
     <string name="record_name_minute" />
     <string name="sound_recorder_settings">การตั้งค่า</string>
     <string name="preference_led_indicator">การแจ้งเตือนในหน้าล็อกจอ</string>
@@ -97,6 +97,7 @@
     <string name="error_sdcard_unmounted">กรุณาใส่ SD การ์ดตอนนี้</string>
     <string name="record_back_pressed_hint">หากต้องการหยุดบันทึก ให้แตะที่ปุ่มย้อนหลังอีกครั้ง</string>
     <string name="record_mark_point">ทำเครื่องหมาย %s</string>
+    <string name="record_format_preference_title">รูปแบบการบันทึก</string>
     <string name="record_quliaty_preference_title">คุณภาพการบันทึก</string>
     <string name="cloud_record_tip">ซิงค์บันทึกเสียงกับ Mi คลาวด์</string>
     <string name="cloud_record_open">ซิงค์บันทึกเสียง</string>
@@ -154,4 +155,5 @@
     <string name="head_set_tip_dialog_ok">รับทราบ</string>
     <string name="rename_fail_tip">ไม่สามารถเปลี่ยนชื่อได้ มีรายการที่มีชื่อนี้อยู่แล้ว</string>
     <string name="dialog_privacy_revoke_tips">หลังจากที่คุณยกเลิกการให้สิทธิ์ แอปจะหยุดรวบรวมข้อมูลและข้อมูลที่เกี่ยวข้องทั้งหมดจะถูกลบออกจากเซิร์ฟเวอร์ ซึ่งอาจทำให้แอปไม่สามารถใช้งานได้ เพิกถอนการให้สิทธิ์หรือไม่? เพื่อความปลอดภัยของบัญชีของคุณให้ลงชื่อเข้าใช้ i.mi.com ก่อนที่จะยกเลิกการให้สิทธิ์สำหรับบริการ Mi คลาวด์</string>
+    <string name="privacy_policy_title">นโยบายความเป็นส่วนตัว</string>
 </resources>

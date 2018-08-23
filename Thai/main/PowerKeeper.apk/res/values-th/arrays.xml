@@ -12,6 +12,10 @@
         <item>แอปใช้งาน</item>
         <item>แอปที่สลีป</item>
     </string-array>
+    <string-array name="emode_app_groups">
+        <item>แอประบบ</item>
+        <item>แอปอื่นๆ</item>
+    </string-array>
     <string-array name="thermal_entries">
         <item>โหมดควบคุมอุณหภูมิเริ่มต้น</item>
         <item>โหมดประสิทธิภาพ</item>

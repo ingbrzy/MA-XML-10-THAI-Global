@@ -11,6 +11,7 @@
 เปิด%sเพื่อเรียกดูข้อมูลนี้"</string>
     <string name="permdesc_accessDrm">อนุญาตให้แอปเข้าถึงเนื้อหาการป้องกัน DRM</string>
     <string name="open_wifi_connect_title">เชื่อมต่อไปยัง %1$s</string>
+    <string name="open_wifi_connect_and_use_data_summary">ใช้สภาพจราจรข้อมูลต่อไป แตะเพื่อสลับ wifi และยืนยัน</string>
     <string name="open_wifi_connect_summary">แตะเพื่อดูรายละเอียด</string>
     <string name="settings_license_activity_title">ใบอนุญาตเปิดเผยแหล่งข้อมูล</string>
     <string name="settings_license_activity_loading">รอสักครู่…</string>

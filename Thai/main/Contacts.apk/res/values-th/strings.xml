@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_calllog_detail">รายละเอียดประวัติการโทร</string>
     <string name="accessibility_contact_detail">รายละเอียดผู้ติดต่อ</string>
     <string name="account_container_title">นำเข้าจาก</string>
@@ -99,6 +100,7 @@
     <string name="call_sim_menu_title_suffix">(หลัก)</string>
     <string name="call_telex">โทรเทเล็กซ์</string>
     <string name="call_tty_tdd">โทร TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s     </string>
     <string name="call_unit">CNY</string>
     <string name="call_work">โทรเบอร์ที่ทำงาน</string>
     <string name="call_work_mobile">โทรมือถือที่ทำงาน</string>
@@ -363,7 +365,6 @@
     <string name="device_import_progress_begin_message">กำลังนำเข้า…</string>
     <string name="device_import_progress_end_message">การนำเข้าเสร็จสิ้น</string>
     <string name="device_import_progress_message">กำลังนำเข้า…</string>
-    <string name="device_import_progress_toast">นำเข้ารายชื่อ %1$d รายการ</string>
     <string name="device_import_title">นำเข้า</string>
     <string name="device_list_title">เลือกอุปกรณ์</string>
     <string name="device_other_guide">อุปกรณ์อื่นๆรองรับบลูทูธ?</string>
@@ -488,6 +489,7 @@
     <string name="force_touch_new_contact">รายชื่อใหม่</string>
     <string name="foundTooManyContacts">พบมากกว่า %d รายการ</string>
     <string name="frequentList">ใช้บ่อย</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">ชื่อ</string>
     <string name="gallery">คลังภาพ</string>
     <string name="generic_no_account_prompt">รักษาข้อมูลรายชื่อให้ปลอดภัย หากคุณทำโทรศัพท์หาย: ซิงค์กับบริการออนไลน์</string>
@@ -566,6 +568,7 @@
     <string name="keep_local">ไม่ต้องซิงค์</string>
     <string name="keep_local_btn">ใช้ที่จัดเก็บในเครื่องของโทรศัพท์</string>
     <string name="label_custom_type">กำหนดเอง</string>
+    <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">ไม่พบข้อมูลซ้ำ</string>
     <string name="label_notes">บันทึก</string>
     <string name="label_sip_address">การโทรทางอินเทอร์เน็ต</string>
@@ -669,6 +672,7 @@
     <string name="miprofile_contact_header">รายชื่อที่เพิ่มนามบัตรได้</string>
     <string name="miprofile_contact_meaasge">รายชื่อในเครื่อง</string>
     <string name="miprofile_contact_verifying">กำลังยืนยัน</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">แก้ไขข้อมูลส่วนตัว</string>
     <string name="miprofile_error_accept_self">ไม่สามารถแลกนามบัตรกับตนเองได้</string>
     <string name="miprofile_error_no_miaccount">ลงชื่อเข้าใช้บัญชี Mi ของคุณ</string>
@@ -822,7 +826,10 @@
     <string name="path_wipe_data">แอประบบ/รายชื่อ/จัดการรายชื่อ/ล้างข้อมูล</string>
     <string name="payphone">โทรศัพท์สาธารณะ</string>
     <string name="people">รายชื่อ</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">โทรศัพท์</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">หมายเลขยาวเกินไป</string>
     <string name="phone_primary">หลัก</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพในเครื่อง</string>
@@ -892,6 +899,7 @@
     <string name="preference_others">อื่นๆ</string>
     <string name="preference_phone">อุปกรณ์</string>
     <string name="preference_phone_more_title">การตั้งค่าการโทร</string>
+    <string name="preference_privacy_policy_title">นโยบายความเป็นส่วนตัว</string>
     <string name="preference_remove_duplicate">ควบรวมรายชื่อซ้ำเข้าด้วยกัน</string>
     <string name="preference_show_firewall_calllog">แสดงการโทรที่บล็อคในประวัติการโทร</string>
     <string name="preference_show_yellowpage_tab_description">สมุดหน้าเหลืองอาจไม่ทำงานอย่างถูกต้องเมื่อปิดคุณลักษณะนี้</string>
@@ -937,6 +945,7 @@
     <string name="quickcontact_missing_app">ไม่พบแอปที่สามารถดำเนินการนี้ได้</string>
     <string name="quit_dialog_confirm_message">คุณยังไม่ได้ควบรวมรายชื่อใดๆ</string>
     <string name="quit_dialog_confirm_title">ยกเลิกการควบรวมรายชื่อ</string>
+    <string name="rcs_app_name">มินิแอป</string>
     <string name="readOnlyContactDeleteConfirmation">รายชื่อนี้มีข้อมูลของหลายบัญชี ข้อมูลจากบัญชีแบบอ่านอย่างเดียวจะถูกซ่อนในรายการรายชื่อของคุณโดยไม่ถูกลบออก</string>
     <string name="readOnlyContactWarning">คุณไม่สามารถลบรายชื่อออกจากบัญชีแบบอ่านอย่างเดียว แต่คุณสามารถซ่อนรายชื่อเหล่านี้ไม่ให้เห็นในรายการรายชื่อของคุณ</string>
     <string name="readingSimContacts">กำลังอ่านซิมการ์ด…</string>
@@ -1069,6 +1078,7 @@
     <string name="sim_unloaded">ซิมการ์ดไม่ได้ติดตั้ง</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">ไม่มีสมาชิกกลุ่ม</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">บริษัท</string>
     <string name="smart_group_company_unavailable">ไม่มีข้อมูลบริษัท</string>
     <string name="smart_group_frequency_1">ภายในเดือนที่ผ่านมา</string>
@@ -1131,7 +1141,7 @@
     <string name="title_other_devices">อุปกรณ์อื่นที่พร้อมใช้งาน</string>
     <string name="title_paired_devices">อุปกรณ์ที่จับคู่กัน</string>
     <string name="toast_call_detail_error">ไม่สามารถอ่านรายละเอียดสำหรับการโทรที่ร้องขอ</string>
-    <string name="toast_call_no_SoundRecorder">แอปบันทึกไม่พร้อมใช้งาน</string>
+    <string name="toast_call_no_SoundRecorder">ตัวบันทึกไม่พร้อมใช้งาน</string>
     <string name="toast_call_no_notes">แอปบันทึกย่อไม่พร้อมใช้งาน</string>
     <string name="toast_copy_done">เสร็จสิ้น</string>
     <string name="toast_copying">กำลังคัดลอก…</string>
@@ -1203,6 +1213,7 @@
     <string name="voip_audio_description">โทรผ่านเน็ต</string>
     <string name="voip_video_description">วิดีโอคอลผ่านเน็ต</string>
     <string name="websiteLabelsGroup">เว็บไซต์</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">ล้างข้อมูล</string>
     <string name="yellowPageNavigationIconLabel">สมุดหน้าเหลือง</string>
     <string name="yellowPageNavigationLabel">สมุดหน้าเหลือง</string>
