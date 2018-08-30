@@ -25,6 +25,7 @@
     <string name="s5">สร้างกิจกรรมในปฏิทิน</string>
     <string name="s6">อนุญาตให้โฆษณาสร้างกิจกรรมในปฏิทินไหม</string>
     <string name="s7">โฆษณาทดสอบ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_action_bar_home_description">ไปยังหน้าเริ่มต้น</string>
     <string name="abc_action_bar_up_description">ขึ้นไป</string>
     <string name="abc_action_menu_overflow_description">เพิ่มเติม</string>
@@ -86,7 +87,6 @@
     <string name="add_to_quicklink">หน้าเริ่มต้น</string>
     <string name="added_to_bookmarks">เพิ่มไปยังหน้าที่คั่น</string>
     <string name="adjust_text_zoom_toast">การขยายขนาดข้อความด้วยการซูมอาจทำให้การแสดงผลของบางหน้าเว็บไซต์ผิดเพี้ยนได้</string>
-    <string name="adx_loading_str">รอสักครู่…</string>
     <string name="agree">เห็นด้วย</string>
     <string name="agree_permissions_request">อนุญาต</string>
     <string name="alert_tips">เว็บไซต์นี้อาจมีความเสี่ยงด้านความปลอดภัย</string>
@@ -102,7 +102,6 @@
     <string name="aqi_quality_index_moderate">ปานกลาง</string>
     <string name="aqi_quality_index_pure">ยอดเยี่ยม</string>
     <string name="aqi_quality_index_unhealthy">ไม่ดีต่อสุขภาพ</string>
-    <string name="articles_updated">อัพเดต %1$d บทความ</string>
     <string name="autoSwithcingSearchEngineTips">เปลี่ยนไปใช้เครื่องมือค้นหาที่ใช้บ่อย</string>
     <string name="autologin_bar_error">เข้าสู่ระบบไม่ได้</string>
     <string name="autologin_bar_hide_text">ซ่อน</string>
@@ -347,6 +346,7 @@
     <string name="ignore_add_pwa_dialog_today">ไม่ต้องแสดงวันนี้</string>
     <string name="in_incognito">ไม่เปิดเผยตัว! เว็บเพจที่คุณเห็นในแท็บนี้จะไม่ปรากฎในประวัติเบราเซอร์</string>
     <string name="in_secureaccess">เบราว์เซอร์อยู่ในโหมดปลอดภัย</string>
+    <string name="into_info_flow_guide">ดูบทความเพิ่มเติม</string>
     <string name="isReplacePage">มีไฟล์นี้อยู่ก่อนแล้ว แทนที่?</string>
     <string name="is_first_history_item">หน้านี้เป็นหน้าแรกในประวัติของเบราเซอร์</string>
     <string name="is_first_tab">นี่คือแท็บแรก</string>
@@ -486,7 +486,7 @@
     <string name="mw_http_post_warning_resend">ทำต่อ</string>
     <string name="mw_js_dialog_before_unload">"%s
 
-คุณแน่ใจว่าต้องการออกจากหน้าเว็ปไซต์นี้หรือไม่?"</string>
+ออกจากหน้านี้?"</string>
     <string name="mw_js_dialog_before_unload_negative_button">อยู่ในหน้านี้</string>
     <string name="mw_js_dialog_before_unload_positive_button">ออกจากหน้านี้</string>
     <string name="mw_js_dialog_before_unload_title">ยืนยันการออกจากหน้าเพจ</string>
@@ -706,7 +706,7 @@
     <string name="mw_photo_picker_camera">กล้อง</string>
     <string name="mw_photo_picker_select_images">เลือกรูปภาพ</string>
     <string name="mw_private_browsing_warning">การใช้งานนี้ไม่รองรับโดยระบบปฏิบัติการแอนดรอยด์รุ่นที่คุณกำลังใช้อยู่</string>
-    <string name="mw_profiler_error_toast">เริ่มต้นโปรไฟล์ล้มเหลว</string>
+    <string name="mw_profiler_error_toast">เริ่มต้นโปรไฟล์ไม่ได้</string>
     <string name="mw_profiler_no_storage_toast">ไม่สามารถเริ่มต้นโปรไฟล์ได้เพราะพื้นที่จัดเก็บข้อมูลภายนอกไม่พร้อมใช้</string>
     <string name="mw_profiler_started_toast">เริ่มต้นใช้โปรไฟล์แล้ว</string>
     <string name="mw_profiler_stopped_toast">ตั้งโปรไฟล์สำเร็จ ผลลัพธ์ในอีก %1$s</string>
@@ -724,13 +724,15 @@
     <string name="mw_sad_tab_send_feedback_label">ส่งข้อเสนอแนะ</string>
     <string name="mw_sad_tab_title">แย่จัง!</string>
     <string name="mw_sad_tab_uma_optin">ส่งสถิติการใช้งานและรายงานข้อขัดข้องไปยัง Google โดยอัตโนมัติ</string>
-    <string name="mw_save_password_message">คุณต้องการให้เบราเซอร์จำรหัสผ่าน?</string>
+    <string name="mw_save_password_message">จดจำรหัสผ่านนี้?</string>
     <string name="mw_save_password_never">ไม่มี</string>
     <string name="mw_save_password_notnow">ในภายหลัง</string>
     <string name="mw_save_password_remember">จดจำ</string>
     <string name="mw_snippets_disabled_generic_prompt">รับเนื้อหาในแบบของคุณ</string>
     <string name="mw_snippets_disabled_signed_out_instructions">หากต้องการรับเนื้อหาในแบบของคุณที่แนะนำโดย Google ให้ลงชื่อเข้าใช้ Chrome</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">ตั้งเวลา</string>
@@ -748,9 +750,8 @@
     <string name="nav_bottom_bar_new_tab">แท็ปใหม่</string>
     <string name="nav_screen_container_tab_incognito">แท็ปไม่ระบุตัวตน</string>
     <string name="nav_screen_container_tab_normal">แท็ปปกติ</string>
-    <string name="nav_screen_incognito_message">"ประวัติการเรียกดูและประวัติการค้นหาของคุณจะไม่ได้รับการบันทึกในโหมดไม่ระบุตัวตน
-กรุณาจำว่าไฟล์ที่คุณดาวน์โหลดและบุ๊กมาร์กที่คุณเพิ่มจะยังคงบันทึกอยู่"</string>
-    <string name="nav_screen_incognito_title">โหมดไม่ระบุตัวตน</string>
+    <string name="nav_screen_incognito_message">ประวัติการเรียกดูและประวัติการค้นหาของคุณจะไม่ได้รับการบันทึกในโหมดไม่ระบุตัวตนกรุณาจำว่าไฟล์ที่คุณดาวน์โหลดและบุ๊กมาร์กที่คุณเพิ่มจะยังคงบันทึกอยู่</string>
+    <string name="nav_screen_incognito_title">  โหมดไม่ระบุตัวตน</string>
     <string name="navigation_delete_all">ปัดซ้ายหรือขวาเพื่อปิดแท็บทั้งหมด</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">ยกเลิก </string>
     <string name="navigationbar_rightbutton_actiontext_go">ไป</string>
@@ -803,11 +804,12 @@
     <string name="pref_accessibility_url_shortcut_enter_summary">การผสมตัวอักษรที่ใช้บ่อยสามารถป้อนในแอดเดรสบาร์ด้วยการกดครั้งเดียว</string>
     <string name="pref_accessibility_url_shortcut_enter_title">ใส่ URL แบบด่วน</string>
     <string name="pref_adblock_title">ตัวบล็อคโฆษณา</string>
+    <string name="pref_auto_update">อัพเดทโดยอัตโนมัติ</string>
     <string name="pref_auto_update_under_wifi">อัพเดทผ่าน Wi-Fi</string>
     <string name="pref_automatic_matching_searchengines_title">เปลี่ยนไปใช้เครื่องมือค้นหาที่ใช้บ่อย</string>
     <string name="pref_card_setting">คำสั่งซื้อไซต์ยอดนิยม</string>
     <string name="pref_category_hint">หมวดหมู่</string>
-    <string name="pref_check_recommendation_app_quicklink">แนะนำสำหรับคุณ</string>
+    <string name="pref_check_recommendation_app_quicklink">แนะนำเพื่อคุณ</string>
     <string name="pref_check_security_url_summary">ส่งที่อยู่เว็บไซต์นี้ไปยังเซิร์ฟเวอร์ของ Mi เพื่อตรวจสอบว่าลิงก์นี้ปลอดภัยหรือไม่</string>
     <string name="pref_check_security_url_summary_international">อนุญาตเบราว์เซอร์ให้เข้าถึง URLs ของเว็บไซต์ที่คุณเยี่ยมชมเพื่อรับข้อเสนอแนะที่เกี่ยวเนื่องกันเพิ่มเติม</string>
     <string name="pref_check_security_url_title">ตรวจสอบความปลอดภัยเว็ปไซต์</string>
@@ -952,6 +954,7 @@
     <string name="readmodelist_bookmarks_to_show">รายการอ่าน</string>
     <string name="refresh">รีเฟรช</string>
     <string name="refresh_fail">ไม่สามารถโหลดข้อมูลได้</string>
+    <string name="refresh_guide">กลับไปบนสุด</string>
     <string name="refreshing">กำลังรีเฟรช…</string>
     <string name="refuse_permissions_request">จำกัด</string>
     <string name="release_to_refresh">ปล่อยเพื่อรีเฟรช</string>
@@ -1114,6 +1117,7 @@
     <string name="version_check_button_resume_download">ดาวน์โหลดต่อ</string>
     <string name="version_check_button_update">อัพเดท</string>
     <string name="version_check_failed">ไม่สามารถตรวจสอบการอัพเดตได้</string>
+    <string name="version_dialog_4G_checkbox">คุณสามารถอัปเดตแอประบบโดยใช้ข้อมูลมือถือ ซึ่งอาจทำให้เกิดค่าใช้จ่ายข้อมูลมือถือเพิ่มเติม</string>
     <string name="version_dialog_buttion_ok">ตกลง</string>
     <string name="version_dialog_buttion_update">อัพเดท</string>
     <string name="version_update_file_download_toast">กำลังดาวน์โหลด</string>
@@ -1216,6 +1220,7 @@
     <string name="date_picker_dialog_set">ตั้ง</string>
     <string name="date_picker_dialog_title">ตั้งวันที่</string>
     <string name="date_time_picker_dialog_title">ตั้งวันที่และเวลา</string>
+    <string name="external_app_restricted_access_error">Mi Browser does not have access to the requested resource.</string>
     <string name="find_next">ค้นหาถัดไป</string>
     <string name="find_previous">ค้นหาก่อนหน้า</string>
     <string name="js_dialog_before_unload">"%s

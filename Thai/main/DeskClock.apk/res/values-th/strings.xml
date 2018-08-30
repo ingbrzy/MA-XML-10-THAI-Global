@@ -62,6 +62,7 @@
     <string name="edit_alarm">แก้ไขการปลุก</string>
     <string name="edit_systemtime">แก้ไขเวลาของระบบ</string>
     <string name="every_day">ทุกวัน</string>
+    <string name="expired_timers_dismissed">Timer dismissed</string>
     <string name="force_touch_add_alarm">เพิ่มการปลุก</string>
     <string name="force_touch_enter_stopwatch">จับเวลา</string>
     <string name="force_touch_enter_timer">ตัวจับเวลา</string>
@@ -72,6 +73,7 @@
     <string name="install_weather_app_error">ไม่สามารถโหลดแอปได้</string>
     <string name="install_weather_app_loading">รอสักครู่…</string>
     <string name="invalid_time">เวลาไม่ถูกต้อง: %3$s %1$d: %2$d</string>
+    <string name="invalid_timer_length">Invalid timer length</string>
     <string name="keep_screen_on">เปิดหน้าจอไว้</string>
     <string name="label">ตั้งชื่อกำกับ</string>
     <string name="label_pref_summary">ป้ายชื่อ</string>
@@ -129,8 +131,10 @@
     <string name="never">ครั้งเดียว</string>
     <string name="oneshot_alarm">ลบออกหลังจากปลุก</string>
     <string name="open_keep_screen">หน้าจอจะถูกเปิดไว้</string>
+    <string name="other_category_title">อื่นๆ</string>
     <string name="pause">หยุดพัก</string>
     <string name="percentage_sign">%</string>
+    <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="remind_ringtone">เสียงเตือน</string>
     <string name="reset">เริ่มใหม่</string>
     <string name="revert">เรียกคืน</string>
@@ -148,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">การปลุกจะดังหลังจากปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="slider_text">เลื่อนขึ้นเพื่อปิดใช้งาน</string>
     <string name="snooze_confirm_cancel">เลิกทำการปลุก</string>
@@ -156,6 +161,7 @@
     <string name="start_up">เริ่ม</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_title">จับเวลา</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">การตั้งค่า</string>
     <string name="system_time_settings_category_title">การตั้งค่าเวลา</string>
     <string name="temperature_unit">%1$s°</string>
@@ -180,6 +186,7 @@
     <string name="timer_clock_alert_text">ตั้งเวลา</string>
     <string name="timer_continue">ดำเนินการต่อ</string>
     <string name="timer_continue_timer">จับเวลาต่อ</string>
+    <string name="timer_created">Timer created</string>
     <string name="timer_end_time">จับเวลาจะหยุดที่ %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>

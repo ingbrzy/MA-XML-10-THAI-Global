@@ -206,7 +206,7 @@
         <item quantity="other">%1$d ปุ่มเปิด-ปิดจะปรากฏในแถบการแจ้งเตือน</item>
     </plurals>
     <plurals name="show_audio_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get audio log</item>
+        <item quantity="other">%1$d ขั้นตอนที่เหลือก่อนที่คุณจะได้รับการบันทึกเสียง</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">ยังเหลืออีก %1$d ขั้นตอนในการเข้าสู่ข้อมูลเครื่องโทรศัพท์</item>
@@ -216,10 +216,10 @@
         <item quantity="one">คุณกำลังจะได้เป็นนักพัฒนาซอฟต์แวร์ในอีก %1$d ขั้นตอน</item>
     </plurals>
     <plurals name="show_gps_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get GPS log</item>
+        <item quantity="other">%1$d ขั้นตอนที่เหลือก่อนที่คุณจะได้รับการบันทึก GPS</item>
     </plurals>
     <plurals name="show_modem_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get modem log</item>
+        <item quantity="other">%1$d ขั้นตอนที่เหลือก่อนที่คุณจะได้รับบันทึกการใช้โมเด็ม</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">ยังเหลืออีก %1$d ขั้นตอนในการเข้าสู่ข้อมูลเครื่องโทรศัพท์</item>

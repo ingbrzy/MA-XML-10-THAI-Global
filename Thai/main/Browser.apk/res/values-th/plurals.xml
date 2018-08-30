@@ -7,7 +7,7 @@
         <item quantity="other">บล็อกไว้ %d รายการ</item>
     </plurals>
     <plurals name="articles_updated_amount">
-        <item quantity="other">%1$d บทความอัพเดทสำหรับของคุณ</item>
+        <item quantity="other">ตรวจสอบ %1$d บทความใหม่</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">ลบ %d การดำเนินงาน?</item>
@@ -61,7 +61,7 @@
         <item quantity="other">เหลืออีก %d นาที</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">%1$d วีดีโออัพเดทสำหรับของคุณ</item>
+        <item quantity="other">ดูวิดีโอใหม่ %1$d รายการ</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">แจ่มใส</item>
