@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">กล้อง</string>
     <string name="accessibility_carrier_network_change_mode">แก้ไขผู้ให้บริการเครือข่าย</string>
     <string name="accessibility_cast_name">เชื่อมต่อไปยัง %s แล้ว</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">หยุดการฉายภาพหน้าจอ</string>
     <string name="accessibility_cell_data">ข้อมูลมือถือ</string>
     <string name="accessibility_cell_data_off">ข้อมูลมือถือปิด</string>
@@ -241,7 +242,7 @@
     <string name="accessibility_unlock_button">ปลดล็อค</string>
     <string name="accessibility_unlock_without_fingerprint">ไม่ใช้ลายนิ้วมือปลดล็อก</string>
     <string name="accessibility_voice_assist_button">สั่งงานด้วยเสียง</string>
-    <string name="accessibility_volume_collapse">หุบ</string>
+    <string name="accessibility_volume_collapse">ยุบ</string>
     <string name="accessibility_volume_expand">ขยาย</string>
     <string name="accessibility_vpn_on">VPN เปิด</string>
     <string name="accessibility_waiting_for_fingerprint">รอลายนิ้วมือ</string>
@@ -626,7 +627,7 @@
     <string name="face_unlock_offset_top">ยกโทรศัพท์ขึ้นเล็กน้อย</string>
     <string name="face_unlock_open_eye">เปิดตาให้กว้างขึ้น</string>
     <string name="face_unlock_passwork">ใช้รหัสผ่าน</string>
-    <string name="face_unlock_passwork_and_fingerprint">ใช้รหัสผ่านหรือข้อมูลใบหน้า</string>
+    <string name="face_unlock_passwork_and_fingerprint">ใช้รหัสผ่านหรือลายนิ้วมือ</string>
     <string name="face_unlock_quality">ไม่สามารถมองเห็นใบหน้าของคุณได้ชัดเจน</string>
     <string name="face_unlock_reenter_content">กำลังอัปเดตอัลกอริทึมการปลดล็อกใบหน้า แตะเพื่อบันทึกข้อมูลใบหน้าอีกครั้ง</string>
     <string name="face_unlock_reenter_title">บันทึกข้อมูลใบหน้าของคุณอีกครั้ง</string>
@@ -635,6 +636,7 @@
     <string name="face_unlock_rise">ก้มหน้าลง</string>
     <string name="face_unlock_rotated_left">หันหัวของคุณไปทางขวา</string>
     <string name="face_unlock_rotated_right">หันหัวของคุณไปทางซ้าย</string>
+    <string name="face_unlock_sc_status">เลื่อนหน้าจอลงเพื่อเปิดกล้อง</string>
     <string name="face_unlock_stay_away_screen">อยู่ห่างจากหน้าจอประมาณ 25 - 40 ซม.</string>
     <string name="failed_to_open_app_settings_toast">เปิดการตั้งค่า %1$s ไม่ได้</string>
     <string name="fingerprint_add_text">อัพเดทอินเตอร์เฟซของลายนิ้วมือแล้ว เพิ่มลายนิ้วมือของคุณอีกครั้ง</string>
@@ -728,7 +730,7 @@
     <string name="incorrect_pukcode">รหัส PUK ไม่ถูกต้อง</string>
     <string name="input_password_after_boot_msg">เพื่อปลดล็อกอุปกรณ์ กรุณาป้อนรหัสผ่าน</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ไม่สามารถสลับระหว่างพื้นที่ขณะโทรได้</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">ไม่สามารถสลับระหว่างช่องว่าง เมื่อเปิดใช้งานการปกป้องครอบครัว</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">ไม่สามารถสลับระหว่างพื้นที่เมื่อการควบคุมโดยผู้ปกครองเปิดอยู่</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">คุณจำเป็นต้องเข้าสู่พื้นที่ปกติก่อนที่อุปกรณ์จะทำการรีบูต</string>
     <string name="input_password_handle_sdcard_fs">ไม่สามารถเข้าพื้นที่ทับซ้อนจากหน้าจอล็อกได้ กรุณาเข้าจากพื้นที่ปกติ</string>
     <string name="input_password_hint_text">ใส่รหัสผ่าน</string>
@@ -811,6 +813,10 @@
     <string name="keyguard_charging_back_to_lockscreen">กลับไปที่ล็อกหน้าจอ</string>
     <string name="keyguard_charging_info_battery_used_time_text">ใช้แบตเตอรี่</string>
     <string name="keyguard_charging_info_click_to_detail">เรียกดูรายละเอียด</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">สัดส่วนการใช้แบต</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">วันนี้ %s</string>
@@ -835,6 +841,7 @@
     <string name="keyguard_missing_sim_instructions_long">ไม่พบซิมการ์ดหรืออ่านซิมการ์ดไม่ได้ กรุณาใส่ซิมการ์ด</string>
     <string name="keyguard_missing_sim_message">ไม่พบซิมการ์ดในเครื่อง</string>
     <string name="keyguard_missing_sim_message_short">ไม่พบซิมการ์ด</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">เครือข่ายถูกล็อกไว้</string>
     <string name="keyguard_password_enter_password_code">ป้อนรหัสผ่านเพื่อปลดล็อก</string>
     <string name="keyguard_password_enter_pin_code">ป้อนรหัส PIN</string>
@@ -870,7 +877,7 @@
     <string name="kg_invalid_confirm_pin_hint">รหัส PIN ไม่ตรงกัน</string>
     <string name="kg_invalid_puk">ป้อนรหัส PUK ที่ถูกต้องอีกครั้ง ใส่ผิดพลาดเยอะเกินไปซิมจะถูกปิดใช้งานอย่างถาวร</string>
     <string name="kg_invalid_sim_pin_hint">ป้อนรหัส PIN ที่เป็นตัวเลขความยาว 4-8 ตัว</string>
-    <string name="kg_invalid_sim_puk_hint">รหัส PUK ควรเป็นตัวเลขมากกว่า 8 ตัวขึ้นไป</string>
+    <string name="kg_invalid_sim_puk_hint">รหัส PUK ควรเป็นตัวเลข 8 ตัว</string>
     <string name="kg_login_too_many_attempts">ใส่รูปแบบผิดเกินจำนวนครั้งที่กำหนด</string>
     <string name="kg_password_instructions">ใส่รหัสผ่าน</string>
     <string name="kg_password_pin_failed">ไม่สามารถปลดล็อกรหัส PIN​ ซิมได้</string>
@@ -918,6 +925,7 @@
     <string name="left_keycode">คีย์โค๊ดซ้าย</string>
     <string name="left_nav_bar_button_type">ประเภทปุ่มซ้ายพิเศษ</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">แตะเพื่อแก้ไขหรือลบรหัสผ่านสำหรับการสำรองข้อมูลหน้าจอหลักเต็มรูปแบบ</string>
     <string name="local_backup_password_summary_none">การสำรองข้อมูลหน้าจอหลักเต็มรูปแบบไม่ได้รับการป้องกันในขณะนี้</string>
     <string name="local_backup_password_title">รหัสผ่านข้อมูลสำรองหน้าจอหลัก</string>
@@ -975,14 +983,16 @@
     <string name="memory_clear_result_mega">ทำความสะอาดแล้ว %1$sMB</string>
     <string name="menu_ime">ตัวสลับแป้นพิมพ์</string>
     <string name="miui_guide_dialog_button_negative_text">การตั้งค่า</string>
-    <string name="miui_guide_dialog_button_positive_text">รับทราบ</string>
-    <string name="miui_guide_dialog_message">เสียงสื่อ (เพลงวิดีโอ ฯลฯ) จะยังคงเล่นในโหมดเงียบ คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
+    <string name="miui_guide_dialog_button_positive_text">เข้าใจแล้ว</string>
+    <string name="miui_guide_dialog_message">เสียงสื่อ (เพลง วิดีโอ ฯลฯ) จะยังคงเล่นในโหมดเงียบ คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ปลดล็อกโดยใช้อุปกรณ์บลูทูธ</string>
     <string name="miui_ringer_count_down">นับถอยหลัง</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">ปิดเสียง</string>
     <string name="miui_ringer_standard_description">ปิดเสียงเรียกเข้าสำหรับสายเรียกเข้าและการแจ้งเตือน</string>
     <string name="miui_ringer_total">ห้ามรบกวน</string>
     <string name="miui_ringer_total_description">ปิดเสียงและปิดการสั่นสะเทือนสำหรับทุกรายการยกเว้นนาฬิกาปลุก</string>
+    <string name="miui_screen_rotation_freeze_message">ปิดการหมุนจออัตโนมัติ</string>
     <string name="miui_toast_zen_dnd_to_off">เรียกคืนค่าเสียงและการสั่น</string>
     <string name="miui_toast_zen_standard_to_off">เปิดเสียงสำหรับสายเรียกเข้าและการแจ้งเตือน</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">เสียงเรียกเข้ารวมทั้งการแจ้งเตือนและเสียงจากสื่อต่างๆจะถูกเปิด</string>
@@ -1005,12 +1015,14 @@
 
 สำหรับข้อมูลเพิ่มเติมโปรดติดต่อผู้ดูแลระบบของคุณ"</string>
     <string name="monitoring_description_ca_cert_settings">เปิดหนังสือรับรองที่เชื่อถือได้</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">ผู้ให้บริการออกใบรับรองถูกติดตั้งบนอุปกรณ์นี้ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_do_body">ผู้ดูแลระบบของคุณสามารถตรวจสอบและจัดการการตั้งค่า การเข้าถึงองค์กร แอป ข้อมูลที่เกี่ยวข้องกับอุปกรณ์และข้อมูลตำแหน่งของอุปกรณ์ของคุณได้</string>
     <string name="monitoring_description_do_body_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ของคุณได้</string>
     <string name="monitoring_description_do_header_generic">อุปกรณ์ของคุณมีการจัดการโดย %1$s</string>
     <string name="monitoring_description_do_header_with_name">%1$s ใช้ %2$s เพื่อจัดการอุปกรณ์ของคุณ</string>
     <string name="monitoring_description_do_learn_more">เรียนรู้เพิ่มเติม</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">องค์กรของคุณได้ติดตั้งผู้ออกใบรับรองในโปรไฟล์งานของคุณ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_managed_profile_named_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ได้</string>
     <string name="monitoring_description_management">"อุปกรณ์ของคุณมีการจัดการโดยองค์กรของคุณ 
@@ -1042,6 +1054,7 @@
 
  คุณเชื่อมต่อกับ VPN ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายของคุณได้"</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">ใบรับรอง CA</string>
     <string name="monitoring_subtitle_network_logging">บันทึกข้อมูลระบบเครือข่าย</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1056,6 +1069,7 @@
     <string name="nav_guide_message">ใช้ท่าทางเพื่อซ่อน/แสดงปุ่มซอฟท์</string>
     <string name="nav_guide_ok">ติดตั้ง</string>
     <string name="nav_guide_title">ซ่อนปุ่มซอฟท์</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">ไม่มี</string>
     <string name="no_multi_window_app">ไม่มีแอปซึ่งรองรับการแบ่งหน้าจอ</string>
     <string name="no_notification_tips">ไม่มีการแจ้งเตือน</string>
@@ -1193,6 +1207,7 @@
     <string name="power_remaining_charging_duration_only">อีก %1$s จะชาร์จเต็ม</string>
     <string name="power_remaining_duration_only">เหลืออีกประมาณ %1$s</string>
     <string name="power_remaining_duration_only_short">เหลืออีก %1$s</string>
+    <string name="process_kernel_label">ระบบแอนดรอยด์</string>
     <string name="profile_owned_footer">โปรไฟล์อาจได้รับการตรวจสอบ</string>
     <string name="prompt_danger">อันตราย</string>
     <string name="prompt_detecting">กำลังตรวจจับ</string>
@@ -1447,6 +1462,8 @@
     <string name="status_bar_clear_all_button">ล้าง</string>
     <string name="status_bar_clock_date_format">EEEE d MMMM</string>
     <string name="status_bar_clock_date_format_12">EEEE d MMMM</string>
+    <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
+    <string name="status_bar_clock_date_time_format_12">aah:mm d MMMM</string>
     <string name="status_bar_date_format">EEEE d MMMM</string>
     <string name="status_bar_date_format_12">EEEE d MMMM</string>
     <string name="status_bar_ethernet">อีเธอร์เน็ต</string>
@@ -1700,8 +1717,8 @@
     <string name="voice_assist_label">เปิดสั่งงานด้วยเสียง</string>
     <string name="voice_hint">ปัดไอคอนเพื่อสั่งงานด้วยเสียง</string>
     <string name="volume_and_do_not_disturb">ห้ามรบกวน</string>
-    <string name="volume_dialog_accessibility_dismissed_message">ซ่อนควบคุมระดับเสียง</string>
-    <string name="volume_dialog_accessibility_shown_message">%s ควบคุมระดับเสียง ปัดขึ้นเพื่อยกเลิก</string>
+    <string name="volume_dialog_accessibility_dismissed_message">ตัวควบคุมระดับเสียงซ่อนอยู่</string>
+    <string name="volume_dialog_accessibility_shown_message">%s ตัวควบคุมระดับเสียงแสดงอยู่ เลื่อนขึ้นเพื่อปิด</string>
     <string name="volume_dnd_silent">ปุ่มลัดระดับเสียง</string>
     <string name="volume_stream_content_description_mute">%1$s แตะเงียบ อาจปิดเสียงบริการสิ่งอำนวยความสะดวก</string>
     <string name="volume_stream_content_description_mute_a11y">%1$s แตะเพื่อเงียบ</string>
@@ -1719,6 +1736,7 @@
     <string name="wait_for_debugger">รอการแก้ไขข้อบกพร่อง</string>
     <string name="wait_for_debugger_summary">แอปรแก้ไขข้อบกพร่องรอการแก้ไขข้อบกพร่อง แนบก่อนดำเนินการ</string>
     <string name="wallpaper_global_des_drop_down_notify_text">ปล่อยเพื่อดูรายละเอียด</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">อัพเดทล่าสุด %1$s</string>
     <string name="wifi_aggressive_handover">สลับ Wi‑Fi เป็นข้อมูลมือถือเมื่อสัญญานอ่อน</string>
     <string name="wifi_aggressive_handover_summary">เมื่อเปิดใช้งาน การเชื่อมต่อจะสลับไปใช้ข้อมูลมือถือ เมื่อสัญญาณ Wi‑Fi ต่ำ</string>
@@ -1743,9 +1761,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">ไม่มี</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

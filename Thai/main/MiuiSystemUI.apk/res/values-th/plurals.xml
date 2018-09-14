@@ -39,6 +39,15 @@
     <plurals name="keyguard_charging_info_drained_time_format">
         <item quantity="other">"%1$d  ชม. %2$d  น."</item>
     </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">ใช้ได้อีก %d ชั่วโมง</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">ใช้ได้อีก %d นาที</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">ใช้ได้อีก %1$d ชม. %2$d น.</item>
+    </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">ป้อน PIN ของซิม คุณมีพยายาม %d ครั้งที่เหลืออยู่</item>
     </plurals>

@@ -67,6 +67,7 @@
     <string name="disagree">ยกเลิก</string>
     <string name="setting_locale">การตั้งค่าพื้นที่…</string>
     <string name="agree_terms">ฉันได้อ่านและยอมรับข้อตกลงการใช้บริการและนโยบายความเป็นส่วนตัวแล้ว</string>
+    <string name="poco_agree_terms_other">(รวมถึงนโยบายความเป็นส่วนตัวและข้อตกลงผู้ใช้ ของ POCO launcher)</string>
     <string name="agree_terms_input_method_facemoji">ฉันได้อ่านและเห็นด้วยกับนโยบายความเป็นส่วนตัว Facemoji</string>
     <string name="agree_terms_input_method_kika">ฉันได้อ่านและเห็นด้วยกับนโยบายความเป็นส่วนตัว Kika</string>
     <string name="miui_terms_no_network">คุณไม่ได้เชื่อมกับต่ออินเตอร์เน็ต กรุณาอ่านข้อตกลงและเงื่อนไขการให้บริการได้ที่ %s</string>
@@ -100,5 +101,16 @@
     <string name="continue_to_enable_accessibility">แตะสองนิ้วค้างเพื่อเปิดใช้งานสิ่งอำนวยความสะดวก</string>
     <string name="voice_assist_title">ปลุกด้วยเสียง</string>
     <string name="voice_assist_desp">พูด \"Mi AI\" ลงในโทรศัพท์ของคุณ Mi AI จะจดจำเสียงของคุณและจะสามารถควบคุมอุปกรณ์ของคุณได้</string>
-    <string name="voice_assist_desp_screen_light">หลังจากไฟหน้าจอสว่างขึ้น พูด \"Mi AI\" ลงในโทรศัพท์ของคุณ Mi AI จะจดจำเสียงของคุณและจะสามารถควบคุมอุปกรณ์ของคุณได้</string>
+    <string name="voice_assist_condition">"คุณจะสามารถใช้งาน Mi AI ได้ในกรณี:
+1. เมื่อหน้าจอเปิดอยู่
+2. เมื่อคุณกำลังฟังเพลงในขณะปิดหน้าจอ"</string>
+    <string name="voice_assist_advice">Mi AI อณุญาตให้คุณใช้การควบคุมด้วยเสียง แต่จะใช้พลังงานมากกว่าเดิม (+1% ทุกชั่วโมง)</string>
+    <string name="ai_button_title">เกี่ยวกับปุ่ม AI</string>
+    <string name="ai_button_desc">ใช้ปุ่มนี้เพื่อเปิด Mi AI และทำงานของคุณให้เสร็จสิ้นด้วยเสียงของคุณ</string>
+    <string name="ai_button_long_press">กดค้าง</string>
+    <string name="ai_button_long_press_desc">พูดคำสั่งของคุณและปล่อยปุ่ม</string>
+    <string name="ai_button_single_press">กด</string>
+    <string name="ai_button_single_press_desc">ใช้งาน Mi AI</string>
+    <string name="ai_button_double_press">กดสองครั้ง</string>
+    <string name="ai_button_double_press_desc">ติดตั้งคุณลักษณะ Mi AI</string>
 </resources>

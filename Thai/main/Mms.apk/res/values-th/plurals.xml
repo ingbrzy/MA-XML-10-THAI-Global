@@ -21,6 +21,9 @@
     <plurals name="hint_search_sms">
         <item quantity="other">%d ข้อความ</item>
     </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">ทำเครื่องหมาย %2$s โดย %1$d คน</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s ข้อความ</item>
     </plurals>

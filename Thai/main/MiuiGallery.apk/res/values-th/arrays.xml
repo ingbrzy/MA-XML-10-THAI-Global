@@ -4,20 +4,6 @@
         <item>เด็กชาย</item>
         <item>เด็กหญิง</item>
     </string-array>
-    <string-array name="collage_month">
-        <item>ม.ค.</item>
-        <item>ก.พ.</item>
-        <item>มี.ค.</item>
-        <item>เม.ย.</item>
-        <item>พ.ค.</item>
-        <item>มิ.ย.</item>
-        <item>ก.ค.</item>
-        <item>ส.ค.</item>
-        <item>ก.ย.</item>
-        <item>ต.ค.</item>
-        <item>พ.ย.</item>
-        <item>ธ.ค.</item>
-    </string-array>
     <string-array name="owner_relation">
         <item>บิดา</item>
         <item>มารดา</item>

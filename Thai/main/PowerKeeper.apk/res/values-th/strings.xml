@@ -13,7 +13,7 @@
     <string name="about_hide_mode">เกี่ยวกับตัวประหยัดแบตเตอรี่</string>
     <string name="show_system_app">แสดงแอประบบ</string>
     <string name="hide_system_app">ซ่อนแอประบบ</string>
-    <string name="about_extreme_mode">เครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="about_extreme_mode">โหมดสุดขีด</string>
     <string name="scenario_policies_title">รูปแบบอัจฉริยะ</string>
     <string name="config_scenario_policies_title">รูปแบบ</string>
     <string name="scenario_policies_summary">ใช้กลยุทธ์การประหยัดพลังงานที่แตกต่างกันตามสถานการณ์</string>
@@ -91,6 +91,6 @@
     <string name="appconfig_active_app_dialog_title">จัดการแอปใช้งาน</string>
     <string name="config_classify">จัดเรียงตามการตั้งค่าแอป</string>
     <string name="active_classify">จัดเรียงตามสถานะของกิจกรรม</string>
-    <string name="extreme_mode_max_item_alert">สามารถเลือกได้เพียง 4 แอปให้ทำงานในพื้นหลังในโหมดเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
-    <string name="message_i_know">ทราบแล้ว</string>
+    <string name="extreme_mode_max_item_alert">คุณสามารถเลือกได้สูงสุด 4 แอปให้ทำงานในพื้นหลังของโหมดสุดขีด</string>
+    <string name="message_i_know">เข้าใจแล้ว</string>
 </resources>

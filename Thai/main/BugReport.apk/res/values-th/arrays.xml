@@ -2,7 +2,7 @@
 <resources>
     <string-array name="reproductivity">
         <item>ตลอดเวลา</item>
-        <item>บ่อย</item>
+        <item>ใช้บ่อย</item>
         <item>เป็นครั้งคราว</item>
         <item>ครั้งเดียว</item>
     </string-array>

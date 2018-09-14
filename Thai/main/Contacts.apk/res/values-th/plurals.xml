@@ -39,6 +39,9 @@
     <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">ซิมการ์ดสามารถบันทึกได้ %1$d รายชื่อ</item>
     </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">พบมากกว่า %d รายชื่อ</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">เพิ่ม%1$d รายชื่อแล้ว</item>
     </plurals>
@@ -60,6 +63,9 @@
     <plurals name="hint_search_phone_numbers">
         <item quantity="other">%1$d เลขหมาย</item>
     </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+    </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">พบ %d</item>
     </plurals>
@@ -68,6 +74,9 @@
     </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d รายชื่อที่มีหมายเลขโทรศัพท์</item>
+    </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d รายชื่อที่มีข้อมูลเหมือนกันบางส่วน</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">รวมจาก %0$d แหล่ง</item>
@@ -104,6 +113,12 @@
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">พบ %d</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">เลือกได้ไม่เกิน %1$d ไม่สามารถเลือกทั้งหมดได้</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">เลือกได้ไม่เกิน %1$d</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d คน</item>

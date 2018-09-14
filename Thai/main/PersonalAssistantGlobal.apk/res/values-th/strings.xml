@@ -105,6 +105,7 @@
     <string name="card_settings_rule">ระบุกฎที่ปรากฏบนการ์ด</string>
     <string name="card_title_funclaunch">ปุ่มลัด</string>
     <string name="card_title_noteboard">บันทึกสั้น</string>
+    <string name="card_title_utilities">สาธารณูปโภค</string>
     <string name="check_network">ตรวจสอบการตั้งค่าเครือข่าย</string>
     <string name="check_network_retry">ตรวจสอบการตั้งค่าเครือข่ายและลองอีกครั้ง</string>
     <string name="cleanup_garbage">ตัวทำความสะอาด</string>
@@ -141,6 +142,7 @@
     <string name="google">Google</string>
     <string name="help_quick_start_wechat_video">เข้าถึงคุณลักษณะเฉพาะแอปพลิเคชันโดยใช้ทางลัด</string>
     <string name="hold_down_adjustment_order">กดไอคอนที่ด้านขวาเพื่อลากรายการ</string>
+    <string name="holiday_empty_desc">คลิกที่นี่เพื่ออ่านเพิ่มเติม</string>
     <string name="home">บ้าน</string>
     <string name="home_and_company">บ้าน &amp; งาน</string>
     <string name="hour12_format_en">hh:mm</string>
@@ -202,6 +204,7 @@
     <string name="no_more_result">นั่นคือทั้งหมดที่สำหรับตอนนี้</string>
     <string name="no_settings">ไม่ได้ตั้ง</string>
     <string name="no_signal">ไม่สามารถรีเฟรสได้ กรุณาลองอีกครั้งในภายหลัง</string>
+    <string name="no_utilities_apps">ไม่มีบริการของสาธารณูปโภค ตรวจสอบภายหลัง</string>
     <string name="not_install_c1">แอปนี้ไม่ได้ติดตั้งในโทรศัพท์ของคุณ ดาวน์โหลดและติดตั้งหรือไม่?</string>
     <string name="not_install_c3">ดาวน์โหลด</string>
     <string name="not_install_c4">ไม่ ขอบคุณ</string>
@@ -344,6 +347,7 @@
     <string name="upgrade_log_title">เวอร์ชั่นใหม่</string>
     <string name="upgrade_now">อัพเดต</string>
     <string name="user_id">ID ผู้ใช้: %s</string>
+    <string name="utilities_apps_bref">สำรวจบริการของบุคคลที่สามที่นี่</string>
     <string name="walk">เดิน</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">ปกติคุณเดินทางไปยังจุดหมายปลายทางได้อย่างไร?</string>

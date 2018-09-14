@@ -18,7 +18,7 @@
     <string name="recording">การบันทึกเสียง</string>
     <string name="recording_stopped">ขัดข้อง</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="error_sdcard_access">อ่านที่จัดเก็บไม่ได้</string>
+    <string name="error_sdcard_access">ไม่สามารถอ่าน SD การ์ดได้</string>
     <string name="error_app_internal">ตรวจสอบว่าแอปใดกำลังใช้งานการบันทึกเสียงอยู่หรือไม่</string>
     <string name="error_app_internal_title">ข้อผิดพลาดของเครื่องบันทึกเสียง</string>
     <string name="error_file_access">ไม่พบไฟล์ดังกล่าวหรือไฟล์ไม่สมบูรณ์</string>
@@ -37,6 +37,7 @@
     <string name="no_file">ว่าง</string>
     <string name="alert_message_delete_record_title">ลบบันทึกเสียงหรือไม่?</string>
     <string name="alert_message_delete_record">การลบบันทึกเสียงออกจากอุปกรณ์ของคุณจะทำให้บันทึกเสียงใน Mi คลาวด์ถูกลบออกเช่นกัน ต้องการลบหรือไม่?</string>
+    <string name="alert_message_delete_local_record">ลบบันทึกนี้?</string>
     <string name="share">แชร์</string>
     <string name="rename">เปลี่ยนชื่อ</string>
     <string name="delete">ลบ</string>
@@ -102,7 +103,7 @@
     <string name="cloud_record_tip">ซิงค์บันทึกเสียงกับ Mi คลาวด์</string>
     <string name="cloud_record_open">ซิงค์บันทึกเสียง</string>
     <string name="cloud_service_state_open_reminder">เปิดการซิงค์กับ Mi คลาวด์ เพื่อซิงค์ไฟล์บันทึก</string>
-    <string name="cloud_status_full_dialog_title">พื้นที่บน Mi คลาวด์เต็ม</string>
+    <string name="cloud_status_full_dialog_title">พื้นที่ใน Mi คลาวด์เต็มแล้ว</string>
     <string name="cloud_status_full_dialog_msg">พื้นที่บนคลาวด์ของคุณเต็มแล้ว ไม่สามารถซิงค์บันทึกเสียง อัพเกรดบัญชีของคุณเพื่อรับพื้นที่จัดเก็บเพิ่มเติม</string>
     <string name="cloud_status_full_dialog_cancel">ในภายหลัง</string>
     <string name="cloud_status_full_dialog_ok">อัพเกรด</string>

@@ -21,6 +21,7 @@
     <string name="add_to_secret_successful">เพิ่มไว้ในอัลบั้มซ่อนแล้ว</string>
     <string name="add_to_share_album_not_delete">ไม่สามารถลบรูปภาพจากอัลบั้มแชร์ได้</string>
     <string name="added_to_favorites">เพิ่มไปยังรายการโปรดแล้ว</string>
+    <string name="added_to_favorites_desc">เพิ่มไปยังรายการโปรดแล้ว</string>
     <string name="added_to_favorites_tip">เพิ่มลงในอัลบั้ม \"รายการโปรด\"</string>
     <string name="adding">กำลังเพิ่ม…</string>
     <string name="adding_recipients">กำลังเพิ่มผู้รับ…</string>
@@ -98,7 +99,6 @@
     <string name="app_name_view_picture">ดูรูปภาพ</string>
     <string name="app_name_view_video">เรียกดูวิดีโอ</string>
     <string name="apply">นำไปใช้</string>
-    <string name="assistant_page_label">ตัวช่วย</string>
     <string name="associate_face_album">เลือกอัลบั้ม</string>
     <string name="auto_backup_introduce">สำรองข้อมูลรูปภาพและวิดีโอโดยอัตโนมัติ (ต้องใช้บัญชี Mi)</string>
     <string name="auto_download_media_title">ดาวน์โหลดรูปภาพจาก Mi คลาวด์ อัตโนมัติ</string>
@@ -226,7 +226,7 @@
     <string name="cleaner_screen_shot_action">ล้าง</string>
     <string name="cleaner_screen_shot_description">ลบภาพหน้าจอที่คุณไม่ต้องการ</string>
     <string name="cleaner_screen_shot_title">ลบภาพหน้าจอ</string>
-    <string name="cleaner_slim_action">กำลังเริ่มการเพิ่มประสิทธิภาพ…</string>
+    <string name="cleaner_slim_action">Start optimization</string>
     <string name="cleaner_slim_description">เพิ่มรูปภาพในอุปกรณ์ของคุณให้เหมาะสม ไฟล์ต้นฉบับจะถูกเก็บไว้ใน Mi คลาวด์</string>
     <string name="cleaner_slim_start">เพิ่มประสิทธิภาพ</string>
     <string name="cleaner_slim_title">เพิ่มประสิทธิภาพรูปภาพ</string>
@@ -261,6 +261,9 @@
     <string name="cloudfolder_name_reserved">ชื่อโฟลเดอร์นี้ถูกสงวนไว้</string>
     <string name="collage__talkback_effect">%d เอฟเฟกต์</string>
     <string name="collage_choose">เลือก</string>
+    <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+    <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+    <string name="collage_drawable_rect_date_year">yyyy</string>
     <string name="collage_margin_text">กรอบ</string>
     <string name="collage_mirror">กระจก</string>
     <string name="collage_poster_global_cat_text">พาวส์</string>
@@ -463,6 +466,7 @@
     <string name="face_name_edit">แก้ไข</string>
     <string name="face_name_input">ป้อนชื่อ</string>
     <string name="face_recommend">ข้อเสนอแนะ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">ดำเนินการไม่เสร็จสิ้น</string>
     <string name="fail_to_pick_email">ที่อยู่อีเมลไม่ถูกต้อง</string>
     <string name="fail_to_sync_album">ไม่สามารถซิงค์อัลบั้ม ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองใหม่อีกครั้ง</string>
@@ -473,6 +477,7 @@
     <string name="feature_guidance_photo_effects">"เอฟเฟ็กต์​ภาพถ่ายใหม่
 พร้อมใช้งาน"</string>
     <string name="feature_guidance_video_editor_smart_effects">เอฟเฟ็กต์​ใหม่พร้อมใช้งาน</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">ความทรงจำ</string>
     <string name="filter_bi_mono">โมโน</string>
     <string name="filter_bi_pink">ชมพู</string>
@@ -541,6 +546,7 @@
     <string name="gif_tip">ไฟล์ GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">ตั้งค่า</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"คลังภาพต้องการเข้าถึง 
 %s
  เพื่อให้ทำงานได้ตามปกติ แตะ \"ตั้งค่า\" เพื่อไปยังการอนุญาต"</string>
@@ -649,6 +655,7 @@
     <string name="merge_album_title">ควบรวมกับใครสักคน</string>
     <string name="messagelist_sender_self">ฉัน</string>
     <string name="micloud_introduce">สำรองข้อมูลรูปภาพและวิดีโอโดยอัตโนมัติ (ต้องใช้บัญชี Mi)</string>
+    <string name="more">เพิ่มเติม</string>
     <string name="more_album_hint">ฯลฯ</string>
     <string name="more_face">ผู้คนมากมายใครที่เหมือนกัน</string>
     <string name="more_face_album_name">บุคคลเพิ่มเติม</string>
@@ -699,6 +706,7 @@
     <string name="operation_edit_video">แก้ไข</string>
     <string name="operation_enable_auto_upload">เปิดใช้การซิงค์กับ Mi คลาวด์</string>
     <string name="operation_failed">ไม่สามารถเสร็จสิ้นการดำเนินการได้</string>
+    <string name="operation_favorites">รายการโปรด</string>
     <string name="operation_force_top">ปักหมุด</string>
     <string name="operation_hide">ซ่อน</string>
     <string name="operation_in_process">กำลังดำเนินการ…</string>
@@ -736,6 +744,7 @@
     <string name="people_mark_mode_title_no_mark_name">เลือกสักคน</string>
     <string name="people_page_label">บุคคล</string>
     <string name="people_page_unname">ไม่มีชื่อ</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">รูปภาพสัตว์เลี้ยง</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">รูปภาพ</string>
@@ -867,6 +876,10 @@
     <string name="play_gif_desc">เล่น GIF</string>
     <string name="play_video_desc">เล่นวิดีโอ</string>
     <string name="preparing_data">รอสักครู่…</string>
+    <string name="privacy_permission_request_message">อัลบัมภาพต้องการเข้าถึง %3$s. ข้อมูลจะถูกรวบรวมเพื่อนำไปใช้ตาม %1$s และ %2$s ของเรา อนุญาตหรือไม่?</string>
+    <string name="privacy_permission_request_negative">จำกัด</string>
+    <string name="privacy_permission_request_positive">อนุญาต</string>
+    <string name="privacy_permission_request_title">คำอนุญาตที่จำเป็น</string>
     <string name="projection_cancel">ยกเลิก</string>
     <string name="projection_checkbox_text">จดจำอุปกรณ์แสดงผลนี้</string>
     <string name="projection_device_connection_failed">ไม่สามารถเชื่อมโปรเจคเตอร์ได้</string>
@@ -912,6 +925,7 @@
     <string name="remove_from_secret_successful">นำออกจากอัลบั้มซ่อนแล้ว</string>
     <string name="remove_to_album_title">ควบรวมกับ</string>
     <string name="remove_to_other_album">ควบรวมกับบุคคลอื่น</string>
+    <string name="removed_from_favorites_desc">ลบออกจากรายการโปรดแล้ว</string>
     <string name="remover_edit_type_free">วัตถุ</string>
     <string name="remover_edit_type_line">เส้น</string>
     <string name="remover_erase_aera_too_big">พื้นที่ที่ลบมีขนาดใหญ่เกินไป</string>
@@ -988,6 +1002,9 @@
     <string name="search_title_recommend">แนะนำ</string>
     <string name="search_title_suggestion">ข้อเสนอแนะ</string>
     <string name="search_title_tag">สิ่งของ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">กำลังมองหาโปรเจคเตอร์…</string>
     <string name="secret_album_card_description">ที่ที่ดีที่สุดสำหรับความลับทั้งหมดของคุณ</string>
     <string name="secret_album_card_title">เปิดอัลบั้มที่ซ่อนไว้</string>
@@ -1005,7 +1022,7 @@
     <string name="secret_reason_too_large">ไฟล์ใหญ่เกินไป</string>
     <string name="secret_reason_type_not_support">ไม่รองรับไฟล์ชนิดดังกล่าว</string>
     <string name="secret_reason_unknow_reasons">ขัดข้องไม่ทราบสาเหตุ</string>
-    <string name="secret_reason_video_not_support">ไม่สามารถเพิ่มไปยังอัลบั้มที่ซ่อนได้</string>
+    <string name="secret_reason_video_not_support">ไม่สามารถเพิ่มวิดีโอไปยังอัลบั้มที่ซ่อนได้</string>
     <string name="see_ignore_faces">เรียกดูบุคคลที่คุณละเว้น</string>
     <string name="select_item_face">"บุคคลนี้คือ '%s'?"</string>
     <string name="select_origin_tip">ไฟล์ต้นฉบับ (%s)</string>
@@ -1170,10 +1187,15 @@
     <string name="video_editor_auto_trim">ตัดแต่งอัตโนมัติ</string>
     <string name="video_editor_auto_trim_tip">กำลังตัดแต่งอัตโนมัติ…</string>
     <string name="video_editor_cancel">ยกเลิก</string>
+    <string name="video_editor_cancel_download">ยกเลิก </string>
     <string name="video_editor_done">เสร็จสิ้น</string>
     <string name="video_editor_down_load_later">ภายหลัง</string>
     <string name="video_editor_down_load_no_wifi_tips">เชื่อมต่อกับ Wi-Fi เพื่อดาวน์โหลด</string>
     <string name="video_editor_down_load_now">ดาวน์โหลด</string>
+    <string name="video_editor_download">ดาวน์โหลด</string>
+    <string name="video_editor_download_failed_for_notwork">ไม่สามารถดาวน์โหลดได้ เชื่อมต่อกับเครือข่ายและลองอีกครั้ง.</string>
+    <string name="video_editor_download_without_wifi_msg">การดาวน์โหลดไฟล์เหล่านี้ผ่านเครือข่ายมือถือต้องใช้ปริมาณการถ่ายโอนข้อมูลสูง ซึ่งหากใช้เกินกว่าแพ็คเกจที่กำหนดไว้ คุณอาจเสียค่าบริการเพิ่มเติมให้แก่ผู้ให้บริการเครือข่าย</string>
+    <string name="video_editor_download_without_wifi_title">แจ้งเตือนการใช้ข้อมูล</string>
     <string name="video_editor_encode_video">กำลังเข้ารหัสวีดีโอ…</string>
     <string name="video_editor_encode_video_error">ไม่สามารถเข้ารหัสวิดีโอได้</string>
     <string name="video_editor_fatal_error">ขัดข้องไม่ทราบสาเหตุ</string>
@@ -1212,6 +1234,8 @@
     <string name="video_editor_res_download_mobil_network_confirm_msg">ดาวน์โหลด soundtracks ผ่านข้อมูลมือถือ?</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">ใช้ข้อมูลมือถือ</string>
     <string name="video_editor_res_not_load_dialog_msg">จำเป็นต้องดาวน์โหลด soundtracks เพื่อใช้คุณลักษณะนี้ (มากกว่า 20MB)</string>
+    <string name="video_editor_return">ย้อนกลับ</string>
+    <string name="video_editor_save">บันทึก</string>
     <string name="video_editor_smart_effect_beat">เต้น</string>
     <string name="video_editor_smart_effect_big_film">มหากาพย์</string>
     <string name="video_editor_smart_effect_cadence">จังหวะ</string>
@@ -1257,6 +1281,7 @@
     <string name="view_face_album">ดูอัลบั้ม</string>
     <string name="view_more_face_desc">เรียกดูบุคคลเพิ่มเติม</string>
     <string name="voice_assistant">ป้อนด้วยเสียง</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">ยินดีต้อนรับสู่ Mi คลาวด์</string>
     <string name="where_is_barcode">รหัส QR อยู่ที่ไหน?</string>
     <string name="who_is_this">บุคคลนี้คือใคร?</string>

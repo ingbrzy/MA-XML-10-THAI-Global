@@ -299,6 +299,7 @@
     <string name="user_avatar_uploading">รอสักครู่…</string>
     <string name="user_avatar_update_title">เปลี่ยนรูปประจำตัว</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพที่พร้อมใช้งาน</string>
+    <string name="account_invalid_user_avatar">รูปภาพไม่ถูกต้อง กรุณาลองใช้ภาพอื่น</string>
     <string name="account_none_binded_info">ไม่มี</string>
     <string name="account_bind_secure_phone_title">เพิ่มหมายเลขโทรศัพท์</string>
     <string name="account_bind_secure_email_title">เพิ่มอีเมล</string>

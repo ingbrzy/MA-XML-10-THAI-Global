@@ -40,6 +40,9 @@
     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
     <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
     <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
+    <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080P</string>
+    <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720P</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">คุณสามารถบันทึกวิดีโอ 720P ด้วย 240FPS</string>
     <string name="pref_video_encoder_title">การเข้ารหัสวิดีโอ</string>
     <string name="pref_video_encoder_entry_h264">ความเข้ากันได้สูง H.264</string>
     <string name="pref_video_encoder_entry_h265">ประสิทธิภาพสูง H.265</string>
@@ -416,7 +419,7 @@
     <string name="dual_camera_lens_covered_toast">เลนส์ถูกบดบัง</string>
     <string name="dual_camera_use_hint">ตรวจสอบให้แน่ใจว่าวัตถุอยู่หาประมาณ 2 เมตร</string>
     <string name="bokeh_use_hint">หน้าชัดหลังเบลอ</string>
-    <string name="back_bokeh_use_hint">ตรวจสอบให้แน่ใจว่าวัตถุอยู่หาประมาณ 1.5 เมตร</string>
+    <string name="back_bokeh_use_hint">รักษาระยะบุคคลภายใน1.5 เมตร เพื่อเอฟเฟกต์ที่ดีที่สุุด</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">เลนส์</string>
@@ -434,6 +437,9 @@
     <string name="portrait_mode_depth_effect_success_hint">หน้าชัดหลังเบลอ</string>
     <string name="portrait_mode_use_hint">"โหมดภาพบุคคลจะทำให้พื้นหลังเบลอ
 และทำให้คนดูเด่นขึ้น"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
+    <string name="portrait_mode_use_hint_for_bokeh">"โหลดโหมดภาพคน
+ทำให้หน้าชัดหลังเบลอ"</string>
     <string name="pref_camera_square_mode_title">รูปสี่เหลี่ยม</string>
     <string name="simple_mode_button_text_square">ปิดใช้รูปสี่เหลี่ยม</string>
     <string name="face_beauty_smart">อัจฉริยะ</string>
@@ -448,6 +454,7 @@
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">โหมด</string>
     <string name="button_front_camera_title">ถ่ายเซลฟี่</string>
     <string name="button_normal_video_title">บันทึกวิดีโอ</string>
@@ -472,6 +479,7 @@
     <string name="hint_ae_af_lock">โฟกัสอัตโนมัติ / การเปิดรับแสงอัตโนมัติถูกล็อก</string>
     <string name="hint_device_water_mark">ภาพลายน้ำของอุปกรณ์จะถูกเพิ่มโดยอัตโนมัติ</string>
     <string name="module_name_fun">วิดีโอสั้น</string>
+    <string name="module_name_new_slow_motion">เคลื่อนไหวช้า</string>
     <string name="module_name_video">วิดีโอ</string>
     <string name="module_name_capture">รูปถ่าย</string>
     <string name="module_name_beauty">บิวตี้</string>
@@ -507,7 +515,7 @@
     <string name="edit_smile">ยิ้ม</string>
     <string name="edit_slim_nose">จมูก</string>
     <string name="popup_tip_3d_beauty_intro_text">3D บิวตี้</string>
-    <string name="edit_eyebrow_dye">ขนคิ้ว</string>
+    <string name="edit_eyebrow_dye">คิ้ว</string>
     <string name="edit_pupil_line">อายไลน์เนอร์</string>
     <string name="edit_jelly_lips">ลิปมัน</string>
     <string name="edit_blusher">สีไวน์</string>
@@ -561,4 +569,5 @@
     <string name="lighting_pattern_dot">จุด</string>
     <string name="lighting_pattern_shutter">ผ้าม่าน</string>
     <string name="view_privacy_policy">ดูนโยบายความเป็นส่วนตัว</string>
+    <string name="fps960_toast">ถ่ายภาพแบบเคลื่อนไหวช้าจะเริ่มเมื่อนับถอยหลังถึงจุดสีขาว</string>
 </resources>

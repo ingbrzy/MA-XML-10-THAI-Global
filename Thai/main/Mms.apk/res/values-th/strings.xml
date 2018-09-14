@@ -48,10 +48,10 @@
     <string name="bcc_label">"สำเนาลับถึง: "</string>
     <string name="block_messaging_entry_title">ข้อความที่ถูกบล็อก</string>
     <string name="block_support_text">สนับสนุนโดย Antiy</string>
-    <string name="bookmark">ติดดาว</string>
-    <string name="bookmark_confirm_delete_message">ยกเลิกการชอบข้อความที่เลือก?</string>
-    <string name="bookmark_empty">ไม่มีข้อความที่ชอบ</string>
-    <string name="bookmark_list_title">ติดดาว</string>
+    <string name="bookmark">เพิ่มในรายการโปรดแล้ว</string>
+    <string name="bookmark_confirm_delete_message">ลบข้อความที่เลือกออกจากรายการโปรด?</string>
+    <string name="bookmark_empty">ไม่มีข้อความในรายการโปรด</string>
+    <string name="bookmark_list_title">รายการโปรด</string>
     <string name="button_emoji_creature">อีโมจิสัตว์</string>
     <string name="button_emoji_lifestyle">อีโมจิไลฟ์สไตล์</string>
     <string name="button_emoji_smiley">อีโมจิหน้า</string>
@@ -78,6 +78,7 @@
     <string name="cloud_state_disabled">เปิดการซิงค์กับ Mi คลาวด์ เพื่อซิงค์ข้อความ</string>
     <string name="cloud_state_sync_finished">ซิงค์กับ Mi คลาวด์แล้ว</string>
     <string name="cloud_state_syncing">กำลังซิงค์กับ Mi คลาวด์…</string>
+    <string name="cmcc_privacy">นโยบายความเป็นส่วนตัวเครือข่าย China Mobile</string>
     <string name="compressing">รูปภาพใหญ่เกินไป กำลังบีบอัดไฟล์…</string>
     <string name="confirm">ตกลง</string>
     <string name="confirm_add_blacklist_dialog_dspt">เพิ่มเลขหมายนี้ไปยังรายการบล็อกของคุณ?</string>
@@ -95,8 +96,7 @@
     <string name="confirm_export_dialog_description">การสนทนาก่อนหน้ากับรายชื่อนี้จะไม่ถูกซ่อนอีกต่อไป</string>
     <string name="confirm_export_dialog_title">ลบออกจากรายชื่อส่วนบุคคล</string>
     <string name="confirm_no_block_positive">ยกเลิกการบล็อก</string>
-    <string name="confirm_no_block_title">"เลิกบล็อกข้อความนี้และเรียกคืนข้อความทั้งหมดที่ส่งจากหมายเลขนี้? 
- (หมายเลขจะถูกเพิ่มลงในรายการข้อความที่อนุญาต)"</string>
+    <string name="confirm_no_block_title">ปลดบล๊อกหมายเลขที่เลือกใช่หรือไม่? หมายเลขจะถูกเพิ่มไปในรายการยกเว้น แต่รายการที่บล็อกไว้ก่อนหน้านี้จะไม่ปรากฏในกล่องข้อความ</string>
     <string name="confirm_rate_limit">กำลังส่งข้อความมัลติมีเดียจำนวนมาก</string>
     <string name="confirm_restore_all_title">คืนค่าข้อความทั้งหมดที่ส่งจากเลขหมายนี้?</string>
     <string name="confirm_restore_checkbox">เรียกคืนข้อความที่ถูกบล็อกไว้</string>
@@ -127,7 +127,7 @@
     <string name="copy_to_sdcard_fail">ไม่สามารถบันทึกสิ่งที่แนบได้</string>
     <string name="copy_to_sdcard_success">บันทึกสิ่งที่แนบเป็น %s</string>
     <string name="delete">ลบ</string>
-    <string name="delete_bookmark">ลบจากรายการที่ชอบ</string>
+    <string name="delete_bookmark">ลบออกจากรายการโปรด</string>
     <string name="delete_message">ลบ</string>
     <string name="delete_phrase">ลบการตอบ</string>
     <string name="delete_unlocked">ลบข้อความที่ล็อก</string>
@@ -138,13 +138,9 @@
     <string name="delivery_toast_body">รับข้อความโดย %s</string>
     <string name="delivery_toast_body_more">ข้อความที่ได้รับจาก %1$s และ %2$d คนอื่น ๆ</string>
     <string name="dialog_message_fake_cell_detect_error">แก้ไขข้อมูลเกี่ยวกับข้อความนี้หรือไม่? ในการดำเนินการนี้ MIUI ต้องอัปโหลดหมายเลขโทรศัพท์ (%1$s) เนื้อหาของข้อความและข้อมูลเกี่ยวกับตำแหน่งที่ตั้งใกล้เคียงกับเซิร์ฟเวอร์ของตน</string>
-    <string name="dialog_message_mx">Mi ข้อความ ช่วยให้คุณสามารถส่งข้อความไปยังอุปกรณ์ MIUI อื่น ๆ โดยไม่มีค่าใช้จ่ายที่เกิดขึ้น จำเป็นต้องมีข้อความ SMS ขาออกเพื่อเปิดใช้งานข้อความ Mi ผู้ให้บริการของคุณจะคิดค่าบริการสำหรับข้อความนี้ คุณต้องยอมรับ \"%1$s\" และ \"%2$s\" ก่อนใช้ Mi ข้อความ</string>
-    <string name="dialog_message_mx_rcs">Mi ข้อความ ช่วยให้คุณสามารถส่งข้อความไปยังอุปกรณ์ MIUI และผุ้ใช้ China Mobile อื่นๆ โดยไม่มีค่าใช้จ่ายที่เกิดขึ้น จำเป็นต้องมีข้อความ SMS ขาออกเพื่อเปิดใช้งานข้อความ Mi ผู้ให้บริการของคุณจะคิดค่าบริการสำหรับข้อความนี้ คุณต้องยอมรับ \"%1$s\" และ \"%2$s\" ก่อนใช้ Mi ข้อความ ยอมรับ?</string>
-    <string name="dialog_message_networking">การรับส่งข้อความต้องเชื่อมต่อกับอินเทอร์เน็ตและเข้าถึงตำแหน่งของคุณเพื่อให้มีการรับส่งข้อความแบบสมาร์ทการรับรู้รหัสผู้ส่งและบริการอื่น ๆ คุณต้องยอมรับ \"%1$s\" และ \"%2$s\" ก่อนใช้บริการเหล่านี้ อนุญาตหรือไม่?</string>
-    <string name="dialog_message_networking_mx">Mi ข้อความ ช่วยให้คุณสามารถส่งข้อความไปยังอุปกรณ์ MIUI อื่น ๆ โดยไม่มีค่าใช้จ่ายที่เกิดขึ้น จำเป็นต้องมีข้อความ SMS ขาออกเพื่อเปิดใช้งานข้อความ Mi ผู้ให้บริการของคุณจะคิดค่าบริการสำหรับข้อความนี้ คุณต้องยอมรับ \"%1$s\" และ \"%2$s\" ก่อนใช้ Mi ข้อความ การรับส่งข้อความต้องเชื่อมต่อกับอินเทอร์เน็ตและเข้าถึงตำแหน่งของคุณเพื่อให้มีการรับส่งข้อความแบบสมาร์ทการรับรู้รหัสผู้ส่งและบริการอื่นๆ อนุญาตหรือไม่?</string>
-    <string name="dialog_message_networking_mx_rcs">Mi ข้อความ ช่วยให้คุณสามารถส่งข้อความไปยังอุปกรณ์ MIUI และผู้ใช้ China Mobile อื่นๆ โดยไม่มีค่าใช้จ่ายที่เกิดขึ้น จำเป็นต้องมีข้อความ SMS ขาออกเพื่อเปิดใช้งานข้อความ Mi ผู้ให้บริการของคุณจะคิดค่าบริการสำหรับข้อความนี้ คุณต้องยอมรับ \"%1$s\" และ \"%2$s\" ก่อนใช้ Mi ข้อความ การรับส่งข้อความต้องเชื่อมต่อกับอินเทอร์เน็ตและเข้าถึงตำแหน่งของคุณเพื่อให้มีการรับส่งข้อความแบบสมาร์ทการรับรู้รหัสผู้ส่งและบริการอื่นๆ อนุญาตหรือไม่?</string>
-    <string name="dialog_message_networking_rcs">China Mobile Messaging ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้ China Mobile อื่น ๆ โดยไม่มีค่าใช้จ่ายที่เกิดขึ้น จำเป็นต้องมีข้อความ SMS ขาออกเพื่อเปิดใช้งานข้อความ Mi ผู้ให้บริการของคุณจะคิดค่าบริการสำหรับข้อความนี้ คุณต้องยอมรับ \"%1$s\" และ \"%2$s\" ก่อนใช้ China Mobile Messaging การรับส่งข้อความต้องเชื่อมต่อกับอินเทอร์เน็ตและเข้าถึงตำแหน่งของคุณเพื่อให้มีการรับส่งข้อความแบบสมาร์ทการรับรู้รหัสผู้ส่งและบริการอื่นๆ อนุญาตหรือไม่?</string>
-    <string name="dialog_message_rcs">China Mobile Messaging ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้ China Mobile โดยไม่คิดค่าบริการ คุณต้องยอมรับ \"%1$s\" และ \"%2$s\" ก่อนที่จะใช้ China Mobile Messaging ยอมรับ?</string>
+    <string name="dialog_message_mx">Mi ข้อความ ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้ MIUI อื่น ๆ โดยไม่มีค่าใช้จ่าย แต่มีความจำเป็นต้องมีข้อความ SMS ขาออกเพื่อเปิดใช้งาน Mi ข้อความ ผู้ให้บริการของคุณจะคิดค่าบริการสำหรับข้อความนี้ คุณต้องยอมรับ \"%1$s\" และ \"%2$s\" ก่อนใช้ Mi ข้อความ</string>
+    <string name="dialog_message_networking">การรับ-ส่งข้อความต้องใช้สมุดหน้าเหลือเพื่อสามารถจดจำ ID ผู้ส่ง การรับ-ส่งข้อความและสมุดหน้าเหลืองต้องเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณเพื่อให้ทำงานได้ตามปกติ อนุญาตหรือไม่?</string>
+    <string name="dialog_message_rcs">การรับ-ส่งข้อความ China Mobile ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้ China Mobile ที่อยู่ในประเทศจีน โดยไม่คิดค่าบริการ คุณต้องยอมรับ \"%1$s\" ก่อนที่จะใช้ การรับ-ส่งข้อความ China Mobile</string>
     <string name="dialog_message_sms_report">ข้อความสแปมและข้อมูลผู้ส่งจะอับโหลดไปยัง MIUI เมื่อคุณรายงาน ซึ่งจะใช้เพื่อปรับปรุงตัวกรองจดหมายขยะ MIUI เท่านั้น</string>
     <string name="dialog_title_fake_cell_detect_error">การแก้ไข</string>
     <string name="dialog_title_mx_rcs">Mi ข้อความ</string>
@@ -172,7 +168,7 @@
     <string name="edit_slide_activity">แก้ไขสไลด์</string>
     <string name="edit_slideshow_activity">แก้ไขการแสดงสไลด์</string>
     <string name="enabled">เปิด</string>
-    <string name="english_subject_limit">ไม่เกิน 40 ตัวตัว</string>
+    <string name="english_subject_limit">40 ตัวอักษร</string>
     <string name="enter_edit_mode">แก้ไขข้อความ</string>
     <string name="error_code_label">"รหัสข้อผิดพลาด: "</string>
     <string name="error_state">สถานะไม่สอดคล้อง</string>
@@ -194,7 +190,7 @@
     <string name="fake_cell_checking_hint">กำลังตรวจสอบความปลอดภัย…</string>
     <string name="fake_cell_safe_hint">ข้อความนี้ปลอดภัย</string>
     <string name="fake_cell_timeout_hint">ไม่สามารถตรวจสอบความปลอดภัยได้</string>
-    <string name="favorite_at_time">วันที่เก็บ: %1s</string>
+    <string name="favorite_at_time">เพิ่มในรายการโปรดที่: %1s</string>
     <string name="fdn_check_failure">คุณสามารถส่งข้อความไปยังหมายเลขโทรศํพท์ที่กำหนดเท่านั้น</string>
     <string name="festival_sms_loading">กำลังโหลด…</string>
     <string name="fetion_prefix">[Fetion]</string>
@@ -202,6 +198,7 @@
     <string name="file_size">ขนาด:</string>
     <string name="file_title">ชื่อ:</string>
     <string name="file_width_height">ขนาด:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">ข้อความใหม่</string>
     <string name="forward_from">ส่งต่อจาก:</string>
     <string name="forward_prefix">"ส่งต่อ: "</string>
@@ -231,7 +228,7 @@
     <string name="hybrid_pull_to_refresh_release_label">ปล่อยเพื่อรีเฟรช…</string>
     <string name="hybrid_service_unavailiable">บริการไม่พร้อมใช้งาน</string>
     <string name="hybrid_try_again">ลองอีกครั้ง</string>
-    <string name="i_know">ตกลง</string>
+    <string name="i_know">เข้าใจแล้ว</string>
     <string name="importing_progress_private_message">กำลังนำเข้า…</string>
     <string name="in_sms">ข้อความ</string>
     <string name="insufficient_drm_rights">ตรวจพบว่ามีสิทธิ์ DRM ไม่เพียงพอ</string>
@@ -245,6 +242,7 @@
     <string name="loading_conversations">รอสักครู่…</string>
     <string name="loading_mms">รอสักครู่…</string>
     <string name="manage_permission_app_label">การอนุญาตของอุปกรณ์</string>
+    <string name="mark_number_by_own_dialog_subtitle">ทำเครื่องหมาย %1$s</string>
     <string name="me">ฉัน</string>
     <string name="menu_add_black">บล็อกเลขหมายนี้</string>
     <string name="menu_add_contact">เพิ่มในรายชื่อที่มีอยู่แล้ว</string>
@@ -254,7 +252,7 @@
     <string name="menu_delete_messages">ลบข้อความ</string>
     <string name="menu_edit">แก้ไข</string>
     <string name="menu_forward">ส่งต่อ</string>
-    <string name="menu_lock">ติดดาว</string>
+    <string name="menu_lock">เพิ่มในรายการโปรด</string>
     <string name="menu_mark">ทำเครื่องหมาย</string>
     <string name="menu_more">เพิ่มเติม</string>
     <string name="menu_new_contact">สร้างรายชื่อใหม่</string>
@@ -262,7 +260,7 @@
     <string name="menu_pick_from_contact">เลือกจากรายชื่อ</string>
     <string name="menu_preferences">การตั้งค่า</string>
     <string name="menu_send_as_common">ส่งแบบข้อความ SMS</string>
-    <string name="menu_unlock">ถอดดาว</string>
+    <string name="menu_unlock">ลบออกจากรายการโปรด</string>
     <string name="menu_view_contact">ดูรายชื่อ</string>
     <string name="message_class_label">"คลาสข้อความ: "</string>
     <string name="message_contact">ผู้ติดต่อ:</string>
@@ -303,7 +301,7 @@
     <string name="multimedia_message">ข้อความมัลติมีเดีย</string>
     <string name="multimedia_notification">การแจ้งข้อความมัลติมีเดีย</string>
     <string name="mx2_type_description">[%s]</string>
-    <string name="mx_activate_allow_notice">การลงทะเบียนเปิดใช้งานบริการข้อความและเสียงใหม่ ต้องการส่งข้อความออกซึ่งจะมีค่าใช้จ่าย ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความนี้ นอกจากนี้การบริการนี้ต้องการใช้ข้อมูลมือถือเพื่อดำเนินการ</string>
+    <string name="mx_activate_allow_notice">ในการส่งข้อความอาจจำเป็นต้องเปิดใช้บริการเพื่อข้อความและเสียงฟรี ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความนี้ นอกจากนี้เมื่อเปิดใช้คุณลักษณะนี้ บริการนี้ต้องใช้ข้อมูลมือถือของคุณเล็กน้อยเพื่อตรวจสอบว่าผู้ใช้รายอื่นออนไลน์อยู่หรือไม่ ยอมรับหรือไม่?</string>
     <string name="mx_activate_dlg_title">เปิดใช้งานระบบข้อความ Mi</string>
     <string name="mx_activate_dlg_title_ex">เปิดใช้งานข้อความและเสียง Mi</string>
     <string name="mx_activate_error_malformed_info">คุณจำเป็นต้องเปิดใช้งานระบบข้อความ Mi ใหม่อีกครั้ง</string>
@@ -316,7 +314,7 @@
     <string name="mx_activate_int_hint_malformed_info">การลงทะเบียนเปิดใช้งานข้อความ Mi ใหม่ต้องการส่งข้อความต่างประเทศซึ่งจะมีค่าใช้จ่าย ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความนี้</string>
     <string name="mx_activate_int_hint_server">การลงทะเบียนเปิดใช้งานข้อความ Mi ใหม่ต้องการส่งข้อความต่างประเทศซึ่งจะมีค่าใช้จ่าย ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความนี้</string>
     <string name="mx_activate_int_hint_sim_change">ดูเหมือนว่าคุณได้เปลี่ยนซิมการ์ด การลงทะเบียนเปิดใช้งานข้อความ Mi ใหม่ต้องการส่งข้อความออกซึ่งจะมีค่าใช้จ่าย ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความนี้</string>
-    <string name="mx_activate_network_allow_notice">การบริการนี้ต้องการใช้ข้อมูลมือถือเพื่อดำเนินการ</string>
+    <string name="mx_activate_network_allow_notice">เมื่อเปิดใช้คุณลักษณะนี้ บริการนี้ต้องใช้ข้อมูลมือถือของคุณเล็กน้อยเพื่อตรวจสอบว่าผู้ใช้รายอื่นออนไลน์อยู่หรือไม่ ยอมรับหรือไม่?</string>
     <string name="mx_activate_status_desc_activating_now">กำลังเปิดใช้งาน…</string>
     <string name="mx_activate_status_desc_check_net_connection">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="mx_activate_status_desc_fail">ไม่สามารถเปิดใช้งานข้อความ Mi ได้</string>
@@ -334,7 +332,7 @@
     <string name="mx_current_status">การตั้งค่า</string>
     <string name="mx_dspt">ส่งข้อความ SMS และ MMS ไปยังอุปกรณ์ MIUI อื่นโดยไม่เสียค่าบริการใดๆขณะคุณเชื่อมต่ออยู่กับ Wi-Fi</string>
     <string name="mx_dspt_listview">ส่งข้อความไปยังผู้ใช้งานระบบ MIUI ด้วยกันโดยไม่เสียค่าส่งข้อความ SMS</string>
-    <string name="mx_dspt_provision">ข้อความ Mi ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้ MIUI รายอื่นผ่านทางอินเทอร์เน็ตได้โดยไม่ต้องเสียค่าบริการ อาจมีข้อความ SMS ขาออกเพื่อเปิดใช้งานข้อความ Mi ใหม่ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ นอกจากนี้บริการนี้ต้องการเข้าถึงข้อมูลมือถือเพื่อทำงานได้ตามปกติ</string>
+    <string name="mx_dspt_provision">ข้อความ Mi ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้ MIUI รายอื่นผ่านทางอินเทอร์เน็ตได้โดยไม่ต้องเสียค่าบริการ อาจมีข้อความ SMS ขาออกเพื่อเปิดใช้งานข้อความ Mi ใหม่ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ นอกจากนี้เมื่อเปิดคุณสมบัตินี้อยู่ อาจมีการใช้ข้อมูลมือถือเล็กน้อยเพื่อตรวจสอบว่าผู้ใช้รายอื่นออนไลน์อยู่หรือไม่ ยอมรับหรือไม่?</string>
     <string name="mx_dspt_provision_ex2">นโยบายความเป็นส่วนตัว</string>
     <string name="mx_enable">ข้อความ Mi</string>
     <string name="mx_enable_ex">ข้อความ Mi และเสียง</string>
@@ -352,7 +350,7 @@
     <string name="mx_reactivate">เปิดใช้บริการระบบข้อความ Mi อีกครั้ง</string>
     <string name="mx_recommend_msg">แตะเพื่อเปิดใช้งานข้อความ Mi</string>
     <string name="mx_stranger_recommend_msg">แตะบล็อกข้อความ Mi จากเลขหมายที่ไม่รู้จัก</string>
-    <string name="mx_type_guide">ระบบข้อความ Mi ใช้สำหรับส่งข้อความระหว่างผู้ใช้ MIUI ด้วยกันโดยไม่ต้องเสียค่าบริการใดๆ</string>
+    <string name="mx_type_guide">ส่งข้อความไปยังผู้ใช้งานระบบ MIUI ด้วยกันโดยไม่เสียค่าส่งข้อความ SMS</string>
     <string name="need_download">กำลังซิงค์…</string>
     <string name="networking_allow_continue">อนุญาต</string>
     <string name="networking_allow_desc">Mi ข้อความ ต้องการเชื่อมต่ออินเทอร์เน็ตเพื่อทำงานได้ตามปกติ เพื่อให้บริการข้อความและเสียงฟรี จดจำหมายเลขที่ไม่รู้จัก กรองสแปมและเปิดใช้งานคุณลักษณะอื่นๆ Mi ข้อความ ต้องใช้สมุดหน้าเหลือง อนุญาตให้สมุดหน้าเหลืองเชื่อมต่อกับอินเทอร์เน็ต รับข้อมูลตำแหน่งของคุณและอ่านรายชื่อติดต่อของคุณหรือไม่?</string>
@@ -368,7 +366,7 @@
     <string name="no_delivery_report">ไม่พบรายงานการจัดส่ง</string>
     <string name="no_subject">(ไม่มีชื่อเรื่อง)</string>
     <string name="no_subject_view">(ไม่มีชื่อเรื่อง)</string>
-    <string name="non_english_subject_limit">จำกัดไม่เกิน 13 ตัวอักษร</string>
+    <string name="non_english_subject_limit">13 ตัวอักษร</string>
     <string name="nosend_message">ไม่ได้ส่ง</string>
     <string name="notification_channel_msg_description">แจ้งเตือนเกี่ยวกับข้อความ</string>
     <string name="notification_channel_msg_name">ข้อความ</string>
@@ -482,21 +480,22 @@
     <string name="private_message">การรับ-ส่งข้อความส่วนบุคคล</string>
     <string name="private_new_notification">แจ้งเตือนข้อความใหม่</string>
     <string name="private_protect">ป้องกันความเป็นส่วนตัว</string>
-    <string name="private_settings">การตั้งค่าข้อความส่วนบุคคล</string>
+    <string name="private_settings">การตั้งค่า</string>
     <string name="processing">กำลังดำเนินการ…</string>
     <string name="prvate_contact">รายชื่อส่วนบุคคล</string>
     <string name="quick_reply">ตอบกลับ</string>
     <string name="rate_limit_surpassed">ตกลง</string>
-    <string name="rcs_message_disable">ไม่สามารถดูข้อความนี้ในพื้นที่ทับซ้อน</string>
+    <string name="rcs_message_disable">ไม่สามารถเรียกดูข้อความนี้ในพื้นที่ทับซ้อน</string>
+    <string name="rcs_service_agreement">ข้อตกลงการให้บริการ</string>
     <string name="received_at_time">วันที่รับ: %1s</string>
     <string name="received_label">"ได้รับ: "</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">"ผู้รับ: "</string>
     <string name="recipients_over_size">จำนวนผู้รับเกินที่ระบบกำหนดไว้</string>
     <string name="recommend_bar_cancel">เพิกเฉย</string>
-    <string name="recommend_bar_message_mx">Mi ข้อความ ช่วยให้คุณสามารถส่งข้อความไปยังอุปกรณ์ MIUI อื่นๆ โดยไม่มีค่าใช้จ่าย</string>
-    <string name="recommend_bar_message_mx_rcs">Mi ข้อความ ช่วยให้คุณสามารถส่งข้อความไปยังอุปกรณ์ MIUI อื่นๆ และผู้ใช้ China Mobile ได้โดยไม่ต้องเสียค่าใช้จ่าย</string>
-    <string name="recommend_bar_message_rcs">China Mobile Messaging ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้รายอื่นโดยไม่มีค่าใช้จ่าย</string>
+    <string name="recommend_bar_message_mx">Mi ข้อความ ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้ MIUI อื่นๆ โดยไม่มีค่าใช้จ่าย</string>
+    <string name="recommend_bar_message_mx_rcs">Mi ข้อความ ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้MIUI อื่นๆ และผู้ใช้ China Mobile ที่อยู่ในประเทศจีนได้โดยไม่ต้องเสียค่าใช้จ่าย</string>
+    <string name="recommend_bar_message_rcs">การรับ-ส่งข้อความ China Mobile ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้รายอื่นของ China Mobile ที่อยู่ในประเทศจีน โดยไม่มีค่าใช้จ่าย</string>
     <string name="recommend_bar_message_smart_message">คัดลอกรหัสผ่านแบบครั้งเดียว แพ็กเกจติดตามใช้เมนูอัจฉริยะ และอื่นๆ</string>
     <string name="recommend_bar_ok">เปิดใช้งาน</string>
     <string name="recommend_bar_title_mx_rcs">Mi ข้อความ</string>
@@ -570,6 +569,7 @@
     <string name="send_signature_confirm_dialog_title">ส่งข้อความ</string>
     <string name="send_sms">ส่งข้อความ</string>
     <string name="send_to">ถึง:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">วันที่ส่ง: %1s</string>
     <string name="sent_label">"ส่ง: "</string>
     <string name="service_message_not_found">ข้อความหมดอายุหรือไม่มีข้อความ</string>

@@ -287,6 +287,8 @@
     <string name="xpsace_guide_button">สร้าง</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">ไม่พบแอปไดๆ</string>
+    <string name="confirm_close_password_title">ปิดใช้งานรหัสผ่าน</string>
+    <string name="confirm_close_password_desc">คุณจะไม่สามารถเข้าสู่พื้นที่ทับซ้อนจากหน้าจอล็อกหลังจากที่คุณปิดใช้งานรหัสผ่าน ปิดใช้งานหรือไม่?</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">ลงชื่อเข้าใช้และแชร์</string>
@@ -423,7 +425,7 @@
     <string name="ent_invalid_qr">รหัส QR ไม่ถูกต้อง</string>
     <string name="ent_invalid_agency">รหัสบริษัทไม่ถูกต้อง</string>
     <string name="ent_privacy_policy_notice">* ข้อมูลส่วนบุคคลในโหมดนี้จะถูกเก็บรวบรวมตามนโยบายที่บริษัทของคุณกำหนดไว้ Xiaomi ไม่ได้รวบรวมข้อมูลส่วนบุคคลในโหมดนี้</string>
-    <string name="ent_confirm_dialog_content">คุณจะไม่สามารถกลับสู่สถานะปัจจุบันของระบบหลังจากเปิดใช้งานโหมดบริษัทแล้ว อย่างไรก็ตามข้อมูลทั้งหมดของคุณจะยังคงถูกเก็บไว้ในอุปกรณ์นี้ คุณจะต้องรีบูตอุปกรณ์เพื่อเปิดใช้งานโหมดบริษัท เปิดใช้ทันทีหรือไม่?</string>
+    <string name="ent_confirm_dialog_content">คุณจะไม่สามารถกลับสู่สถานะปัจจุบันของระบบหลังจากเปิดใช้งานโหมดบริษัท อย่างไรก็ตามข้อมูลทั้งหมดของคุณจะยังคงถูกเก็บไว้ในอุปกรณ์นี้ คุณจะต้องรีบูตอุปกรณ์เพื่อเปิดใช้งานโหมดบริษัท เปิดใช้ทันทีหรือไม่?</string>
     <string name="ent_error_dialog_content">มีรหัสที่คุณป้อนไม่ถูกต้อง ตรวจสอบรหัสบริษัทและรหัสใบอนุญาตของคุณแล้วป้อนรหัสอีกครั้ง</string>
     <string name="ent_download_install_dialog_content">คุณต้องติดตั้งแอปองค์กรเพื่อเปิดใช้งานโหมดบริษัท จะติดตั้งตอนนี้หรือไม่?</string>
     <string name="ent_download_install_dialog_title">ดาวน์โหลดแอปองค์กร</string>
