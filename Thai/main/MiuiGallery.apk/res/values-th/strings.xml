@@ -226,7 +226,7 @@
     <string name="cleaner_screen_shot_action">ล้าง</string>
     <string name="cleaner_screen_shot_description">ลบภาพหน้าจอที่คุณไม่ต้องการ</string>
     <string name="cleaner_screen_shot_title">ลบภาพหน้าจอ</string>
-    <string name="cleaner_slim_action">Start optimization</string>
+    <string name="cleaner_slim_action">เริ่มการเพิ่มประสิทธิภาพ</string>
     <string name="cleaner_slim_description">เพิ่มรูปภาพในอุปกรณ์ของคุณให้เหมาะสม ไฟล์ต้นฉบับจะถูกเก็บไว้ใน Mi คลาวด์</string>
     <string name="cleaner_slim_start">เพิ่มประสิทธิภาพ</string>
     <string name="cleaner_slim_title">เพิ่มประสิทธิภาพรูปภาพ</string>
@@ -466,6 +466,7 @@
     <string name="face_name_edit">แก้ไข</string>
     <string name="face_name_input">ป้อนชื่อ</string>
     <string name="face_recommend">ข้อเสนอแนะ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">ดำเนินการไม่เสร็จสิ้น</string>
     <string name="fail_to_pick_email">ที่อยู่อีเมลไม่ถูกต้อง</string>
     <string name="fail_to_sync_album">ไม่สามารถซิงค์อัลบั้ม ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองใหม่อีกครั้ง</string>
@@ -476,6 +477,7 @@
     <string name="feature_guidance_photo_effects">"เอฟเฟ็กต์​ภาพถ่ายใหม่
 พร้อมใช้งาน"</string>
     <string name="feature_guidance_video_editor_smart_effects">เอฟเฟ็กต์​ใหม่พร้อมใช้งาน</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">ความทรงจำ</string>
     <string name="filter_bi_mono">โมโน</string>
     <string name="filter_bi_pink">ชมพู</string>
@@ -544,6 +546,7 @@
     <string name="gif_tip">ไฟล์ GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">ตั้งค่า</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"คลังภาพต้องการเข้าถึง 
 %s
  เพื่อให้ทำงานได้ตามปกติ แตะ \"ตั้งค่า\" เพื่อไปยังการอนุญาต"</string>
@@ -741,6 +744,7 @@
     <string name="people_mark_mode_title_no_mark_name">เลือกสักคน</string>
     <string name="people_page_label">บุคคล</string>
     <string name="people_page_unname">ไม่มีชื่อ</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">รูปภาพสัตว์เลี้ยง</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">รูปภาพ</string>
@@ -998,6 +1002,9 @@
     <string name="search_title_recommend">แนะนำ</string>
     <string name="search_title_suggestion">ข้อเสนอแนะ</string>
     <string name="search_title_tag">สิ่งของ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">กำลังมองหาโปรเจคเตอร์…</string>
     <string name="secret_album_card_description">ที่ที่ดีที่สุดสำหรับความลับทั้งหมดของคุณ</string>
     <string name="secret_album_card_title">เปิดอัลบั้มที่ซ่อนไว้</string>
@@ -1274,6 +1281,7 @@
     <string name="view_face_album">ดูอัลบั้ม</string>
     <string name="view_more_face_desc">เรียกดูบุคคลเพิ่มเติม</string>
     <string name="voice_assistant">ป้อนด้วยเสียง</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">ยินดีต้อนรับสู่ Mi คลาวด์</string>
     <string name="where_is_barcode">รหัส QR อยู่ที่ไหน?</string>
     <string name="who_is_this">บุคคลนี้คือใคร?</string>
@@ -1281,6 +1289,10 @@
     <string name="yes">ใช่</string>
     <string name="yesterday">เมื่อวาน</string>
     <string name="you_are">คุณเป็น</string>
+    <string name="collage_select_image_range">ภาพปะติดสามารถรวมได้ 1-4 รูป</string>
+    <string name="operation_produce">ความคิดสร้างสรรค์</string>
+    <string name="photo_editor_crop_auto_tips">Cropped automatically</string>
+    <string name="photo_movie_select_image_range">คลิปสามารถรวมได้ 3-6 รูป</string>
     <string name="refocus_discard_confirm_message">บันทึกการเปลี่ยนแปลง?</string>
     <string name="refocus_discard_negative_btn">ละทิ้ง</string>
     <string name="refocus_discard_positive_btn">บันทึก</string>
@@ -1293,4 +1305,6 @@
     <string name="refocus_title">เบลอ</string>
     <string name="refocus_type_static">ระดับการเบลอ</string>
     <string name="refocus_type_video">เส้นทางแสง</string>
+    <string name="select_image_operation">กำลังเพิ่มรูปภาพ</string>
+    <string name="unsupport_video">%s ไม่ทำงานกับวิดีโอ</string>
 </resources>

@@ -8,7 +8,6 @@
     <string name="close_panel">ปิดใช้งานเมนูลัด</string>
     <string name="customize_entries">เลือกปุ่มลัด</string>
     <string name="enable_touch_assistant">เปิดใช้งานเมนูลัด</string>
-    <string name="enabled_for_pad_hint">ทำงานเมื่อเปิด\"บล็อกปุ่มนำทางในภาพทิวทัศน์\"</string>
     <string name="function_settings">การตั้งค่าปุ่มลัด</string>
     <string name="handy_mode_default_to_close_whether_open">โหมดถนัดมือปิดอยู่โดยค่าเริ่มต้น เปิดโหมดถนัดมือหรือไม่?</string>
     <string name="hide_touch_assistant">ซ่อนโดยอัตโนมัติ</string>

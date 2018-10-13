@@ -57,6 +57,9 @@
     <plurals name="edit_date_calculate_days_error_hint">
         <item quantity="other">คุณสามารถป้อนได้มากสุด %1$d วัน</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">สามารถตั้งได้สูงสุด %d การแจ้งเตือน</item>
+    </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
     </plurals>

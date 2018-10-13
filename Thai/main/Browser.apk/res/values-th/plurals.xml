@@ -66,6 +66,9 @@
     <plurals name="view_realtime_clear">
         <item quantity="other">แจ่มใส</item>
     </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">โหวต %d คน</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">%d วันที่แล้ว</item>
     </plurals>

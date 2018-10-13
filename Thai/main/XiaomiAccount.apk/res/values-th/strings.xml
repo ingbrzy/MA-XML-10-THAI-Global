@@ -9,7 +9,7 @@
     <string name="passport_login">ลงชื่อเข้าใช้</string>
     <string name="passport_relogin">ลงชื่อเข้าใช้อีกครั้ง</string>
     <string name="passport_skip_login">ข้าม</string>
-    <string name="passport_skip_setup_account_title">ข้ามการตั้งค่าบัญชี</string>
+    <string name="passport_skip_setup_account_title">ไม่ต้องการใช้ Mi คลาวด์?</string>
     <string name="passport_skip_setup_account_msg">คุณสามารถตั้งค่าบัญชี Mi ภายหลังในเมนูการตั้งค่า</string>
     <string name="passport_confirm_login">ดำเนินการต่อ</string>
     <string name="passport_find_password_on_web_msg">เข้าไปที่เว็บไซต์ account.mi.com เพื่อตั้งค่ารหัสผ่านของคุณใหม่</string>

@@ -148,9 +148,9 @@
     <string name="alert_message_clear_records">ลบไฟล์บันทึกที่เลือกไว้?</string>
     <string name="clear_records">ลบไฟล์บันทึกที่ซิงค์ไว้?</string>
     <string name="network_tip_dialog_title">จำเป็นต้องเชื่อมต่อกับอินเตอร์เน็ต</string>
-    <string name="network_tip_dialog_content">เครื่องบันทึกต้องเชื่อมต่ออินเทอร์เน็ตและอ่านรายชื่อติดต่อของคุณเพื่อให้ทำงานได้ตามปกติ ตกลง?</string>
+    <string name="network_tip_dialog_content">เครื่องบันทึกจำเป็นต้องเชื่อมต่อกับอินเตอร์เน็ตเพื่อทำงานตามปกคิ เห็นด้วยไหม?</string>
     <string name="network_tip_dialog_ok">ยอมรับ</string>
-    <string name="network_tip_dialog_cancel">ยกเลิก</string>
+    <string name="network_tip_dialog_cancel">ไม่เห็นด้วย</string>
     <string name="head_set_tip_dialog_title">ใช้ไมค์ภายใน</string>
     <string name="head_set_tip_dialog_msg">ถอดหูฟังเพื่อให้สามารถบันทึกเสียงได้ด้วยที่ตั้งไว้ที่เฉพาะเจาะจง (e.g., เพลง, เสียง).</string>
     <string name="head_set_tip_dialog_ok">รับทราบ</string>

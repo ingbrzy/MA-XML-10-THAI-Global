@@ -15,6 +15,7 @@
     <string-array name="emode_app_groups">
         <item>แอประบบ</item>
         <item>แอปอื่นๆ</item>
+        <item>แอปที่เลือก</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>โหมดควบคุมอุณหภูมิเริ่มต้น</item>

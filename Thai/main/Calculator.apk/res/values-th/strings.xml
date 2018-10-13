@@ -225,6 +225,8 @@
     <string name="tax_social_insurance">ประกันสังคม</string>
     <string name="tax_thershold_foreign">%s (ต่างประเทศ)</string>
     <string name="tax_thershold_native">%s (จีนแผ่นดินใหญ่)</string>
+    <string name="tax_thershold_native_new">%s (ใหม่)</string>
+    <string name="tax_thershold_native_new_description">ภาษีจะถูกคำนวนตามกฎหมายฉบับใหม่ เริ่มตั้งแต่วันที่ 1 ตุลาคม 2018</string>
     <string name="tax_threshold">อัตราภาษี</string>
     <string name="tax_title_primary" />
     <string name="tax_title_secondary" />
@@ -297,7 +299,7 @@
     <string name="unit_data_display_currency_nok">โครนนอร์เวย์</string>
     <string name="unit_data_display_currency_nzd">ดอลลาร์นิวซีแลนด์</string>
     <string name="unit_data_display_currency_omr">เรียลโอมาเนีย</string>
-    <string name="unit_data_display_currency_php">Philippine peso</string>
+    <string name="unit_data_display_currency_php">เปโซฟิลิปปินส์</string>
     <string name="unit_data_display_currency_pln">ซวอตือโปแลนด์</string>
     <string name="unit_data_display_currency_qar">รียาลกาตาร์</string>
     <string name="unit_data_display_currency_ron">ลิวโรมาเนีย</string>

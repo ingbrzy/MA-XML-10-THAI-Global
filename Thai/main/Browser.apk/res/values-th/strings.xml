@@ -25,6 +25,7 @@
     <string name="s5">สร้างกิจกรรมในปฏิทิน</string>
     <string name="s6">อนุญาตให้โฆษณาสร้างกิจกรรมในปฏิทินไหม</string>
     <string name="s7">โฆษณาทดสอบ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_action_bar_home_description">ไปยังหน้าเริ่มต้น</string>
     <string name="abc_action_bar_up_description">ขึ้นไป</string>
     <string name="abc_action_menu_overflow_description">เพิ่มเติม</string>
@@ -296,6 +297,7 @@
     <string name="exit">ออก</string>
     <string name="exit_browser_warning">ออกจากเบราเซอร์?</string>
     <string name="exit_fullscreen">ออกจากเต็มจอ</string>
+    <string name="external_app_restricted_access_error">Mi เบราเซอร์ ไม่สามารถเข้าถึงรายการนี้ได้</string>
     <string name="fast_search_title">ค้นหาด่วน</string>
     <string name="file_dir">เลือกโฟลเดอร์</string>
     <string name="file_name">"ชื่อ: "</string>
@@ -730,6 +732,8 @@
     <string name="mw_snippets_disabled_generic_prompt">รับเนื้อหาในแบบของคุณ</string>
     <string name="mw_snippets_disabled_signed_out_instructions">หากต้องการรับเนื้อหาในแบบของคุณที่แนะนำโดย Google ให้ลงชื่อเข้าใช้ Chrome</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">ตั้งเวลา</string>
@@ -1174,6 +1178,8 @@
     <string name="voice_title_listening">กำลังฟัง…</string>
     <string name="voice_title_please">เริ่มพูด…</string>
     <string name="voice_title_speech_again">จับใจความไม่ได้</string>
+    <string name="vote_already">คุณได้โหวตเรียบร้อยแล้ว</string>
+    <string name="vote_fail">ไม่สามารถโหวตได้ ลองใหม่ในภายหลัง</string>
     <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_location_confirm_message">การปิดคุณลักษณะนี้จะมีผลต่อการใช้งาน</string>
     <string name="weather_publish_time">อัพเดทล่าสุด %1$s</string>
@@ -1217,7 +1223,6 @@
     <string name="date_picker_dialog_set">ตั้ง</string>
     <string name="date_picker_dialog_title">ตั้งวันที่</string>
     <string name="date_time_picker_dialog_title">ตั้งวันที่และเวลา</string>
-    <string name="external_app_restricted_access_error">Mi Browser does not have access to the requested resource.</string>
     <string name="find_next">ค้นหาถัดไป</string>
     <string name="find_previous">ค้นหาก่อนหน้า</string>
     <string name="js_dialog_before_unload">"%s

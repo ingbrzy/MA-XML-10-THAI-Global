@@ -180,10 +180,10 @@
         <item quantity="other">ตรวจเช็คครั้งล่าสุดเมื่อ %d วันก่อน</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">พบ %d ความเสี่ยง</item>
+        <item quantity="other">%d ความเสี่ยง</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">พบ %d ไวรส trojans</item>
+        <item quantity="other">%d ไวรัส trojans</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">แอปอันตราย: %d</item>

@@ -112,6 +112,7 @@
     <string name="description_image_button_dialpad">แป้นโทร</string>
     <string name="description_image_button_tools">ตัวเลือก</string>
     <string name="description_target_answer">รับสาย</string>
+    <string name="description_message_list_title">รายการตอบกลับด่วน</string>
     <string name="ok">ตกลง</string>
     <string name="cancel">ยกเลิก</string>
     <string name="wait_prompt_str">"ส่งสัญญาณโทนเสียงนี้?
@@ -199,4 +200,5 @@
     <string name="dialpad_eight">8</string>
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">ไม่สามารถโทรได้ ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณเชื่อมต่อเครือข่าย 4G และรองรับ VoLTE</string>
+    <string name="volume_boost_text">เพิ่มระดับเสียงสำเร็จ</string>
 </resources>

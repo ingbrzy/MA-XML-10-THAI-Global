@@ -113,6 +113,10 @@
     <string name="cleanup_power">ทำความสะอาดเชิงลึก</string>
     <string name="company">ที่ทำงาน</string>
     <string name="company_or_school">ที่ทำงานหรือโรงเรียน</string>
+    <string name="cricket_content_provider">ผู้ให้บริการเนื้อหา</string>
+    <string name="cricket_fixtures_label">ตารางการแข่ง</string>
+    <string name="cricket_news_label">ข่าวสาร</string>
+    <string name="cricket_select_series">เลือกรายการโปรดของคุณ</string>
     <string name="cta_desc">รวบรวมทางลัดและข้อมูลสำคัญได้ที่นี่</string>
     <string name="cta_dialog_negative">ออก</string>
     <string name="cta_dialog_positive">ยอมรับ</string>
@@ -234,6 +238,7 @@
     <string name="scan_code">รหัส QR</string>
     <string name="scan_doc">เอกสาร</string>
     <string name="scan_parent">ตัวสแกน</string>
+    <string name="search_card_view_date">EE d.M.y</string>
     <string name="search_tip">กำลังค้นหา…</string>
     <string name="security">ความปลอดภัย</string>
     <string name="service_unavailiable">เชื่อมต่อเครือข่ายและลองอีกครั้ง.</string>

@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -378,7 +380,6 @@
     <string name="main_month_used">แพ็คเกจข้อมูล</string>
     <string name="main_leisure_remained">ข้อมูลนอกช่วงปกติคงเหลือ</string>
     <string name="main_bill_remained">ยอดโทรคงเหลือ</string>
-    <string name="main_used_bill">%s CNY</string>
     <string name="main_no_info">ไม่พบข้อมูล</string>
     <string name="guide_quck_open">เปิดใช้งาน</string>
     <string name="guide_wait_setting">ในภายหลัง</string>
@@ -386,13 +387,6 @@
     <string name="guide_second_text">หลังจากคุณตั้งค่าผู้ให้บริการของคุณ MIUI จะส่ง SMS ผู้ให้บริการฟรี เมื่อ MIUI ตรวจพบว่าคุณใช้งานเกินขีดจำกัดข้อมูลแล้วระบบจะตัดการเชื่อมต่อจากเครือข่ายและแจ้งให้คุณทราบ</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>ผู้ให้บริการผิดพลาด?&lt;/U>&lt;/font>"</string>
     <string name="card_tc_failed">ปรับเทียบล้มเหลว</string>
-    <string name="card_tc_failed_content">"เหตุผลที่เป็นไปได้:
- 1. ผู้ให้บริการตอบสนองช่วงในช่วงต้นเดือนและปลายเดือนของแต่ละเดือน ลองอีกครั้งในวันหลัง
- 2. แบบเริ่มต้นร้องขอเครือข่ายเป็นสิ่งจำเป็นในการปรับเทียบครั้งแรก เชื่อมต่อเครือข่ายและลองอีกครั้ง
- 3. ผู้ให้บริการของคุณอาจจะไม่รองรับการตอบกลับข้อความยืนยันเน็ตคงเหลือและยอดเงินโทรศัพท์ กรุณาติดต่อผู้ให้บริการเพื่อขอข้อมูลเพิ่มเติม
- 4. ผู้ให้บริการข้อมูลข้อผิดพลาด แตะ\"ผู้ให้บริการวินิจฉัย\"เพื่อตรวจสอบ
- 5. ปัญหายังไม่ได้รับการแก้ไข？แตะ“รายงานผ่านข้อความ”เพื่อส่งข้อเสนอแนะของคุณไปยัง Xiaomi"</string>
-    <string name="card_sms_report">รายงานผ่านข้อความ SMS</string>
     <string name="main_normal_data_usage">ใช้งานเครือข่ายข้อมูลมือถือ</string>
     <string name="main_tc_send_sms">"ส่งข้อความ SMS
 เพื่อปรับเทียบ"</string>
@@ -463,6 +457,7 @@
     <string name="managed_user_title">แอปที่ทำงานทั้งหมด</string>
     <string name="pref_about_traffic_title">การตั้งค่าการใช้ข้อมูล</string>
     <string name="pref_traffic_manage_title">การใช้ข้อมูล</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">แพ็คเกจข้อมูล</string>
     <string name="pref_adjust_traffic_data">ตั้งการใช้ข้อมูล</string>
     <string name="pref_category_title_other">การตั้งค่าเพิ่มเติม</string>
@@ -557,7 +552,6 @@
     <string name="traffic_setting_fragment_send_num_tips">ป้อนหมายเลขโทรศัพท์</string>
     <string name="traffic_setting_fragment_sms_content_tips">เขียนข้อความของคุณที่นี่</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">ไม่ต้องแสดงอีก</string>
-    <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>ไม่แน่ใจเกี่ยวกับผู้ให้บริการ?&lt;/U>&lt;/font>"</string>
     <string name="data_usage_warning_body">แตะเพื่อเรียกดูรายละเอียดการใช้ข้อมูล</string>
     <string name="data_usage_mobile_limit_title">ใช้เกินเพดานข้อมูลที่กำหนดแล้ว</string>
     <string name="data_usage_limit_body">แตะเพื่อเปิดใช้งานข้อมูลมือถือ</string>
@@ -636,7 +630,6 @@
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_unicom">10010</string>
     <string name="operator_number_telcom">10000</string>
-    <string name="operator_mi_sim">ซิม Mi</string>
     <string name="dual_setting_simcard1">ซิม 1</string>
     <string name="dual_setting_simcard2">ซิม 2</string>
     <string name="mi_service_app_detail">รายละเอียดการใช้ข้อมูล</string>
@@ -690,7 +683,6 @@
     <string name="pref_roaming_setting_gategory">การตั้งค่า</string>
     <string name="pref_allow_connect_network_title">การโรมมิ่งข้อมูล</string>
     <string name="pref_whitelist_setting">รายการยกเว้นการโรมมิ่งข้อมูล</string>
-    <string name="firewall_rule_group_title_roaming">การโรมมิ่งข้อมูล</string>
     <string name="dialog_roaming_title">อนุญาตให้โรมมิ่งข้อมูล?</string>
     <string name="dialog_roaming_message">ผู้ให้บริการของคุณอาจคิดค่าบริการเพิ่มเติมขณะโรมมิ่งข้อมูล</string>
     <string name="add_to_whitelist_button">รายการยกเว้นการโรมมิ่งข้อมูล</string>
@@ -704,7 +696,6 @@
     <string name="add_miservice_dialog_content">%s กำหนดให้คุณจำเป็นต้องเพิ่มขอบข่ายการ MIUI service framework ไปยังรายชื่อแอปที่ยกเว้น คุณจะได้รับการแจ้งเตือนจากแอประบบของ MIUI รวมถึงจากแอปภายนอก</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">เพดานข้อมูลรายวัน</string>
     <string name="pref_roaming_daily_limit_setting">ตั้งเพดานข้อมูลรายวันขณะโรมมิ่ง</string>
-    <string name="mian_page_primary_txt">การโรมมิ่งข้อมูล</string>
     <string name="hints_input_roaming_daily_limit">ป้อนเพดานการใช้ข้อมูล</string>
     <string name="roaming_limit_notification_title">ใช้เกินเพดานการโรมมิ่งข้อมูลรายวันแล้ว</string>
     <string name="roaming_limit_warning_notification_body">แตะเพื่อเรียกดูการใช้ข้อมูล</string>
@@ -742,9 +733,6 @@
     <string name="btn_start_diagnostic">ทดสอบเครือข่าย</string>
     <string name="btn_stop_diagnostic">หยุด</string>
     <string name="btn_finish_diagnostic">ตกลง</string>
-    <string name="main_toolbar_internet_by_pc_brige">อินเตอร์เน็ต USB</string>
-    <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
-    <string name="main_toolbar_internet_by_mobiledata">ข้อมูลมือถือ</string>
     <string name="connect_internet_by_usbshare">แชร์อินเตอร์เน็ตผ่าน USB</string>
     <string name="connect_internet_by_mobiledata">เชื่อมต่อเครือข่ายข้อมูลมือถือ</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
@@ -752,7 +740,6 @@
     <string name="enable_network">ต้องเปิดใช้เครือข่ายก่อน</string>
     <string name="disable_air_mode">ปิดโหมดเครื่องบินก่อน</string>
     <string name="repair">ซ่อมแซม</string>
-    <string name="check_network_state">ทดสอบเครือข่าย</string>
     <string name="current_network_state_not_need_diagnose">การเชื่อมกับต่ออินเตอร์เน็ตปกติ</string>
     <string name="apn_exception_title">ตรวจสอบการตั้งค่าจุดเข้าใช้ (APN)</string>
     <string name="apn_exception_summary">ทดสอบการตั้งค่าจุดเข้าใช้งาน (APN) ของผู้ให้บริการเครือข่าย</string>
@@ -914,7 +901,6 @@
     <string name="status_bar_network_flow_exceed_content">ใช้ไปวันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;ใช้เกินไปแล้ว: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_content">วันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; คงเหลือ: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">วันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; เดือนนี้: %2$s</string>
-    <string name="status_bar_network_flow_today">วันนี้: %1$s</string>
     <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">ขีดจำกัดข้อมูลแบบครั้งเดียว</string>
     <string name="pref_key_tethering_title">ขีดจำกัดข้อมูลแบบครั้งเดียว</string>
@@ -989,6 +975,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"แอปนี้อาจทำให้อุปกรณ์ของคุณ
 ช้าลง"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">ถอนการติดตั้ง %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">ถอนการติดตั้งแอปนี้เพื่อแก้ไขปัญหาการใช้แบตเตอรี่</string>
     <string name="om_ill_proc_type_wakelock_title">แอปบล็อกโหมดสลีปทำให้แบตเตอรี่หมดเร็ว</string>
@@ -1033,7 +1020,7 @@
     <string name="menu_item_force_stop">บังคับหยุด</string>
     <string name="menu_item_uninstall">ถอนการติดตั้ง</string>
     <string name="menu_item_app_details">รายละเอียด</string>
-    <string name="details_subtitle">รายละเอียดการใช้</string>
+    <string name="details_subtitle">รายละเอียดการใช้งาน</string>
     <string name="packages_subtitle">แพ็คเกจรวม</string>
     <string name="battery_desc_standby">แบตที่ใช้ไปขณะโทรศัพท์ไม่ได้ใช้งาน</string>
     <string name="battery_desc_radio">แบตเตอรี่ถูกใช้ไปโดยวิทยุ</string>
@@ -1047,6 +1034,7 @@
     <string name="usage_type_data_send">ปริมาณข้อมูลขาออก</string>
     <string name="usage_type_no_coverage">ระยะเวลาที่อับสัญญาณ</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">แอนดรอยด์</string>
     <string name="process_mediaserver_label">เซิร์ฟเวอร์สื่อมีเดีย</string>
     <string name="power_screen">หน้าจอ</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1274,6 +1262,8 @@
     <string name="power_center_list_item_auto_brightness">ปรับความสว่างหน้าจอโดยอัตโนมัติ</string>
     <string name="power_center_list_item_deep_save_title">การตั้งค่าขั้นสูง</string>
     <string name="power_center_list_item_battery_status_time">ชม.</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">หยุดการสแกน</string>
     <string name="hide_mode_result_summary_text">ปรับแต่งการตั้งค่าตัวประหยัดแบตเตอรี่ของแต่ละแอป</string>
     <string name="auto_task_result_summary_text">ตั้งค่างานอัตโนมัติสำหรับตัวประหยัดแบตเตอรี่</string>
@@ -1433,11 +1423,13 @@
     <string name="menu_text_optimize_manage">เพิ่มความเร็ว</string>
     <string name="menu_text_networkassistants">การใช้ข้อมูล</string>
     <string name="menu_summary_networkassistants">จัดการแพ็คเกจข้อมูลของคุณ</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">เกินขีดจำกัด</string>
     <string name="menu_summary_networkassistants_3">มีข้อมูลเหลือเพียงพอ</string>
     <string name="menu_summary_networkassistants_4">ใช้ข้อมูลหมดแล้ว</string>
     <string name="menu_text_networkassistants_remain">คงเหลือ %s</string>
     <string name="menu_text_networkassistants_danger">ใช้เกินไป %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1450,12 +1442,14 @@
     <string name="menu_summary_garbage_cleanup">ไม่มีขยะ</string>
     <string name="menu_summary_garbage_cleanup_2">ปริมาณขยะ</string>
     <string name="menu_summary_garbage_cleanup_3">ล้างขยะทันที</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">การใช้แบตเตอรี่</string>
     <string name="menu_summary_power_manager">ตัวประหยัดแบตเตอรี่ช่วยให้โทรศัพท์ของคุณใช้งานได้นานขึ้น</string>
     <string name="menu_summary_power_manager_1">ชาร์จแบตเตอรี่เต็มแล้ว</string>
     <string name="menu_summary_power_manager_2">คงเหลือ %s</string>
     <string name="menu_summary_power_manager_3">เสียบที่ชาร์จ</string>
     <string name="menu_summary_power_manager_4">ชาร์จเต็มในอีก %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">การสแกนครั้งล่าสุดถูกยกเลิก</string>
     <string name="examination_score_100">ไม่พบสิ่งผิดปกติ!</string>
     <string name="examination_score_80_100">ยังปรับแต่งเล็กน้อยให้ดีขึ้นได้อีก</string>
@@ -1623,7 +1617,7 @@
     <string name="monitor_requests_from_pc">จัดการการติดตั้งแอปผ่าน USB</string>
     <string name="app_install_intercept">บล็อกการติดตั้ง</string>
     <string name="pc_to_phone_install">บล็อกการติตตั้ง %s ผ่าน USB แล้ว</string>
-    <string name="recently_reject_message_one">ปฏิเสธคำร้องขอการติดตั้ง %1$s</string>
+    <string name="recently_reject_message_one">ปฏิเสธการขอการติดตั้ง %1$s</string>
     <string name="recently_reject_message">ปฏิเสธการติดตั้ง %1$s กับอีก %2$d แอปอื่นๆแล้ว</string>
     <string name="delete_from_manual_item_white_list">ลบออกจากรายการยกเว้น</string>
     <string name="button_text_ignore">เพิกเฉย</string>
@@ -1829,6 +1823,7 @@
     <string name="card_main_deepclean_wechat_action">ล้าง</string>
     <string name="card_main_sectool_title">เครื่องมือ</string>
     <string name="card_main_monthreport_action">เรียกดู</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ทดสอบเครือข่าย</string>
     <string name="card_main_netcheck_summary">ทดสอบการเชื่อมต่อสำหรับปัญหาเครือข่าย</string>
     <string name="card_main_netcheck_action">ทดสอบ</string>
@@ -1870,7 +1865,7 @@
     <string name="ac_notification_contentTitle">ป้องกันแอปด้วยล็อกแอป</string>
     <string name="ac_pre_notification_contentTitle">ลองล็อกแอป</string>
     <string name="ac_post_notification_contentTitle">เปิดใช้ล็อกแอป</string>
-    <string name="midrop_post_notification_contentTitle">ต้องการโอนไฟล์หรือไม่?</string>
+    <string name="midrop_post_notification_contentTitle">ต้องการแชร์ไฟล์หรือไม?</string>
     <string name="notification_masked_item">ซ่อนการแจ้งเตือน</string>
     <string name="lock_mode_title">การตั้งค่าการล็อก</string>
     <string name="after_the_lock_screen">ล็อคแอปพร้อมกับหน้าจอ</string>
@@ -1880,7 +1875,7 @@
     <string name="ac_notification_contentText">แตะเพื่อเปิดใช้งาน</string>
     <string name="ac_pre_notification_contentText">ป้องกันข้อมูลส่วนตัวของคุณ</string>
     <string name="ac_post_notification_contentText">รับการป้องกันระดับระบบ</string>
-    <string name="midrop_post_notification_contentText">ลองใช้ Mi Drop รวดเร็วและไม่มีโฆษณา</string>
+    <string name="midrop_post_notification_contentText">การโอนไฟล์เร่งเป็น 50 Mbps ใน Mi ดรอป</string>
     <string name="notification_masked_subtitle">ซ่อนการแจ้งเตือนจากแอปป้องกันกับล็อกแอป</string>
     <string name="ac_enter_applock">เข้าสู่การล็อกแอป</string>
     <string name="ac_mask_all_apps">ซ่อนสำหรับแอปทั้งหมด</string>
@@ -2367,8 +2362,8 @@
     <string name="gamebox_type_gesture">ปัดเพื่อแสดง</string>
     <string name="gb_first_window_title">ตัวเร่งความเร็วในการเล่นเกม</string>
     <string name="gb_first_window_summary">เพิ่มความเร็วและประสิทธิภาพในระดับระบบ</string>
-    <string name="gb_first_window_gamebox_summary_four">ใช้การตอบกลับด่วน ทำการบันทึกหน้าจอและจับภาพหน้าจอ</string>
-    <string name="gb_first_window_gamebox_summary_six">ล้างแคช บันทึกภาพหน้าจอและจับภาพหน้าจอ</string>
+    <string name="gb_first_window_gamebox_summary_four">ล้างแคช บันทึกภาพหน้าจอและจับภาพหน้าจอ</string>
+    <string name="gb_first_window_gamebox_summary_six">ใช้การตอบกลับด่วน ทำการบันทึกหน้าจอและจับภาพหน้าจอ</string>
     <string name="gb_first_window_handsfree_title">แฮนด์ฟรี</string>
     <string name="gb_first_window_handsfree_summary">เปิดลำโพงโดยอัตโนมัติ</string>
     <string name="gb_first_window_antimsg_title">การแจ้งเตือนที่สะดวก</string>
@@ -2378,6 +2373,7 @@
     <string name="gb_create_icon_summary">สร้างปุ่มลัดหน้าจอหลัก</string>
     <string name="title_reply">ความคิดเห็น</string>
     <string name="title_like">ถูกใจ</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">ข้อมูลมือถือ</string>
     <string name="game_wid_viewpoint_buttom">พักสักนิด</string>
     <string name="video_repeat">เล่นอีกครั้ง</string>

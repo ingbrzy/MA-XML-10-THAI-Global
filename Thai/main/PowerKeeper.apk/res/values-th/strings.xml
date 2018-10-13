@@ -93,4 +93,6 @@
     <string name="active_classify">จัดเรียงตามสถานะของกิจกรรม</string>
     <string name="extreme_mode_max_item_alert">คุณสามารถเลือกได้สูงสุด 4 แอปให้ทำงานในพื้นหลังของโหมดสุดขีด</string>
     <string name="message_i_know">เข้าใจแล้ว</string>
+    <string name="high_temp_state">อุณหภูมิสูง</string>
+    <string name="high_temp_state_message">จำกัดการป้องกันอุณภูมิสูง ข้อมูล Wi-Fi ap GPS กล้อง ฯลฯ</string>
 </resources>

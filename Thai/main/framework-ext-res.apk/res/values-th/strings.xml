@@ -131,6 +131,7 @@
     <string name="security_permission_xiaomi_account_missed_text">ป้อนหมายเลขบัญชี Mi ของคุณ</string>
     <string name="security_permission_validate_warning">ขอบคุณที่มีส่วนช่วยพัฒนา MIUI ให้ดียิ่งขึ้น!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi และข้อมูลมือถือเปิดใช้งานแล้ว</string>
+    <string name="security_permission_network_failed_text">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองใหม่</string>
     <string name="xspace_resolver_activity_title">เลือกแอป</string>
     <string name="user_switching_dialog_text">กำลังสลับ…</string>
     <string name="activity_package_delete_confirm_title">โปรดทราบ</string>
@@ -180,4 +181,6 @@
     <string name="miui_warning_button_ok">ตกลง</string>
     <string name="miui_warning_button_cancel">ยกเลิก </string>
     <string name="miui_warning_tip_info">เกิดข้อผิดพลาดใน %1$s ปิดแอปนี้เดี๋ยวนี้หรือไม่?</string>
+    <string name="talk_back_water_mark_string1">TalkBack เปิดอยู่</string>
+    <string name="talk_back_water_mark_string2">กดค้าง \"ระดับเสียง+\" และ \"ระดับเสียง-\" 3 วินาที เพื่อปิด</string>
 </resources>

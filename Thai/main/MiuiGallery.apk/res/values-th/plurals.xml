@@ -195,4 +195,7 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d รายการ</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">เลือกได้สูงสุด %d รูป</item>
+    </plurals>
 </resources>
