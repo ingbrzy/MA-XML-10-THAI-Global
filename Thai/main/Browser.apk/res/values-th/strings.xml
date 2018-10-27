@@ -36,7 +36,6 @@
     <string name="s5">สร้างกิจกรรมในปฏิทิน</string>
     <string name="s6">อนุญาตให้โฆษณาสร้างกิจกรรมในปฏิทินไหม</string>
     <string name="s7">โฆษณาทดสอบ</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_action_bar_home_description">ไปหน้าหลัก</string>
     <string name="abc_action_bar_up_description">ขึ้นบน</string>
     <string name="abc_action_menu_overflow_description">เพิ่มเติม</string>
@@ -746,8 +745,6 @@
     <string name="mw_snippets_disabled_generic_prompt">รับเนื้อหาในแบบของคุณ</string>
     <string name="mw_snippets_disabled_signed_out_instructions">หากต้องการรับเนื้อหาในแบบของคุณที่แนะนำโดย Google ให้ลงชื่อเข้าใช้ Chrome</string>
     <string name="mw_time_picker_dialog_am">AM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">ตั้งเวลา</string>

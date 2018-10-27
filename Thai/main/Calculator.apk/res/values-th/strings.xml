@@ -552,11 +552,8 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">การเชื่อมต่อตัวจัดการล้มเหลว กรุญาตรวจสอบตัวจัดการดาวน์โหลดที่อยู่ใน แอปพลิเคชั่นตัวจัดการ</string>
     <string name="xiaomi_external_storage_unavailable">พื้นที่เก็บข้อมูลไม่พร้อมใช้งาน กรุณาตรวจสอบการ์ด SD</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"แนะนำเวอร์ชั่น %1$s
  ขนาด: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"แนะนำเวอร์ชั่น %1$s
