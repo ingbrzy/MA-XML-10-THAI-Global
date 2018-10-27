@@ -132,6 +132,7 @@
     <string name="security_permission_validate_warning">ขอบคุณที่มีส่วนช่วยพัฒนา MIUI ให้ดียิ่งขึ้น!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi และข้อมูลมือถือเปิดใช้งานแล้ว</string>
     <string name="security_permission_network_failed_text">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองใหม่</string>
+    <string name="security_permission_open_wifi_settings">เปิดการตั้งค่า Wi-Fi</string>
     <string name="xspace_resolver_activity_title">เลือกแอป</string>
     <string name="user_switching_dialog_text">กำลังสลับ…</string>
     <string name="activity_package_delete_confirm_title">โปรดทราบ</string>

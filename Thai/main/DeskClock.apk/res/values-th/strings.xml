@@ -152,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">การปลุกจะดังหลังจากปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="slider_text">เลื่อนขึ้นเพื่อปิดใช้งาน</string>
     <string name="snooze_confirm_cancel">เลิกทำการปลุก</string>
@@ -160,6 +161,7 @@
     <string name="start_up">เริ่ม</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_title">จับเวลา</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">การตั้งค่า</string>
     <string name="system_time_settings_category_title">การตั้งค่าเวลา</string>
     <string name="temperature_unit">%1$s°</string>
@@ -172,6 +174,10 @@
     <string name="timer_alarm_cancel_pad">แตะที่หน้าจอเพื่อปิดเสียง</string>
     <string name="timer_alarm_dot_matrix_label">ถึงเวลา</string>
     <string name="timer_alert_alert_silenced">เสียงปลุกจะเงียบภายใน %d นาที</string>
+    <string name="timer_alert_mute_off">การเตือนจะดังเมื่อหยุดการจับเวลา</string>
+    <string name="timer_alert_mute_on">การเตือนจะไม่ดังเมื่อหยุดการจับเวลา</string>
+    <string name="timer_alert_mute_remind">แตะเพื่อปิดเสียงเตือน</string>
+    <string name="timer_alert_mute_switch">สลับเพื่อปิดเสียงเตือนตัวจับเวลา</string>
     <string name="timer_alert_type_beach">ชายหาด</string>
     <string name="timer_alert_type_forest">ป่า</string>
     <string name="timer_alert_type_mute">ค่าเริ่มต้น</string>
@@ -215,7 +221,7 @@
     <string name="volume_button_setting_title">ปุ่มระดับเสียง</string>
     <string name="workday_alarm_clock">การปลุกวันทำงาน</string>
     <string name="worldclock_empty_text">ไม่มีเขตเวลา</string>
-    <string name="worldclock_input_hint_text">ป้อนเมือง</string>
+    <string name="worldclock_input_hint_text">ค้นหาในประเทศหรือเมือง</string>
     <string name="worldclock_search_city">ระบุเมือง</string>
     <string name="worldclock_title">นาฬิกา</string>
     <string name="worldclock_world_time">เขตเวลา</string>

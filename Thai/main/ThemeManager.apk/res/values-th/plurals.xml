@@ -6,6 +6,9 @@
     <plurals name="theme_batch_has_update_text">
         <item quantity="other">พบการอัพเดทใหม่ %1$d ธีม</item>
     </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s งาน</item>
+    </plurals>
     <plurals name="theme_update_local_resource_notifaction">
         <item quantity="other">พบการอัพเดทใหม่ %1$d ธีม</item>
     </plurals>

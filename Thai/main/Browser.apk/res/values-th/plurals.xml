@@ -63,6 +63,9 @@
     <plurals name="videos_updated_amount">
         <item quantity="other">ดูวิดีโอใหม่ %1$d รายการ</item>
     </plurals>
+    <plurals name="view_count">
+        <item quantity="other">ดู %1$d ครั้ง</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">แจ่มใส</item>
     </plurals>

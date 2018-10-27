@@ -108,6 +108,8 @@
     <string name="card_title_utilities">สาธารณูปโภค</string>
     <string name="check_network">ตรวจสอบการตั้งค่าเครือข่าย</string>
     <string name="check_network_retry">ตรวจสอบการตั้งค่าเครือข่ายและลองอีกครั้ง</string>
+    <string name="clean_grabage">ตัวล้าง</string>
+    <string name="clean_now">ตรวจสอบ</string>
     <string name="cleanup_garbage">ตัวทำความสะอาด</string>
     <string name="cleanup_memory">ล้างแคช</string>
     <string name="cleanup_power">ทำความสะอาดเชิงลึก</string>
@@ -129,6 +131,7 @@
     <string name="cta_negative">ปิด</string>
     <string name="cta_positive">รายละเอียด</string>
     <string name="cta_title">ให้ App vault ช่วยคุณ</string>
+    <string name="current_optimization_value">ความเสี่ยงลดความปลอดภัยของอุปกรณ์</string>
     <string name="data_error">เกิดข้อผิดพลาด รอประมาณ 1-2 นาทีแล้วลองใหม่อีกครั้ง</string>
     <string name="data_error_show">การสั่งซื้อสิ้นสุดแล้ว ไม่สามารถเรียกดูรายละเอียดได้</string>
     <string name="donnot_ask">ไม่ต้องถามอีก</string>
@@ -225,7 +228,11 @@
     <string name="ola_trip">โทรเรียกรถ</string>
     <string name="ola_trip_content">ประเมินค่าโดยสารและโทรเรียกรถ</string>
     <string name="ola_trip_content_detail">ประมาณค่าโดยสารโดยประมาณและโทรหา Ola</string>
+    <string name="optimizate_now">เพิ่มประสิทธิภาพ</string>
+    <string name="optimization">คะแนนความปลอดภัย</string>
     <string name="phone_check">การเพิ่มประสิทธิภาพ</string>
+    <string name="phone_has_garbage">ไฟล์ในถังขยะอาจทำให้อุปกรณ์ของคุณทำงานช้าลง</string>
+    <string name="phone_has_virus">มัลแวร์และไวรัสมีความเสี่ยงต่อความปลอดภัย</string>
     <string name="place_label">ตำแหน่งที่ใช้บ่อย</string>
     <string name="record_name">บันทึก</string>
     <string name="record_parent">บันทึกเสียง</string>
@@ -241,6 +248,7 @@
     <string name="search_card_view_date">EE d.M.y</string>
     <string name="search_tip">กำลังค้นหา…</string>
     <string name="security">ความปลอดภัย</string>
+    <string name="security_brief">ปกป้องอุปกรณ์ของคุณทำความสะอาดพื้นที่จัดเก็บ</string>
     <string name="service_unavailiable">เชื่อมต่อเครือข่ายและลองอีกครั้ง.</string>
     <string name="set_home_failed">ไม่สามารถเพิ่มที่อยู่ได้ ลองใหม่อีกครั้ง</string>
     <string name="set_office_failed">ไม่สามารถเพิ่มที่อยู่ได้ ลองใหม่อีกครั้ง</string>
@@ -353,6 +361,7 @@
     <string name="upgrade_now">อัพเดต</string>
     <string name="user_id">ID ผู้ใช้: %s</string>
     <string name="utilities_apps_bref">สำรวจบริการของบุคคลที่สามที่นี่</string>
+    <string name="virus_scan">สแกนไวรัส</string>
     <string name="walk">เดิน</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">ปกติคุณเดินทางไปยังจุดหมายปลายทางได้อย่างไร?</string>

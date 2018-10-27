@@ -57,6 +57,7 @@
     <string name="save_pic_success">บันทึกรูปภาพไปยัง %s</string>
     <string name="save_pic_fail">ไม่สามารถบันทึกรูปภาพได้ ตรวจสอบ SD การ์ดของคุณ</string>
     <string name="pic_not_exist">ไม่พบรูปภาพดังกล่าว</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">เลือกผลิตภัณฑ์</string>
     <string name="michat_skillset_business_type_title">เลือกบริการ</string>
     <string name="michat_close_text">การแชทสิ้นสุดลง</string>
@@ -289,8 +290,8 @@
     <string name="warning_field_invalid">เลือก%1$sที่เหมาะสม</string>
     <string name="min_error">%1$sของคุณสั้นเกินไป</string>
     <string name="max_error">%1$sของคุณยาวเกินไป</string>
-    <string name="reply_option_log_hint">可选</string>
-    <string name="reply_select_log_hint">选择日志文件</string>
+    <string name="reply_option_log_hint">ระบุหรือไม่ก็ได้</string>
+    <string name="reply_select_log_hint">เลือกบันทึก</string>
     <string name="title_mi_family">Mi Home บริเวณใกล้เคียง</string>
     <string name="hint_feedback_main">อธิบายเกี่ยวกับปัญหาที่พบ</string>
     <string name="goon_feedback_main">ดำเนินต่อ</string>
@@ -330,5 +331,34 @@
     <string name="customer_service_apply">ร้องขอศูนย์บริการลูกค้า</string>
     <string name="customer_service_complain">รายงานศูนย์บริการลูกค้า</string>
     <string name="customer_service_station">ตำแหน่งพิกัดบริการ</string>
+    <string name="title_catch_full_log">บันทึกการใช้</string>
+    <string name="toast_catch_full_log_catching">คุณสามารถสร้างบันทึกได้ครั้งละหนึ่งครั้งเท่านั้น</string>
+    <string name="catch_full_log_item_title_signal">โทรศัพท์ สัญญาณ และเครือข่ายมือถือ</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi และ Mi ดรอป</string>
+    <string name="catch_full_log_item_title_gps">การระบุตำแหน่งพิกัด</string>
+    <string name="catch_full_log_item_title_audio">เสียง บันทึกเสียง และเสียงสายโทร</string>
+    <string name="catch_full_log_item_title_sensor">เซ็นเซอร์</string>
+    <string name="catch_full_log_item_title_bt">บลูทูธ</string>
+    <string name="catch_full_log_item_title_dump_heap">ล้าหลัง</string>
+    <string name="catch_full_log_item_content_need_open">"ชั้นตอน:
+ 1. แตะ \"สร้างบันทึก\"
+ 2. กลับไปที่คุณลักษณะที่คุณต้องการรายงานและทำซ้ำ
+3. กลับมาที่หน้านี้และแตะ \"เสร็จสิ้นและอัปโหลด\""</string>
+    <string name="catch_full_log_item_content_catch_direct">"ชั้นตอน:
+ 1. กลับไปที่คุณลักษณะที่คุณต้องการรายงานและทำซ้ำ
+2. กลับมาที่หน้านี้และแตะ \"เสร็จสิ้นและอัปโหลด\""</string>
+    <string name="catch_full_log_action_start">สร้างบันทึก</string>
+    <string name="catch_full_log_action_complete">เสร็จสิ้นและอัปโหลด</string>
+    <string name="catch_full_log_action_cancel">ยกเลิก </string>
+    <string name="catch_full_log_dialog_content">MIUI กำลังสร้างบันทึก อาจส่งผลกับประสิทธิภาพโดยรวมของอุปกรณ์ของคุณ ถ้าคุณไม่สามารถทำปัญหาที่คุณต้องการรายงานได้ กลับไปที่บันทึกและแตะ \"ยกเลิก\"</string>
+    <string name="catch_full_log_dialog_confirm_text">ไปยังหน้าจอหลัก</string>
+    <string name="catch_full_log_notification_title">สร้างบันทึก…</string>
+    <string name="catch_full_log_notification_content">แตะเพื่อกลับไปยังบันทึก</string>
+    <string name="catch_full_log_start_dump_hprof">สร้างบันทึกที่ล้าหลัง</string>
+    <string name="catch_full_log_dump_hprof_failed">ไม่สามารถสร้างบันทึกล้าหลังได้</string>
+    <string name="catch_full_log_add_original_photo">เพิ่มรูปภาพ</string>
+    <string name="catch_full_log_add_photo_dialog_content">หากปัญหาที่คุณรายงานนั้นเกี่ยวกับคุณภาพจากภาพของกล้อง เพิ่มรูปต้นฉบับ (ไม่ครอบตัด) เพื่อช่วยเราค้นหาปัญหา เพิ่มรูปถ่ายตอนนี้?</string>
+    <string name="catch_full_log_submit_directly">ส่ง</string>
+    <string name="catch_full_log_add_photo">เพิ่มรูปภาพ</string>
     <string name="select_system_app_tag">เลือกปัญหา</string>
 </resources>

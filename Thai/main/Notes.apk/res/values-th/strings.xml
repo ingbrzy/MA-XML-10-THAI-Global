@@ -30,7 +30,11 @@
     <string name="cancel_alarm_description">ยกเลิกการปลุก</string>
     <string name="cloud_service_state_open_reminder">เปิดการซิงค์กับ Mi คลาวด์ เพื่อซิงค์บันทึก</string>
     <string name="cloud_trash_bin_title">ลบบันทึกใน Mi คลาวด์</string>
-    <string name="cta_reminder">แอปนี้ต้องการเชื่อมต่ออินเตอร์เน็ตเพื่อสำรองข้อมูลของ บันทึก ไปยัง Mi คลาวด์ รวมทั้งอ่านรายชื่อติดต่อของคุณเพื่อทำป้ายกำกับบันทึกย่อที่คุณใช้ระหว่างการโทร</string>
+    <string name="cta_confirm_cancel">ไม่อนุญาต</string>
+    <string name="cta_confirm_ok">อนุญาต</string>
+    <string name="cta_dialog_message">การบันทึกต้องการสิทธิ์เชื่อมต่อกับเครือข่าย บันทึกเสียง และเข้าถึงรายชื่อเพื่อทำงานตามปกติ อนุญาตหรือไม่?</string>
+    <string name="cta_dialog_title">ต้องการคำร้องขออนุญาต</string>
+    <string name="cta_reminder">การบันทึกต้องการสิทธิ์เชื่อมต่อกับเครือข่าย บันทึกเสียง และเข้าถึงรายชื่อเพื่อทำงานตามปกติ อนุญาตหรือไม่?</string>
     <string name="date_time_picker_alarm_reminder">การปลุก</string>
     <string name="date_time_picker_dialog_title">ตั้งวันที่และเวลา</string>
     <string name="date_time_picker_has_not_set_alarm">ไม่ได้ตั้งปลุก</string>
@@ -114,6 +118,7 @@
     <string name="menu_title_select_folder">เลือกโฟลเดอร์</string>
     <string name="menu_unhide">เลิกซ่อน</string>
     <string name="menu_unstick">เลิกปักหมุด</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">ไม่ใช่ตอนนี้</string>
     <string name="note_description_content">แอปบันทึก เป็นเครื่องมือที่ยอดเยี่ยมสำหรับการบันทึกไอเดียของคุณ มีการแจ้งเตือนในตัวและซิงค์รายการของคุณกับ Mi คลาวด์ เพื่อให้คุณสามารถเข้าถึงได้ทุกที่ทุกเวลา ตรวจสอบให้แน่ใจว่าคุณรู้และเข้าใจคุณลักษณะเหล่านี้ก่อนที่จะลบแอป</string>
     <string name="note_description_title">เกี่ยวกับบันทึก</string>
@@ -125,6 +130,7 @@
     <string name="note_sort_way">เลือกเรียงลำดับบันทึกของคุณที่ต้องการ</string>
     <string name="notealert_enter">เปิดบันทึก</string>
     <string name="notealert_ok">เลิกแสดง</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">ไม่มีการเตือน</string>
     <string name="permdesc_accessNote">แอปต้องสงสัยอาจใช้วิธีนี้ในการเข้าถึงข้อมูลส่วนบุคคลของคุณ</string>
     <string name="permlab_accessNote">บันทึกการเข้าถึง</string>

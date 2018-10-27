@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -455,6 +457,7 @@
     <string name="managed_user_title">แอปที่ทำงานทั้งหมด</string>
     <string name="pref_about_traffic_title">การตั้งค่าการใช้ข้อมูล</string>
     <string name="pref_traffic_manage_title">การใช้ข้อมูล</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">แพ็คเกจข้อมูล</string>
     <string name="pref_adjust_traffic_data">ตั้งการใช้ข้อมูล</string>
     <string name="pref_category_title_other">การตั้งค่าเพิ่มเติม</string>
@@ -972,6 +975,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"แอปนี้อาจทำให้อุปกรณ์ของคุณ
 ช้าลง"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">ถอนการติดตั้ง %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">ถอนการติดตั้งแอปนี้เพื่อแก้ไขปัญหาการใช้แบตเตอรี่</string>
     <string name="om_ill_proc_type_wakelock_title">แอปบล็อกโหมดสลีปทำให้แบตเตอรี่หมดเร็ว</string>
@@ -1030,6 +1034,7 @@
     <string name="usage_type_data_send">ปริมาณข้อมูลขาออก</string>
     <string name="usage_type_no_coverage">ระยะเวลาที่อับสัญญาณ</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">แอนดรอยด์</string>
     <string name="process_mediaserver_label">เซิร์ฟเวอร์สื่อมีเดีย</string>
     <string name="power_screen">หน้าจอ</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1124,7 +1129,6 @@
     <string name="deep_save_ontime_boot_shutdown_summary">ตั้งเวลาเพื่อเปิด-ปิดอุปกรณ์โดยอัตโนมัติ</string>
     <string name="btn_text_quick_save_power">ทำให้เย็นลง</string>
     <string name="notification_battery_consume_abnormal_title">แบตเตอรี่ลดลงเร็วมากผิดปกติ</string>
-    <string name="notification_battery_consume_abnormal_summary">กินแบตไป %2$s ในระยะเวลา %1$d นาที</string>
     <string name="app_check_no_issue">ดูเหมือนว่าไม่พบปัญหาแบตเตอรี่ เยี่ยมไปเลย!</string>
     <string name="power_save_mode_enable">ตัวประหยัดแบตเตอรี่</string>
     <string name="power_save_mode_summary">เปิดใช้งานโหมดประหยัดพลังงาน ระบบจะควบคุมกิจกรรมในพื้นหลังและปิดใช้งานการซิงค์</string>
@@ -1132,7 +1136,7 @@
     <string name="notification_exit_power_save_mode">ปิดโหมดประหยัดแบตเตอรี่?</string>
     <string name="notification_exit_power_save_mode_subtitle">แบตเต็มชาร์จถึง %s</string>
     <string name="power_save_mode_auto_exit_title">ปิดใช้งานเมื่อเสียบชาร์จ</string>
-    <string name="power_save_mode_auto_exit_summary">ปิดใช้งานเมื่อแบตเตอรี่เหลือ 60 %% หรือเสียบชาร์จ</string>
+    <string name="power_save_mode_auto_exit_summary">ปิดใช้งานเมื่อแบตเตอรี่เหลือ 60% หรือเสียบชาร์จ</string>
     <string name="power_save_mode_close_warn_title">ตัวประหยัดแบตเตอรี่</string>
     <string name="power_save_mode_close_warn_text">ตัวประหยัดแบตเตอรี่จะจำกัดกิจกรรมพื้นหลังและการซิงค์ หากคุณเลือกใช้เมื่ออุปกรณ์ชาร์จอยู่คุณลักษณะบางอย่างอาจทำงานไม่ถูกต้อง เปิดตัวประหยัดแบตเตอรี่ขณะชาร์จอยู่หรือไม่?</string>
     <string name="battery_health_title_text">สภาพแบตเตอรี่</string>
@@ -1257,12 +1261,17 @@
     <string name="power_center_list_item_auto_brightness">ปรับความสว่างหน้าจอโดยอัตโนมัติ</string>
     <string name="power_center_list_item_deep_save_title">การตั้งค่าขั้นสูง</string>
     <string name="power_center_list_item_battery_status_time">ชม.</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">หยุดการสแกน</string>
     <string name="hide_mode_result_summary_text">ปรับแต่งการตั้งค่าตัวประหยัดแบตเตอรี่ของแต่ละแอป</string>
     <string name="auto_task_result_summary_text">ตั้งค่างานอัตโนมัติสำหรับตัวประหยัดแบตเตอรี่</string>
     <string name="pc_settings_title">รายละเอียดการตั้งค่าแบตเตอรี่</string>
     <string name="pc_main_activity_back">ย้อนกลับ</string>
     <string name="extreme_power_save_mode_card_summary">เปิดใช้งานโหมดขั้นสูงเพื่อประหยัดพลังงานเมื่อแบตเตอรี่ต่ำ</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">ระบบ</string>
     <string name="apps_list_header_title_sms">ตรวจสอบแอปข้อความ</string>
     <string name="apps_list_header_title_sms_access">จำกัดการเข้าถึงรหัสยืนยัน</string>
@@ -1416,11 +1425,13 @@
     <string name="menu_text_optimize_manage">เพิ่มความเร็ว</string>
     <string name="menu_text_networkassistants">การใช้ข้อมูล</string>
     <string name="menu_summary_networkassistants">จัดการแพ็คเกจข้อมูลของคุณ</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">เกินขีดจำกัด</string>
     <string name="menu_summary_networkassistants_3">มีข้อมูลเหลือเพียงพอ</string>
     <string name="menu_summary_networkassistants_4">ใช้ข้อมูลหมดแล้ว</string>
     <string name="menu_text_networkassistants_remain">คงเหลือ %s</string>
     <string name="menu_text_networkassistants_danger">ใช้เกินไป %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1433,12 +1444,14 @@
     <string name="menu_summary_garbage_cleanup">ไม่มีขยะ</string>
     <string name="menu_summary_garbage_cleanup_2">ปริมาณขยะ</string>
     <string name="menu_summary_garbage_cleanup_3">ล้างขยะทันที</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">การใช้แบตเตอรี่</string>
     <string name="menu_summary_power_manager">ตัวประหยัดแบตเตอรี่ช่วยให้โทรศัพท์ของคุณใช้งานได้นานขึ้น</string>
     <string name="menu_summary_power_manager_1">ชาร์จแบตเตอรี่เต็มแล้ว</string>
     <string name="menu_summary_power_manager_2">คงเหลือ %s</string>
     <string name="menu_summary_power_manager_3">เสียบที่ชาร์จ</string>
     <string name="menu_summary_power_manager_4">ชาร์จเต็มในอีก %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">การสแกนครั้งล่าสุดถูกยกเลิก</string>
     <string name="examination_score_100">ไม่พบสิ่งผิดปกติ!</string>
     <string name="examination_score_80_100">ยังปรับแต่งเล็กน้อยให้ดีขึ้นได้อีก</string>
@@ -1653,6 +1666,8 @@
     <string name="summary_cloud_space_full">ซื้อพื้นที่จัดเก็บเพิ่ม พร้อมรับบริการเสริมพิเศษ</string>
     <string name="title_auto_update">อัพเดทโดยอัตโนมัติ</string>
     <string name="summary_auto_update">MIUI จะเลือกเวลาที่เหมาะสมที่สุดในการดาวน์โหลดและติดตั้งชุดอัพเดท</string>
+    <string name="title_rcs_switch">เปิดใช้งานข้อความ China Mobile</string>
+    <string name="summary_rcs_switch">ส่งข้อความ SMS ไปยังผู้ใช้ China Mobile โดยไม่มีค่าใช้จ่าย</string>
     <string name="title_miui_update_latest">MIUI เป็นรุ่นล่าสุดแล้ว</string>
     <string name="title_miui_update">พบอัพเดทของระบบ</string>
     <string name="summary_miui_update">พบการอัพเดทสำหรับ %s</string>
@@ -1812,6 +1827,7 @@
     <string name="card_main_deepclean_wechat_action">ล้าง</string>
     <string name="card_main_sectool_title">เครื่องมือ</string>
     <string name="card_main_monthreport_action">เรียกดู</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ทดสอบเครือข่าย</string>
     <string name="card_main_netcheck_summary">ทดสอบการเชื่อมต่อสำหรับปัญหาเครือข่าย</string>
     <string name="card_main_netcheck_action">ทดสอบ</string>
@@ -1983,6 +1999,7 @@
     <string name="reset_data_title">ไม่สามารถกู้คืนรหัสผ่านได้</string>
     <string name="reset_data_dialog_message">อุปกรณ์นี้ไม่เชื่อมโยงกับบัญชี Mi ของคุณ ไม่สามารถเรียกคืนหรือรีเซ็ตรหัสผ่านได้ สำรองข้อมูลรายการที่มีอยู่ทั้งหมดและดำเนินการรีเซ็ตเป็นค่าเริ่มต้น ข้อมูลทั้งหมดจะถูกลบอย่างถาวรและ SD การ์ดของคุณจะถูกฟอร์แมตในระหว่างการรีเซ็ตเป็นค่าเริ่มต้น</string>
     <string name="reset_data_dialog_ok">คืนค่าจากโรงงาน</string>
+    <string name="ad_split_screen_title">กรุณาเปลี่ยนเป็นโหมดเต็มจอเพื่อปลดล็อก</string>
     <string name="wakepath_confirm_start_activity">อนุญาต %1$s ให้เปิด %2$s?</string>
     <string name="unlike">ไม่ ขอบคุณ</string>
     <string name="toast_network_eror">เชื่อมต่อกับเครือข่ายไม่ได้</string>
@@ -2194,6 +2211,7 @@
     <string name="gs_call_handsfree_mute">โหมดเงียบ</string>
     <string name="gs_gamebox">ปุ่มลัดเกมส์</string>
     <string name="gs_gamebox_detail">แผงหน้าจอแสดงปุ่มลัดเกมส์</string>
+    <string name="gs_gamebox_slip">เลื่อนหน้าจอลงเพื่อเปิด</string>
     <string name="gs_forbid_autosync">จำกัดการซิงค์ในพื้นหลัง</string>
     <string name="gs_app_back_self_start">ตัวประหยัดแบตเตอรี่</string>
     <string name="gs_only_self_start_for_list">จำกัดการดำเนินการของพื้นหลังเพื่อประหยัดแบตเตอรี่ในการเล่นเกม</string>
@@ -2345,6 +2363,7 @@
     <string name="screenrecord_not_find">ติดตั้งตัวบันทึกหน้าจอให้เป็นเวอร์ชั่นล่าสุดและลองใหม่</string>
     <string name="gamebox_qq_not_find">ติดตั้ง QQ และลองใหม่</string>
     <string name="gamebox_wechat_not_find">ติดตั้ง WeChat และลองใหม่</string>
+    <string name="gamebox_app_not_find">กรุณาติดตั้งแอปก่อน</string>
     <string name="gamebox_type_close">ไม่ต้องแสดง</string>
     <string name="gamebox_type_float">แก้ไขปุ่มลัด</string>
     <string name="gamebox_type_gesture">ปัดเพื่อแสดง</string>
@@ -2361,6 +2380,7 @@
     <string name="gb_create_icon_summary">สร้างปุ่มลัดหน้าจอหลัก</string>
     <string name="title_reply">ความคิดเห็น</string>
     <string name="title_like">ถูกใจ</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">ข้อมูลมือถือ</string>
     <string name="game_wid_viewpoint_buttom">พักสักนิด</string>
     <string name="video_repeat">เล่นอีกครั้ง</string>
@@ -2409,9 +2429,6 @@
     <string name="first_aid_card_airplane_title">ไม่สามารถทำการโทรหรือเชื่อมต่อไปยังเครือข่ายได้</string>
     <string name="first_aid_card_airplane_summary">ปิดใช้งานโหมดเครื่องบินเพื่อทำการโทรหรือเชื่อมต่อไปยังเครือข่าย</string>
     <string name="first_aid_card_airplane_button">ปิดใช้งาน</string>
-    <string name="first_aid_card_apn_title">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
-    <string name="first_aid_card_apn_summary">มีการเปลี่ยน APN โปรดแก้ไขเพื่อเชื่อมต่อไปยังเครือข่าย</string>
-    <string name="first_aid_card_apn_button">แก้ไข</string>
     <string name="first_aid_card_unable_install_title">ไม่สามารถติดตั้งแอปได้</string>
     <string name="first_aid_card_unable_install_summary">มีที่จัดเก็บข้อมูลที่พร้อมใช้งาน %s เท่านั้น โปรดเพิ่มพื้นที่เพื่อติดตั้งแอป</string>
     <string name="first_aid_card_unable_install_button">เพิ่มพื้นที่</string>

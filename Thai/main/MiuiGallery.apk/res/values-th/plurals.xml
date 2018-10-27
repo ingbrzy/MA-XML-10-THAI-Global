@@ -57,6 +57,9 @@
     <plurals name="cloud_storage_video_num">
         <item quantity="other">%d วิดีโอ</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">เลือกได้สูงสุด %d รูป</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
@@ -194,8 +197,5 @@
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">%d รายการ</item>
-    </plurals>
-    <plurals name="creation_max_image">
-        <item quantity="other">เลือกได้สูงสุด %d รูป</item>
     </plurals>
 </resources>

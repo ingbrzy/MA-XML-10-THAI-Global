@@ -62,6 +62,21 @@
     <string name="fund" />
     <string name="fund_loan">กองทุนเงินกู้</string>
     <string name="global_network_confirm_content">ตัวแปลงสกุลเงินจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้ทำงานได้ตามปกติ</string>
+    <string name="global_search_key_area_convertion">พื้นที่;เครื่องแปลงความยาว;แปลงความยาว</string>
+    <string name="global_search_key_calculation">เครื่องคิดเลข;เครื่องคิดเลข;การแปลงหน่วย;เครื่องแปลง;เครื่องแปลงหน่วย</string>
+    <string name="global_search_key_date_convertion">เครื่องแปลงเวลา;หน่วยเวลา;แปลงเวลา;เวลา</string>
+    <string name="global_search_key_exchange_rate">อัตราแลกเปลี่ยน;การแปลงอัตราแลกเปลี่ยน;เครื่องแปลงสกุลเงิน;ค่าเงิน;อัตราแลกเปลี่ยน</string>
+    <string name="global_search_key_length_convertion">ความยาว;เครื่องคำนวนความยาว;แปลงความยาว</string>
+    <string name="global_search_key_mortgage">คำนวนเงินจำนอง;เครื่องคำนวนเงินจำนอง;จำนอง</string>
+    <string name="global_search_key_personal_tax">ภาษีเงินได้บุคคลธรรมดา;รายได้หลังหักภาษี;คำนวนภาษี;คำนวนรายได้ส่วนบุคคล;คำนวนรายได้;คำนวนรายได้หลังหักภาษี;ภาษีรายได้ส่วนบุคคล;ภาษี</string>
+    <string name="global_search_key_scientific_convertion">เครื่องคำนวนทางวิทยาศาสตร์;การคำนวณฟังก์ชัน;เลข;พีชคณิต</string>
+    <string name="global_search_key_speed_convertion">การแปลงหน่วยอัตราเร็ว;การแปลงความเร็ว;การแปลงอัตราเร็ว;เครื่องแปลงอัตราเร็ว;อัตราเร็ว;ความเร็ว</string>
+    <string name="global_search_key_temperature_convertion">การแปลงหน่วยอุณหภูมิ;แปลงอุณหภูมิ;เครื่องแปลงอุณหภูมิ;ฟาเรนไฮต์;เซลเซียส;เซนติเกรด</string>
+    <string name="global_search_key_volume_convertion">การแปลงหน่วยปริมาณ;แปลงปริมาตร;เครื่องแปลงปริมาตร</string>
+    <string name="global_search_key_weight_convertion">แปลงหน่วยน้ำหนัก;แปลงน้ำหนัก;เครื่องแปลงน้ำหนัก;กิโล;กก.;กิโลกรัม;ปอนด์</string>
+    <string name="global_search_key_word_figure">ลักษณะทางการเงิน</string>
+    <string name="golbal_search_calculator_setting">เครื่องคิดเลข;ตั้งค่าเครื่องคิดเลข;ตั้งค่า</string>
+    <string name="golbal_search_path_calculator_setting">แอประบบ/เครื่องคิดเลข/การตั้งค่า</string>
     <string name="home_title_calculator">เครื่องคิดเลข</string>
     <string name="income_type" />
     <string name="install">ติดตั้ง</string>
@@ -141,6 +156,7 @@
     <string name="negDesc">สลับไปมาระหว่างอุณหภูมิสูงหรือต่ำกว่าศูนย์</string>
     <string name="network_confirm_content">เครื่องคิดเลข การแปลงสกุลเงิน ภาษี และจำนอง ต้องเชื่อมต่อกับอินเทอร์เน็ตและเข้าถึงบริการตำแหน่งเพื่อให้ทำงานได้ตามปกติ</string>
     <string name="network_confirm_title">สิทธิ์ที่จำเป็น</string>
+    <string name="not_supported_due_to_language">คุณลักษณะนี้พร้อมใช้งานในภาษาจีนเท่านั้น</string>
     <string name="percent" />
     <string name="percentDesc">เปอร์เซ็นต์</string>
     <string name="piDesc">พาย</string>
@@ -536,5 +552,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_connect_download_manager_fail">การเชื่อมต่อตัวจัดการล้มเหลว กรุญาตรวจสอบตัวจัดการดาวน์โหลดที่อยู่ใน แอปพลิเคชั่นตัวจัดการ</string>
+    <string name="xiaomi_external_storage_unavailable">พื้นที่เก็บข้อมูลไม่พร้อมใช้งาน กรุณาตรวจสอบการ์ด SD</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_update_dialog_message">"แนะนำเวอร์ชั่น %1$s
+ ขนาด: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"แนะนำเวอร์ชั่น %1$s
+ ขนาดการอัพเดตเดลต้า: %2$s"</string>
+    <string name="xiaomi_update_dialog_title">%1$s อัพเดต!</string>
     <string name="year" />
 </resources>

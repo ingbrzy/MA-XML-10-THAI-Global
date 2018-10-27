@@ -15,6 +15,9 @@
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">ข้อความได้รับจาก %1$s และคนอื่นๆ %2$d คน</item>
+    </plurals>
     <plurals name="group_message_failed_title">
         <item quantity="other">ไม่สามารถส่งข้อความไปยัง %d รายชื่อดังกล่าวได้</item>
     </plurals>

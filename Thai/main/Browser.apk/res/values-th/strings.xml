@@ -18,6 +18,17 @@
     <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
     <string name="common_signin_button_text">ลงชื่อเข้าใช้</string>
     <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="exo_controls_fastforward_description">กรอไปข้างหน้า</string>
+    <string name="exo_controls_next_description">แทร็กถัดไป</string>
+    <string name="exo_controls_pause_description">หยุดชั่วคราว</string>
+    <string name="exo_controls_play_description">เล่น</string>
+    <string name="exo_controls_previous_description">แทร็กก่อนหน้า</string>
+    <string name="exo_controls_repeat_all_description">เล่นซ้ำทั้งหมด</string>
+    <string name="exo_controls_repeat_off_description">ไม่เล่นซ้ำ</string>
+    <string name="exo_controls_repeat_one_description">เล่นซ้ำรายการเดียว</string>
+    <string name="exo_controls_rewind_description">กรอกลับ</string>
+    <string name="exo_controls_shuffle_description">สุ่มเพลง</string>
+    <string name="exo_controls_stop_description">หยุด</string>
     <string name="s1">บันทึกรูปภาพ</string>
     <string name="s2">อนุญาตให้โฆษณาจัดเก็บรูปภาพในแกลเลอรีภาพไหม</string>
     <string name="s3">ยอมรับ</string>
@@ -25,8 +36,9 @@
     <string name="s5">สร้างกิจกรรมในปฏิทิน</string>
     <string name="s6">อนุญาตให้โฆษณาสร้างกิจกรรมในปฏิทินไหม</string>
     <string name="s7">โฆษณาทดสอบ</string>
-    <string name="abc_action_bar_home_description">ไปยังหน้าเริ่มต้น</string>
-    <string name="abc_action_bar_up_description">ขึ้นไป</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_action_bar_home_description">ไปหน้าหลัก</string>
+    <string name="abc_action_bar_up_description">ขึ้นบน</string>
     <string name="abc_action_menu_overflow_description">เพิ่มเติม</string>
     <string name="abc_action_mode_done">เสร็จสิ้น</string>
     <string name="abc_action_mode_select_all">เลือกทั้งหมด</string>
@@ -147,6 +159,7 @@
     <string name="cannot_download">สามารถดาวน์โหลดได้แค่ลิงก์ \"http\" หรือ \"https\" เท่านั้น</string>
     <string name="card_setting_close_recommend">รับข้อเสนอแนะ</string>
     <string name="cast_video">ส่งวิดีโอ</string>
+    <string name="change_news_language">เปลี่ยนภาษาข่าว?</string>
     <string name="channels_edit">แก้ไข</string>
     <string name="channels_finish">เสร็จสิ้น</string>
     <string name="choosertitle_sharevia">แชร์ผ่าน</string>
@@ -240,6 +253,7 @@
     <string name="document_open_other">แอปอื่นๆ</string>
     <string name="document_open_title">เปิดด้วย</string>
     <string name="dont_remind_again">จดจำตัวเลือกนี้</string>
+    <string name="download_btn">ดาวน์โหลด</string>
     <string name="download_btn_select_all">เลือกทั้งหมด</string>
     <string name="download_btn_select_none">ยกเลิกการเลือกทั้งหมด</string>
     <string name="download_complete">ดาวน์โหลดเรียบร้อย</string>
@@ -330,6 +344,7 @@
     <string name="go_supermarket_title">แอปมากมาย ดาวน์โหลดไว ประหยัดเน็ต ทั้งหมดนี้บนแอปสโตร์</string>
     <string name="gold_medals">เหรียญทอง</string>
     <string name="google_bookmarks">Google</string>
+    <string name="hash_tag">\# %1$s</string>
     <string name="have_sent_bookmark_to_home_screen">วางไว้บนหน้าจอหลักแล้ว</string>
     <string name="hint">คำแนะนำ</string>
     <string name="history">ประวัติ</string>
@@ -731,6 +746,8 @@
     <string name="mw_snippets_disabled_generic_prompt">รับเนื้อหาในแบบของคุณ</string>
     <string name="mw_snippets_disabled_signed_out_instructions">หากต้องการรับเนื้อหาในแบบของคุณที่แนะนำโดย Google ให้ลงชื่อเข้าใช้ Chrome</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">ตั้งเวลา</string>
@@ -964,6 +981,7 @@
     <string name="remove_snapshot">ลบหน้าที่บันทึก</string>
     <string name="removed_from_bookmarks">ลบออกจากหน้าที่คั่น</string>
     <string name="replace">เปลี่ยน</string>
+    <string name="replay">เล่นอีกครั้ง</string>
     <string name="reply_comment_title">ตอบ: %s</string>
     <string name="resume_download">เริ่ม</string>
     <string name="retry_after_network_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
@@ -1027,6 +1045,7 @@
     <string name="sendstartpage">หน้าเริ่มต้น</string>
     <string name="share_image_text">ดูซิว่าฉันแชร์อะไร! @MIUI</string>
     <string name="share_page_text">ดูซิว่าฉันแชร์อะไร: %1$s @MIUI| %2$s</string>
+    <string name="share_slide_video_text">ดูซิว่าฉันแชร์อะไร: %1$s</string>
     <string name="share_video">แชร์วิดีโอ</string>
     <string name="sign_in_to" formatted="false">ลงชื่อเข้าใช้ %s1 %s2\"</string>
     <string name="site_sort_des">จัดเรียงรายการใหม่</string>
@@ -1163,6 +1182,9 @@
     <string name="video_unknown_duration">ไม่ทราบระยะเวลา</string>
     <string name="view_certificate">ดูใบรับรอง</string>
     <string name="view_document_downloaded_files">เรียกดูไฟล์ที่ดาวน์โหลดไว้ในดาวน์โหลด</string>
+    <string name="view_source">ดูแหล่งข้อมูล</string>
+    <string name="vmate_download_content">เพลิดเพลินไปกับเรื่องตลกขบขัน เพลง วิดีโอการเต้น</string>
+    <string name="vmate_download_title">แอปบันเทิงที่สุดของอินเดีย</string>
     <string name="voice_check_network">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองใหม่อีกครั้ง</string>
     <string name="voice_connect_network">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="voice_description">ค้นหาเสียง</string>

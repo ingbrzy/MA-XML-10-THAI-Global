@@ -89,6 +89,9 @@
     <plurals name="quick_optimize_suggest_issue_found">
         <item quantity="other">พบปัญหาแบตเตอรี่ %d แก้ไขมัน</item>
     </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">ใช้แบตเตอรี่ไป %2$d%% ในระยะเวลา %1$d นาทีที่ผ่านมา</item>
+    </plurals>
     <plurals name="power_center_menu_text">
         <item quantity="other">รายการ</item>
     </plurals>
@@ -274,5 +277,11 @@
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d ปัญหาต้องการการเพิ่มประสิทธิภาพ</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
     </plurals>
 </resources>

@@ -437,6 +437,7 @@
     <string name="portrait_mode_depth_effect_success_hint">หน้าชัดหลังเบลอ</string>
     <string name="portrait_mode_use_hint">"โหมดภาพบุคคลจะทำให้พื้นหลังเบลอ
 และทำให้คนดูเด่นขึ้น"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"โหลดโหมดภาพคน
 ทำให้หน้าชัดหลังเบลอ"</string>
     <string name="pref_camera_square_mode_title">รูปสี่เหลี่ยม</string>
@@ -453,6 +454,7 @@
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">โหมด</string>
     <string name="button_front_camera_title">ถ่ายเซลฟี่</string>
     <string name="button_normal_video_title">บันทึกวิดีโอ</string>
@@ -568,4 +570,8 @@
     <string name="lighting_pattern_shutter">ผ้าม่าน</string>
     <string name="view_privacy_policy">ดูนโยบายความเป็นส่วนตัว</string>
     <string name="fps960_toast">ถ่ายภาพแบบเคลื่อนไหวช้าจะเริ่มเมื่อนับถอยหลังถึงจุดสีขาว</string>
+    <string name="portrait_bokeh_text">โหมดภาพบุคคล</string>
+    <string name="portrait_bokeh_first_tips">"ใช้โหมดภาพบุคคลเพื่อเบลอ
+พื้นหลังในภาพของคุณ"</string>
+    <string name="portrait_bokeh_tips">วางวัตถุไว้ภายในระยะ 1.5 เมตร</string>
 </resources>
