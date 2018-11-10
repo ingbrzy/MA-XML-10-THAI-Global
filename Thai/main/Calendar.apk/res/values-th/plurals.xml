@@ -76,7 +76,7 @@
         <item quantity="other">%1$d ปี</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">สัปดาห์ %d</item>
+        <item quantity="other">สัปดาห์ที่ %d</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">วันทำงาน %d วัน</item>

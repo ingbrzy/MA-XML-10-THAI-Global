@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="inCallLabel">สายเรียกเข้า</string>
+    <string name="inCallLabel">โทรศัพท์</string>
     <string name="unknown">ไม่ทราบ</string>
     <string name="private_num">เลขหมายส่วนตัว</string>
     <string name="payphone">โทรศัพท์สาธารณะ</string>

@@ -30,6 +30,7 @@
     <string name="passport_register">สร้างบัญชีผู้ใช้</string>
     <string name="passport_new_user_register">สร้างบัญชีผู้ใช้</string>
     <string name="passport_vcode_sms_send_prompt">ส่งรหัสยืนยันไปยัง %s</string>
+    <string name="passport_input_phone_password">กรุณาใส่รหัสผ่านสำหรับหมายเลขโทรศัพท์ %s</string>
     <string name="passport_get_verify_code">ขอรับรหัส</string>
     <string name="passport_re_get_verify_code">ขอรับรหัสอีกครั้ง</string>
     <string name="passport_getting_verify_code">กำลังรับ</string>
@@ -59,6 +60,7 @@
     <string name="passport_forget_password_no_underline">ลืมรหัสผ่าน</string>
     <string name="passport_reg_type_email">ที่อยู่อีเมล</string>
     <string name="passport_register_by_email"><u>สร้างบัญชีใหม่โดยใช้อีเมล</u></string>
+    <string name="passport_international_register_by_email">สร้างบัญชีใหม่โดยใช้อีเมล</string>
     <string name="passport_account_not_actived">บัญชีของคุณยังไม่ได้เปิดใช้งาน</string>
     <string name="passport_active_email_visit">ตรวจสอบกล่องขาเข้าที่ %s</string>
     <string name="passport_click_email_to_valid">"
@@ -176,6 +178,7 @@
     <string name="passport_barcode_add_account_prompt">ในการเชื่อมเข้าสู่บัญชี กรุณาสแกนรหัส QR อีกครั้งเมื่อคุณเข้าสู่ระบบนั้นแล้ว</string>
     <string name="passport_password_phone_login">ลงชื่อเข้าใช้ด้วยบัญชี Mi</string>
     <string name="passport_sms_verification_code_login">เข้าสู่ระบบโดยใช้ข้อความ SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">เข้าสู่ระบบหรือลงทะเบียนโดยใช้ SMS</string>
     <string name="passport_login_other_account">บัญชีอื่น</string>
     <string name="passport_reg_new_account">สร้างบัญชี</string>
     <string name="passport_select_the_login_account">เลือกบัญชีเพื่อลงชื่อเข้าใช้</string>

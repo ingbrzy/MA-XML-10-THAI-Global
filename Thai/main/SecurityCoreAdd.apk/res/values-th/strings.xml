@@ -67,10 +67,11 @@
     <string name="xspace_label">แอปโคลน</string>
     <string name="xspace_setting_label">การตั้งค่าแอปโคลน</string>
     <string name="xspace_account">บัญชีแอปโคลน</string>
+    <string name="xspace_remove">ลบบัญชีแอปโคลน</string>
     <string name="declare_dialog_title">เกี่ยวแอปโคลน</string>
     <string name="menu_item_about_privacy_title">นโยบายความเป็นส่วนตัว</string>
     <string name="stop_xspace_alert_title">กำลังลบบัญชีแอปโคลน</string>
-    <string name="stop_xspace_alert_content">คุณลบแอปโคลนทั้งหมด ลบบัญชีแอปโคลนและข้อมูลแอปจริงหรือไม่? หลังจากที่ลบแล้ว คุณสามารถสร้างแอปโคลนได้อีก เมื่อของคุณต้องการ</string>
+    <string name="stop_xspace_alert_content">แอปโคลนและข้อมูลทั้งหมดจะถูกลบอย่างถาวร คุณจะต้องรีบูตอุปกรณ์ของคุณเพื่อใช้การเปลี่ยนแปลงนี้ ลบบัญชีเลยไหม?</string>
     <string name="xspace_loading_msg">กำลังโหลดแอป…</string>
     <string name="xspace_header">แอปโคลน</string>
     <string name="xspace_introduce">แนะนำ</string>

@@ -16,15 +16,24 @@
         <item quantity="other">%2$d ไฟล์จาก %1$s</item>
     </plurals>
     <plurals name="f">
-        <item quantity="other">เลือก %d รายการ</item>
+        <item quantity="other">%1$s และ %2$s รายการอื่นๆนั้นถูกถ่ายโอยแล้ว</item>
     </plurals>
     <plurals name="g">
-        <item quantity="other">%1$d รายการ</item>
+        <item quantity="other">เลือก %d รายการ</item>
     </plurals>
     <plurals name="h">
-        <item quantity="other">รับ %1$d ไฟล์ (%2$s)</item>
+        <item quantity="other">%1$d รายการ</item>
     </plurals>
     <plurals name="i">
+        <item quantity="other">รับ %1$d ไฟล์ (%2$s)</item>
+    </plurals>
+    <plurals name="j">
         <item quantity="other">ส่ง %1$d ไฟล์ (%2$s)</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">พบการอัปเดตสำหรับแอป %d รายการ</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%1$s แชร์ %2$s รายการ</item>
     </plurals>
 </resources>

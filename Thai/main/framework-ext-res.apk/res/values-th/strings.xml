@@ -135,6 +135,7 @@
     <string name="security_permission_open_wifi_settings">เปิดการตั้งค่า Wi-Fi</string>
     <string name="xspace_resolver_activity_title">เลือกแอป</string>
     <string name="user_switching_dialog_text">กำลังสลับ…</string>
+    <string name="xspace_head">แอปโคลน</string>
     <string name="activity_package_delete_confirm_title">โปรดทราบ</string>
     <string name="button_text_cancel">ยกเลิก</string>
     <string name="button_text_delete">ถอนการติดตั้ง</string>

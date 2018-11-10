@@ -98,7 +98,6 @@
     <string name="app_name">คลังภาพ</string>
     <string name="app_name_view_picture">ดูรูปภาพ</string>
     <string name="app_name_view_video">เรียกดูวิดีโอ</string>
-    <string name="apply">นำไปใช้</string>
     <string name="associate_face_album">เลือกอัลบั้ม</string>
     <string name="auto_backup_introduce">สำรองข้อมูลรูปภาพและวิดีโอโดยอัตโนมัติ (ต้องใช้บัญชี Mi)</string>
     <string name="auto_download_media_title">ดาวน์โหลดรูปภาพจาก Mi คลาวด์ อัตโนมัติ</string>
@@ -123,10 +122,6 @@
     <string name="baby_album_sharers_page_title">แชร์ไปยังครอบครัว</string>
     <string name="baby_birthday">วันเกิด</string>
     <string name="baby_face_desc">อัลบั้มลูก</string>
-    <string name="baby_lock_wallpaper">ภาพพื้นหลังหน้าจอล็อก</string>
-    <string name="baby_lock_wallpaper_cancelled">เปลี่ยนเป็นภาพพื้นหลังเริ่มต้นในหน้าจอล็อกแล้ว</string>
-    <string name="baby_lock_wallpaper_save_settings_msg">นำการตั้งค่าปัจจุบันไปใช้</string>
-    <string name="baby_lock_wallpaper_title">ตั้งรูปภาพลูกเป็นภาพพื้นหลังหน้าจอล็อก</string>
     <string name="baby_name_cannot_empty">ป้อนชื่อ</string>
     <string name="baby_name_cannot_start_with">"ชื่อไม่สามารถขึ้นต้นด้วย '%s'"</string>
     <string name="baby_name_contain_invalidate_char">"ชื่อไม่สามารถประกอบด้วย '%s'"</string>
@@ -196,7 +191,6 @@
     <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">อัลบั้มกล้องจำเป็นต้องถูกสำรองข้อมูล</string>
     <string name="cancel">ยกเลิก </string>
-    <string name="cancel_baby_lock_wallpaper_confirm_msg">เปลี่ยนเป็นภาพพื้นหลังเริ่มต้นในหน้าจอล็อก?</string>
     <string name="cancel_download_btn_text">หยุด</string>
     <string name="cancel_hint">การดำเนินการถูกยกเลิกแล้ว</string>
     <string name="cannot_remove_creator">ไม่สามารถลบผู้สร้าง</string>
@@ -347,6 +341,11 @@
     <string name="disable_auto_upload_tip">ปิดใช้ซิงค์กับ Mi คลาวด์สำหรับอัลบั้มนี้?</string>
     <string name="disable_auto_upload_title">ปิดใช้การซิงค์กับ Mi คลาวด์</string>
     <string name="do_not_remind_me">ไม่ต้องแสดงอีก</string>
+    <string name="document_provider_guide_step_1">1. แตะปุ่ม \"เพิ่มเติม\"</string>
+    <string name="document_provider_guide_step_2">2. แตะ \"แสดงที่จัดเก็บภายใน\"</string>
+    <string name="document_provider_guide_step_3">3. แตะปุ่มเมนูด้านข้าง</string>
+    <string name="document_provider_guide_step_4">4. เลือก \"SD การ์ด\"</string>
+    <string name="document_provider_guide_step_5">5. แตะ \"เลือก\"</string>
     <string name="double_tap_to_higher_definition">แตะสองครั้งอีกทีเพื่อดูตัวอย่างรายการแบบ HD</string>
     <string name="download_canceled">ยกเลิกดาวน์โหลดแล้ว</string>
     <string name="download_error_format">ไม่สามารถดาวน์โหลด %s ได้</string>
@@ -450,6 +449,18 @@
     <string name="exit_video_play">ออก</string>
     <string name="expand_desc">เพิ่มเติม</string>
     <string name="expand_people">แสดงบุคคลเพิ่มเติม</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">แกลเลอรี่จะบันทึกรายการไปยังที่จัดเก็บภายในแทน คุณสามารถแก้ไขในการตั้งค่า > พื้นที่จัดเก็บ > การตั้งค่าพื้นที่จัดเก็บ</string>
+    <string name="ext_sdcard_first_entrance_request_failed_title">ไม่สามารถให้สิทธิ์ได้</string>
+    <string name="ext_sdcard_guide_first_page_button_text">ถัดไป</string>
+    <string name="ext_sdcard_guide_last_page_button_text">ให้สิทธิ์การใช้งาน</string>
+    <string name="ext_sdcard_guide_text">แกลเลอรี่จำเป็นต้องได้รับสิทธิ์เพื่อเข้าถึง SD การ์ด นี่คือสิ่งที่คุณสามารถทำได้:</string>
+    <string name="ext_sdcard_operation_failed_text">แกลเลอรี่จำเป็นต้องได้รับสิทธิ์เพื่อเข้าถึง SD การ์ด</string>
+    <string name="ext_sdcard_operation_failed_title">ดำเนินการไม่เสร็จสิ้น</string>
+    <string name="ext_sdcard_permission_request_button_text">รับทราบ</string>
+    <string name="ext_sdcard_permission_request_reason">แกลเลอรี่จำเป็นต้องได้รับสิทธิ์เพื่อเข้าถึง SD การ์ด ซึ่งจะทำให้คุณสามารถลบและแก้ไขภาพและวิดีโอที่เก็บไว้ใน SD การ์ดของคุณได้</string>
+    <string name="ext_sdcard_permission_request_title">อนุญาตให้แกลเลอรี่เข้าถึง SD การ์ด</string>
+    <string name="ext_sdcard_request_failed_button_text">ตกลง</string>
+    <string name="ext_sdcard_request_succeed_toast_text">เมื่อคุณพร้อมเราก็พร้อม มาลองใช้กัน!</string>
     <string name="face_album_empty">"มีภาพถ่ายไม่เพียงพอที่จะยืนยันบุคคลได้
 ถ่ายภาพเพื่อนของคุณเพิ่ม!"</string>
     <string name="face_album_empty_syncing">กำลังซิงค์ข้อมูล กรุณารอสักครู่</string>
@@ -467,6 +478,7 @@
     <string name="face_name_edit">แก้ไข</string>
     <string name="face_name_input">ป้อนชื่อ</string>
     <string name="face_recommend">ข้อเสนอแนะ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">ดำเนินการไม่เสร็จสิ้น</string>
     <string name="fail_to_pick_email">ที่อยู่อีเมลไม่ถูกต้อง</string>
     <string name="fail_to_sync_album">ไม่สามารถซิงค์อัลบั้ม ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองใหม่อีกครั้ง</string>
@@ -477,6 +489,7 @@
     <string name="feature_guidance_photo_effects">"เอฟเฟ็กต์​ภาพถ่ายใหม่
 พร้อมใช้งาน"</string>
     <string name="feature_guidance_video_editor_smart_effects">เอฟเฟ็กต์​ใหม่พร้อมใช้งาน</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">ความทรงจำ</string>
     <string name="filter_bi_mono">โมโน</string>
     <string name="filter_bi_pink">ชมพู</string>
@@ -546,6 +559,7 @@
     <string name="gif_tip">ไฟล์ GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">ตั้งค่า</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"คลังภาพต้องการเข้าถึง 
 %s
  เพื่อให้ทำงานได้ตามปกติ แตะ \"ตั้งค่า\" เพื่อไปยังการอนุญาต"</string>
@@ -721,6 +735,7 @@
     <string name="operation_save">บันทึก</string>
     <string name="operation_send">ส่ง</string>
     <string name="operation_set_contact_photo">ตั้งเป็นรูปผู้ติดต่อ</string>
+    <string name="operation_set_slide_wallpaper">ตั้งเป็นภาพพื้นหลังสไลด์โชว์</string>
     <string name="operation_set_wallpaper">ตั้งเป็นภาพพื้นหลัง</string>
     <string name="operation_share">แชร์</string>
     <string name="operation_show_in_photos_tab">แสดงในหน้ารูปภาพ</string>
@@ -744,6 +759,7 @@
     <string name="people_mark_mode_title_no_mark_name">เลือกสักคน</string>
     <string name="people_page_label">บุคคล</string>
     <string name="people_page_unname">ไม่มีชื่อ</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">รูปภาพสัตว์เลี้ยง</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">รูปภาพ</string>
@@ -759,7 +775,7 @@
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">ลายเส้น</string>
     <string name="photo_editor_filter">ฟิลเตอร์</string>
-    <string name="photo_editor_frame">Rámeček</string>
+    <string name="photo_editor_frame">กรอบภาพ</string>
     <string name="photo_editor_label">แก้ไข</string>
     <string name="photo_editor_long_crop">ตัดภาพ</string>
     <string name="photo_editor_miui_beauty">ฟรุ๊งฟริ๊ง</string>
@@ -867,6 +883,7 @@
     <string name="picker_image_will_download">%d รูปภาพที่เลือกไว้ไม่ได้อยู่บนอุปกรณ์ กำลังจะดาวน์โหลด</string>
     <string name="picker_no_network_message">เชื่อมต่อกับเครือข่ายเพื่อดาวน์โหลด</string>
     <string name="picker_origin_need_download">%1$d รูปภาพที่เลือกไว้ (%2$dMB) ไม่อยู่บนอุปกรณ์ ดาวน์โหลดด้วยข้อมูลมือถือหรือไม่?</string>
+    <string name="picker_origin_request_progress_fail">ไม่สามารถดาวน์โหลดภาพต้นฉบับได้เนื่องจากเกิดข้อผิดพลาดกับเครือข่าย</string>
     <string name="picker_origin_request_progress_message">กำลังเตรียมไฟล์​ต้นฉบับ (%1$d/%2$d)…</string>
     <string name="picker_title_format">เลือก %1$d - %2$d รูป</string>
     <string name="picker_title_selection_format">รูปภาพที่เลือกไว้: %d</string>
@@ -1004,6 +1021,9 @@
     <string name="search_title_recommend">แนะนำ</string>
     <string name="search_title_suggestion">ข้อเสนอแนะ</string>
     <string name="search_title_tag">สิ่งของ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">กำลังมองหาโปรเจคเตอร์…</string>
     <string name="secret_album_card_description">ที่ที่ดีที่สุดสำหรับความลับทั้งหมดของคุณ</string>
     <string name="secret_album_card_title">เปิดอัลบั้มที่ซ่อนไว้</string>
@@ -1032,7 +1052,8 @@
     <string name="send_secret_file_failed">ไม่สามารถแชร์ได้</string>
     <string name="send_secret_file_space_low">พื้นที่จัดเก็บไม่เพียงพอ</string>
     <string name="send_too_many_files_error">สามารถส่งได้มากสุด %d ไฟล์ต่อครั้ง</string>
-    <string name="set_as_baby_lock_wallpaper">ตั้งเป็นภาพพื้นหลังของหน้าจอล็อก</string>
+    <string name="set_as_slide_wallpaper_description">รูปภาพนี้เป็นเพียงภาพหน้าปก ต้องการดาวน์โหลดไฟล์ดั้งเดิมหรือไม่?</string>
+    <string name="set_as_slide_wallpaper_title">ตั้งเป็นภาพพื้นหลังสไลด์โชว์</string>
     <string name="set_as_wallpaper_description">รูปภาพนี้เป็นเพียงภาพหน้าปก ต้องการดาวน์โหลดไฟล์ดั้งเดิมหรือไม่?</string>
     <string name="set_as_wallpaper_title">ตั้งเป็นภาพพื้นหลัง</string>
     <string name="set_face_group_toast_msg_new_user">กดค้างไว้ที่บุคคลเพื่อควบรวมหรือละเว้น</string>
@@ -1282,6 +1303,7 @@
     <string name="view_face_album">ดูอัลบั้ม</string>
     <string name="view_more_face_desc">เรียกดูบุคคลเพิ่มเติม</string>
     <string name="voice_assistant">ป้อนด้วยเสียง</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">ยินดีต้อนรับสู่ Mi คลาวด์</string>
     <string name="where_is_barcode">รหัส QR อยู่ที่ไหน?</string>
     <string name="who_is_this">บุคคลนี้คือใคร?</string>
@@ -1289,7 +1311,7 @@
     <string name="yes">ใช่</string>
     <string name="yesterday">เมื่อวาน</string>
     <string name="you_are">คุณเป็น</string>
-    <string name="operation_set_slide_wallpaper">ตั้งเป็นภาพพื้นหลังสไลด์โชว์</string>
+    <string name="photo_editor_talkback_crop_screen">อัตราส่วนเต็มหน้าจอ</string>
     <string name="refocus_discard_confirm_message">บันทึกการเปลี่ยนแปลง?</string>
     <string name="refocus_discard_negative_btn">ละทิ้ง</string>
     <string name="refocus_discard_positive_btn">บันทึก</string>
@@ -1302,6 +1324,4 @@
     <string name="refocus_title">เบลอ</string>
     <string name="refocus_type_static">ระดับการเบลอ</string>
     <string name="refocus_type_video">เส้นทางแสง</string>
-    <string name="set_as_slide_wallpaper_description">รูปภาพนี้เป็นเพียงภาพหน้าปก ต้องการดาวน์โหลดไฟล์ดั้งเดิมหรือไม่?</string>
-    <string name="set_as_slide_wallpaper_title">ตั้งเป็นภาพพื้นหลังสไลด์โชว์</string>
 </resources>

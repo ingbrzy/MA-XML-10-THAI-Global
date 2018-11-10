@@ -95,4 +95,7 @@
     <string name="message_i_know">เข้าใจแล้ว</string>
     <string name="high_temp_state">อุณหภูมิสูง</string>
     <string name="high_temp_state_message">จำกัดการป้องกันอุณภูมิสูง ข้อมูล Wi-Fi ap GPS กล้อง ฯลฯ</string>
+    <string name="atrace_start">กำลังบันทึกการใช้ atrace…</string>
+    <string name="atrace_saving">กำลังเซฟบันทึก atrace…</string>
+    <string name="atrace_saved">บันทึกเรียบร้อยแล้ว</string>
 </resources>

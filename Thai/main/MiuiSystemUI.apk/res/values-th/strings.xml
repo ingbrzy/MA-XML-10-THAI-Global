@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">กล้อง</string>
     <string name="accessibility_carrier_network_change_mode">แก้ไขผู้ให้บริการเครือข่าย</string>
     <string name="accessibility_cast_name">เชื่อมต่อไปยัง %s แล้ว</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">หยุดการฉายภาพหน้าจอ</string>
     <string name="accessibility_cell_data">ข้อมูลมือถือ</string>
     <string name="accessibility_cell_data_off">ข้อมูลมือถือปิด</string>
@@ -538,6 +539,7 @@
     <string name="dock_forced_resizable">แอปอาจไม่สามารถทำงานบนหน้าจอแยกได้</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">ไม่สามารถแบ่งหน้าจอขณะล็อกหน้าจออยู่</string>
     <string name="dock_non_resizeble_failed_to_dock_text">แอปไม่รองรับการแบ่งหน้าจอ</string>
+    <string name="download_lock_wallpaper">แตะสองครั้งเพื่อดาวน์โหลดภาพพื้นหลังรายวัน</string>
     <string name="doze_pickup_subtype_performs_proximity_check" />
     <string name="drag_to_add_tiles">กดค้างเพื่อเพิ่มหรือจัดการรายการ</string>
     <string name="drag_to_remove_tiles">ลากเพื่อลบออก</string>
@@ -733,7 +735,6 @@
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ไม่สามารถสลับระหว่างพื้นที่ขณะโทรได้</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">ไม่สามารถสลับระหว่างพื้นที่เมื่อการควบคุมโดยผู้ปกครองเปิดอยู่</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">คุณจำเป็นต้องเข้าสู่พื้นที่ปกติก่อนที่อุปกรณ์จะทำการรีบูต</string>
-    <string name="input_password_handle_sdcard_fs">ไม่สามารถเข้าพื้นที่ทับซ้อนจากหน้าจอล็อกได้ กรุณาเข้าจากพื้นที่ปกติ</string>
     <string name="input_password_hint_text">ใส่รหัสผ่าน</string>
     <string name="input_pattern_hint_text">วาดรูปแบบของคุณเพื่อปลดล็อก:</string>
     <string name="input_pin_code">ป้อนรหัส PIN</string>
@@ -814,6 +815,10 @@
     <string name="keyguard_charging_back_to_lockscreen">กลับไปที่ล็อกหน้าจอ</string>
     <string name="keyguard_charging_info_battery_used_time_text">ใช้แบตเตอรี่</string>
     <string name="keyguard_charging_info_click_to_detail">เรียกดูรายละเอียด</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">สัดส่วนการใช้แบต</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">วันนี้ %s</string>
@@ -838,6 +843,7 @@
     <string name="keyguard_missing_sim_instructions_long">ไม่พบซิมการ์ดหรืออ่านซิมการ์ดไม่ได้ กรุณาใส่ซิมการ์ด</string>
     <string name="keyguard_missing_sim_message">ไม่พบซิมการ์ดในเครื่อง</string>
     <string name="keyguard_missing_sim_message_short">ไม่พบซิมการ์ด</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">เครือข่ายถูกล็อกไว้</string>
     <string name="keyguard_password_enter_password_code">ป้อนรหัสผ่านเพื่อปลดล็อก</string>
     <string name="keyguard_password_enter_pin_code">ป้อนรหัส PIN</string>
@@ -921,6 +927,7 @@
     <string name="left_keycode">คีย์โค๊ดซ้าย</string>
     <string name="left_nav_bar_button_type">ประเภทปุ่มซ้ายพิเศษ</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">แตะเพื่อแก้ไขหรือลบรหัสผ่านสำหรับการสำรองข้อมูลหน้าจอหลักเต็มรูปแบบ</string>
     <string name="local_backup_password_summary_none">การสำรองข้อมูลหน้าจอหลักเต็มรูปแบบไม่ได้รับการป้องกันในขณะนี้</string>
     <string name="local_backup_password_title">รหัสผ่านข้อมูลสำรองหน้าจอหลัก</string>
@@ -928,8 +935,8 @@
     <string name="local_backup_password_toast_success">ตั้งค่ารหัสผ่านสำรองข้อมูลใหม่</string>
     <string name="local_backup_password_toast_validation_failure">ไม่สามารถตั้งค่ารหัสผ่านข้อมูลสำรองได้</string>
     <string name="lock_screen_carrier_airplane_mode_on">โหมดเครื่องบิน</string>
-    <string name="lock_screen_date">EEEE, MMMM d</string>
-    <string name="lock_screen_date_12">EEEE, MMMM d</string>
+    <string name="lock_screen_date">EEEE d MMMM</string>
+    <string name="lock_screen_date_12">EEEE d MMMM</string>
     <string name="lock_screen_no_sim_card_emergency_only">โทรฉุกเฉินเท่านั้น</string>
     <string name="lock_screen_no_sim_card_no_service">ไม่มีสัญญาณ</string>
     <string name="lock_wallpaper_enter">เข้าไป</string>
@@ -984,6 +991,7 @@
     <string name="miui_guide_dialog_message">เสียงสื่อ (เพลง วิดีโอ ฯลฯ) จะยังคงเล่นในโหมดเงียบ คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ปลดล็อกโดยใช้อุปกรณ์บลูทูธ</string>
     <string name="miui_ringer_count_down">นับถอยหลัง</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">ปิดเสียง</string>
     <string name="miui_ringer_standard_description">ปิดเสียงเรียกเข้าสำหรับสายเรียกเข้าและการแจ้งเตือน</string>
     <string name="miui_ringer_total">ห้ามรบกวน</string>
@@ -1011,12 +1019,14 @@
 
 สำหรับข้อมูลเพิ่มเติมโปรดติดต่อผู้ดูแลระบบของคุณ"</string>
     <string name="monitoring_description_ca_cert_settings">เปิดหนังสือรับรองที่เชื่อถือได้</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">ผู้ให้บริการออกใบรับรองถูกติดตั้งบนอุปกรณ์นี้ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_do_body">ผู้ดูแลระบบของคุณสามารถตรวจสอบและจัดการการตั้งค่า การเข้าถึงองค์กร แอป ข้อมูลที่เกี่ยวข้องกับอุปกรณ์และข้อมูลตำแหน่งของอุปกรณ์ของคุณได้</string>
     <string name="monitoring_description_do_body_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ของคุณได้</string>
     <string name="monitoring_description_do_header_generic">อุปกรณ์ของคุณมีการจัดการโดย %1$s</string>
     <string name="monitoring_description_do_header_with_name">%1$s ใช้ %2$s เพื่อจัดการอุปกรณ์ของคุณ</string>
     <string name="monitoring_description_do_learn_more">เรียนรู้เพิ่มเติม</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">องค์กรของคุณได้ติดตั้งผู้ออกใบรับรองในโปรไฟล์งานของคุณ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_managed_profile_named_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ได้</string>
     <string name="monitoring_description_management">"อุปกรณ์ของคุณมีการจัดการโดยองค์กรของคุณ 
@@ -1048,6 +1058,7 @@
 
  คุณเชื่อมต่อกับ VPN ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายของคุณได้"</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">ใบรับรอง CA</string>
     <string name="monitoring_subtitle_network_logging">บันทึกข้อมูลระบบเครือข่าย</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1062,6 +1073,7 @@
     <string name="nav_guide_message">ใช้ท่าทางเพื่อซ่อน/แสดงปุ่มซอฟท์</string>
     <string name="nav_guide_ok">ติดตั้ง</string>
     <string name="nav_guide_title">ซ่อนปุ่มซอฟท์</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">ไม่มี</string>
     <string name="no_multi_window_app">ไม่มีแอปซึ่งรองรับการแบ่งหน้าจอ</string>
     <string name="no_notification_tips">ไม่มีการแจ้งเตือน</string>
@@ -1142,11 +1154,11 @@
     <string name="phone_locked_foget_password">ลืมรหัสผ่าน?</string>
     <string name="phone_locked_foget_password_mehod_back">ย้อนกลับ</string>
     <string name="phone_locked_foget_password_method">ลืมรหัสผ่าน?</string>
-    <string name="phone_locked_foget_password_method_content"><Data>คุณต้องลบข้อมูล &lt;font color=#a5220e>ทั้งหมด &lt;/font> บนอุปกรณ์ของคุณ รวมทั้งรูปภาพและรายชื่อผู้ติดต่อ จากนั้นตั้งรหัสผ่านล็อคหน้าจอใหม่.;</Data></string>
+    <string name="phone_locked_foget_password_method_content"><Data>คุณต้องลบข้อมูล &lt;font color=#a5220e>ทั้งหมด &lt;/font> บนอุปกรณ์ของคุณ รวมทั้งรูปภาพและรายชื่อผู้ติดต่อ จากนั้นตั้งรหัสผ่านล็อคหน้าจอใหม่. ;</Data></string>
     <string name="phone_locked_foget_password_method_next">ถัดไป</string>
     <string name="phone_locked_foget_password_ok">รับทราบ</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>ปิดอุปกรณ์ของคุณ กด &lt;font color=#a5220e>ปุ่มเปิด/ปิดเครื่อง &lt;/font> และ &lt;font color=#a5220e>ปุ่มเพิ่มเสียงค้าง &lt;/font>รอจนกว่าคุณจะเห็นโลโก้ Mi;</Data></string>
-    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>เลือก&lt;font color=#a5220e>\"ลบออก &amp;amp; รีเซ็ต\"&lt;/font> และรอจนกว่าอุปกรณ์รีบูต.;</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>ปิดอุปกรณ์ของคุณ กด &lt;font color=#a5220e>ปุ่มเปิด/ปิดเครื่อง &lt;/font> และ &lt;font color=#a5220e>ปุ่มเพิ่มเสียงค้าง &lt;/font>รอจนกว่าคุณจะเห็นโลโก้ Mi ;</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>เลือก&lt;font color=#a5220e>\"ลบออก &amp;amp; รีเซ็ต\"&lt;/font> และรอจนกว่าอุปกรณ์รีบูต. ;</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">ลบข้อมูลอย่างไร?</string>
     <string name="phone_locked_string">โทรศัพท์ถูกล็อก</string>
     <string name="picture_color_mode">โหมดสีของภาพ</string>
@@ -1200,6 +1212,7 @@
     <string name="power_remaining_charging_duration_only">อีก %1$s จะชาร์จเต็ม</string>
     <string name="power_remaining_duration_only">เหลืออีกประมาณ %1$s</string>
     <string name="power_remaining_duration_only_short">เหลืออีก %1$s</string>
+    <string name="process_kernel_label">ระบบแอนดรอยด์</string>
     <string name="profile_owned_footer">โปรไฟล์อาจได้รับการตรวจสอบ</string>
     <string name="prompt_danger">อันตราย</string>
     <string name="prompt_detecting">กำลังตรวจจับ</string>
@@ -1455,10 +1468,10 @@
     <string name="status_bar_airplane">โหมดเครื่องบิน</string>
     <string name="status_bar_alarm">การปลุก</string>
     <string name="status_bar_clear_all_button">ล้าง</string>
-    <string name="status_bar_clock_date_format">E, d MMM</string>
-    <string name="status_bar_clock_date_format_12">E, d MMM</string>
+    <string name="status_bar_clock_date_format">E d MMM</string>
+    <string name="status_bar_clock_date_format_12">E d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm d MMM</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm aa,d MMM</string>
+    <string name="status_bar_clock_date_time_format_12">d MMM h:mm aa</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E
@@ -1467,7 +1480,9 @@ d MMM"</string>
     <string name="status_bar_input_method_settings_configure_input_methods">ติดตั้งวิธีการป้อนข้อมูล</string>
     <string name="status_bar_latest_events_title">การแจ้งเตือน</string>
     <string name="status_bar_network_flow_content">ใช้ไปวันนี้: %1$s คงเหลือ: %2$s</string>
-    <string name="status_bar_network_flow_exceed_content">ใช้ไปวันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;ใช้เกินไปแล้ว: &lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_exceed_content">"ใช้ไปวันนี้: %1$s
+        &amp;nbsp;&amp;nbsp;&amp;nbsp;ใช้เกินไปแล้ว: &lt;font color=%2$s>%3$s&lt;/font>
+        "</string>
     <string name="status_bar_network_flow_limit">"   เพดานของเดือน: %1$s   "</string>
     <string name="status_bar_network_flow_purchase">"   ซื้อเพิ่ม >"</string>
     <string name="status_bar_network_flow_today">วันนี้: %1$s</string>
@@ -1734,6 +1749,7 @@ d MMM"</string>
     <string name="wait_for_debugger">รอการแก้ไขข้อบกพร่อง</string>
     <string name="wait_for_debugger_summary">แอปรแก้ไขข้อบกพร่องรอการแก้ไขข้อบกพร่อง แนบก่อนดำเนินการ</string>
     <string name="wallpaper_global_des_drop_down_notify_text">ปล่อยเพื่อดูรายละเอียด</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">อัพเดทล่าสุด %1$s</string>
     <string name="wifi_aggressive_handover">สลับ Wi‑Fi เป็นข้อมูลมือถือเมื่อสัญญานอ่อน</string>
     <string name="wifi_aggressive_handover_summary">เมื่อเปิดใช้งาน การเชื่อมต่อจะสลับไปใช้ข้อมูลมือถือ เมื่อสัญญาณ Wi‑Fi ต่ำ</string>
@@ -1758,9 +1774,11 @@ d MMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">ไม่มี</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

@@ -56,8 +56,8 @@
     <plurals name="network_restrict_count">
         <item quantity="other">"การเข้าถึงเครือข่ายถูกจำกัดสำหรับ &lt;font color='#ff0000'>%d:&lt;/font> แอป"</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">%d แอปทำงานไม่ถูกต้อง ทำให้แบตเตอรี่หมดเร็ว</item>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d แอปที่ล็อก</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d วัน "</item>

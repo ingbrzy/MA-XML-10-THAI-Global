@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">แพ็คเกจ</string>
     <string name="hints_residual_header_left">ไฟล์ตกค้าง</string>
     <string name="hints_memory_header_left">หน่วยความจำ</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ไฟล์ใหญ่: %d</string>
     <string name="hints_installed_apps_header_left">แอปที่ติดตั้งไว้: %d</string>
     <string name="toast_resolve_apk_error">แก้ไขข้อผิดพลาดไฟล์ APK</string>
@@ -299,6 +300,7 @@
     <string name="downloading">กำลังดาวน์โหลด</string>
     <string name="installing">กำลังติดตั้ง</string>
     <string name="start_install">ติดตั้งตอนนี้</string>
+    <string name="empty">" "</string>
     <string name="open_browser">เปิดด้วยเบราว์เซอร์</string>
     <string name="title_share_link">แชร์ลิงก์ URL</string>
     <string name="connecting">กำลังเชื่อมต่อ…</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">ไม่พบไฟล์</string>
     <string name="app_usage_never">ไม่ได้ใช้เมื่อเร็วๆ นี้</string>
     <string name="app_usage_recently">ใช้งานเมื่อเร็วๆนี้</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font>สามารถล้างไฟล์เพิ่มเติม เพิ่มพื้นที่ว่างมากขึ้น.;</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> หน่วยความจำแคชของ WeChat. เพิ่มพื่้นที่ว่างมากขึ้น.;</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>คุณสามารถล้าง &lt;font color=#ff0000 >%1$s&lt;/font> หน่วยความจำแคชที่สร้างโดย QQ;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">" "<Data> &lt;font color=#ff0000 >%1$s&lt;/font>สามารถล้างไฟล์เพิ่มเติม เพิ่มพื้นที่ว่างมากขึ้น. ;</Data>" "</string>
+    <string name="resutl_function_wechat_clean_summary">" "<Data> &lt;font color=#ff0000 >%1$s&lt;/font> หน่วยความจำแคชของ WeChat. เพิ่มพื่้นที่ว่างมากขึ้น. ;</Data>" "</string>
+    <string name="resutl_function_qq_clean_summary">" "<Data> คุณสามารถล้าง &lt;font color=#ff0000 >%1$s&lt;/font> หน่วยความจำแคชที่สร้างโดย QQ ;</Data>" "</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">เกี่ยวกับตัวทำความสะอาด</string>
@@ -498,19 +500,6 @@
     <string name="auto_clean_time_three_day">ทุก 3 วัน</string>
     <string name="auto_clean_time_seven_day">ทุก 7 วัน</string>
     <string name="auto_clean_time_fifteen_day">ทุก 15 วัน</string>
-    <string name="pref_category_title_auto_clean_config_settings">ทำความสะอาดอัตโนมัติ</string>
-    <string name="pref_title_auto_clean">ทำความสะอาดโดยอัตโนมัติ</string>
-    <string name="pref_title_auto_clean_operation">ทำความสะอาดวิธีการ</string>
-    <string name="pref_title_auto_clean_trigger">ทำความสะอาดที่จัดเก็บข้อมูล</string>
-    <string name="auto_clean_operation_dialog_title">ทำความสะอาดวิธีการ</string>
-    <string name="auto_clean_operation_clean_and_alert">เตือนความจำและทำความสะอาด</string>
-    <string name="auto_clean_operation_just_clean">ทำความสะอาดเท่านั้น</string>
-    <string name="auto_clean_trigger_dialog_title">ทำความสะอาดที่จัดเก็บข้อมูล</string>
-    <string name="auto_clean_trigger_percent_ninety">เมื่อการใช้ถึง 90%</string>
-    <string name="auto_clean_trigger_percent_eighty">เมื่อการใช้ถึง 80%</string>
-    <string name="auto_clean_trigger_percent_sixty">เมื่อการใช้ถึง 60%</string>
-    <string name="auto_clean_notification_title">แจ้งเตือนทำความสะอาด</string>
-    <string name="auto_clean_notification_content">ทำความสะอาดขยะของ %s</string>
     <string name="guide_secure_dialog_title">เพิ่มประสิทธิภาพ</string>
     <string name="guide_secure_dialog_message">ประสิทธิภาพอุปกรณ์ของคุณต่ำกว่า 80 เพิ่มประสิทธิภาพตอนนี้หรือไม่?</string>
     <string name="guide_secure_dialog_positive">เพิ่มประสิทธิภาพ</string>
@@ -538,10 +527,6 @@
     <string name="whatsapp_group_gif">GIFs</string>
     <string name="whatsapp_group_document">เอกสาร</string>
     <string name="whatsapp_btn_quick_cleanup">ลบรายการที่เลือกไว้ (%s)</string>
-    <string name="whatsapp_type_image_send">ส่งรูปภาพ</string>
-    <string name="whatsapp_type_image_recv">รับรูปภาพ</string>
-    <string name="whatsapp_type_document_send">ส่งไฟล์</string>
-    <string name="whatsapp_type_document_recv">ไฟล์ที่ได้รับ</string>
     <string name="whatsapp_file_show_order">วันนี้</string>
     <string name="whatsapp_clean_exit_confirm_title">หยุดการสแกน?</string>
     <string name="whatsapp_clean_exit_confirm_msg">ยังไม่เสร็จสิ้นการสแกน WhatsApp หยุดการสแกนเดี๋ยวนี้หรือไม่?</string>
@@ -567,4 +552,17 @@
     <string name="memory_clean_no_trash_tip">ไม่พบสิ่งผิดปกติ</string>
     <string name="toast_updater_open_4g_text">แอปจะถูกอัพเดทโดยใช้ข้อมูลมือถือ (4G)</string>
     <string name="toast_updater_close_4g_text">แอปจะไม่อัพเดทโดยใช้ข้อมูลมือถือ (4G)</string>
+    <string name="facebook_cleaner">ตัวทำความสะอาด Facebook</string>
+    <string name="facebook_group_image">รูปภาพ</string>
+    <string name="facebook_group_video">วิดีโอ</string>
+    <string name="facebook_group_gif">GIFs</string>
+    <string name="facebook_group_cache">ไฟล์แคช</string>
+    <string name="app_clean_group_image_send">รูปภาพที่ส่ง</string>
+    <string name="app_clean_group_image_recv">รูปภาพที่ได้รับ</string>
+    <string name="app_clean_group_document_send">ไฟล์ที่ส่ง</string>
+    <string name="app_clean_group_document_recv">ไฟล์ที่ได้รับ</string>
+    <string name="facebook_clean_exit_confirm_title">หยุดการสแกน?</string>
+    <string name="facebook_clean_exit_confirm_msg">ยังไม่เสร็จสิ้นการสแกน Facebook หยุดการสแกนเดี๋ยวนี้หรือไม่?</string>
+    <string name="facebook_clean_exit_confirm_cancel">ให้สแกนต่อ</string>
+    <string name="facebook_clean_exit_confirm_ok">หยุด</string>
 </resources>

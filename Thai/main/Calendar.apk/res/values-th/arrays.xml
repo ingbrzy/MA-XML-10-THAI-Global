@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aquarius_info">
-        <item>aquarius</item>
+        <item>ราศีกุมภ์</item>
         <item>ราศีกุมภ์</item>
         <item>20/1 - 18/2</item>
     </string-array>
@@ -20,7 +20,7 @@
         <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="capricorn_info">
-        <item>capricorn</item>
+        <item>ราศีมกร</item>
         <item>ราศีมกร</item>
         <item>22/12 - 19/1</item>
     </string-array>
@@ -32,8 +32,41 @@
         <item>ไปข้างหน้า</item>
         <item>ย้อนหลัง</item>
     </string-array>
+    <string-array name="dates">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
     <string-array name="default_reminder_labels">
-        <item>เวลากิจกรรม</item>
+        <item>เวลาก่อนกิจกรรม</item>
         <item>ก่อน 5 นาที</item>
         <item>ก่อน 10 นาที</item>
         <item>ก่อน 15 นาที</item>
@@ -47,6 +80,10 @@
         <item>เฉพาะกิจกรรมนี้</item>
         <item>กิจกรรมนี้และในอนาคต</item>
         <item>กิจกรรมทั้งหมด</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
     </string-array>
     <string-array name="gemini_info">
         <item>ราศีเมถุน</item>
@@ -86,7 +123,7 @@
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>เสมอ</item>
         <item>เมื่อปิดเสียงเรียกเข้าเท่านั้น</item>
-        <item>ไม่ต้อง</item>
+        <item>ไม่เคย</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>ภูมิภาคเริ่มต้น</item>
@@ -128,9 +165,9 @@
         <item>31</item>
     </string-array>
     <string-array name="repeat_choose_end">
-        <item>ไม่ต้อง</item>
+        <item>ครั้งเดียว</item>
         <item>เวลา</item>
-        <item>ตามจำนวนครั้ง</item>
+        <item>จำนวนครั้ง</item>
     </string-array>
     <string-array name="repeat_choose_month">
         <item>มกรา</item>
@@ -168,8 +205,8 @@
         <item>อาทิตย์</item>
     </string-array>
     <string-array name="repeat_countdown">
-        <item>ไม่ต้อง</item>
-        <item>รายเดือน</item>
+        <item>ไม่เคย</item>
+        <item>ทุกเดือน</item>
         <item>ทุกปี</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
@@ -231,7 +268,7 @@
         <item>มอนเตวิเดโอ</item>
         <item>ไมด์-แอตแลนติก</item>
         <item>อะโซร์ส</item>
-        <item>เคปเวิร์ด</item>
+        <item>กาบูเวร์ดี</item>
         <item>กาซาบล็องกา</item>
         <item>ลอนดอน ดับลิน</item>
         <item>อัมสเตอร์ดัม เบอร์ลิน</item>
@@ -278,24 +315,24 @@
         <item>ไทเป</item>
         <item>โซล</item>
         <item>โตเกียว โอซาก้า</item>
-        <item>ยาคุตสค์</item>
+        <item>โซล</item>
         <item>แอดิเลด</item>
         <item>ดาร์วิน</item>
         <item>บริสเบน</item>
-        <item>โฮบาร์ต</item>
+        <item>ดาร์วิน</item>
         <item>ซิดนีย์ แคนเบอร์รา</item>
         <item>วลาดีวอสตอค</item>
         <item>กวม</item>
         <item>มากาดาน</item>
         <item>โอ๊คแลนด์</item>
         <item>ฟิจิ</item>
-        <item>ตองงา</item>
+        <item>ตองกา</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
-        <item>ก่อน 3 ชั่วโมง</item>
-        <item>ก่อน 4 ชั่วโมง</item>
-        <item>ก่อน 5 ชั่วโมง</item>
-        <item>ก่อน 6 ชั่วโมง</item>
+        <item>3 ชั่วโมงก่อน</item>
+        <item>4 ชั่วโมงก่อน</item>
+        <item>5 ชั่วโมงก่อน</item>
+        <item>6 ชั่วโมงก่อน</item>
         <item>ก่อน 1 วัน</item>
     </string-array>
     <string-array name="virgo_info">
@@ -315,12 +352,5 @@
     <string-array name="widget_style_list">
         <item>โปร่งแสง</item>
         <item>พื้นหลังสีขาว</item>
-    </string-array>
-    <string-array name="edit_event_dislike">
-        <item>No event type I want to create</item>
-        <item>More Settings</item>
-        <item>Some Settings cannot be determined</item>
-        <item>Just look around</item>
-        <item>"Don't tell you"</item>
     </string-array>
 </resources>
