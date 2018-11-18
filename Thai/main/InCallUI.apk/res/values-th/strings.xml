@@ -51,14 +51,12 @@
     <string name="onscreen_note_calls_text">บันทึกย่อ</string>
     <string name="call_record_wait_label">กำลังรอ</string>
     <string name="contacts_icon_label">รายชื่อ</string>
-    <string name="conference_call_number">%s คน</string>
     <string name="conference_call_description" formatted="false">%s, %s ฯลฯ รวม %s</string>
     <string name="conference_call_single_description" formatted="false">%s และคนอื่น รวม %s คน</string>
     <string name="separate_from_conference">แยกสาย</string>
     <string name="caller_manage_header">ประชุมทางโทรศัพท์ %s</string>
     <string name="incall_call_type_label_sip">โทรผ่านอินเตอร์เน็ต</string>
     <string name="incoming_call_forwarded_title">โอนสายเรียกเข้า</string>
-    <string name="call_title_redialing_with_times">โทรใหม่ %d ครั้ง</string>
     <string name="card_title_dialing">กำลังต่อสาย</string>
     <string name="card_title_conf_call">ประชุมสาย</string>
     <string name="card_title_video_conf_call">วิดีโอประชุมสาย</string>
@@ -146,7 +144,6 @@
     <string name="call_recording_deny_permission_msg">คุณปฏิเสธสิทธิการบันทึก ไม่สามารถบันทึกได้</string>
     <string name="call_contacts_deny_permission_msg">คุณปฏิเสธสิทธิการอ่านรายชื่อ ไม่สามารถเรียกดูข้อมูลรายชื่อได้</string>
     <string name="conference_call_recorder_title">ประชุมทางโทรศัพท์</string>
-    <string name="antispam_marked_count">รายงานโดย %1$d ผู้ใช้ MIUI</string>
     <string name="antispam_local_marked">ทำเครื่องหมายเฉพาะที่</string>
     <string name="antispam_provider">ระบุโดย %s</string>
     <string name="antispam_notification_title">เลขหมายที่ไม่รู้จัก</string>

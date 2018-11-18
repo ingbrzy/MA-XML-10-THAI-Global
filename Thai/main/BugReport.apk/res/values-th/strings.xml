@@ -57,6 +57,7 @@
     <string name="save_pic_success">บันทึกรูปภาพไปยัง %s</string>
     <string name="save_pic_fail">ไม่สามารถบันทึกรูปภาพได้ ตรวจสอบ SD การ์ดของคุณ</string>
     <string name="pic_not_exist">ไม่พบรูปภาพดังกล่าว</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">เลือกผลิตภัณฑ์</string>
     <string name="michat_skillset_business_type_title">เลือกบริการ</string>
     <string name="michat_close_text">การแชทสิ้นสุดลง</string>
@@ -161,8 +162,8 @@
     <string name="cta_cancel">ยกเลิก</string>
     <string name="cta_confirm">ตกลง</string>
     <string name="submit_dialog_title">ส่งรายงาน</string>
-    <string name="submit_dialog_content">" "<Data> ความคิดเห็นของคุณ พร้อมกับสิ่งที่แนบและบันทึกจะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI โดยอาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว </Data>" "</string>
-    <string name="submit_dialog_content_global">" "<Data> ความคิดเห็นของคุณ พร้อมกับสิ่งที่แนบ (หากมี) และบันทึก (คุณสามารถยกเลิกการเลือกกล่องตัวเลือกสำหรับรายการที่คุณไม่ต้องการอัพโหลดได้) จะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI และไปยังส่วนที่จำกัดใน MIUI Forum สำหรับนักพัฒนา ข้อมูลเกี่ยวกับหัวเรื่องและกิจกรรมในฟอรัมของคุณจะได้รับการรวบรวมเพื่อการวิเคราะห์และการสื่อสารต่อไป บันทึกเหล่านี้อาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว </Data>" "</string>
+    <string name="submit_dialog_content"><Data>ความคิดเห็นของคุณ พร้อมกับสิ่งที่แนบและบันทึกจะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI โดยอาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว</Data></string>
+    <string name="submit_dialog_content_global"><Data>ความคิดเห็นของคุณ พร้อมกับสิ่งที่แนบ (หากมี) และบันทึก (คุณสามารถยกเลิกการเลือกกล่องตัวเลือกสำหรับรายการที่คุณไม่ต้องการอัพโหลดได้) จะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI และไปยังส่วนที่จำกัดใน MIUI Forum สำหรับนักพัฒนา ข้อมูลเกี่ยวกับหัวเรื่องและกิจกรรมในฟอรัมของคุณจะได้รับการรวบรวมเพื่อการวิเคราะห์และการสื่อสารต่อไป บันทึกเหล่านี้อาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว</Data></string>
     <string name="submit_dialog_cancel">ไม่เห็นด้วย</string>
     <string name="submit_dialog_confirm">เห็นด้วย</string>
     <string name="tab_title_preferences">การตั้งค่า</string>
@@ -180,7 +181,7 @@
     <string name="modem_tool_log_finish_title">จับภาพบันทึกโมเด็มแล้ว</string>
     <string name="modem_tool_log_finish_desc">จัดเก็บบันทึกการใช้เป็น %s</string>
     <string name="bugreport_dialog_not_show_again">ไม่ต้องแสดงอีก</string>
-    <string name="bugreport_dialog_submit_content">" "<Data> คุณกำลังบันทึกข้อมูลบันทึกของซอฟต์แวร์บนอุปกรณ์นี้ในตอนนี้ บันทึกเหล่านี้อาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ โปรดอย่าแบ่งปันบันทึกนี้กับคนอื่นหากคุณไม่ต้องการเปิดเผยข้อมูลนี้ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว </Data>" "</string>
+    <string name="bugreport_dialog_submit_content"><Data>คุณกำลังบันทึกข้อมูลบันทึกของซอฟต์แวร์บนอุปกรณ์นี้ในตอนนี้ บันทึกเหล่านี้อาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ โปรดอย่าแบ่งปันบันทึกนี้กับคนอื่นหากคุณไม่ต้องการเปิดเผยข้อมูลนี้ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว</Data></string>
     <string name="bugreport_dump_start_notification_title">กำลังสร้างรายงานข้อบกพร่อง…</string>
     <string name="bugreport_dump_start_notification_summary">ใช้เวลาประมาณสองสามนาที</string>
     <string name="bugreport_dump_complete_notification_title">สร้างรายงานปัญหาแล้ว</string>
@@ -210,7 +211,7 @@
     <string name="feedback_submit_succ_button">เสร็จสิ้น</string>
     <string name="feedback_title">หัวเรื่อง</string>
     <string name="feedback_description">คำอธิบาย</string>
-    <string name="feedback_select_images">แนบรูปภาพ</string>
+    <string name="feedback_select_images">เพิ่มรูปภาพหรือวิดีโอสั้น</string>
     <string name="feedback_delete_images">ลบรูปภาพ</string>
     <string name="feedback_select_upload_log">แนบบันทึกการใช้</string>
     <string name="feedback_select_modem_log">เพิ่มบันทึกโมเด็ม</string>
@@ -324,9 +325,10 @@
     <string name="toast_post_deleted">หัวข้อนี้ไม่มีอยู่ ถูกลบแล้ว หรือแก้ไขแล้ว</string>
     <string name="toast_log_not_exists">บันทึกการใช้ที่จำเป็นถูกลบหรือไม่มีอยู่</string>
     <string name="toast_pic_not_exists">แคชรูปภาพถูกลบแล้ว</string>
-    <string name="toast_screenshot_too_large">ไม่สามารถอัพโหลดไฟล์ที่ขนาดใหญ่กว่า 10MB ได้</string>
-    <string name="toast_log_too_large">ไม่สามารถอัพโหลดได้ ไฟล์ใหญ่เกินไป</string>
+    <string name="toast_screenshot_too_large">ไม่สามารถอัพโหลดรูปภาพหรือวิดีโอที่มีขนาดใหญ่กว่า 10MB</string>
+    <string name="toast_log_too_large">ไม่สามารถอัพโหลด บันทึกนี้ใหญ่เกินไป</string>
     <string name="title_customer_service">ศูนย์บริการลูกค้า</string>
+    <string name="title_first_aid">การช่วยเหลือเบื้องต้น</string>
     <string name="customer_service_apply">ร้องขอศูนย์บริการลูกค้า</string>
     <string name="customer_service_complain">รายงานศูนย์บริการลูกค้า</string>
     <string name="customer_service_station">ตำแหน่งพิกัดบริการ</string>
@@ -355,7 +357,7 @@
     <string name="catch_full_log_notification_content">แตะเพื่อกลับไปยังบันทึก</string>
     <string name="catch_full_log_start_dump_hprof">สร้างบันทึกล้าหลัง</string>
     <string name="catch_full_log_dump_hprof_failed">ไม่สามารถสร้างบันทึกล้าหลังได้</string>
-    <string name="catch_full_log_add_original_photo">เพิ่มรูปถ่าย</string>
+    <string name="catch_full_log_add_original_photo">เพิ่มภาพต้นฉบับหรือวิดีโอสั้น</string>
     <string name="catch_full_log_add_photo_dialog_content">หากปัญหาที่คุณรายงานนั้นเกี่ยวกับคุณภาพจากภาพของกล้อง เพิ่มรูปต้นฉบับ (ไม่ครอบตัด) เพื่อช่วยเราค้นหาปัญหา เพิ่มรูปถ่ายตอนนี้?</string>
     <string name="catch_full_log_submit_directly">ส่ง</string>
     <string name="catch_full_log_add_photo">เพิ่มรูปถ่าย</string>

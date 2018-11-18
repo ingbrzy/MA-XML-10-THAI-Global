@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="activity_not_found">ไม่พบแอปที่จัดการการดำเนินการนี้</string>
     <string name="allow_network_hint">เปิด \"อัปเดตข้อมูลอัตโนมัติ\" หรือตรวจสอบการเชื่อมต่อเครือข่าย</string>
     <string name="already_updated">ล่าสุด</string>

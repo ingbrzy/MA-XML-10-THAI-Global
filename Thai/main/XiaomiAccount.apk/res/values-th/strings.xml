@@ -477,4 +477,14 @@
     <string name="sim_changed_notification_msg">แตะเพื่ออัพเดตการกู้คืนข้อมูลโทรศัพท์ของคุณและรักษาความปลอดภัยให้กับบัญชีของคุณ</string>
     <string name="recycle_phone_notification_title">ความเสี่ยงด้านความปลอดภัยของบัญชี Mi</string>
     <string name="recycle_phone_notification_msg">ดูเหมือนหมายเลขโทรศัพท์ของคุณถูกรีไซเคิล แตะเพื่ออัพเดต</string>
+    <string name="send_diagnosis_log">ส่งบันทึกการวิเคราะห์</string>
+    <string name="for_diagnosis_usage_only">ใช้ข้อมูลนี้เพื่อวิเคราะห์เท่านั้น</string>
+    <string name="collect_diagnosis_log">รวบรวมบันทึกการวิเคราะห์</string>
+    <string name="sending">กำลังส่ง...</string>
+    <string name="diagnosis_log_sent_format">"บันทึกการวิเคราะห์ถูกส่งไปแล้ว 
+ID:%s
+กรุณาส่งรหัสนี้ไปยังช่างเทคนิค"</string>
+    <string name="diagnosis_log_send_failed">ส่งบันทึกวิเคราะห์ไม่สำเร็จ</string>
+    <string name="temporary_not_available">ไม่มีแบบชั่วคราว</string>
+    <string name="ok">ตกลก</string>
 </resources>

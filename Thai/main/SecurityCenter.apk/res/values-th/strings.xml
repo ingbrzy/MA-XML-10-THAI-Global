@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -345,7 +347,7 @@
     <string name="cta_dialog_title">การเชื่อมกับต่ออินเตอร์เน็ต</string>
     <string name="cta_dialog_msg">ระบบความปลอดภัยต้องการการเชื่อมต่ออินเทอร์เน็ตในการปรับปรุง ตลอดจนการเข้าถึงตำแหน่งเพื่อทำงานปกติ</string>
     <string name="cta_settings">อนุญาตให้เชื่อมต่ออินเทอร์เน็ต</string>
-    <string name="gdpr_msg">" "<Data> ในการใช้คุณลักษณะขั้นพื้นฐานของการรักษาความปลอดภัยคุณต้องยอมรับว่า Xiaomi จะรวบรวมประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณรวมทั้งข้อมูลเกี่ยวกับวิธีที่คุณใช้คุณลักษณะของความปลอดภัย (เช่นสถิติการใช้ข้อมูลมือถือข้อมูลเกี่ยวกับมัลแวร์, รวมถึงข้อมูลพื้นฐานเกี่ยวกับอุปกรณ์ของคุณ) และข้อมูลประเภทอื่นๆ ที่ระบุใน &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a>. </Data>"ของเรา "</string>
+    <string name="gdpr_msg"><Data>ในการใช้คุณลักษณะขั้นพื้นฐานของการรักษาความปลอดภัยคุณต้องยอมรับว่า Xiaomi จะรวบรวมประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณรวมทั้งข้อมูลเกี่ยวกับวิธีที่คุณใช้คุณลักษณะของความปลอดภัย (เช่นสถิติการใช้ข้อมูลมือถือข้อมูลเกี่ยวกับมัลแวร์, รวมถึงข้อมูลพื้นฐานเกี่ยวกับอุปกรณ์ของคุณ) และข้อมูลประเภทอื่นๆ ที่ระบุใน &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a>.</Data>ของเรา</string>
     <string name="app_name_na">การใช้ข้อมูล</string>
     <string name="list_empty_text">ไม่มี</string>
     <string name="dialog_title_attention">โปรดทราบ</string>
@@ -357,6 +359,7 @@
     <string name="byteShort">B</string>
     <string name="yuan">CNY</string>
     <string name="percent_text_formatted">%s%%</string>
+    <string name="main_traffic_detail">การใช้ข้อมูล</string>
     <string name="main_toolbar_firewall">จำกัดการใช้ข้อมูล</string>
     <string name="main_toolbar_statistic">สถิติการใช้ข้อมูล</string>
     <string name="main_toolbar_purchase">ซื้อแพ็คเกจเพิ่ม</string>
@@ -406,6 +409,9 @@
     <string name="tc_parse_error">ข้อความ SMS ตรวจสอบล้มเหลว</string>
     <string name="tc_get_cmd_error">ไม่สามารถรับแบบเริ่มต้นได้</string>
     <string name="tc_web_correct_error">ปรับเทียบล้มเหลว</string>
+    <string name="main_daily_card_guide_dialog_title">ตั้งค่าชนิดของแพ็คเกจข้อมูล</string>
+    <string name="main_daily_card_guide_dialog_summary">คุณสามารถเลือกแพ็กเกจ รายวัน รายเดือน และไม่จำกัด ตั้งค่าประเภทแพ็คเกจข้อมูลตอนนี้?</string>
+    <string name="main_daily_card_guide_dialog_ok">ตั้งค่า</string>
     <string name="firewall_activity_lable">จำกัดการใช้ข้อมูลของแอป</string>
     <string name="firewall_applist">แอป</string>
     <string name="firewall_mobile">ข้อมูลมือถือ</string>
@@ -453,8 +459,10 @@
     <string name="background_traffic">พื้นหลัง %s</string>
     <string name="detail_app_button">ข้อมูลแอป</string>
     <string name="managed_user_title">แอปที่ทำงานทั้งหมด</string>
+    <string name="not_limited_brand">ไม่จำกัด</string>
     <string name="pref_about_traffic_title">การตั้งค่าการใช้ข้อมูล</string>
     <string name="pref_traffic_manage_title">การใช้ข้อมูล</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">แพ็คเกจข้อมูล</string>
     <string name="pref_adjust_traffic_data">ตั้งการใช้ข้อมูล</string>
     <string name="pref_category_title_other">การตั้งค่าเพิ่มเติม</string>
@@ -490,12 +498,19 @@
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">อัพเดทล่าสุดไม่น้อยกว่าหนึ่งเดือน</string>
     <string name="left_precent">60%</string>
     <string name="right_precent">100%</string>
+    <string name="pref_category_package_type_title">ประเภทแพ็คเกจข้อมูล</string>
+    <string name="pref_title_traffic_package_type">ประเภทแพ็คเกจข้อมูล</string>
+    <string name="pref_traffic_package_type_summary">รายเดือน/รายวัน/ไม่จำกัด</string>
+    <string name="pref_traffic_daily_package">แพ็คเกจข้อมูลรายวัน</string>
+    <string name="pref_traffic_monthly_package">แพ็คเกจข้อมูลรายเดือน</string>
+    <string name="pref_traffic_unlimited_package">แพ็คเกจข้อมูลไม่จำกัด</string>
+    <string name="pref_traffic_daily_package_brand">ผู้ใช้บริการแพ็คเกจข้อมูลรายวัน</string>
     <string name="pref_avaible_traffic">แพ็คเกจข้อมูล</string>
     <string name="pref_daily_traffic">เพดานข้อมูลช่วงปกติ</string>
     <string name="pref_special_package_setting">แพ็คเกจข้อมูลแบบกำหนดเอง</string>
     <string name="pref_data_usage_not_set">แพ็คเกจข้อมูลที่ไม่รู้จัก</string>
     <string name="pref_operator_not_set">ไม่ได้ตั้งผู้ให้บริการ</string>
-    <string name="pref_special_package_setting_summary">จัดการข้อมูลนอกช่วงปกติ แพ็คเกจเติมเงิน แพ็คเกจข้อมูลรายวัน และการออกแบบข้อมูล</string>
+    <string name="pref_special_package_setting_summary">จัดการข้อมูลนอกช่วงปกติ แพ็คเกจเติมเงิน และการออกแบบข้อมูล</string>
     <string name="pref_warning_values">ระดับแจ้งเตือนการใช้ข้อมูล</string>
     <string name="pref_pkg_begin_date">วันที่รีเซ็ตรอบการใช้</string>
     <string name="pref_more_settings">การตั้งค่าเพิ่มเติม</string>
@@ -508,6 +523,8 @@
     <string name="daily_pkg_traffic">เพดานข้อมูลช่วงปกติ</string>
     <string name="input_aviable_traffic">ตั้งเพดานการใช้ข้อมูล</string>
     <string name="pkg_traffic">ตั้งเพดานการใช้ข้อมูล</string>
+    <string name="dialog_change_package_type_title">เปลี่ยนประเภทแพ็คเกจข้อมูล</string>
+    <string name="dialog_change_package_type_summary">การเปลี่ยนประเภทแพ็คเกจข้อมูลจะรีเซ็ตการตั้งค่าการใช้ข้อมูลทั้งหมด (อาทิ ขอบเขตข้อมูล) เป็นค่าเริ่มต้น เปลี่ยนประเภทแพ็คเกจข้อมูล?</string>
     <string name="free_traffic_settings">การตั้งค่าเพดานการใช้ข้อมูลนอกช่วงปกติ</string>
     <string name="free_time_traffic">เพดานข้อมูลนอกช่วงปกติ</string>
     <string name="power_save_on_time_start_time_summary_na">จาก</string>
@@ -549,6 +566,21 @@
     <string name="traffic_setting_fragment_send_num_tips">ป้อนหมายเลขโทรศัพท์</string>
     <string name="traffic_setting_fragment_sms_content_tips">เขียนข้อความของคุณที่นี่</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">ไม่ต้องแสดงอีก</string>
+    <string name="traffic_setting_fragment_packege_type">การตั้งค่าแพ็คเกจข้อมูล</string>
+    <string name="traffic_setting_fragment_month_title">แพ็คเกจข้อมูลรายเดือน</string>
+    <string name="traffic_setting_fragment_month_summary">ข้อมูลมือถือและโทรฟรีจะถูกอัปเดตรายเดือน</string>
+    <string name="traffic_setting_fragment_daily_title">แพ็คเกจข้อมูลรายวัน</string>
+    <string name="traffic_setting_fragment_daily_summary">ข้อมูลมือถือจะถูกอัปเดตรายวัน</string>
+    <string name="traffic_setting_fragment_not_limited_title">แพ็คเกจข้อมูลไม่จำกัด</string>
+    <string name="traffic_setting_fragment_not_limited_summary">ตัวเลือกข้อมูลมือถือไม่จำกัด</string>
+    <string name="traffic_setting_fragment_next">ถัดไป</string>
+    <string name="daily_card_setting_fragment_daily_card_setting">การตั้งค่าแพ็คเกจข้อมูลรายวัน</string>
+    <string name="daily_card_setting_fragment_daily_card_brand">ผู้ให้บริการ</string>
+    <string name="daily_card_setting_fragment_daily_card_brand_value">เลือกผู้ให้บริการ</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">MIUI จะตั้งขอบเขตข้อมูลและแอปด้วยข้อมูลไม่จำกัดตามผู้ให้บริการที่คุณเลือก หากไม่มีผู้ให้บริบการในรายการ เลือก \"อื่นๆ\" และติดตั้งแพ็คเกจข้อมูลรายวันด้วยตนเอง</string>
+    <string name="daily_card_setting_fragment_daily_package">การจำกัดข้อมูลรายวัน</string>
+    <string name="daily_card_setting_fragment_month_package">แพ็คเกจข้อมูลรายเดือน</string>
+    <string name="daily_card_setting_fragment_package_summary">หากแพ็คเกจข้อมูลรายวันของคุณมีแพ็คเกจข้อมูลรายเดือนอยู่ แผนข้อมูลนี้จะถูกใช้ก่อนแพคเกจรายวัน</string>
     <string name="data_usage_warning_body">แตะเพื่อเรียกดูรายละเอียดการใช้ข้อมูล</string>
     <string name="data_usage_mobile_limit_title">ใช้เกินเพดานข้อมูลที่กำหนดแล้ว</string>
     <string name="data_usage_limit_body">แตะเพื่อเปิดใช้งานข้อมูลมือถือ</string>
@@ -895,20 +927,10 @@
     <string name="status_bar_network_flow_purchase">"   ซื้อเพิ่ม >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   ติดตั้งแผนข้อมูล >"</string>
     <string name="status_bar_network_flow_phone_balance">"   ยอดเงินคงเหลือ:%1$s "</string>
-    <string name="status_bar_network_flow_exceed_content">"ใช้ไปวันนี้: %1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;ใช้เกินไปแล้ว: &lt;font color=%2$s>%3$s&lt;/font>
-        "</string>
-    <string name="status_bar_network_flow_content">"วันนี้: %1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        ; คงเหลือ: %2$s"</string>
-    <string name="status_bar_network_flow_content_not_setting">"วันนี้: %1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        ; เดือนนี้: %2$s"</string>
-    <string name="status_bar_network_flow_content_virtual_card">"%1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        %2$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        "</string>
+    <string name="status_bar_network_flow_exceed_content">ใช้ไปวันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;ใช้เกินไปแล้ว: &lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_content">วันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; คงเหลือ: %2$s</string>
+    <string name="status_bar_network_flow_content_not_setting">วันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; เดือนนี้: %2$s</string>
+    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">ขีดจำกัดข้อมูลแบบครั้งเดียว</string>
     <string name="pref_key_tethering_title">ขีดจำกัดข้อมูลแบบครั้งเดียว</string>
     <string name="tether_limit_value_custom">กำหนดเอง</string>
@@ -942,6 +964,7 @@
     <string name="om_settings_memory_occupy_notify_never">ไม่มี</string>
     <string name="om_lock_app_locked_app">ถูกล็อก</string>
     <string name="om_lock_app_unlocked_app">ปลดล็อกแล้ว</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">จำเป็นต้องเพิ่มความเร็ว</string>
     <string name="om_running_locked_apps">แอปที่ถูกล็อก</string>
     <string name="om_running_system_apps">แอประบบที่กำลังใช้</string>
@@ -991,6 +1014,7 @@
     <string name="usage_type_data_send">ปริมาณข้อมูลขาออก</string>
     <string name="usage_type_no_coverage">ระยะเวลาที่อับสัญญาณ</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">แอนดรอยด์</string>
     <string name="process_mediaserver_label">เซิร์ฟเวอร์สื่อมีเดีย</string>
     <string name="power_screen">หน้าจอ</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1207,12 +1231,17 @@
     <string name="power_center_list_item_auto_brightness">ปรับความสว่างหน้าจอโดยอัตโนมัติ</string>
     <string name="power_center_list_item_deep_save_title">การตั้งค่าขั้นสูง</string>
     <string name="power_center_list_item_battery_status_time">ชม.</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">หยุดการสแกน</string>
     <string name="hide_mode_result_summary_text">ปรับแต่งการตั้งค่าตัวประหยัดแบตเตอรี่ของแต่ละแอป</string>
     <string name="auto_task_result_summary_text">ตั้งค่างานอัตโนมัติสำหรับตัวประหยัดแบตเตอรี่</string>
     <string name="pc_settings_title">รายละเอียดการตั้งค่าแบตเตอรี่</string>
     <string name="pc_main_activity_back">ย้อนกลับ</string>
     <string name="extreme_power_save_mode_card_summary">เปิดใช้งานโหมดขั้นสูงเพื่อประหยัดพลังงานเมื่อแบตเตอรี่ต่ำ</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">ระบบ</string>
     <string name="apps_list_header_title_sms">ตรวจสอบแอปข้อความ</string>
     <string name="apps_list_header_title_sms_access">จำกัดการเข้าถึงรหัสยืนยัน</string>
@@ -1366,11 +1395,13 @@
     <string name="menu_text_optimize_manage">เพิ่มความเร็ว</string>
     <string name="menu_text_networkassistants">การใช้ข้อมูล</string>
     <string name="menu_summary_networkassistants">จัดการแพ็คเกจข้อมูลของคุณ</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">เกินขีดจำกัด</string>
     <string name="menu_summary_networkassistants_3">มีข้อมูลเหลือเพียงพอ</string>
     <string name="menu_summary_networkassistants_4">ใช้ข้อมูลหมดแล้ว</string>
     <string name="menu_text_networkassistants_remain">คงเหลือ %s</string>
     <string name="menu_text_networkassistants_danger">ใช้เกินไป %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1383,12 +1414,14 @@
     <string name="menu_summary_garbage_cleanup">ไม่มีขยะ</string>
     <string name="menu_summary_garbage_cleanup_2">ปริมาณขยะ</string>
     <string name="menu_summary_garbage_cleanup_3">ล้างขยะทันที</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">การใช้แบตเตอรี่</string>
     <string name="menu_summary_power_manager">ตัวประหยัดแบตเตอรี่ช่วยให้โทรศัพท์ของคุณใช้งานได้นานขึ้น</string>
     <string name="menu_summary_power_manager_1">ชาร์จแบตเตอรี่เต็มแล้ว</string>
     <string name="menu_summary_power_manager_2">คงเหลือ %s</string>
     <string name="menu_summary_power_manager_3">เสียบที่ชาร์จ</string>
     <string name="menu_summary_power_manager_4">ชาร์จเต็มในอีก %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">การสแกนครั้งล่าสุดถูกยกเลิก</string>
     <string name="examination_score_100">ไม่พบสิ่งผิดปกติ!</string>
     <string name="examination_score_80_100">ยังปรับแต่งเล็กน้อยให้ดีขึ้นได้อีก</string>
@@ -1764,6 +1797,7 @@
     <string name="card_main_deepclean_wechat_action">ล้าง</string>
     <string name="card_main_sectool_title">เครื่องมือ</string>
     <string name="card_main_monthreport_action">เรียกดู</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ทดสอบเครือข่าย</string>
     <string name="card_main_netcheck_summary">ทดสอบการเชื่อมต่อสำหรับปัญหาเครือข่าย</string>
     <string name="card_main_netcheck_action">ทดสอบ</string>
@@ -2080,14 +2114,14 @@
     <string name="app_manager_clear_cache">ล้างหน่วยความจำแคช</string>
     <string name="app_manager_reset_app_preferences">รีเซ็ตการตั้งค่าแอป</string>
     <string name="app_manager_reset_app_preferences_title">รีเซ็ตการตั้งค่าแอป?</string>
-    <string name="app_manager_reset_app_preferences_desc">"นี่จะเป็นการรีเซ็ตการตั้งค่าแอปทั้งหมด:
+    <string name="app_manager_reset_app_preferences_desc">"สิ่งนี้จะรีเซ็ตการตั้งค่าทั้งหมดสำหรับ:
 
- "<li>แอปที่ถูกปิดใช้</li>"
- "<li>การแจ้งเตือนแอปที่ถูกปิดใช้</li>"
- "<li>แอปเริ่มต้นสำหรับการดำเนินการ</li>"
- "<li>การจำกัดข้อมูลพื้นหลังสำหรับแอป</li>"
+"<li>แอปที่ถูกปิดใช้</li>"
+"<li>การแจ้งเตือนแอปที่ถูกปิดใช้</li>"
+"<li>แอปเริ่มต้น</li>"
+"<li>การจำกัดข้อมูลพื้นหลังของแอป</li>"
 
- ข้อมูลแอปจะไม่สูญหาย"</string>
+คุณจะไม่สูญเสีญข้อมูลแอป"</string>
     <string name="app_manager_reset_app_preferences_button">รีเซ็ตแอป</string>
     <string name="app_manager_disable_text">ปิดใช้งาน</string>
     <string name="app_manager_enable_text">เปิดใช้งาน</string>
@@ -2317,6 +2351,7 @@
     <string name="gb_create_icon_summary">สร้างปุ่มลัดหน้าจอหลัก</string>
     <string name="title_reply">ความคิดเห็น</string>
     <string name="title_like">ถูกใจ</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">ข้อมูลมือถือ</string>
     <string name="game_wid_viewpoint_buttom">พักสักนิด</string>
     <string name="video_repeat">เล่นอีกครั้ง</string>
