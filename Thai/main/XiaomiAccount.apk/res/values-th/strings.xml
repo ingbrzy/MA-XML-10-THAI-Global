@@ -28,9 +28,9 @@
     <string name="passport_reg_success_summary">ระบบได้ผูกโยง %1$s ไว้กับบัญชีของคุณแล้ว คุณสามารถใช้เครื่องนี้เข้าสู่บัญชีหรือตั้งรหัสผ่านใหม่ได้</string>
     <string name="passport_re_register">ลงทะเบียนอีกครั้ง</string>
     <string name="passport_register">สร้างบัญชีผู้ใช้</string>
-    <string name="passport_new_user_register">สร้างบัญชีผู้ใช้</string>
+    <string name="passport_new_user_register">สร้างบัญชี</string>
     <string name="passport_vcode_sms_send_prompt">ส่งรหัสยืนยันไปยัง %s</string>
-    <string name="passport_input_phone_password">กรุณาใส่รหัสผ่านสำหรับหมายเลขโทรศัพท์ %s</string>
+    <string name="passport_input_phone_password">ป้อนรหัสผ่านสำหรับ %s</string>
     <string name="passport_get_verify_code">ขอรับรหัส</string>
     <string name="passport_re_get_verify_code">ขอรับรหัสอีกครั้ง</string>
     <string name="passport_getting_verify_code">กำลังรับ</string>
@@ -178,7 +178,7 @@
     <string name="passport_barcode_add_account_prompt">ในการเชื่อมเข้าสู่บัญชี กรุณาสแกนรหัส QR อีกครั้งเมื่อคุณเข้าสู่ระบบนั้นแล้ว</string>
     <string name="passport_password_phone_login">ลงชื่อเข้าใช้ด้วยบัญชี Mi</string>
     <string name="passport_sms_verification_code_login">เข้าสู่ระบบโดยใช้ข้อความ SMS</string>
-    <string name="passport_sms_verification_code_login_or_register">เข้าสู่ระบบหรือลงทะเบียนโดยใช้ SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">ลงชื่อหรือสร้างบัญชีโดยข้อความ SMS</string>
     <string name="passport_login_other_account">บัญชีอื่น</string>
     <string name="passport_reg_new_account">สร้างบัญชี</string>
     <string name="passport_select_the_login_account">เลือกบัญชีเพื่อลงชื่อเข้าใช้</string>
@@ -478,13 +478,13 @@
     <string name="recycle_phone_notification_title">ความเสี่ยงด้านความปลอดภัยของบัญชี Mi</string>
     <string name="recycle_phone_notification_msg">ดูเหมือนหมายเลขโทรศัพท์ของคุณถูกรีไซเคิล แตะเพื่ออัพเดต</string>
     <string name="send_diagnosis_log">ส่งบันทึกการวิเคราะห์</string>
-    <string name="for_diagnosis_usage_only">ใช้ข้อมูลนี้เพื่อวิเคราะห์เท่านั้น</string>
-    <string name="collect_diagnosis_log">รวบรวมบันทึกการวิเคราะห์</string>
-    <string name="sending">กำลังส่ง...</string>
-    <string name="diagnosis_log_sent_format">"บันทึกการวิเคราะห์ถูกส่งไปแล้ว 
+    <string name="for_diagnosis_usage_only">ใช้แค่สำหรับปัญหาของตำแหน่งพิกัด</string>
+    <string name="collect_diagnosis_log">สร้างบันทึกวินิจฉัย</string>
+    <string name="sending">กำลังส่ง…</string>
+    <string name="diagnosis_log_sent_format">"ส่งบันทึกการใช้สำเร็จแล้ว
 ID:%s
-กรุณาส่งรหัสนี้ไปยังช่างเทคนิค"</string>
-    <string name="diagnosis_log_send_failed">ส่งบันทึกวิเคราะห์ไม่สำเร็จ</string>
-    <string name="temporary_not_available">ไม่มีแบบชั่วคราว</string>
+ส่งรหัสนี้ไปยังที่ปรึกษา"</string>
+    <string name="diagnosis_log_send_failed">ไม่สามารถส่งบันทึกได้</string>
+    <string name="temporary_not_available">ไม่พร้อมใช้งานคุณลักษณะนี้</string>
     <string name="ok">ตกลก</string>
 </resources>

@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">เพิ่มไปยังหน้าแรก</string>
     <string name="activity_not_found">ไม่พบการติดตั้งแอปในเครื่อง</string>
     <string name="add_screen">เพิ่มหน้าจอ</string>
+    <string name="announce_for_app_move_in_folder">ย้ายไปที่ตำแหน่ง %1$d ในโฟลเดอร์</string>
     <string name="announce_for_checked">%1$s เลือกแล้ว</string>
     <string name="announce_for_choose_default_screen">ตั้งค่าหน้าจอ %1$d เป็นหน้าจอหลักเริ่มต้น</string>
     <string name="announce_for_close_default_preview">ปิดการตั้งค่าหน้าจอหลักเริ่มต้นแล้ว</string>
     <string name="announce_for_close_folder">ปิดโฟลเดอร์</string>
     <string name="announce_for_close_launcher_menu">ปิดเมนูแล้ว</string>
+    <string name="announce_for_create_folder_with_app">สร้างโฟลเดอร์ด้วย %1$s</string>
     <string name="announce_for_delete_gadget_and_widget">วิดเจ็ต</string>
     <string name="announce_for_delete_item">%1$s ถูกลบแล้ว</string>
     <string name="announce_for_drag_enter_delete_zone">ลากรายการไปยังการถอนการติดตั้ง</string>
@@ -30,6 +33,7 @@
     <string name="announce_for_open_launcher_menu">เปิดเมนูแล้ว</string>
     <string name="announce_for_show_uninstall_dialog">มีการถอนการติดตั้งกล่องโต้ตอบ ยกเลิกหรือยืนยัน</string>
     <string name="announce_for_unchecked">%1$s ยังไม่เลือก</string>
+    <string name="announce_for_widget_span">กว้าง %1$d, สูง %2$d</string>
     <string name="app_already_exist">มีแอปนี้อยู่ในเครื่องแล้ว</string>
     <string name="app_being_backup_message">ระบบกำลังสำรองข้อมูลแอป</string>
     <string name="app_being_restored_message">กำลังเรียกคืนค่าแอป</string>
@@ -296,6 +300,7 @@
     <string name="share">แชร์</string>
     <string name="show_all">แสดงทั้งหมด</string>
     <string name="show_mem_info_title">แสดงสถานะหน่วยความจำ</string>
+    <string name="show_recents_recommend_title">แสดงคำแนะนำ</string>
     <string name="sort_by_abc">เรียงลำดับตามชื่อ</string>
     <string name="sort_by_frequency">เรียงลำดับตามการใช้งาน</string>
     <string name="sort_by_not_defined">เรียงอัตโนมัติ</string>
@@ -343,9 +348,6 @@
     <string name="widget_gadget_player">เพลง</string>
     <string name="widget_global_search">ค้นหา</string>
     <string name="widget_quick_function">ฟังค์ชั่นทางลัด</string>
-    <string name="announce_for_app_move_in_folder">ย้ายไปที่ตำแหน่ง %1$d ในโฟลเดอร์</string>
-    <string name="announce_for_create_folder_with_app">สร้างโฟลเดอร์ด้วย %1$s</string>
-    <string name="announce_for_widget_span">กว้าง %1$d, สูง %2$d</string>
     <string name="recommend_apps_no_data_toast">ไม่มีคำแนะนำในตอนนี้</string>
     <string name="recommend_refresh">รีเฟรช</string>
     <string name="recommend_xout">ไม่ต้องแสดง</string>

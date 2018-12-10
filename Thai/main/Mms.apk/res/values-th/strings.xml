@@ -82,6 +82,16 @@
     <string name="cloud_state_sync_finished">ซิงค์กับ Mi คลาวด์แล้ว</string>
     <string name="cloud_state_syncing">กำลังซิงค์กับ Mi คลาวด์…</string>
     <string name="cmcc_privacy">นโยบายความเป็นส่วนตัวเครือข่าย China Mobile</string>
+    <string name="complain_input_number">ป้อนหมายเลขโทรศัพท์ของคุณ</string>
+    <string name="complain_jump">ข้าม</string>
+    <string name="complain_message_title">ร้องเรียน</string>
+    <string name="complain_ok">ตกลง</string>
+    <string name="complain_phone_number">หมายเลขโทรศัพท์</string>
+    <string name="complain_reason">เหตุผลที่คุณรายงานข้อความนี้?</string>
+    <string name="complain_success">ขอบคุณสำหรับคำแนะนำ มันช่วยให้เราสามารถส่งข้อความได้ดียิ่งขึ้น!</string>
+    <string name="complain_tips">"เนื้อหาของข้อความล่าสุดที่คุณรายงานจะถูกอัปโหลดไปยังเซิร์ฟเวอร์ของเราพร้อมกับหมายเลขโทรศัพท์ที่คุณระบุ ผู้ให้บริการของเราจะตรวจสอบข้อความที่รายงาน
+"</string>
+    <string name="complain_upload">คำร้องเรียนถูกส่งแล้ว</string>
     <string name="compressing">รูปภาพใหญ่เกินไป กำลังบีบอัดไฟล์…</string>
     <string name="confirm">ตกลง</string>
     <string name="confirm_add_blacklist_dialog_dspt">เพิ่มเลขหมายนี้ไปยังรายการบล็อกของคุณ?</string>
@@ -144,7 +154,6 @@
     <string name="dialog_message_mx">Mi ข้อความ ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้ MIUI อื่น ๆ โดยไม่มีค่าใช้จ่าย แต่มีความจำเป็นต้องมีข้อความ SMS ขาออกเพื่อเปิดใช้งาน Mi ข้อความ ผู้ให้บริการของคุณจะคิดค่าบริการสำหรับข้อความนี้ คุณต้องยอมรับ \"%1$s\" และ \"%2$s\" ก่อนใช้ Mi ข้อความ</string>
     <string name="dialog_message_networking">การรับ-ส่งข้อความต้องใช้สมุดหน้าเหลือเพื่อสามารถจดจำ ID ผู้ส่ง การรับ-ส่งข้อความและสมุดหน้าเหลืองต้องเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณเพื่อให้ทำงานได้ตามปกติ อนุญาตหรือไม่?</string>
     <string name="dialog_message_rcs">การรับ-ส่งข้อความ China Mobile ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้ China Mobile ที่อยู่ในประเทศจีน โดยไม่คิดค่าบริการ คุณต้องยอมรับ \"%1$s\" ก่อนที่จะใช้ การรับ-ส่งข้อความ China Mobile</string>
-    <string name="dialog_message_sms_report">ข้อความสแปมและข้อมูลผู้ส่งจะอับโหลดไปยัง MIUI เมื่อคุณรายงาน ซึ่งจะใช้เพื่อปรับปรุงตัวกรองจดหมายขยะ MIUI เท่านั้น</string>
     <string name="dialog_title_fake_cell_detect_error">การแก้ไข</string>
     <string name="dialog_title_mx_rcs">Mi ข้อความ</string>
     <string name="dialog_title_networking">ข้อตกลงและเงื่อนไข</string>
@@ -179,7 +188,6 @@
     <string name="error_timed_msg">เวลาไม่ถูกต้อง</string>
     <string name="ex_type_mx">ระบบข้อความ Mi</string>
     <string name="ex_type_sms">SMS/MMS</string>
-    <string name="exceed_length_limit">超出最大长度界限</string>
     <string name="exceed_message_size_limitation">ตัวอักษรในข้อความเกินที่กำหนด</string>
     <string name="exceed_message_size_limitation_add_slide">ขนาดของข้อความไม่เพียงพอที่จะเพิ่มสไลด์ได้</string>
     <string name="exceed_message_text_limitation">ความยาวตัวอักษรถึงจำนวนสูงสุดที่ระบบกำหนดแล้ว</string>
@@ -202,6 +210,7 @@
     <string name="file_size">ขนาด:</string>
     <string name="file_title">ชื่อ:</string>
     <string name="file_width_height">ขนาด:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">ข้อความใหม่</string>
     <string name="forward_from">ส่งต่อจาก:</string>
     <string name="forward_message_select_title">ส่งต่อข้อความ</string>
@@ -214,15 +223,15 @@
     <string name="found_wild_messages_title">ซิงค์ข้อความจาก Mi คลาวด์</string>
     <string name="from_label">"จาก: "</string>
     <string name="from_pkg_name">จากแอป:</string>
-    <string name="group_already_kicked_hint">你不在这个群里，无法发送消息</string>
+    <string name="group_already_kicked_hint">ส่งข้อความไม่ได้ คุณไม่ได้เป็นสมาชิกในกลุ่มแชทนี้</string>
     <string name="group_message">ข้อความกลุ่ม</string>
-    <string name="group_message_title">群聊消息</string>
-    <string name="group_not_exist_hint">群已经被解散了，无法发送消息</string>
-    <string name="group_notify_message_title">群通知消息</string>
-    <string name="group_rejoin_failed">群操作失败</string>
+    <string name="group_message_title">กลุ่มแชท</string>
+    <string name="group_not_exist_hint">ส่งข้อความไม่ได้ กลุ่มแชทนี้ถูกลบไปแล้ว</string>
+    <string name="group_notify_message_title">การแจ้งเตือนกลุ่มแชท</string>
+    <string name="group_rejoin_failed">ไม่สามารถเข้าร่วมกลุ่มแชท</string>
     <string name="group_resend_message">ส่งใหม่ (%d)</string>
-    <string name="group_view_settings_disolved">群已经被解散，无法查看群资料</string>
-    <string name="group_view_settings_not_memeber">不在这个群里，无法查看群资料</string>
+    <string name="group_view_settings_disolved">ดูรายการไม่ได้ กลุ่มแชทนี้ถูกลบไปแล้ว</string>
+    <string name="group_view_settings_not_memeber">ดูรายการไม่ได้ คุณไม่ได้เป็นสมาชิกของกลุ่มแชทนี้</string>
     <string name="guild_add_attachments">แตะเพื่อเพิ่มอีโมติคอนและรายการอื่นๆ</string>
     <string name="guild_add_recipients">แตะเพื่อเพิ่มผู้รับจากรายชื่อ</string>
     <string name="guild_msim_switcher">แตะเพื่อสลับซิมการ์ด</string>
@@ -300,7 +309,7 @@
     <string name="mms">MMS</string>
     <string name="move_down">ย้ายลง</string>
     <string name="move_up">ย้ายขึ้น</string>
-    <string name="msg_no_member_selected">请至少选择一个联系人.</string>
+    <string name="msg_no_member_selected">เลือกอย่างน้อย 1 รายชื่อ</string>
     <string name="msg_type_hint_mms">ข้อความมัลติมีเดีย (MMS)</string>
     <string name="msg_type_hint_mms_omit">ข้อความ MMS</string>
     <string name="msg_type_hint_mx">ข้อความ Mi</string>
@@ -434,7 +443,6 @@
     <string name="pref_sms_storage_title">ที่จัดเก็บข้อมูล</string>
     <string name="pref_sms_theme_title">แสดง</string>
     <string name="pref_summary_allow_si_sl_push">อนุญาตให้ข้อความโหลดเนื้อหาจากเว็บไซต์</string>
-    <string name="pref_summary_allow_upload_message_info">ข้อความสแปมและข้อมูลผู้ส่งจะอับโหลดไปยัง MIUI เมื่อคุณรายงาน</string>
     <string name="pref_summary_auto_delete">ลบข้อความเก่าเมื่อถึงขีดจำกัดแล้ว</string>
     <string name="pref_summary_delete_limit">%1$s ข้อความต่อการสนทนา</string>
     <string name="pref_summary_delivery_reports">แสดงสถานะการส่งข้อความที่คุณได้ส่งไป</string>
@@ -451,7 +459,6 @@
     <string name="pref_switch_sdk_setting">เปลี่ยนผู้ให้บริการสมาร์ท SMS</string>
     <string name="pref_system_title">ระบบ</string>
     <string name="pref_title_allow_si_sl_push">อนุญาตให้ใช้การส่งข้อความแบบ WAP push (SI/SL)</string>
-    <string name="pref_title_allow_upload_message_info">อัพโหลดข้อความสแปม</string>
     <string name="pref_title_auto_delete">ลบข้อความเก่า</string>
     <string name="pref_title_card_format">รูปแบบการใช้การ์ดร่วมกัน</string>
     <string name="pref_title_delivery_reports">รายงานการส่ง</string>
@@ -505,19 +512,19 @@
     <string name="rcs_auto_resend_sms">แปลงเป็น SMS</string>
     <string name="rcs_auto_resume">ดำเนินการอัปโหลดที่ขัดจังหวะต่อโดยอัตโนมัติ</string>
     <string name="rcs_auto_resume_only_by_wifi">ดำเนินการอัปโหลดต่อเมื่อเชื่อมต่อกับ Wi-Fi เท่านั้น</string>
-    <string name="rcs_create_new_group">新建群聊</string>
+    <string name="rcs_create_new_group">สร้างกลุ่มแชท</string>
     <string name="rcs_dspt">ส่งและรับข้อความโดยใช้ Wi-Fi หรือ เครือข่าย China Mobile</string>
     <string name="rcs_dspt_unavailable">ไม่สามารถใช้คุณลักษณะนี้ได้ ซิมการ์ดของ China Mobile ไม่เป็นค่าเริ่มต้น</string>
     <string name="rcs_forward_faild">ส่งไม่ได้</string>
     <string name="rcs_forward_successful">ส่งต่อเรียบร้อยแล้ว</string>
-    <string name="rcs_group_notification_invitation">群邀请</string>
+    <string name="rcs_group_notification_invitation">คำเชิญกลุ่มแชท</string>
     <string name="rcs_message">การรับ-ส่งข้อความของ China Mobile</string>
     <string name="rcs_message_disable">ไม่สามารถเรียกดูข้อความนี้ในพื้นที่ทับซ้อน</string>
     <string name="rcs_msg">การรับ-ส่งข้อความของ China Mobile</string>
     <string name="rcs_not_online">ไม่สามารถใช้การรับ-ส่งข้อความของ China Mobile ตรวจสอบการตั้งค่าเครือข่ายและลองอีกครั้ง</string>
     <string name="rcs_offline_hint">การรับ-ส่งข้อความของ China Mobile นั้นออฟไลน์ ไม่สามารถส่งต่อข้อความได้</string>
     <string name="rcs_recipient_type_contact">ส่งต่อรายชื่อ</string>
-    <string name="rcs_recipient_type_group">转发到群</string>
+    <string name="rcs_recipient_type_group">ส่งต่อกลุ่มแชท</string>
     <string name="rcs_recipient_type_pc">ส่งต่อไปยังคอมพิวเตอร์</string>
     <string name="rcs_resend_not_online">ไม่สามารถใช้บริการข้อความของ China Mobile</string>
     <string name="rcs_resend_sim_card_not_insert">ดูเหมือนว่ายังไม่มีการติดตั้งซิมการ์ดของคุณ</string>
@@ -634,6 +641,7 @@
     <string name="send_signature_confirm_dialog_title">ส่งข้อความ</string>
     <string name="send_sms">ส่งข้อความ</string>
     <string name="send_to">ถึง:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">วันที่ส่ง: %1s</string>
     <string name="sent_label">"ส่ง: "</string>
     <string name="service_message_not_found">ข้อความหมดอายุหรือไม่มีข้อความ</string>
@@ -665,7 +673,6 @@
     <string name="sms_full_title">ที่เก็บข้อมูลข้อความเต็ม</string>
     <string name="sms_rejected_body">ข้อความที่ได้รับถูกปฏิเสธ</string>
     <string name="sms_rejected_title">ปฏิเสธข้อความ</string>
-    <string name="sms_report">รายงานข้อความสแปม</string>
     <string name="sms_report_dialog_content">ส่งรายงานไม่ได้ กรุณาลองอีกครั้ง</string>
     <string name="sms_report_dialog_retry">ลองอีกครั้ง</string>
     <string name="sms_report_dialog_title">ลองอีกครั้ง</string>

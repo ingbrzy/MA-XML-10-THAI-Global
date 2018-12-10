@@ -30,6 +30,9 @@
     <string name="other_settings_auto_update_summary">MIUI จะเลือกเวลาที่ดีที่สุดในการติดตั้งการอัปเดต</string>
     <string name="other_settings_ad_enable">การแนะนำเกี่ยวกับโฆษณาส่วนบุคคล</string>
     <string name="other_settings_ad_enable_summary">รับโฆษณาที่ปรับเปลี่ยนในแบบของคุณตามข้อมูลพฤติกรรมของคุณ</string>
+    <string name="other_settings_enhanced_lockscreen">ภาพพื้นหลังรายวัน</string>
+    <string name="other_settings_enhanced_lockscreen_summary">รับรูปภาพและเรื่องราวที่จัดไว้ให้กับหน้าจอล็อกของคุณทุกวัน ตามข้อตกลงและเงื่อนไข</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">ข้อตกลงและเงื่อนไข</string>
     <string name="back">ย้อนกลับ</string>
     <string name="next">ถัดไป</string>
     <string name="skip_underline">ข้ามขั้นตอนนี้</string>
@@ -113,4 +116,5 @@
     <string name="ai_button_single_press_desc">ใช้งาน Mi AI</string>
     <string name="ai_button_double_press">กดสองครั้ง</string>
     <string name="ai_button_double_press_desc">ติดตั้งคุณลักษณะ Mi AI</string>
+    <string name="zone_picker_title">เลือกเขตเวลา</string>
 </resources>

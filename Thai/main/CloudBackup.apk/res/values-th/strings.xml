@@ -46,9 +46,12 @@
     <string name="customization"><u>ปรับแต่ง</u></string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">ชุดเรียกใช้ระบบอื่นๆ</string>
-    <string name="self_device">"โทรศัพท์เครื่องนี้  "</string>
-    <string name="main_space">พื้นที่ปกติ</string>
-    <string name="second_space">พื้นที่ทับซ้อน</string>
+    <string name="self_device_main_space">พื้นที่ปกติของโทรศัพท์นี้</string>
+    <string name="self_device_second_space">พื้นที่ทับซ้อนของโทรศัพท์นี้</string>
+    <string name="other_device_main_space">พื้นที่ปกติ</string>
+    <string name="other_device_second_space">พื้นที่ทับซ้อน</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">กำลังเรียกคืนค่า \"%s\"</string>
     <string name="size_unknown">ขนาดที่ไม่รู้จัก</string>
     <string name="recovering">กำลังเรียกคืนค่า %s</string>
@@ -130,6 +133,8 @@
     <string name="provision_error_connect_msg">ทดสอบเครือข่ายและลองใหม่ การสำรองข้อมูลไม่สามารถใช้ได้เมื่ออุปกรณ์ของคุณออฟไลน์</string>
     <string name="provision_error_connect_title">ไม่สามารถเชื่อมต่อได้</string>
     <string name="loading_user_backup">กำลังโหลดข้อมูลสำรองผู้ใช้…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">ไม่สามารถยืนยันบัญชีได้</string>
     <string name="no_account">ยังไม่ได้ลงชื่อเข้าใช้บัญชี Mi</string>
     <string name="no_backup">ไม่มีการสำรองข้อมูลใน Mi คลาวด์</string>
@@ -137,7 +142,7 @@
     <string name="home_restore_error">ไม่สามารถกู้คืนหน้าจอหลักได้</string>
     <string name="get_device_id_error">ไม่สามารถรับรหัสอุปกรณ์ได้</string>
     <string name="unsupported_home">อัปเดต MIUI เป็นเวอร์ชั่นล่าสุด</string>
-    <string name="error_retry_later">ดำเนินการไม่สำเร็จ รอสักครู่แล้วลองใหม่อีกครั้ง</string>
+    <string name="error_retry_later">ดำเนินการไม่สำเร็จ รอสักครู่แล้วลองใหม่อีกครั้ง…</string>
     <string name="try_continue">แตะเพื่อดำเนินการต่อ</string>
     <string name="download_home_data">กำลังดาวน์โหลดรูปแบบหน้าจอหลัก…</string>
     <string name="restore_home_failed">ไม่สามารถกู้คืนหน้าจอหลักได้</string>
@@ -154,6 +159,9 @@
     <string name="dialog_msg_restore_require_wlan">การเรียกคืนข้อมูลสำรองจำเป็นต้องเชื่อมต่อกับ Wi-Fi</string>
     <string name="dialog_btn_next">ถัดไป</string>
     <string name="dialog_btn_restore_skip">คืนค่าในภายหลัง</string>
+    <string name="dialog_btn_cancel_backup">ยกเลิก </string>
+    <string name="dialog_btn_overwrite_backup">แทนที่</string>
+    <string name="dialog_msg_overwrite_backup">การสำรองข้อมูลภายในเครื่องแตกต่างจากระบบใน Mi Cloud หากคุณดำเนินการต่อ การสำรองข้อมูลปัจจุบันจะแทนที่ไฟล์ก่อนหน้านี้</string>
     <string name="cloud_backup">การสำรองข้อมูล Mi คลาวด์</string>
     <string name="open_backup_switch">สลับสวิตช์สำรอง</string>
     <string name="restore_cloud_backup_to_phone">เรียกคืนรายการจาก Mi คลาวด์</string>
@@ -176,4 +184,6 @@
     <string name="msg_alert_restore_error">ไม่สามารถคืนค่ารายการจาก Mi Cloud ได้ ลองอีกครั้ง</string>
     <string name="btn_restore_retry">ลองใหม่</string>
     <string name="btn_restore_abort">ยกเลิก </string>
+    <string name="backup_stopped_title">ข้อมูลสำรองถูกหยุด</string>
+    <string name="backup_stopped_msg">ข้อมูลสำรองปัจจุบันจะแทนที่ของก่อนหน้านี้ แตะเพื่อดู</string>
 </resources>

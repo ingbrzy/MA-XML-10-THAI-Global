@@ -19,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
     <string name="abc_shareactionprovider_share_with_application">แชร์กับ %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="passport_access_denied">เข้าสู่ระบบไม่ได้</string>
     <string name="passport_account_hint_text">ที่อยู่อีเมล หมายเลขโทรศัพท์ หรือรหัสบัญชี Mi</string>
     <string name="passport_account_identity_title">ยืนยันตัวตนของคุณ</string>

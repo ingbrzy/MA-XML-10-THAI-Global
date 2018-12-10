@@ -205,7 +205,7 @@
     <string name="tap_to_exposure">แตะเพื่อปรับการวัดแสงด้วยตนเอง</string>
     <string name="accessibility_shutter_button">ปุ่มชัตเตอร์</string>
     <string name="accessibility_intent_done_apply">เสร็จสิ้น</string>
-    <string name="accessibility_intent_done_retry">ถ่ายใหม่</string>
+    <string name="accessibility_intent_done_retry">ลองอีกครั้ง</string>
     <string name="accessibility_review_thumbnail">รูปภาพล่าสุด</string>
     <string name="accessibility_camera_picker">สลับระหว่างกล้องหน้าหลัง</string>
     <string name="accessibility_stereo_button">การปรับแต่งโฟกัส</string>
@@ -263,13 +263,12 @@
     <string name="pref_camera_referenceline_title">แสดงตาราง</string>
     <string name="pref_camera_volumekey_function_entry_volume">ระดับเสียง</string>
     <string name="pref_camera_volumekey_function_entry_shutter">ชัตเตอร์</string>
+    <string name="pref_camera_volumekey_function_entry_timer">นับถอยหลังชัตเตอร์</string>
     <string name="pref_camera_volumekey_function_entry_zoom">ซูม</string>
-    <string name="pref_camera_volumekey_function_entry_exposure">การวัดแสง</string>
     <string name="pref_camera_volumekey_function_title">หน้าที่ของปุ่มเพิ่มลดเสียง</string>
     <string name="error_fail_to_start_audio_capture">ไม่สามารถเริ่มการถ่ายภาพด้วยเสียงได้</string>
     <string name="toast_start_audio_capture">กรุณาเปล่งเสียงเพื่อให้กล้องถ่ายภาพ</string>
     <string name="record_back_pressed_hint">แตะอีกครั้งเพื่อหยุดการบันทึก</string>
-    <string name="toast_burst_snap_finished_summary">ถ่ายภาพต่อเนื่องเสร็จสิ้น ทั้งหมด %1$s รูป</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">ถ่ายภาพต่อเนื่องไม่ได้ขณะโหมดถ่ายภาพด้วยเสียงเปิดใช้</string>
     <string name="time_lapse_error">ขนาดวิดีโอที่คุณเลือกใช้ในการถ่ายวิดีโอเคลื่อนไหวเร็วไม่ได้</string>
     <string name="pref_camera_movie_solid_title">ป้องกันภาพสั่นไหว</string>
@@ -432,11 +431,12 @@
     <string name="pref_camera_portrait_mode_entry_off">โหมดถ่ายภาพคนปิดอยู่</string>
     <string name="pref_camera_portrait_mode_entry_on">โหมดถ่ายภาพคนเปิดอยู่</string>
     <string name="portrait_mode_lowlight_hint">ตอนนี้แสงน้อยเกินไป</string>
-    <string name="portrait_mode_too_close_hint">ขยับให้ห่างออกจากวัตถุที่ต้องการถ่าย</string>
-    <string name="portrait_mode_too_far_hint">วางวัตถุไว้ภายในระยะ 2 เมตร</string>
+    <string name="portrait_mode_too_close_hint">ขยับให้ห่างออกจากวัตถุ</string>
+    <string name="portrait_mode_too_far_hint">วางวัตถุในระยะ 2 เมตร</string>
     <string name="portrait_mode_depth_effect_success_hint">หน้าชัดหลังเบลอ</string>
     <string name="portrait_mode_use_hint">"โหมดภาพบุคคลจะทำให้พื้นหลังเบลอ
 และทำให้คนดูเด่นขึ้น"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"โหลดโหมดภาพคน
 ทำให้หน้าชัดหลังเบลอ"</string>
     <string name="pref_camera_square_mode_title">รูปสี่เหลี่ยม</string>
@@ -453,6 +453,7 @@
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">โหมด</string>
     <string name="button_front_camera_title">ถ่ายเซลฟี่</string>
     <string name="button_normal_video_title">บันทึกวิดีโอ</string>
@@ -556,7 +557,7 @@
     <string name="lighting_hint_title">แสงสตูดิโอ</string>
     <string name="lighting_hint_usage">"คุณสามารถใช้เอฟเฟ็กต์​แสงสตูดิโอ​
 ในโหมดพอร์ตเทรต​ได้"</string>
-    <string name="lighting_hint_needed">วางวัตถุของคุณในไฟสว่าง</string>
+    <string name="lighting_hint_needed">วางวัตถุของคุณในที่มีไฟสว่าง</string>
     <string name="lighting_hint_too_far">นำกล้องเข้าใกล้</string>
     <string name="lighting_hint_too_close">เลื่อนกล้องออกไป</string>
     <string name="lighting_pattern_nature">ธรรมชาติ</string>
@@ -571,5 +572,5 @@
     <string name="portrait_bokeh_text">โหมดภาพบุคคล</string>
     <string name="portrait_bokeh_first_tips">"ใช้โหมดภาพบุคคลเพื่อเบลอ
 พื้นหลังในภาพของคุณ"</string>
-    <string name="portrait_bokeh_tips">วางวัตถุไว้ภายในระยะ 1.5 เมตร</string>
+    <string name="portrait_bokeh_tips">วางวัตถุในระยะ 1.5 เมตร</string>
 </resources>

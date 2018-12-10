@@ -105,6 +105,7 @@
     <string name="accessibility_wifi_signal_full">สัญญาณ Wi-Fi เต็ม</string>
     <string name="accessibility_wifi_security_type_none">เครือข่ายแบบเปิด</string>
     <string name="accessibility_wifi_security_type_secured">เครือข่ายที่ปลอดภัย</string>
+    <string name="process_kernel_label">ระบบปฏิบัติการของ Android</string>
     <string name="data_usage_uninstalled_apps">แอปพลิเคชันที่นำออก</string>
     <string name="data_usage_uninstalled_apps_users">แอปพลิเคชันและผู้ใช้ที่นำออก</string>
     <string name="tether_settings_title_usb">ปล่อยสัญญาณผ่าน USB</string>
@@ -433,7 +434,7 @@
     <string name="answer_incoming_call">รับสาย</string>
     <string name="decline_incoming_call">ปฏิเสธ</string>
     <string name="cant_call_due_to_ongoing_call">กำลังโทร %1$s ดังนั้นไม่สามารถโทรออกได้</string>
-    <string name="cant_call_due_to_ongoing_calls">กำลังโทร %1$s ดังนั้นไม่สามารถโทรออกได้</string>
+    <string name="cant_call_due_to_ongoing_calls">โทรไม่ได้ กรุณาวางสาย %1$s ก่อน</string>
     <string name="cant_call_due_to_ongoing_unknown_call">ไม่สามารถโทรออกได้ เนื่องจากมีการโทรในแอปอื่น</string>
     <string name="notification_channel_incoming_call">สายเรียกเข้า</string>
     <string name="notification_channel_missed_call">สายที่ไม่ได้รับ</string>

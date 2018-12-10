@@ -197,6 +197,15 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"กรุณารออีก %d วินาทีและลองใหม่อีกครั้ง "</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">เชื่อมต่ออย่างน้อย %d จุด</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">ป้อนอย่างน้อย %d ตัวเลข</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">ป้อนอย่างน้อย %d ตัวอักษร</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d แอป</item>
     </plurals>

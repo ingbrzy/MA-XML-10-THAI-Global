@@ -185,4 +185,5 @@
     <string name="miui_warning_tip_info">เกิดข้อผิดพลาดใน %1$s ปิดแอปนี้เดี๋ยวนี้หรือไม่?</string>
     <string name="talk_back_water_mark_string1">TalkBack เปิดอยู่</string>
     <string name="talk_back_water_mark_string2">กดค้าง \"ระดับเสียง+\" และ \"ระดับเสียง-\" 3 วินาที เพื่อปิด</string>
+    <string name="start_dump_log">เริ่มบันทึกที่เกี่ยวข้องกับปัญหา</string>
 </resources>

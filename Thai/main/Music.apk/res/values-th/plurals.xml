@@ -6,20 +6,18 @@
     <plurals name="Nassociate_songs">
         <item quantity="other">กำลังค้นหาปกอัลบั้มและเนื้อเพลง (%1$d/%2$d)</item>
     </plurals>
-    <plurals name="Nbackup_songs">
-        <item quantity="other">กำลังสำรองข้อมูลเพลง เหลืออีก%1$dเพลง (%2$.1fMB)</item>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"การสมัครสมาชิกของคุณจะหมดอายุใน%dวัน
+คุณต้องการให้เราช่วยต่ออายุหรือไม่?"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">คุณสามารถดาวน์โหลดเพลงฟรีได้%1$dเพลง จะดาวน์โหลด %2$s ตอนนี้หรือไม่?</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">ปิดเครื่องเล่นในอีก %d นาที</item>
     </plurals>
-    <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">คุณเลือกที่จะไม่หาปกอัลบั้มและเนื้อเพลงสำหรับเพลงในเครื่องโดยอัตโนมัติ ลบข้อมูลสำหรับ %d เพลง?</item>
-    </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">สร้างเมื่อ %1$s |รวมทั้งหมด %2$d เพลง</item>
-    </plurals>
-    <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">%d เพลง ยังไม่ได้สำรองข้อมูลไปยัง Mi คลาวด์ หยุดทันที?</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">เพิ่ม %d เพลงไปยังรายชื่อเพลงแล้ว</item>
@@ -32,12 +30,6 @@
     </plurals>
     <plurals name="Ntracks_similar_count">
         <item quantity="other">มีเพลงที่คล้ายกันอีก %d เพลง</item>
-    </plurals>
-    <plurals name="Nunbackup_audios">
-        <item quantity="other">มี %1$d เพลงที่ไม่สามารถสำรองข้อมูลได้ (%2$.1fMB)\"</item>
-    </plurals>
-    <plurals name="Nupload_song_button">
-        <item quantity="other">สำรองข้อมูล %1$d เพลง (%2$.1fMB)</item>
     </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d ความคิดเห็น</item>
@@ -54,9 +46,6 @@
     </plurals>
     <plurals name="dialog_remove_descript">
         <item quantity="other">ลบ %d เพลง?</item>
-    </plurals>
-    <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">ลบ %d เพลงจาก Mi คลาวด์ ไหม? รายการเหล่านี้จะถูกลบออกจากเพลย์ลิสต์ในเครื่องเช่นกัน</item>
     </plurals>
     <plurals name="download_finished">
         <item quantity="other">ดาวน์โหลดแล้ว &lt;font color=\"red\">%d เพลง&lt;/font></item>
@@ -84,5 +73,11 @@
     </plurals>
     <plurals name="songs_count">
         <item quantity="other">%d เพลง</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">วิดีโอ</item>
+    </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">ดู %1$s</item>
     </plurals>
 </resources>

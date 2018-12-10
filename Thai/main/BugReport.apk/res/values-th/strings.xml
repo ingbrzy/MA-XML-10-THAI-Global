@@ -46,7 +46,6 @@
     <string name="michat_cant_join_artificial">ไม่สามารถเชื่อมเครือข่ายได้เนื่องจากเครือข่ายขัดข้อง</string>
     <string name="michat_lose_artificial">เครือข่ายขัดข้อง คุณออกจากแชทแล้ว</string>
     <string name="michat_transfer_message">กำลังมองหาบุคคลที่ช่วยคุณ…</string>
-    <string name="michat_queue_pos_update">มี %1$d คนอยู่หน้าคุณ รอสักครู่...</string>
     <string name="michat_in_artificial_customer_state">ไม่สามารถดำเนินการนี้ได้ขณะได้รับความช่วยเหลือจากผู้อื่น</string>
     <string name="michat_pull_to_refresh_pull_label">ลากลงเพื่อดูประวัติ</string>
     <string name="michat_pull_to_refresh_release_label">ปล่อยเพื่อดูประวัติ</string>
@@ -57,6 +56,7 @@
     <string name="save_pic_success">บันทึกรูปภาพไปยัง %s</string>
     <string name="save_pic_fail">ไม่สามารถบันทึกรูปภาพได้ ตรวจสอบ SD การ์ดของคุณ</string>
     <string name="pic_not_exist">ไม่พบรูปภาพดังกล่าว</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">เลือกผลิตภัณฑ์</string>
     <string name="michat_skillset_business_type_title">เลือกบริการ</string>
     <string name="michat_close_text">การแชทสิ้นสุดลง</string>
@@ -132,7 +132,6 @@
     <string name="toast_report_sent_failed">ส่งรายงานล้มเหลว</string>
     <string name="toast_report_copied_to_clipboard">คัดลอกรายงานไปยังคลิปบอร์ดแล้ว</string>
     <string name="toast_description_required">จำเป็นต้องอธิบายรายละเอียด</string>
-    <string name="toast_feedbackservice_in_submit">กำลังส่งข้อเสนอแนะก่อนหน้านี้…</string>
     <string name="toast_pending_log_collection">กำลังรวบรวมบันทึกการใช้…</string>
     <string name="toast_feedback_submitted">ข้อเสนอแนะถูกส่งแล้ว</string>
     <string name="toast_feedback_submitting">กำลังส่ง…</string>
@@ -161,7 +160,7 @@
     <string name="cta_cancel">ยกเลิก</string>
     <string name="cta_confirm">ตกลง</string>
     <string name="submit_dialog_title">ส่งรายงาน</string>
-    <string name="submit_dialog_content"><Data>ความคิดเห็นของคุณ พร้อมกับสิ่งที่แนบและบันทึกจะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI โดยอาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว</Data></string>
+    <string name="submit_dialog_content"><Data>คุณต้องยอมรับใน &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a> ของเราเพื่อใช้งานข้อเสนอแนะ ปัญหาที่คุณรายงานพร้อมกับรายการที่คุณแนบ (อาจประกอบด้วยข้อมูลส่วนบุคคลตลอดจนข้อมูลเกี่ยวกับอุปกรณ์และเครือข่ายของคุณ) จะถูกอัปโหลดไปยังเซิร์ฟเวอร์ของ MIUI วิธีนี้จะช่วยให้เราสามารถค้นหาและแก้ไขปัญหาที่คุณรายงานได้</Data></string>
     <string name="submit_dialog_content_global"><Data>ความคิดเห็นของคุณ พร้อมกับสิ่งที่แนบ (หากมี) และบันทึก (คุณสามารถยกเลิกการเลือกกล่องตัวเลือกสำหรับรายการที่คุณไม่ต้องการอัพโหลดได้) จะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI และไปยังส่วนที่จำกัดใน MIUI Forum สำหรับนักพัฒนา ข้อมูลเกี่ยวกับหัวเรื่องและกิจกรรมในฟอรัมของคุณจะได้รับการรวบรวมเพื่อการวิเคราะห์และการสื่อสารต่อไป บันทึกเหล่านี้อาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว</Data></string>
     <string name="submit_dialog_cancel">ไม่เห็นด้วย</string>
     <string name="submit_dialog_confirm">เห็นด้วย</string>
@@ -247,6 +246,7 @@
     <string name="feedback_contact_info_hint">หมายเลขโทรศัพท์/อีเมล</string>
     <string name="toast_loading_app_id">กำลังรับข้อมูล…</string>
     <string name="feedback_status_commit_succ_title">ส่งแล้ว</string>
+    <string name="feedback_status_commit_in_queue_title">กำลังรอ…</string>
     <string name="feedback_status_commit_uploading_title">กำลังส่ง…</string>
     <string name="feedback_status_commit_failed_title">ไม่สามารถส่งรายงานได้</string>
     <string name="feedback_status_processing">กำลังประมวล…</string>
@@ -333,6 +333,7 @@
     <string name="customer_service_station">ตำแหน่งพิกัดบริการ</string>
     <string name="title_catch_full_log">บันทึกการใช้</string>
     <string name="toast_catch_full_log_catching">คุณสามารถสร้างบันทึกได้ครั้งละหนึ่งครั้งเท่านั้น</string>
+    <string name="toast_catch_full_log_open_failed">ไม่สามารถเริ่มบันทึกบันทึกการใช้</string>
     <string name="catch_full_log_item_title_signal">โทรศัพท์ สัญญาณ และเครือข่ายมือถือ</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi และ Mi ดรอป</string>
     <string name="catch_full_log_item_title_gps">บริการตำแหน่งที่อยู่</string>

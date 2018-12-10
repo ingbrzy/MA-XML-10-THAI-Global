@@ -198,4 +198,5 @@
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">ไม่สามารถโทรได้ ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณเชื่อมต่อเครือข่าย 4G และรองรับ VoLTE</string>
     <string name="volume_boost_text">เพิ่มระดับเสียงสำเร็จ</string>
+    <string name="supp_service_notification_call_waiting">หมายเลขที่คุณกำลังโทรไปนั้นไม่ว่าง โปรดรอสักครู่…</string>
 </resources>
