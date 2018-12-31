@@ -178,7 +178,7 @@
     <string name="passport_barcode_add_account_prompt">ในการเชื่อมเข้าสู่บัญชี กรุณาสแกนรหัส QR อีกครั้งเมื่อคุณเข้าสู่ระบบนั้นแล้ว</string>
     <string name="passport_password_phone_login">ลงชื่อเข้าใช้ด้วยบัญชี Mi</string>
     <string name="passport_sms_verification_code_login">เข้าสู่ระบบโดยใช้ข้อความ SMS</string>
-    <string name="passport_sms_verification_code_login_or_register">ลงชื่อหรือสร้างบัญชีโดยข้อความ SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">ลงชื่อเข้าใช้หรือสร้างบัญชีโดยข้อความ SMS</string>
     <string name="passport_login_other_account">บัญชีอื่น</string>
     <string name="passport_reg_new_account">สร้างบัญชี</string>
     <string name="passport_select_the_login_account">เลือกบัญชีเพื่อลงชื่อเข้าใช้</string>

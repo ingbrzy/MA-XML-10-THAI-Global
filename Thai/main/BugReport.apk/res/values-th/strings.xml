@@ -56,6 +56,7 @@
     <string name="save_pic_success">บันทึกรูปภาพไปยัง %s</string>
     <string name="save_pic_fail">ไม่สามารถบันทึกรูปภาพได้ ตรวจสอบ SD การ์ดของคุณ</string>
     <string name="pic_not_exist">ไม่พบรูปภาพดังกล่าว</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">เลือกผลิตภัณฑ์</string>
     <string name="michat_skillset_business_type_title">เลือกบริการ</string>
     <string name="michat_close_text">การแชทสิ้นสุดลง</string>
@@ -215,8 +216,10 @@
     <string name="feedback_select_suggestion">ข้อเสนอแนะ</string>
     <string name="feedback_select_problem">ปัญหา</string>
     <string name="feedback_choose_module">เลือกรายการ</string>
+    <string name="feedback_choose_app_tag">เลือกปัญหา</string>
     <string name="feedback_choose_third_app_name">เลือกชื่อแอป</string>
     <string name="toast_module_required">เลือกรายการ</string>
+    <string name="toast_app_tag_required">เลือกปัญหา</string>
     <string name="feedback_choose_module_hint">จำเป็นต้องระบุ</string>
     <string name="feedback_choose_reproductivity">การทำสำเนา</string>
     <string name="feedback_title_reproductivity">เลือกการทำสำเนา</string>
@@ -327,6 +330,7 @@
     <string name="toast_log_too_large">ไม่สามารถอัพโหลด บันทึกนี้ใหญ่เกินไป</string>
     <string name="title_customer_service">ศูนย์บริการลูกค้า</string>
     <string name="title_first_aid">การช่วยเหลือเบื้องต้น</string>
+    <string name="title_user_guide">คู่มือการใช้</string>
     <string name="customer_service_apply">ร้องขอศูนย์บริการลูกค้า</string>
     <string name="customer_service_complain">รายงานศูนย์บริการลูกค้า</string>
     <string name="customer_service_station">ตำแหน่งพิกัดบริการ</string>
@@ -340,12 +344,11 @@
     <string name="catch_full_log_item_title_sensor">เซ็นเซอร์</string>
     <string name="catch_full_log_item_title_bt">บลูทูธ</string>
     <string name="catch_full_log_item_title_dump_heap">ล้าหลัง</string>
-    <string name="catch_full_log_item_content_need_open">"ชั้นตอน:
- 1. แตะ \"สร้างบันทึก\"
+    <string name="catch_full_log_item_content_title">ขั้นตอน:</string>
+    <string name="catch_full_log_item_content_need_open">"1. แตะ \"สร้างบันทึก\"
 2. กลับไปที่คุณลักษณะที่คุณต้องการรายงานและทำซ้ำ
 3. กลับมาที่หน้านี้และแตะ \"เสร็จสิ้นและอัปโหลด\""</string>
-    <string name="catch_full_log_item_content_catch_direct">"ชั้นตอน:
- 1. กลับไปที่คุณลักษณะที่คุณต้องการรายงานและทำซ้ำ
+    <string name="catch_full_log_item_content_catch_direct">"1. กลับไปที่คุณลักษณะที่คุณต้องการรายงานและทำซ้ำ
 2. กลับมาที่หน้านี้และแตะ \"เสร็จสิ้นและอัปโหลด\""</string>
     <string name="catch_full_log_action_start">สร้างบันทึก</string>
     <string name="catch_full_log_action_complete">เสร็จสิ้นและอัปโหลด</string>

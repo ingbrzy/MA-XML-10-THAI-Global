@@ -341,7 +341,7 @@
         <item>กีโต</item>
     </string-array>
     <string-array name="countries_names_miui">
-        <item>โกตดิวัวร์</item>
+        <item>ไอวอรี่โคสต์</item>
         <item>กานา</item>
         <item>เอธิโอเปีย</item>
         <item>อัลจีเรีย</item>
@@ -673,17 +673,5 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="weather_tips_value">
-        <item>ลดกิจกรรมกลางแจ้ง</item>
-        <item>วันนี้ถนนลื่น</item>
-        <item>มีพายุและฝน โปรดระวัง.</item>
-        <item>วันนี้มีมีหมอกจัด กรุณาขับขี่ด้วยความระมัดระวัง</item>
-        <item>อากาศมีมลพิษ ออกนอกบ้านกรุณาใส้หน้ากากอนามัย</item>
-        <item>พกร่มไปด้วย เมื่อคุณออกจากบ้าน</item>
-        <item>โปรดใช้ความระมัดระวังบนท้องถนน</item>
-        <item>วันนี้ลูกเห็บตก ระวังด้วยนะ</item>
-        <item>มีพายุทราย กรุณาสวมหน้ากากอนามัย</item>
-        <item>ขอให้เป็นวันแห่งความสุข!</item>
     </string-array>
 </resources>

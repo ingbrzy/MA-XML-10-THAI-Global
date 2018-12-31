@@ -170,7 +170,7 @@
     <string name="add_fingerprint_instruction_title">เพิ่มลายนิ้วมือของคุณ</string>
     <string name="add_fingerprint_move_fast">วางนิ้วของคุณบนหน้าจอสักพัก</string>
     <string name="add_fingerprint_name_suggest_text">ชื่อลายนิ้วมือ</string>
-    <string name="add_fingerprint_put_finger_edge_msg">ขยับนิ้วของคุณเล็กน้อยแล้วแตะบนเซ็นเซอร์อีกครั้งเพื่อสแกนลายนิ้วมือของคุณให้ครบทุกส่วน</string>
+    <string name="add_fingerprint_put_finger_edge_msg">ขยับนิ้วของคุณเล็กน้อยและวางไว้บนเซ็นเซอร์อีกครั้งเพื่อเพิ่มทุกส่วนที่แตกต่างกันของลายนิ้วมือของคุณ</string>
     <string name="add_fingerprint_put_finger_msg">วางนิ้วมือของคุณลงบนเซ็นเซอร์ซ้ำอีกครั้งและยกนิ้วออกเมื่อมีการสั่น</string>
     <string name="add_fingerprint_put_finger_title">เพิ่มลายนิ้วมือ</string>
     <string name="add_fingerprint_similar_fingerprint_input_error_msg">ขยับนิ้วของคุณเล็กน้อย</string>
@@ -929,6 +929,7 @@
     <string name="bootloader_summary">แฟรชอุปกรณ์ของคุณผ่าน USB</string>
     <string name="bootloader_tips">หลังจากที่คุณเพิ่มบัญชี Mi อย่าเพิ่งลงชื่อออก ดำเนินการรีเซ็ตค่าโรงงาน หรือล้างข้อมูลระบบแอป หากคุณทำการใดๆข้างต้นให้เพิ่มบัญชีของคุณอีกครั้ง มิเช่นนั้นคุณจะไม่สามารถรูปแบบปลดล็อกอุปกรณ์ของคุณ</string>
     <string name="bootloader_tips_ok">เข้าใจแล้ว</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">เลือกสีของไฟสถานะ</string>
     <string name="breathing_light_color_summary">สีของไฟสถานะเมื่อได้รับการแจ้งเตือนใหม่</string>
     <string name="breathing_light_freq_summary">กระพริบไฟสถานะเมื่อคุณได้รับการแจ้งเตือนใหม่</string>
@@ -1529,6 +1530,7 @@
     <string name="dialog_title_hdmi_color_calibration">การแก้ไขสีที่ตั้งไว้</string>
     <string name="dialog_title_login">เข้าสู่ระบบบัญชีของ Mi</string>
     <string name="dialog_yes">ใช่</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">หมายเหตุ: คุณสามารถใช้แป้นพิมพ์นี้ได้หลังจากรีบูตเครื่องเมื่อคุณปลดล็อกอุปกรณ์เท่านั้น</string>
     <string name="disable_overlays">ปิดใช้งานการวางซ้อน HW</string>
     <string name="disable_overlays_summary">ใช้ GPU เสมอสำหรับแสดงหน้าจอ</string>
@@ -1589,6 +1591,7 @@
     <string name="dndm_auto_button_title">ใช้โหมดห้ามรบกวนเวลานี้ตลอด</string>
     <string name="dndm_auto_setting_group">กำหนดเวลา</string>
     <string name="dndm_auto_time_setting">ตั้งเวลา</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">ถึง</string>
     <string name="dndm_auto_time_turn_off_title">ปิดใช้โหมดห้ามรบกวนโดยอัตโนมัติ</string>
     <string name="dndm_auto_time_turn_on">จาก</string>
@@ -1893,7 +1896,7 @@
     <string name="fingerprint_first_open_screen_password_face_tittle">ใบหน้า (ตั้งรหัสปลดล็อกหน้าจอก่อน)</string>
     <string name="fingerprint_first_open_screen_password_tittle">ลายนิ้วมือ (ตั้งค่ารหัสผ่านหน้าจอล็อกก่อน)</string>
     <string name="fingerprint_for_keyguard_disabled">ลายนิ้วมือถูกปิดใช้งานเนื่องจากการตั้งค่าความปลอดภัย</string>
-    <string name="fingerprint_identify_input_password_msg">ใส่รหัสผ่าน</string>
+    <string name="fingerprint_identify_input_password_msg">ป้อนรหัสผ่าน</string>
     <string name="fingerprint_identify_msg">กำลังอ่านลายนิ้วมือ…</string>
     <string name="fingerprint_identify_try_again_msg">ไม่สามารถอ่านลายนิ้วมือได้ ลองใหม่อีกครั้ง</string>
     <string name="fingerprint_intro_error_max">คุณได้เพิ่มลายนิ้วมือถึงขีดจำกัดสูงสุดแล้ว</string>
@@ -2056,6 +2059,7 @@
     <string name="gadget_picker_title">เลือกแกดเจ็ต</string>
     <string name="gadget_state_off">ปิด</string>
     <string name="gadget_state_on">เปิด</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">กำลังปิด</string>
     <string name="gadget_state_turning_on">กำลังเปิด</string>
     <string name="gadget_sync">ซิงค์</string>
@@ -2100,10 +2104,11 @@
     <string name="gxzw_anim_metal">เมทัล</string>
     <string name="gxzw_anim_pulse">ความถี่</string>
     <string name="gxzw_anim_rhythm">จังหวะ</string>
+    <string name="gxzw_anim_star">แสงดาว</string>
     <string name="gxzw_anim_title">ภาพเคลื่อนไหวลายนิ้วมือ</string>
     <string name="gxzw_dialog_message">เพื่อให้สามารถใช้เซ็นเซอร์ลายนิ้วมือบนหน้าจอได้ตามปกติ อย่าใช้ตัวป้องกันหน้าจอหากคุณคิดว่าจำเป็นต้องมีตัวป้องกันหน้าจอให้เลือกตัวเลือกที่เข้ากันได้ที่ได้รับอนุญาต</string>
     <string name="gxzw_dialog_not_show_again">ไม่ต้องแสดงอีก</string>
-    <string name="gxzw_dialog_ok">เข้าใจแล้ว</string>
+    <string name="gxzw_dialog_ok">รับทราบ</string>
     <string name="gxzw_dialog_title">เกี่ยวกับเซ็นเซอร์ลายนิ้วมือในหน้าจอ</string>
     <string name="handy_mode">โหมดถนัดมือ</string>
     <string name="handy_mode_enable">โหมดถนัดมือ</string>
@@ -2268,7 +2273,7 @@
     <string name="keyboard_shortcuts_helper">เครื่องมือช่วยเหลือแป้นพิมพ์ลัด</string>
     <string name="keyboard_shortcuts_helper_summary">แสดงทางลัดที่มี</string>
     <string name="keyguard_advance_setting_title">การตั้งค่าขั้นสูง</string>
-    <string name="keyguard_notification_status_title">การแจ้งเตือน</string>
+    <string name="keyguard_notification_status_title">เมื่อมีการแจ้งเตือนและหน้าจอดับลง</string>
     <string name="keyguard_security_setting_others">อื่นๆ</string>
     <string name="keyguard_security_setting_privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="keywords_accounts">บัญชี</string>
@@ -2378,6 +2383,7 @@
     <string name="lift_to_wake_title">ยกขึ้นเพื่อเวก</string>
     <string name="line_breaking_summary">เพิ่มประสิทธิภาพการตัดบรรทัดย่อหน้า</string>
     <string name="line_breaking_title">เพิ่มประสิทธิภาพข้อความ</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="list_bg_header_text">หากคุณจำกัดการเชื่อมต่อพื้นหลัง แอปพลิเคชันใหม่จะไม่สามารถเชื่อมต่ออินเทอร์เน็ตในพื้นหลังได้หลังจากติดตั้งแอป อาจไม่สามารถรับข้อความหรือดาวน์โหลดเนื้อหาหลังจากนี้ได้</string>
     <string name="list_empty_text">ว่าง</string>
     <string name="loading_notification_apps">กำลังโหลดแอป...</string>
@@ -2439,7 +2445,7 @@
     <string name="location_network_based">Wi-Fi &amp; ตำแหน่งเครือข่ายมือถือ</string>
     <string name="location_no_recent_apps">ไม่มีแอปใดทำการขอตำแหน่งเมื่อเร็วๆ นี้</string>
     <string name="location_off_summary">ปิด</string>
-    <string name="location_on_summary">เปิด/%1$s</string>
+    <string name="location_on_summary">เปิด / %1$s</string>
     <string name="location_scanning_bluetooth_always_scanning_description">ปรับปรุงตำแหน่งโดยให้แอปและบริการของระบบสามารถตรวจหาอุปกรณ์บลูทูธได้ทุกเมื่อ</string>
     <string name="location_scanning_bluetooth_always_scanning_title">การสแกนหาบลูทูธ</string>
     <string name="location_scanning_screen_title">การสแกน</string>
@@ -2734,6 +2740,7 @@
     <string name="memory_title">ใช้งานได้: %1$s\u0009\u0009ทั้งหมด: %2$s</string>
     <string name="memory_usage">การใช้หน่วยความจำ</string>
     <string name="memory_usage_apps">หน่วยความจำที่แอปใช้</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">ใช้หน่วยความจำเฉลี่ย %1$s ใน 3 ชั่วโมงล่าสุด</string>
     <string name="menu_cancel">ยกเลิก</string>
     <string name="menu_check">ประสบการณ์</string>
@@ -3009,6 +3016,7 @@
     <string name="network_dashboard_title">เครือข่ายและอินเทอร์เน็ต</string>
     <string name="network_detail">รายละเอียดเครือข่าย %s</string>
     <string name="network_error">ข้อผิดพลาดจากเครือข่าย</string>
+    <string name="network_name_input_error">ไม่สามารถบันทึก SSID โปรดลองอีกครั้ง</string>
     <string name="network_operators_settings">ผู้ให้บริการเครือข่าย</string>
     <string name="network_reset_not_available">การรีเซ็ตเครือข่ายไม่พร้อมใช้งานสำหรับผู้ใช้รายนี้</string>
     <string name="network_restrictions">ข้อจำกัดของเครือข่าย</string>
@@ -3041,6 +3049,7 @@
     <string name="nfc_how_it_works_got_it">รับทราบ</string>
     <string name="nfc_how_it_works_title">การชำระเงินที่เครื่องเทอร์มินัล</string>
     <string name="nfc_more_title">เพิ่มเติม...</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">แอปชำระเงินเริ่มต้น</string>
     <string name="nfc_payment_default_not_set">ไม่ได้ตั้งค่า</string>
     <string name="nfc_payment_favor_default">ใช้แอปเริ่มต้นเสมอ</string>
@@ -3253,6 +3262,7 @@
     <string name="overlay_display_devices_title">จำลองจอแสดงผลที่สอง</string>
     <string name="overlay_settings">แสดงทับแอปอื่นๆ</string>
     <string name="owner_info_settings_edit_text_hint">เช่น Android ของสมชาย</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">ไม่มี</string>
     <string name="owner_info_settings_title">ลายเซ็นต์หน้าจอล็อก</string>
     <string name="owner_space">พื้นที่ปกติ</string>
@@ -3576,6 +3586,8 @@
     <string name="private_sms_recording_intro_header">วาดรูปแบบเพื่อปลดล็อก:</string>
     <string name="private_sms_reset_by_account">เข้าระบบบัญชี Mi ของคุณเพื่อรีเซ็ตรหัสผ่าน</string>
     <string name="process_dex2oat_label">การเพิ่มประสิทธิภาพแอป</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">ระบบแอนดรอยด์</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_provider_in_use_description">ตัวให้บริการ %1$s ถูกใช้งานอยู่</string>
     <string name="process_service_in_use_description">บริการ %1$s ถูกใช้งานอยู่</string>
@@ -4189,8 +4201,8 @@
     <string name="secondspace_category">พื้นที่ทับซ้อน</string>
     <string name="secondspace_delete_space_title">ลบพื้นที่ทับซ้อน</string>
     <string name="secspace_fod_finger_tips">ไม่สามารถยืนยันได้ กรุณาลองอีกครั้ง</string>
-    <string name="secspace_fod_finger_title">ยืนยังลายนิ้วมือของคุณ</string>
-    <string name="secspace_fod_use_password">ใส่รหัสผ่าน</string>
+    <string name="secspace_fod_finger_title">ยืนยันลายนิ้วมือของคุณ</string>
+    <string name="secspace_fod_use_password">ป้อนรหัสผ่าน</string>
     <string name="secure_keyguard_business_title">ตั้งการล็อกหน้าจอ</string>
     <string name="secure_lock_encryption_warning">เนื่องจากคุณเปิดบริการความสามารถในการเข้าถึง อุปกรณ์ของคุณจะไม่ใช้ล็อกหน้าจอเพื่อปรับปรุงการเข้ารหัสข้อมูล</string>
     <string name="security_dashboard_summary">ล็อกหน้าจอ ลายนิ้วมือ</string>
@@ -4204,6 +4216,7 @@
     <string name="security_encryption_attention_3">คุณต้องตั้งรหัสผ่านหน้าจอล็อกใหม่</string>
     <string name="security_encryption_attention_4">ให้แน่ใจว่าคุณจำรหัสผ่านหน้าจอล็อกของคุณได้ มิฉะนั้นคุณจะต้องรีเซ็ตและล้างข้อมูลทั้งหมดบนอุปกรณ์โดยสมบูรณ์</string>
     <string name="security_encryption_attention_info">คุณสามารถเข้ารหัสบัญชี, การตั้งค่า, แอปที่ดาวน์โหลดไว้และข้อมูล, สื่อมีเดียและไฟล์อื่นๆในนั้น</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">ข้อสำคัญ</string>
     <string name="security_encryption_close_dialog_info">การเลือกที่จะไม่เข้ารหัสอุปกรณ์โดยใช้รหัสผ่านหน้าจอล็อกอาจทำบริการบางอย่างของ Google ไม่สามารถใช้งานได้</string>
     <string name="security_encryption_close_dialog_title">คืนค่าการป้องกันรหัสผ่านเริ่มต้น</string>
@@ -4303,6 +4316,8 @@
     <string name="services_subtitle">บริการ</string>
     <string name="set_data_limit">ตั้งค่าขีดจำกัดอินเทอร์เน็ต</string>
     <string name="set_data_warning">ตั้งค่าเตือนการใช้อินเทอร์เน็ต</string>
+    <string name="set_jeejen_prompt_message">Jeejen จะถูกตั้งเป็นชุดเรียกใช้ระบบเริ่มต้น คุณสามารถเปลี่ยนตัชุดเรียกใช้ระบบเริ่มต้นได้ใน การตั้งค่า > การตั้งค่าระบบ > หน้าจอหลัก &amp; ล่าสุด > ชุดเรียกใช้ระบบเริ่มต้น</string>
+    <string name="set_jeejen_prompt_title">ยืนยันการแก้ไข</string>
     <string name="setting_privacy_password">ตั้งรหัสผ่านป้องกันความเป็นส่วนตัว</string>
     <string name="settings_ad_loading">กำลังโหลด…</string>
     <string name="settings_ad_loading_unavailable">ไม่สามารถโหลดข้อมูลได้</string>
@@ -4456,6 +4471,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sim_reenter_new">พิมพ์ PIN อีกครั้ง</string>
     <string name="sim_select_card">เลือกซิมการ์ด</string>
     <string name="sim_selection_required_pref">ต้องเลือก</string>
+    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">ซิมการ์ด</string>
     <string name="sim_setup_wizard_title">ซิมการ์ด</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4469,6 +4485,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">ข้ามไปก่อน</string>
     <string name="skip_label">ข้าม</string>
@@ -4498,7 +4515,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sos_privacy_and_content_policy">ข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัว</string>
     <string name="sos_privacy_dialog_button_cancel">ยกเลิก </string>
     <string name="sos_privacy_dialog_button_ok">ยอมรับ</string>
-    <string name="sos_privacy_dialog_message">"อ่านและยอมรับใน %s ของเราก่อนใช้คุณลักษณะนี้ r
+    <string name="sos_privacy_dialog_message">"อ่านและยอมรับใน %s ของเราก่อนใช้คุณลักษณะนี้ 
 คุณลักษณะนี้จำเป็นต้องใช้สิทธิ์การเข้าถึงตำแหน่ง ใช้เครือข่ายมือถือ และอ่านรายชื่อติดต่อของคุณ ยอมรับหรือไม่?"</string>
     <string name="sos_privacy_dialog_title">ข้อตกลงและเงื่อนไข</string>
     <string name="sound_category_call_ringtone_vibrate_title">เสียงเรียกเข้า &amp; เสียงการแจ้งเตือน</string>
@@ -4553,6 +4570,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="status_bar_settings_all_app_display_loading">รอสักครู่…</string>
     <string name="status_bar_settings_app_notification_preferences">การตั้งค่าแอป</string>
     <string name="status_bar_settings_basic_settings">การตั้งค่าพื้นฐาน</string>
+    <string name="status_bar_settings_carrier_sim">"ซิม %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">แก้ไขชื่อเครือข่าย</string>
     <string name="status_bar_settings_custom_wifi_name">แก้ไขชื่อ Wi-Fi</string>
     <string name="status_bar_settings_customer_feedback">ข้อเสนอแนะ</string>
@@ -4798,6 +4816,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sum_carrier_select">เลือกผู้ให้บริการเครือข่าย</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_font_size_v2">ปรับขนาดของตัวอักษระ รูปภาพ และไอคอน</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s ถึง %2$s</string>
     <string name="super_resolution_access_title">แอปที่เข้าถึงได้</string>
     <string name="super_resolution_desc">ทำให้ภาพคมชัดขึ้นด้วยระบบ AI</string>
@@ -5030,8 +5049,9 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="turn_off_keyguard_password_alert_title">ปิดใช้งาน</string>
     <string name="turn_off_keyguard_password_confirm_msg">คุณลักษณะด้านความปลอดภัยบางอย่างจะไม่ทำงานหากไม่มีรหัสผ่านของคุณ</string>
     <string name="turn_off_keyguard_password_wait_dialog">กำลังปิดใช้งานรหัสผ่าน…</string>
+    <string name="turn_off_keyguard_password_with_face_confirm_msg">เมื่อปิดใช้งานรหัสปลดล็อกหน้าจอ ข้อมูลใบหน้าที่บันทึกไว้จะถูกลบออกไปด้วย คุณจะไม่สามารถปลดล็อกเครื่องด้วยใบหน้าของคุณได้</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">คุณจะไม่สามารถปลดล็อคอุปกรณ์ด้วยลายนิ้วมือของคุณหลังจากคุณปิดใช้งานรหัสผ่าน</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">เมื่อปิดใช้งานรหัสปลดล็อกหน้าจอ ลายนิ้วมือที่บันทึกไว้จะถูกลบออกไปด้วย คุณจะไม่สามารถปลดล็อกเครื่องโดยวิธีสแกนนิ้วได้</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">หลังจากที่คุณปิดรหัสปลดล็อกหน้าจอ ลายนิ้วมือและใบหน้าที่บันทึกไว้จะถูกลบออก คุณจะไม่สามารถปลดล็อกอุปกรณ์โดยใช้ลายนิ้วมือหรือใบหน้าได้</string>
     <string name="turn_off_security_lock">ปิดใช้การล็อก</string>
     <string name="turn_on_keyguard_password">เปิดใช้งานรหัสปลดล็อกหน้าจอ</string>
     <string name="turn_on_keyguard_password_alert">กรุณาจำรหัสผ่านของคุณ หากคุณลืม คุณจะไม่สามารถเรียกคืนค่าได้</string>
@@ -5798,9 +5818,11 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">ไม่มี</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -5987,6 +6009,9 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="work_profile_usage_access_warning">การปิดสิทธิ์เข้าถึงการใช้งานของแอปนี้ไม่ได้ทำให้ผู้ดูแลระบบติดตามปริมาณการใช้อินเทอร์เน็ตของแอปในโปรไฟล์งานของคุณไม่ได้</string>
     <string name="work_ringtone_title">เสียงเรียกเข้าโทรศัพท์ของงาน</string>
     <string name="work_sim_title">ซิมที่ทำงาน</string>
+    <string name="work_sound_permission_dialog_button_text_known">รับทราบ</string>
+    <string name="work_sound_permission_dialog_message">คุณไม่สามารถใช้ธีมในโหมดบริษัทร โปรดติดต่อหัวหน้างานของคุณเพื่อรับสิทธิ์</string>
+    <string name="work_sound_permission_dialog_title">ช้อจำกัดโหมดบริษัท</string>
     <string name="work_sound_same_as_personal">เหมือนกับโปรไฟล์ส่วนตัว</string>
     <string name="work_space_delete">ลบพื้นที่ทำงาน</string>
     <string name="work_space_delete_confirm">ลบทันที</string>

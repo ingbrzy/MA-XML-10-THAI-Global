@@ -2,7 +2,7 @@
 <resources>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_firewall_setting">รายการบล็อก</string>
-    <string name="activity_not_found">ไม่พบแอปที่จัดการการดำเนินการได้</string>
+    <string name="activity_not_found">ไม่พบแอปที่จัดการการดำเนินการนี้</string>
     <string name="activity_not_found_uri">ไม่พบแอปที่จัดการการดำเนินการได้</string>
     <string name="addBlackList">บล็อก</string>
     <string name="add_attachment">เพิ่มไฟล์แนบ</string>
@@ -25,6 +25,8 @@
     <string name="adding_recipients">กำลังเพิ่มผู้รับ…</string>
     <string name="alert_dlg_cancel_button">ยกเลิก</string>
     <string name="alert_dlg_ok_button">ตกลง</string>
+    <string name="allow_network_hint">เปิด \"อัปเดตข้อมูลอัตโนมัติ\" หรือตรวจสอบการเชื่อมต่อเครือข่าย</string>
+    <string name="already_updated">ล่าสุด</string>
     <string name="app_label">ข้อความ</string>
     <string name="app_name">อุปกรณ์</string>
     <string name="attach_image">รูปภาพ</string>
@@ -54,6 +56,7 @@
     <string name="bookmark_confirm_delete_message">ลบข้อความที่เลือกออกจากรายการโปรด?</string>
     <string name="bookmark_empty">ไม่มีข้อความในรายการโปรด</string>
     <string name="bookmark_list_title">รายการโปรด</string>
+    <string name="button_close">ปิด</string>
     <string name="button_emoji_creature">อีโมจิสัตว์</string>
     <string name="button_emoji_lifestyle">อีโมจิไลฟ์สไตล์</string>
     <string name="button_emoji_smiley">อีโมจิหน้า</string>
@@ -77,16 +80,22 @@
     <string name="change_duration_activity">เปลี่ยนระยะเวลา</string>
     <string name="check_all">เลือกทั้งหมด</string>
     <string name="class_0_message_activity">ข้อความคลาส 0</string>
+    <string name="click_to_update">แตะเพื่อตรวจสอบอัปเดต</string>
     <string name="close">ปิด</string>
     <string name="cloud_state_disabled">เปิดการซิงค์กับ Mi คลาวด์ เพื่อซิงค์ข้อความ</string>
     <string name="cloud_state_sync_finished">ซิงค์กับ Mi คลาวด์แล้ว</string>
     <string name="cloud_state_syncing">กำลังซิงค์กับ Mi คลาวด์…</string>
+    <string name="cm_privacy_dialog_allow">ตกลง</string>
+    <string name="cm_privacy_dialog_cancel">ยกเลิก </string>
+    <string name="cm_privacy_dialog_spannable_tips">นโยบายความเป็นส่วนตัว</string>
+    <string name="cm_privacy_dialog_tips">บริการข้อความอัจฉริยะให้บริการโดยผู้ให้บริการเครือข่ายของคุณ การส่งข้อความต้องเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณเพื่อให้บริการเหล่านี้ คุณต้องยอมรับ %1s ของผู้ให้บริการก่อนที่คุณจะเริ่มใช้งานการบริการเหล่านี้</string>
+    <string name="cm_privacy_dialog_title">โปรดทราบ</string>
     <string name="cmcc_privacy">นโยบายความเป็นส่วนตัวเครือข่าย China Mobile</string>
     <string name="complain_input_number">ป้อนหมายเลขโทรศัพท์ของคุณ</string>
     <string name="complain_jump">ข้าม</string>
-    <string name="complain_message_title">ร้องเรียน</string>
+    <string name="complain_message_title">รายงาน</string>
     <string name="complain_ok">ตกลง</string>
-    <string name="complain_phone_number">หมายเลขโทรศัพท์</string>
+    <string name="complain_phone_number">หมายเลขโทรศัพท์ (ตัวเลือก)</string>
     <string name="complain_reason">เหตุผลที่คุณรายงานข้อความนี้?</string>
     <string name="complain_success">ขอบคุณสำหรับคำแนะนำ มันช่วยให้เราสามารถส่งข้อความได้ดียิ่งขึ้น!</string>
     <string name="complain_tips">"เนื้อหาของข้อความล่าสุดที่คุณรายงานจะถูกอัปโหลดไปยังเซิร์ฟเวอร์ของเราพร้อมกับหมายเลขโทรศัพท์ที่คุณระบุ ผู้ให้บริการของเราจะตรวจสอบข้อความที่รายงาน
@@ -100,8 +109,8 @@
     <string name="confirm_delete_all_conversations">ลบการสนทนาทั้งหมด?</string>
     <string name="confirm_delete_conversation">ลบการสนทนานี้?</string>
     <string name="confirm_delete_group_message">ลบข้อความกลุ่ม?</string>
-    <string name="confirm_delete_locked_message">ลบข้อความที่ล็อกนี้?</string>
-    <string name="confirm_delete_message">ลบข้อความนี้?</string>
+    <string name="confirm_delete_locked_message">ลบข้อความที่ล็อกนี้？</string>
+    <string name="confirm_delete_message">ลบข้อความนี้？</string>
     <string name="confirm_dialog_locked_title">ลบข้อความที่ล็อก?</string>
     <string name="confirm_dialog_title">ลบ?</string>
     <string name="confirm_dlg__msg">ประกาศ CMCC: จะไม่ได้รับการบริการฟรีของ CMCC และการสนับสนุนหากคุณยกเลิก ยกเลิกหรือไม่?</string>
@@ -136,10 +145,11 @@
     <string name="converting_to_text_message">กำลังแปลงเป็นข้อความตัวอักษร…</string>
     <string name="converting_vcard_failed">ไม่สามารถแปลงรายชื่อได้</string>
     <string name="copy_message_text">คัดลอก</string>
-    <string name="copy_message_text_success">คัดลอกข้อความไว้แล้ว</string>
+    <string name="copy_message_text_success">คัดลอกเรียบร้อยแล้ว</string>
     <string name="copy_to_sdcard">บันทึกสิ่งที่แนบ</string>
     <string name="copy_to_sdcard_fail">ไม่สามารถบันทึกสิ่งที่แนบได้</string>
     <string name="copy_to_sdcard_success">บันทึกสิ่งที่แนบเป็น %s</string>
+    <string name="current_data_version">เวอร์ชั่น Mi ข้อความ</string>
     <string name="delete">ลบ</string>
     <string name="delete_bookmark">ลบออกจากรายการโปรด</string>
     <string name="delete_message">ลบ</string>
@@ -210,6 +220,7 @@
     <string name="file_size">ขนาด:</string>
     <string name="file_title">ชื่อ:</string>
     <string name="file_width_height">ขนาด:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">ข้อความใหม่</string>
     <string name="forward_from">ส่งต่อจาก:</string>
     <string name="forward_message_select_title">ส่งต่อข้อความ</string>
@@ -246,8 +257,9 @@
     <string name="hybrid_pull_to_refresh_refreshing_label">รอสักครู่…</string>
     <string name="hybrid_pull_to_refresh_release_label">ปล่อยเพื่อรีเฟรช…</string>
     <string name="hybrid_service_unavailiable">บริการไม่พร้อมใช้งาน</string>
-    <string name="hybrid_try_again">ลองอีกครั้ง</string>
+    <string name="hybrid_try_again">ลองใหม่</string>
     <string name="i_know">เข้าใจแล้ว</string>
+    <string name="imageview_ad">โฆษณา</string>
     <string name="importing_progress_private_message">กำลังนำเข้า…</string>
     <string name="in_sms">ข้อความ</string>
     <string name="insufficient_drm_rights">ตรวจพบว่ามีสิทธิ์ DRM ไม่เพียงพอ</string>
@@ -271,7 +283,7 @@
     <string name="menu_delete_messages">ลบข้อความ</string>
     <string name="menu_edit">แก้ไข</string>
     <string name="menu_forward">ส่งต่อ</string>
-    <string name="menu_lock">เพิ่มในรายการโปรด</string>
+    <string name="menu_lock">เพิ่มรายการโปรด</string>
     <string name="menu_mark">ทำเครื่องหมาย</string>
     <string name="menu_more">เพิ่มเติม</string>
     <string name="menu_new_contact">สร้างรายชื่อใหม่</string>
@@ -279,7 +291,7 @@
     <string name="menu_pick_from_contact">เลือกจากรายชื่อ</string>
     <string name="menu_preferences">การตั้งค่า</string>
     <string name="menu_send_as_common">ส่งแบบข้อความ SMS</string>
-    <string name="menu_unlock">ลบออกจากรายการโปรด</string>
+    <string name="menu_unlock">ลบจากรายการโปรด</string>
     <string name="menu_view_contact">ดูรายชื่อ</string>
     <string name="message_class_label">"คลาสข้อความ: "</string>
     <string name="message_contact">ผู้ติดต่อ:</string>
@@ -304,8 +316,10 @@
     <string name="message_too_big_for_video">ข้อความใหญ่เกินกว่าที่จะแนบวิดีโอ</string>
     <string name="message_type_label">"ประเภท: "</string>
     <string name="messagelist_sender_self">ฉัน</string>
+    <string name="messaging">กำลังส่งข้อความ</string>
     <string name="millionbyte">MB</string>
     <string name="mms">MMS</string>
+    <string name="more">เพิ่มเติม</string>
     <string name="move_down">ย้ายลง</string>
     <string name="move_up">ย้ายขึ้น</string>
     <string name="msg_no_member_selected">เลือกอย่างน้อย 1 รายชื่อ</string>
@@ -363,6 +377,7 @@
     <string name="mx_filter_message_from_stranger_dialog_desc">คุณจะยังคงได้รับข้อความ SMS จากหมายเลขที่ไม่รู้จักตามปกติ คุณสามารถปิดใช้งานคุณลักษณะนี้ได้ตลอดเวลาจากเมนูการตั้งค่าของแอปข้อความ</string>
     <string name="mx_filter_message_from_stranger_dialog_title">บล็อกข้อความ Mi ที่มาจากเลขหมายที่ไม่รู้จัก</string>
     <string name="mx_filter_message_from_stranger_summary">คุณจะยังได้รับข้อความ SMS จากหมายเลขที่ไม่รู้จักตามปกติ</string>
+    <string name="mx_message">Mi ข้อความ</string>
     <string name="mx_msg">ข้อความ Mi</string>
     <string name="mx_msg_pageview_setting_title">การตั้งค่าข้อความ Mi</string>
     <string name="mx_offline">ออฟไลน์</string>
@@ -374,6 +389,7 @@
     <string name="mx_stranger_recommend_msg">แตะบล็อกข้อความ Mi จากเลขหมายที่ไม่รู้จัก</string>
     <string name="mx_type_guide">ส่งข้อความไปยังผู้ใช้งานระบบ MIUI ด้วยกันโดยไม่เสียค่าส่งข้อความ SMS</string>
     <string name="need_download">กำลังซิงค์…</string>
+    <string name="net_sms_unsubscribe">ยกเลิกการสมัครเรียบร้อยแล้ว</string>
     <string name="network_error_description">เกิดข้อผิดพลาดกับเครือข่าย รอประมาณ1-2 นาทีแล้วลองใหม่อีกครั้ง</string>
     <string name="networking_allow_continue">อนุญาต</string>
     <string name="networking_allow_desc">Mi ข้อความ ต้องการเชื่อมต่ออินเทอร์เน็ตเพื่อทำงานได้ตามปกติ เพื่อให้บริการข้อความและเสียงฟรี จดจำหมายเลขที่ไม่รู้จัก กรองสแปมและเปิดใช้งานคุณลักษณะอื่นๆ Mi ข้อความ ต้องใช้สมุดหน้าเหลือง อนุญาตให้สมุดหน้าเหลืองเชื่อมต่อกับอินเทอร์เน็ต รับข้อมูลตำแหน่งของคุณและอ่านรายชื่อติดต่อของคุณหรือไม่?</string>
@@ -412,6 +428,7 @@
     <string name="open_url_with_web">เปิดลิงก์นี้ด้วยเบราว์เซอร์?</string>
     <string name="over_max_mms_size">ข้อความ MMS มีขนาดเกินกำหนด</string>
     <string name="overwrite_edited_content">เนื้อหาที่คุณแก้ไขจะถูกเขียนทับ</string>
+    <string name="packages_select_sim_cards_title">เลือกซิมการ์ด</string>
     <string name="phrase_confirm_delete_message">การตอบนี้จะถูกลบ</string>
     <string name="phrase_empty">ไม่มีการตอบ</string>
     <string name="phrase_from">จาก %1s</string>
@@ -561,6 +578,9 @@
     <string name="remove_slide">ลบสไลด์ภาพ</string>
     <string name="remove_text">ลบข้อความ</string>
     <string name="remove_video">ลบวิดีโอ</string>
+    <string name="repayment_network_error">มีสิ่งที่ผิดพลาดกับเครือข่ายของคุณ</string>
+    <string name="repayment_title">การชำระหนี้</string>
+    <string name="repayment_way">รูปแบบการชำระคืน</string>
     <string name="replace">แทนที่</string>
     <string name="replace_image">แทนที่รูปภาพ</string>
     <string name="reply_button_msg">ตอบกลับ</string>
@@ -617,8 +637,10 @@
     <string name="security_alert_dialog_title">รายงาน</string>
     <string name="select_audio">เลือกเสียง</string>
     <string name="select_bottom_text">ข้อความด้านล่าง</string>
-    <string name="select_copy_text">เลือกและคัดลอกข้อความ</string>
-    <string name="select_different_media">เลือก %1$s อื่น</string>
+    <string name="select_different_attachment">เลือกไฟล์แนบอื่น</string>
+    <string name="select_different_audio">เลือกไฟล์เสียงอื่น</string>
+    <string name="select_different_picture">เลือกภาพอื่น</string>
+    <string name="select_different_video">เลือกวิดีโออื่น</string>
     <string name="select_link_title">เลือกการดำเนินการ</string>
     <string name="select_local_audio">เลือกเสียง</string>
     <string name="select_local_video">เลือกวิดีโอ</string>
@@ -640,6 +662,7 @@
     <string name="send_signature_confirm_dialog_title">ส่งข้อความ</string>
     <string name="send_sms">ส่งข้อความ</string>
     <string name="send_to">ถึง:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">วันที่ส่ง: %1s</string>
     <string name="sent_label">"ส่ง: "</string>
     <string name="service_message_not_found">ข้อความหมดอายุหรือไม่มีข้อความ</string>
@@ -664,6 +687,8 @@
     <string name="slide_show_part">ตอนที่ %1$d/%2$d</string>
     <string name="slide_up_to_cancel">เลื่อนขึ้นเพื่อยกเลิก</string>
     <string name="slideshow_activity">แสดงสไลด์</string>
+    <string name="smart_messages_network_allow_message">ข้อความ Mi จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตเพื่อให้บริการทำงานได้ตามปกติ อนุญาตตอนนี้?</string>
+    <string name="smart_messages_network_allow_title">การเชื่อมต่ออินเตอร์เน็ตเป็นสิ่งจำเป็น</string>
     <string name="sms_card_partner_label">"พาร์ทเนอร์ข้อความ SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">เนื้อหา:</string>
@@ -709,6 +734,8 @@
     <string name="storage_unavailable">พื้นที่ไม่เพียงพอ</string>
     <string name="subject_hint">เรื่อง</string>
     <string name="subject_label">"เรื่อง: "</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="summary_pref_cm_smart_sms">การ์ดเริ่มต้น บริการหมายเลข SMS และอื่นๆ</string>
     <string name="switch_to_editor">โหมดแก้ไข</string>
     <string name="switch_to_menu">โหมดเมนู</string>
     <string name="text_in_popup_saved_to_clipboard">คัดลอกไปยังคลิปบอร์ด</string>
@@ -718,6 +745,7 @@
     <string name="title_allow_network_access">อัพเดทข้อมูลโดยอัตโนมัติ</string>
     <string name="title_collapse_sp_messages">แจ้งเตือนแบบกลุ่ม</string>
     <string name="title_hide_verification_code">ซ่อนรหัสผ่านแบบครั้งเดียวอัตโนมัติบนหน้าจอล็อก</string>
+    <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
     <string name="title_show_blocked_messages">แสดงข้อความที่ถูกบล็อกไว้</string>
     <string name="title_show_list_avatar">แสดงรูปโปรไฟล์</string>
     <string name="title_show_photo_word">กำหนดรูปผู้ติดต่อ</string>
@@ -752,6 +780,7 @@
     <string name="unsticked_conversation">ปลดหมุดการสนทนาแล้ว</string>
     <string name="unsubscribe">ยกเลิกการสมัคร</string>
     <string name="unsupported_media_format">ระบบไม่รองรับไฟล์รูปแบบ %1$s</string>
+    <string name="updating">กำลังอัปเดต…</string>
     <string name="url_fraud_dangerous_alert">"เว็บไซต์ที่คุณกำลังพยายามเข้าเยี่ยมชมอยู่อาจเป็นอันตราย โดยอาจทำให้อุปกรณ์และข้อมูลของคุณเสียหาย เข้าเยี่ยมชมต่อหรือไม่?
 %s"</string>
     <string name="url_fraud_risky_alert">"เว็บไซต์ %s ที่คุณกำลังพยายามเข้าเยี่ยมชมอยู่อาจเป็นอันตราย เข้าเยี่ยมชมต่อหรือไม่?

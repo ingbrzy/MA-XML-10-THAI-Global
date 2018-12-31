@@ -69,7 +69,7 @@
     <string name="got_it">รับทราบ</string>
     <string name="gps">การนำทาง</string>
     <string name="import_contact">นำเข้ารายชื่อ</string>
-    <string name="impunity_declaration_content">เครื่องสแกนต้องการคำร้องขออนุญาตเพื่อเข้าถึงกล้องและภาพถ่าย ขณะเดียวกันเครื่องสแกนต้องเชื่อมต่อกับอินเตอร์เน็ต คุณจะถือว่าได้อ่านและตกลงถึง %1$sนโยบายความเป็นส่วนตัว%2$s เมื่อคุณกด \"ตกลง\" ข้างล่างนี้</string>
+    <string name="impunity_declaration_content">เครื่องสแกนต้องการคำร้องขออนุญาตเพื่อเข้าถึงกล้องและภาพถ่าย เครื่องสแกนยังต้องต้องเชื่อมต่อกับอินเตอร์เน็ตเพื่อให้ทำงานอย่างปกติ คุณจะถือว่าได้อ่านและตกลงถึง %1$sนโยบายความเป็นส่วนตัว%2$s เมื่อคุณกด \"ตกลง\" ข้างล่างนี้</string>
     <string name="impunity_declaration_negative_text">ออก</string>
     <string name="impunity_declaration_title">นโยบายความเป็นส่วนตัว</string>
     <string name="label_choose_picture">เลือกรูปภาพ</string>
@@ -92,6 +92,7 @@
     <string name="module_title_business_card">นามบัตร</string>
     <string name="module_title_code">รหัส QR</string>
     <string name="module_title_document">เอกสาร</string>
+    <string name="module_title_plant">พืช</string>
     <string name="module_title_shopping">ช้อปปิ้ง</string>
     <string name="module_title_translation">แปล</string>
     <string name="name">ชื่อ:</string>
@@ -106,6 +107,11 @@
     <string name="payment_text">เปิดด้วย %s</string>
     <string name="phone">โทรศัพท์:</string>
     <string name="place_barcode_into_rectangle">ป้อนรหัสลงในกรอบ</string>
+    <string name="plant_fail">ไม่รู้จัก</string>
+    <string name="plant_loading">กำลังตรวจสอบ…</string>
+    <string name="plant_reg_fail_2">ไม่รู้จักวัตถุนี้ ตัวสแกนสามารถระบุได้แค่พืชเท่านั้น</string>
+    <string name="plant_support">" (สนับสนุนด้านเทคนิค)"</string>
+    <string name="plant_title">สแกนพืชที่คุณต้องการทราบ</string>
     <string name="preparing_sd">กำลังเตรียมที่เก็บข้อมูลในเครื่อง…</string>
     <string name="previous">ย้อนกลับ</string>
     <string name="qr_code_details">รายละเอียดรหัส QR:</string>

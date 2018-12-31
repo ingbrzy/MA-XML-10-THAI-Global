@@ -42,6 +42,9 @@
     <plurals name="backup_after_hours">
         <item quantity="other">ดำเนินการสำรองข้อมูลใน %d ชั่งโมง</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d รายการ มีขนาดใหญ่เกินไปที่จะสำรองข้อมูล</item>
+    </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d รูปภาพและวิดีโอ | หยุดชั่วคราว</item>
     </plurals>
@@ -195,13 +198,10 @@
     <plurals name="sync_error_title">
         <item quantity="other">มี %d รูปภาพและวิดีโอยังไม่ได้สำรองข้อมูล</item>
     </plurals>
-    <plurals name="sync_total_count">
-        <item quantity="other">%d รายการ</item>
-    </plurals>
-    <plurals name="backup_file_over_size_title">
-        <item quantity="other">%d รายการ มีขนาดใหญ่เกินไปที่จะสำรองข้อมูล</item>
-    </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d รายการ มีขนาดใหญ่เกินไปที่จะสำรองข้อมูล</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d รายการ</item>
     </plurals>
 </resources>

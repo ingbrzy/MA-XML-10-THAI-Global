@@ -22,9 +22,10 @@
     <string name="calibrate_title">ปรับเทียบเข็มทิศ</string>
     <string name="cancel">ยกเลิก </string>
     <string name="cannot_get_location">--</string>
-    <string name="dialog_body_no_network">ไม่สามารถเชื่อมต่อกับเครือข่าย</string>
+    <string name="compass_settings">การตั้งค่า</string>
+    <string name="dialog_body_no_network">เชื่อมต่อกับ Wi-fi หรือเปิดข้อมูลมือถือ</string>
     <string name="dialog_calibrat_altitude">กำลังปรับเทียบ…</string>
-    <string name="dialog_title_no_network">เปิดใช้เครือข่าย</string>
+    <string name="dialog_title_no_network">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="direction_east">ตะวันออก</string>
     <string name="direction_north">เหนือ</string>
     <string name="direction_north_east">ออก/เหนือ</string>
@@ -38,7 +39,7 @@
     <string name="error_camera_unavailable_title">กล้องไม่พร้อมใช้งาน</string>
     <string name="first_using_dialog_message">ในการใช้งานแอปเข็มทิศจำเป็นต้องเชื่อมต่อกับเครือข่ายและกล้องถ่ายรูป พร้อมทั้งใช้การระบุตำแหน่งพิกัดของเครื่อง</string>
     <string name="first_using_dialog_title">การอนุญาตของแอป</string>
-    <string name="guide_toast">กรุณาควงโทรศัพท์ตามทิศทางในรูปเพื่อปรับเทียบเข็มทิศในระบบให้แม่นยำ</string>
+    <string name="guide_toast">กรุณาขยับอุปกรณ์ตามรูปเพื่อปรับเทียบ</string>
     <string name="latitude">ละติจูด</string>
     <string name="location_east">ลองติจูดตะวันออก</string>
     <string name="location_enable">อนุญาต</string>

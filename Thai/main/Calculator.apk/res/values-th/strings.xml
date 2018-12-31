@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="allow">ยอมรับ</string>
     <string name="app_name">เครื่องคิดเลข</string>
     <string name="app_name_danfa">เครื่องคิดเลข Mi</string>
     <string name="base_rate">อัตราดอกเบี้ยพื้นฐาน</string>
@@ -41,6 +42,12 @@
     <string name="description_content">นอกเหนือจากคุณสมบัติพื้นฐานของเครื่องคิดเลขแล้ว ยังเป็นตัวแปลงมัลติฟังก์ชั่นต่างๆ การจำนองและเครื่องคิดเลขภาษี ตรวจสอบให้แน่ใจว่าคุณรับรู้และเข้าใจคุณสมบัติเหล่านี้ก่อนที่คุณจะถอนการติดตั้งแอป</string>
     <string name="description_title">เกี่ยวกับเครื่องคิดเลข</string>
     <string name="devided_by_zero_reminder_message">ไม่สามารถหารด้วยศูนย์</string>
+    <string name="dialog_privacy_content">นอกจากคุณลักษณะพื้นฐานของเครื่องคิดเลข แอปของเรายังประกอบด้วยเครื่องคิดเลขวิทยาศาตร์และตัวแปลงอเนกประสงค์ คุณลักษณะบางอย่างต้องเชื่อมต่อกับอินเตอร์เนตเพื่อใช้งานอย่างปกติ คุณจำเป็นต้องอ่านและยอมรับ %1$s และ %2$s ของเราก่อนใช้เครื่องคิดเลข</string>
+    <string name="dialog_privacy_title">ข้อตกลงและเงื่อนไข</string>
+    <string name="dialog_rating_desc_ask">How do you feel about Calculator?</string>
+    <string name="dialog_rating_desc_less">Could you give us your feedback as well?</string>
+    <string name="dialog_rating_desc_perfect">Nice! Rate Calculator in App Store as well?</string>
+    <string name="dialog_rating_title">Rate our app</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -58,6 +65,7 @@
     <string name="equalDesc">เท่ากับ</string>
     <string name="error">ผิดพลาด</string>
     <string name="error_fomrat">รูปแบบไม่ถูกต้อง</string>
+    <string name="exit">ออก</string>
     <string name="factorialDesc">แฟกทอเรียล</string>
     <string name="fund" />
     <string name="fund_loan">กองทุนเงินกู้</string>
@@ -103,6 +111,11 @@
     <string name="lgDesc">ลอการิทึม</string>
     <string name="ln">ln</string>
     <string name="lnDesc">ลอการิทึมธรรมชาติ</string>
+    <string name="loading_fail_message_no_network">เชื่อมต่อเครือข่ายไม่ได้ แตะที่นี่เพื่อลองอีกครั้ง</string>
+    <string name="loading_fail_refresh">รีเฟรช</string>
+    <string name="loading_message">กำลังโหลดแอป …</string>
+    <string name="loading_slogan">ใช้แอปโดยไม่ต้องติดตั้ง</string>
+    <string name="loading_tips">ดาวน์โหลดการตั้งค่าเรียบร้อยแล้ว เปิดใช้เครื่องคิดเลขอีกครั้งเพื่อนำไปใช้</string>
     <string name="loan_edittext_hint_commercial">ป้อนจำนวนเงิน</string>
     <string name="loan_edittext_hint_commercial_combined">พาณิชย์ (×หมื่น)</string>
     <string name="loan_edittext_hint_fund">ป้อนจำนวนเงิน</string>
@@ -157,6 +170,7 @@
     <string name="network_confirm_content">เครื่องคิดเลข การแปลงสกุลเงิน ภาษี และจำนอง ต้องเชื่อมต่อกับอินเทอร์เน็ตและเข้าถึงบริการตำแหน่งเพื่อให้ทำงานได้ตามปกติ</string>
     <string name="network_confirm_title">สิทธิ์ที่จำเป็น</string>
     <string name="not_supported_due_to_language">คุณลักษณะนี้พร้อมใช้งานในภาษาจีนเท่านั้น</string>
+    <string name="ok">OK</string>
     <string name="percent" />
     <string name="percentDesc">เปอร์เซ็นต์</string>
     <string name="piDesc">พาย</string>
@@ -175,11 +189,14 @@
     <string name="preference_follow_web_title">เว็บไซต์ทางการ</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_help">Help &amp; feedback</string>
     <string name="preference_other">อื่นๆ</string>
     <string name="preference_privacy_title">นโยบายความเป็นส่วนตัว</string>
+    <string name="preference_rating_title">Rate our app</string>
     <string name="preference_settings">การตั้งค่า</string>
     <string name="preference_use_degress_summary">เรเดียนทดแทนที่มีมุมในฟังก์ชันตรีโกณมิติ</string>
     <string name="preference_use_degress_title">ใช้มุม</string>
+    <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="radDesc">เรเดียน</string>
     <string name="rate_data_provider">ข้อมูลอัตราดอกเบี้ยให้บริการโดย hexun.com</string>
     <string name="reciprocalDesc">ซึ่งกันและกัน</string>
@@ -237,6 +254,7 @@
     <string name="tax_location">ตำแหน่งพิกัด</string>
     <string name="tax_medical">การรักษาพยาบาล</string>
     <string name="tax_param_error">ป้อนอัตราเบี้ยประกันที่ถูกต้อง</string>
+    <string name="tax_rate_provider">ข้อมูลจาก hexun.com และ East Money</string>
     <string name="tax_result_real_get">หลังหักภาษี</string>
     <string name="tax_social_insurance">ประกันสังคม</string>
     <string name="tax_thershold_foreign">%s (ต่างประเทศ)</string>
@@ -250,6 +268,7 @@
     <string name="tax_unemployment">ว่างงาน</string>
     <string name="tax_update_time_format">ข้อมูลโดย HeXun (%s)</string>
     <string name="times" />
+    <string name="unKnow_error">พบข้อผิดพลาดไม่ทราบสาเหตุ</string>
     <string name="unit_data_display_area_acre">เอเคอร์</string>
     <string name="unit_data_display_area_are">อาร์</string>
     <string name="unit_data_display_area_ha">เฮกตาร์</string>
@@ -529,6 +548,7 @@
     <string name="unit_year">ปี</string>
     <string name="unit_year_format">ปี %s</string>
     <string name="unit_yuan">CNY</string>
+    <string name="user_agreement">ข้อตกลงการใช้งาน</string>
     <string name="voiceDesc">เสียงควบคุม</string>
     <string name="wf_word_figure">จำนวนเงินแบบตัวหนังสือ</string>
     <string name="word_figure_big_unit_fen">分</string>
@@ -552,8 +572,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_connect_download_manager_fail">การเชื่อมต่อตัวจัดการล้มเหลว กรุญาตรวจสอบตัวจัดการดาวน์โหลดที่อยู่ใน แอปพลิเคชั่นตัวจัดการ</string>
-    <string name="xiaomi_external_storage_unavailable">พื้นที่เก็บข้อมูลไม่พร้อมใช้งาน กรุณาตรวจสอบการ์ด SD</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_connect_download_manager_fail">ไม่สามารถเชื่อมต่อเพื่อดาวน์โหลด ตรวจสอบว่าแอปนี้มีสิทธิ์ที่จำเป็นทั้งหมดในการตั้งค่า > แอปที่ติดตั้งแล้ว</string>
+    <string name="xiaomi_external_storage_unavailable">ที่เก็บข้อมูลไม่เพียงพอ ตรวจสอบการ SD การ์ด</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"แนะนำเวอร์ชั่น %1$s
  ขนาด: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"แนะนำเวอร์ชั่น %1$s

@@ -7,7 +7,7 @@
         <item quantity="other">ใน %1$d วัน %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d วันก่อน %2$s</item>
+        <item quantity="other">%1$d วันก่อน เมื่อ %2$s</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">ก่อน %d ชั่วโมง</item>

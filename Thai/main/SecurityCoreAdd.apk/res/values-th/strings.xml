@@ -341,7 +341,7 @@
     <string name="gpg_message">การสร้างแอปโคลนสำหรับเกมต้องใช้ Google Play Games สร้างแอปโคลนสำหรับ Google Play Games หรือไม่?</string>
     <string name="gpg_title">แอปโคลนสำหรับเกมส์ Google Play</string>
     <string name="gms_message">การสร้างแอปโคลนจำเป็นต้องทำงานกับบริการต่างๆของ Google สร้างโคลนสำหรับบริการของ Google หรือไม่?</string>
-    <string name="gms_title">เปิดใช้งานบริการ Google</string>
+    <string name="gms_title">แอปโคลนสำหรับบริการ Google</string>
     <string name="gms_open_button">เปิดใช้งาน</string>
     <string name="create_second_space">สร้างเรียบร้อยแล้ว</string>
     <string name="set_space_password">ตั้งรหัสผ่าน</string>
@@ -440,7 +440,7 @@
     <string name="greenguard_parent_des_title">ฉันต้องช่วยเหลือเพื่อนและครอบครัว</string>
     <string name="greenguard_parent_des">ดาวน์โหลดแอปของเราและเพิ่มอุปกรณ์ของคนอื่น</string>
     <string name="cta_declaration_title">ข้อตกลงและเงื่อนไข</string>
-    <string name="cta_declaration_message_format" formatted="false">คุณต้องอ่านและยอมรับ &lt;font color=%s>&lt;a href=%s> %s &lt;/a>&lt;/font> ก่อนที่จะใช้โหมดบริษัท อุปกรณ์ของคุณต้องเชื่อมต่อกับอินเทอร์เน็ตเพื่อเปิดใช้งานโหมดบริษัท ยอมรับหรือไม่?</string>
+    <string name="cta_declaration_message_format" formatted="false">คุณต้องอ่านและยอมรับ &lt;&lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> ก่อนที่จะใช้โหมดบริษัท อุปกรณ์ของคุณต้องเชื่อมต่อกับอินเทอร์เน็ตเพื่อเปิดใช้งานโหมดบริษัท ยอมรับหรือไม่?</string>
     <string name="cta_declaration_agree_and_continue">ยอมรับ</string>
     <string name="undo_activated_dialog_message">การเพิกถอนสิทธิ์จะยกเลิกการใช้งานโหมดบริษัท และทำการรีเซ็ตข้อมูลเป็นค่าเริ่มต้นในอุปกรณ์ของคุณ คุณลักษณะที่เกี่ยวข้องทั้งหมดจะไม่สามารถใช้งานได้อีกต่อไป นอกจากนี้ Xiaomi จะหยุดรวบรวมข้อมูลที่จำเป็นสำหรับโหมดบริษัท (IMEI ID อุปกรณ์ รุ่นของระบบ พื้นที่ฯลฯ) เราต้องการแจ้งให้คุณทราบว่า Xiaomi ไม่ได้จัดการข้อมูลที่เก็บรวบรวมไว้สำหรับโหมดบริษัท เราจะพยายามอย่างเต็มที่เพื่อแจ้งให้ทุกฝ่ายที่เกี่ยวข้องทราบ แต่ขอแนะนำให้คุณติดต่อผู้ดูแลของบริษัท เพื่อขออนุมัติการเพิกถอนนี้ ยกเลิกการให้สิทธิ์และทำการคืนค่าข้อมูลโรงงานหรือไม่?</string>
     <string name="undo_activated_dialog_ok">ถอน</string>
@@ -457,4 +457,8 @@
     <string name="dialog_undo_negative">ไม่เพิกถอน</string>
     <string name="dialog_title_service_error">พบข้อผิดพลาดจากเซิร์ฟเวอร์</string>
     <string name="dialog_message_service_error">ไม่สามารถถอนสิทธิ์และทำการคืนค่าข้อมูลโรงงาน โปรดลองใหม่</string>
+    <string name="dialog_verify">ยืนยันลายนิ้วมือของคุณ</string>
+    <string name="dialog_verify_fingerprint_retry">ไม่สามารถยืนยันลายนิ้วมือได้ ลองใหม่อีกครั้ง</string>
+    <string name="button_touch">วางนิ้วมือของคุณลงบนเซ็นเซอร์</string>
+    <string name="button_input_password">ป้อนรหัสผ่าน</string>
 </resources>

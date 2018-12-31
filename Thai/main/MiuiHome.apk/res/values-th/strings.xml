@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">เพิ่มไปยังหน้าแรก</string>
     <string name="activity_not_found">ไม่พบการติดตั้งแอปในเครื่อง</string>
     <string name="add_screen">เพิ่มหน้าจอ</string>
@@ -152,6 +153,7 @@
     <string name="gadget_clock_24_label">นาฬิกา 4x2</string>
     <string name="gadget_clock_34_label">นาฬิกา 4x3</string>
     <string name="gadget_clock_label">นาฬิกา</string>
+    <string name="gadget_dual_clock_label">นาฬิกาคู่</string>
     <string name="gadget_error_text">ไม่สามารถโหลดวิดเจ็ตได้</string>
     <string name="gadget_google_search_label">ค้นหาด้วย Google</string>
     <string name="gadget_load_error">กำลังโหลด…</string>
@@ -277,11 +279,14 @@
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">ว่าง</string>
     <string name="recommend_apps_no_data">ไม่มีข้อมูล</string>
+    <string name="recommend_apps_no_data_toast">ไม่มีคำแนะนำในตอนนี้</string>
     <string name="recommend_apps_notice">แอปที่แนะนำ</string>
     <string name="recommend_apps_notice_nodata">แอปที่แนะนำ (ไม่มีข้อมูล)</string>
     <string name="recommend_apps_switch_title">แอปที่แนะนำ</string>
     <string name="recommend_apps_tips">คุณลักษณะนี้จำเป็นต้องเชื่อมต่อกับอินเตอร์เน็ตเพื่อการใช้งานที่ปกติ โดยสามารถแตะที่ชื่อของโฟลเดอร์เพื่อปิดใช้งาน</string>
     <string name="recommend_loading">กำลังโหลด</string>
+    <string name="recommend_refresh">รีเฟรช</string>
+    <string name="recommend_xout">ไม่ต้องแสดง</string>
     <string name="reset_description_first_time">คุณสามารถคืนค่ารูปแบบจาก %1$s ภายใน 2 ชั่วโมง</string>
     <string name="reset_description_others">คุณสามารถคืนค่ารูปแบบจาก %1$s</string>
     <string name="reset_fail">ไม่สามารถกู้คืนไฟล์ได้</string>
@@ -347,7 +352,4 @@
     <string name="widget_gadget_player">เพลง</string>
     <string name="widget_global_search">ค้นหา</string>
     <string name="widget_quick_function">ฟังค์ชั่นทางลัด</string>
-    <string name="recommend_apps_no_data_toast">ไม่มีคำแนะนำในตอนนี้</string>
-    <string name="recommend_refresh">รีเฟรช</string>
-    <string name="recommend_xout">ไม่ต้องแสดง</string>
 </resources>

@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">เมื่อใดก็ตามที่ MIUI ตรวจพบว่าคุณกำลังนอนหลับอยู่จะปิดแอปพื้นหลัง จำกัด บลูทูธ GPS ข้อมูลมือถือและการใช้ Wi-Fi และจะไม่เปิดหน้าจอสำหรับการแจ้งเตือน</string>
     <string name="nonui_mode_config_title">โหมดไม่เป็นแบบโต้ตอบ</string>
     <string name="nonui_mode_config_description">ห้ามเปิดหน้าจอสำหรับการแจ้งเตือน, ปิดไฟ LED, เซ็นเซอร์ลายนิ้วมือและระบบควบคุมแบบสัมผัสเพื่อประหยัดแบตเตอรี่เมื่อ MIUI ตรวจพบว่าคุณไม่ได้ใช้อุปกรณ์</string>
-    <string name="power_center">แบตเตอรี่</string>
+    <string name="power_center">การใช้แบตเตอรี่</string>
     <string name="power_usage">การใช้พลังงาน</string>
     <string name="power_mode">การตั้งค่าพลังงาน</string>
     <string name="performance_category">โหมดประสิทธิภาพสูง</string>
@@ -98,4 +98,13 @@
     <string name="atrace_start">กำลังบันทึกการใช้ atrace…</string>
     <string name="atrace_saving">กำลังเซฟบันทึก atrace…</string>
     <string name="atrace_saved">บันทึกเรียบร้อยแล้ว</string>
+    <string name="notification_open_extreme_mode_text">เปิดใช้งานเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="extreme_power_settings_title">การตั้งค่า</string>
+    <string name="notification_exit_extreme_mode_title">ปิดใช้งานเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="notification_exit_extreme_mode_text">แบตเตอรี่ชาร์จมากกว่า %s</string>
+    <string name="extreme_power_config_mode_summary">โหมดประหยัดแบตเตอรี่ขั้นสูงจะจำกัดการทำงานของกิจกรรมเบื้อหลังและหยุดการซิงค์</string>
+    <string name="extreme_add_white_list_title">รายการยกเว้นในพื้นหลัง</string>
+    <string name="extreme_add_white_list_summary">เพิ่มมากถึง 4 แอป</string>
+    <string name="adaptive_battery_title">ใช้การปรับแบตเตอรี่ตามสภาพผู้ใช้</string>
+    <string name="adaptive_battery_summary">จำกัดแบตเตอรี่สำหรับแอปที่คุณไม่ค่อยได้ใช้</string>
 </resources>

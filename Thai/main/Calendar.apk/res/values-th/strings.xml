@@ -23,6 +23,7 @@
     <string name="copy_number">คัดลอกหมายเลขโทรศัพท์</string>
     <string name="done">ส่งคืน</string>
     <string name="more_string">+%1$s</string>
+    <string name="search_menu_title">ค้นหา</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_add_attendee">เพิ่มผู้เข้าร่วม</string>
     <string name="accessibility_all_day">กิจกรรมทั้งวัน</string>
@@ -84,6 +85,7 @@
     <string name="can_not_modify_allday_event">ไม่สามารถเปลี่ยนกำหนดการทั้งวันได้</string>
     <string name="can_not_modify_event">ไม่สามารถเปลี่ยนกำหนดการได้</string>
     <string name="can_not_modify_repeating_acrossing_days_event">ไม่สามารถเปลี่ยนกำหนดการหลายวันได้</string>
+    <string name="cancel_reminder">Cancel Reminder</string>
     <string name="card_detail_dialog_message">%1$s จะอัพเดททุกๆวัน สมัครเพื่อรับการอัพเดตรายวัน</string>
     <string name="card_detail_dialog_negative">สมัครในภายหลัง</string>
     <string name="card_detail_dialog_positive">สมัครทันที</string>
@@ -135,6 +137,7 @@
     <string name="description_calendar">แอประบบ/ปฏิทิน</string>
     <string name="description_calendar_edit_event">แอประบบ/ปฏิทิน/หัวเรื่อง</string>
     <string name="directory_searching_fmt">กำลังค้นหา %s…</string>
+    <string name="discard_label">ยกเลิก </string>
     <string name="does_not_repeat">กิจกรรมแบบครั้งเดียว</string>
     <string name="edit_date_calculate_days_backward_error_hint">ไม่สามารถคำนวนต่อไปข้างหน้าได้</string>
     <string name="edit_date_calculate_days_empty_hint">ป้อนจำนวนวัน</string>
@@ -202,6 +205,7 @@
     <string name="fb_calendar_owner_account">Mi ปฏิทิน</string>
     <string name="festival_detail_title">เทศกาล</string>
     <string name="file_exception">เกิดข้อผิดพลาด</string>
+    <string name="fixtures">Fixtures</string>
     <string name="force_touch_title_add_new_event">เพิ่มกำหนดการ</string>
     <string name="from_google_group_calendar">ปฏิทิน Google</string>
     <string name="gadget_no_events">ไม่มีกิจกรรมในปฏิทินที่กำลังจะเกิดขึ้น</string>
@@ -211,6 +215,7 @@
     <string name="global_football_final">รอบชิง</string>
     <string name="global_football_no_match">ไม่มีกำหนดการแข่งขันฟุตบอลในวันนี้</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="guide_card_close">ปิด</string>
     <string name="guide_card_import">นำเข้า</string>
     <string name="guide_card_primary_fb_text">วันเกิดเพื่อนใน Facebook</string>
     <string name="guide_card_primary_text">นำเข้าวันเกิดของเพื่อน</string>
@@ -273,6 +278,7 @@
     <string name="new_event_description">ใหม</string>
     <string name="new_event_dialog_label">กิจกรรมใหม่</string>
     <string name="new_event_dialog_option">กิจกรรมใหม่</string>
+    <string name="news">News</string>
     <string name="no_contact_birthday_hint">ไม่พบวันเกิดที่จะนำเข้า</string>
     <string name="no_events_hint">ไม่มีกิจกรรม</string>
     <string name="no_internet">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
@@ -368,6 +374,7 @@
     <string name="search_calendar_settings">ปฏิทิน;หัวเรื่อง;เตือนความจำ</string>
     <string name="select_date">ระบุวัน</string>
     <string name="select_synced_calendars_title">ปฏิทินที่จะซิงค์</string>
+    <string name="set_reminder">Set Reminder</string>
     <string name="setting_about_calendar_version">เวอร์ชั่นปฏิทิน:</string>
     <string name="setting_about_imei">IMEI:</string>
     <string name="setting_about_miui_version">เวอร์ชั่น MIUI:</string>
@@ -398,15 +405,16 @@
     <string name="subscribe_channel_hint">"สมัครรับบริการที่คุณชอบและรับข้อมูลอัปเดตทุกวันในหน้าแรกของคุณ 
 คุณยังสามารถเพิ่มการแจ้งเตือนเพื่อไม่ให้พลาดอะไรสำคัญ"</string>
     <string name="subscribe_channel_subscribe">สมัคร</string>
-    <string name="subscribe_channel_subscribing">กำลังสมัคร</string>
+    <string name="subscribe_channel_subscribing">สมัครแล้ว</string>
     <string name="subscribe_channel_title">ช่อง</string>
-    <string name="subscribing_card">กำลังสมัคร</string>
+    <string name="subscribing_card">สมัครแล้ว</string>
     <string name="synced">ซิงค์แล้ว</string>
     <string name="tab_title_agenda">กิจกรรม</string>
     <string name="tab_title_day">วัน</string>
     <string name="tab_title_month">เดือน</string>
     <string name="tab_title_week">สัปดาห์</string>
-    <string name="talk_back_read_date">วันที่ปัจจุบัน: %1$s (%2$s ตามปฏิทินจันทรคติ)</string>
+    <string name="talk_back_read_date">%1$s (%2$s ตามปฏิทินจันทรคติ)</string>
+    <string name="talk_back_setting">การตั้งค่า</string>
     <string name="template_announce_item_index">กิจกรรม %1$s ของ %2$s.</string>
     <string name="template_week_num">สัปหาห์ที่ %1$s</string>
     <string name="time_zone">เขตเวลา</string>
@@ -443,11 +451,12 @@
     <string name="travel_train_station">สถานีรถไฟ</string>
     <string name="unsubscribe_card">ยกเลิกการสมัคร</string>
     <string name="unsubscribe_card_success">ยกเลิกการสมัครจาก“%1$s”เรียบร้อยแล้ว</string>
-    <string name="unsubscribing_card">กำลังยกเลิกการสมัคร</string>
+    <string name="unsubscribing_card">ยกเลิกการสมัครแล้ว</string>
     <string name="user_notice_button_exit">ยกเลิก </string>
     <string name="user_notice_button_ok">ตกลง</string>
     <string name="user_notice_message">สำหรับการใช้ผลิตภัณฑ์นี้ คุณต้องเห็นด้วยกับ%1$sและ%2$sของ Xiaomi คุณลักษณะบางอย่างจำเป็นต้องมีการเชื่อมต่ออินเทอร์เน็ตและการเข้าถึงตำแหน่งและรายชื่อเพื่อการทำงานที่ปกติ</string>
     <string name="user_notice_title">โปรดทราบ</string>
+    <string name="view_details">View Details</string>
     <string name="view_event_calendar_label">ปฏิทิน:</string>
     <string name="view_event_organizer_label">ผู้จัดตั้ง:</string>
     <string name="view_event_response_label">เข้าร่วมหรือไม่?</string>
