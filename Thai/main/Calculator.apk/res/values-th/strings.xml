@@ -11,6 +11,7 @@
     <string name="cal_result_format">= %s</string>
     <string name="cal_text_copied">ข้อความถูกคัดลอกแล้ว</string>
     <string name="cancel">ยกเลิก </string>
+    <string name="children_education">การศึกษาของเด็ก</string>
     <string name="choose_currency">เลือกสกุลเงิน</string>
     <string name="choose_unit">เลือกหน่วย</string>
     <string name="city">เมือง</string>
@@ -44,10 +45,10 @@
     <string name="devided_by_zero_reminder_message">ไม่สามารถหารด้วยศูนย์</string>
     <string name="dialog_privacy_content">นอกจากคุณลักษณะพื้นฐานของเครื่องคิดเลข แอปของเรายังประกอบด้วยเครื่องคิดเลขวิทยาศาตร์และตัวแปลงอเนกประสงค์ คุณลักษณะบางอย่างต้องเชื่อมต่อกับอินเตอร์เนตเพื่อใช้งานอย่างปกติ คุณจำเป็นต้องอ่านและยอมรับ %1$s และ %2$s ของเราก่อนใช้เครื่องคิดเลข</string>
     <string name="dialog_privacy_title">ข้อตกลงและเงื่อนไข</string>
-    <string name="dialog_rating_desc_ask">How do you feel about Calculator?</string>
-    <string name="dialog_rating_desc_less">Could you give us your feedback as well?</string>
-    <string name="dialog_rating_desc_perfect">Nice! Rate Calculator in App Store as well?</string>
-    <string name="dialog_rating_title">Rate our app</string>
+    <string name="dialog_rating_desc_ask">คุณรู้สึกอย่างไรกับเครื่องคิดเลข?</string>
+    <string name="dialog_rating_desc_less">คุณสามารถให้ข้อเสนอแนะกับเราได้หรือไม่?</string>
+    <string name="dialog_rating_desc_perfect">เยี่ยมยอด! ให้คะแนนเครื่องคิดเลขในแอปสโตร์ด้วยได้ไหม?</string>
+    <string name="dialog_rating_title">ให้คะแนนแอปของเรา</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -66,9 +67,13 @@
     <string name="error">ผิดพลาด</string>
     <string name="error_fomrat">รูปแบบไม่ถูกต้อง</string>
     <string name="exit">ออก</string>
+    <string name="extra_deduction_instruction">รายละเอียดการหักลด</string>
+    <string name="extra_deduction_tips">แตะที่ปุ่มมุมด้านบนของหน้าจอเพื่อเรียกดูรายละเอียดการศึกษา</string>
+    <string name="extra_deduction_title">การหักเงินเพิ่มเติม</string>
     <string name="factorialDesc">แฟกทอเรียล</string>
     <string name="fund" />
     <string name="fund_loan">กองทุนเงินกู้</string>
+    <string name="further_education">การศึกษาเพิ่มเติม</string>
     <string name="global_network_confirm_content">ตัวแปลงสกุลเงินจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้ทำงานได้ตามปกติ</string>
     <string name="global_search_key_area_convertion">พื้นที่;เครื่องแปลงความยาว;แปลงความยาว</string>
     <string name="global_search_key_calculation">เครื่องคิดเลข;เครื่องคิดเลข;การแปลงหน่วย;เครื่องแปลง;เครื่องแปลงหน่วย</string>
@@ -85,7 +90,10 @@
     <string name="global_search_key_word_figure">ลักษณะทางการเงิน</string>
     <string name="golbal_search_calculator_setting">เครื่องคิดเลข;ตั้งค่าเครื่องคิดเลข;ตั้งค่า</string>
     <string name="golbal_search_path_calculator_setting">แอประบบ/เครื่องคิดเลข/การตั้งค่า</string>
+    <string name="help_content_desc">ความช่วยเหลือ</string>
+    <string name="home_loan">ดอกเบี้ยจำนอง</string>
     <string name="home_title_calculator">เครื่องคิดเลข</string>
+    <string name="house_rent">การเช่า</string>
     <string name="income_type" />
     <string name="install">ติดตั้ง</string>
     <string name="install_scanner_to_continued_use">สแกนเนอร์ถูกถอนการติดตั้งแล้ว ติดตั้งอีกครั้งหรือไม่?</string>
@@ -109,8 +117,10 @@
     <string name="leftParenDesc">วงเล็บซ้าย</string>
     <string name="lg">lg</string>
     <string name="lgDesc">ลอการิทึม</string>
+    <string name="license_host_unreachable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง</string>
     <string name="ln">ln</string>
     <string name="lnDesc">ลอการิทึมธรรมชาติ</string>
+    <string name="loading">รอสักครู่…</string>
     <string name="loading_fail_message_no_network">เชื่อมต่อเครือข่ายไม่ได้ แตะที่นี่เพื่อลองอีกครั้ง</string>
     <string name="loading_fail_refresh">รีเฟรช</string>
     <string name="loading_message">กำลังโหลดแอป …</string>
@@ -130,6 +140,7 @@
     <string name="loan_repayment_detail_loading">โหลดรายละเอียดชำระคืน…</string>
     <string name="loan_repayment_detail_unit">รายละเอียดชำระคืน(CNY)</string>
     <string name="loan_unit">(×หมื่น)</string>
+    <string name="medical_treatment">การรักษาทางการแพทย์</string>
     <string name="menuDesc">เมนู</string>
     <string name="minusDesc">ลบ</string>
     <string name="month" />
@@ -165,12 +176,14 @@
     <string name="mortgage_tab_combining_loan">ผสมผสาน</string>
     <string name="mortgage_tab_commercial_loan">เงินกู้เพื่อการพาณิชย์</string>
     <string name="mortgage_years_amount">ระยะเวลาชำระเงินกู้</string>
+    <string name="mt_max">จำนวนที่คุณใส่มากเกินไป</string>
     <string name="mulDesc">คูณ</string>
     <string name="negDesc">สลับไปมาระหว่างอุณหภูมิสูงหรือต่ำกว่าศูนย์</string>
     <string name="network_confirm_content">เครื่องคิดเลข การแปลงสกุลเงิน ภาษี และจำนอง ต้องเชื่อมต่อกับอินเทอร์เน็ตและเข้าถึงบริการตำแหน่งเพื่อให้ทำงานได้ตามปกติ</string>
     <string name="network_confirm_title">สิทธิ์ที่จำเป็น</string>
+    <string name="none">ไม่ตั้ง</string>
     <string name="not_supported_due_to_language">คุณลักษณะนี้พร้อมใช้งานในภาษาจีนเท่านั้น</string>
-    <string name="ok">OK</string>
+    <string name="ok">ตกลง</string>
     <string name="percent" />
     <string name="percentDesc">เปอร์เซ็นต์</string>
     <string name="piDesc">พาย</string>
@@ -189,10 +202,10 @@
     <string name="preference_follow_web_title">เว็บไซต์ทางการ</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
-    <string name="preference_help">Help &amp; feedback</string>
+    <string name="preference_help">ช่วยเหลือ &amp; ข้อเสนอแนะ</string>
     <string name="preference_other">อื่นๆ</string>
     <string name="preference_privacy_title">นโยบายความเป็นส่วนตัว</string>
-    <string name="preference_rating_title">Rate our app</string>
+    <string name="preference_rating_title">ให้คะแนนแอปของเรา</string>
     <string name="preference_settings">การตั้งค่า</string>
     <string name="preference_use_degress_summary">เรเดียนทดแทนที่มีมุมในฟังก์ชันตรีโกณมิติ</string>
     <string name="preference_use_degress_title">ใช้มุม</string>
@@ -212,6 +225,7 @@
     <string name="social_security" />
     <string name="sqrtDesc">รากที่สอง</string>
     <string name="start_calculate" />
+    <string name="support_elder">รองรับสำหรับผู้สูงอายุ</string>
     <string name="switchDesc">สลับ</string>
     <string name="tab_title_calculator">เครื่องคิดเลข</string>
     <string name="tab_title_convert">ตัวแปลง</string>
@@ -254,7 +268,7 @@
     <string name="tax_location">ตำแหน่งพิกัด</string>
     <string name="tax_medical">การรักษาพยาบาล</string>
     <string name="tax_param_error">ป้อนอัตราเบี้ยประกันที่ถูกต้อง</string>
-    <string name="tax_rate_provider">ข้อมูลจาก hexun.com และ East Money</string>
+    <string name="tax_rate_provider">คำนวณตามระเบียบภาษีใหม่ ข้อมูลได้รับจาก hexun.com และ East Money</string>
     <string name="tax_result_real_get">หลังหักภาษี</string>
     <string name="tax_social_insurance">ประกันสังคม</string>
     <string name="tax_thershold_foreign">%s (ต่างประเทศ)</string>
@@ -548,6 +562,7 @@
     <string name="unit_year">ปี</string>
     <string name="unit_year_format">ปี %s</string>
     <string name="unit_yuan">CNY</string>
+    <string name="updating">กำลังอัปเดตเครื่องคิดเลข…</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
     <string name="voiceDesc">เสียงควบคุม</string>
     <string name="wf_word_figure">จำนวนเงินแบบตัวหนังสือ</string>
@@ -572,8 +587,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">ไม่สามารถเชื่อมต่อเพื่อดาวน์โหลด ตรวจสอบว่าแอปนี้มีสิทธิ์ที่จำเป็นทั้งหมดในการตั้งค่า > แอปที่ติดตั้งแล้ว</string>
     <string name="xiaomi_external_storage_unavailable">ที่เก็บข้อมูลไม่เพียงพอ ตรวจสอบการ SD การ์ด</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"แนะนำเวอร์ชั่น %1$s
  ขนาด: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"แนะนำเวอร์ชั่น %1$s

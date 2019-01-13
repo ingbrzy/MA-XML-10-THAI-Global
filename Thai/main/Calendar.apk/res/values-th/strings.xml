@@ -85,7 +85,7 @@
     <string name="can_not_modify_allday_event">ไม่สามารถเปลี่ยนกำหนดการทั้งวันได้</string>
     <string name="can_not_modify_event">ไม่สามารถเปลี่ยนกำหนดการได้</string>
     <string name="can_not_modify_repeating_acrossing_days_event">ไม่สามารถเปลี่ยนกำหนดการหลายวันได้</string>
-    <string name="cancel_reminder">Cancel Reminder</string>
+    <string name="cancel_reminder">ยกเลิกการเตือน</string>
     <string name="card_detail_dialog_message">%1$s จะอัพเดททุกๆวัน สมัครเพื่อรับการอัพเดตรายวัน</string>
     <string name="card_detail_dialog_negative">สมัครในภายหลัง</string>
     <string name="card_detail_dialog_positive">สมัครทันที</string>
@@ -205,7 +205,7 @@
     <string name="fb_calendar_owner_account">Mi ปฏิทิน</string>
     <string name="festival_detail_title">เทศกาล</string>
     <string name="file_exception">เกิดข้อผิดพลาด</string>
-    <string name="fixtures">Fixtures</string>
+    <string name="fixtures">ตารางการแข่ง</string>
     <string name="force_touch_title_add_new_event">เพิ่มกำหนดการ</string>
     <string name="from_google_group_calendar">ปฏิทิน Google</string>
     <string name="gadget_no_events">ไม่มีกิจกรรมในปฏิทินที่กำลังจะเกิดขึ้น</string>
@@ -278,7 +278,7 @@
     <string name="new_event_description">ใหม</string>
     <string name="new_event_dialog_label">กิจกรรมใหม่</string>
     <string name="new_event_dialog_option">กิจกรรมใหม่</string>
-    <string name="news">News</string>
+    <string name="news">ข่าว</string>
     <string name="no_contact_birthday_hint">ไม่พบวันเกิดที่จะนำเข้า</string>
     <string name="no_events_hint">ไม่มีกิจกรรม</string>
     <string name="no_internet">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
@@ -374,7 +374,7 @@
     <string name="search_calendar_settings">ปฏิทิน;หัวเรื่อง;เตือนความจำ</string>
     <string name="select_date">ระบุวัน</string>
     <string name="select_synced_calendars_title">ปฏิทินที่จะซิงค์</string>
-    <string name="set_reminder">Set Reminder</string>
+    <string name="set_reminder">ตั้งการเตือน</string>
     <string name="setting_about_calendar_version">เวอร์ชั่นปฏิทิน:</string>
     <string name="setting_about_imei">IMEI:</string>
     <string name="setting_about_miui_version">เวอร์ชั่น MIUI:</string>
@@ -456,7 +456,7 @@
     <string name="user_notice_button_ok">ตกลง</string>
     <string name="user_notice_message">สำหรับการใช้ผลิตภัณฑ์นี้ คุณต้องเห็นด้วยกับ%1$sและ%2$sของ Xiaomi คุณลักษณะบางอย่างจำเป็นต้องมีการเชื่อมต่ออินเทอร์เน็ตและการเข้าถึงตำแหน่งและรายชื่อเพื่อการทำงานที่ปกติ</string>
     <string name="user_notice_title">โปรดทราบ</string>
-    <string name="view_details">View Details</string>
+    <string name="view_details">ดูรายละเอียด</string>
     <string name="view_event_calendar_label">ปฏิทิน:</string>
     <string name="view_event_organizer_label">ผู้จัดตั้ง:</string>
     <string name="view_event_response_label">เข้าร่วมหรือไม่?</string>

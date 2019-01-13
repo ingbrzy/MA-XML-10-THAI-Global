@@ -27,9 +27,9 @@
     <string name="cloud_back_up_frequence_choice_title">ตารางเวลาการสำรองข้อมูล</string>
     <string name="cloud_back_up_frequence_long">ทุก 7 วัน</string>
     <string name="cloud_back_up_frequence_short">ทุกวัน</string>
-    <string name="cloud_back_up_share_activity_title">อัพเกรดบัญชี Mi</string>
-    <string name="cloud_back_up_share_activity_discription">รับพื้นที่จัดเก็บเพิ่มเติม สำรองข้อมูลรายวันและอื่น ๆ</string>
-    <string name="cloud_back_up_share_activity_confirm">อัพเกรด</string>
+    <string name="cloud_back_up_subscribe_vip_title">Upgrade Mi Account</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Get more storage space, daily backups, and more.</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Upgrade</string>
     <string name="cloud_back_up_detail_discription">"รายการเหล่านี้จะได้รับการสำรองข้อมูลไปยัง Mi Cloud เมื่ออุปกรณ์ของคุณเชื่อมต่อกับ Wi-Fi: 
 *  แอป การจัดเรียงหน้าจอหลัก และภาพพื้นหลัง 
 *  ตั้งค่าการปลุก นาฬิกา และเวลา 
@@ -50,6 +50,8 @@
     <string name="self_device_second_space">พื้นที่ทับซ้อนของโทรศัพท์นี้</string>
     <string name="other_device_main_space">พื้นที่ปกติ</string>
     <string name="other_device_second_space">พื้นที่ทับซ้อน</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">กำลังเรียกคืนค่า \"%s\"</string>
     <string name="size_unknown">ขนาดที่ไม่รู้จัก</string>
     <string name="recovering">กำลังเรียกคืนค่า %s</string>
@@ -59,6 +61,7 @@
     <string name="backing_up_to_micloud">กำลังสำรองข้อมูล…</string>
     <string name="restore_from_cloud">คืนค่าจากข้อมูลสำรองใน Mi คลาวด์</string>
     <string name="backup_to_cloud">สำรองข้อมูลแอป</string>
+    <string name="restoring_file_title_no_progress">กำลังเรียกคืนค่าไฟล์…</string>
     <string name="menu_item_sort">เรียงตาม</string>
     <string name="menu_item_sort_name">ชื่อ</string>
     <string name="menu_item_sort_size">ขนาด</string>
@@ -86,6 +89,8 @@
     <string name="recover_miui_settings">คืนค่าการตั้งค่าระบบ</string>
     <string name="wait_icon_download">กำลังดาวน์โหลดไอคอนแอป</string>
     <string name="download_settings_fail">ไม่สามารถดาวน์โหลดการตั้งค่าหน้าจอหลักได้</string>
+    <string name="restore_init_description">เริ่มการเรียกคืนค่า</string>
+    <string name="restore_finish_description">เรียกคืนค่าเสร็จแล้ว</string>
     <string name="backup_fail_wifi_needed">ไม่สามารถสำรองข้อมูลได้ จำเป็นต้องต่อ Wi-Fi</string>
     <string name="backup_success">การสำรองข้อมูลเสร็จสิ้นแล้ว</string>
     <string name="cloud_task_in_process">หยุด %s และลบข้อมูลสำรองนี้ออก? การกระทำนี้ไม่สามารถย้อนกลับได้</string>
@@ -131,6 +136,7 @@
     <string name="provision_error_connect_msg">ทดสอบเครือข่ายและลองใหม่ การสำรองข้อมูลไม่สามารถใช้ได้เมื่ออุปกรณ์ของคุณออฟไลน์</string>
     <string name="provision_error_connect_title">ไม่สามารถเชื่อมต่อได้</string>
     <string name="loading_user_backup">กำลังโหลดข้อมูลสำรองผู้ใช้…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">ไม่สามารถยืนยันบัญชีได้</string>
     <string name="no_account">ยังไม่ได้ลงชื่อเข้าใช้บัญชี Mi</string>
@@ -173,6 +179,7 @@
     <string name="notification_channel_remind">เตือนความจำ</string>
     <string name="done_remove">ลบเรียบร้อยแล้ว</string>
     <string name="doing_restore_home">เรียกคืนหน้าจอหลักและการตั้งค่า…</string>
+    <string name="restoring_settings">กำลังเรียกคืนค่าการตั้งค่า…</string>
     <string name="title_alert_cancel_restore">หยุดการเรียกคืนค่า</string>
     <string name="msg_alert_cancel_restore">เรียกคืนรายการ หยุดเดี๋ยวนี้?</string>
     <string name="btn_restore_cancel">ยกเลิก </string>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_title">เกี่ยวกับ</string>
     <string name="access_sd_fail">ไม่สามารถเข้าถึง SD การ์ดได้</string>
     <string name="accessibility_shutter_button">ชัตเตอร์</string>
+    <string name="action_search">Search</string>
     <string name="address">ที่อยู่:</string>
     <string name="agree_btn">ตกลง</string>
     <string name="amazon_assistant_shopping_title">ค้นหาใน Amazon</string>
@@ -14,6 +16,7 @@
     <string name="birthday">วันเกิด:</string>
     <string name="blog">Weibo</string>
     <string name="business_card">นามบัตร</string>
+    <string name="business_card_result_title">นามบัตร</string>
     <string name="business_card_title">ใส่นามบัตรลงในกรอบ</string>
     <string name="business_copy">คัดลอก</string>
     <string name="business_new_contacts">สร้างรายชื่อ</string>
@@ -22,8 +25,10 @@
     <string name="call_anyone">โทร</string>
     <string name="camera_error_title">ข้อผิดพลาดจากกล้อง</string>
     <string name="cancel">ยกเลิก </string>
+    <string name="choose_pay_title">เลือกวิธีการชำระเงิน</string>
     <string name="choose_picture">เลือกรูปภาพรหัส QR</string>
     <string name="common_retake_picture">ถ่ายใหม่</string>
+    <string name="common_retry">Try again</string>
     <string name="common_save">บันทึก</string>
     <string name="company">บริษัท:</string>
     <string name="confirm">ตกลก</string>
@@ -35,6 +40,7 @@
     <string name="copy_text_success">คัดลอกข้อความแล้ว</string>
     <string name="crop_cancel_description">ยกเลิก</string>
     <string name="crop_done_description">เสร็จสิ้น</string>
+    <string name="crop_title_study">Crop the photo</string>
     <string name="crop_title_translation">เลือกข้อความที่ต้องการจะแปล</string>
     <string name="document_color_picture">สี</string>
     <string name="document_color_picture_tip">กำลังแปลงเป็นเอกสารสี…</string>
@@ -59,9 +65,11 @@
     <string name="email">อีเมล:</string>
     <string name="error_camera_disabled">ไม่สามารถเข้าถึงกล้องได้เนื่องจากเหตุผลด้านความปลอดภัย</string>
     <string name="error_cannot_connect_camera">ไม่สามารถเชื่อมต่อกับกล้องได้</string>
+    <string name="error_empty_result">"Couldn't find results"</string>
     <string name="error_get_image">ไม่สามารถรับไฟล์ภาพได้</string>
     <string name="error_media_storage_failure">ไม่สามารถบันทึกรูปภาพได้</string>
     <string name="error_permissions">สแกนเนอร์ไม่ได้รับอนุญาตให้ใช้งานได้ตามปกติ ไปที่การตั้งค่าและตรวจสอบการอนุญาตเพื่อดำเนินการต่อไป</string>
+    <string name="error_server_error">Server error</string>
     <string name="fax">แฟกซ์</string>
     <string name="feed_search_fail">ไม่พบผลลัพธ์ ลองอีกครั้ง</string>
     <string name="feedback_description_camera_access">สแกนเนอร์ไม่สามารถเชื่อมต่อกับกล้องได้</string>
@@ -94,12 +102,14 @@
     <string name="module_title_document">เอกสาร</string>
     <string name="module_title_plant">พืช</string>
     <string name="module_title_shopping">ช้อปปิ้ง</string>
+    <string name="module_title_study">Study</string>
     <string name="module_title_translation">แปล</string>
     <string name="name">ชื่อ:</string>
     <string name="new_schedule">สร้างกำหนดการ</string>
     <string name="nickname">ชื่อเล่น:</string>
     <string name="no_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="no_storage">ไม่มีที่จัดเก็บภายใน</string>
+    <string name="no_support_to_translate_type">ไม่รองรับภาษานี้</string>
     <string name="not_insert_contact">ไม่สามารถเพิ่มรายชื่อได้</string>
     <string name="not_recommend_access_web_url">เยี่ยมชมต่อไป</string>
     <string name="note">หมายเหตุ</string>
@@ -118,18 +128,32 @@
     <string name="recognize">สแกน</string>
     <string name="recognize_fail">อ่านรหัสไม่ได้</string>
     <string name="scan_result">ผลลัพธ์</string>
+    <string name="scan_support_type">WeChat, Alipay, รหัส QR, บาร์โค้ด</string>
     <string name="sdk_not_ready">กำลังเตรียม SDK ลองอีกครั้งในภายหลัง</string>
     <string name="secure_access_web_url">ไปยังเว็ปไซต์</string>
     <string name="see_app_details">ดูรายละเอียดแอป</string>
     <string name="select_dialog_confirm">ตกลก</string>
     <string name="send_mail">ส่งอีเมล</string>
+    <string name="setting_alipay">Alipay</string>
+    <string name="setting_choose_every_time">ถามก่อนเสมอ</string>
+    <string name="setting_default_function">คุณลักษณะเริ่มต้น</string>
+    <string name="setting_preference_pay">วิธีการชำระเงินที่ต้องการ</string>
+    <string name="setting_title">การตั้งค่า</string>
+    <string name="setting_use_last_choose">จดจำตัวเลือกก่อนหน้านี้</string>
+    <string name="setting_wechat">WeChat</string>
     <string name="shopping_searching">กำลังค้นหา…</string>
     <string name="shopping_title">ถ่ายภาพภาพของผลิตภัณฑ์</string>
     <string name="shopping_vendor_info">สนับสนุนโดย Taobao</string>
     <string name="spaceIsLow_content">เนื้อที่ใน SD การ์ดไม่เพียงพอ ล้างขยะเพื่อเพิ่มเนื้อที่ว่าง</string>
+    <string name="study_rotate_picture">Processing the photo</string>
+    <string name="study_scan_result">Result</string>
+    <string name="study_searching">Searching for result</string>
+    <string name="study_title">Take a photo of the problem</string>
+    <string name="study_vendor_info">Powered by 作业帮</string>
     <string name="switch_open">เปิดใช้งาน</string>
     <string name="tel">โทรศัพท์</string>
     <string name="title">หัวเรื่อง:</string>
+    <string name="to_pay">ชำระเงินเสร็จสิ้น</string>
     <string name="translate_auto_lock">ล็อกการแปล</string>
     <string name="translate_auto_unlock">ปลดล็อกการแปล</string>
     <string name="translate_copy_success">คัดลอกเรียบร้อยแล้ว</string>

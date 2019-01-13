@@ -4,6 +4,11 @@
         <item>เด็กชาย</item>
         <item>เด็กหญิง</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>ย้าย</item>
+        <item>คัดลอก</item>
+        <item>@string/cancel</item>
+    </string-array>
     <string-array name="month">
         <item>มกราคม</item>
         <item>กุมภาพันธ์</item>
