@@ -90,10 +90,12 @@
     <string name="daily_forecast_add_city_message">ติดตามสภาพอากาศใน %1$s สำหรับการคาดการณ์รายละเอียดเพิ่มเติม</string>
     <string name="daily_forecast_add_city_title">ติดตามสภาพอากาศใน %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"รับข้อมูลสภาพอากาศไม่ได้
 ลากลงเพื่อรีเฟรชหรือตรวจสอบการตั้งค่าเครือข่าย"</string>
     <string name="data_provided_by">ข้อมูลบางส่วนจาก</string>
     <string name="edit_city">จัดการเมือง</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">กำลังอัปเดต…</string>
     <string name="empty_view_net_unavailable">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="empty_view_refresh">ลองอีกครั้ง</string>
@@ -112,6 +114,8 @@
     <string name="first_start_network_title">การเชื่อมกับต่ออินเตอร์เน็ตและการเข้าถึงตำแหน่ง</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">ขณะนี้</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">พยากรณ์อากาศ 24 ชั่วโมง</string>
     <string name="hourly_forecast_title_hourly_desc">พยากรณ์รายชั่วโมง</string>
@@ -127,9 +131,11 @@
     <string name="indices_title_feel">รู้สึกจริง</string>
     <string name="indices_title_pressure">ความกดอากาศ</string>
     <string name="install">ติดตั้ง</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ความกดอากาศ</string>
     <string name="international_details_title">รายละเอียด</string>
     <string name="international_details_uv_index_title">รังสียูวี</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ลม</string>
     <string name="it_is_going_to_rain">ฝนกำลังจะตก</string>
     <string name="locate_fail_detail_err">"ไม่สามารถระบุตำแหน่งอุปกรณ์ได้
@@ -204,6 +210,7 @@
     <string name="share_menu_title">แชร์</string>
     <string name="share_subject">แชร์</string>
     <string name="share_weather_desc">\#MIUI สภาพอากาศ#วันนี้ %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ไม่สามารถจัดเก็บภาพหน้าจอได้</string>
     <string name="some_where_on_earth">ที่ไหนสักแห่งบนโลก</string>
@@ -222,7 +229,7 @@
     <string name="traffic_control_today_numbers">วันนี้: %1$s</string>
     <string name="traffic_control_tomorrow_numbers">วันพรุ่งนี้: %1$s</string>
     <string name="traffic_controls">จำกัดเลขทะเบียน</string>
-    <string name="translate_notification_info">Translating in the background…</string>
+    <string name="translate_notification_info">กำลังแปลในพื้นหลัง…</string>
     <string name="tts_report_aqi" />
     <string name="tts_report_defautl_head" />
     <string name="tts_report_split" />
@@ -237,7 +244,7 @@
     <string name="unit_wind">หน่วยความเร็วลม</string>
     <string name="update_night_setting_summary_text">อัพเดทข้อมูลสภาพอากาศระหว่าง 3:00 และ 07:00</string>
     <string name="update_night_setting_title_text">อัพเดทคืนนี้โดยอัตโนมัติ</string>
-    <string name="update_notification_info">Updating data in the background…</string>
+    <string name="update_notification_info">กำลังอัปเดตข้อมูลในพื้นหลัง…</string>
     <string name="update_setting_title_text">อัพเดทข้อมูลสภาพอากาศ</string>
     <string name="updated_a_moment_ago">อัพเดทเมื่อสักครู่</string>
     <string name="updating">กำลังอัพเดท…</string>
@@ -249,8 +256,8 @@
     <string name="view_forecast_item_yesterday">เมื่อวานนี้</string>
     <string name="view_indexes_item_today">วันนี้</string>
     <string name="view_indexes_item_tommorrow">พรุ่งนี้</string>
-    <string name="weather_alert_channel_name">Alerts</string>
-    <string name="weather_service_channel_name">Background services</string>
+    <string name="weather_alert_channel_name">แจ้งเตือน</string>
+    <string name="weather_service_channel_name">บริการพื้นหลัง</string>
     <string name="wind_direction_no_data">ลม</string>
     <string name="wind_unit">"%1$s กม/ชม
 "</string>

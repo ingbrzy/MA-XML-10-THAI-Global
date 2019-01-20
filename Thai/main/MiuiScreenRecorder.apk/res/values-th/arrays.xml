@@ -100,5 +100,6 @@
     <string-array name="screenrecorder_utils_support_high_frames_cpu">
         <item>เทคโนโลยี Qualcomm, Inc SDM845</item>
         <item>เทคโนโลยี Qualcomm, Inc MSM8998</item>
+        <item>เทคโนโลยี Qualcomm, Inc SM8150</item>
     </string-array>
 </resources>

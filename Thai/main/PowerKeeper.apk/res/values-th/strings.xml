@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">เมื่อใดก็ตามที่ MIUI ตรวจพบว่าคุณกำลังนอนหลับอยู่จะปิดแอปพื้นหลัง จำกัด บลูทูธ GPS ข้อมูลมือถือและการใช้ Wi-Fi และจะไม่เปิดหน้าจอสำหรับการแจ้งเตือน</string>
     <string name="nonui_mode_config_title">โหมดไม่เป็นแบบโต้ตอบ</string>
     <string name="nonui_mode_config_description">ห้ามเปิดหน้าจอสำหรับการแจ้งเตือน, ปิดไฟ LED, เซ็นเซอร์ลายนิ้วมือและระบบควบคุมแบบสัมผัสเพื่อประหยัดแบตเตอรี่เมื่อ MIUI ตรวจพบว่าคุณไม่ได้ใช้อุปกรณ์</string>
-    <string name="power_center">การใช้แบตเตอรี่</string>
+    <string name="power_center">ตัวประหยัดแบตเตอรี่</string>
     <string name="power_usage">การใช้พลังงาน</string>
     <string name="power_mode">การตั้งค่าพลังงาน</string>
     <string name="performance_category">โหมดประสิทธิภาพสูง</string>
@@ -110,4 +110,8 @@
     <string name="extreme_add_white_list_summary">เพิ่มมากถึง 4 แอป</string>
     <string name="adaptive_battery_title">ใช้การปรับแบตเตอรี่ตามสภาพผู้ใช้</string>
     <string name="adaptive_battery_summary">จำกัดแบตเตอรี่สำหรับแอปที่คุณไม่ค่อยได้ใช้</string>
+    <string name="dark_mode">โหมดมึด</string>
+    <string name="dark_mode_summary">สลับเป็นรูปแบบสีเข้มเพื่อประหยัดพลังงาน</string>
+    <string name="open_dark_mode">สลับเป็นโหมดมึด</string>
+    <string name="open_dark_mode_tip">คุณภาพการแสดงผลของคุณลักษณะบางอย่างอาจลดลงในโหมดมืด มันจะกลับสู่ปกติเมื่อคุณออกจากโหมดมืด เปลี่ยนเป็นโหมดมืดทันทีหรือไม่?</string>
 </resources>

@@ -27,9 +27,9 @@
     <string name="cloud_back_up_frequence_choice_title">ตารางเวลาการสำรองข้อมูล</string>
     <string name="cloud_back_up_frequence_long">ทุก 7 วัน</string>
     <string name="cloud_back_up_frequence_short">ทุกวัน</string>
-    <string name="cloud_back_up_subscribe_vip_title">Upgrade Mi Account</string>
-    <string name="cloud_back_up_subscribe_vip_discription">Get more storage space, daily backups, and more.</string>
-    <string name="cloud_back_up_subscribe_vip_confirm">Upgrade</string>
+    <string name="cloud_back_up_subscribe_vip_title">อัพเกรดบัญชี Mi</string>
+    <string name="cloud_back_up_subscribe_vip_discription">รับพื้นที่จัดเก็บเพิ่มเติม สำรองข้อมูลรายวันและอื่นๆ</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">อัพเกรด</string>
     <string name="cloud_back_up_detail_discription">"รายการเหล่านี้จะได้รับการสำรองข้อมูลไปยัง Mi Cloud เมื่ออุปกรณ์ของคุณเชื่อมต่อกับ Wi-Fi: 
 *  แอป การจัดเรียงหน้าจอหลัก และภาพพื้นหลัง 
 *  ตั้งค่าการปลุก นาฬิกา และเวลา 
@@ -50,6 +50,8 @@
     <string name="self_device_second_space">พื้นที่ทับซ้อนของโทรศัพท์นี้</string>
     <string name="other_device_main_space">พื้นที่ปกติ</string>
     <string name="other_device_second_space">พื้นที่ทับซ้อน</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">กำลังเรียกคืนค่า \"%s\"</string>
     <string name="size_unknown">ขนาดที่ไม่รู้จัก</string>
     <string name="recovering">กำลังเรียกคืนค่า %s</string>
@@ -134,6 +136,7 @@
     <string name="provision_error_connect_msg">ทดสอบเครือข่ายและลองใหม่ การสำรองข้อมูลไม่สามารถใช้ได้เมื่ออุปกรณ์ของคุณออฟไลน์</string>
     <string name="provision_error_connect_title">ไม่สามารถเชื่อมต่อได้</string>
     <string name="loading_user_backup">กำลังโหลดข้อมูลสำรองผู้ใช้…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">ไม่สามารถยืนยันบัญชีได้</string>
     <string name="no_account">ยังไม่ได้ลงชื่อเข้าใช้บัญชี Mi</string>

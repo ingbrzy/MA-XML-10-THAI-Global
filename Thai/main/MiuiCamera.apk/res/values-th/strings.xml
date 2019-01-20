@@ -219,6 +219,7 @@
     <string name="accessibility_shutter_button">ปุ่มชัตเตอร์</string>
     <string name="accessibility_intent_done_apply">เสร็จสิ้น</string>
     <string name="accessibility_intent_done_retry">ลองอีกครั้ง</string>
+    <string name="accessibility_video_btn_play">เล่นวิดีโอ</string>
     <string name="accessibility_review_thumbnail">รูปภาพล่าสุด</string>
     <string name="accessibility_camera_picker">สลับระหว่างกล้องหน้าหลัง</string>
     <string name="accessibility_stereo_button">การปรับแต่งโฟกัส</string>
@@ -252,6 +253,7 @@
     <string name="accessibility_beauty_panel_open">เมนูบิวตี้ไฟเปิดอยู่</string>
     <string name="accessibility_back_preview_status">ตัวอย่างกล้องหลัง</string>
     <string name="accessibility_front_preview_status">ตัวอย่างกล้องหน้า</string>
+    <string name="accessibility_pull_down_to_open_camera">เลื่อนลงเพื่อเปิดกล้อง</string>
     <string name="accessibility_focus_status">ซูม %1$sX</string>
     <string name="accessibility_filter_pad_close">เมนูฟิลเตอร์ถูกซ่อน</string>
     <string name="accessibility_camera_picker_finish">สลับกล้องเรียบร้อยแล้ว</string>
@@ -457,6 +459,7 @@
     <string name="portrait_mode_depth_effect_success_hint">หน้าชัดหลังเบลอ</string>
     <string name="portrait_mode_use_hint">"โหมดภาพบุคคลจะทำให้พื้นหลังเบลอ
 และทำให้คนดูเด่นขึ้น"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"โหลดโหมดภาพคน
 ทำให้หน้าชัดหลังเบลอ"</string>
     <string name="pref_camera_square_mode_title">รูปสี่เหลี่ยม</string>
@@ -473,6 +476,7 @@
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">โหมด</string>
     <string name="button_front_camera_title">ถ่ายเซลฟี่</string>
     <string name="button_normal_video_title">บันทึกวิดีโอ</string>
@@ -589,7 +593,7 @@
     <string name="lighting_pattern_dot">จุด</string>
     <string name="lighting_pattern_shutter">ผ้าม่าน</string>
     <string name="view_privacy_policy">ดูนโยบายความเป็นส่วนตัว</string>
-    <string name="fps960_toast">Slow-motion capture will start at the last quarter of the recording</string>
+    <string name="fps960_toast">ถ่ายภาพแบบเคลื่อนไหวช้าจะเริ่มที่ควอเตอร์สุดท้ายของการบันทึก</string>
     <string name="portrait_bokeh_text">โหมดภาพบุคคล</string>
     <string name="portrait_bokeh_first_tips">"ใช้โหมดภาพบุคคลเพื่อเบลอ
 พื้นหลังในภาพของคุณ"</string>
@@ -614,7 +618,7 @@
     <string name="beauty_body_body">หน้าเรียว</string>
     <string name="beauty_body_shoulder">ไหล่</string>
     <string name="beauty_body_legged">ขา</string>
-    <string name="beauty_body_reset_tip">ลบเอฟเฟกต์รูปร่างสำเร็จแล้ว</string>
+    <string name="beauty_body_reset_tip">รีเซ็ตเอฟเฟกต์รูปสำเร็จแล้ว</string>
     <string name="ultra_wide_open_tip">โหมดมุมกว้าง</string>
     <string name="ultra_wide_close_tip">โหมดมุมกว้างถูกปิดอยู่</string>
     <string name="pref_camera_zoom_mode_entry_ultra">มุมกว้าง</string>
@@ -672,4 +676,5 @@
     <string name="ultra_pixel_photography_32mp_close_tip">32MP ปิดอยู่</string>
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP เปิดอยู่</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">32MP ปิดอยู่</string>
+    <string name="zoom_no_support_tip_48M">การซูมไม่ทำงานในโหมด 48MP</string>
 </resources>

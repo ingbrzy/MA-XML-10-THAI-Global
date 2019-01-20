@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -460,6 +462,7 @@
     <string name="not_limited_brand">ไม่จำกัด</string>
     <string name="pref_about_traffic_title">การตั้งค่าการใช้ข้อมูล</string>
     <string name="pref_traffic_manage_title">การใช้ข้อมูล</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">แพ็คเกจข้อมูล</string>
     <string name="pref_adjust_traffic_data">ตั้งการใช้ข้อมูล</string>
     <string name="pref_category_title_other">การตั้งค่าเพิ่มเติม</string>
@@ -519,6 +522,9 @@
     <string name="pkg_traffic">ตั้งเพดานการใช้ข้อมูล</string>
     <string name="dialog_change_package_type_title">เปลี่ยนประเภทแพ็คเกจข้อมูล</string>
     <string name="dialog_change_package_type_summary">การเปลี่ยนประเภทแพ็คเกจข้อมูลจะรีเซ็ตการตั้งค่าการใช้ข้อมูลทั้งหมด (อาทิ ขอบเขตข้อมูล) เป็นค่าเริ่มต้น เปลี่ยนประเภทแพ็คเกจข้อมูล?</string>
+    <string name="traffic_usage_warning_limit">ข้อจำกัดการเตือนการใช้ข้อมูล</string>
+    <string name="traffic_usage_warning_title">แจ้งเตือนการใช้ข้อมูล</string>
+    <string name="traffic_usage_warning_body">คุณใช้งานข้อมูลมือถือไปแล้ว %s ในเดือนนี้</string>
     <string name="free_traffic_settings">การตั้งค่าเพดานการใช้ข้อมูลนอกช่วงปกติ</string>
     <string name="free_time_traffic">เพดานข้อมูลนอกช่วงปกติ</string>
     <string name="power_save_on_time_start_time_summary_na">จาก</string>
@@ -546,6 +552,7 @@
     <string name="pref_key_direction_traffic">ออกแบบข้อมูลมือถือ</string>
     <string name="pref_key_daily_package_summary">หลังเปิดใช้งาน แพ็คเกจข้อมูลจะถูกรีเซ็ตทุกวัน</string>
     <string name="traffic_setting_fragment_title">ตรวจสอบการใช้ข้อมูล</string>
+    <string name="traffic_setting_fragment_title_guide">ผู้ให้บริการและแพ็คเกจข้อมูล</string>
     <string name="traffic_setting_fragment_button1_text">ยกเลิก</string>
     <string name="traffic_setting_fragment_button2_text">บันทึก</string>
     <string name="traffic_setting_fragment_area">สังกัด</string>
@@ -1008,6 +1015,7 @@
     <string name="usage_type_data_send">ปริมาณข้อมูลขาออก</string>
     <string name="usage_type_no_coverage">ระยะเวลาที่อับสัญญาณ</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">แอนดรอยด์</string>
     <string name="process_mediaserver_label">เซิร์ฟเวอร์สื่อมีเดีย</string>
     <string name="power_screen">หน้าจอ</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1094,7 +1102,7 @@
     <string name="battery_temperature_title">อุณหภูมิ</string>
     <string name="battery_capacity_title">ความจุแบตเตอรี่</string>
     <string name="battery_charge_full">ชาร์จเต็ม</string>
-    <string name="battery_charge_estimating">กำลังประมวล…</string>
+    <string name="battery_charge_estimating">การคำนวณ</string>
     <string name="battery_charging_prompt">กำลังชาร์จ</string>
     <string name="deep_save_memory_clean_summary">ล้างแคชเมื่อคุณล็อกอุปกรณ์เพื่อป้องกันแอปจากการใช้แบตเตอรี่</string>
     <string name="btn_text_open_now">เปิดใช้งาน</string>
@@ -1230,12 +1238,17 @@
     <string name="power_center_list_item_auto_brightness">ปรับความสว่างหน้าจอโดยอัตโนมัติ</string>
     <string name="power_center_list_item_deep_save_title">การตั้งค่าขั้นสูง</string>
     <string name="power_center_list_item_battery_status_time">ชม.</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">หยุดการสแกน</string>
     <string name="hide_mode_result_summary_text">ปรับแต่งการตั้งค่าตัวประหยัดแบตเตอรี่ของแต่ละแอป</string>
     <string name="auto_task_result_summary_text">ตั้งค่างานอัตโนมัติสำหรับตัวประหยัดแบตเตอรี่</string>
     <string name="pc_settings_title">รายละเอียดการตั้งค่าแบตเตอรี่</string>
     <string name="pc_main_activity_back">ย้อนกลับ</string>
     <string name="extreme_power_save_mode_card_summary">เปิดใช้งานโหมดขั้นสูงเพื่อประหยัดพลังงานเมื่อแบตเตอรี่ต่ำ</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">ระบบ</string>
     <string name="apps_list_header_title_sms">ตรวจสอบแอปข้อความ</string>
     <string name="apps_list_header_title_sms_access">จำกัดการเข้าถึงรหัสยืนยัน</string>
@@ -1389,11 +1402,13 @@
     <string name="menu_text_optimize_manage">เพิ่มความเร็ว</string>
     <string name="menu_text_networkassistants">การใช้ข้อมูล</string>
     <string name="menu_summary_networkassistants">จัดการแพ็คเกจข้อมูลของคุณ</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">เกินขีดจำกัด</string>
     <string name="menu_summary_networkassistants_3">มีข้อมูลเหลือเพียงพอ</string>
     <string name="menu_summary_networkassistants_4">ใช้ข้อมูลหมดแล้ว</string>
     <string name="menu_text_networkassistants_remain">คงเหลือ %s</string>
     <string name="menu_text_networkassistants_danger">ใช้เกินไป %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1406,12 +1421,14 @@
     <string name="menu_summary_garbage_cleanup">ไม่มีขยะ</string>
     <string name="menu_summary_garbage_cleanup_2">ปริมาณขยะ</string>
     <string name="menu_summary_garbage_cleanup_3">ล้างขยะทันที</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">การใช้แบตเตอรี่</string>
     <string name="menu_summary_power_manager">ตัวประหยัดแบตเตอรี่ช่วยให้โทรศัพท์ของคุณใช้งานได้นานขึ้น</string>
     <string name="menu_summary_power_manager_1">ชาร์จแบตเตอรี่เต็มแล้ว</string>
     <string name="menu_summary_power_manager_2">คงเหลือ %s</string>
     <string name="menu_summary_power_manager_3">เสียบที่ชาร์จ</string>
     <string name="menu_summary_power_manager_4">ชาร์จเต็มในอีก %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">การสแกนครั้งล่าสุดถูกยกเลิก</string>
     <string name="examination_score_100">ไม่พบสิ่งผิดปกติ!</string>
     <string name="examination_score_80_100">ยังปรับแต่งเล็กน้อยให้ดีขึ้นได้อีก</string>
@@ -1645,8 +1662,8 @@
     <string name="toast_garbage_lib">ตัวทำความสะอาดได้เปิดใช้การอัพเดทอัตโนมัติแล้ว</string>
     <string name="title_app_lock_disable">ล็อกแอป</string>
     <string name="summary_app_lock_disable">ใช้งานล็อกแอปเพื่อป้องกันแอปของคุณ</string>
-    <string name="title_first_aid_kit">การช่วยเหลือเบื้องต้น</string>
-    <string name="summary_first_aid_kit">แก้ปัญหาโดยใช้ชุดการช่วยเหลือเบื้องต้นของเรา</string>
+    <string name="title_first_aid_kit">แก้ปัญหา</string>
+    <string name="summary_first_aid_kit">แก้ปัญหาบนอุปกรณ์ของคุณตอนนี้</string>
     <string name="button_first_aid_kit">แก้ไขตอนนี้</string>
     <string name="info_and_call">การโทรและข้อความ</string>
     <string name="SMS_and_MMS">ข้อความและ MMS</string>
@@ -1789,6 +1806,7 @@
     <string name="card_main_deepclean_wechat_action">ล้าง</string>
     <string name="card_main_sectool_title">เครื่องมือ</string>
     <string name="card_main_monthreport_action">เรียกดู</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ทดสอบเครือข่าย</string>
     <string name="card_main_netcheck_summary">ทดสอบการเชื่อมต่อสำหรับปัญหาเครือข่าย</string>
     <string name="card_main_netcheck_action">ทดสอบ</string>
@@ -2362,6 +2380,7 @@
     <string name="gb_create_icon_summary">สร้างปุ่มลัดหน้าจอหลัก</string>
     <string name="title_reply">ความคิดเห็น</string>
     <string name="title_like">ถูกใจ</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">ข้อมูลมือถือ</string>
     <string name="game_wid_viewpoint_buttom">พักสักนิด</string>
     <string name="video_repeat">เล่นอีกครั้ง</string>
@@ -2388,7 +2407,7 @@
     <string name="first_aid_scanning_item3">กำลังตรวจสอบการตั้งค่าที่ไม่ถูกต้อง…</string>
     <string name="first_aid_scanning_item4">กำลังตรวจสอบปัญหาด้านแบตเตอรี่…</string>
     <string name="first_aid_scanning_item5">กำลังตรวจสอบปัญหาอื่นๆ…</string>
-    <string name="first_aid_activity_title">การช่วยเหลือเบื้องต้น</string>
+    <string name="first_aid_activity_title">แก้ปัญหา</string>
     <string name="first_aid_item1_content">ประสิทธิภาพ</string>
     <string name="first_aid_item2_content">เครือข่าย</string>
     <string name="first_aid_item3_content">การตั้งค่า</string>
@@ -2416,7 +2435,7 @@
     <string name="first_aid_result_summary_normal">ไม่พบสิ่งผิดปกติ!</string>
     <string name="first_aid_result_summary_not_finished">สแกนไม่สำเร็จ อาจมีความเสี่ยง ความเสี่ยงบางอย่างอาจไม่สามารถตรวจพบได้</string>
     <string name="first_aid_result_feedback_title">ข้อเสนอแนะ</string>
-    <string name="first_aid_result_feedback_summary">การสแกนเบื้องต้นไม่พบปัญหาใดๆ อย่างไรก็ตามฉันเห็นบางส่วน</string>
+    <string name="first_aid_result_feedback_summary">ไม่พบปัญหาใดๆ อย่างไรก็ตามฉันเห็นบางอย่าง</string>
     <string name="first_aid_result_feedback_button">ส่ง</string>
     <string name="first_aid_card_kadun_title">อุปกรณ์ช้าลง</string>
     <string name="first_aid_card_kadun_summary1">เพิ่มพื้นที่จัดเก็บข้อมูลเพื่อให้อุปกรณ์ของคุณทำงานได้ตามปกติ</string>

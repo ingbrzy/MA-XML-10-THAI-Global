@@ -97,6 +97,7 @@
     <string name="card_title_change">เพิ่มเติม</string>
     <string name="change_response_title">เปลี่ยนการตอบสนอง</string>
     <string name="click_to_share">แตะเพื่อแชร์</string>
+    <string name="close_alarm">ปิดใช้งาน</string>
     <string name="countdown_event_title">นับถอยหลัง: %1$s</string>
     <string name="countdown_notify_before_3_day_title">นับถอยหลัง: %1$s ใน 3 วัน</string>
     <string name="countdown_notify_title">นับถอยหลัง: %1$s</string>
@@ -291,6 +292,8 @@
     <string name="no_visiable_calendar_select_account">เพิ่มบัญชี</string>
     <string name="no_visiable_calendar_title">เพิ่มบัญชี</string>
     <string name="not_synced">ไม่ได้ซิงค์</string>
+    <string name="notification_channel_description" />
+    <string name="notification_channel_name">แจ้งเตือนของปฏิทิน</string>
     <string name="panchang_amanta">อามาวาสยันตะ</string>
     <string name="panchang_amanta_month">เดือนแบบอามาวาสยันตะ:</string>
     <string name="panchang_ayana">อยนะ</string>
