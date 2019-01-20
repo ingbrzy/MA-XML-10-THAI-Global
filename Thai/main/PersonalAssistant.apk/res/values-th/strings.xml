@@ -296,7 +296,6 @@
     <string name="sms_happened">เสร็จสิ้นแล้ว</string>
     <string name="stock_card_add">เพิ่มบริษัท</string>
     <string name="stock_card_title">หุ้น</string>
-    <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">โทนสี</string>
     <string name="stock_list_empty_text">คุณยังไม่ได้ติดตามบริษัทใดๆ</string>
     <string name="stock_provider">ราคาหุ้นของตลาดหลักทรัพย์โดย Webull</string>
