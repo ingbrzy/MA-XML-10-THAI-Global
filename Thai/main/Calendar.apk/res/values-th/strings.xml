@@ -19,6 +19,24 @@
     <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
     <string name="abc_shareactionprovider_share_with_application">แชร์กับ %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้</string>
+    <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_install_button">ติดตั้ง</string>
+    <string name="common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">ความพร้อมใช้งานของบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="common_google_play_services_unsupported_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+    <string name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_wear_update_text">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_signin_button_text">ลงชื่อเข้าใช้</string>
+    <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
     <string name="copy_email">คัดลอกที่อยู่อีเมล</string>
     <string name="copy_number">คัดลอกหมายเลขโทรศัพท์</string>
     <string name="done">ส่งคืน</string>
@@ -95,6 +113,7 @@
     <string name="card_manager">จัดการการสมัครสมาชิก</string>
     <string name="card_manager_no_data">ยังไม่สมัครสมาชิก</string>
     <string name="card_title_change">เพิ่มเติม</string>
+    <string name="cards_language_hint">บัตรบางอย่างอาจไม่สามารถใช้ได้ในภาษาที่เลือก</string>
     <string name="change_response_title">เปลี่ยนการตอบสนอง</string>
     <string name="click_to_share">แตะเพื่อแชร์</string>
     <string name="close_alarm">ปิดใช้งาน</string>
@@ -127,6 +146,7 @@
     <string name="date_interval_text_to">ถึง %1$s</string>
     <string name="date_jump_hint">ข้ามไปที่วันใดวันหนึ่ง</string>
     <string name="date_jump_title">ระบุวัน</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (วันนี้)"</string>
     <string name="day_view_new_event_hint">กำหนดการใหม่</string>
     <string name="default_reminder_mode">การเตือนกำหนดการ</string>
@@ -215,6 +235,17 @@
     <string name="global_football_final">รอบชิง</string>
     <string name="global_football_no_match">ไม่มีกำหนดการแข่งขันฟุตบอลในวันนี้</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="greetingcard_end_of_page">นั่นคือทั้งหมดสำหรับวันนี้ ติดตามต่อในวันพรุ่งนี้</string>
+    <string name="greetingcard_notification_desc">ตรวจสอบสถานะล่าสุด</string>
+    <string name="greetingcard_notification_title">ฟีดข้อมูลประจำวันของคุณพร้อมแล้ว!</string>
+    <string name="greetingcard_reminder_disabled_status">ปิดใช้งานสถานะ WhatsApp รายวัน</string>
+    <string name="greetingcard_reminder_disabled_text">เปิดใช้งานเตือนความจำ</string>
+    <string name="greetingcard_reminder_enabled_status">เปิดใช้งานสถานะ WhatsApp รายวัน</string>
+    <string name="greetingcard_reminder_enabled_text">เปิดใช้งานการแจ้งเตือน</string>
+    <string name="greetingcard_reminder_pref_desc">รับสถานะล่าสุดและคำทักทายทุกวัน</string>
+    <string name="greetingcard_reminder_pref_title">แจ้งให้ฉันทราบ</string>
+    <string name="greetingcard_select_activity_label">คำทักทายทั้งหมด</string>
+    <string name="greetingcard_view_all_text">เรียกดูทั้งหมด</string>
     <string name="guide_card_close">ปิด</string>
     <string name="guide_card_import">นำเข้า</string>
     <string name="guide_card_primary_fb_text">วันเกิดเพื่อนใน Facebook</string>
@@ -244,11 +275,13 @@
     <string name="install_email_finished">ติดตั้งเสร็จสิ้น</string>
     <string name="installing_email">กำลังติดตั้ง…</string>
     <string name="item_num_selected">เลือกแล้ว%1$dรายการ</string>
+    <string name="language_change_confirmation">เปลี่ยนเรียบร้อยแล้ว คุณสามารถเปลี่ยนภาษาในการตั้งค่าปฏิทิน</string>
     <string name="load_more_hint">โหลดกิจกรรมจาก %1$d</string>
     <string name="loading">รอสักครู่…</string>
     <string name="local_calendar_display_name">ปฎิทินในเครื่อง</string>
     <string name="local_owner_account_name">บันทึกไว้ในเครื่องแล้ว</string>
     <string name="lunar_date">วันทางจันทรคติ</string>
+    <string name="match_finished">ไม่สามารถตั้งการเตือนความจำสำหรับเกมต่อเนื่องและเกมที่แล้วเสร็จ</string>
     <string name="match_select_activity_label">ลีก</string>
     <string name="menu_general_preferences">ทั่วไป</string>
     <string name="menu_preferences">การตั้งค่า</string>
@@ -338,6 +371,7 @@
     <string name="pull_to_refresh_hint">ลากเพื่อโหลดกิจกรรมจาก %1$d</string>
     <string name="refresh">รีเฟรช</string>
     <string name="refreshing_hint">รอสักครู่…</string>
+    <string name="remind_me">เตือนความจำ</string>
     <string name="repeat_activity_label">กำหนดการซ้ำ</string>
     <string name="repeat_custom_activity_label">กำหนดเอง</string>
     <string name="repeat_custom_prompt">ทุกวันที่ %2$s ของ %1$s</string>
@@ -382,6 +416,7 @@
     <string name="setting_about_miui_version">เวอร์ชั่น MIUI:</string>
     <string name="setting_about_summary">เวอร์ชั่น:</string>
     <string name="setting_accounts">บัญชีปฏิทิน</string>
+    <string name="setting_change_language">เลือกภาษาของปฏิทิน</string>
     <string name="setting_fb_birthdays_title">นำเข้าวันเกิดจาก Facebook</string>
     <string name="setting_features_title">การตั้งค่าคุณลักษณะ</string>
     <string name="setting_holiday_display_desc">การ์ดวันหยุดจะอยู่ด้านล่างกำหนดการของคุณในหน้าแรก</string>
@@ -454,6 +489,7 @@
     <string name="unsubscribe_card">ยกเลิกการสมัคร</string>
     <string name="unsubscribe_card_success">ยกเลิกการสมัครจาก“%1$s”เรียบร้อยแล้ว</string>
     <string name="unsubscribing_card">ยกเลิกการสมัครแล้ว</string>
+    <string name="use_system_language">ใช้ภาษาของระบบ</string>
     <string name="user_notice_button_exit">ยกเลิก </string>
     <string name="user_notice_button_ok">ตกลง</string>
     <string name="user_notice_message">สำหรับการใช้ผลิตภัณฑ์นี้ คุณต้องเห็นด้วยกับ%1$sและ%2$sของ Xiaomi คุณลักษณะบางอย่างจำเป็นต้องมีการเชื่อมต่ออินเทอร์เน็ตและการเข้าถึงตำแหน่งและรายชื่อเพื่อการทำงานที่ปกติ</string>

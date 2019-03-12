@@ -4,16 +4,16 @@
     <string name="error_filename_too_long">ชื่อไฟล์ที่คุณป้อนยาวเกินไป</string>
     <string name="power_config_select_apps_title">แอป</string>
     <string name="power_config_event_delete">ลบ</string>
-    <string name="hide_mode_desc"><font color="#000000">เมื่อแอปดำเนินการในพื้นหลัง กิจกรรมของแอปจะได้รับการตรวจดูเพื่อลดการใช้แบตเตอรี่ ฟังก์ชันนี้จะรับข้อมูลผู้ใช้และใช้ตาม %s</font></string>
+    <string name="hide_mode_desc">เมื่อแอปดำเนินการในพื้นหลัง กิจกรรมของแอปจะได้รับการตรวจดูเพื่อลดการใช้แบตเตอรี่ ฟังก์ชันนี้จะรับข้อมูลผู้ใช้และใช้ตาม %s</string>
     <string name="privacy">นโยบายความเป็นส่วนตัว</string>
     <string name="power_hide_mode_title">แบตเตอรี่ &amp; ประสิทธิภาพ</string>
-    <string name="power_config_apps">ตัวประหยัดแบตเตอรี่</string>
+    <string name="power_config_apps">ตัวประหยัดแบตเตอรี่แอป</string>
     <string name="app_list_title">เลือกแอปที่ต้องการ</string>
     <string name="power_hide_mode_app_list_summary">ช่วยประหยัดแบตตัวเครื่องขณะทำงานในพื้นหลัง</string>
-    <string name="about_hide_mode">เกี่ยวกับตัวประหยัดแบตเตอรี่</string>
+    <string name="about_hide_mode">เกี่ยวกับตัวประหยัดแบตเตอรี่แอป</string>
     <string name="show_system_app">แสดงแอประบบ</string>
     <string name="hide_system_app">ซ่อนแอประบบ</string>
-    <string name="about_extreme_mode">โหมดสุดขีด</string>
+    <string name="about_extreme_mode">เครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
     <string name="scenario_policies_title">รูปแบบอัจฉริยะ</string>
     <string name="config_scenario_policies_title">รูปแบบ</string>
     <string name="scenario_policies_summary">ใช้กลยุทธ์การประหยัดพลังงานที่แตกต่างกันตามสถานการณ์</string>
@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">เมื่อใดก็ตามที่ MIUI ตรวจพบว่าคุณกำลังนอนหลับอยู่จะปิดแอปพื้นหลัง จำกัด บลูทูธ GPS ข้อมูลมือถือและการใช้ Wi-Fi และจะไม่เปิดหน้าจอสำหรับการแจ้งเตือน</string>
     <string name="nonui_mode_config_title">โหมดไม่เป็นแบบโต้ตอบ</string>
     <string name="nonui_mode_config_description">ห้ามเปิดหน้าจอสำหรับการแจ้งเตือน, ปิดไฟ LED, เซ็นเซอร์ลายนิ้วมือและระบบควบคุมแบบสัมผัสเพื่อประหยัดแบตเตอรี่เมื่อ MIUI ตรวจพบว่าคุณไม่ได้ใช้อุปกรณ์</string>
-    <string name="power_center">ตัวประหยัดแบตเตอรี่</string>
+    <string name="power_center">การเพิ่มประสิทธิภาพแบตเตอรี่</string>
     <string name="power_usage">การใช้พลังงาน</string>
     <string name="power_mode">การตั้งค่าพลังงาน</string>
     <string name="performance_category">โหมดประสิทธิภาพสูง</string>
@@ -36,8 +36,8 @@
     <string name="warm_performance_tip">อุปกรณ์ของคุณจะร้อนขึ้นเมื่อใช้งานกิจกรรมอื่นๆ</string>
     <string name="vip_feedback">ข้อเสนอแนะ VIP</string>
     <string name="vip_feedback_enable">เปิดใช้งานข้อเสนอแนะ VIP</string>
-    <string name="extreme_power_config_mode_category">โหมดสุดขีด</string>
-    <string name="extreme_power_config_mode_title">โหมดสุดขีด</string>
+    <string name="extreme_power_config_mode_category">เครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="extreme_power_config_mode_title">เครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
     <string name="extreme_power_config_mode_desc"><li>เครื่องมือประหยัดแบตเตอรี่ขั้นสูงจะหยุดกิจกรรมพื้นหลังทั้งหมดของแอปหลังจากคุณออกจากแอปและกลับไปยังหน้าจอหลัก แอปนี้จะไม่ส่งการแจ้งเตือนให้กับคุณหรือรับอัพเดต</li>"
 "<li>หากคุณต้องการให้แอปทำงานในพื้นหลัง ให้ล็อกมันไว้ในส่วน ล่าสุด หรือเพิ่มไปยังรายการยกเว้นพื้นหลังด้านล่าง จะอนุญาตให้มีแอปมากถึง 4 แอปทำงานในพื้นหลังระหว่างเปิดเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</li>"
 "<li>ตามค่าเริ่มต้นแล้ว เครื่องมือประหยัดแบตเตอรี่ขั้นสูงจะปิดใช้งาน NFC คุณสามารถเปลี่ยนค่านี้ได้ในส่วนการตั้งค่า</li>"
@@ -94,7 +94,7 @@
     <string name="appconfig_active_app_dialog_title">จัดการแอปใช้งาน</string>
     <string name="config_classify">จัดเรียงตามการตั้งค่าแอป</string>
     <string name="active_classify">จัดเรียงตามสถานะของกิจกรรม</string>
-    <string name="extreme_mode_max_item_alert">คุณสามารถเลือกได้สูงสุด 4 แอปให้ทำงานในพื้นหลังของโหมดสุดขีด</string>
+    <string name="extreme_mode_max_item_alert">คุณสามารถเลือกได้สูงสุด 4 แอปเพื่อให้ทำงานในพื้นหลังเมื่อเปิดใช้งานตัวประหยัดแบตเตอรี่ขั้นสูง</string>
     <string name="message_i_know">เข้าใจแล้ว</string>
     <string name="high_temp_state">ร้อนเกิน</string>
     <string name="high_temp_state_message">อุปกรณ์ของคุณร้อนเกินไป ข้อมูลมือถือ ฮอตสปอต Wi-Fi GPS และกล้อง จะถูกจำกัด</string>
@@ -110,8 +110,4 @@
     <string name="extreme_add_white_list_summary">เพิ่มมากถึง 4 แอป</string>
     <string name="adaptive_battery_title">ใช้การปรับแบตเตอรี่ตามสภาพผู้ใช้</string>
     <string name="adaptive_battery_summary">จำกัดแบตเตอรี่สำหรับแอปที่คุณไม่ค่อยได้ใช้</string>
-    <string name="dark_mode">โหมดมึด</string>
-    <string name="dark_mode_summary">สลับเป็นรูปแบบสีเข้มเพื่อประหยัดพลังงาน</string>
-    <string name="open_dark_mode">สลับเป็นโหมดมึด</string>
-    <string name="open_dark_mode_tip">คุณภาพการแสดงผลของคุณลักษณะบางอย่างอาจลดลงในโหมดมืด มันจะกลับสู่ปกติเมื่อคุณออกจากโหมดมืด เปลี่ยนเป็นโหมดมืดทันทีหรือไม่?</string>
 </resources>

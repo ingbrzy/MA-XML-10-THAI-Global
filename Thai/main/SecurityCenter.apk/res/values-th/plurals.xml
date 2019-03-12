@@ -182,6 +182,9 @@
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">ตรวจเช็คครั้งล่าสุดเมื่อ %d วันก่อน</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">พบความเสี่ยง %d แก้ไขตอนนี้</item>
+    </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d ความเสี่ยง</item>
     </plurals>
@@ -280,9 +283,6 @@
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d แอปซ่อนอยู่</item>
-    </plurals>
-    <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">%dแอปอาจแสดงไม่ถูกต้อง โปรดจำกัดการแจ้งเตือนแบบลอยตัว</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d ปัญหาต้องการการเพิ่มประสิทธิภาพ</item>

@@ -30,6 +30,9 @@
     <string name="other_settings_auto_update_summary">MIUI จะเลือกเวลาที่ดีที่สุดในการติดตั้งการอัปเดต</string>
     <string name="other_settings_ad_enable">การแนะนำเกี่ยวกับโฆษณาส่วนบุคคล</string>
     <string name="other_settings_ad_enable_summary">รับโฆษณาที่ปรับเปลี่ยนในแบบของคุณตามข้อมูลพฤติกรรมของคุณ</string>
+    <string name="other_settings_enhanced_lockscreen">ภาพพื้นหลังรายวัน</string>
+    <string name="other_settings_enhanced_lockscreen_summary">รับรูปภาพและเรื่องราวที่จัดไว้ให้กับหน้าจอล็อกของคุณทุกวัน ตามข้อตกลงและเงื่อนไข</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">ข้อตกลงและเงื่อนไข</string>
     <string name="back">ย้อนกลับ</string>
     <string name="next">ถัดไป</string>
     <string name="skip_underline">ข้ามขั้นตอนนี้</string>
@@ -52,6 +55,7 @@
     <string name="terms_of_use_lable_gms">, Google Play services</string>
     <string name="terms_of_use_label_systemhelper">, บริการลงทะเบียนด้วยตนเอง</string>
     <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
+    <string name="terms_of_use_lable_vsimcore">, MConnService</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ Facemoji ก่อนที่จะใช้คุณลักษณะนี้"</string>
@@ -105,13 +109,14 @@
 1. เมื่อหน้าจอเปิดอยู่
 2. เมื่อคุณกำลังฟังเพลงในขณะปิดหน้าจอ"</string>
     <string name="voice_assist_advice">Mi AI อณุญาตให้คุณใช้การควบคุมด้วยเสียง แต่จะใช้พลังงานมากกว่าเดิม (+1% ทุกชั่วโมง)</string>
-    <string name="ai_button_title">เกี่ยวกับปุ่ม AI</string>
-    <string name="ai_button_desc">ใช้ปุ่มนี้เพื่อเปิด Mi AI และทำงานของคุณให้เสร็จสิ้นด้วยเสียงของคุณ</string>
+    <string name="ai_button_title">ปุ่ม AI</string>
+    <string name="ai_button_desc">รับสิทธิ์เข้าถึงการสั่งงานด้วยเสียงอัจฉริยะของคุณโดยทันที</string>
     <string name="ai_button_long_press">กดค้าง</string>
-    <string name="ai_button_long_press_desc">พูดคำสั่งของคุณและปล่อยปุ่ม</string>
+    <string name="ai_button_long_press_desc">กดค้างที่ปุ่ม AI เพื่อพูดกับ Mi AI</string>
     <string name="ai_button_single_press">กด</string>
-    <string name="ai_button_single_press_desc">ใช้งาน Mi AI</string>
+    <string name="ai_button_single_press_desc">กดปุ่ม AI เพื่อดูปุ่มลัด Mi AI</string>
     <string name="ai_button_double_press">กดสองครั้ง</string>
-    <string name="ai_button_double_press_desc">ติดตั้งคุณลักษณะ Mi AI</string>
-    <string name="zone_picker_title">Choose time zone</string>
+    <string name="ai_button_double_press_desc">กดปุ่ม AI สองครั้งเพื่อเสร็จสิ้นงานที่กำหนดเอง</string>
+    <string name="zone_picker_title">เลือกเขตเวลา</string>
+    <string name="locale_picker_other_locale_title">พื้นที่อื่นๆ</string>
 </resources>

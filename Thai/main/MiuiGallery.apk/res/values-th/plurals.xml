@@ -108,9 +108,6 @@
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">ข้าม %1$d รูปภาพที่ไม่สามารถแสดงผลได้</item>
     </plurals>
-    <plurals name="file_count_format">
-        <item quantity="other">รวมทั้งหมด %1$d รายการ</item>
-    </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d รายการกำลังรอการสำรองข้อมูล</item>
     </plurals>
@@ -203,5 +200,11 @@
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">%d รายการ</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">รวมทั้งหมด %1$d รายการ</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d ไฟล์</item>
     </plurals>
 </resources>

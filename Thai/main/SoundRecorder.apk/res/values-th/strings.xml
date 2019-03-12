@@ -64,6 +64,12 @@
     <string name="keywords_search_call_record">บันทึกการโทร;บันทึกการโทร;บันทึกสายสนทนา;บันทึกสายสนทนา</string>
     <string name="keywords_search_record">การบันทึกใหม่;เพิ่มการบันทึก;การบันทึก;การบันทึก;สำเนา;อัดเสียง;เครื่องบันทึกเสียง;เครื่องบันทึกเสียงพูด;เครื่องบันทึกเสียง;แอปบันทึกเสียง;แอปบันทึก;ฉันจะบันทึกได้อย่างไร;ฉันจะบันทึกเสียงได้อย่างไร;บันทึกที่ไหน;เครื่องบันทึกเสียง MIUI</string>
     <string name="keywords_search_record_list">เครื่องบันทึกเสียง;บันทึกความจำ;บันทึกความจำ;บันทึกเสียง;แชร์การบันทึก;แชร์การบันทึก;การบันทึก;การบันทึก</string>
+    <string name="korea_permission_phone">โทรศัพท์</string>
+    <string name="korea_permission_phone_resc">สำหรับการเข้าถึงสถานะอุปกรณ์และการจัดการการบันทึกระหว่างการโทร</string>
+    <string name="korea_permission_record">ไมโครโฟน</string>
+    <string name="korea_permission_record_resc">สำหรับการบันทึกเสียง</string>
+    <string name="korea_permission_storage">พื้นที่จัดเก็บ</string>
+    <string name="korea_permission_storage_desc">สำหรับการจัดเก็บบันทึก</string>
     <string name="loading_order_list">รอสักครู่…</string>
     <string name="loading_order_list_empty">ไม่มีคำสั่งซื้อ</string>
     <string name="low_battery_error">เหลือแบตเตอรี่น้อยกว่า 5% หยุดและจัดเก็บเสียงที่บันทึกของคุณเพื่อป้องกันการสูญหาย</string>

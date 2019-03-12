@@ -15,6 +15,7 @@
     <string name="activity_find_city_dialog_cancel">ยกเลิก</string>
     <string name="activity_find_city_dialog_message">อนุญาตให้สภาพอากาศเข้าถึงตำแหน่งของคุณเพื่อรับข้อมูลตำแหน่งที่แม่นยำ</string>
     <string name="activity_find_city_dialog_message_global">เปิดใช้บริการตำแหน่งพิกัด และอนุญาตให้อุปกรณ์ของคุณกำหนดตำแหน่งโดยใช้เครือข่ายไร้สาย</string>
+    <string name="activity_find_city_dialog_message_location_service">หากต้องการรับข้อมูลสภาพอากาศที่เกี่ยวข้อง อนุญาตให้สภาพอากาศเข้าถึงตำแหน่งของคุณ</string>
     <string name="activity_find_city_dialog_set">การตั้งค่า</string>
     <string name="activity_find_city_dialog_title">การเข้าถึงตำแหน่งพิกัด</string>
     <string name="activity_main_clickable">></string>
@@ -90,10 +91,12 @@
     <string name="daily_forecast_add_city_message">ติดตามสภาพอากาศใน %1$s สำหรับการคาดการณ์รายละเอียดเพิ่มเติม</string>
     <string name="daily_forecast_add_city_title">ติดตามสภาพอากาศใน %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"รับข้อมูลสภาพอากาศไม่ได้
 ลากลงเพื่อรีเฟรชหรือตรวจสอบการตั้งค่าเครือข่าย"</string>
     <string name="data_provided_by">ข้อมูลบางส่วนจาก</string>
     <string name="edit_city">จัดการเมือง</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">กำลังอัปเดต…</string>
     <string name="empty_view_net_unavailable">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="empty_view_refresh">ลองอีกครั้ง</string>
@@ -112,6 +115,8 @@
     <string name="first_start_network_title">การเชื่อมกับต่ออินเตอร์เน็ตและการเข้าถึงตำแหน่ง</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">ขณะนี้</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">พยากรณ์อากาศ 24 ชั่วโมง</string>
     <string name="hourly_forecast_title_hourly_desc">พยากรณ์รายชั่วโมง</string>
@@ -127,9 +132,11 @@
     <string name="indices_title_feel">รู้สึกจริง</string>
     <string name="indices_title_pressure">ความกดอากาศ</string>
     <string name="install">ติดตั้ง</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ความกดอากาศ</string>
     <string name="international_details_title">รายละเอียด</string>
     <string name="international_details_uv_index_title">รังสียูวี</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ลม</string>
     <string name="it_is_going_to_rain">ฝนกำลังจะตก</string>
     <string name="locate_fail_detail_err">"ไม่สามารถระบุตำแหน่งอุปกรณ์ได้
@@ -150,6 +157,7 @@
     <string name="minute_rain_progress_indicator_original_time">- -</string>
     <string name="minute_rain_pull_down_refresh">ลากลงเพื่อรีเฟรชหน้าจอ</string>
     <string name="minute_rain_refreshing_now">กำลังรีเฟรช…</string>
+    <string name="missing_required_permission">คุณได้ปิดใช้การอนุญาตที่จำเป็น</string>
     <string name="more_details">รายละเอียดเพิ่มเติม</string>
     <string name="network_not_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="network_unavailable">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
@@ -165,6 +173,14 @@
     <string name="particulate_matter_exceeded">สูง</string>
     <string name="particulate_matter_not_exceeded">ปกติ</string>
     <string name="particulate_matter_serious_exceeded">สูงมาก</string>
+    <string name="permission_device_info">ข้อมูลอุปกรณ์</string>
+    <string name="permission_device_introduce">สำหรับการรับรู้ ID อุปกรณ์ตามรุ่นของอุปกรณ์และ IMEI รวมถึงการให้บริการที่มีการแปลตามภาษาที่ต้องการ</string>
+    <string name="permission_exit">ออก</string>
+    <string name="permission_privacy">นโยบายความเป็นส่วนตัว (บังคับ)</string>
+    <string name="permission_select_all">เลือกทั้งหมด</string>
+    <string name="permission_storage">ที่จัดเก็บข้อมูล</string>
+    <string name="permission_storage_introduce">สำหรับการเข้าถึงรายการในอุปกรณ์และบันทึกไฟล์</string>
+    <string name="permission_user_protocol">ข้อตกลงการใช้งาน (บังคับ)</string>
     <string name="policy_settings">ข้อตกลงและเงื่อนไข</string>
     <string name="precipitation_degree_five">หนักมาก</string>
     <string name="precipitation_degree_four">หนัก</string>
@@ -204,6 +220,7 @@
     <string name="share_menu_title">แชร์</string>
     <string name="share_subject">แชร์</string>
     <string name="share_weather_desc">\#MIUI สภาพอากาศ#วันนี้ %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ไม่สามารถจัดเก็บภาพหน้าจอได้</string>
     <string name="some_where_on_earth">ที่ไหนสักแห่งบนโลก</string>
@@ -250,6 +267,8 @@
     <string name="view_indexes_item_today">วันนี้</string>
     <string name="view_indexes_item_tommorrow">พรุ่งนี้</string>
     <string name="weather_alert_channel_name">แจ้งเตือน</string>
+    <string name="weather_introduce">จะฝนตกหรือแจ่มใส อยู่กับคุณเสมอ</string>
+    <string name="weather_permission_agree">ยอมรับ</string>
     <string name="weather_service_channel_name">บริการพื้นหลัง</string>
     <string name="wind_direction_no_data">ลม</string>
     <string name="wind_unit">"%1$s กม/ชม

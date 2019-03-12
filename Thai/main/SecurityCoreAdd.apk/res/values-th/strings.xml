@@ -461,4 +461,5 @@
     <string name="dialog_verify_fingerprint_retry">ไม่สามารถยืนยันลายนิ้วมือได้ ลองใหม่อีกครั้ง</string>
     <string name="button_touch">วางนิ้วมือของคุณลงบนเซ็นเซอร์</string>
     <string name="button_input_password">ป้อนรหัสผ่าน</string>
+    <string name="master_clear_not_available">การรีเซ็ตเป็นค่าเริ่มต้นจากโรงงานถูกจำกัดโดยบริษัทของคุณ</string>
 </resources>

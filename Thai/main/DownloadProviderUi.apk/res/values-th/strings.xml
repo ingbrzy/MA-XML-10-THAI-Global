@@ -151,6 +151,14 @@
     <string name="install">ติดตั้ง</string>
     <string name="installing">กำลังติดตั้ง…</string>
     <string name="insufficient_space">พื้นที่จัดเก็บไม่เพียงพอ</string>
+    <string name="korean_all_choose_item_title">ฉันยอมรับข้อกำหนดและเงื่อนไขทั้งหมดด้านล่าง</string>
+    <string name="korean_permission_group_phone_describe">เข้าถึงอุปกรณ์ IMEI และสถานะครือข่าย รวบรวมข้อมูลเกี่ยวกับการดาวน์โหลดที่ล้มเหลวเพื่อปรับปรุงบริการ</string>
+    <string name="korean_permission_group_phone_title">โทรศัพท์</string>
+    <string name="korean_privacy_btn_accept">ยอมรับ</string>
+    <string name="korean_privacy_btn_exit">ออก</string>
+    <string name="korean_privacy_item_title">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
+    <string name="korean_privacy_tv_summary">อ่านรายการทั้งหมดต่อไปนี้อย่างถี่ถ้วนและเลือกว่าคุณยอมรับหรือไม่</string>
+    <string name="korean_user_agreement_item_title">ข้อตกลงการใช้งาน (จำเป็น)</string>
     <string name="load_finish_hint">นั่นคือทั้งหมดตอนนี้</string>
     <string name="loading">รอสักครู่…</string>
     <string name="media_filter">สื่อมีเดีย</string>
@@ -162,6 +170,7 @@
     <string name="menu_title_resume_all">เริ่มทั้งหมด</string>
     <string name="menu_title_settings">การตั้งค่า</string>
     <string name="net_error">เชื่อมต่อกับอินเตอร์เน็ตก่อนแล้วลองใหม่อีกครั้ง</string>
+    <string name="new_file_notification_title_image">รูปภาพ</string>
     <string name="no_file_hint">มีการดาวน์โหลดไฟล์นี้ดำเนินอยู่ก่อนแล้ว</string>
     <string name="no_result_for_keyword">ไม่พบการค้นหา \"%1$s\"</string>
     <string name="no_share_file">ไม่สามารถแชร์ไฟล์นี้ได้</string>

@@ -23,4 +23,5 @@
     <string name="debug_tool_email_body">สิ่งที่แนบมานี้คือฐานข้อมูลปฏิทิน ประกอบด้วยกำหนดการทั้งหมดและข้อมูลส่วนตัว กรุณาระมัดระวัง</string>
     <string name="channel_name">การเตือนปฏิทิน</string>
     <string name="channel_description" />
+    <string name="cta_notice">เปิดปฏิทินและอนุญาตให้เชื่อมต่อกัยอินเทอร์เน็ตก่อน</string>
 </resources>

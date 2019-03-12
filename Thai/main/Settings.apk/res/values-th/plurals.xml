@@ -20,6 +20,9 @@
         <item quantity="other">เวลาหน่วงสั้นมาก (%1$d มิลลิวินาที)</item>
         <item quantity="one">เวลาหน่วงสั้นมาก (%1$d มิลลิวินาที)</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$sชั่วโมง %2$s"</item>
+    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">ปิดแล้วสำหรับ %d แอป</item>
         <item quantity="one">ปิดแล้วสำหรับ %d แอป</item>

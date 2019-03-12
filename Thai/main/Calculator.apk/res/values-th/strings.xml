@@ -249,6 +249,11 @@
     <string name="tax_credit_mortgage">จำนอง</string>
     <string name="tax_credit_personal_income_tax">ภาษีเงินได้บุคคล</string>
     <string name="tax_credit_pretax_income">รายได้ก่อนหักภาษี (CNY)</string>
+    <string name="tax_detail">รายละเอียดภาษี</string>
+    <string name="tax_detail_amount">ยอดเงินภาษี</string>
+    <string name="tax_detail_rate">อัตราภาษี</string>
+    <string name="tax_detail_take_off">การหัก</string>
+    <string name="tax_detail_tax_payed">จำนวนเงินที่จ่าย</string>
     <string name="tax_edittext_hint" />
     <string name="tax_endowment">กองทุนการออมหลังเกษียณ</string>
     <string name="tax_fixed_salary_hint">ป้อนรายได้ก่อนหักภาษีของคุณ</string>
@@ -263,11 +268,13 @@
     <string name="tax_individual_income_tax_result">ผลลัพธ์</string>
     <string name="tax_injury">การบาดเจ็บ</string>
     <string name="tax_insurance_and_fund">ประกันภัย</string>
+    <string name="tax_insurance_and_fund_detail">รายละเอียดการประกันภัย</string>
     <string name="tax_last_salary_hint">ป้อนรายได้ของคุณ</string>
     <string name="tax_last_salary_number">รายได้</string>
     <string name="tax_location">ตำแหน่งพิกัด</string>
     <string name="tax_medical">การรักษาพยาบาล</string>
     <string name="tax_param_error">ป้อนอัตราเบี้ยประกันที่ถูกต้อง</string>
+    <string name="tax_payment_period">จำนวนการชำระ</string>
     <string name="tax_rate_provider">คำนวณตามระเบียบภาษีใหม่ ข้อมูลได้รับจาก hexun.com และ East Money</string>
     <string name="tax_result_real_get">หลังหักภาษี</string>
     <string name="tax_social_insurance">ประกันสังคม</string>
@@ -587,8 +594,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">ไม่สามารถเชื่อมต่อเพื่อดาวน์โหลด ตรวจสอบว่าแอปนี้มีสิทธิ์ที่จำเป็นทั้งหมดในการตั้งค่า > แอปที่ติดตั้งแล้ว</string>
     <string name="xiaomi_external_storage_unavailable">ที่เก็บข้อมูลไม่เพียงพอ ตรวจสอบการ SD การ์ด</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"แนะนำเวอร์ชั่น %1$s
  ขนาด: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"แนะนำเวอร์ชั่น %1$s

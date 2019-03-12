@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>วันพิเศษ</item>
+        <item>วันที่ต้องจดจำ</item>
+        <item>ช่วงเวลาที่มีชีวิตชีวา</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>เด็กชาย</item>
         <item>เด็กหญิง</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>วันหยุดสุดสัปดาห์ของฉัน</item>
+        <item>บิตของชีวิต</item>
+        <item>ความทรงจำสุดสัปดาห์</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>ย้าย</item>
+        <item>คัดลอก</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>มกราคม</item>
@@ -26,6 +41,11 @@
         <item>ตา</item>
         <item>ยาย</item>
     </string-array>
+    <string-array name="parties_title">
+        <item>ด้วยกัน</item>
+        <item>เวลาที่ดี</item>
+        <item>ในเวลาเดียวกัน</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>ฉัน</item>
         <item>ลูก</item>
@@ -48,5 +68,9 @@
         <item>ย่า</item>
         <item>ตา</item>
         <item>ยาย</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>ก้าวไปข้างหน้า</item>
+        <item>เต็มไปด้วยพลัง</item>
     </string-array>
 </resources>

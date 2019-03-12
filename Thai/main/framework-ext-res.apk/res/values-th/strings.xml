@@ -175,6 +175,12 @@
     <string name="wifi_assistant_wifi_no_internet">เครือข่าย Wi-Fi นี้ไม่มีอินเตอร์เน็ต</string>
     <string name="wifi_assistant_wifi_no_internet_detail">แตะเพื่อดูรายละเอียด</string>
     <string name="resolver_app_recommend_flag">แนะนำ</string>
+    <string name="resolver_checkbox_once">ครั้งเดียว</string>
+    <string name="resolver_checkbox_always">เสมอ</string>
+    <string name="resolver_mi_browser">Mi เบราว์เซอร์</string>
+    <string name="resolver_recommend_options_tag">ตัวเลือกคำแนะนำ</string>
+    <string name="resolver_offical_recommend">ทางการ</string>
+    <string name="resolver_other_method">ตัวเลือกอื่นๆ</string>
     <string name="voice_button_action_up">กดเพื่อพูด</string>
     <string name="voice_button_action_down">ปล่อยเพื่อค้นหา</string>
     <string name="voice_begin">คุณกำลังมองหาอะไร?</string>

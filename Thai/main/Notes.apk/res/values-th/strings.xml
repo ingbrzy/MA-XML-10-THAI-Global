@@ -118,6 +118,7 @@
     <string name="menu_title_select_folder">เลือกโฟลเดอร์</string>
     <string name="menu_unhide">เลิกซ่อน</string>
     <string name="menu_unstick">เลิกปักหมุด</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">ไม่ใช่ตอนนี้</string>
     <string name="note_description_content">แอปบันทึก เป็นเครื่องมือที่ยอดเยี่ยมสำหรับการบันทึกไอเดียของคุณ มีการแจ้งเตือนในตัวและซิงค์รายการของคุณกับ Mi คลาวด์ เพื่อให้คุณสามารถเข้าถึงได้ทุกที่ทุกเวลา ตรวจสอบให้แน่ใจว่าคุณรู้และเข้าใจคุณลักษณะเหล่านี้ก่อนที่จะลบแอป</string>
     <string name="note_description_title">เกี่ยวกับบันทึก</string>
@@ -129,8 +130,13 @@
     <string name="note_sort_way">เลือกเรียงลำดับบันทึกของคุณที่ต้องการ</string>
     <string name="notealert_enter">เปิดบันทึก</string>
     <string name="notealert_ok">เลิกแสดง</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">ไม่มีการเตือน</string>
     <string name="permdesc_accessNote">แอปต้องสงสัยอาจใช้วิธีนี้ในการเข้าถึงข้อมูลส่วนบุคคลของคุณ</string>
+    <string name="permission_intro_contact">สำหรับการทำเครื่องหมายบันทึกที่ถ่ายในระหว่างการโทร</string>
+    <string name="permission_intro_microphone">สำหรับบันทึกโน้ตแบบเสียง</string>
+    <string name="permission_intro_phone">สำหรับการทำเครื่องหมายบันทึกที่ถ่ายในระหว่างการโทร</string>
+    <string name="permission_intro_storage">สำหรับการบันทึกโน้ตและไฟล์แนบ</string>
     <string name="permlab_accessNote">บันทึกการเข้าถึง</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">ไม่ต้องยืนยันเมื่อมีการลบบันทึกย่อด้วยการใช้ท่าทาง</string>
     <string name="pref_title_cloud_trash_bin">ลบบันทึกใน Mi คลาวด์แล้ว</string>
@@ -213,6 +219,14 @@
     <string name="toast_reach_text_limit_truncate">บันทึกนี้ยาวเกินไป ข้อความบางส่วนได้ถูกตัดออก</string>
     <string name="toast_refuse_to_record_when_in_call">ไม่สามารถใช้คุณลักษณะนี้ในระหว่างการโทรได้</string>
     <string name="toast_refuse_to_record_when_in_multi_window">ไม่สามารถใช้คุณลักษณะนี้กับหน้าจอแยก</string>
+    <string name="toast_refuse_to_use_contact">"สิทธิ์ในการติดต่อถูกจำกัด
+อนุญาตให้ Notes อ่านผู้ติดต่อของคุณและค้นหาบัญชีในอุปกรณ์"</string>
+    <string name="toast_refuse_to_use_external_storage">"สิทธิ์ในการจัดเก็บข้อมูลถูกจำกัด
+อนุญาตให้บันทึกย่ออ่านเนื้อหาของการ์ด SD ของคุณ"</string>
+    <string name="toast_refuse_to_use_phone_state">"สิทธิ์โทรศัพท์ถูกจำกัด
+อนุญาตให้บันทึกย่ออ่านสถานะโทรศัพท์และข้อมูลระบุตัวตน"</string>
+    <string name="toast_refuse_to_use_record_audio">"สิทธิ์ไมโครโฟนถูกจำกัด
+อนุญาตให้บันทึกย่อบันทึกเสียง"</string>
     <string name="toolbar_check_description">เพิ่มช่องทำเครื่องหมาย</string>
     <string name="toolbar_delete_description">ลบบันทึกนี้</string>
     <string name="toolbar_gallery_description">เพิ่มรูปภาพ</string>

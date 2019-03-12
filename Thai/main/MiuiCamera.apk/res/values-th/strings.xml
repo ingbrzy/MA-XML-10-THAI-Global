@@ -459,6 +459,7 @@
     <string name="portrait_mode_depth_effect_success_hint">หน้าชัดหลังเบลอ</string>
     <string name="portrait_mode_use_hint">"โหมดภาพบุคคลจะทำให้พื้นหลังเบลอ
 และทำให้คนดูเด่นขึ้น"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"โหลดโหมดภาพคน
 ทำให้หน้าชัดหลังเบลอ"</string>
     <string name="pref_camera_square_mode_title">รูปสี่เหลี่ยม</string>
@@ -475,6 +476,7 @@
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">โหมด</string>
     <string name="button_front_camera_title">ถ่ายเซลฟี่</string>
     <string name="button_normal_video_title">บันทึกวิดีโอ</string>
@@ -590,6 +592,7 @@
     <string name="lighting_pattern_leaf">แสงใบไม้</string>
     <string name="lighting_pattern_dot">จุด</string>
     <string name="lighting_pattern_shutter">ผ้าม่าน</string>
+    <string name="lighting_pattern_holi">โฮลี</string>
     <string name="view_privacy_policy">ดูนโยบายความเป็นส่วนตัว</string>
     <string name="fps960_toast">ถ่ายภาพแบบเคลื่อนไหวช้าจะเริ่มที่ควอเตอร์สุดท้ายของการบันทึก</string>
     <string name="portrait_bokeh_text">โหมดภาพบุคคล</string>
@@ -610,27 +613,27 @@
     <string name="live_speed_extreme_fast">เร็วมาก</string>
     <string name="live_sticker_updating">กำลังอัปเดต…</string>
     <string name="live_sticker_network_error_hint">เครือข่ายผิดพลาด</string>
-    <string name="ultra_wide_mode">มุมกว้าง</string>
+    <string name="ultra_wide_mode">มุมกว้างพิเศษ</string>
     <string name="beauty_body">รูปร่าง</string>
     <string name="beauty_body_head">หัว</string>
     <string name="beauty_body_body">หน้าเรียว</string>
     <string name="beauty_body_shoulder">ไหล่</string>
     <string name="beauty_body_legged">ขา</string>
     <string name="beauty_body_reset_tip">รีเซ็ตเอฟเฟกต์รูปสำเร็จแล้ว</string>
-    <string name="ultra_wide_open_tip">โหมดมุมกว้าง</string>
-    <string name="ultra_wide_close_tip">โหมดมุมกว้างถูกปิดอยู่</string>
-    <string name="pref_camera_zoom_mode_entry_ultra">มุมกว้าง</string>
-    <string name="ultra_wide_recommend_tip_hint">ลองโหมดมุมกว้าง</string>
+    <string name="ultra_wide_open_tip">โหมดมุมกว้างพิเศษ</string>
+    <string name="ultra_wide_close_tip">โหมดมุมกว้างพิเศษถูกปิด</string>
+    <string name="pref_camera_zoom_mode_entry_ultra">กว้างพิเศษ</string>
+    <string name="ultra_wide_recommend_tip_hint">ลองโหมดมุมกว้างพิเศษ</string>
     <string name="camera_liveshot_on_tip">ภาพไดนามิก</string>
     <string name="camera_liveshot_off_tip">ปิดการถ่ายภาพแบบไดนามิก</string>
     <string name="accessibility_camera_liveshot_on">เปิดการถ่ายภาพแบบไดนามิก</string>
     <string name="accessibility_camera_liveshot_off">ปิดการถ่ายภาพแบบไดนามิก</string>
     <string name="beauty_tab_name_live_filter">ฟิลเตอร์</string>
     <string name="beauty_tab_name_live_beauty">ฟรุ๊งฟริ๊ง</string>
-    <string name="accessibility_ultra_wide_on">เปิดโหมดมุมกว้าง</string>
-    <string name="accessibility_ultra_wide_off">ปิดโหมดมุมกว้าง</string>
+    <string name="accessibility_ultra_wide_on">เปิดใช้งานโหมดมุมกว้างพิเศษ</string>
+    <string name="accessibility_ultra_wide_off">ปิดใช้งานโหมดมุมกว้างพิเศษ</string>
     <string name="ai_scene_top_tip">โหมดพระจันทร์</string>
-    <string name="pref_camera_ultra_wide_ldc_title">แก้ไขความผิดเพี้ยนของภาพมุมกว้าง</string>
+    <string name="pref_camera_ultra_wide_ldc_title">แก้ไขความผิดเพี้ยนของภาพมุมกว้างพิเศษ</string>
     <string name="pref_camera_ultra_wide_ldc_description">แก้ไขวัตถุที่บิดเบี้ยวโดยอัตโนมัติ</string>
     <string name="pref_camera_normal_wide_ldc_title">แก้ไขการบิดเบือนใบหน้าของภาพถ่ายกลุ่ม</string>
     <string name="pref_camera_normal_wide_ldc_description">แก้ไขใบหน้าที่บิดเบี้ยวของคนที่อยู่ใกล้กับขอบของเฟรม</string>
@@ -648,9 +651,9 @@
     <string name="live_edit_exit_confirm">หยุด</string>
     <string name="live_edit_share_title">แชร์</string>
     <string name="beauty_reset_toast">ลบเอฟเฟกต์ฟรุ๊งฟริ๊งสำเร็จแล้ว</string>
-    <string name="pref_camera_ultra_wide_mode_title">โหมดมุมกว้าง</string>
+    <string name="pref_camera_ultra_wide_mode_title">โหมดมุมกว้างพิเศษ</string>
     <string name="ultra_wide_mode_use_hint_text">"ใช้โหมดนี้เพื่อรวมฉากในรูปภาพของคุณ
-โหมดมุมกว้างมาเพื่อช่วยเหลือเมื่อคุณไม่สามารถย้ายออกจากฉาก"</string>
+โหมดมุมกว้างพิเศษมาเพื่อช่วยเหลือเมื่อคุณไม่สามารถย้ายออกจากฉาก"</string>
     <string name="live_reverse_message">ลบรายการที่จับถ่ายภาพก่อนหน้านี้?</string>
     <string name="live_reverse_confirm">ลบ</string>
     <string name="live_error_title">เวลาของระบบไม่ถูกต้อง</string>
@@ -675,4 +678,10 @@
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP เปิดอยู่</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">32MP ปิดอยู่</string>
     <string name="zoom_no_support_tip_48M">การซูมไม่ทำงานในโหมด 48MP</string>
+    <string name="hand_gesture_open_tip">แสดงฝ่ามือของคุณเพื่อเริ่มจับเวลา</string>
+    <string name="hand_gesture_tip">ชัตเตอร์ด้วยฝ่ามือ</string>
+    <string name="autozoom_landscape_hint">ถ่ายภาพในโหมดแนวนอนเพื่อให้ได้ผลที่ดีที่สุด</string>
+    <string name="super_night_toast">รักษาโทรศัพท์ของคุณให้มั่นคงในขณะที่ถ่ายรูป</string>
+    <string name="capture_back_pressed_hint">แตะอีกครั้งเพื่อออก</string>
+    <string name="video_ultra_clear_tip">4K UHD</string>
 </resources>

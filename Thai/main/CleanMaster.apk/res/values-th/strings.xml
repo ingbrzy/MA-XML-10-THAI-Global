@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">แพ็คเกจ</string>
     <string name="hints_residual_header_left">ไฟล์ตกค้าง</string>
     <string name="hints_memory_header_left">หน่วยความจำ</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ไฟล์ใหญ่: %d</string>
     <string name="hints_installed_apps_header_left">แอปที่ติดตั้งไว้: %d</string>
     <string name="toast_resolve_apk_error">แก้ไขข้อผิดพลาดไฟล์ APK</string>
@@ -299,6 +300,7 @@
     <string name="downloading">กำลังดาวน์โหลด</string>
     <string name="installing">กำลังติดตั้ง</string>
     <string name="start_install">ติดตั้งตอนนี้</string>
+    <string name="empty">" "</string>
     <string name="open_browser">เปิดด้วยเบราว์เซอร์</string>
     <string name="title_share_link">แชร์ลิงก์ URL</string>
     <string name="connecting">กำลังเชื่อมต่อ…</string>
@@ -355,7 +357,7 @@
     <string name="deepclean_size_summary_less">พื้นที่จัดเก็บบนอุปกรณ์ไม่เพียงพอ</string>
     <string name="deepclean_size_summary_not_enough">พื้นที่ว่างไม่เพียงพอ</string>
     <string name="deepclean_size_summary_normal">พื้นที่ว่างที่ใช้งานได้</string>
-    <string name="deepclean_size_summary_more">พื้นที่ว่างไม่เพียงพอ</string>
+    <string name="deepclean_size_summary_more">พื้นที่ว่างมีเพียงพอ</string>
     <string name="deepclean_cache_summary_empty">ทุกอย่างเรียบร้อย ไม่มีข้อมูลที่จะต้องล้าง</string>
     <string name="deepclean_app_summary_empty">ทุกอย่างเรียบร้อย ไม่มีแอปที่จะต้องลบ</string>
     <string name="deepclean_large_summary_empty">ทุกอย่างเรียบร้อย ไม่มีไฟล์ที่จะต้องลบ</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">ไม่พบไฟล์</string>
     <string name="app_usage_never">ไม่ได้ใช้เมื่อเร็วๆ นี้</string>
     <string name="app_usage_recently">ใช้งานเมื่อเร็วๆนี้</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font>สามารถล้างไฟล์เพิ่มเติม เพิ่มพื้นที่ว่างมากขึ้น.;</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> หน่วยความจำแคชของ WeChat. เพิ่มพื่้นที่ว่างมากขึ้น.;</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>คุณสามารถล้าง &lt;font color=#ff0000 >%1$s&lt;/font> หน่วยความจำแคชที่สร้างโดย QQ;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font>สามารถล้างไฟล์เพิ่มเติม เพิ่มพื้นที่ว่างมากขึ้น.;&lt;/Data></string>
+    <string name="resutl_function_wechat_clean_summary">&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> หน่วยความจำแคชของ WeChat. เพิ่มพื่้นที่ว่างมากขึ้น.;&lt;/Data></string>
+    <string name="resutl_function_qq_clean_summary">&lt;Data>คุณสามารถล้าง &lt;font color=#ff0000 >%1$s&lt;/font> หน่วยความจำแคชที่สร้างโดย QQ;&lt;/Data></string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">เกี่ยวกับตัวทำความสะอาด</string>
@@ -545,7 +547,6 @@
     <string name="onekeyclean_boost_available">คงเหลือ %s</string>
     <string name="onekeyclean_card_summery">ล้างขยะเพื่อเพิ่มพื้นที่ว่าง</string>
     <string name="onekeyclean_card_btn">ทำความสะอาดทันที</string>
-    <string name="memory_clean_icon_text">ล้างหน่วยความจำ</string>
     <string name="pref_title_create_onekeyclean_shortcut">แสดงปุ่มลัดบนหน้าจอหลัก</string>
     <string name="memory_clean_no_trash_tip">ไม่พบสิ่งผิดปกติ</string>
     <string name="toast_updater_open_4g_text">แอปจะถูกอัพเดทโดยใช้ข้อมูลมือถือ (4G)</string>

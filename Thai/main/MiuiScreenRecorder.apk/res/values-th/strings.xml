@@ -56,6 +56,8 @@
     <string name="no_sound">เงียบ</string>
     <string name="operation_delete">ลบ</string>
     <string name="operation_send">ส่ง</string>
+    <string name="permission_intro_microphone">สำหรับบันทึกเสียงเมื่อตั้งแหล่งกำเนิดเสียงเป็นไมโครโฟน</string>
+    <string name="permission_intro_storage">สำหรับการเก็บบันทึกหน้าจอ</string>
     <string name="quit_recording">ยุติการบันทึกวิดีโอหน้าจอ</string>
     <string name="recording_failure">ไม่สามารถบันทึกได้ เริ่มต้นใหม่</string>
     <string name="recording_max_size">การบันทึกถูกหยุด และบันทึกเนื่องจากขนาดของไฟล์วิดีโอถึงขีดจำกัด เริ่มต้นการบันทึกจากตำแหน่งที่คุณค้างไว้หากยังไม่เสร็จสิ้น</string>
@@ -72,6 +74,10 @@
     <string name="show_hard_key_summary">เมื่อกดปุ่มโฮม เมนู และปุ่มย้อนกลับจะแสดงข้อความแจ้งเตือน</string>
     <string name="show_screen_touch">แสดงตำแหน่งของการแตะ</string>
     <string name="show_screen_touch_summary">แสดงตำแหน่งการแตะโดยใช้จุดสีขาว</string>
+    <string name="size_byte">B</string>
+    <string name="size_gigabyte">GB</string>
+    <string name="size_kilobyte">KB</string>
+    <string name="size_megabyte">MB</string>
     <string name="sound_source">แหล่งที่มาของเสียง</string>
     <string name="sound_source_summary">เสียงจากมือถือหรือจากไมค์</string>
     <string name="sound_source_summary_without_system_sounds">ใช้ไมโครโฟนหรือปิดเสียง</string>

@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>กำหนดเอง</item>
-        <item>ตัวประหยัดแบตเตอรี่</item>
+        <item>ตัวประหยัดแบตเตอรี่ MIUI</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>แอปใช้งาน</item>
@@ -24,7 +24,7 @@
     <string-array name="thermal_summaries">
         <item>จัดลำดับความสำคัญของการควบคุมอุณหภูมิ</item>
         <item>จัดลำดับความสำคัญของประสิทธิภาพ</item>
-        <item>ไม่สามารถทำงานในโหมดสุดขีด</item>
+        <item>ไม่ได้รับการสนับสนุนจากตัวประหยัดแบตเตอรี่ขั้นสูง</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>ประสิทธิภาพ</item>
