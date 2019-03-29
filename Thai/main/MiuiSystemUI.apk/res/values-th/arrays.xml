@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -37,24 +55,24 @@
         <item>ไม่ต้องแสดงไอคอนนี้</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
+        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
+        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
+        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
         <item>โมโน</item>
         <item>สเตอริโอ</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
+        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
         <item>โมโน</item>
         <item>สเตอริโอ</item>
     </string-array>
@@ -71,46 +89,56 @@
         <item>ความพยายามที่ดีที่สุด (ปรับเปลี่ยนอัตราบิต)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
+        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
+        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
+        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ เสียง</item>
+        <item>Qualcomm® aptX™ HD เสียง</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive เสียง</item>
         <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
+        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ เสียง</item>
+        <item>Qualcomm® aptX™ HD เสียง</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive เสียง</item>
         <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | ใช้งานได้"</item>
+        <item>" | ใช้งานได้ (สื่อมีเดีย)"</item>
+        <item>" | ใช้งานได้ (โทรศัพท์)"</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_version_values">
         <item>avrcp14</item>
+        <item>avrcp13</item>
         <item>avrcp15</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (ค่าเริ่มต้น)</item>
+        <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
@@ -129,14 +157,12 @@
         <item>ธรรมชาติ</item>
         <item>มาตรฐาน</item>
     </string-array>
+    <array name="data_type_name_mcc_mnc_key" />
+    <array name="data_type_name_mcc_mnc_value" />
     <string-array name="debug_hw_overdraw_entries">
         <item>ปิด</item>
         <item>แสดงพื้นที่การวาดเกิน</item>
         <item>แสดงพื้นที่สำหรับตาบอดสี (Deuteranomaly)</item>
-    </string-array>
-    <string-array name="debug_hw_renderer_entries">
-        <item>โอเพนจีแอล (ค่าเริ่มต้น)</item>
-        <item>โอเพนจีแอล (เงา)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>ไม่มี</item>
@@ -213,13 +239,13 @@
     <string-array name="select_logpersist_summaries">
         <item>ปิด</item>
         <item>บันทึกบัฟเฟอร์ทั้งหมด</item>
-        <item>ทั้งหมดไม่ใช่วิทยุยกเว้นบันทึกบัฟเฟอร์</item>
+        <item>ทั้งหมดยกเว้นบันทึกบัฟเฟอร์วิทยุ</item>
         <item>เคอร์เนลบันทึกบัฟเฟอร์เท่านั้น</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>ปิด</item>
         <item>ทั้งหมด</item>
-        <item>วิทยุยกเว้นทั้งหมด</item>
+        <item>ทั้งหมดยกเว้นวิทยุ</item>
         <item>เคอร์เนลเท่านั้น</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
@@ -234,7 +260,7 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>ปิดภาพเคลื่อนไหว</item>
-        <item>ภาพเคลื่อนไหวซูม .5x</item>
+        <item>ภาพเคลื่อนไหวซูม 5x</item>
         <item>ภาพเคลื่อนไหวซูม 1x</item>
         <item>ภาพเคลื่อนไหวซูม 1.5x</item>
         <item>ภาพเคลื่อนไหวซูม 2x</item>
@@ -266,7 +292,7 @@
     <string-array name="usb_configuration_titles">
         <item>กำลังชาร์จ</item>
         <item>MTP (โอนไฟล์)</item>
-        <item>PTP (โอนรูปภาพ)</item>
+        <item>PTP (โอนรูปภาพโปรโตคอล)</item>
         <item>RNDIS (ต่อ USB)</item>
         <item>แหล่งที่มาของเสียง</item>
         <item>MIDI</item>
@@ -330,7 +356,7 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>ปิดภาพเคลื่อนไหว</item>
-        <item>ภาพเคลื่อนไหวซูม .5x</item>
+        <item>ภาพเคลื่อนไหวซูม 5x</item>
         <item>ภาพเคลื่อนไหวซูม 1x</item>
         <item>ภาพเคลื่อนไหวซูม 1.5x</item>
         <item>ภาพเคลื่อนไหวซูม 2x</item>

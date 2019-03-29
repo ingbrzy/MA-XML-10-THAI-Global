@@ -72,6 +72,10 @@
         <item quantity="other">ใน %d ปี</item>
         <item quantity="one">ใน %d ปี</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">ลองอีกครั้งใน %d วินาที</item>
+        <item quantity="one">ลองอีกครั้งใน 1 วินาที</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">%d วันที่แล้ว</item>
         <item quantity="one">%d วันที่แล้ว</item>
@@ -113,8 +117,8 @@
         <item quantity="one">เป็นเวลา 1 ชม.</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary">
-        <item quantity="other">ระยะเวลา %1$d ชั่วโมง (จนถึงเวลา %2$s)</item>
-        <item quantity="one">ระยะเวลา 1 ชั่วโมง (จนถึงเวลา %2$s)</item>
+        <item quantity="other">ระยะเวลา %1$d ชั่วโมง (จนถึง %2$s)</item>
+        <item quantity="one">ระยะเวลา 1 ชั่วโมง (จนถึง %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary_short">
         <item quantity="other">เป็นเวลา %1$d ชม. (จนถึง %2$s)</item>

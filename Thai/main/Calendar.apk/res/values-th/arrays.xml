@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aquarius_info">
-        <item>ราศีกุมภ์</item>
+        <item>aquarius</item>
         <item>ราศีกุมภ์</item>
         <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="aries_info">
-        <item>ราศีเมษ</item>
+        <item>aries</item>
         <item>ราศีเมษ</item>
         <item>21/3 - 19/4</item>
     </string-array>
@@ -15,12 +15,12 @@
         <item>บูนเดสลิกา</item>
     </string-array>
     <string-array name="cancer_info">
-        <item>ราศีกรกฎ</item>
+        <item>cancer</item>
         <item>ราศีกรกฎ</item>
         <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="capricorn_info">
-        <item>ราศีมกร</item>
+        <item>capricorn</item>
         <item>ราศีมกร</item>
         <item>22/12 - 19/1</item>
     </string-array>
@@ -81,8 +81,12 @@
         <item>กิจกรรมนี้และในอนาคต</item>
         <item>กิจกรรมทั้งหมด</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
-        <item>ราศีเมถุน</item>
+        <item>gemini</item>
         <item>ราศีเมถุน</item>
         <item>21/5 - 21/6</item>
     </string-array>
@@ -91,12 +95,12 @@
         <item>ลาลิก้า</item>
     </string-array>
     <string-array name="leo_info">
-        <item>ราศีสิงห์</item>
+        <item>leo</item>
         <item>ราศีสิงห์</item>
         <item>23/7 - 23/8</item>
     </string-array>
     <string-array name="libra_info">
-        <item>ราศีตุล</item>
+        <item>libra</item>
         <item>ราศีตุล</item>
         <item>23/9 - 23/10</item>
     </string-array>
@@ -112,7 +116,7 @@
         <item>ที่สุดท้าย</item>
     </string-array>
     <string-array name="pisces_info">
-        <item>ราศีมีน</item>
+        <item>pisces</item>
         <item>ราศีมีน</item>
         <item>19/2 - 20/3</item>
     </string-array>
@@ -218,12 +222,12 @@
         <item>ไม่</item>
     </string-array>
     <string-array name="sagittarius_info">
-        <item>ราศีธนู</item>
+        <item>sagittarius</item>
         <item>ราศีธนู</item>
         <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
-        <item>ราศีพิจิก</item>
+        <item>scorpio</item>
         <item>ราศีพิจิก</item>
         <item>24/10 - 22/11</item>
     </string-array>
@@ -232,7 +236,7 @@
         <item>กัลโช่ซิลิอา</item>
     </string-array>
     <string-array name="taurus_info">
-        <item>ราศีพฤษภ</item>
+        <item>taurus</item>
         <item>ราศีพฤษภ</item>
         <item>20/4 - 20/5</item>
     </string-array>
@@ -332,7 +336,7 @@
         <item>ก่อน 1 วัน</item>
     </string-array>
     <string-array name="virgo_info">
-        <item>ราศีกันย์</item>
+        <item>virgo</item>
         <item>ราศีกันย์</item>
         <item>23/8 - 22/9</item>
     </string-array>

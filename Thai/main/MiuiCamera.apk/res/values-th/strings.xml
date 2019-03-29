@@ -459,6 +459,7 @@
     <string name="portrait_mode_depth_effect_success_hint">หน้าชัดหลังเบลอ</string>
     <string name="portrait_mode_use_hint">"โหมดภาพบุคคลจะทำให้พื้นหลังเบลอ
 และทำให้คนดูเด่นขึ้น"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"โหลดโหมดภาพคน
 ทำให้หน้าชัดหลังเบลอ"</string>
     <string name="pref_camera_square_mode_title">รูปสี่เหลี่ยม</string>
@@ -475,6 +476,7 @@
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">โหมด</string>
     <string name="button_front_camera_title">ถ่ายเซลฟี่</string>
     <string name="button_normal_video_title">บันทึกวิดีโอ</string>
@@ -601,7 +603,7 @@
     <string name="close_back_flash_toast">อุปกรณ์ของคุณร้อนเกินไป ไม่สามารถใช้แฟลชได้ขณะนี้</string>
     <string name="autozoom_hint">ติดตามสิ่งของที่เคลื่อนที่</string>
     <string name="autozoom_disabled_hint">หยุดการติดตามสิ่งของที่กำลังเคลื่อนที่</string>
-    <string name="autozoom_click_hint">แตะที่สิ่งของเพื่อเริ่มติดตาม อยู่ห่างอย่างน้อย 3 เมตรเพื่อผลลัพธ์ที่ดีที่สุด</string>
+    <string name="autozoom_click_hint">แตะวัตถุเพื่อให้วัตถุอยู่ในโฟกัสในขณะที่เคลื่อนไหว อยู่ห่างอย่างน้อย 3 เมตรเพื่อผลลัพธ์ที่ดีที่สุด</string>
     <string name="live_sticker_fragment_tab_name">สติ๊กเกอร์</string>
     <string name="live_speed_fragment_tab_name">ความเร็ว</string>
     <string name="live_speed_extreme_slow">ช้ามาก</string>
@@ -682,4 +684,8 @@
     <string name="super_night_toast">รักษาโทรศัพท์ของคุณให้มั่นคงในขณะที่ถ่ายรูป</string>
     <string name="capture_back_pressed_hint">แตะอีกครั้งเพื่อออก</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
+    <string name="pref_camera_video_bokeh_on">วิดีโอโบเก้</string>
+    <string name="pref_camera_video_bokeh_off">วิดีโอโบเก้ปิดอยู่</string>
+    <string name="macro_mode">มาโคร</string>
+    <string name="macro_mode_tip">ระยะห่างระหว่างเลนส์กับวัตถุไม่ควรเกิน 10 ซม.</string>
 </resources>

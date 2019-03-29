@@ -14,13 +14,10 @@
         <item>พอใจอย่างมาก</item>
     </string-array>
     <string-array name="trans_cancel_survey_title">
-        <item>การถ่ายโอนยาวนานเกินไป</item>
-        <item>การเชื่อมต่อถูกขัดจังหวะ</item>
-        <item>ฉันเลือกรายการถ่ายโอนผิด</item>
-        <item>ขั้นตอนมากเกินไป</item>
-        <item>แบตเครื่องอ่อนไป</item>
-        <item>รายการที่ถูกถ่ายโอนเสียหาย</item>
-        <item>ฉันไม่ได้ตั้งใจถ่ายโอน</item>
-        <item>อื่นๆ</item>
+        <item>ประสบการณ์โดยรวม</item>
+        <item>ระยะเวลาถ่ายโอน</item>
+        <item>กระบวนการอย่างง่าย</item>
+        <item>วิธีใช้อย่างชัดเจน</item>
+        <item>คุณลักษณะนี้มีประโยชน์</item>
     </string-array>
 </resources>

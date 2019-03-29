@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ปลั๊กอินบริการรักษาความปลอดภัย</string>
+    <string name="app_name">ปลั๊กอินบริการระบบ</string>
     <string name="ok_button">ตกลง</string>
     <string name="cancel_button">ยกเลิก</string>
     <string name="privacy_declare_dialog_title">เงื่อนไขการให้บริการ</string>
@@ -13,6 +13,7 @@
     <string name="no_network_btn">ลองอีกครั้ง</string>
     <string name="main_toolbar_purchase">ซื้อแพ็คเกจเพิ่ม</string>
     <string name="usage_sorted_loading_text">รอสักครู่…</string>
+    <string name="empty">" "</string>
     <string name="share">แชร์</string>
     <string name="open_browser">เปิดในเบราว์เซอร์</string>
     <string name="title_share_link">แชร์ลิงก์ URL</string>
@@ -34,4 +35,5 @@
     <string name="gb_alipays_can_not_complete">ไม่สามารถทำการชำระเงินได้ ติดตั้งเพื่อดำเนินการต่อ</string>
     <string name="xunyou_pay_webview">บริการ Xunyou</string>
     <string name="gamebox_no_network_btn">โหลดใหม่</string>
+    <string name="ad_downloading">ดาวน์โหลด…</string>
 </resources>

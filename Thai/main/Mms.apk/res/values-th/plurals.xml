@@ -10,7 +10,7 @@
         <item quantity="other">%d ข้อความยังไม่ได้ซิงค์</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">ลบ &lt;g example="15" id="number">%1$s&lt;/g> การสนทนาที่เลือกหรือไม่?</item>
+        <item quantity="other">ลบ %1$s การสนทนาที่เลือกหรือไม่?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
@@ -29,6 +29,9 @@
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s ข้อความ</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">คุณได้รับการเชิญแชทกลุ่ม %d</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s คน</item>

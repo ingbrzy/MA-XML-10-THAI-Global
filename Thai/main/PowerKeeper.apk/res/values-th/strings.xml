@@ -38,10 +38,17 @@
     <string name="vip_feedback_enable">เปิดใช้งานข้อเสนอแนะ VIP</string>
     <string name="extreme_power_config_mode_category">เครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
     <string name="extreme_power_config_mode_title">เครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="notification_open_extreme_mode_text">เปิดใช้งานเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="extreme_power_settings_title">การตั้งค่า</string>
+    <string name="notification_exit_extreme_mode_title">ปิดใช้งานเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="notification_exit_extreme_mode_text">แบตเตอรี่ชาร์จมากกว่า %s</string>
+    <string name="extreme_power_config_mode_summary">โหมดประหยัดแบตเตอรี่ขั้นสูงจะจำกัดการทำงานของกิจกรรมเบื้อหลังและหยุดการซิงค์</string>
     <string name="extreme_power_config_mode_desc"><li>เครื่องมือประหยัดแบตเตอรี่ขั้นสูงจะหยุดกิจกรรมพื้นหลังทั้งหมดของแอปหลังจากคุณออกจากแอปและกลับไปยังหน้าจอหลัก แอปนี้จะไม่ส่งการแจ้งเตือนให้กับคุณหรือรับอัพเดต</li>"
 "<li>หากคุณต้องการให้แอปทำงานในพื้นหลัง ให้ล็อกมันไว้ในส่วน ล่าสุด หรือเพิ่มไปยังรายการยกเว้นพื้นหลังด้านล่าง จะอนุญาตให้มีแอปมากถึง 4 แอปทำงานในพื้นหลังระหว่างเปิดเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</li>"
 "<li>ตามค่าเริ่มต้นแล้ว เครื่องมือประหยัดแบตเตอรี่ขั้นสูงจะปิดใช้งาน NFC คุณสามารถเปลี่ยนค่านี้ได้ในส่วนการตั้งค่า</li>"
 "<li>เพื่อตรวจสอบให้แน่ใจว่าคุณจะสามารถใช้คุณลักษณะทั้งหมดของอุปกรณ์ของคุณได้ตามปกติ เครื่องมือประหยัดแบตเตอรี่ขั้นสูงจะปิดใช้งานโดยอัตโนมัติเมื่อแบตเตอรี่ของคุณชาร์จถึง 30%</li></string>
+    <string name="extreme_add_white_list_title">รายการยกเว้นในพื้นหลัง</string>
+    <string name="extreme_add_white_list_summary">เพิ่มมากถึง 4 แอป</string>
     <string name="empty_title_apps_container_list">ไม่มีแอป</string>
     <string name="hints_loading_text">รอสักครู่…</string>
     <string name="config_mode_title">การตั้งค่าพื้นหลัง</string>
@@ -101,13 +108,6 @@
     <string name="atrace_start">กำลังบันทึกการใช้ atrace…</string>
     <string name="atrace_saving">กำลังเซฟบันทึก atrace…</string>
     <string name="atrace_saved">บันทึกเรียบร้อยแล้ว</string>
-    <string name="notification_open_extreme_mode_text">เปิดใช้งานเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
-    <string name="extreme_power_settings_title">การตั้งค่า</string>
-    <string name="notification_exit_extreme_mode_title">ปิดใช้งานเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
-    <string name="notification_exit_extreme_mode_text">แบตเตอรี่ชาร์จมากกว่า %s</string>
-    <string name="extreme_power_config_mode_summary">โหมดประหยัดแบตเตอรี่ขั้นสูงจะจำกัดการทำงานของกิจกรรมเบื้อหลังและหยุดการซิงค์</string>
-    <string name="extreme_add_white_list_title">รายการยกเว้นในพื้นหลัง</string>
-    <string name="extreme_add_white_list_summary">เพิ่มมากถึง 4 แอป</string>
     <string name="adaptive_battery_title">ใช้การปรับแบตเตอรี่ตามสภาพผู้ใช้</string>
     <string name="adaptive_battery_summary">จำกัดแบตเตอรี่สำหรับแอปที่คุณไม่ค่อยได้ใช้</string>
 </resources>

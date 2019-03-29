@@ -78,6 +78,7 @@
     <string name="respond_via_sms_custom_message">ข้อความกำหนดเอง</string>
     <string name="manageConferenceLabel">การจัดการประชุมทางโทรศัพท์</string>
     <string name="emergency_call_dialog_number_for_display">เลขหมายฉุกเฉิน</string>
+    <string name="volte_call">โทร VoLTE</string>
     <string name="notification_dialing">กำลังต่อสาย</string>
     <string name="notification_ongoing_call">ใช้สายอยู่</string>
     <string name="notification_on_hold">พักสายอยู่</string>

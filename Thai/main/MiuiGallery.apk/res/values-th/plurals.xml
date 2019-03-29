@@ -132,6 +132,9 @@
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d วิดีโอกำลังรอสำรองข้อมูล</item>
     </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">รวมทั้งหมด %1$d รายการ</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">รูปภาพที่เลือกไว้ไม่ได้อยู่บนอุปกรณ์ ดาวน์โหลดผ่านข้อมูลมือถือหรือไม่?</item>
     </plurals>
@@ -200,9 +203,6 @@
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">%d รายการ</item>
-    </plurals>
-    <plurals name="photo_count_format">
-        <item quantity="other">รวมทั้งหมด %1$d รายการ</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d ไฟล์</item>

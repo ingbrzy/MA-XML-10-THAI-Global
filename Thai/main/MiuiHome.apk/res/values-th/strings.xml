@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">เพิ่มไปยังหน้าแรก</string>
     <string name="activity_not_found">ไม่พบการติดตั้งแอปในเครื่อง</string>
     <string name="add_screen">เพิ่มหน้าจอ</string>
@@ -114,6 +115,7 @@
     <string name="edit_mode_group_error_full">พื้นที่ว่างไม่เพียงพอ</string>
     <string name="edit_mode_group_error_in_folder">ปิดโฟลเดอร์ก่อนที่จะจัดกลุ่มไอคอน</string>
     <string name="edit_mode_group_error_one_folder">ไอคอนที่เลือกไม่สามารถทำโฟลเดอร์ซ้ำได้</string>
+    <string name="edit_mode_top_menu_finish">เสร็จสิ้น</string>
     <string name="edit_mode_uninstall">ถอนการติดตั้ง</string>
     <string name="editing_add_widget_tips">แก้ไขวิดเจ็ต</string>
     <string name="editing_mode_enter_tip_text">จีบนิ้วเข้าเพื่อแก้ไขหน้าจอหลัก</string>
@@ -215,6 +217,7 @@
     <string name="menu_default_screen_preview">ตั้งค่าหน้าจอเริ่มต้น</string>
     <string name="menu_edit">แก้ไขหน้าจอหลัก</string>
     <string name="menu_exit_scene">ออกจาก Mi Space</string>
+    <string name="menu_finish">เสร็จสิ้น</string>
     <string name="menu_item_add_item">วางบนหน้าจอหลัก</string>
     <string name="menu_launcher_setting">การตั้งค่าชุดเรียกใช้ระบบ</string>
     <string name="menu_lock">รูปแบบล็อคหน้าจอหลัก</string>
@@ -352,15 +355,15 @@
     <string name="widget_gadget_player">เพลง</string>
     <string name="widget_global_search">ค้นหา</string>
     <string name="widget_quick_function">ฟังค์ชั่นทางลัด</string>
+    <string name="widgets_preview_title">เพิ่มวิดเจ็ต</string>
     <string name="home_gesture_content_center">ศูนย์เนื้อหา</string>
     <string name="home_gesture_global_search">ค้นหา</string>
     <string name="home_gesture_no_action">ไม่มี</string>
     <string name="home_gesture_notification_bar">การแจ้งเตือน</string>
     <string name="home_pull_down_action">เลื่อนลงบนหน้าจอหลัก</string>
     <string name="home_slide_up_action">เลื่อนขึ้นบนหน้าจอหลัก</string>
-    <string name="launcher_pull_down_title">เลื่อนขึ้นบนหน้าจอหลัก</string>
-    <string name="launcher_slide_up_title">เลื่อนลงบนหน้าจอหลัก</string>
-    <string name="menu_finish">เสร็จสิ้น</string>
-    <string name="minus_one_screen">ลบหนึ่งหน้าจอ</string>
-    <string name="widgets_preview_title">เพิ่มวิดเจ็ต</string>
+    <string name="launcher_pull_down_title">เลื่อนลงบนหน้าจอหลัก</string>
+    <string name="launcher_slide_up_title">เลื่อนขึ้นบนหน้าจอหลัก</string>
+    <string name="launcher_sliding_up_gesture">เลื่อนหน้าจอหลักขึ้นเพื่อเปิดการค้นหา</string>
+    <string name="minus_one_screen">App vault</string>
 </resources>

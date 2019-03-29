@@ -29,6 +29,8 @@
     <string name="already_updated">ล่าสุด</string>
     <string name="app_label">ข้อความ</string>
     <string name="app_name">อุปกรณ์</string>
+    <string name="application_list_title">แอปมินิ</string>
+    <string name="attach_group_chat">กลุ่มแชท</string>
     <string name="attach_image">รูปภาพ</string>
     <string name="attach_rcs_file">ไฟล์</string>
     <string name="attach_rcs_location">ตำแหน่งที่อยู่</string>
@@ -40,6 +42,7 @@
     <string name="attach_take_photo">ถ่ายภาพ</string>
     <string name="attach_transaction">โอนเงิน</string>
     <string name="attach_video">วิดีโอ</string>
+    <string name="attach_video_call">วิดีโอคอล</string>
     <string name="audio_download_failed">ไม่สามารถดาวน์โหลดไฟล์เสียง</string>
     <string name="audio_message_expired">ข้อความเสียงหมดอายุแล้ว</string>
     <string name="audio_message_mx_offline">ไม่สามารถดาวน์โหลดไฟล์เสียงได้ ข้อความ Mi ออฟไลน์อยู่หรือไม่พร้อมใช้งาน</string>
@@ -73,6 +76,7 @@
     <string name="button_unfold">เปิดออก</string>
     <string name="call_sender">โทรหาผู้ส่ง</string>
     <string name="can_not_send_by_rcs">ไม่สามารถใช้บริการข้อความของ China Mobile</string>
+    <string name="can_not_view_group_chat_stranger">ไม่สามารถดูรายละเอียดของคนแปลกหน้า</string>
     <string name="cannot_add_picture_and_video">ไม่สามารถเพิ่มวิดีโอและรูปภาพในหนึ่งสไลด์</string>
     <string name="cannot_add_slide_anymore">ไม่สามารถเพิ่มสไลด์ได้</string>
     <string name="cannot_forward_drm_obj">ไม่สามารถส่งต่อออบเจ็กต์ DRM ที่รวมอยู่ในข้อความ</string>
@@ -130,6 +134,7 @@
     <string name="confirm_restore_positive">คืนค่า</string>
     <string name="confirm_restore_title">กู้คืนข้อความ</string>
     <string name="confirm_send_mms">หนึ่งในผู้รับของคุณรวมที่อยู่อีเมลไว้ด้วย ข้อความนี้จะถูกส่งเป็น MMS ซึ่งอาจทำให้เกิดค่าใช้จ่ายเพิ่มเติมจากผู้ให้บริการของคุณ</string>
+    <string name="contact_not_exists">บุคคลนี้ไม่อยู่ในรายชื่อติดต่อของคุณ</string>
     <string name="context_menu_add_calendar">เพิ่มไปยังปฏิทิน</string>
     <string name="context_menu_add_contact">เพิ่มในรายชื่อ</string>
     <string name="context_menu_add_to_browser_favorite">เพิ่มไปยังหน้าที่คั่นไว้ของเบราว์เซอร์</string>
@@ -224,6 +229,7 @@
     <string name="file_size">ขนาด:</string>
     <string name="file_title">ชื่อ:</string>
     <string name="file_width_height">ขนาด:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">ข้อความใหม่</string>
     <string name="forward_from">ส่งต่อจาก:</string>
     <string name="forward_message_select_title">ส่งต่อข้อความ</string>
@@ -245,6 +251,7 @@
     <string name="group_resend_message">ส่งใหม่ (%d)</string>
     <string name="group_view_settings_disolved">ดูรายการไม่ได้ กลุ่มแชทนี้ถูกลบไปแล้ว</string>
     <string name="group_view_settings_not_memeber">ดูรายการไม่ได้ คุณไม่ได้เป็นสมาชิกของกลุ่มแชทนี้</string>
+    <string name="groupchat_list_title">กลุ่มแชท</string>
     <string name="guild_add_attachments">แตะเพื่อเพิ่มอีโมติคอนและรายการอื่นๆ</string>
     <string name="guild_add_recipients">แตะเพื่อเพิ่มผู้รับจากรายชื่อ</string>
     <string name="guild_msim_switcher">แตะเพื่อสลับซิมการ์ด</string>
@@ -287,6 +294,7 @@
     <string name="menu_edit">แก้ไข</string>
     <string name="menu_forward">ส่งต่อ</string>
     <string name="menu_lock">เพิ่มรายการโปรด</string>
+    <string name="menu_make_call">โทร</string>
     <string name="menu_mark">ทำเครื่องหมาย</string>
     <string name="menu_more">เพิ่มเติม</string>
     <string name="menu_new_contact">สร้างรายชื่อใหม่</string>
@@ -297,6 +305,7 @@
     <string name="menu_traffic_destination">จุดหมาย</string>
     <string name="menu_unlock">ลบจากรายการโปรด</string>
     <string name="menu_view_contact">ดูรายชื่อ</string>
+    <string name="menu_view_group_info">ข้อมูลกลุ่ม</string>
     <string name="message_class_label">"คลาสข้อความ: "</string>
     <string name="message_contact">ผู้ติดต่อ:</string>
     <string name="message_details_title">รายละเอียดข้อความ</string>
@@ -408,6 +417,7 @@
     <string name="no_block_button_msg">ยกเลิกการบล็อก</string>
     <string name="no_conversations">ไม่พบข้อความ</string>
     <string name="no_delivery_report">ไม่พบรายงานการจัดส่ง</string>
+    <string name="no_network_description">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง</string>
     <string name="no_subject">(ไม่มีชื่อเรื่อง)</string>
     <string name="no_subject_view">(ไม่มีชื่อเรื่อง)</string>
     <string name="non_english_subject_limit">13 ตัวอักษร</string>
@@ -530,6 +540,9 @@
     <string name="prvate_contact">รายชื่อส่วนบุคคล</string>
     <string name="quick_reply">ตอบกลับ</string>
     <string name="rate_limit_surpassed">ตกลง</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">เปลี่ยน</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">เมื่อสัญญาณเครือข่ายอ่อน เนื้อหาของข้อความ (มากถึง 900 ไบต์) สามารถแปลงและส่งเป็น SMS ได้ คุณสามารถเปลี่ยนสิ่งนี้ได้ในการตั้งค่า</string>
+    <string name="rcs_auto_resend_as_sms_remind_title">แปลงเป็น SMS</string>
     <string name="rcs_auto_resend_mms">แปลงเป็น MMS</string>
     <string name="rcs_auto_resend_sms">แปลงเป็น SMS</string>
     <string name="rcs_auto_resume">ดำเนินการอัปโหลดที่ขัดจังหวะต่อโดยอัตโนมัติ</string>
@@ -540,10 +553,12 @@
     <string name="rcs_forward_faild">ส่งไม่ได้</string>
     <string name="rcs_forward_successful">ส่งต่อเรียบร้อยแล้ว</string>
     <string name="rcs_group_notification_invitation">คำเชิญกลุ่มแชท</string>
+    <string name="rcs_hello_from_pc">ลงชื่อเข้าใช้ Fetion บนคอมพิวเตอร์ของคุณเพื่อถ่ายโอนไฟล์</string>
     <string name="rcs_message">การรับ-ส่งข้อความของ China Mobile</string>
     <string name="rcs_message_disable">ไม่สามารถเรียกดูข้อความนี้ในพื้นที่ทับซ้อน</string>
     <string name="rcs_msg">การรับ-ส่งข้อความของ China Mobile</string>
     <string name="rcs_not_online">ไม่สามารถใช้การรับ-ส่งข้อความของ China Mobile ตรวจสอบการตั้งค่าเครือข่ายและลองอีกครั้ง</string>
+    <string name="rcs_offline">ไม่ได้ลงชื่อเข้าใช้ UC รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="rcs_offline_hint">การรับ-ส่งข้อความของ China Mobile นั้นออฟไลน์ ไม่สามารถส่งต่อข้อความได้</string>
     <string name="rcs_recipient_type_contact">ส่งต่อรายชื่อ</string>
     <string name="rcs_recipient_type_group">ส่งต่อกลุ่มแชท</string>
@@ -668,6 +683,7 @@
     <string name="send_signature_confirm_dialog_title">ส่งข้อความ</string>
     <string name="send_sms">ส่งข้อความ</string>
     <string name="send_to">ถึง:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">วันที่ส่ง: %1s</string>
     <string name="sent_label">"ส่ง: "</string>
     <string name="service_message_not_found">ข้อความหมดอายุหรือไม่มีข้อความ</string>

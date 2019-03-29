@@ -104,7 +104,7 @@
     <string name="item_title_currency">สกุลเงิน</string>
     <string name="item_title_dress_size">ขนาดเสื้อ</string>
     <string name="item_title_length_conversion">ความยาว</string>
-    <string name="item_title_mortgage">จำนอง</string>
+    <string name="item_title_mortgage">Home loan</string>
     <string name="item_title_scientific_calculator">วิทยาศาสตร์</string>
     <string name="item_title_tax">ภาษี</string>
     <string name="item_title_temprature_conversion">อุณหภูมิ</string>
@@ -136,9 +136,7 @@
     <string name="loan_interest_rate">ดอกเบี้ย</string>
     <string name="loan_pay_years">ระยะเวลาการกู้</string>
     <string name="loan_payback_way">การชำระหนี้</string>
-    <string name="loan_repayment_detail">รายละเอียดชำระคืน</string>
     <string name="loan_repayment_detail_loading">โหลดรายละเอียดชำระคืน…</string>
-    <string name="loan_repayment_detail_unit">รายละเอียดชำระคืน(CNY)</string>
     <string name="loan_unit">(×หมื่น)</string>
     <string name="medical_treatment">การรักษาทางการแพทย์</string>
     <string name="menuDesc">เมนู</string>
@@ -166,7 +164,7 @@
     <string name="mortgage_interest_rate">ดอกเบี้ยในเชิงพาณิชย์</string>
     <string name="mortgage_item_repayment">รูปแบบการชำระคืน</string>
     <string name="mortgage_item_start_time">วันเริ่มต้น</string>
-    <string name="mortgage_item_years">ระยะเวลาชำระเงินกู้</string>
+    <string name="mortgage_item_years">Loan tenure</string>
     <string name="mortgage_loans_amount">จำนวนเงินกู้ยืม</string>
     <string name="mortgage_provident_found_interest_rate">อัตราดอกเบี้ยของกองทุน</string>
     <string name="mortgage_repayment_amount">ยอดที่ต้องชำระ</string>
@@ -594,8 +592,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">ไม่สามารถเชื่อมต่อเพื่อดาวน์โหลด ตรวจสอบว่าแอปนี้มีสิทธิ์ที่จำเป็นทั้งหมดในการตั้งค่า > แอปที่ติดตั้งแล้ว</string>
     <string name="xiaomi_external_storage_unavailable">ที่เก็บข้อมูลไม่เพียงพอ ตรวจสอบการ SD การ์ด</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"แนะนำเวอร์ชั่น %1$s
  ขนาด: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"แนะนำเวอร์ชั่น %1$s

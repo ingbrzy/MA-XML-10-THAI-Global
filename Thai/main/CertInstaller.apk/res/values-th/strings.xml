@@ -30,6 +30,7 @@
     <string name="sdcard_not_present">ไม่พบการ์ด SD</string>
     <string name="only_primary_user_allowed">เฉพาะเจ้าของอุปกรณ์นี้ที่สามารถติดตั้งใบรับรอง</string>
     <string name="credential_usage_label">การใช้ข้อมูลรับรอง:</string>
+    <string name="certificate_capabilities_warning">หมายเหตุ: ผู้ออกใบรับรองนี้อาจตรวจสอบการเข้าชมทั้งหมดที่เข้าและออกจากอุปกรณ์</string>
     <string name="wifi_title">โปรไฟล์ Wi-Fi</string>
     <string name="wifi_detail_title">รายละเอียดสำหรับ %s</string>
     <string name="wifi_detail_label">รายละเอียด</string>

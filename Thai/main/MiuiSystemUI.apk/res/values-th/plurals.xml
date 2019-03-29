@@ -108,4 +108,7 @@
     <plurals name="view_realtime_clear">
         <item quantity="other">แจ่มใส</item>
     </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">เชื่อมต่ออุปกรณ์ %1$d แล้ว</item>
+    </plurals>
 </resources>

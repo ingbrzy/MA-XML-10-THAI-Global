@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="confirm_recommandation_face_is">&lt;Data> คุณแน่ใจว่านี่คือ &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? บุคคลนี้จะถูกย้ายไปยังอัลบั้ม \"%2$s\" &lt;/Data></string>
-    <string name="confirm_recommandation_face_not">&lt;Data> คุณแน่ใจว่านี่ไม่ใช่ &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> คุณแน่ใจว่าเหล่านี่คือ &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? บุคคลนี้จะถูกย้ายไปยังอัลบั้ม \"%2$s\" &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> คุณแน่ใจว่าเหล่านี่ไม่ใช่ &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
     <string name="accept">ยอมรับ</string>
     <string name="accept_or_deny">%1$s แชร์อัลบั้ม %2$s กับคุณ</string>
     <string name="actionbar_overflow_item_desc">ตัวเลือกเพิ่มเติม</string>
@@ -237,6 +232,9 @@
     <string name="cleaner_screen_shot_action">ล้าง</string>
     <string name="cleaner_screen_shot_description">ลบภาพหน้าจอที่คุณไม่ต้องการ</string>
     <string name="cleaner_screen_shot_title">ลบภาพหน้าจอ</string>
+    <string name="cleaner_similar_action">ลบทันที</string>
+    <string name="cleaner_similar_description">ลบรูปภาพที่ซ้ำกัน</string>
+    <string name="cleaner_similar_title">รูปถ่ายที่ซ้ำกัน</string>
     <string name="cleaner_slim_action">เริ่มการเพิ่มประสิทธิภาพ</string>
     <string name="cleaner_slim_description">เพิ่มรูปภาพในอุปกรณ์ของคุณให้เหมาะสม ไฟล์ต้นฉบับจะถูกเก็บไว้ใน Mi คลาวด์</string>
     <string name="cleaner_slim_start">เพิ่มประสิทธิภาพ</string>
@@ -244,6 +242,10 @@
     <string name="cleaner_space_description">สามารถเพิ่มพื้นที่เก็บข้อมูลได้</string>
     <string name="cleaner_space_detail_description">ล้างรูปภาพในคลังภาพเพื่อเพิ่มพื้นที่จัดเก็บข้อมูล</string>
     <string name="cleaner_stop_scan">หยุดการสแกน</string>
+    <string name="cleaner_video_action">ลบทันที</string>
+    <string name="cleaner_video_description">ลบวิดีโอที่ใช้พื้นที่เก็บข้อมูล</string>
+    <string name="cleaner_video_pick_delete_selected">ลบวิดีโอที่เลือก</string>
+    <string name="cleaner_video_title">ลบวิดีโอ</string>
     <string name="click_download_gif">แตะดาวน์โหลดไฟล์ GIF</string>
     <string name="click_top_right">แตะที่ไอคอนนี้</string>
     <string name="close">ปิด</string>
@@ -306,6 +308,10 @@
     <string name="confirm_merge_face_albums">&lt;Data> ควบรวมอัลบั้มนี้เข้ากันกับอัลบั้ม %s? &lt;/Data></string>
     <string name="confirm_merge_many_face_albums">&lt;Data> ควบรวมอัลบั้มนี้เข้ากับอัลบั้ม %s? &lt;/Data></string>
     <string name="confirm_not_face">ไม่ใช่บุคคลนี้?</string>
+    <string name="confirm_recommandation_face_is">&lt;Data> คุณแน่ใจว่านี่คือ &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? บุคคลนี้จะถูกย้ายไปยังอัลบั้ม \"%2$s\" &lt;/Data></string>
+    <string name="confirm_recommandation_face_not">&lt;Data> คุณแน่ใจว่านี่ไม่ใช่ &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> คุณแน่ใจว่าเหล่านี่คือ &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? บุคคลนี้จะถูกย้ายไปยังอัลบั้ม \"%2$s\" &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> คุณแน่ใจว่าเหล่านี่ไม่ใช่ &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
     <string name="contact_tip">รายชื่อ</string>
     <string name="context_menu_add_contact">เพิ่มไปยังรายชื่อ</string>
     <string name="context_menu_copy">คัดลอก</string>
@@ -476,7 +482,7 @@
     <string name="ext_sdcard_permission_request_title">อนุญาตให้แกลเลอรี่เข้าถึง SD การ์ด</string>
     <string name="ext_sdcard_request_failed_button_text">ตกลง</string>
     <string name="ext_sdcard_request_succeed_toast_text">เมื่อคุณพร้อมเราก็พร้อม มาลองใช้กัน!</string>
-    <string name="face_album_empty">"มีภาพถ่ายไม่เพียงพอที่จะยืนยันบุคคลได้
+    <string name="face_album_empty">"มีภาพถ่ายไม่เพียงพอที่จะยืนยันบุคคลได้r
 ถ่ายภาพเพื่อนของคุณเพิ่ม!"</string>
     <string name="face_album_empty_syncing">กำลังซิงค์ข้อมูล กรุณารอสักครู่</string>
     <string name="face_album_empty_syncing_when_connect_wifi">เชื่อมต่อเครือข่ายเพื่อซิงค์ข้อมูล</string>
@@ -493,6 +499,7 @@
     <string name="face_name_edit">แก้ไข</string>
     <string name="face_name_input">ป้อนชื่อ</string>
     <string name="face_recommend">ข้อเสนอแนะ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">ดำเนินการไม่เสร็จสิ้น</string>
     <string name="fail_to_pick_email">ที่อยู่อีเมลไม่ถูกต้อง</string>
     <string name="fail_to_sync_album">ไม่สามารถซิงค์อัลบั้ม ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองใหม่อีกครั้ง</string>
@@ -503,6 +510,7 @@
     <string name="feature_guidance_photo_effects">"เอฟเฟ็กต์​ภาพถ่ายใหม่
 พร้อมใช้งาน"</string>
     <string name="feature_guidance_video_editor_smart_effects">เอฟเฟ็กต์​ใหม่พร้อมใช้งาน</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">ขาว&amp;ดำ</string>
     <string name="filter_bi_dusk">พลบค่ำ</string>
     <string name="filter_bi_lilt">ลิลท์</string>
@@ -576,6 +584,7 @@
     <string name="gif_tip">ไฟล์ GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">ตั้งค่า</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"คลังภาพต้องการเข้าถึง 
 %s
  เพื่อให้ทำงานได้ตามปกติ แตะ \"ตั้งค่า\" เพื่อไปยังการอนุญาต"</string>
@@ -655,7 +664,7 @@
     <string name="loading_gif_thumbnail">กำลังดาวน์โหลดรูปขนาดย่อของไฟล์ GIF…</string>
     <string name="loading_image">กำลังดาวน์โหลดรูปภาพ…</string>
     <string name="loading_image_thumbnail">กำลังดาวน์โหลดรูปขนาดย่อ…</string>
-    <string name="loading_members">กำลังโหลดสมาชิก026</string>
+    <string name="loading_members">กำลังโหลดสมาชิก2026</string>
     <string name="loading_processing_tip">กำลังประมวลภาพ…</string>
     <string name="loading_suspend">หยุดดาวน์โหลดชั่วคราว: ดำเนินการต่อเมื่อการเชื่อมต่อกับ Wi-Fi สามารถใช้งานได้</string>
     <string name="loading_video">กำลังดาวน์โหลดวิดีโอ…</string>
@@ -829,6 +838,7 @@
     <string name="people_mark_mode_title_no_mark_name">เลือกสักคน</string>
     <string name="people_page_label">บุคคล</string>
     <string name="people_page_unname">ไม่มีชื่อ</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">สำหรับการตั้งชื่อคนในรูปถ่าย</string>
     <string name="permission_contract_name">รายชื่อผู้ติดต่อ</string>
     <string name="permission_optional_category">สิทธิ์เพิ่มเติม</string>
@@ -1021,6 +1031,16 @@
     <string name="scan_barcode_guide">แตะที่ปุ่มแชร์เพื่อสร้างรหัส QR ของอัลบั้ม</string>
     <string name="scan_barcode_to_join">สแกนรหัส QR เพื่อเพิ่มอัลบั้ม</string>
     <string name="scan_qr_code_buttom_text">สแกนรหัส QR เพื่อแสดงอัลบั้มนี้</string>
+    <string name="screen_doodle_talkback_size">ความกว้างของลายเส้น</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
+    <string name="screen_editor_finish">เสร็จสิ้น</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
+    <string name="screen_save_dialog_btn_cancel">ยกเลิก </string>
+    <string name="screen_save_dialog_btn_delete">ลบภาพหน้าจอ</string>
+    <string name="screen_save_dialog_btn_save">บันทึกไปยังคลังภาพ</string>
     <string name="search_backup_full_screen">เปิดใช้งานซิงค์ด้วย Mi คลาวด์เพื่อค้นหาสิ่งของและบุคคล</string>
     <string name="search_backup_now">เปิดใช้งาน</string>
     <string name="search_backup_sub_title">เปิดใช้งานค้นหารูปภาพเพิ่มเติม</string>
@@ -1075,6 +1095,9 @@
     <string name="search_title_recommend">แนะนำ</string>
     <string name="search_title_suggestion">ข้อเสนอแนะ</string>
     <string name="search_title_tag">สิ่งของ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">กำลังมองหาโปรเจคเตอร์…</string>
     <string name="secret_album_card_description">ที่ที่ดีที่สุดสำหรับความลับทั้งหมดของคุณ</string>
     <string name="secret_album_card_title">เปิดอัลบั้มที่ซ่อนไว้</string>
@@ -1131,6 +1154,7 @@
     <string name="show_hidden_album_title">แสดงอัลบั้มที่ซ่อน</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">ย้ายเรียบร้อย ไปยังอัลบั้มอื่นๆ เพื่อเรียกดู</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">ย้ายเรียบร้อย ไปยังอัลบั้มเพื่อเรียกดู</string>
+    <string name="similar_keep_clear">เก็บภาพที่ดีที่สุด</string>
     <string name="slideshow_interval_dialog_title">ป้อนระยะเวลา</string>
     <string name="slideshow_interval_invalid">ช่วงเวลาจะต้องอยู่ระหว่าง 3~3600 วินาที</string>
     <string name="slideshow_interval_title">ระยะเวลาที่แสดงแต่ละสไลด์</string>
@@ -1151,6 +1175,7 @@
     <string name="slim_stop">หยุดการเพิ่มประสิทธิภาพ</string>
     <string name="start_debug">ปรับแก้ไขคลังภาพ</string>
     <string name="start_to_use_face_albumset">เรียงตามบุคคล</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sticker_ad">ใบปลิว</string>
     <string name="sticker_baibai">แพลนทส์</string>
     <string name="sticker_beard">บาร์เบอร์ช็อป</string>
@@ -1167,6 +1192,10 @@
     <string name="sticker_spring">สปริง</string>
     <string name="sticker_summer">ซัมเมอร์</string>
     <string name="sticker_words">เวิร์ด</string>
+    <string name="storage_description_primary">ที่จัดเก็บภายใน</string>
+    <string name="storage_description_sdcard">SD การ์ด</string>
+    <string name="storage_description_usb">ที่จัดเก็บข้อมูล USB</string>
+    <string name="storage_description_xspace">ข้อมูลแอปโคลน</string>
     <string name="storage_no_space">พื้นที่ว่างไม่เพียงพอ</string>
     <string name="story_back_stop_download">แตะอีกครั้งเพื่อหยุดการดาวน์โหลด</string>
     <string name="story_cancel_download">ยกเลิก </string>
@@ -1229,6 +1258,7 @@
     <string name="to_enable_sync_dialog_message">เปิดใช้ซิงค์ก่อน</string>
     <string name="to_enable_sync_dialog_positive_button_text">ไปที่การตั้งค่า</string>
     <string name="to_enable_sync_dialog_title">ซิงค์</string>
+    <string name="today">วันนี้</string>
     <string name="too_many_recipients">คุณไม่สามารถเพิ่มผู้รับเกินกว่า %1$s คน (เพิ่มไปแล้ว %2$s คน)</string>
     <string name="trash_bin">ถังขยะ</string>
     <string name="trash_bin_summary">เรียกดูภาพถ่ายที่สำรองข้อมูลไว้ซึ่งถูกลบออกไปเมื่อเร็วๆนี้</string>
@@ -1365,64 +1395,6 @@
     <string name="who_is_this">บุคคลนี้คือใคร?</string>
     <string name="xiaomi_account_not_exists_toast">ไม่พบบัญชี Mi ดังกล่าวในระบบ</string>
     <string name="yes">ใช่</string>
+    <string name="yesterday">เมื่อวานนี้ </string>
     <string name="you_are">คุณเป็น</string>
-    <string name="cleaner_similar_action">ลบทันที</string>
-    <string name="cleaner_similar_description">ลบรูปภาพที่ซ้ำกัน</string>
-    <string name="cleaner_similar_title">รูปถ่ายที่ซ้ำกัน</string>
-    <string name="cleaner_video_action">ลบทันที</string>
-    <string name="cleaner_video_description">ลบวิดีโอที่ใช้พื้นที่เก็บข้อมูล</string>
-    <string name="cleaner_video_pick_delete_selected">ลบวิดีโอที่เลือก</string>
-    <string name="cleaner_video_title">ลบวิดีโอ</string>
-    <string name="photomovie_audio_custom">ในเครื่อง</string>
-    <string name="photomovie_audio_default">หน่วยความจำ</string>
-    <string name="photomovie_audio_kawaii">โรแมนติก</string>
-    <string name="photomovie_audio_light">บัลลาด</string>
-    <string name="photomovie_audio_linear">ร็อค</string>
-    <string name="photomovie_audio_none">ไม่มี</string>
-    <string name="photomovie_audio_soft">อูคูเลเล่</string>
-    <string name="photomovie_audio_sport">เทคโน</string>
-    <string name="photomovie_cancel_download">ยกเลิก </string>
-    <string name="photomovie_delete_disable">คุณต้องมีอย่างน้อย 3 รูปเพื่อสร้างคลิป</string>
-    <string name="photomovie_download">ดาวน์โหลด</string>
-    <string name="photomovie_download_failed">ไม่สามารถดาวน์โหลดได้</string>
-    <string name="photomovie_download_failed_for_notwork">ไม่สามารถดาวน์โหลดได้ เชื่อมต่อกับเครือข่ายและลองอีกครั้ง.</string>
-    <string name="photomovie_download_without_wifi_msg">การดาวน์โหลดไฟล์เหล่านี้ผ่านเครือข่ายมือถือต้องใช้ปริมาณการถ่ายโอนข้อมูลสูง ซึ่งหากใช้เกินกว่าแพ็คเกจที่กำหนดไว้ อาจทำให้คุณต้องเสียค่าบริการที่เพิ่มขึ้นให้แก่ผู้ให้บริการเครือข่าย</string>
-    <string name="photomovie_download_without_wifi_title">แจ้งเตือนการใช้ข้อมูล</string>
-    <string name="photomovie_exit_cancel">ยกเลิก </string>
-    <string name="photomovie_exit_confirm">ออก</string>
-    <string name="photomovie_exit_content">การเปลี่ยนแปลงทั้งหมดจะสูญหาย ออกหรือไม่?</string>
-    <string name="photomovie_exit_title">ออก</string>
-    <string name="photomovie_item_name">คลิป</string>
-    <string name="photomovie_return">ย้อนกลับ</string>
-    <string name="photomovie_save">บันทึก</string>
-    <string name="photomovie_save_failed">บันทึกไม่ได้</string>
-    <string name="photomovie_save_successfully">บันทึกเรียบร้อยแล้ว</string>
-    <string name="photomovie_saving">กำลังสร้างคลิป…</string>
-    <string name="photomovie_tab_edit">แก้ไข</string>
-    <string name="photomovie_tab_music">เพลง</string>
-    <string name="photomovie_tab_template">แบบเริ่มต้น</string>
-    <string name="photomovie_template_default">สโล</string>
-    <string name="photomovie_template_kawaii">เสน่ห์</string>
-    <string name="photomovie_template_light">ลมโชย</string>
-    <string name="photomovie_template_linear">เดินทาง</string>
-    <string name="photomovie_template_soft">วัยรุ่น</string>
-    <string name="photomovie_template_sport">แรง</string>
-    <string name="refocus_discard_confirm_message">บันทึกการเปลี่ยนแปลง?</string>
-    <string name="refocus_discard_negative_btn">ละทิ้ง</string>
-    <string name="refocus_discard_positive_btn">บันทึก</string>
-    <string name="refocus_photo_not_support">ไม่สามารถเบลอรูปภาพนี้ได้</string>
-    <string name="refocus_save_cancel">ยกเลิก </string>
-    <string name="refocus_save_title">เลือกรูปแบบ</string>
-    <string name="refocus_save_to_photo">บันทึกเป็นรูปภาพ</string>
-    <string name="refocus_save_to_video">บันทึกเป็นวิดีโอ</string>
-    <string name="refocus_saving">กำลังบันทึก…</string>
-    <string name="refocus_title">เบลอ</string>
-    <string name="refocus_type_static">ระดับการเบลอ</string>
-    <string name="refocus_type_video">เส้นทางแสง</string>
-    <string name="screen_doodle_talkback_size">ความกว้างของลายเส้น</string>
-    <string name="screen_editor_finish">เสร็จสิ้น</string>
-    <string name="screen_save_dialog_btn_cancel">ยกเลิก </string>
-    <string name="screen_save_dialog_btn_delete">ลบภาพหน้าจอ</string>
-    <string name="screen_save_dialog_btn_save">บันทึกไปยังคลังภาพ</string>
-    <string name="similar_keep_clear">เก็บภาพที่ดีที่สุด</string>
 </resources>
