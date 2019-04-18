@@ -452,7 +452,7 @@
     <string name="master_clear_apply_step_1">การเพิกถอนสิทธิ์จะต้องมีการรีเซ็ตข้อมูลเป็นค่าโรงงานของอุปกรณ์ของคุณ จะลบไฟล์และข้อมูลทั้งหมดรวมถึงบัญชีสมุดติดต่อรูปภาพและแอปพลิเคชันอย่างถาวร สำรองข้อมูลสิ่งสำคัญทั้งหมดลงในคอมพิวเตอร์ของคุณก่อนที่จะยกเลิกการให้สิทธิ์</string>
     <string name="master_clear_apply_step_2">ตรวจสอบว่าได้สำรองข้อมูลสำคัญทั้งหมดไว้ในคอมพิวเตอร์แล้ว หลังจากที่คุณแตะ \"ตกลง\" การรีเซ็ตข้อมูลเป็นค่าเริ่มต้นจะดำเนินการในอุปกรณ์ลบไฟล์และข้อมูลทั้งหมดอย่างถาวรรวมถึงบัญชีสมุดติดต่อรูปภาพและแอป</string>
     <string name="button_text_next_step">ถัดไป</string>
-    <string name="button_text_next_step_timer">ขั้นตอนต่อไป (%d)</string>
+    <string name="button_text_next_step_timer">ขั้นตอนถัดไป (%d)</string>
     <string name="dialog_tip_need_network">อุปกรณ์ของคุณจำเป็นต้องเชื่อมต่ออินเตอร์เน็ตเพื่อถอนสิทธิ์</string>
     <string name="dialog_undo_negative">ไม่เพิกถอน</string>
     <string name="dialog_title_service_error">พบข้อผิดพลาดจากเซิร์ฟเวอร์</string>

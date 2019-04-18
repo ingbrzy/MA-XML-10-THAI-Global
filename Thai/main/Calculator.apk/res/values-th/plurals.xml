@@ -3,6 +3,12 @@
     <plurals name="entries">
         <item quantity="other">%d รายการ</item>
     </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">รายละเอียดชำระคืน (%d ปี)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">รายละเอียดชำระคืน (%d ปี), CNY</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d ปี (%2$d เดือน)</item>
     </plurals>

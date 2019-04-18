@@ -13,6 +13,7 @@
     <string name="no_network_btn">ลองอีกครั้ง</string>
     <string name="main_toolbar_purchase">ซื้อแพ็คเกจเพิ่ม</string>
     <string name="usage_sorted_loading_text">รอสักครู่…</string>
+    <string name="empty">" "</string>
     <string name="share">แชร์</string>
     <string name="open_browser">เปิดในเบราว์เซอร์</string>
     <string name="title_share_link">แชร์ลิงก์ URL</string>

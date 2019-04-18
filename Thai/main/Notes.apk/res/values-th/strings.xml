@@ -86,8 +86,6 @@
     <string name="force_touch_menu_add">เพิ่มบันทึก</string>
     <string name="format_move_note_out_folder">บันทึกนี้ถูกลบแล้ว</string>
     <string name="format_move_note_to_folder">ย้ายไปยัง %1$s</string>
-    <string name="format_move_notes_out_folder">ย้าย %1$s แล้ว</string>
-    <string name="format_move_notes_to_folder">ย้าย %1$s ไปยัง %2$s แล้ว</string>
     <string name="hidden_notes_fragment_title">บันทึกซ่อน</string>
     <string name="hide_arrow_description">ซ่อน</string>
     <string name="hint_cannot_view_hidden_note_content">ไม่สามารถเรียกดูเนื้อหาจากบันทึกย่อที่ซ่อนไว้</string>
@@ -129,6 +127,7 @@
     <string name="note_sort_way">เลือกเรียงลำดับบันทึกของคุณที่ต้องการ</string>
     <string name="notealert_enter">เปิดบันทึก</string>
     <string name="notealert_ok">เลิกแสดง</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">ไม่มีการเตือน</string>
     <string name="permdesc_accessNote">แอปต้องสงสัยอาจใช้วิธีนี้ในการเข้าถึงข้อมูลส่วนบุคคลของคุณ</string>
     <string name="permission_intro_contact">สำหรับการทำเครื่องหมายบันทึกที่ถ่ายในระหว่างการโทร</string>
@@ -207,11 +206,9 @@
     <string name="toast_cancel_to_insert_image">ไม่สามารถเพิ่มรูปภาพได้</string>
     <string name="toast_message_add_image_fail">ไม่สามารถเพิ่มรูปภาพได้</string>
     <string name="toast_notes_delete_success">ลบเรียบร้อยแล้ว</string>
-    <string name="toast_notes_hidden_count">ซ่อน %1$s เรียบร้อย</string>
     <string name="toast_notes_hidden_edit">ซ่อนบันทึกนี้เรียบร้อยแล้ว ดึงลงเพื่อดูบันทึกที่ซ่อนอยู่</string>
     <string name="toast_notes_hidden_home">ซ่อนบันทึกนี้เรียบร้อยแล้ว ดึงลงเพื่อดูบันทึกที่ซ่อนอยู่</string>
     <string name="toast_notes_unhidden">เลิกซ่อนเรียบร้อย</string>
-    <string name="toast_notes_unhidden_count">เลิกซ่อน %1$s เรียบร้อย</string>
     <string name="toast_reach_text_limit_attachment">ไม่สามารถใส่ไฟล์แนบใหม่ได้เนื่องจากบันทึกยาวเกินไป</string>
     <string name="toast_reach_text_limit_checkbox">ไม่สามารถเพิ่มช่องทำเครื่องหมายได้เนื่องจากบันทึกยาวเกินไป</string>
     <string name="toast_reach_text_limit_truncate">บันทึกนี้ยาวเกินไป ข้อความบางส่วนได้ถูกตัดออก</string>

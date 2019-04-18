@@ -51,4 +51,7 @@
     <plurals name="last_sync_time_hours_ago">
         <item quantity="other">%s ชม. ที่แล้ว</item>
     </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s บริการจะถูกซิงค์กับ Mi คลาวด์</item>
+    </plurals>
 </resources>

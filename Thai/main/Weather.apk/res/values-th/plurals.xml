@@ -15,9 +15,6 @@
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">พยากรณ์ %1$s วัน</item>
     </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">หลังจาก %1$s นาที จะสามารถส่งข้อเสนอแนะได้อีก</item>
-    </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s คน | </item>
     </plurals>
@@ -29,5 +26,8 @@
     </plurals>
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s คน</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">หลังจาก %1$s นาที จะสามารถส่งข้อเสนอแนะได้อีก</item>
     </plurals>
 </resources>

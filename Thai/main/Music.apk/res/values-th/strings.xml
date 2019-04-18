@@ -47,8 +47,13 @@
     <string name="album_label">ปกอัลบั้ม</string>
     <string name="album_name">อัลบั้ม</string>
     <string name="all_album_count">อัลบั้มทั้งหมด (%d)</string>
+    <string name="all_albums">อัลบั้มทั้งหมด</string>
+    <string name="all_artists">ศิลปินทั้งหมด</string>
     <string name="all_playlist_count">รายการเพลงทั้งหมด (%d)</string>
+    <string name="all_playlists">รายการเพลงทั้งหมด</string>
+    <string name="all_songs">เพลงทั้งหมด</string>
     <string name="all_tracks">เพลงทั้งหมด</string>
+    <string name="all_videos">วิดีโอทั้งหมด</string>
     <string name="already_download">กำลังดาวน์โหลด…</string>
     <string name="already_download_btn">กำลังดาวน์โหลด…</string>
     <string name="already_favorited">ชื่นชอบแล้ว</string>
@@ -168,7 +173,7 @@
     <string name="dialog_song_sort_type">เรียงลำดับเพลง</string>
     <string name="dialog_song_sort_type_name">โดยชื่อ</string>
     <string name="dialog_song_sort_type_playing_times">โดยจำนวนครั้งที่เล่น</string>
-    <string name="dialog_song_sort_type_time">โดยการเพิ่มเวลา</string>
+    <string name="dialog_song_sort_type_time">โดยเวลาที่เพิ่ม</string>
     <string name="dialog_song_view_type">แสดงเพลงในเครื่อง</string>
     <string name="dialog_song_view_type_album">โดยอัลบั้ม</string>
     <string name="dialog_song_view_type_artist">โดยศิลปิน</string>
@@ -217,6 +222,7 @@
     <string name="download_method">ดาวน์โหลด</string>
     <string name="download_no_application_title">ไม่สามารถเปิดไฟล์ได้</string>
     <string name="download_paused_in_power_save_mode">การดาวน์โหลดจะถูกหยุดขณะอยู่ในโหมดประหยัดแบตเตอรี่</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">กำลังดาวน์โหลด…</string>
     <string name="download_quality">คุณภาพการดาวน์โหลด</string>
     <string name="download_quality_summary">การตั้งค่าเพิ่มเติมสำหรับเพลงที่ดาวน์โหลด</string>
@@ -296,7 +302,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -555,6 +563,7 @@
     <string name="priority_storage_summary">ดาวน์โหลดเก็บไว้ใน SD การ์ดภายนอกโดยอัตโนมัติถ้ามี</string>
     <string name="privacy_desc">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=th_TH</string>
     <string name="pro_member">สมาชิก PRO</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">อนุญาตให้มีการเปลี่ยนแปลงการตั้งค่าระบบ</string>
@@ -592,6 +601,8 @@
     <string name="search_for_album">อัลบั้ม</string>
     <string name="search_for_artist">ศิลปิน</string>
     <string name="search_hint">ค้นหาศิลปิน เพลง อัลบั้มและข้อเสนอแนะ</string>
+    <string name="search_hint_local">ค้นหาเพลงในอุปกรณ์นี้</string>
+    <string name="search_hint_online">ค้นหาศิลปินอัลบั้มเพลง เพลย์ลิสต์ และวิดีโอออนไลน์</string>
     <string name="search_history_clear_all">ล้าง</string>
     <string name="search_instant_online_music">ออนไลน์</string>
     <string name="search_menu_title">ค้นหา</string>
@@ -653,6 +664,7 @@
     <string name="start_to_check_new_version">กำลังตรวจสอบเพื่ออัพเดต…</string>
     <string name="start_to_download">กำลังดาวน์โหลด…</string>
     <string name="start_to_play">เล่น</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_internal">ที่จัดเก็บภายใน</string>
     <string name="storage_sd_card">SD การ์ด</string>
     <string name="storage_usb">ที่จัดเก็บข้อมูล USB</string>
@@ -662,8 +674,10 @@
     <string name="tab_artist">ศิลปิน</string>
     <string name="tab_artist_list">ศิลปิน</string>
     <string name="tab_folder">โฟลเดอร์</string>
+    <string name="tab_playlist">รายการเพลง</string>
     <string name="tab_track">เพลง</string>
     <string name="tab_track_list">เพลง</string>
+    <string name="tab_video">วิดีโอ</string>
     <string name="take_effect_afater_restart">คุณต้องปิด-เปิดแอปเพลงเพื่อให้การตั้งค่านี้มีผลใช้บังคับ</string>
     <string name="talkback_back">ย้อนกลับ</string>
     <string name="talkback_batch_process">หลายรายการ</string>
@@ -713,6 +727,7 @@
     <string name="upgrade_music_message">ไฟล์อัพเดทพร้อมแล้ว รีสตาร์ทเพื่ออัพเดท</string>
     <string name="upgrading_in_backstage">กำลังอัปเดตในพื้นหลัง…</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=th_TH</string>
     <string name="version_info">เวอร์ชั่น</string>
     <string name="video_play_cellular">อุปกรณ์ของคุณไม่ได้เชื่อมต่อกับ Wi-fi ใช้ข้อมูลมือถือหรือไม่?</string>
     <string name="video_replay_btn">เล่นอีกครั้ง</string>
@@ -720,6 +735,7 @@
     <string name="view_album">ดูอัลบั้ม</string>
     <string name="vip_required">รับแพ็คเพลงระดับพรีเมี่ยมเพื่อฟังเพลงนี้ ข้ามเพลงตอนนี้</string>
     <string name="vip_required_with_song">%sมีให้สำหรับสมาชิกแบบ PRO เท่านั้น ข้ามเพลงนี้ไปในตอนนี้</string>
+    <string name="voice_search_first_hint">ลองการค้นหาด้วยเสียง!</string>
     <string name="wifi_required_body" formatted="false">"ต้องเชื่อมต่อกับ Wi-Fi ในการดาวน์โหลด %s. 
 
 แตะ %s เพื่อเริ่มต้นการดาวน์โหลดนี้ในครั้งต่อไปที่คุณเชื่อมต่อกับเครือข่าย Wi-Fi"</string>

@@ -50,6 +50,8 @@
     <string name="self_device_second_space">พื้นที่ทับซ้อนของโทรศัพท์นี้</string>
     <string name="other_device_main_space">พื้นที่ปกติ</string>
     <string name="other_device_second_space">พื้นที่ทับซ้อน</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">กำลังเรียกคืนค่า \"%s\"</string>
     <string name="size_unknown">ขนาดที่ไม่รู้จัก</string>
     <string name="recovering">กำลังเรียกคืนค่า %s</string>
@@ -72,7 +74,7 @@
     <string name="desktop_waiting">กำลังรอ</string>
     <string name="desktop_downloading">กำลังดาวน์โหลด</string>
     <string name="desktop_installing">กำลังติดตั้ง</string>
-    <string name="desktop_wait_wifi">กำลังรอ</string>
+    <string name="desktop_wait_network">กำลังรอ…</string>
     <string name="desktop_failed">ผิดพลาด</string>
     <string name="recover_from_micloud">คืนค่าจากข้อมูลสำรองใน Mi คลาวด์</string>
     <string name="click_try_to_restore_again">แตะเพื่อลองอีกครัั้ง</string>
@@ -114,7 +116,7 @@
     <string name="confirm_cancel_restore_positive">ดำเนินการต่อ</string>
     <string name="confirm_cancel_restore_negative">ยกเลิก</string>
     <string name="confirm_restore_title">คืนค่า</string>
-    <string name="confirm_restore_summary">หน้าจอหลักจะรีสตาร์ทและแอปจะถูกดาวน์โหลดโดยอัตโนมัติเมื่อเชื่อมต่อกับ Wi-Fi</string>
+    <string name="confirm_restore_summary">หน้าจอหลักของคุณจะถูกเปิดใหม่ แอปสำรองจะถูกดาวน์โหลดโดยอัตโนมัติ</string>
     <string name="confirm_restore">คืนค่า</string>
     <string name="cloud_backup_have_data">พบข้อมูลสำรองใน Mi คลาวด์</string>
     <string name="cloud_backup_select_recover">เลือกข้อมูลสำรองจาก Mi คลาวด์</string>
@@ -134,7 +136,9 @@
     <string name="provision_error_connect_msg">ทดสอบเครือข่ายและลองใหม่ การสำรองข้อมูลไม่สามารถใช้ได้เมื่ออุปกรณ์ของคุณออฟไลน์</string>
     <string name="provision_error_connect_title">ไม่สามารถเชื่อมต่อได้</string>
     <string name="loading_user_backup">กำลังโหลดข้อมูลสำรองผู้ใช้…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
+    <string name="doing_calc_backup_data_size">กำลังคำนวณขนาด…</string>
     <string name="authentication_failed">ไม่สามารถยืนยันบัญชีได้</string>
     <string name="no_account">ยังไม่ได้ลงชื่อเข้าใช้บัญชี Mi</string>
     <string name="no_backup">ไม่มีการสำรองข้อมูลใน Mi คลาวด์</string>
@@ -181,10 +185,34 @@
     <string name="msg_alert_cancel_restore">เรียกคืนรายการ หยุดเดี๋ยวนี้?</string>
     <string name="btn_restore_cancel">ยกเลิก </string>
     <string name="btn_restore_resume">ทำต่อ</string>
+    <string name="btn_restore_wait">รอเครือข่าย Wi-Fi</string>
+    <string name="btn_restore_continue">เรียกคืนค่าต่อไป</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> ของไฟล์จะถูกดาวน์โหลด"</string>
+    <string name="msg_restore_with_metered_network_hint">หากคุณดำเนินการกู้คืนรายการเหล่านี้ ข้อมูลมือถือจะถูกใช้สำหรับการดาวน์โหลด</string>
+    <string name="msg_restore_start_with_metered_network">"หน้าจอหลักของคุณจะถูกเปิดใหม่ แอปสำรองจะถูกดาวน์โหลดโดยอัตโนมัติ &lt;br />&lt;b>&lt;font color='red'>%s ของไฟล์จะถูกดาวน์โหลด &lt;/font>&lt;/b>"</string>
+    <string name="title_restore_with_current_network">ใช้การเชื่อมต่อในขณะนี้เพื่อดาวน์โหลดไฟล์</string>
     <string name="title_alert_restore_error">ไม่สามารถกู้คืนไฟล์ได้</string>
     <string name="msg_alert_restore_error">ไม่สามารถคืนค่ารายการจาก Mi Cloud ได้ ลองอีกครั้ง</string>
     <string name="btn_restore_retry">ลองใหม่</string>
     <string name="btn_restore_abort">ยกเลิก </string>
     <string name="backup_stopped_title">ข้อมูลสำรองถูกหยุด</string>
     <string name="backup_stopped_msg">ข้อมูลสำรองปัจจุบันจะแทนที่ของก่อนหน้านี้ แตะเพื่อดู</string>
+    <string name="restore_network_unconnect">%s (กำลังรอการเชื่อมต่อ)</string>
+    <string name="restore_network_pause">%s (แตะเพื่อทำต่อ)</string>
+    <string name="restore_detail_title">เลือกรายการเพื่อเรียกคืนค่า</string>
+    <string name="restore_detail_category_settings">การตั้งค่า</string>
+    <string name="restore_detail_category_apps">การจัดเรียงหน้าจอหลัก &amp; แอป</string>
+    <string name="restore_detail_more">เพิ่มเติม</string>
+    <string name="restore_app_order_title">จัดลำดับความสำคัญของรายการที่คืนค่า</string>
+    <string name="restore_app_order_search_hint">ค้นหารายการเพื่อตั้งลำดับความสำคัญ</string>
+    <string name="restore_app_order_search_prior">แอปที่สำคัญมาก</string>
+    <string name="restore_app_order_search_normal">แอปที่สำคัญทั่วไป</string>
+    <string name="restore_app_order_search_installed">แอปในอุปกรณ์นี้</string>
+    <string name="restore_app_order_retry">ลองใหม่</string>
+    <string name="restore_app_order_retry_desc">"ไม่สามารถเชื่อมต่อเครือข่ายได้
+กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองใหม่"</string>
+    <string name="restore_app_order_loading">รอสักครู่…</string>
+    <string name="restore_app_order_finish">เสร็จสิ้น</string>
+    <string name="provision_restore_data">รายการเรียกคืนค่า</string>
+    <string name="provision_background_restore_more_data">เรียกคืนค่ารายการเพิ่มเติมในพื้นหลัง</string>
 </resources>

@@ -58,6 +58,7 @@
     <string name="cast_forward">กรอไปข้างหน้า</string>
     <string name="cast_forward_10">กรอไปข้างหน้า 10 วินาที</string>
     <string name="cast_forward_30">กรอไปข้างหน้า 30 วินาที</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">ปิดเสียง</string>
     <string name="cast_notification_connected_message">เชื่อมต่อ %1$s แล้ว</string>
     <string name="cast_notification_connecting_message">กำลังเชื่อมต่อ %1$s</string>
@@ -487,6 +488,7 @@
     <string name="slid_fail_message">บันทึกไม่ได้</string>
     <string name="slide_save_message">กำลังสร้างวิดีโอ…</string>
     <string name="sns_sign_in">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sure_to_logout">ออกจากระบบตอนนี้?</string>
     <string name="switch_ratio_pause">ความเร็วที่เล่นไม่คงที่ สลับไปยังความเร็วเริ่มต้น…</string>
     <string name="symbol_rmb">¥</string>
@@ -518,4 +520,26 @@
     <string name="v_ok">ตกลง</string>
     <string name="v_pw_need_update_app">อัพเดท Mi วิดีโอ เพื่อใช้คุณลักษณะทั้งหมด</string>
     <string name="v_save">บันทึก</string>
+    <string name="Subscribe">สมัคร</string>
+    <string name="diy_channels_tips">คุณสามารถปรับแต่งรายการช่องของคุณได้ทันที</string>
+    <string name="empty_channels">จัดการช่องสัญญาณ</string>
+    <string name="empty_subscribe">คุณยังไม่ได้สมัครอะไรเลย</string>
+    <string name="hidden_channels">ช่องต่อไปนี้จะไม่ปรากฏในหน้าแรก</string>
+    <string name="init_channels">เรียกคืนค่าเริ่มต้น</string>
+    <string name="isSubscribed">สมัครแล้ว</string>
+    <string name="my_favorite_channels">ช่องสัญญาณของฉัน</string>
+    <string name="ovp_navigation_subscribe">สมัคร</string>
+    <string name="ovp_player_plugin_dlg_neg_btn">ปิด</string>
+    <string name="ovp_player_plugin_dlg_no_content">ไม่มีการติดตั้งปลั๊กอินของเครื่องเล่นวิดีโอ</string>
+    <string name="ovp_player_plugin_dlg_title">ปลั๊กอินของเครื่องเล่นวิดีโอ</string>
+    <string name="permission_phone">โทรศัพท์</string>
+    <string name="permission_phone_desc">สำหรับการเข้าถึงสถานะอุปกรณ์และหยุดการเล่นชั่วคราวระหว่างการโทร</string>
+    <string name="permission_storage">ที่จัดเก็บข้อมูล</string>
+    <string name="permission_storage_desc">สำหรับการเข้าถึงรายการ ไฟล์ที่บันทึก การแสดง และเล่นวิดีโอในเครื่อง</string>
+    <string name="pw_channels">ช่องสัญญาณ</string>
+    <string name="recommend_channels">แนะนำช่องสัญญาณ</string>
+    <string name="restore_channel_list">เรียกคืนค่าเริ่มต้นตอนนี้?</string>
+    <string name="title_publisher">ผู้สร้าง</string>
+    <string name="title_subscribe">การติดตาม</string>
+    <string name="ugc_confirm_unsubscribe">ยกเลิกการสมัครตอนนี้?</string>
 </resources>

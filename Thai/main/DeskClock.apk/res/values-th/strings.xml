@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="add_alarm">เพิ่มการปลุก</string>
     <string name="add_clock">เพิ่มนาฬิกา</string>
     <string name="add_timezone_title">เพิ่มเขตเวลา</string>
@@ -63,6 +64,9 @@
     <string name="channel_name_timer">ตัวจับเวลา</string>
     <string name="check_theme_app_install">ตรวจสอบว่ามีการติดตั้งแอปธีมในอุปกรณ์ของคุณแล้ว</string>
     <string name="check_voice_assist_app_version">อัปเดต Mi AI เป็นเวอร์ชั่นล่าสุด</string>
+    <string name="clock_bg_button_setting_summary_common">เลือกสีพื้นหลังสำหรับแอปนาฬิกา</string>
+    <string name="clock_bg_button_setting_summary_follow_sys">สีพื้นหลังจะเป็นสีดำทุกครั้งเมื่อคุณเปลี่ยนเป็นโหมดกลางคืน</string>
+    <string name="clock_bg_button_setting_title">สีพื้นหลัง</string>
     <string name="close_alarm">ปิดใช้งาน</string>
     <string name="common_settings">การตั้งค่า</string>
     <string name="confirm_abort">ไม่ต้องบันทึก</string>
@@ -83,6 +87,11 @@
     <string name="dialog_message_for_contact_permission">เพื่อให้มีการแจ้งเตือนวันเกิด นาฬิกาต้องเข้าถึงผู้ติดต่อของคุณ ตกลงหรือไม่?</string>
     <string name="dialog_message_negative">ไม่ตกลง</string>
     <string name="dialog_message_not_remind">ไม่ต้องแสดงอีก</string>
+    <string name="dialog_privacy_content">เพื่อรับและซิงค์ข้อมูลที่เกี่ยวข้องเกี่ยวกับวันหยุดนักขัตฤกษ์ในท้องถิ่น และให้บริการส่วนบุคคลนาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน %1$s และ %2$s ของเรา ยอมรับไหม?</string>
+    <string name="dialog_privacy_content_global">เพื่อให้บริการส่วนบุคคล นาฬิกาจำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ต คุณจำเป็นต้องอ่านและยอมรับใน %1$s และ %2$s ก่อนการใช้นาฬิกา ยอมรับหรือไม่?</string>
+    <string name="dialog_privacy_content_news">เพื่อให้บริการส่วนบุคคลและรวมถึงข่าวเช้าในนาฬิกาปลุกของคุณนาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนที่จะใช้นาฬิกาคุณต้องอ่านและยอมรับใน %1$s และ %2$s ของเรา ยอมรับไหม?</string>
+    <string name="dialog_privacy_content_timer">เพื่อดาวน์โหลดไฟล์เสียงสำหรับตัวจับเวลาเสียงรอบข้างและให้บริการส่วนบุคคลนาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนที่จะใช้นาฬิกาคุณจะต้องอ่านและยอมรับใน %1$s และ %2$s ของเรา ยอมรับไหม?</string>
+    <string name="dialog_privacy_content_timer_data">เพื่อดาวน์โหลดไฟล์เสียงสำหรับตัวจับเวลาเสียงรอบข้าง (≈20MB) และให้บริการส่วนบุคคลนาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนที่จะใช้นาฬิกาคุณจะต้องอ่านและยอมรับใน %1$s และ %2$s คุณกำลังใช้ข้อมูลมือถือในขณะนี้ ยอมรับหรือไม่?</string>
     <string name="done">เสร็จสิ้น</string>
     <string name="dynamic_alarm_speech">การปลุกอัจฉริยะ</string>
     <string name="edit_alarm">แก้ไขการปลุก</string>
@@ -93,6 +102,10 @@
     <string name="force_touch_enter_stopwatch">จับเวลา</string>
     <string name="force_touch_enter_timer">ตัวจับเวลา</string>
     <string name="go_back">ย้อนกลับ</string>
+    <string name="holiday_update">มีการอัปเดตสำหรับวันหยุดนักขัตฤกษ์</string>
+    <string name="holiday_update_fail">ไม่สามารถอัพเดทได้</string>
+    <string name="holiday_update_loading">กำลังอัพเดท…</string>
+    <string name="holiday_update_success">รายการทั้งหมดเป็นรุ่นล่าสุดแล้ว</string>
     <string name="hour_unit">ชั่วโมง +</string>
     <string name="install_weather_app_error">ไม่สามารถโหลดแอปได้</string>
     <string name="install_weather_app_loading">รอสักครู่…</string>
@@ -118,6 +131,7 @@
     <string name="life_post_setting">รายงานตอนเช้า</string>
     <string name="life_post_setting_FBE_remind">เนื่องจากข้อจำกัดของระบบ รายงานข้อมูลสภาพอากาศในตอนเช้าอาจแสดงผลไม่ถูกต้องหลังจากรีบูต</string>
     <string name="life_post_setting_close_title">ปิดรายงานตอนเช้า</string>
+    <string name="life_post_setting_open_desc">ปิดการเตือนซ้ำระหว่าง 04:00น. ถึง 10:00 น. เพื่อฟังรายงานสภาพอากาศปัจจุบัน</string>
     <string name="life_post_setting_open_subtitle">รับข้อมูลเกี่ยวกับสภาพอากาศ เมื่อคุณปิดใช้งานการแจ้งเตือนระหว่าง 4:00 - 9:30</string>
     <string name="life_post_setting_open_title">รับรายงานตอนเช้า</string>
     <string name="life_post_setting_wake_up_list_title">ประวัติการตื่นนอน</string>
@@ -139,13 +153,15 @@
     <string name="menu_item_sort_by_gmt_offset">เรียงตามวันเวลา</string>
     <string name="menu_item_sort_by_name">เรียงลำดับตามชื่อ</string>
     <string name="module_download_cancel">ไม่ ขอบคุณ</string>
-    <string name="module_download_data_msg">นาฬิกาต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียงสำหรับการแจ้งเตือนสภาพอากาศ MIUI 10 และตัวจับเวลาเสียงสภาพแวดล้อม ซึ่งจำเป็นต้องใช้ข้อมูลมือถือ 20MB ในการดาวน์โหลด ตกลงหรือไม่?</string>
-    <string name="module_download_data_msg_golbal">นาฬิกาต้องดาวน์โหลดไฟล์เสียงสำหรับการแจ้งเตือนสภาพอากาศ MIUI 10 และตัวจับเวลาเสียงสภาพแวดล้อม ซึ่งจำเป็นต้องใช้ข้อมูลมือถือ 20MB ในการดาวน์โหลด ตกลงหรือไม่?</string>
-    <string name="module_download_data_msg_replace">มีการอัปเดตเสียงสำหรับการเตือนอัจฉริยะ (≈20MB) เชื่อมต่อกับเครือข่ายและดาวน์โหลดโดยใช้ข้อมูลมือถือหรือไม่?</string>
+    <string name="module_download_data_msg">นาฬิกาต้องการดาวน์โหลดไฟล์เสียงสำหรับการปลุกอัจฉริยะของ MIUI การเตือนอัจฉริยะประกอบด้วยคุณลักษณะเสียงที่อนุญาตให้รวมถึงข้อมูลสภาพอากาศปัจจุบันในการเตือนภัย จะต้องใช้ข้อมูลมือถือของคุณขนาด ≈20 MB สำหรับการดาวน์โหลดนี้ ดาวน์โหลดเดี๋ยวนี้?</string>
+    <string name="module_download_data_msg_golbal">นาฬิกาต้องการดาวน์โหลดไฟล์เสียงสำหรับการปลุกอัจฉริยะของ MIUI จะต้องใช้ข้อมูลมือถือของคุณขนาด 20 MB สำหรับการดาวน์โหลดนี้ ดาวน์โหลดเดี๋ยวนี้?</string>
+    <string name="module_download_data_msg_replace">อัปเดตเสียงสำหรับการเตือนอัจฉริยะของ MIUI พร้อมใช้งานแล้ว จะต้องใช้ข้อมูลมือถือของคุณขนาด 20 MB สำหรับการดาวน์โหลดนี้ ดาวน์โหลดเดี๋ยวนี้?</string>
+    <string name="module_download_data_msg_timer">นาฬิกาจำเป็นต้องดาวน์โหลดไฟล์เสียงสำหรับตัวจับเวลาเสียงรอบข้าง จะต้องใช้ข้อมูลมือถือของคุณขนาด 20MB สำหรับการดาวน์โหลดนี้ ดาวน์โหลดเดี๋ยวนี้?</string>
     <string name="module_download_fail">ไม่สามารถดาวน์โหลดเสียงเพิ่มเติมได้</string>
-    <string name="module_download_msg">นาฬิกาต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียงสำหรับการแจ้งเตือนสภาพอากาศ MIUI 10 และตัวจับเวลาเสียงสภาพแวดล้อม ยอมรับหรือไม่?</string>
-    <string name="module_download_msg_golbal">นาฬิกาต้องดาวน์โหลดไฟล์เสียงสำหรับการแจ้งเตือนสภาพอากาศ MIUI 10 และตัวจับเวลาเสียงสภาพแวดล้อม ยอมรับหรือไม่?</string>
-    <string name="module_download_msg_replace">มีการอัปเดตเสียงสำหรับการเตือนอัจฉริยะ เชื่อมต่อกับเครือข่ายและดาวน์โหลดทันทีหรือไม่?</string>
+    <string name="module_download_msg">นาฬิกาต้องการดาวน์โหลดไฟล์เสียงสำหรับการปลุกอัจฉริยะของ MIUI การเตือนอัจฉริยะประกอบด้วยคุณลักษณะเสียงที่อนุญาตให้รวมถึงข้อมูลสภาพอากาศปัจจุบันในการเตือนภัย ดาวน์โหลดเดี๋ยวนี้?</string>
+    <string name="module_download_msg_golbal">นาฬิกาต้องการดาวน์โหลดไฟล์เสียงสำหรับการปลุกอัจฉริยะของ MIUI ดาวน์โหลดเดี๋ยวนี้?</string>
+    <string name="module_download_msg_replace">อัปเดตเสียงสำหรับการเตือนอัจฉริยะของ MIUI พร้อมใช้งานแล้ว ดาวน์โหลดเดี๋ยวนี้?</string>
+    <string name="module_download_msg_timer">นาฬิกาจำเป็นต้องดาวน์โหลดไฟล์เสียงสำหรับตัวจับเวลาเสียงรอบข้าง ดาวน์โหลดเดี๋ยวนี้?</string>
     <string name="module_download_no_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง</string>
     <string name="module_download_ok">อนุญาต</string>
     <string name="module_download_success">ดาวน์โหลดเสียงเพิ่มเติมเรียบร้อยแล้ว</string>
@@ -160,6 +176,7 @@
     <string name="other_category_title">อื่นๆ</string>
     <string name="pause">หยุดพัก</string>
     <string name="percentage_sign">%</string>
+    <string name="personal_recommend">คำแนะนำเนื้อหาส่วนบุคคล</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="remind_ringtone">เสียงเตือน</string>
     <string name="repeat_count">จำนวนครั้ง</string>
@@ -184,6 +201,7 @@
     <string name="shutdown_alarm_enable_summary">นาฬิกาจะปลุกหากตั้งไว้อย่างน้อย 5 นาทีหลังจากที่คุณปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="slider_text">เลื่อนขึ้นเพื่อปิดใช้งาน</string>
     <string name="snooze_confirm_cancel">เลิกทำการปลุก</string>
@@ -202,6 +220,7 @@
     <string name="start_up">เริ่ม</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_title">จับเวลา</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">การตั้งค่า</string>
     <string name="system_time_settings_category_title">การตั้งค่าเวลา</string>
     <string name="temperature_unit">℃</string>
@@ -255,6 +274,7 @@
     <string name="turn_off_this_repeat_alarm">ปิดการปลุกซ้ำนี้ตลอดไป</string>
     <string name="upcoming_alarm">%s เเจ้งเตือนที่กำลังมา</string>
     <string name="upcoming_alarm_hint">คุณสามารถปิดการปลุกล่วงหน้าได้</string>
+    <string name="user_agreement">ข้อตกลงการใช้งาน</string>
     <string name="vibrate_pref_summary">สั่นเมื่อมีเสียงปลุก</string>
     <string name="vibrate_when_ringing">สั่นเมื่อมีสายเรียกเข้า</string>
     <string name="volume_button_setting_summary">ตั้งฟังก์ชั่นปุ่มระดับเสียงระหว่างการปลุก</string>

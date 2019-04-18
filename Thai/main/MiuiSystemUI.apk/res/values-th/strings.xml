@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">กล้อง</string>
     <string name="accessibility_carrier_network_change_mode">แก้ไขผู้ให้บริการเครือข่าย</string>
     <string name="accessibility_cast_name">เชื่อมต่อไปยัง %s แล้ว</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">หยุดการฉายภาพหน้าจอ</string>
     <string name="accessibility_cell_data">ข้อมูลมือถือ</string>
     <string name="accessibility_cell_data_off">ข้อมูลมือถือปิด</string>
@@ -751,6 +752,7 @@
     <string name="guest_wipe_session_message">คุณต้องการดำเนินการเซสชันต่อหรือไม่?</string>
     <string name="guest_wipe_session_title">ผู้เยี่ยมชม! ยินดีต้อนรับกลับ</string>
     <string name="guest_wipe_session_wipe">เริ่มใหม่</string>
+    <string name="gxzw_area">ตัวสแกนลายนิ้วมือ</string>
     <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">กดแรงหน่อย</string>
     <string name="gxzw_try_again">ลองใหม่</string>
@@ -871,6 +873,10 @@
     <string name="keyguard_charging_back_to_lockscreen">กลับไปที่ล็อกหน้าจอ</string>
     <string name="keyguard_charging_info_battery_used_time_text">ใช้แบตเตอรี่</string>
     <string name="keyguard_charging_info_click_to_detail">เรียกดูรายละเอียด</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">สัดส่วนการใช้แบต</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">วันนี้ %s</string>
@@ -895,6 +901,7 @@
     <string name="keyguard_missing_sim_instructions_long">ไม่พบซิมการ์ดหรืออ่านซิมการ์ดไม่ได้ กรุณาใส่ซิมการ์ด</string>
     <string name="keyguard_missing_sim_message">ไม่พบซิมการ์ดในเครื่อง</string>
     <string name="keyguard_missing_sim_message_short">ไม่พบซิมการ์ด</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">เครือข่ายถูกล็อกไว้</string>
     <string name="keyguard_password_enter_password_code">ป้อนรหัสผ่านเพื่อปลดล็อก</string>
     <string name="keyguard_password_enter_pin_code">ป้อนรหัส PIN</string>
@@ -978,6 +985,7 @@
     <string name="left_keycode">คีย์โค๊ดซ้าย</string>
     <string name="left_nav_bar_button_type">ประเภทปุ่มซ้ายพิเศษ</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">แตะเพื่อแก้ไขหรือลบรหัสผ่านสำหรับการสำรองข้อมูลหน้าจอหลักเต็มรูปแบบ</string>
     <string name="local_backup_password_summary_none">การสำรองข้อมูลหน้าจอหลักเต็มรูปแบบไม่ได้รับการป้องกันในขณะนี้</string>
     <string name="local_backup_password_title">รหัสผ่านข้อมูลสำรองหน้าจอหลัก</string>
@@ -987,6 +995,10 @@
     <string name="lock_screen_carrier_airplane_mode_on">โหมดเครื่องบิน</string>
     <string name="lock_screen_date">EEEE d MMMM</string>
     <string name="lock_screen_date_12">EEEE d MMMM</string>
+    <string name="lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+    <string name="lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
     <string name="lock_screen_magazine_default_content">ภาพพื้นหลังใหม่แต่ละวัน</string>
     <string name="lock_screen_magazine_default_title">ภาพพื้นหลังรายวัน</string>
     <string name="lock_screen_magazine_global_button_text">เพิ่มเติม</string>
@@ -1039,10 +1051,11 @@
     <string name="memory_clear_result_mega">ทำความสะอาดแล้ว %1$sMB</string>
     <string name="menu_ime">ตัวสลับแป้นพิมพ์</string>
     <string name="miui_guide_dialog_button_negative_text">การตั้งค่า</string>
-    <string name="miui_guide_dialog_button_positive_text">เข้าใจแล้ว</string>
+    <string name="miui_guide_dialog_button_positive_text">รับทราบ</string>
     <string name="miui_guide_dialog_message">เสียงสื่อ (เพลง วิดีโอ ฯลฯ) จะยังคงเล่นในโหมดเงียบ คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ปลดล็อกโดยใช้อุปกรณ์บลูทูธ</string>
     <string name="miui_ringer_count_down">นับถอยหลัง</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">ปิดเสียง</string>
     <string name="miui_ringer_standard_description">ปิดเสียงเรียกเข้าสำหรับสายเรียกเข้าและการแจ้งเตือน</string>
     <string name="miui_ringer_total">ห้ามรบกวน</string>
@@ -1070,12 +1083,14 @@
 
 สำหรับข้อมูลเพิ่มเติมโปรดติดต่อผู้ดูแลระบบของคุณ"</string>
     <string name="monitoring_description_ca_cert_settings">เปิดหนังสือรับรองที่เชื่อถือได้</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">ผู้ให้บริการออกใบรับรองถูกติดตั้งบนอุปกรณ์นี้ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_do_body">ผู้ดูแลระบบของคุณสามารถตรวจสอบและจัดการการตั้งค่า การเข้าถึงองค์กร แอป ข้อมูลที่เกี่ยวข้องกับอุปกรณ์และข้อมูลตำแหน่งของอุปกรณ์ของคุณได้</string>
     <string name="monitoring_description_do_body_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ของคุณได้</string>
     <string name="monitoring_description_do_header_generic">อุปกรณ์ของคุณมีการจัดการโดย %1$s</string>
     <string name="monitoring_description_do_header_with_name">%1$s ใช้ %2$s เพื่อจัดการอุปกรณ์ของคุณ</string>
     <string name="monitoring_description_do_learn_more">เรียนรู้เพิ่มเติม</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">องค์กรของคุณได้ติดตั้งผู้ออกใบรับรองในโปรไฟล์งานของคุณ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_managed_profile_named_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ได้</string>
     <string name="monitoring_description_management">"อุปกรณ์ของคุณมีการจัดการโดยองค์กรของคุณ 
@@ -1107,6 +1122,7 @@
 
  คุณเชื่อมต่อกับ VPN ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายของคุณได้"</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">ใบรับรอง CA</string>
     <string name="monitoring_subtitle_network_logging">บันทึกข้อมูลระบบเครือข่าย</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1121,6 +1137,7 @@
     <string name="nav_guide_message">ใช้ท่าทางเพื่อซ่อน/แสดงปุ่มซอฟท์</string>
     <string name="nav_guide_ok">ติดตั้ง</string>
     <string name="nav_guide_title">ซ่อนปุ่มซอฟท์</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">ไม่มี</string>
     <string name="no_multi_window_app">ไม่มีแอปซึ่งรองรับการแบ่งหน้าจอ</string>
     <string name="no_notification_tips">ไม่มีการแจ้งเตือน</string>
@@ -1279,6 +1296,7 @@
     <string name="private_dns_mode_provider">ชื่อผู้ให้บริการ DNS ส่วนตัว</string>
     <string name="private_dns_mode_provider_failure">เชื่อมต่อไม่ได้</string>
     <string name="private_dns_mode_provider_hostname_hint">ป้อนผู้ให้บริการ DNS ส่วนตัว</string>
+    <string name="process_kernel_label">ระบบแอนดรอยด์</string>
     <string name="profile_owned_footer">โปรไฟล์อาจได้รับการตรวจสอบ</string>
     <string name="prompt_danger">อันตราย</string>
     <string name="prompt_detecting">กำลังตรวจจับ</string>
@@ -1394,6 +1412,7 @@
     <string name="quick_settings_wifi_off_label">Wi-Fi ปิดอยู่</string>
     <string name="quick_settings_wifi_on_label">Wi-Fi เปิดอยู่</string>
     <string name="quick_settings_work_mode_label">โหมดทำงาน</string>
+    <string name="rapid_charge_mode_tip">ชาร์จด่วน</string>
     <string name="recent_cannot_dock">ไม่สามารถใช้หน้าจอแยกในพื้นที่ทับซ้อนได้</string>
     <string name="recent_dock_tip">แตะเพื่อเลือกแอป</string>
     <string name="recent_menu_item_info">ข้อมูล</string>
@@ -1842,7 +1861,7 @@ d MMM"</string>
     <string name="wapi_cert_manage_title">การจัดการใบรับรอง WAPI</string>
     <string name="wapi_cert_roaming">กำลังเชื่อมต่อ…</string>
     <string name="wapi_cert_select">ใบรับรอง WAPI</string>
-    <string name="wapi_no">ไม่ใช่</string>
+    <string name="wapi_no">ไม่</string>
     <string name="wapi_no_vaild_cert">ดูเหมือนจะไม่มีการติดตั้งใบรับรองที่จำเป็น ติดตั้งเลย?</string>
     <string name="wapi_password_empty">ป้อนรหัสผ่าน</string>
     <string name="wapi_password_hex_format_add">คุณต้องใช้ตัวเลขเลขฐานสิบหกที่เท่ากัน</string>
@@ -1858,6 +1877,7 @@ d MMM"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">เลขฐานสิบหก</string>
     <string name="wapi_yes">ใช่</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">อัพเดทล่าสุด %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">จุดเข้าใช้งานชั่วคราวเต็มรูปแบบ</string>
     <string name="wifi_auto_sel_wapi_cert">เลือกโดยอัตโนมัติ</string>
@@ -1891,12 +1911,14 @@ d MMM"</string>
     <string name="wifi_security_none">ไม่มี</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>

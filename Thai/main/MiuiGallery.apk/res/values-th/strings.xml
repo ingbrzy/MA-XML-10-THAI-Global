@@ -482,7 +482,7 @@
     <string name="ext_sdcard_permission_request_title">อนุญาตให้แกลเลอรี่เข้าถึง SD การ์ด</string>
     <string name="ext_sdcard_request_failed_button_text">ตกลง</string>
     <string name="ext_sdcard_request_succeed_toast_text">เมื่อคุณพร้อมเราก็พร้อม มาลองใช้กัน!</string>
-    <string name="face_album_empty">"มีภาพถ่ายไม่เพียงพอที่จะยืนยันบุคคลได้r
+    <string name="face_album_empty">"มีภาพถ่ายไม่เพียงพอที่จะยืนยันบุคคลได้
 ถ่ายภาพเพื่อนของคุณเพิ่ม!"</string>
     <string name="face_album_empty_syncing">กำลังซิงค์ข้อมูล กรุณารอสักครู่</string>
     <string name="face_album_empty_syncing_when_connect_wifi">เชื่อมต่อเครือข่ายเพื่อซิงค์ข้อมูล</string>
@@ -499,6 +499,7 @@
     <string name="face_name_edit">แก้ไข</string>
     <string name="face_name_input">ป้อนชื่อ</string>
     <string name="face_recommend">ข้อเสนอแนะ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">ดำเนินการไม่เสร็จสิ้น</string>
     <string name="fail_to_pick_email">ที่อยู่อีเมลไม่ถูกต้อง</string>
     <string name="fail_to_sync_album">ไม่สามารถซิงค์อัลบั้ม ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองใหม่อีกครั้ง</string>
@@ -509,6 +510,7 @@
     <string name="feature_guidance_photo_effects">"เอฟเฟ็กต์​ภาพถ่ายใหม่
 พร้อมใช้งาน"</string>
     <string name="feature_guidance_video_editor_smart_effects">เอฟเฟ็กต์​ใหม่พร้อมใช้งาน</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">ขาว&amp;ดำ</string>
     <string name="filter_bi_dusk">พลบค่ำ</string>
     <string name="filter_bi_lilt">ลิลท์</string>
@@ -582,6 +584,7 @@
     <string name="gif_tip">ไฟล์ GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">ตั้งค่า</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"คลังภาพต้องการเข้าถึง 
 %s
  เพื่อให้ทำงานได้ตามปกติ แตะ \"ตั้งค่า\" เพื่อไปยังการอนุญาต"</string>
@@ -835,6 +838,7 @@
     <string name="people_mark_mode_title_no_mark_name">เลือกสักคน</string>
     <string name="people_page_label">บุคคล</string>
     <string name="people_page_unname">ไม่มีชื่อ</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">สำหรับการตั้งชื่อคนในรูปถ่าย</string>
     <string name="permission_contract_name">รายชื่อผู้ติดต่อ</string>
     <string name="permission_optional_category">สิทธิ์เพิ่มเติม</string>
@@ -852,6 +856,7 @@
     <string name="photo_editor_beautify">ฟรุ๊งฟริ๊ง</string>
     <string name="photo_editor_beautify_auto">อัตโนมัติ</string>
     <string name="photo_editor_beauty_compare">ต้นฉบับ</string>
+    <string name="photo_editor_compare_tip">กดค้างไว้เพื่อดูภาพต้นฉบับ</string>
     <string name="photo_editor_crop_and_rotate">ตัดภาพ</string>
     <string name="photo_editor_crop_auto">อัตโนมัติ</string>
     <string name="photo_editor_crop_auto_tips">ตัดภาพอัตโนมัติ</string>
@@ -889,6 +894,7 @@
     <string name="photo_editor_navigator_module_download_wait_wlan">รอเครือข่าย Wi-Fi</string>
     <string name="photo_editor_navigator_module_downloading">กำลังดาวน์โหลด %s…</string>
     <string name="photo_editor_navigator_need_download">เชื่อมต่อกับเครือข่ายเพื่อดาวน์โหลด %s</string>
+    <string name="photo_editor_remove_watermark">ลบลายน้ำ</string>
     <string name="photo_editor_remover">ลบ</string>
     <string name="photo_editor_rotate">หมุนภาพ</string>
     <string name="photo_editor_saving">กำลังบันทึก…</string>
@@ -1028,7 +1034,12 @@
     <string name="scan_barcode_to_join">สแกนรหัส QR เพื่อเพิ่มอัลบั้ม</string>
     <string name="scan_qr_code_buttom_text">สแกนรหัส QR เพื่อแสดงอัลบั้มนี้</string>
     <string name="screen_doodle_talkback_size">ความกว้างของลายเส้น</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">เสร็จสิ้น</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ยกเลิก </string>
     <string name="screen_save_dialog_btn_delete">ลบภาพหน้าจอ</string>
     <string name="screen_save_dialog_btn_save">บันทึกไปยังคลังภาพ</string>
@@ -1086,6 +1097,9 @@
     <string name="search_title_recommend">แนะนำ</string>
     <string name="search_title_suggestion">ข้อเสนอแนะ</string>
     <string name="search_title_tag">สิ่งของ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">กำลังมองหาโปรเจคเตอร์…</string>
     <string name="secret_album_card_description">ที่ที่ดีที่สุดสำหรับความลับทั้งหมดของคุณ</string>
     <string name="secret_album_card_title">เปิดอัลบั้มที่ซ่อนไว้</string>

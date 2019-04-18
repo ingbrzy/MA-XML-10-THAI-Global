@@ -30,7 +30,7 @@
         <item>อินเดีย</item>
         <item>ไอร์แลนด์</item>
         <item>อิตาลี</item>
-        <item>เกาหลี</item>
+        <item>เกาหลีใต้</item>
         <item>แม็กซิโก</item>
         <item>เนเธอร์แลนด์</item>
         <item>นิวซีแลนด์</item>
@@ -68,7 +68,7 @@
         <item>อินเดีย (91.0MHz ถึง 106.4MHz ใน 100 Khz)</item>
         <item>ไอร์แลนด์ (87.5MHz ถึง 108.0MHz ใน 50 Khz)</item>
         <item>อิตาลี (87.5MHz ถึง 108.0MHz ใน 50 Khz)</item>
-        <item>เกาหลี (87.5MHz ถึง 108.0MHz ใน 200 Khz)</item>
+        <item>เกาหลีใต้ (87.5MHz ถึง 108.0MHz ใน 200 Khz)</item>
         <item>แม็กซิโก (88.1MHz ถึง 107.9MHz ใน 200 Khz)</item>
         <item>เนเธอร์แลนด์ (87.5MHz ถึง 108.0MHz ใน 100 Khz)</item>
         <item>นิวซีแลนด์ (88.0MHz ถึง 107.0MHz ใน 100 Khz)</item>
@@ -89,26 +89,26 @@
     <string-array name="rf_cfg">
         <item>รับตัวแปรสถานีปัจจุบัน</item>
         <item>รับตัวแปรของสถานี (ทำซ้ำ 20 ครั้ง)</item>
-        <item>รับตัวแปรค้นหาสถานี</item>
+        <item>รับพารามิเตอร์ค้นหาสถานี</item>
         <item>รับตัวแปรกวาดวิทยุ</item>
         <item>กำหนดค่าตัวแปรค้นหาความถี่</item>
     </string-array>
     <string-array name="search_category_rbds_entries">
         <item>สถานีทั้งหมด</item>
-        <item>ย้อนยุค</item>
+        <item>ฮิต</item>
         <item>คลาสสิค</item>
         <item>คลาสสิคร็อค</item>
-        <item>โรงเรียน</item>
+        <item>วิทยาเขต</item>
         <item>ประเทศ</item>
         <item>ฉุกเฉิน</item>
-        <item>ทดสอบฉุกเฉิน</item>
+        <item>แจ้งเตือนทดสอบฉุกเฉิน</item>
         <item>ภาษาต่างประเทศ</item>
         <item>ข้อมูล</item>
         <item>แจ๊ส</item>
         <item>ข่าว</item>
-        <item>คิดถึง</item>
+        <item>ความคิดถึง</item>
         <item>เพลงเก่า</item>
-        <item>บุคลิกภาพ</item>
+        <item>ส่วนบุคคล</item>
         <item>สาธารณะ</item>
         <item>เพลงศาสนา</item>
         <item>พูดคุยศาสนา</item>
@@ -125,15 +125,15 @@
     <string-array name="search_category_rds_entries">
         <item>สถานีทั้งหมด</item>
         <item>วัฒนธรรม</item>
-        <item>ข่าวสารปัจจุบัน</item>
-        <item>โปรแกรมเด็ก</item>
+        <item>หัวข้อปัจจุบัน</item>
+        <item>สำหรับเด็ก</item>
         <item>เพลงคันทรี</item>
         <item>สารคดี</item>
         <item>ละคร</item>
-        <item>เพลงฟังสบาย</item>
+        <item>ฟังง่าย</item>
         <item>การศึกษา</item>
         <item>ฉุกเฉิน</item>
-        <item>การทดสอบฉุกเฉิน</item>
+        <item>แจ้งเตือนทดสอบฉุกเฉิน</item>
         <item>การเงิน</item>
         <item>เพลงพื้นบ้าน</item>
         <item>ข้อมูล</item>
@@ -141,15 +141,15 @@
         <item>คลาสสิคเบาๆ</item>
         <item>สันทนาการ</item>
         <item>ข่าวสาร</item>
-        <item>เพลงในประเทศ</item>
-        <item>เพลงอื่น</item>
+        <item>เพลงพื้นบ้านแบบดั้งเดิม</item>
+        <item>อื่นๆ</item>
         <item>เพลงเก่า</item>
         <item>โฟนอิน</item>
         <item>เพลงป็อป</item>
         <item>ศาสนา</item>
         <item>เพลงร็อค</item>
         <item>วิทยาศาสตร์</item>
-        <item>คลาสสิคหนัก</item>
+        <item>คลาสสิค</item>
         <item>กิจการทางสังคม</item>
         <item>กีฬา</item>
         <item>เดินทาง</item>

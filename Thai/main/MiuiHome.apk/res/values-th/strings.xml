@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">เพิ่มไปยังหน้าแรก</string>
     <string name="activity_not_found">ไม่พบการติดตั้งแอปในเครื่อง</string>
     <string name="add_screen">เพิ่มหน้าจอ</string>
@@ -195,6 +196,7 @@
     <string name="is_system_wallpaper_message">ไม่สามารถลบไฟล์ของระบบได้</string>
     <string name="launcher_auto_fill_empty_title">เติมเต็มเซลล์ที่ว่างเปล่า</string>
     <string name="launcher_not_exist">เกิดข้อผิดพลาด ย้อนกลับหน้าจอหลักและลองอีกครั้ง</string>
+    <string name="launcher_sliding_up_gesture">เลื่อนหน้าจอหลักขึ้นเพื่อเปิดการค้นหา</string>
     <string name="launcher_title">หน้าจอหลัก &amp; ล่าสุด</string>
     <string name="like">เพิ่มรายการโปรด</string>
     <string name="liked">เพิ่มไปยังรายการโปรดแล้ว</string>
@@ -355,6 +357,9 @@
     <string name="widget_global_search">ค้นหา</string>
     <string name="widget_quick_function">ฟังค์ชั่นทางลัด</string>
     <string name="widgets_preview_title">เพิ่มวิดเจ็ต</string>
+    <string name="edit_mode_dual_app">สร้างแอปโคลน</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">ไม่สามารถถอนการติดตั้งแอประบบได้</string>
+    <string name="edit_mode_group_error_nothing_be_selected">เลือกแอปก่อน</string>
     <string name="home_gesture_content_center">ศูนย์เนื้อหา</string>
     <string name="home_gesture_global_search">ค้นหา</string>
     <string name="home_gesture_no_action">ไม่มี</string>
@@ -363,6 +368,5 @@
     <string name="home_slide_up_action">เลื่อนขึ้นบนหน้าจอหลัก</string>
     <string name="launcher_pull_down_title">เลื่อนลงบนหน้าจอหลัก</string>
     <string name="launcher_slide_up_title">เลื่อนขึ้นบนหน้าจอหลัก</string>
-    <string name="launcher_sliding_up_gesture">เลื่อนหน้าจอหลักขึ้นเพื่อเปิดการค้นหา</string>
     <string name="minus_one_screen">App vault</string>
 </resources>

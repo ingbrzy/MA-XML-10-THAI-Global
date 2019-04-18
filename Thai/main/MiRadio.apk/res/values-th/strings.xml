@@ -21,7 +21,9 @@
     <string name="label_recording">รายการวิทยุที่อัดไว้: %s</string>
     <string name="menu_exit">ออก</string>
     <string name="menu_headset">ออกชุดหูฟัง</string>
+    <string name="menu_label">เมนู</string>
     <string name="menu_new_station">เพิ่ม</string>
+    <string name="menu_privacy">นโยบายความเป็นส่วนตัว</string>
     <string name="menu_record_list">รายการวิทยุที่บันทึกไว้</string>
     <string name="menu_record_start">บันทึกรายการวิทยุ</string>
     <string name="menu_record_stop">หยุดบันทึกรายการวิทยุ</string>
@@ -34,11 +36,13 @@
     <string name="msg_do_not_support_fm">โทรศัพท์ไม่รองรับการใช้งานวิทยุ</string>
     <string name="msg_fm_starting">กำลังเริ่ม…</string>
     <string name="msg_noantenna_message">ไม่ได้เสียบหูฟัง การทำงานของแอปบางส่วนอาจใช้งานไม่ได้</string>
+    <string name="msg_try_plug_headset">เชื่อมต่อเฮดโฟนแล้วลองใหม่อีกครั้ง.</string>
     <string name="new_frequency">ความถี่ใหม่</string>
     <string name="next_station">สถานีถัดไป</string>
     <string name="notification_rec_title">แตะเพื่อดูรายชื่อไฟล์เสียง</string>
     <string name="pre_station">สถานีก่อนหน้า</string>
     <string name="record_completed">บันทึกวิทยุเสร็จสิ้นแล้ว</string>
+    <string name="runtime_permission_ungranted">ไม่สามารถใช้ตัวบันทึกเสียงได้เนื่องจากไม่ได้รับอนุญาต</string>
     <string name="search_dialog_title">ค้นหาสถานี</string>
     <string name="set">ตั้ง</string>
     <string name="station_check_favorite">เพิ่มลงในสถานีที่ตั้งไว้</string>
@@ -51,13 +55,17 @@
     <string name="toast_fm_recorder_access_error">ไม่สามารถบันทึกวิทยุขณะอยู่ในโหมดเยี่ยมชม</string>
     <string name="toast_fm_recorder_internal_error">การอัดรายการวิทยุเกิดผิดพลาด</string>
     <string name="toast_fm_recorder_storage_full">อัดรายการวิทยุไม่ได้: พื้นที่จัดเก็บไม่เพียงพอ</string>
-    <string name="toast_fm_seeking">กำลังหา…</string>
+    <string name="toast_fm_seeking">กำลังปรับเสียง…</string>
     <string name="toast_fm_starting">กำลังเริ่ม…</string>
     <string name="toast_removed_from_presets">ลบออกจากสถานีที่ตั้งไว้แล้ว</string>
     <string name="toast_sleep_mode">ปิดวิทยุในอีก %s</string>
     <string name="toast_sleep_mode_exit">ยกเลิกการตั้งเวลาปิดแล้ว</string>
     <string name="turn_off_fm">ปิดวิทยุ</string>
     <string name="txt_divider">" | "</string>
-    <string name="txt_sleep_mode">โหมดพัก</string>
+    <string name="txt_sleep_mode">โหมดพักหน้าจอ</string>
+    <string name="using_recorder_cancel">ปฏิเสธ</string>
+    <string name="using_recorder_confirm">อนุญาต</string>
+    <string name="using_recorder_dialog_message">วิทยุจำเป็นต้องเข้าถึงบริการการบันทึกอุปกรณ์ของคุณในการทำงานตามปกติ</string>
+    <string name="using_recorder_dialog_title">ต้องการคำร้องขออนุญาต</string>
     <string name="view_stations_list">แสดงรายชื่อสถานี</string>
 </resources>

@@ -25,10 +25,10 @@
         <item quantity="other">รหัส PUK ไม่ถูกต้อง ป้อนได้อีก %d ครั้ง</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">คุณไม่ได้ใส่รหัสผ่านมาอย่างน้อย %d ชั่วโมง โปรดป้อนรหัสผ่านของคุณ</item>
+        <item quantity="other">ป้อนรหัสผ่านของคุณอย่างน้อยหนึ่งครั้งในทุกๆ %dชั่วโมง เพื่อจดจำเสมอ</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">คุณไม่ได้ใส่รูปแบบปลดล็อกมาอย่างน้อย %d ชั่วโมง โปรดวาดรูปแบบของคุณ</item>
+        <item quantity="other">ป้อนรหัสผ่านของคุณอย่างน้อยหนึ่งครั้งในทุกๆ %dชั่วโมง เพื่อจดจำเสมอ</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">"ใช้งานได้ประมาณ %d  ชั่วโมง"</item>

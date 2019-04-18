@@ -455,7 +455,7 @@ ID:%s
 ส่งรหัสนี้ไปยังที่ปรึกษา"</string>
     <string name="diagnosis_log_send_failed">ไม่สามารถส่งบันทึกได้</string>
     <string name="temporary_not_available">ไม่พร้อมใช้งานคุณลักษณะนี้</string>
-    <string name="ok">ตกลก</string>
+    <string name="ok">ตกลง</string>
     <string name="select_all">เลือกทั้งหมด</string>
     <string name="i_agree">ตกลง</string>
     <string name="i_agree_continue">ยอมรับ</string>

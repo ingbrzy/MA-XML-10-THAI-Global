@@ -340,6 +340,11 @@
         <item>ปารามาริโบ</item>
         <item>กีโต</item>
     </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>สีขาว</item>
+        <item>สีดำ</item>
+        <item>อัตโนมัติ</item>
+    </string-array>
     <string-array name="countries_names_miui">
         <item>ไอวอรี่โคสต์</item>
         <item>กานา</item>

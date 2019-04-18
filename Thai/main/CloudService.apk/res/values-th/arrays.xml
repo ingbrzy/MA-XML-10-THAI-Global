@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="user_detail_fixed_items">
+        <item>เรียกดูรายการที่ซิงค์แล้ว</item>
+        <item>รายละเอียดที่จัดเก็บข้อมูล</item>
+    </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>สำหรับการระบุรายการที่ซิงค์</item>
         <item>สำหรับการซิงค์ข้อความ</item>

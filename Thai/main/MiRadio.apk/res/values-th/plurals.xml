@@ -4,6 +4,6 @@
         <item quantity="other">พบ %d ไฟล์เสียงวิทยุ FM</item>
     </plurals>
     <plurals name="toast_channel_searched">
-        <item quantity="other">ค้นหาคลื่นจำนวน %1$d สถานีแล้ว</item>
+        <item quantity="other">สแกนแล้ว %1$d สถานี</item>
     </plurals>
 </resources>

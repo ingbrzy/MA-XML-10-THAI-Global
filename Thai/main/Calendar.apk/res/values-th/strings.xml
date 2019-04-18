@@ -86,6 +86,7 @@
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">บันทึกวันเกิดแล้ว</string>
     <string name="birthday_term">วันเกิด</string>
+    <string name="calendar_permission_desc">จัดการเหตุการณ์</string>
     <string name="can_not_create_long_event">ชื่อกำหนดการยาวเกินไป</string>
     <string name="can_not_modify_allday_event">ไม่สามารถเปลี่ยนกำหนดการทั้งวันได้</string>
     <string name="can_not_modify_event">ไม่สามารถเปลี่ยนกำหนดการได้</string>
@@ -103,6 +104,7 @@
     <string name="change_response_title">เปลี่ยนการตอบสนอง</string>
     <string name="click_to_share">แตะเพื่อแชร์</string>
     <string name="close_alarm">ปิดใช้งาน</string>
+    <string name="contacts_permission_desc">เข้าถึงข้อมูลรายชื่อ</string>
     <string name="countdown_event_title">นับถอยหลัง: %1$s</string>
     <string name="countdown_notify_before_3_day_title">นับถอยหลัง: %1$s ใน 3 วัน</string>
     <string name="countdown_notify_title">นับถอยหลัง: %1$s</string>
@@ -132,6 +134,7 @@
     <string name="date_interval_text_to">ถึง %1$s</string>
     <string name="date_jump_hint">ข้ามไปที่วันใดวันหนึ่ง</string>
     <string name="date_jump_title">ระบุวัน</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (วันนี้)"</string>
     <string name="day_view_new_event_hint">กำหนดการใหม่</string>
     <string name="default_reminder_mode">การเตือนกำหนดการ</string>
@@ -214,6 +217,9 @@
     <string name="global_cricket_no_match">ไม่มีการแข่งขันคริกเก็ตที่กำหนดไว้สำหรับวันนี้ ตรวจสอบวันอื่นๆ</string>
     <string name="global_football_final">รอบชิง</string>
     <string name="global_football_no_match">ไม่มีกำหนดการแข่งขันฟุตบอลในวันนี้</string>
+    <string name="global_joke_collapse_text">แสดงน้อยลง</string>
+    <string name="global_joke_copy_toast_message">คัดลอกข้อความเรียบร้อยแล้ว</string>
+    <string name="global_joke_expand_text">แสดงเพิ่มเติม</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="greetingcard_end_of_page">นั่นคือทั้งหมดสำหรับวันนี้ กลับมาใหม่พรุ่งนี้!</string>
     <string name="greetingcard_notification_desc">ตรวจสอบสถานะล่าสุด</string>
@@ -475,7 +481,4 @@
     <string name="xiaomi_calendar_display_name">ปฏิทินบัญชี Mi</string>
     <string name="yearly">ประจำทุกปี (ทุกวันที่ %s ของทุกปี)</string>
     <string name="yearly_plain">ทุกปี</string>
-    <string name="global_joke_collapse_text">Show less</string>
-    <string name="global_joke_copy_toast_message">Copied text successfully</string>
-    <string name="global_joke_expand_text">Show more</string>
 </resources>

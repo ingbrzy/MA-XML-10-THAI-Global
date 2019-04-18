@@ -192,4 +192,18 @@
     <string name="talk_back_water_mark_string1">TalkBack เปิดอยู่</string>
     <string name="talk_back_water_mark_string2">กดค้าง \"ระดับเสียง+\" และ \"ระดับเสียง-\" 3 วินาที เพื่อปิด</string>
     <string name="start_dump_log">เริ่มบันทึกที่เกี่ยวข้องกับปัญหา</string>
+    <string name="popup_camera_tip">โปรดทราบ</string>
+    <string name="popup_camera_sure">รับทราบ</string>
+    <string name="popup_camera_sure_wait">รับทราบ (%dวิ)</string>
+    <string name="popup_camera_front_failed">ไม่สามารถเปิดกล้องหน้า กรุณาลองใหม่</string>
+    <string name="popup_camera_front_falied_times">ไม่สามารถเปิดกล้องหน้าหลายครั้ง นำอุปกรณ์ของคุณไปที่ Mi Home เพื่อวินิจฉัยปัญา</string>
+    <string name="takeback_camera_front_failed">ไม่สามารถปิดกล้องหน้า กรุณาลองใหม่</string>
+    <string name="stop_operate_camera_frequently">ดูเหมือนว่าคุณสลับระหว่างกล้องบ่อยเกินไป</string>
+    <string name="popup_camera_front_when_use">กล้องหน้าไม่ว่างตอนนี้ เปิดต่อหรือไม่?</string>
+    <string name="popup_camera_popup_falied_times_calibrate">ไม่สามารถเปิดกล้องหน้าหลายครั้ง ลองปรับเทียบกล้อง</string>
+    <string name="popup_camera_takeback_falied_times_calibrate">ไม่สามารถปิดกล้องหน้าหลายครั้ง ลองปรับเทียบกล้อง</string>
+    <string name="popup_camera_calibrate_now">ปรับเทียบ</string>
+    <string name="popup_camera_calibrate_success">ปรับเทียบสำเร็จ คุณสามารถเปิดกล้องหน้าได้แล้ว</string>
+    <string name="popup_camera_calibrate_failed">ไม่สามารถปรับเทียบ นำอุปกรณ์ของคุณไปที่ Mi Home เพื่อวินิจฉัยปัญา</string>
+    <string name="popup_camera_using_camera_background">%s กำลังใช้กล้องหน้า</string>
 </resources>

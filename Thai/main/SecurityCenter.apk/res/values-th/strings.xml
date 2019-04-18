@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -461,6 +463,7 @@
     <string name="not_limited_brand">ไม่จำกัด</string>
     <string name="pref_about_traffic_title">การตั้งค่าการใช้ข้อมูล</string>
     <string name="pref_traffic_manage_title">การใช้ข้อมูล</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">แพ็คเกจข้อมูล</string>
     <string name="pref_adjust_traffic_data">ตั้งการใช้ข้อมูล</string>
     <string name="pref_category_title_other">การตั้งค่าเพิ่มเติม</string>
@@ -928,7 +931,7 @@
     <string name="status_bar_network_flow_phone_balance">"   ยอดเงินคงเหลือ:%1$s "</string>
     <string name="status_bar_network_flow_exceed_content">ใช้ไปวันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;ใช้เกินไปแล้ว: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_content">วันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; คงเหลือ: %2$s</string>
-    <string name="status_bar_network_flow_content_not_setting">วันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;; เดือนนี้: %2$s</string>
+    <string name="status_bar_network_flow_content_not_setting">วันนี้: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;เดือนนี้: %2$s</string>
     <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">ขีดจำกัดข้อมูลแบบครั้งเดียว</string>
     <string name="pref_key_tethering_title">ขีดจำกัดข้อมูลแบบครั้งเดียว</string>
@@ -949,7 +952,7 @@
     <string name="memory_clean_memory_size_tip">แคช</string>
     <string name="memory_clean_no_need_clean">ไม่พบสิ่งผิดปกติ</string>
     <string name="optimize_result_available_memory_info">หน่วยความจำพร้อมใช้งาน</string>
-    <string name="optimize_result_title_uninstall_apps">แอป</string>
+    <string name="optimize_result_title_uninstall_apps">ถอนการติดตั้งแอป</string>
     <string name="om_settings_title">การตั้งค่า</string>
     <string name="om_settings_lock_app_manage">ล็อกแอป</string>
     <string name="om_settings_lock_app">ล็อกแอป</string>
@@ -1012,6 +1015,7 @@
     <string name="usage_type_data_send">ปริมาณข้อมูลขาออก</string>
     <string name="usage_type_no_coverage">ระยะเวลาที่อับสัญญาณ</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">แอนดรอยด์</string>
     <string name="process_mediaserver_label">เซิร์ฟเวอร์สื่อมีเดีย</string>
     <string name="power_screen">หน้าจอ</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1234,12 +1238,17 @@
     <string name="power_center_list_item_auto_brightness">ปรับความสว่างหน้าจอโดยอัตโนมัติ</string>
     <string name="power_center_list_item_deep_save_title">การตั้งค่าขั้นสูง</string>
     <string name="power_center_list_item_battery_status_time">ชม.</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">หยุดการสแกน</string>
     <string name="hide_mode_result_summary_text">ปรับแต่งการตั้งค่าตัวประหยัดแบตเตอรี่ของแต่ละแอป</string>
     <string name="auto_task_result_summary_text">ตั้งค่างานอัตโนมัติสำหรับตัวประหยัดแบตเตอรี่</string>
     <string name="pc_settings_title">การตั้งค่าการเพิ่มประสิทธิภาพแบตเตอรี่</string>
     <string name="pc_main_activity_back">ย้อนกลับ</string>
     <string name="extreme_power_save_mode_card_summary">เปิดใช้งานตัวประหยัดแบตเตอรี่ขั้นสูงเพื่อประหยัดพลังงานเมื่อแบตเตอรี่ต่ำ</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">ระบบ</string>
     <string name="apps_list_header_title_sms">ตรวจสอบแอปข้อความ</string>
     <string name="apps_list_header_title_sms_access">จำกัดการเข้าถึงรหัสยืนยัน</string>
@@ -1348,11 +1357,13 @@
     <string name="menu_text_optimize_manage">เพิ่มความเร็ว</string>
     <string name="menu_text_networkassistants">การใช้ข้อมูล</string>
     <string name="menu_summary_networkassistants">จัดการแพ็คเกจข้อมูลของคุณ</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">เกินขีดจำกัด</string>
     <string name="menu_summary_networkassistants_3">มีข้อมูลเหลือเพียงพอ</string>
     <string name="menu_summary_networkassistants_4">ใช้ข้อมูลหมดแล้ว</string>
     <string name="menu_text_networkassistants_remain">คงเหลือ %s</string>
     <string name="menu_text_networkassistants_danger">ใช้เกินไป %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1365,12 +1376,14 @@
     <string name="menu_summary_garbage_cleanup">ไม่มีขยะ</string>
     <string name="menu_summary_garbage_cleanup_2">ปริมาณขยะ</string>
     <string name="menu_summary_garbage_cleanup_3">ล้างขยะทันที</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">การเพิ่มประสิทธิภาพแบตเตอรี่</string>
     <string name="menu_summary_power_manager">ตัวประหยัดแบตเตอรี่ช่วยให้โทรศัพท์ของคุณใช้งานได้นานขึ้น</string>
     <string name="menu_summary_power_manager_1">ชาร์จแบตเตอรี่เต็มแล้ว</string>
     <string name="menu_summary_power_manager_2">คงเหลือ %s</string>
     <string name="menu_summary_power_manager_3">เสียบที่ชาร์จ</string>
     <string name="menu_summary_power_manager_4">ชาร์จเต็มในอีก %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">การสแกนครั้งล่าสุดถูกยกเลิก</string>
     <string name="examination_score_100">ไม่พบสิ่งผิดปกติ!</string>
     <string name="examination_score_80_100">ยังปรับแต่งเล็กน้อยให้ดีขึ้นได้อีก</string>
@@ -1748,6 +1761,7 @@
     <string name="card_main_deepclean_wechat_action">ล้าง</string>
     <string name="card_main_sectool_title">เครื่องมือ</string>
     <string name="card_main_monthreport_action">เรียกดู</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ทดสอบเครือข่าย</string>
     <string name="card_main_netcheck_summary">ทดสอบการเชื่อมต่อสำหรับปัญหาเครือข่าย</string>
     <string name="card_main_netcheck_action">ทดสอบ</string>
@@ -2010,6 +2024,7 @@
     <string name="confirmSecondSpacePassword">ยืนยันรหัสผ่านพื้นที่ทับซ้อน</string>
     <string name="sponsored_sec_fb">ให้การสนับสนุน</string>
     <string name="add_game_notification_summary">แตะเปิดใช้&amp; เพิ่มความเร็ว</string>
+    <string name="gb_shortcut_pref_title">ปุ่มลัดหน้าจอหลัก</string>
     <string name="app_manager_title">จัดการแอป</string>
     <string name="app_manager_uninstall">ถอนการติดตั้ง</string>
     <string name="app_manager_bipartition">แอปโคลน</string>
@@ -2125,6 +2140,7 @@
     <string name="manage_hybrid_permissions">จัดการสิทธิ์ของแอป</string>
     <string name="app_manager_full_screen_title">โหมดเต็มจอ</string>
     <string name="app_manager_full_screen_summary">อนุญาตให้แอปที่เลือกทำงานในโหมดเต็มจอ</string>
+    <string name="app_manager_find_apps">หาแอป</string>
     <string name="ad_btn_default_text">เรียนรู้เพิ่มเติม</string>
     <string name="open_activity_err">ไม่พบแอ็พพลิเคชัน</string>
     <string name="low_memory_warning_dialog_title">พื้นที่จัดเก็บไม่เพียงพอ</string>
@@ -2354,6 +2370,7 @@
     <string name="gb_advance_settings_reset_dialog_content">เรียกคืนการตั้งค่าเริ่มต้นตอนนี้?</string>
     <string name="title_reply">ความคิดเห็น</string>
     <string name="title_like">ถูกใจ</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">ข้อมูลมือถือ</string>
     <string name="game_wid_viewpoint_buttom">พักสักนิด</string>
     <string name="video_repeat">เล่นอีกครั้ง</string>
@@ -2369,7 +2386,7 @@
     <string name="audio_optimization_summary">ปรับปรุงเสียงและลดเสียงรบกวนรอบในการสนทนา</string>
     <string name="perfermance_optimization_title">การเพิ่มประสิทธิภาพ</string>
     <string name="perfermance_optimization_summary">ปรับปรุงเสียงและลดเสียงรบกวนรอบข้างในการสนทนา</string>
-    <string name="gamebox_positive_button_text">OK (%1$dวิ)</string>
+    <string name="gamebox_positive_button_text">ตกลง (%1$dวิ)</string>
     <string name="gamebox_hangup_tips_title">ปิดใช้งานหน้าจอ</string>
     <string name="gamebox_hangup_tips_content">คุณลักษณะนี้ช่วยให้คุณปิดหน้าจอได้ แต่เกมยังคงทำงานในพื้นหลัง มันจะปิดโดยอัตโนมัติเมื่อคุณปลดล็อคอุปกรณ์ของคุณ</string>
     <string name="gamebox_immersion_tips_title">โปรดทราบ</string>
@@ -2393,6 +2410,11 @@
     <string name="gamebox_recent_task_expand_fail">แอปที่ทำงานกับปุ่มลัดยังไม่ถูกติดตั้ง</string>
     <string name="gamecenter_install_sucessfull">ติดตั้งเสร็จสิ้น</string>
     <string name="gamecenter_install_fail">ไม่สามารถติดตั้งได้</string>
+    <string name="securityadd_update_tips_title">อัพเดท</string>
+    <string name="securityadd_update_tips_message">อัพเดทปลั๊กอินบริการด้านความปลอดภัยเพื่อรับการเข้าถึงคุณลักษณะล่าสุด %1$dMB จะถูกดาวน์โหลด</string>
+    <string name="securityadd_update_tips_cancle">ในภายหลัง</string>
+    <string name="securityadd_update_tips_now">อัพเดท</string>
+    <string name="securityadd_install_fail">ไม่สามารถอัพเดทปลั๊กอิน กรุณาลองใหม่</string>
     <string name="notify_channel_name_security">ความปลอดภัยของระบบ</string>
     <string name="privacy_apps_category_title">แอปที่ซ่อนอยู่</string>
     <string name="privacy_apps">แอปที่ซ่อนอยู่</string>
@@ -2524,7 +2546,6 @@
     <string name="resource_gamebooster">ตัวเร่งความเร็วในการเล่นเกม</string>
     <string name="keywords_gamebooster">เกมส์;ตัวเร่งความเร็ว;King of Glory;โหมดประสิทธิภาพ;ห้ามรบกวน;เกมส์;เล่นเกม;ความเร็วเล่นเกม;เพิ่ม</string>
     <string name="path_gamebooster">แอประบบ/ความปลอดภัย/ตัวเร่งความเร็วในการเล่นเกม</string>
-    <string name="gb_shortcut_pref_title">ปุ่มลัดหน้าจอหลัก</string>
     <string name="power_center_consume_rank">การใช้งานแบตเตอรี่</string>
     <string name="power_center_custom_title">ใช้โหมดพลังงาน</string>
     <string name="power_center_auto_shutdown_summary_default">ตั้งค่าการเปิดหรือปิดเครื่องตามเวลาที่กำหนดไว้ล่วงหน้า</string>

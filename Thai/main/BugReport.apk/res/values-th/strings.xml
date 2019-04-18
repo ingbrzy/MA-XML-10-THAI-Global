@@ -456,6 +456,7 @@
     <string name="passport_wrong_phone_number_format">รูปแบบของหมายเลขโทรศัพท์ที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_wrong_vcode">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="pic_not_exist">ไม่พบรูปภาพดังกล่าว</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">ข้อเสนอแนะที่คุณระบุไว้พร้อมทั้งบันทึกข้อบกพร่องจะถูกส่งไปยังเซิร์ฟเวอร์ของ Mi</string>
     <string name="plus_one_submit_dialog_not_show_again">จำตัวเลือกนี้</string>
     <string name="post_miui_bbs_failed">โพสต์ไปยังหน้าพูดคุย MIUI ไม่ได้</string>
