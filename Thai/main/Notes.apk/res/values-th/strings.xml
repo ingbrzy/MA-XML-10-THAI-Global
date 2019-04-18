@@ -127,7 +127,6 @@
     <string name="note_sort_way">เลือกเรียงลำดับบันทึกของคุณที่ต้องการ</string>
     <string name="notealert_enter">เปิดบันทึก</string>
     <string name="notealert_ok">เลิกแสดง</string>
-    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">ไม่มีการเตือน</string>
     <string name="permdesc_accessNote">แอปต้องสงสัยอาจใช้วิธีนี้ในการเข้าถึงข้อมูลส่วนบุคคลของคุณ</string>
     <string name="permission_intro_contact">สำหรับการทำเครื่องหมายบันทึกที่ถ่ายในระหว่างการโทร</string>

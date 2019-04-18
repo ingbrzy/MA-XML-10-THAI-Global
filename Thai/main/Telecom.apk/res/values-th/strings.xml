@@ -370,7 +370,6 @@
     <string name="private_dns_mode_provider">ชื่อโฮสต์ของผู้ให้บริการ DNS ส่วนตัว</string>
     <string name="private_dns_mode_provider_failure">เชื่อมต่อไม่ได้</string>
     <string name="private_dns_mode_provider_hostname_hint">ป้อนชื่อโฮสต์ของผู้ให้บริการ DNS</string>
-    <string name="process_kernel_label">ระบบปฏิบัติการของ Android</string>
     <string name="remaining_length_format">เหลือ %1$s</string>
     <string name="respond_via_sms_canned_response_1">กำลังติดธุระอยู่ มีอะไรไหม?</string>
     <string name="respond_via_sms_canned_response_2">เดี๋ยวโทรกลับ</string>
