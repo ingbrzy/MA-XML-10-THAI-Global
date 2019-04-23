@@ -290,7 +290,6 @@
     <string name="month_view">เดือน</string>
     <string name="monthly">รายเดือน</string>
     <string name="monthly_on_day">ทุกเดือน (วันที่เดียวกันของแต่ละเดือน)</string>
-    <string name="monthly_on_day_count">รายเดือน (ทุกวัน%2$sที่%2$sของเดือน)</string>
     <string name="network_not_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="new_event_description">ใหม</string>
     <string name="news">ข่าว</string>
