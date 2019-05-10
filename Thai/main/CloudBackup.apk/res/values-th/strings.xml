@@ -50,6 +50,8 @@
     <string name="self_device_second_space">พื้นที่ทับซ้อนของโทรศัพท์นี้</string>
     <string name="other_device_main_space">พื้นที่ปกติ</string>
     <string name="other_device_second_space">พื้นที่ทับซ้อน</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">กำลังเรียกคืนค่า \"%s\"</string>
     <string name="size_unknown">ขนาดที่ไม่รู้จัก</string>
     <string name="recovering">กำลังเรียกคืนค่า %s</string>
@@ -106,7 +108,7 @@
     <string name="as_new_device">ปรับเป็นหน้าจอหลักและการตั้งค่าก่อนหน้านี้</string>
     <string name="as_new_device_summary">ลบการสำรองข้อมูล Mi คลาวด์ก่อนหน้านี้</string>
     <string name="restore_data_summary">คุณลักษณะนี้จำเป็นต้องเชื่อมต่ออินเทอร์เน็ต</string>
-    <string name="query_restore_summary">พบการสำรองข้อมูล Mi คลาวด์สำหรับอุปกรณ์นี้ คืนค่าแอปบนหน้าจอหลักและการตั้งค่าหรือใช้เป็นอุปกรณ์ใหม่และลบการสำรองข้อมูลก่อน Mi คลาวด์ก่อนหน้านี้?</string>
+    <string name="query_restore_summary">พบการสำรองข้อมูล Mi คลาวด์สำหรับอุปกรณ์เครื่องนี้ คุณต้องการเรียกคืนค่าแอปบนหน้าจอหลักและการตั้งค่าหรือใช้สำหรับเครื่องอื่นและลบข้อมูลสำรองใน Mi คลาวด์ก่อนหน้านี้?</string>
     <string name="restore_home_screen_apps">คืนค่าจากข้อมูลสำรองใน Mi คลาวด์</string>
     <string name="query_restore_description">คืนค่าแอปบนหน้าจอหลักและการตั้งค่าโดยใช้การสำรองข้อมูลนี้ โดยจะแทนที่ข้อมูลแอปสำหรับแอปซ้ำกันที่ติดตั้งอยู่บนอุปกรณ์นี้ แอปที่ไม่รวมอยู่ในข้อมูลสำรองจะถูกย้ายไปไว้หน้าสุดท้ายของหน้าจอหลัก</string>
     <string name="restore_from_this_device">คืนค่าโดยใช้ข้อมูลสำรองนี้</string>
@@ -134,6 +136,7 @@
     <string name="provision_error_connect_msg">ทดสอบเครือข่ายและลองใหม่ การสำรองข้อมูลไม่สามารถใช้ได้เมื่ออุปกรณ์ของคุณออฟไลน์</string>
     <string name="provision_error_connect_title">ไม่สามารถเชื่อมต่อได้</string>
     <string name="loading_user_backup">กำลังโหลดข้อมูลสำรองผู้ใช้…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">กำลังคำนวณขนาด…</string>
     <string name="authentication_failed">ไม่สามารถยืนยันบัญชีได้</string>
@@ -196,6 +199,7 @@
     <string name="backup_stopped_msg">ข้อมูลสำรองปัจจุบันจะแทนที่ของก่อนหน้านี้ แตะเพื่อดู</string>
     <string name="restore_network_unconnect">%s (กำลังรอการเชื่อมต่อ)</string>
     <string name="restore_network_pause">%s (แตะเพื่อทำต่อ)</string>
+    <string name="hint_restore_cross_space">การจัดเรียงหน้าจอหลักอาจไม่แสดงผลอย่างถูกต้องหากคุณถ่ายโอนรายการระหว่างพื้นที่</string>
     <string name="restore_detail_title">เลือกรายการเพื่อเรียกคืนค่า</string>
     <string name="restore_detail_category_settings">การตั้งค่า</string>
     <string name="restore_detail_category_apps">การจัดเรียงหน้าจอหลัก &amp; แอป</string>
@@ -212,4 +216,6 @@
     <string name="restore_app_order_finish">เสร็จสิ้น</string>
     <string name="provision_restore_data">รายการเรียกคืนค่า</string>
     <string name="provision_background_restore_more_data">เรียกคืนค่ารายการเพิ่มเติมในพื้นหลัง</string>
+    <string name="selected">เลือกไว้</string>
+    <string name="unselected">ไม่ได้เลือกไว้</string>
 </resources>

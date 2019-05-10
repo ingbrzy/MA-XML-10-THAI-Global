@@ -218,6 +218,7 @@
     <string name="passport_talkback_switch_image_captcha">สลับเป็นรหัสยืนยันรูปภาพ</string>
     <string name="passport_license_info_open">รายละเอียด</string>
     <string name="passport_license_info_collapse">หุบ</string>
+    <string name="passport_first_login_prompt">บัญชี Mi จะถูกสร้างโดยอัตโนมัติเมื่อคุณลงชื่อเข้าใช้เป็นครั้งแรก</string>
     <string name="search_app_name">บัญชี Mi</string>
     <string name="search_mi_account">บัญชี Mi</string>
     <string name="search_mi_account_key_words">Mi คลาวด์,การตั้งค่าบัญชี,ข้อมูล Mi Pay,ลงชื่อออก</string>
@@ -352,6 +353,8 @@
     <string name="activity_not_found_notice">ไม่พบแอป</string>
     <string name="scan_barcode_title">เข้าสู่ระบบบัญชีของ Mi โดยการสแกนรหัส QR</string>
     <string name="talkback_scan_barcode">สแกนรหัส QR</string>
+    <string name="scan_barcode">สแกนรหัส QR เพื่อลงชื่อเข้าใช้</string>
+    <string name="agreement_and_privacy">นโยบายความเป็นส่วนตัวและข้อตกลงการใช้งาน</string>
     <string name="authorize_title">การอนุมัติ</string>
     <string name="my_device_title">เครื่องของฉัน</string>
     <string name="device_list_title">อุปกรณ์ของฉัน</string>
@@ -418,9 +421,8 @@
     <string name="push_notify_dialog_title">การตรวจสอบเพื่อเปิดใช้บัญชี</string>
     <string name="push_notify_dialog_message">มีอุปกรณ์ที่ไม่รู้จักได้ลงชื่อเข้าใช้บัญชี Mi ของคุณ ป้อนรหัสยืนยันกับอุปกรณ์ หากไม่ใช่คุณ กรุณาแก้ไขรหัสผ่านบัญชี Mi ของคุณ และไม่ควรบอกรหัสยืนยันกับบุคคลอื่นๆ</string>
     <string name="account_secure_info_pref_title">ข้อมูลบัญชี</string>
-    <string name="account_user_email">อีเมล</string>
-    <string name="account_user_phone">โทรศัพท์</string>
-    <string name="account_user_recovery_phone">โทรศัพท์ที่ใช้กู้คืนบัญชี</string>
+    <string name="account_user_email">อีเมลที่ใช้กู้คืนบัญชี</string>
+    <string name="account_user_phone">โทรศัพท์ที่ใช้กู้คืนบัญชี</string>
     <string name="input_new_pwd">ป้อนรหัสผ่านใหม่</string>
     <string name="confirm_new_pwd">ยืนยันรหัสผ่านใหม่</string>
     <string name="inconsistent_pwd">รหัสผ่านไม่ตรงกัน</string>

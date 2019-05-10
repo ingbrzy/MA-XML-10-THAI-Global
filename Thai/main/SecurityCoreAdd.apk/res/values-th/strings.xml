@@ -56,6 +56,7 @@
     <string name="loading_space">รอสักครู่…</string>
     <string name="private_space_setting">จัดการ</string>
     <string name="exit_private_space">สลับ</string>
+    <string name="kid_mode_label">พื้นที่สำหรับเด็ก</string>
     <string name="wating">รอสักครู่…</string>
     <string name="Active">เปิดใช้งาน</string>
     <string name="ok_button">ตกลง</string>
@@ -161,6 +162,7 @@
     <string name="create_space_loading">กำลังกำหนดเขตพื้นที่ทับซ้อนในเครื่อง…</string>
     <string name="close_second_space">ลบพื้นที่ทับซ้อนแล้ว</string>
     <string name="close_second_space_success">ลบพื้นที่ทับซ้อนแล้ว</string>
+    <string name="close_kid_space_success">ลบพื้นที่สำหรับเด็ก</string>
     <string name="enable">เปิดใช้งาน</string>
     <string name="disable">ปิดใช้งาน</string>
     <string name="PrivacyContactDes1">"รายชื่อจะกลายเป็นรายชื่อส่วนตัว
@@ -462,4 +464,6 @@
     <string name="button_touch">วางนิ้วมือของคุณลงบนเซ็นเซอร์</string>
     <string name="button_input_password">ป้อนรหัสผ่าน</string>
     <string name="master_clear_not_available">การรีเซ็ตเป็นค่าเริ่มต้นจากโรงงานถูกจำกัดโดยบริษัทของคุณ</string>
+    <string name="dual_animation">เปิดใช้ภาพเคลื่อนไหว</string>
+    <string name="dual_animation_description">แสดงภาพเคลื่อนไหวเมื่อเปิดใช้แอปโคลน</string>
 </resources>

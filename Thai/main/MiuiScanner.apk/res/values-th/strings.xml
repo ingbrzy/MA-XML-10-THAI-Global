@@ -39,6 +39,7 @@
     <string name="business_card">นามบัตร</string>
     <string name="business_card_result_title">นามบัตร</string>
     <string name="business_card_title">ใส่นามบัตรลงในกรอบ</string>
+    <string name="business_card_with_qr_code">ใส่นามบัตรหรือรหัส QR ลงในกรอบ</string>
     <string name="business_copy">คัดลอก</string>
     <string name="business_new_contacts">สร้างรายชื่อ</string>
     <string name="business_no_result">ไม่สามารถตรวจสอบนามบัตรได้ ลองอีกครั้ง</string>
@@ -52,7 +53,7 @@
     <string name="common_retry">ลองใหม่</string>
     <string name="common_save">บันทึก</string>
     <string name="company">บริษัท:</string>
-    <string name="confirm">ตกลก</string>
+    <string name="confirm">ตกลง</string>
     <string name="connect_wifi">เชื่อมต่อเครือข่ายนี้</string>
     <string name="contact_details">นามบัตรรหัส QR:</string>
     <string name="continue_access_web_url">ไปยังเว็ปไซต์</string>
@@ -155,7 +156,7 @@
     <string name="sdk_not_ready">กำลังเตรียม SDK ลองอีกครั้งในภายหลัง</string>
     <string name="secure_access_web_url">ไปยังเว็ปไซต์</string>
     <string name="see_app_details">ดูรายละเอียดแอป</string>
-    <string name="select_dialog_confirm">ตกลก</string>
+    <string name="select_dialog_confirm">ตกลง</string>
     <string name="send_mail">ส่งอีเมล</string>
     <string name="setting_alipay">Alipay</string>
     <string name="setting_choose_every_time">ถามก่อนเสมอ</string>

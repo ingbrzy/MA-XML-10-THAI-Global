@@ -74,9 +74,9 @@
         <item>ความปลอดภัย;คลาวด์;ซิงค์;บริการคลาวด์;Mi คลาวด์</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>ซิงค์แอป vault ด้วย Mi คลาวด์</item>
+        <item>ซิงค์ App vault ด้วย Mi คลาวด์</item>
         <item>เปิดใช้งานซิงค์</item>
-        <item>แอป vault;บัตร;;ซิงค์;บริการคลาวด์;Mi คลาวด์</item>
+        <item>App vault;บัตร;คลาวด์;ซิงค์;บริการคลาวด์;Mi คลาวด์</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
         <item>Mi คลาวด์ บริการ Mi ทั้งหมดในที่เดียว</item>

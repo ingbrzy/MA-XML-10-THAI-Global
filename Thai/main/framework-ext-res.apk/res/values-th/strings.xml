@@ -73,7 +73,7 @@
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">กดปุ่มเพิ่มเสียงเพื่อปิดคุณลักษณะนี้</string>
     <string name="screen_button_notification_title">ปิดใช้งานปุ่มลัด</string>
     <string name="screen_button_notification_text">หากต้องการเปิดใช้งาน กดปุ่มโฮมและปุ่มเปิด/ปิดเครื่องพร้อมกัน</string>
-    <string name="screen_paper_mode_enter_toast">โหมดการอ่านเปิดใช้อยู่ เพื่อปิดคุณลักษณะนี้ ไปที่ เมนูการตั้งค่า > การแสดงผล > โหมดการอ่าน</string>
+    <string name="screen_paper_mode_enter_toast">โหมดอ่านเปิดใช้อยู่ เพื่อปิดคุณลักษณะนี้ ไปที่ เมนูการตั้งค่า > การแสดงผล > โหมดการอ่าน</string>
     <string name="sim_added_reboot_title">การเปิดใช้งานซิมการ์ดจะเริ่มหลังจากที่คุณรีบูตเครื่อง</string>
     <string name="sim_added_reboot_confirm">รีบูต</string>
     <string name="softap_notifif_title">ฮอตสปอต \"%s\" เปิดใช้งานอยู่</string>
@@ -196,14 +196,12 @@
     <string name="popup_camera_sure">รับทราบ</string>
     <string name="popup_camera_sure_wait">รับทราบ (%dวิ)</string>
     <string name="popup_camera_front_failed">ไม่สามารถเปิดกล้องหน้า กรุณาลองใหม่</string>
-    <string name="popup_camera_front_falied_times">ไม่สามารถเปิดกล้องหน้าหลายครั้ง นำอุปกรณ์ของคุณไปที่ Mi Home เพื่อวินิจฉัยปัญา</string>
     <string name="takeback_camera_front_failed">ไม่สามารถปิดกล้องหน้า กรุณาลองใหม่</string>
-    <string name="stop_operate_camera_frequently">ดูเหมือนว่าคุณสลับระหว่างกล้องบ่อยเกินไป</string>
-    <string name="popup_camera_front_when_use">กล้องหน้าไม่ว่างตอนนี้ เปิดต่อหรือไม่?</string>
+    <string name="stop_operate_camera_frequently">คุณเปิดกล้องหน้าบ่อยเกินไป</string>
     <string name="popup_camera_popup_falied_times_calibrate">ไม่สามารถเปิดกล้องหน้าหลายครั้ง ลองปรับเทียบกล้อง</string>
     <string name="popup_camera_takeback_falied_times_calibrate">ไม่สามารถปิดกล้องหน้าหลายครั้ง ลองปรับเทียบกล้อง</string>
     <string name="popup_camera_calibrate_now">ปรับเทียบ</string>
     <string name="popup_camera_calibrate_success">ปรับเทียบสำเร็จ คุณสามารถเปิดกล้องหน้าได้แล้ว</string>
-    <string name="popup_camera_calibrate_failed">ไม่สามารถปรับเทียบ นำอุปกรณ์ของคุณไปที่ Mi Home เพื่อวินิจฉัยปัญา</string>
+    <string name="popup_camera_calibrate_failed">ปรับเทียบล้มเหลว</string>
     <string name="popup_camera_using_camera_background">%s กำลังใช้กล้องหน้า</string>
 </resources>

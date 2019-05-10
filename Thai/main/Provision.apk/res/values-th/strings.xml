@@ -92,6 +92,8 @@
     <string name="content_description_complete">เสร็จสมบูรณ์</string>
     <string name="language_picker_other_languages_title">ภาษาเพิ่มเติม</string>
     <string name="language_settings">เลือกภาษา</string>
+    <string name="font_hint_normal">เพิ่มขนาดข้อความ</string>
+    <string name="font_hint_large">ค่าเริ่มต้นขนาดข้อความ</string>
     <string name="navigation_picker_radio_text_full_screen">ท่าทางสัมผัสแบบเต็มหน้าจอ</string>
     <string name="navigation_picker_radio_text_virtual_key">ปุ่ม</string>
     <string name="congratulation_swipe">ปัดขึ้นเพื่อเข้าสู่ระบบ</string>
@@ -119,4 +121,8 @@
     <string name="ai_button_double_press_desc">กดปุ่ม AI สองครั้งเพื่อเสร็จสิ้นงานที่กำหนดเอง</string>
     <string name="zone_picker_title">เลือกเขตเวลา</string>
     <string name="locale_picker_other_locale_title">พื้นที่อื่นๆ</string>
+    <string name="skip_gesture_guide_dialog_title">ท่าทางสัมผัสแบบเต็มหน้าจอ</string>
+    <string name="skip_gesture_guide_dialog_message">ตรวจสอบให้แน่ใจว่าคุณทราบวิธีการใช้ท่าทางสัมผัสแบบเต็มหน้าจอก่อนเลือกตัวเลือกนี้</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">ยกเลิก </string>
+    <string name="skip_gesture_guide_dialog_positive_btn">ตกลง</string>
 </resources>

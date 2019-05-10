@@ -173,6 +173,8 @@
     <string name="dialog_message_mx">Mi ข้อความ ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้ MIUI อื่น ๆ โดยไม่มีค่าใช้จ่าย แต่มีความจำเป็นต้องมีข้อความ SMS ขาออกเพื่อเปิดใช้งาน Mi ข้อความ ผู้ให้บริการของคุณจะคิดค่าบริการสำหรับข้อความนี้ คุณต้องยอมรับ \"%1$s\" และ \"%2$s\" ก่อนใช้ Mi ข้อความ</string>
     <string name="dialog_message_networking">การรับ-ส่งข้อความต้องใช้สมุดหน้าเหลือเพื่อสามารถจดจำ ID ผู้ส่ง การรับ-ส่งข้อความและสมุดหน้าเหลืองต้องเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณเพื่อให้ทำงานได้ตามปกติ อนุญาตหรือไม่?</string>
     <string name="dialog_message_rcs">การรับ-ส่งข้อความ China Mobile ช่วยให้คุณสามารถส่งข้อความไปยังผู้ใช้ China Mobile ที่อยู่ในประเทศจีน โดยไม่คิดค่าบริการ คุณต้องยอมรับ \"%1$s\" ก่อนที่จะใช้ การรับ-ส่งข้อความ China Mobile</string>
+    <string name="dialog_sim_locked_confirm">OK</string>
+    <string name="dialog_sim_locked_message">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
     <string name="dialog_title_fake_cell_detect_error">การแก้ไข</string>
     <string name="dialog_title_mx_rcs">Mi ข้อความ</string>
     <string name="dialog_title_networking">ข้อตกลงและเงื่อนไข</string>
@@ -229,6 +231,7 @@
     <string name="file_size">ขนาด:</string>
     <string name="file_title">ชื่อ:</string>
     <string name="file_width_height">ขนาด:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">ข้อความใหม่</string>
     <string name="forward_from">ส่งต่อจาก:</string>
     <string name="forward_message_select_title">ส่งต่อข้อความ</string>
@@ -267,7 +270,7 @@
     <string name="hybrid_pull_to_refresh_release_label">ปล่อยเพื่อรีเฟรช…</string>
     <string name="hybrid_service_unavailiable">บริการไม่พร้อมใช้งาน</string>
     <string name="hybrid_try_again">ลองใหม่</string>
-    <string name="i_know">เข้าใจแล้ว</string>
+    <string name="i_know">รับทราบ</string>
     <string name="imageview_ad">โฆษณา</string>
     <string name="importing_progress_private_message">กำลังนำเข้า…</string>
     <string name="in_sms">ข้อความ</string>
@@ -539,8 +542,8 @@
     <string name="prvate_contact">รายชื่อส่วนบุคคล</string>
     <string name="quick_reply">ตอบกลับ</string>
     <string name="rate_limit_surpassed">ตกลง</string>
-    <string name="rcs_auto_resend_as_sms_remind_change">เปลี่ยน</string>
-    <string name="rcs_auto_resend_as_sms_remind_desp">เมื่อสัญญาณเครือข่ายอ่อน เนื้อหาของข้อความ (มากถึง 900 ไบต์) สามารถแปลงและส่งเป็น SMS ได้ คุณสามารถเปลี่ยนสิ่งนี้ได้ในการตั้งค่า</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">เปลี่ยนการตั้งค่า</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">ข้อความที่สูงถึง 900B สามารถแปลงและส่งเป็น SMS เมื่อสัญญาณเครือข่ายไม่ดี แตะ \"เปลี่ยนการตั้งค่า\" หากคุณไม่ต้องการแปลงข้อความเป็น SMS</string>
     <string name="rcs_auto_resend_as_sms_remind_title">แปลงเป็น SMS</string>
     <string name="rcs_auto_resend_mms">แปลงเป็น MMS</string>
     <string name="rcs_auto_resend_sms">แปลงเป็น SMS</string>
@@ -657,6 +660,7 @@
     <string name="security_alert_dialog_title">รายงาน</string>
     <string name="select_audio">เลือกเสียง</string>
     <string name="select_bottom_text">ข้อความด้านล่าง</string>
+    <string name="select_copy_text">เลือกข้อความเพื่อคัดลอก</string>
     <string name="select_different_attachment">เลือกไฟล์แนบอื่น</string>
     <string name="select_different_audio">เลือกไฟล์เสียงอื่น</string>
     <string name="select_different_picture">เลือกภาพอื่น</string>
@@ -682,6 +686,7 @@
     <string name="send_signature_confirm_dialog_title">ส่งข้อความ</string>
     <string name="send_sms">ส่งข้อความ</string>
     <string name="send_to">ถึง:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">วันที่ส่ง: %1s</string>
     <string name="sent_label">"ส่ง: "</string>
     <string name="service_message_not_found">ข้อความหมดอายุหรือไม่มีข้อความ</string>

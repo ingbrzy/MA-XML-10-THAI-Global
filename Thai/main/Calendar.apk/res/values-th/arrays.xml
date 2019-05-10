@@ -81,6 +81,10 @@
         <item>กิจกรรมนี้และในอนาคต</item>
         <item>กิจกรรมทั้งหมด</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>ราศีเมถุน</item>
@@ -103,13 +107,6 @@
     <string-array name="ligue_1">
         <item>5</item>
         <item>Ligue 1</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>ที่หนึ่ง</item>
-        <item>ที่สอง</item>
-        <item>ที่สาม</item>
-        <item>ที่สี่</item>
-        <item>ที่สุดท้าย</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
@@ -348,5 +345,42 @@
     <string-array name="widget_style_list">
         <item>โปร่งแสง</item>
         <item>พื้นหลังสีขาว</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>วันจันทร์แรก</item>
+        <item>วันอังคารแรก</item>
+        <item>วันพุธแรก</item>
+        <item>วันพฤหัสบดีแรก</item>
+        <item>วันศุกร์แรก</item>
+        <item>วันเสาร์แรก</item>
+        <item>วันอาทิตย์แรก</item>
+        <item>วันจันทร์ที่สอง</item>
+        <item>วันอังคารที่สอง</item>
+        <item>วันพุธที่สอง</item>
+        <item>วันพฤหัสบดีที่สอง</item>
+        <item>วันศุกร์ที่สอง</item>
+        <item>วันเสาร์ที่สอง</item>
+        <item>วันอาทิตย์ที่สอง</item>
+        <item>วันจันทร์ที่สาม</item>
+        <item>วันอังคารที่สาม</item>
+        <item>วันพุธที่สาม</item>
+        <item>วันพฤหัสบดีที่สาม</item>
+        <item>วันศุกร์ที่สาม</item>
+        <item>วันเสาร์ที่สาม</item>
+        <item>วันอาทิตย์ที่สาม</item>
+        <item>วันจันทร์ที่สี่</item>
+        <item>วันอังคารที่สี่</item>
+        <item>วันพุธที่สี่</item>
+        <item>วันพฤหัสบดีที่สี่</item>
+        <item>วันศุกร์ที่สี่</item>
+        <item>วันเสาร์ที่สี่</item>
+        <item>วันอาทิตย์ที่สี่</item>
+        <item>วันจันทร์สุดท้าย</item>
+        <item>วันอังคารสุดท้าย</item>
+        <item>วันพุธสุดท้าย</item>
+        <item>วันพฤหัสบดีสุดท้าย</item>
+        <item>วันศุกร์สุดท้าย</item>
+        <item>วันเสาร์สุดท้าย</item>
+        <item>วันอาทิตย์สุดท้าย</item>
     </string-array>
 </resources>

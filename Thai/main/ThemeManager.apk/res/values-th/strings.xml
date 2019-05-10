@@ -38,7 +38,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -50,6 +52,7 @@
     <string name="exo_track_surround_7_point_1">7.1 เสียงเซอร์ราวด์</string>
     <string name="exo_track_unknown">ไม่ทราบ</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_setting_hint">"แตะปุ่มที่มุมบนขวาเพื่อเปิดบริการนี้ 
  ธีมจะตรวจสอบแอปที่คุณใช้และแสดงภาพพื้นหลังโปร่งใสในแอปที่คุณเลือก"</string>
     <string name="accessibiliy_description_content_account">โปรไฟล์</string>
@@ -89,6 +92,7 @@
     <string name="apply_theme_with_ringtones">เลือกใช้ริงโทนของธีม</string>
     <string name="audio_duration_minutes_format">%1$d นาที</string>
     <string name="audio_duration_seconds_format">%1$d วินาที</string>
+    <string name="audition_ringtone">เล่น</string>
     <string name="automatically_update_using_theme_tips">อัพเดทโดยอัตโนมัติในครั้งถัดไป</string>
     <string name="backup_theme_dialog_message">สำรองข้อมูลธีมปัจจุบันไว้ก่อน?</string>
     <string name="backup_theme_dialog_ok">สำรองข้อมูล</string>
@@ -115,6 +119,7 @@
     <string name="component_title_settings_video_wallpaper">วอลเปเปอร์ด้วยเทคนิคพิเศษ</string>
     <string name="component_title_video_wallpaper">ภาพพื้นหลังวีดีโอ</string>
     <string name="component_title_wallpaper">ภาพพื้นหลัง</string>
+    <string name="count_down_tip">คงเหลือ %dวิ</string>
     <string name="current_using_desktop_wallpaper_text">หน้าจอหลัก</string>
     <string name="current_using_lockscreen_wallpaper_text">หน้าจอล็อก</string>
     <string name="current_version_incompatible">ไม่เข้ากัน</string>
@@ -206,11 +211,13 @@
     <string name="incompatible_dialog_ok">รับทราบ</string>
     <string name="incompatible_dialog_title">ปัญหาความเข้ากันได้</string>
     <string name="is_setting_wallpaper_message">กำลังตั้งค่าภาพพื้นหลัง…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">การปลุก</string>
     <string name="item_resource_audio_optional_color_ring">เสียงเรียกกลับ</string>
     <string name="item_resource_audio_optional_notification_ring">การแจ้งเตือน</string>
     <string name="item_resource_audio_optional_phone_ring">เสียงเรียกเข้า</string>
     <string name="lab">แล็บธีม</string>
+    <string name="like_list">รายการที่ฉันถูกใจ</string>
     <string name="live_wallpaper">ภาพเคลื่อนไหว</string>
     <string name="loading">รอสักครู่…</string>
     <string name="loading_resource_detail_fail">ไม่สามารถโหลดข้อมูล</string>
@@ -277,6 +284,7 @@
     <string name="online_precust_plant">พืช</string>
     <string name="online_precust_scenery">ทัศนียภาพ</string>
     <string name="online_search_hint">ค้นหาจากแหล่งข้อมูลออนไลน์</string>
+    <string name="playing_ringtone">กำลังเล่น</string>
     <string name="pref_privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="present_local_fonts">อักษรของฉัน</string>
     <string name="present_local_themes">ธีมของฉัน</string>
@@ -309,7 +317,6 @@
     <string name="resource_alarm_default">การแจ้งเตือน</string>
     <string name="resource_app_name">ดูแหล่งข้อมูล</string>
     <string name="resource_apply">ใช้งาน</string>
-    <string name="resource_apply_trial">ทดลองใช้ทันที</string>
     <string name="resource_back">ย้อนกลับ</string>
     <string name="resource_buy">ซื้อ</string>
     <string name="resource_can_not_selected">%1$s ไม่สามารถเลือกได้</string>
@@ -380,7 +387,6 @@
     <string name="resource_download">ดาวน์โหลด</string>
     <string name="resource_download_notification_title_many">ดาวน์โหลดธีมจำนวน %1$s ธีมแล้ว</string>
     <string name="resource_download_notification_title_one">ธีมที่ดาวน์โหลดมา</string>
-    <string name="resource_download_trial">ลองใช้ฟรี</string>
     <string name="resource_downloaded_title">แหล่งข้อมูลที่ดาวน์โหลด</string>
     <string name="resource_downloading">กำลังดาวน์โหลด</string>
     <string name="resource_exchange">แลกใช้</string>
@@ -435,6 +441,7 @@
     <string name="resource_pack_price_info">ราคาปกติ: %1$s</string>
     <string name="resource_pack_warning">คุณได้ซื้อส่วนประกอบ %1$d ส่วนในธีมนี้ไปแล้ว แนะนำให้ซื้อแต่ละส่วนที่เหลือแยกกันจะถูกกว่าซื้อทั้งธีม</string>
     <string name="resource_present">ของขวัญ</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">ฟรี</string>
     <string name="resource_price_unit"> Mi เครดิต</string>
     <string name="resource_purchase_common_error">เกิดข้อผิดพลาด ลองอีกครั้งในภายหลัง</string>
@@ -446,6 +453,10 @@
     <string name="resource_ranking">ยอดนิยม</string>
     <string name="resource_ranking_free">ฟรี</string>
     <string name="resource_ranking_purchase">ซื้อไว้</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">เสียงเรียกเข้า</string>
     <string name="resource_ringtone_playing_error">ผิดพลาด</string>
     <string name="resource_ringtone_volume_mute">ปิดเสียงอยู่</string>
@@ -540,8 +551,6 @@
     <string name="theme_changed_failed_message">ไม่สามารถใช้ธีมได้</string>
     <string name="theme_changed_message">ใช้ธีมใหม่แล้ว</string>
     <string name="theme_changing_dialog_title">"นำไปใช้ "</string>
-    <string name="theme_comment_dialog_message">ให้คะแนนแอปนี้และบอกเราว่าคุณคิดอย่างไร</string>
-    <string name="theme_comment_dialog_ok">คะแนน</string>
     <string name="theme_component_title_alarm">การปลุก</string>
     <string name="theme_component_title_alarmstyle">รูปแบบการปลุก</string>
     <string name="theme_component_title_all">ธีม</string>
@@ -585,13 +594,13 @@
     <string name="theme_is_external_priority_storage">บันทึกไปยังSD การ์ด</string>
     <string name="theme_is_external_priority_storage_summary">แอปธีมจะรีสตาร์ทตัวเองใหม่ทันทีเพื่อให้การตั้งค่ามีผลใช้งาน</string>
     <string name="theme_multiple_button_title_customize">ปรับแต่ง</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">ไม่</string>
     <string name="theme_purchased_list_empty">คุณไม่ได้ซื้อธีมใดเลย</string>
     <string name="theme_purchased_non_local">ออนไลน์</string>
     <string name="theme_select_others">เรียกดู</string>
     <string name="theme_setting">การตั้งค่า</string>
     <string name="theme_staggered_item_text">รับ Mi เครดิต</string>
-    <string name="theme_to_comment">ไม่เลว!</string>
     <string name="theme_user_agreement_allow">เห็นด้วย</string>
     <string name="theme_user_agreement_content1">"ในการใช้งานผลิตภัณฑ์นี้ ถือว่าคุณได้ตกลงและยินยอมตาม "</string>
     <string name="theme_user_agreement_content2">ข้อตกลงการใช้งาน</string>
@@ -630,6 +639,17 @@
     <string name="transparent_wallpaper_guide">ไปยังธีม</string>
     <string name="transparent_wallpaper_guide_tip">คุณสามารถเลือกรูปพื้นหลังโปร่งใสในธีมได้ตอนนี้</string>
     <string name="transparent_wallpaper_pref_summary">ภาพพื้นหลังด้วยการลดความทึบของพื้นหลัง</string>
+    <string name="transparent_wallpaper_white_wallpaper">ทำพื้นหลังสีขาว</string>
+    <string name="transparent_wallpaper_white_wallpaper_failed">ไม่สามารถทำพื้นหลังสีขาว</string>
+    <string name="transparent_wallpaper_white_wallpaper_success">ภาพพื้นหลังเป็นสีขาวแล้ว</string>
+    <string name="transparent_wallpaper_white_wallpaper_tip">ภาพพื้นหลังโปร่งใสดูดีที่สุดบนพื้นหลังสีขาว</string>
+    <string name="trial_count_empty">ไม่มีรายการฟรีเหลือในวันนี้ กลับมาใหม่วันพรุ่งนี้!</string>
+    <string name="trial_count_tip">ระยะเวลาทดลองใช้สิ้นสุดใน %1$s:%2$s:%3$s</string>
+    <string name="trial_for_free">ทดลองใช้ฟรี</string>
+    <string name="trial_get_failed_tip">ดูวิดีโอให้จบเพื่อรับธีม</string>
+    <string name="trial_get_success_tip">ยินดีด้วย! คุณได้ทดลองใช้ฟรี 3 วัน</string>
+    <string name="trial_now">ลองใช้เลย</string>
+    <string name="try_5_min">ลองใน 5 นาที</string>
     <string name="uid_change_dialog_message">คุณได้ลบการอัพเดต กรุณารีบูตอุปกรณ์เพื่อสามารถใช้ธีมได้</string>
     <string name="uid_change_dialog_ok">รับทราบ</string>
     <string name="uid_change_dialog_title">รีบูตอุปกรณ์</string>
@@ -647,6 +667,11 @@
     <string name="using_theme_next_automatic_update">อัพเดทอัตโนมัติ</string>
     <string name="using_theme_next_automatic_update_summary">อัปเดตธีมที่ดาวน์โหลดผ่าน Wi-Fi โดยอัตโนมัติเมื่อหน้าจอล็อค</string>
     <string name="using_theme_show_ad">ข้อเสนอแนะ</string>
+    <string name="video_ad_click">ลองใช้เลย</string>
+    <string name="video_ad_try_for_free">ทดลองใช้ฟรี</string>
+    <string name="video_ad_uncomplete_tip">ดูวิดีโอให้จบเพื่อรับธีม</string>
+    <string name="video_ad_uncomplete_tip_cancel">ยกเลิก </string>
+    <string name="video_ad_uncomplete_tip_continue">ดูต่อ</string>
     <string name="video_audio_apply_success">กำหนดค่าวิดีโอโดยใช้เสียงเรียบร้อยแล้ว</string>
     <string name="video_data_tips_message">การใช้ข้อมูลมือถืออาจทำให้เกิดค่าใช้จ่ายเพิ่มเติม ดำเนินการต่อหรือไม่?</string>
     <string name="video_data_tips_title">แจ้งเตือนการใช้ข้อมูล</string>

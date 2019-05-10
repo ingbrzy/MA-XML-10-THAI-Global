@@ -15,7 +15,7 @@
     <string name="add_to_album_success">เพิ่มในอัลบั้มแล้ว</string>
     <string name="add_to_album_tip">รูปภาพคลาวด์</string>
     <string name="add_to_favorites_failed">เพิ่มไปยังรายการโปรดไม่ได้</string>
-    <string name="add_to_secret_exist">มีรูปภาพอยู่แล้วในอัลบั้มซ่อน</string>
+    <string name="add_to_secret_exist">รายการนี้มีอยู่ในอัลบั้มที่ซ่อนอยู่</string>
     <string name="add_to_secret_fail">ไม่สามารถเพิ่มไปยังอัลบั้มซ่อนได้</string>
     <string name="add_to_secret_failed_with_reason">ไม่สามารถเพิ่มไปยังอัลบั้มซ่อนได้ %1$s</string>
     <string name="add_to_secret_successful">เพิ่มไว้ในอัลบั้มซ่อนแล้ว</string>
@@ -35,10 +35,11 @@
     <string name="agreement_agree">ยอมรับ</string>
     <string name="agreement_optional_tip">(ตัวเลือก)</string>
     <string name="agreement_quit">ออก</string>
-    <string name="agreement_required_tip">(บังคับ)</string>
+    <string name="agreement_required_tip">(จำเป็น)</string>
     <string name="agreement_summary">เอกสารทางกฎหมาย</string>
     <string name="ai_album_open_switch_button_title">เริ่มวิเคราะห์รูปภาพ</string>
     <string name="ai_album_requesting_title">อัลกอริทึม AI ยังประมวลผลรูปภาพของคุณ กลับมาอีกครั้ง</string>
+    <string name="ai_album_setting_key_word">ค้นหารูปภาพ</string>
     <string name="ai_album_setting_sub_title">อนุญาตอัลกอริทึม AI เพื่อระบุบุคคล สถานที่ และวัตถุในรูปภาพของคุณเพื่อให้คุณสามารถค้นหาได้เร็วขึ้น</string>
     <string name="ai_album_setting_title">ระบุวัตถุบนรูปถ่าย</string>
     <string name="album_already_exists_check">เรียกดู</string>
@@ -188,6 +189,8 @@
     <string name="backuped_title">การสำรองข้อมูลเสร็จสิ้นแล้ว</string>
     <string name="backuping_title_gprs">กำลังใช้ข้อมูลมือถือในการสำรองข้อมูล…</string>
     <string name="backuping_title_normal">กำลังสำรองข้อมูล…</string>
+    <string name="base_btn_cancel">ยกเลิก </string>
+    <string name="base_btn_download">ดาวน์โหลด</string>
     <string name="begin_share">สร้างอัลบั้มลูก \"%s\" แล้ว คุณสามารถทำการแชร์ได้แล้ว</string>
     <string name="begin_share_toast">สร้างอัลบั้มที่แยกต่างหากสำหรับเด็กคนนี้ก่อนที่จะใช้งานร่วมกัน?</string>
     <string name="blank_app_name" />
@@ -499,6 +502,7 @@
     <string name="face_name_edit">แก้ไข</string>
     <string name="face_name_input">ป้อนชื่อ</string>
     <string name="face_recommend">ข้อเสนอแนะ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">ดำเนินการไม่เสร็จสิ้น</string>
     <string name="fail_to_pick_email">ที่อยู่อีเมลไม่ถูกต้อง</string>
     <string name="fail_to_sync_album">ไม่สามารถซิงค์อัลบั้ม ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองใหม่อีกครั้ง</string>
@@ -509,6 +513,7 @@
     <string name="feature_guidance_photo_effects">"เอฟเฟ็กต์​ภาพถ่ายใหม่
 พร้อมใช้งาน"</string>
     <string name="feature_guidance_video_editor_smart_effects">เอฟเฟ็กต์​ใหม่พร้อมใช้งาน</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">ขาว&amp;ดำ</string>
     <string name="filter_bi_dusk">พลบค่ำ</string>
     <string name="filter_bi_lilt">ลิลท์</string>
@@ -526,6 +531,7 @@
     <string name="filter_category_master">มาสเตอร์</string>
     <string name="filter_category_portrait">บุคคล</string>
     <string name="filter_category_scene">ทิวทัศน์</string>
+    <string name="filter_category_sky">ท้องฟ้า</string>
     <string name="filter_film_blackwhite">ดำ&amp;ขาว</string>
     <string name="filter_film_dew">น้ำค้าง</string>
     <string name="filter_film_fade">เนียนใส</string>
@@ -568,6 +574,17 @@
     <string name="filter_scene_series">สะท้อน</string>
     <string name="filter_scene_vivid">ฉูดฉาด</string>
     <string name="filter_scene_warm">อุ่น</string>
+    <string name="filter_sky_cloudy">มีเมฆมาก</string>
+    <string name="filter_sky_detect_forbidden_tips">ไม่สามารถตรวจสอบท้องฟ้า</string>
+    <string name="filter_sky_download_failed">ไม่สามารถดาวน์โหลดปลั๊กอิน ตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
+    <string name="filter_sky_download_finish">ดาวน์โหลดปลั๊กอินเรียบร้อย</string>
+    <string name="filter_sky_download_sdk_without_wifi_msg">คุณไม่ได้เชื่อมต่อกับ Wi-Fi คุณสามารถใช้ข้อมูลมือถือเพื่อดาวน์โหลดปลั๊กอิน (%1$dMB) ซึ่งทำให้นำท้องฟ้ามาแทนที่รูปถ่ายของคุณ</string>
+    <string name="filter_sky_download_sdk_without_wifi_title">ดาวน์โหลดปลั๊กอิน</string>
+    <string name="filter_sky_dusk">พลบค่ำ</string>
+    <string name="filter_sky_glow">เรืองแสง</string>
+    <string name="filter_sky_rainbow">รุ้ง</string>
+    <string name="filter_sky_sunny">แจ่มใส</string>
+    <string name="filter_sky_sunset">พระอาทิตย์ตก</string>
     <string name="finish_create_baby_album_toast">สร้างอัลบั้มสำหรับ \"%s\" ใน Mi คลาวด์</string>
     <string name="finish_fill_baby">สร้าง</string>
     <string name="flash_off">ปิดแฟลช</string>
@@ -582,6 +599,7 @@
     <string name="gif_tip">ไฟล์ GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">ตั้งค่า</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"คลังภาพต้องการเข้าถึง 
 %s
  เพื่อให้ทำงานได้ตามปกติ แตะ \"ตั้งค่า\" เพื่อไปยังการอนุญาต"</string>
@@ -835,6 +853,7 @@
     <string name="people_mark_mode_title_no_mark_name">เลือกสักคน</string>
     <string name="people_page_label">บุคคล</string>
     <string name="people_page_unname">ไม่มีชื่อ</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">สำหรับการตั้งชื่อคนในรูปถ่าย</string>
     <string name="permission_contract_name">รายชื่อผู้ติดต่อ</string>
     <string name="permission_optional_category">สิทธิ์เพิ่มเติม</string>
@@ -843,7 +862,7 @@
     <string name="permission_require_category">สิทธิ์ที่จำเป็น</string>
     <string name="permission_storage_desc">สำหรับการแสดงการแก้ไขและการบันทึกรูปภาพ</string>
     <string name="permission_storage_name">ที่จัดเก็บข้อมูล</string>
-    <string name="permission_use_desc">สิทธิ์การใช้งาน</string>
+    <string name="permission_use_desc">การอนุญาต</string>
     <string name="pet_album_display_name">รูปภาพสัตว์เลี้ยง</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">รูปภาพ</string>
@@ -956,10 +975,10 @@
     <string name="play_gif_desc">เล่น GIF</string>
     <string name="play_video_desc">เล่นวิดีโอ</string>
     <string name="preparing_data">รอสักครู่…</string>
-    <string name="privacy_permission_request_message">อัลบัมภาพต้องการเข้าถึง %3$s. ข้อมูลจะถูกรวบรวมเพื่อนำไปใช้ตาม %1$s และ %2$s ของเรา อนุญาตหรือไม่?</string>
+    <string name="privacy_permission_request_message">อัลบัมภาพต้องการเข้าถึง %3$s ข้อมูลจะถูกรวบรวมเพื่อนำไปใช้ตาม %1$s และ %2$s ของเรา อนุญาตหรือไม่?</string>
     <string name="privacy_permission_request_negative">จำกัด</string>
     <string name="privacy_permission_request_positive">อนุญาต</string>
-    <string name="privacy_permission_request_title">คำอนุญาตที่จำเป็น</string>
+    <string name="privacy_permission_request_title">สิทธิ์ที่จำเป็น</string>
     <string name="projection_cancel">ยกเลิก</string>
     <string name="projection_checkbox_text">จดจำอุปกรณ์แสดงผลนี้</string>
     <string name="projection_device_connection_failed">ไม่สามารถเชื่อมโปรเจคเตอร์ได้</string>
@@ -1030,7 +1049,12 @@
     <string name="scan_barcode_to_join">สแกนรหัส QR เพื่อเพิ่มอัลบั้ม</string>
     <string name="scan_qr_code_buttom_text">สแกนรหัส QR เพื่อแสดงอัลบั้มนี้</string>
     <string name="screen_doodle_talkback_size">ความกว้างของลายเส้น</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">เสร็จสิ้น</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ยกเลิก </string>
     <string name="screen_save_dialog_btn_delete">ลบภาพหน้าจอ</string>
     <string name="screen_save_dialog_btn_save">บันทึกไปยังคลังภาพ</string>
@@ -1088,6 +1112,9 @@
     <string name="search_title_recommend">แนะนำ</string>
     <string name="search_title_suggestion">ข้อเสนอแนะ</string>
     <string name="search_title_tag">สิ่งของ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">กำลังมองหาโปรเจคเตอร์…</string>
     <string name="secret_album_card_description">ที่ที่ดีที่สุดสำหรับความลับทั้งหมดของคุณ</string>
     <string name="secret_album_card_title">เปิดอัลบั้มที่ซ่อนไว้</string>
@@ -1251,6 +1278,7 @@
     <string name="today">วันนี้</string>
     <string name="too_many_recipients">คุณไม่สามารถเพิ่มผู้รับเกินกว่า %1$s คน (เพิ่มไปแล้ว %2$s คน)</string>
     <string name="trash_bin">ถังขยะ</string>
+    <string name="trash_bin_key_word">รูปภาพที่ลบ</string>
     <string name="trash_bin_summary">เรียกดูภาพถ่ายที่สำรองข้อมูลไว้ซึ่งถูกลบออกไปเมื่อเร็วๆนี้</string>
     <string name="try_again_later">ลองใหม่ในภายหลัง</string>
     <string name="try_to_send">ส่ง</string>
@@ -1263,7 +1291,7 @@
     <string name="unpublish_succeeded">ไม่เผยแพร่อัลบั้มแล้ว</string>
     <string name="unpublishing">กำลังยกเลิก…</string>
     <string name="unsupport_video">%s ไม่ทำงานกับวิดีโอ</string>
-    <string name="user_agree">ยอมรับ</string>
+    <string name="user_agree">เห็นด้วย</string>
     <string name="user_agreement2">เงื่อนไขการให้บริการ</string>
     <string name="user_agreement4">นโยบายความเป็นส่วนตัว</string>
     <string name="user_alias_self">ตัวเอง</string>

@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">วิทยุ</string>
+    <string name="app_name">บริการวิทยุ FM</string>
     <string name="station_freq_format">%sMHz</string>
     <string name="frequency_mhz_fomart">%sMHZ</string>
     <string name="notification_rec_title">แตะเพื่อดูรายชื่อไฟล์เสียง</string>
     <string name="record_completed">บันทึกวิทยุเสร็จสิ้นแล้ว</string>
-    <string name="start">เริ่ม</string>
-    <string name="stop">หยุด</string>
-    <string name="jump">ไปที่</string>
-    <string name="scan">สแกน</string>
 </resources>

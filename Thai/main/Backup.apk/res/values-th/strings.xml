@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"เวอร์ชั่นแนะนำ %1$s
 ขนาด %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">ที่จัดเก็บข้อมูลไม่พร้อมใช้งาน ตรวจสอบ SD การ์ดของคุณ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ไม่สามารถเริ่มการดาวน์โหลดได้ ตรวจสอบให้แน่ใจว่าตัวจัดการการดาวน์โหลดทำงานปกติ</string>
     <string name="app_name">สำรองข้อมูล</string>
     <string name="local_app_name">สำรองข้อมูล</string>
@@ -74,6 +77,7 @@
     <string name="sms_title">การส่งข้อความ</string>
     <string name="mms_title">การส่งข้อความมัลติมีเดีย</string>
     <string name="wifi_title">การตั้งค่า Wi-Fi</string>
+    <string name="phone_title">การตั้งค่าโทรศัพท์</string>
     <string name="note_title">บันทึกย่อ</string>
     <string name="compute_backup_info">กำลังรับรายละเอียดสำรองข้อมูล…</string>
     <string name="compute_delete_contact_info">กำลังรับข้อมูล…</string>
@@ -226,6 +230,7 @@
     <string name="restore_backup">คืนค่า</string>
     <string name="enable_encrypt_description">เข้ารหัส</string>
     <string name="disable_encrypt_description">ไม่ได้เข้ารหัส</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">รอสักครู่…</string>
     <string name="state_mounting">กำลังเข้าถึงพื้นที่จัดเก็บข้อมูลเราเตอร์…</string>
     <string name="abort_backup_confirm">ยังสำรองข้อมูลไม่เสร็จ ยกเลิกหรือไม่?</string>
@@ -255,6 +260,7 @@
     <string name="err_pkg_not_exist">ไม่พบแอป</string>
     <string name="err_user_abort">ถูกยกเลิกโดยผู้ใช้</string>
     <string name="err_binder_died">แอปหยุดกระทันหัน</string>
+    <string name="err_no_gms">เวอร์ชั่นแอปไม่เข้ากัน ติดตั้งแอปแยกต่างหาก</string>
     <string name="backup_is_running">สำรองข้อมูลเครื่อง</string>
     <string name="restore_is_running">เรียกคืนข้อมูลเครื่อง</string>
     <string name="notif_backup_title">สำรองข้อมูล</string>
@@ -308,6 +314,7 @@
     <string name="trans_detail_qq_data">ข้อมูล QQ (รวมไปถึงประวัติการแชท)</string>
     <string name="trans_detail_app_data_useless_tip">คุณสามารถเรียกคืนได้จากแอป โดยไม่ต้องถ่ายโอน</string>
     <string name="trans_detail_item_app_data_too_large_tip">ดูเหมือนว่ารายการมีขนาดใหญ่เกินไปที่จะถ่ายโอน</string>
+    <string name="trans_detail_item_app_data_skip_data">ไม่สามารถถ่ายโอนข้อมูลแอป</string>
     <string name="trans_detail_item_app_data_selected_tip">เลือกแอปพร้อมกัน</string>
     <string name="trans_detail_list_footer">"1. คุณสามารถเลือกแอปต่างๆที่คุณต้องการถ่ายโอน
 2. หากคุณเลือกข้อมูลแอป แอปที่เกี่ยวข้องจะถูกเลือกเช่นกัน
@@ -563,6 +570,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 คุณต้องสำรองข้อมูลก่อน iCloud"</string>
     <string name="list_footer_tip_title">เคล็ดลับ:</string>
     <string name="import_tip_summary">ข้อกำหนดปัญหาความเข้ากันได้ สำหรับอุปกรณ์ iOS คุณสามารถถ่ายโอนได้เฉเพาะข้อมูลบางส่วนเท่านั้น ตรวจสอบให้แน่ใจว่าคุณได้สำรองข้อมูลก่อนการเริ่มการถ่ายโอน</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">นำเข้า</string>
     <string name="select_empty">เลือกรายการที่จะนำเข้า</string>
     <string name="select_item_summary_wait">กำลังรอ…</string>
