@@ -51,7 +51,7 @@
     <string name="terms_of_use_label">"ความเป็นส่วนตัวของคุณเป็นสิ่งสำคัญมากสำหรับเรา โปรดอ่านข้อตกลงการใช้บริการและนโยบายความเป็นส่วนตัวของเราที่จะเข้าใจข้อมูลที่เรารวบรวมวิธีการที่เราใช้มันและตัวเลือกที่มีให้คุณ. 
 
 คุณจะต้องยอมรับข้อกำหนดในการให้บริการและนโยบายส่วนบุคคลก่อนจึงจะสามารถ ใช้ MIUI %s และบัญชี Mi​ ส่วนประกอบสถิติจะเชื่อมต่อกับอินเทอร์เน็ตและตรวจสอบตำแหน่งของคุณ"</string>
-    <string name="terms_of_use_lable_apps">บริการ Mi, การเปิดใช้งานบริการ Mi SIM, Mi Cloud, ค้นหาอุปกรณ์, หน้าจอหลัก, ศูนย์เกมส์, MAB, MIUI Daemon และ ระบบส่วนประกอบ MSA, บริการการแปล, แอปด่วน, App vault, สถิติ, Mi Link</string>
+    <string name="terms_of_use_lable_apps">บริการ Mi, การเปิดใช้งานบริการ Mi SIM, Mi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, ศูนย์เกมส์, MAB, MIUI Daemon และ ระบบส่วนประกอบ MSA, บริการการแปล, แอปด่วน, App vault, สถิติ, Mi Link</string>
     <string name="terms_of_use_lable_gms">, Google Play services</string>
     <string name="terms_of_use_label_systemhelper">, บริการลงทะเบียนด้วยตนเอง</string>
     <string name="terms_of_use_lable_smart_cards">, Smart cards</string>

@@ -204,4 +204,11 @@
     <string name="popup_camera_calibrate_success">ปรับเทียบสำเร็จ คุณสามารถเปิดกล้องหน้าได้แล้ว</string>
     <string name="popup_camera_calibrate_failed">ปรับเทียบล้มเหลว</string>
     <string name="popup_camera_using_camera_background">%s กำลังใช้กล้องหน้า</string>
+    <string name="sim_lock_non_ais_msg">"ซิมการ์ดไม่รองรับการทำงานในทุกฟังก์ชั่น
+ร่วมกับโทรศัพท์เครื่องนี้เนื่องจากมิได้เป็น
+ไปตามเงื่อนไขและข้อตกลง หากมีข้อสงสัย
+หรือต้องการสอบถามข้อมูลเพิ่มเติม กรุณา
+ติดต่อศูนย์บริการของ Xiaomi หรือร้านค้าที่
+จำหน่ายสินค้าให้กับท่าน"</string>
+    <string name="sim_lock_now_ais_title">ซิม%1$d</string>
 </resources>

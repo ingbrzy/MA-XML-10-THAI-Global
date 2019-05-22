@@ -60,6 +60,9 @@
     <plurals name="cloud_storage_video_num">
         <item quantity="other">%d วิดีโอ</item>
     </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">ภาพปะติดสามารถรวมได้ 1-%d รูป</item>
+    </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">เลือกได้สูงสุด %d รูป</item>
     </plurals>

@@ -6,9 +6,6 @@
     <plurals name="accessibility_recent_task_first_enter_tips">
         <item quantity="other">เปิดล่าสุด, แอปพร้อมใช้งาน: %d ปัดขึ่นเพื่อลบ, ปัดลงเพื่อล็อก</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$sชั่วโมง %2$s"</item>
-    </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">ซ่อนการแจ้งเตือนจาก %1$s&amp;%2$d แล้ว</item>
     </plurals>

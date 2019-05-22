@@ -135,6 +135,7 @@
     <string name="date_interval_text_to">ถึง %1$s</string>
     <string name="date_jump_hint">ข้ามไปที่วันใดวันหนึ่ง</string>
     <string name="date_jump_title">ระบุวัน</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (วันนี้)"</string>
     <string name="day_view_new_event_hint">กำหนดการใหม่</string>
     <string name="default_reminder_mode">การเตือนกำหนดการ</string>

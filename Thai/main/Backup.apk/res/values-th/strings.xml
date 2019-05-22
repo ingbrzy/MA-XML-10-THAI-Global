@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"เวอร์ชั่นแนะนำ %1$s
 ขนาด %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">ที่จัดเก็บข้อมูลไม่พร้อมใช้งาน ตรวจสอบ SD การ์ดของคุณ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ไม่สามารถเริ่มการดาวน์โหลดได้ ตรวจสอบให้แน่ใจว่าตัวจัดการการดาวน์โหลดทำงานปกติ</string>
     <string name="app_name">สำรองข้อมูล</string>
     <string name="local_app_name">สำรองข้อมูล</string>
@@ -46,7 +49,7 @@
     <string name="restore_launcher_layout_hit">คืนค่าการตั้งค่าชุดเรียกใช้ระบบ</string>
     <string name="settings_summary">การตั้งค่าโทรศัพท์และข้อความ</string>
     <string name="camera_summary">การตั้งค่ากล้อง (ไม่เกี่ยวกับรูปถ่าย)</string>
-    <string name="account_summary">สำรองข้อมูลบัญชี Google, บัญชี Xiaomi และข้อมูลผู้ใช้อื่นๆ</string>
+    <string name="account_summary">สำรองข้อมูลบัญชี Google บัญชี Mi และข้อมูลผู้ใช้อื่นๆ</string>
     <string name="cloud_app_name">สำรองข้อมูล Mi คลาวด์</string>
     <string name="cloud_home_title">Mi คลาวด์</string>
     <string name="prompt_reading">กำลังอ่าน…</string>
@@ -206,7 +209,7 @@
     <string name="backup_empty_info_onpad">" สำรองข้อมูล, การตั้งค่าและแอป"</string>
     <string name="system_backup_info">การตั้งค่าระบบและรูปแบบหน้าจอหลัก</string>
     <string name="software_backup_info">ข้อมูลแอป</string>
-    <string name="account_contact_backup_info">บัญชี Google บัญชี Xiaomi และข้อมูลรายชื่อ</string>
+    <string name="account_contact_backup_info">บัญชี Google บัญชี Mi และข้อมูลรายชื่อ</string>
     <string name="files_backup_info">ไฟล์ทั้งหมดใน SD การ์ด(อาทิ รูปภาพ เพลง วิดีโอ ข้อมูลแอป ฯลฯ)</string>
     <string name="select_backup_item">เลือกรายการ</string>
     <string name="restore_data">เลือกข้อมูลที่ต้องการใช้ในการคืนค่า</string>
@@ -227,6 +230,7 @@
     <string name="restore_backup">คืนค่า</string>
     <string name="enable_encrypt_description">เข้ารหัส</string>
     <string name="disable_encrypt_description">ไม่ได้เข้ารหัส</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">รอสักครู่…</string>
     <string name="state_mounting">กำลังเข้าถึงพื้นที่จัดเก็บข้อมูลเราเตอร์…</string>
     <string name="abort_backup_confirm">ยังสำรองข้อมูลไม่เสร็จ ยกเลิกหรือไม่?</string>
@@ -256,7 +260,7 @@
     <string name="err_pkg_not_exist">ไม่พบแอป</string>
     <string name="err_user_abort">ถูกยกเลิกโดยผู้ใช้</string>
     <string name="err_binder_died">แอปหยุดกระทันหัน</string>
-    <string name="err_no_gms">เวอร์ชั่นแอปไม่เข้ากัน ติดตั้งแอปแยกต่างหาก</string>
+    <string name="err_no_gms">เวอร์ชั่นแอปไม่เข้ากัน กรุณาติดตั้งแอปแยกต่างหาก</string>
     <string name="backup_is_running">สำรองข้อมูลเครื่อง</string>
     <string name="restore_is_running">เรียกคืนข้อมูลเครื่อง</string>
     <string name="notif_backup_title">สำรองข้อมูล</string>
@@ -457,9 +461,9 @@
     <string name="trans_intro_desc_8">ข้อมูลแอป WeChat และประวัติการแชทอาจไม่ได้รับการถ่ายโอนอย่างเต็มที่โดยใช้ Mi Mover ไปที่การตั้งค่าของ WeChat และออกจากระบบบัญชีของคุณเพื่อให้มีโอกาสมากขึ้นสำหรับการโอนเงินที่สำเร็จ</string>
     <string name="trans_intro_question_9">%d. รายการใดที่ไม่สามารถถ่ายโอนได้?</string>
     <string name="trans_intro_title_account">บัญชีและรหัสผ่าน:</string>
-    <string name="trans_intro_desc_account">คุณต้องลงชื่อเข้าใช้บัญชีของคุณอีกครั้ง (เช่น Mi Account, Exchange, Google ฯลฯ) บนอุปกรณ์ใหม่เนื่องจากเหตุผลด้านความปลอดภัย</string>
+    <string name="trans_intro_desc_account">คุณต้องลงชื่อเข้าใช้บัญชีของคุณอีกครั้ง (เช่น บัญชี Mi, Exchange, Google ฯลฯ) บนอุปกรณ์ใหม่เนื่องจากเหตุผลด้านความปลอดภัย</string>
     <string name="trans_intro_title_private">อัลบั้มซ่อน:</string>
-    <string name="trans_intro_desc_private">Mi Mover ไม่สามารถเข้าถึงรูปภาพในอัลบั้มที่ซ่อนได้เนื่องจากมีการเข้ารหัส คุณสามารถเรียกคืนภาพถ่ายเหล่านี้จาก Mi Cloud บนอุปกรณ์ใหม่ได้</string>
+    <string name="trans_intro_desc_private">Mi Mover ไม่สามารถเข้าถึงรูปภาพในอัลบั้มที่ซ่อนได้เนื่องจากมีการเข้ารหัส คุณสามารถเรียกคืนภาพถ่ายเหล่านี้จาก Mi คลาวด์บนอุปกรณ์ใหม่ได้</string>
     <string name="trans_intro_title_multiuser">ข้อมูลพื้นที่ทับซ้อน:</string>
     <string name="trans_intro_desc_multiuser">Mi Mover ไม่สามารถเข้าถึงรายการในพื้นที่ทับซ้อนได้ ย้ายรายการไปยังพื้นที่ปกติและเปิดใช้ Mi Mover ที่นั่น</string>
     <string name="trans_intro_title_multiapp">ข้อมูลแอปโคลน:</string>
@@ -566,6 +570,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 คุณต้องสำรองข้อมูลก่อน iCloud"</string>
     <string name="list_footer_tip_title">เคล็ดลับ:</string>
     <string name="import_tip_summary">ข้อกำหนดปัญหาความเข้ากันได้ สำหรับอุปกรณ์ iOS คุณสามารถถ่ายโอนได้เฉเพาะข้อมูลบางส่วนเท่านั้น ตรวจสอบให้แน่ใจว่าคุณได้สำรองข้อมูลก่อนการเริ่มการถ่ายโอน</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">นำเข้า</string>
     <string name="select_empty">เลือกรายการที่จะนำเข้า</string>
     <string name="select_item_summary_wait">กำลังรอ…</string>
@@ -638,4 +643,11 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 เพิ่มพื้นที่หรือแบ่งการโอนเป็นหลายครั้ง"</string>
     <string name="usb_trans_old_phone_low_space_title">พื้นที่จัดเก็บไม่เพียงพอ</string>
     <string name="usb_trans_old_phone_low_space_msg">ที่จัดเก็บข้อมูลเพิ่มเติมต้องการจัดเตรียมข้อมูลสำรองของคุณ พื้นที่จัดเก็บข้อมูลไม่เพียงพอต่อการโอน คุณสามารถเพิ่มพื้นที่ว่างและลบไฟล์ที่ไม่จำเป็นใน ความปลอดภัย หรือทำการโอนเฉพาะรายการที่สำคัญเท่านั้น</string>
+    <string name="dialog_app_upgrade_message">มีเวอร์ชั่นใหม่ของ Mi Mover อัพเดต Mi Mover ตอนนี้?</string>
+    <string name="dialog_app_upgrade_exit">ออก</string>
+    <string name="dialog_app_upgrade_download">อัพเดต</string>
+    <string name="dialog_backup_password_change_machine_tips">"You won't be able to transfer password-protected backups. Turn off backup password before using Mi Mover."</string>
+    <string name="dialog_backup_password_backup_tips">"Can't back up items when backup password is on. Turn off backup password."</string>
+    <string name="dialog_backup_password_cancel">Cancel</string>
+    <string name="dialog_backup_password_to_settings">Settings</string>
 </resources>
