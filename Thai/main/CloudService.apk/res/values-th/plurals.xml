@@ -39,6 +39,9 @@
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d ทางเข้า App vault</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d คำที่ถูกใช้บ่อย</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">%d รูปภาพที่ซ่อนยังไม่ได้ซิงค์ หลังจากที่รายการทั้งหมดซิงค์แล้วให้ตรวจสอบและลงชื่ออก; มิฉะนั้นรายการทั้งหมดจะถูกลบ</item>
     </plurals>

@@ -72,11 +72,11 @@
     <string name="button_settings_confirm_to_revoke_title">เพิกถอนการให้สิทธิ์แล้ว?</string>
     <string name="button_sure_abandon">ละทิ้งการแก้ไข?</string>
     <string name="card_vote_item_vs">VS</string>
-    <string name="change_alert">กรุณาตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองใหม่</string>
+    <string name="change_alert">กรุณาตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</string>
     <string name="china_version_first_start_network_msg">คุณต้องเห็นด้วยกับ Xiaomi %1$s และ %2$s เพื่อเปิดใช้งานสภาพอากาศ สภาพอากาศต้องการที่จะเข้าถึงตำแหน่งของคุณและเชื่อมต่อกับอินเตอร์เน็ตเพื่อทำงานตามปกติ ยอมรับหรือไม่?</string>
     <string name="city_exceeded_warning">คุณสามารถเพิ่มได้มากสุด 10 เมือง</string>
     <string name="common_loading_text">รอสักครู่…</string>
-    <string name="connect_fail">เชื่อมต่อเครือข่ายไม่ได้ กรุณาลองอีกครั้ง</string>
+    <string name="connect_fail">เชื่อมต่อเครือข่ายไม่ได้ ลองอีกครั้ง</string>
     <string name="content_desc_activity_main_add_city">เพิ่มเมือง</string>
     <string name="content_desc_activity_main_add_city_manage">จัดการเมือง</string>
     <string name="content_desc_activity_main_more_settings">การตั้งค่าเพิ่มเติม</string>
@@ -96,10 +96,12 @@
     <string name="daily_forecast_add_city_message">ติดตามสภาพอากาศใน %1$s สำหรับการคาดการณ์รายละเอียดเพิ่มเติม</string>
     <string name="daily_forecast_add_city_title">ติดตามสภาพอากาศใน %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"รับข้อมูลสภาพอากาศไม่ได้
 ลากลงเพื่อรีเฟรชหรือตรวจสอบการตั้งค่าเครือข่าย"</string>
     <string name="data_provided_by">ข้อมูลบางส่วนจาก</string>
     <string name="edit_city">จัดการเมือง</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">กำลังอัปเดต…</string>
     <string name="empty_view_net_unavailable">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="empty_view_refresh">ลองอีกครั้ง</string>
@@ -118,6 +120,8 @@
     <string name="first_start_network_title">การเชื่อมกับต่ออินเตอร์เน็ตและการเข้าถึงตำแหน่ง</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">ขณะนี้</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">พยากรณ์อากาศ 24 ชั่วโมง</string>
     <string name="hourly_forecast_title_hourly_desc">พยากรณ์รายชั่วโมง</string>
@@ -133,9 +137,11 @@
     <string name="indices_title_feel">รู้สึกจริง</string>
     <string name="indices_title_pressure">ความกดอากาศ</string>
     <string name="install">ติดตั้ง</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ความกดอากาศ</string>
     <string name="international_details_title">รายละเอียด</string>
     <string name="international_details_uv_index_title">รังสียูวี</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ลม</string>
     <string name="it_is_going_to_rain">ฝนกำลังจะตก</string>
     <string name="locate_fail_detail_err">"ไม่สามารถระบุตำแหน่งอุปกรณ์ได้
@@ -219,8 +225,11 @@
     <string name="share_menu_title">แชร์</string>
     <string name="share_subject">แชร์</string>
     <string name="share_weather_desc">\#MIUI สภาพอากาศ#วันนี้ %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ไม่สามารถจัดเก็บภาพหน้าจอได้</string>
+    <string name="shortcut_short_label_24_hour_forecast">พยากรณ์อากาศ 24 ชั่วโมง</string>
+    <string name="shortcut_short_label_recent_forecast">ตรวจสอบสภาพอากาศ</string>
     <string name="some_where_on_earth">ที่ไหนสักแห่งบนโลก</string>
     <string name="sunrise">พระอาทิตย์ขึ้น</string>
     <string name="sunset">พระอาทิตย์ตก</string>
@@ -238,6 +247,9 @@
     <string name="traffic_control_tomorrow_numbers">วันพรุ่งนี้: %1$s</string>
     <string name="traffic_controls">จำกัดเลขทะเบียน</string>
     <string name="translate_notification_info">กำลังแปลในพื้นหลัง…</string>
+    <string name="tts_best_aqi">คุณภาพอากาศดีที่สุด</string>
+    <string name="tts_hour_weather_date_time">จากเวลา %2$s วันที่ %1$s ถึง %4$s วันที่ %3$s</string>
+    <string name="tts_max_wind_power">ความเร็วลมสูงสุด</string>
     <string name="tts_report_aqi" />
     <string name="tts_report_defautl_head" />
     <string name="tts_report_split" />
@@ -271,8 +283,4 @@
     <string name="xiaomi_weather_description_title">เกี่ยวกับสภาพอากาศ</string>
     <string name="yes_vote_ratio">สำหรับ %1$s%%</string>
     <string name="your_location">ตำแหน่งพิกัดของคุณ</string>
-    <string name="tts_report_temperature_high_centigrade" />
-    <string name="tts_report_temperature_high_fahrenheit" />
-    <string name="tts_report_temperature_low_centigrade" />
-    <string name="tts_report_temperature_low_fahrenheit" />
 </resources>

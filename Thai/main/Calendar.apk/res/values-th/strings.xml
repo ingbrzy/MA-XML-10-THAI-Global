@@ -64,6 +64,7 @@
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">หมดอายุแล้ว</string>
     <string name="alert_title">การแจ้งเตือนปฏิทิน</string>
+    <string name="all_events">กิจกรรมทั้งหมด</string>
     <string name="anniversary_event_title">ครบรอบปี: %1$s</string>
     <string name="anniversary_secondary_tag">ครบรอบปี</string>
     <string name="app_label">ปฏิทิน</string>
@@ -135,6 +136,7 @@
     <string name="date_interval_text_to">ถึง %1$s</string>
     <string name="date_jump_hint">ข้ามไปที่วันใดวันหนึ่ง</string>
     <string name="date_jump_title">ระบุวัน</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (วันนี้)"</string>
     <string name="day_view_new_event_hint">กำหนดการใหม่</string>
     <string name="default_reminder_mode">การเตือนกำหนดการ</string>
@@ -300,7 +302,7 @@
     <string name="no_events_hint">ไม่มีกิจกรรม</string>
     <string name="no_internet">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="no_network">"ไม่สามารถเชื่อมต่อเครือข่ายได้ 
-กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองใหม่"</string>
+กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง"</string>
     <string name="no_network_btn">ลองอีกครั้ง</string>
     <string name="no_storage">พื้นที่จัดเก็บไม่เพียงพอ</string>
     <string name="no_title_label">(ไม่มีชื่อ)</string>
@@ -344,6 +346,7 @@
     <string name="preferences_default_reminder_title">ค่าเริ่มต้นเวลาแจ้งเตือน</string>
     <string name="preferences_home_tz_title">โซนเวลาบ้าน</string>
     <string name="preferences_notification_ringtone_title">เสียง</string>
+    <string name="preferences_show_indic_date_title">แสดงปฏิทินอินเดีย</string>
     <string name="preferences_title">ปฏิทิน</string>
     <string name="preferences_use_home_tz_descrip">แสดงปฏิทินและเวลากิจกรรมในเขตเวลาบ้านของคุณเมื่อเดินทาง</string>
     <string name="preferences_use_home_tz_title">ใช้โซนเวลาบ้าน</string>
@@ -403,10 +406,12 @@
     <string name="setting_others">เพิ่มเติม</string>
     <string name="setting_title_about">เกี่ยวกับ</string>
     <string name="setting_title_holiday_display">แสดงวันหยุด</string>
+    <string name="setting_title_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="share_image">แชร์</string>
     <string name="share_image_label">แชร์ผ่าน</string>
     <string name="share_title">แชร์</string>
     <string name="show_day_view">แสดงวัน</string>
+    <string name="show_indic_date_summary">ปฏิทินอินเดียจะใช้ได้เมื่อใดภาษาหนึ่งของอินเดียถูกกำหนดให้เป็นภาษาของระบบของคุณ</string>
     <string name="start_date_calculate">คำนวณ</string>
     <string name="storage_permission_denied">อนุญาตการเข้าถึงที่เก็บข้อมูลก่อน</string>
     <string name="subscribe_card">สมัครทันที</string>

@@ -98,11 +98,47 @@
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">เพิ่ม %d นาที</item>
     </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s วัน</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s ชั่วโมง</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s นาที</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">ใช้ได้อีก %s วัน</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">ใช้ได้อีก %s ชั่วโมง</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">ใช้ได้อีก %s นาที</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">ใช้ได้อีก %s วัน</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">ใช้ได้อีก %s ชั่วโมง</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">ใช้ได้อีก %s นาที</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s วัน จะชาร์จเต็ม</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s ชั่วโมง จะชาร์จเต็ม</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s นาที จะชาร์จเต็ม</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="other">%2$d แอป รวมถึง %1$s กำลังกินแบต</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d apps are draining battery</item>
+        <item quantity="other">%d แอปกำลังกินแบต</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">ดาวน์โหลดไปแล้ว %1$d คน</item>
@@ -204,7 +240,7 @@
         <item quantity="other">ไวรัส Trojans: %d</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">"กรุณารออีก %d วินาทีและลองใหม่อีกครั้ง "</item>
+        <item quantity="other">"กรุณารออีก %d วินาทีและลองอีกครั้ง "</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">เชื่อมต่ออย่างน้อย %d จุด</item>

@@ -170,13 +170,13 @@
         <item quantity="other">ป้อนอย่างน้อย %d ตัว</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">ลากผ่านอย่างน้อย %d จุด ลองใหม่อีกครั้ง</item>
+        <item quantity="other">ลากผ่านอย่างน้อย %d จุด ลองอีกครั้ง</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
-        <item quantity="other">ปลดล็อกผิดพลาดเกินจำนวนครั้งที่กำหนด ลองใหม่อีกครั้งใน %d วินาที</item>
+        <item quantity="other">ปลดล็อกผิดพลาดเกินจำนวนครั้งที่กำหนด ลองอีกครั้งใน %d วินาที</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">กรุณารอเป็นอีก %d วินาทีและลองใหม่อีกครั้ง</item>
+        <item quantity="other">กรุณารอเป็นอีก %d วินาทีและลองอีกครั้ง</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d แอปสามารถอ่านการแจ้งเตือนได้</item>

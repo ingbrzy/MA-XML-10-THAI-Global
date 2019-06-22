@@ -35,6 +35,9 @@
     <plurals name="comment_count">
         <item quantity="other">%d ความคิดเห็น</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d วันที่แล้ว</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">ลบ %d รายการ?</item>
     </plurals>

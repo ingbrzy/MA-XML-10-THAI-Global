@@ -9,7 +9,8 @@
     <string name="app_search">ค้นหาแอป</string>
     <string name="btn_send">ส่ง</string>
     <string name="bugreport_dialog_not_show_again">ไม่ต้องแสดงอีก</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data>คุณกำลังบันทึกข้อมูลบันทึกของซอฟต์แวร์บนอุปกรณ์นี้ในตอนนี้ บันทึกเหล่านี้อาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ โปรดอย่าแบ่งปันบันทึกนี้กับคนอื่นหากคุณไม่ต้องการเปิดเผยข้อมูลนี้ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว&lt;/Data></string>
+    <string name="bugreport_dialog_submit_content">"&lt;Data>คุณกำลังบันทึกข้อมูลบันทึกของซอฟต์แวร์บนอุปกรณ์นี้ในตอนนี้ บันทึกเหล่านี้อาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ โปรดอย่าแบ่งปันบันทึกนี้กับคนอื่นหากคุณไม่ต้องการเปิดเผยข้อมูลนี้ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ
+         &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว&lt;/Data>"</string>
     <string name="bugreport_dump_complete_notification_summary">แตะเพื่อดู</string>
     <string name="bugreport_dump_complete_notification_title">สร้างรายงานปัญหาแล้ว</string>
     <string name="bugreport_dump_start_notification_summary">ใช้เวลาประมาณสองสามนาที</string>
@@ -493,8 +494,10 @@
     <string name="select_system_app_tag">เลือกปัญหา</string>
     <string name="submit_dialog_cancel">ไม่เห็นด้วย</string>
     <string name="submit_dialog_confirm">เห็นด้วย</string>
-    <string name="submit_dialog_content">&lt;Data>คุณต้องยอมรับใน &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a> ของเราเพื่อใช้งานข้อเสนอแนะ ปัญหาที่คุณรายงานพร้อมกับรายการที่คุณแนบ (อาจประกอบด้วยข้อมูลส่วนบุคคลตลอดจนข้อมูลเกี่ยวกับอุปกรณ์และเครือข่ายของคุณ) จะถูกอัปโหลดไปยังเซิร์ฟเวอร์ของ MIUI วิธีนี้จะช่วยให้เราสามารถค้นหาและแก้ไขปัญหาที่คุณรายงานได้&lt;/Data></string>
-    <string name="submit_dialog_content_global">&lt;Data>ความคิดเห็นของคุณ พร้อมกับสิ่งที่แนบ (หากมี) และบันทึก (คุณสามารถยกเลิกการเลือกกล่องตัวเลือกสำหรับรายการที่คุณไม่ต้องการอัพโหลดได้) จะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI และไปยังส่วนที่จำกัดใน MIUI Forum สำหรับนักพัฒนา ข้อมูลเกี่ยวกับหัวเรื่องและกิจกรรมในฟอรัมของคุณจะได้รับการรวบรวมเพื่อการวิเคราะห์และการสื่อสารต่อไป บันทึกเหล่านี้อาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว&lt;/Data></string>
+    <string name="submit_dialog_content">"&lt;Data>คุณต้องยอมรับใน
+         &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a> ของเราเพื่อใช้งานข้อเสนอแนะ ปัญหาที่คุณรายงานพร้อมกับรายการที่คุณแนบ (อาจประกอบด้วยข้อมูลส่วนบุคคลตลอดจนข้อมูลเกี่ยวกับอุปกรณ์และเครือข่ายของคุณ) จะถูกอัปโหลดไปยังเซิร์ฟเวอร์ของ MIUI วิธีนี้จะช่วยให้เราสามารถค้นหาและแก้ไขปัญหาที่คุณรายงานได้&lt;/Data>"</string>
+    <string name="submit_dialog_content_global">"&lt;Data>ความคิดเห็นของคุณ พร้อมกับสิ่งที่แนบ (หากมี) และบันทึก (คุณสามารถยกเลิกการเลือกกล่องตัวเลือกสำหรับรายการที่คุณไม่ต้องการอัพโหลดได้) จะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI และไปยังส่วนที่จำกัดใน MIUI Forum สำหรับนักพัฒนา ข้อมูลเกี่ยวกับหัวเรื่องและกิจกรรมในฟอรัมของคุณจะได้รับการรวบรวมเพื่อการวิเคราะห์และการสื่อสารต่อไป บันทึกเหล่านี้อาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ
+         &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว&lt;/Data>"</string>
     <string name="submit_dialog_title">ส่งรายงาน</string>
     <string name="submit_feedback_info_failed">ไม่สามารถส่งรายงานได้</string>
     <string name="suggestion_description">ใส่รายละเอียดเพิ่มเติมได้ที่นี่</string>

@@ -68,7 +68,7 @@
     <string name="album_page_empty">ว่างเปล่า</string>
     <string name="album_page_label">อัลบั้ม</string>
     <string name="album_pano_name">พาโนรามา</string>
-    <string name="album_quota_fulfiled">จำนวนอัลบั้มเกินที่กำหนด ลบแล้วลองใหม่อีกครั้ง</string>
+    <string name="album_quota_fulfiled">จำนวนอัลบั้มเกินที่กำหนด ลบแล้วลองอีกครั้ง</string>
     <string name="album_scanner">ตัวสแกน</string>
     <string name="album_screen_recorder">ตัวบันทึกหน้าจอ</string>
     <string name="album_screenshot_name">จับภาพหน้าจอ</string>
@@ -195,6 +195,13 @@
     <string name="begin_share_toast">สร้างอัลบั้มที่แยกต่างหากสำหรับเด็กคนนี้ก่อนที่จะใช้งานร่วมกัน?</string>
     <string name="blank_app_name" />
     <string name="browse_category_title">เรียกดู</string>
+    <string name="burst_image_download_item_title" formatted="false">ดาวน์โหลดต้นฉบับ (%s|%s)</string>
+    <string name="burst_preview_title">ถ่ายต่อเนื่อง</string>
+    <string name="burst_save_all">บันทึกทั้งหมด</string>
+    <string name="burst_save_choice_title" formatted="false">เลือกไว้ %d รายการ จาก %d รายการ</string>
+    <string name="burst_save_confirm_dialog_title">กำลังบันทึกรูปภาพ</string>
+    <string name="burst_save_error_msg">บันทึกไม่ได้</string>
+    <string name="burst_save_processing">กำลังดำเนินการ…</string>
     <string name="buy_member_tip">สมัครสมาชิก</string>
     <string name="by_email">อีเมล</string>
     <string name="by_others">อื่นๆ</string>
@@ -337,6 +344,8 @@
     <string name="custom_select_title_select_item">เลือกรายการ</string>
     <string name="debugging_info">ข้อมูลข้อบกพร่องถูกสร้างเรียบร้อยแล้ว แตะ ตกลง เพื่อเปิดโฟลเดอร์</string>
     <string name="debugging_tip">กำลังสร้างข้อมูลปรับแก้ไข</string>
+    <string name="decrypt_video_failed">ไม่สามารถเตรียมวิดีโอ</string>
+    <string name="decrypting_video">กำลังเตรียมวิดีโอ…</string>
     <string name="default_relation_name">กลุ่มใหม่</string>
     <string name="define_by_user">กำหนดเอง</string>
     <string name="delete">ลบ</string>
@@ -390,6 +399,10 @@
     <string name="downloading_dialog_message">คุณสามารถเลือกคุณภาพของภาพที่ดาวน์โหลดหรือปิดการดาวน์โหลดอัตโนมัติในการตั้งค่า</string>
     <string name="downloading_title">กำลังดาวน์โหลดรูปจาก Mi คลาวด์</string>
     <string name="edit_baby_info">ดูข้อมูลลูก</string>
+    <string name="editor_cancel">ยกเลิก </string>
+    <string name="editor_export">บันทึก</string>
+    <string name="editor_talkback_redo">ทำซ้ำ</string>
+    <string name="editor_talkback_undo">เลิกทำ</string>
     <string name="email_picker_title">เพิ่มอีเมลที่แชร์</string>
     <string name="empty_query_text_msg">ไม่ทราบสิ่งที่จะค้นหา…</string>
     <string name="empty_recommend_back">ย้อนกลับ</string>
@@ -411,7 +424,7 @@
     <string name="error_change_storage_msg">ไปยังการตั้งค่า > ที่จัดเก็บข้อมูล, สลับที่จัดเก็บข้อมูล, และลองอีกครั้ง</string>
     <string name="error_cloud_not_active">ไม่พบรูปภาพใน Mi คลาวด์</string>
     <string name="error_connect_timeout_action">เลือกเครือข่าย</string>
-    <string name="error_connect_timeout_msg">เชื่อมต่อกับอินเตอร์เน็ตอื่น แล้วลองใหม่อีกครั้ง</string>
+    <string name="error_connect_timeout_msg">เชื่อมต่อกับอินเตอร์เน็ตอื่น แล้วลองอีกครั้ง</string>
     <string name="error_connect_timeout_tip">การเชื่อมต่อหมดเวลา</string>
     <string name="error_decode_tip">ไม่รองรับรูปแบบไฟล์หรือไฟล์เสียหาย</string>
     <string name="error_download_tip">ไม่สามารถดาวน์โหลดได้</string>
@@ -442,15 +455,15 @@
     <string name="error_no_wifi_tip">ไม่สามารถเชื่อมต่อ Wi-Fi ได้</string>
     <string name="error_not_acceptable">ซิงค์ถูกปิดใช้งาน</string>
     <string name="error_not_synced_action">ซิงค์ตอนนี้</string>
-    <string name="error_not_synced_msg">ข้อมูลไม่ได้ซิงค์ กรุณารอสักครู่และลองใหม่อีกครั้ง</string>
+    <string name="error_not_synced_msg">ข้อมูลไม่ได้ซิงค์ กรุณารอสักครู่และลองอีกครั้ง</string>
     <string name="error_not_synced_tip">ข้อมูลไม่ได้ซิงค์</string>
-    <string name="error_over_quota_tip">ร้องขอมากเกินไป กรุณารอสักครู่และลองใหม่อีกครั้ง</string>
+    <string name="error_over_quota_tip">ร้องขอมากเกินไป กรุณารอสักครู่และลองอีกครั้ง</string>
     <string name="error_repeat_apply">อัลบั้มนี้ถูกแชร์แล้ว</string>
     <string name="error_share_not_support">ระบบยังไม่รองรับคุณลักษณะนี้</string>
     <string name="error_share_with_creator">คุณเป็นสมาชิกของอัลบั้มนี้อยู่แล้ว</string>
     <string name="error_socket_timeout">หมดเวลาการเชื่อมต่อเครือข่าย</string>
     <string name="error_socket_timeout_action">เลือกเครือข่าย</string>
-    <string name="error_socket_timeout_msg">เชื่อมต่อกับอินเตอร์เน็ตอื่น แล้วลองใหม่อีกครั้ง</string>
+    <string name="error_socket_timeout_msg">เชื่อมต่อกับอินเตอร์เน็ตอื่น แล้วลองอีกครั้ง</string>
     <string name="error_socket_timeout_tip">การเชื่อมต่อหมดเวลา</string>
     <string name="error_storage_full_action">เพิ่มพื้นที่</string>
     <string name="error_storage_full_msg">เพิ่มพื้นที่จัดเก็บข้อมูลบนอุปกรณ์ของคุณและลองอีกครั้ง</string>
@@ -461,8 +474,8 @@
     <string name="error_title">ไม่สามารถซิงค์ได้</string>
     <string name="error_unauthorized">ยุติการซิงค์เนื่องจากการเข้าระบบผิดเกินจำนวนครั้งที่กำหนด</string>
     <string name="error_unknown_action">ข้อเสนอแนะ</string>
-    <string name="error_unknown_host">ไม่พบเครือข่าย กรุณาตรวจสอบเครือข่ายแล้วลองใหม่อีกครั้ง</string>
-    <string name="error_unknown_msg">ผิดพลาด ส่งข้อเสนอแนะของคุณ</string>
+    <string name="error_unknown_host">ไม่พบเครือข่าย กรุณาตรวจสอบเครือข่ายแล้วลองอีกครั้ง</string>
+    <string name="error_unknown_msg">เกิดข้อผิดพลาด ส่งข้อเสนอแนะของคุณ</string>
     <string name="error_unknown_tip">เกิดข้อผิดพลาด</string>
     <string name="exit">ออก</string>
     <string name="exit_choice_mode">แชร์สนทนาซ้าย</string>
@@ -502,9 +515,10 @@
     <string name="face_name_edit">แก้ไข</string>
     <string name="face_name_input">ป้อนชื่อ</string>
     <string name="face_recommend">ข้อเสนอแนะ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">ดำเนินการไม่เสร็จสิ้น</string>
     <string name="fail_to_pick_email">ที่อยู่อีเมลไม่ถูกต้อง</string>
-    <string name="fail_to_sync_album">ไม่สามารถซิงค์อัลบั้ม ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองใหม่อีกครั้ง</string>
+    <string name="fail_to_sync_album">ไม่สามารถซิงค์อัลบั้ม ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</string>
     <string name="family_member_invitation_text">สมาชิกอื่นในครอบครัว</string>
     <string name="fancy_color_desc">สี</string>
     <string name="fast_share_auto_render">โหมดฟรุ๊งฟริ๊ง</string>
@@ -512,6 +526,7 @@
     <string name="feature_guidance_photo_effects">"เอฟเฟ็กต์​ภาพถ่ายใหม่
 พร้อมใช้งาน"</string>
     <string name="feature_guidance_video_editor_smart_effects">เอฟเฟ็กต์​ใหม่พร้อมใช้งาน</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">ขาว&amp;ดำ</string>
     <string name="filter_bi_dusk">พลบค่ำ</string>
     <string name="filter_bi_lilt">ลิลท์</string>
@@ -585,18 +600,20 @@
     <string name="filter_sky_sunset">พระอาทิตย์ตก</string>
     <string name="finish_create_baby_album_toast">สร้างอัลบั้มสำหรับ \"%s\" ใน Mi คลาวด์</string>
     <string name="finish_fill_baby">สร้าง</string>
+    <string name="first_time_add_video_to_secret_tips">อัพเดทคลังภาพเพื่อซ่อนวิดีโอ</string>
     <string name="flash_off">ปิดแฟลช</string>
     <string name="flash_on">เปิดแฟลช</string>
     <string name="frame_not_support_image_ratio">ไม่รองรับอัตราส่วนนี้</string>
     <string name="free_view_desc">มุมมอง 3 มิติ</string>
     <string name="gallery_setting">การตั้งค่า</string>
     <string name="gallery_sync_disable_toast">การซิงค์คลังภาพปิดอยู่</string>
-    <string name="generate_story_summary">MIUI จะวิเคราะห์รูปภาพของคุณและสร้างอัลบั้มเรื่องราว ปิดคุณสมบัตินี้เพื่อหยุดการสร้างอัลบั้มเรื่องราว</string>
-    <string name="generate_story_title">อัลบั้มเรื่องราว</string>
+    <string name="generate_story_summary">MIUI will analyze your photos and create memories. Turn this feature off to stop creating memories.</string>
+    <string name="generate_story_title">Memories</string>
     <string name="get_album_info_in_process">กำลังร้องขอรายละเอียดของอัลบั้มแชร์…</string>
     <string name="gif_tip">ไฟล์ GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">ตั้งค่า</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"คลังภาพต้องการเข้าถึง 
 %s
  เพื่อให้ทำงานได้ตามปกติ แตะ \"ตั้งค่า\" เพื่อไปยังการอนุญาต"</string>
@@ -630,7 +647,7 @@
     <string name="image_download_item_title">ดาวน์โหลดไฟล์ต้นฉบับ (%s)</string>
     <string name="image_invalid_path">โฟลเดอร์จัดเก็บไม่ถูกต้อง</string>
     <string name="image_not_found">ไม่พบรูปภาพ</string>
-    <string name="image_quota_fulfiled">จำนวนรูปภาพเกินที่กำหนด ลบรูปภาพออกแล้วลองใหม่อีกครั้ง</string>
+    <string name="image_quota_fulfiled">จำนวนรูปภาพเกินที่กำหนด ลบรูปภาพออกแล้วลองอีกครั้ง</string>
     <string name="image_selection_summary">MIUI จะวิเคราะห์รูปภาพที่คล้ายกันและทำเครื่องหมายภาพที่ดีที่สุดสำหรับคุณ ปิดคุณสมบัตินี้เพื่อลบเครื่องหมายออกจากภาพถ่าย</string>
     <string name="image_selection_title">เลือกภาพที่ดีที่สุด</string>
     <string name="image_with_time">ภาพถ่ายเมื่อ %s</string>
@@ -833,7 +850,7 @@
     <string name="operation_show_on_map">แสดงบนแผนที่</string>
     <string name="operation_slide_show">เริ่มแสดงภาพแบบสไลด์</string>
     <string name="operation_successful">เสร็จสิ้น</string>
-    <string name="operation_too_often">ระบบตรวจพบคำร้องขอจากเลขหมายไอพีเดียวกับคุณเกินจำนวนครั้งที่กำหนด กรุณารอประมาณ 1-2 นาทีแล้วลองใหม่อีกครั้ง</string>
+    <string name="operation_too_often">ระบบตรวจพบคำร้องขอจากเลขหมายไอพีเดียวกับคุณเกินจำนวนครั้งที่กำหนด กรุณารอประมาณ 1-2 นาทีแล้วลองอีกครั้ง</string>
     <string name="operation_unforce_top">เลิกปักหมุด</string>
     <string name="operation_unhide">เลิกซ่อน</string>
     <string name="orientation_lock_tip">หมุนอัตโนมัติปิดอยู่</string>
@@ -850,6 +867,7 @@
     <string name="people_mark_mode_title_no_mark_name">เลือกสักคน</string>
     <string name="people_page_label">บุคคล</string>
     <string name="people_page_unname">ไม่มีชื่อ</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">สำหรับการตั้งชื่อคนในรูปถ่าย</string>
     <string name="permission_contract_name">รายชื่อผู้ติดต่อ</string>
     <string name="permission_optional_category">สิทธิ์เพิ่มเติม</string>
@@ -875,7 +893,7 @@
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">ลายเส้น</string>
     <string name="photo_editor_filter">ฟิลเตอร์</string>
-    <string name="photo_editor_font_default">>Mi Lanting (ปกติ)</string>
+    <string name="photo_editor_font_default">Mi Lanting (ปกติ)</string>
     <string name="photo_editor_frame">กรอบภาพ</string>
     <string name="photo_editor_label">แก้ไข</string>
     <string name="photo_editor_long_crop">ตัดภาพ</string>
@@ -906,6 +924,7 @@
     <string name="photo_editor_navigator_module_downloading">กำลังดาวน์โหลด %s…</string>
     <string name="photo_editor_navigator_need_download">เชื่อมต่อกับเครือข่ายเพื่อดาวน์โหลด %s</string>
     <string name="photo_editor_remove_watermark">ลบลายน้ำ</string>
+    <string name="photo_editor_remove_watermark_on">เพิ่มลายน้ำ</string>
     <string name="photo_editor_remover">ลบ</string>
     <string name="photo_editor_rotate">หมุนภาพ</string>
     <string name="photo_editor_saving">กำลังบันทึก…</string>
@@ -914,6 +933,7 @@
     <string name="photo_editor_talkback_confirm">ยืนยัน</string>
     <string name="photo_editor_talkback_crop_16_9">สิบหกต่อเก้า</string>
     <string name="photo_editor_talkback_crop_1_1">หนึ่งต่อหนึ่ง</string>
+    <string name="photo_editor_talkback_crop_2_3">สองต่อสาม</string>
     <string name="photo_editor_talkback_crop_3_4">สามต่อสี่</string>
     <string name="photo_editor_talkback_crop_4_3">สี่ต่อสาม</string>
     <string name="photo_editor_talkback_crop_9_16">เก้าต่อสิบหก</string>
@@ -1045,7 +1065,12 @@
     <string name="scan_barcode_to_join">สแกนรหัส QR เพื่อเพิ่มอัลบั้ม</string>
     <string name="scan_qr_code_buttom_text">สแกนรหัส QR เพื่อแสดงอัลบั้มนี้</string>
     <string name="screen_doodle_talkback_size">ความกว้างของลายเส้น</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">เสร็จสิ้น</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ยกเลิก </string>
     <string name="screen_save_dialog_btn_delete">ลบภาพหน้าจอ</string>
     <string name="screen_save_dialog_btn_save">บันทึกไปยังคลังภาพ</string>
@@ -1103,6 +1128,9 @@
     <string name="search_title_recommend">แนะนำ</string>
     <string name="search_title_suggestion">ข้อเสนอแนะ</string>
     <string name="search_title_tag">สิ่งของ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">กำลังมองหาโปรเจคเตอร์…</string>
     <string name="secret_album_card_description">ที่ที่ดีที่สุดสำหรับความลับทั้งหมดของคุณ</string>
     <string name="secret_album_card_title">เปิดอัลบั้มที่ซ่อนไว้</string>
@@ -1119,7 +1147,7 @@
     <string name="secret_reason_space_full">อัลบั้มคลาวด์เต็มแล้ว</string>
     <string name="secret_reason_too_large">ไฟล์ใหญ่เกินไป</string>
     <string name="secret_reason_type_not_support">ไม่รองรับไฟล์ชนิดดังกล่าว</string>
-    <string name="secret_reason_unknow_reasons">ขัดข้องไม่ทราบสาเหตุ</string>
+    <string name="secret_reason_unknow_reasons">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="secret_reason_video_not_support">ไม่สามารถเพิ่มวิดีโอไปยังอัลบั้มที่ซ่อนได้</string>
     <string name="see_ignore_faces">เรียกดูบุคคลที่คุณละเว้น</string>
     <string name="select_all">เลือกทั้งหมด</string>
@@ -1178,6 +1206,12 @@
     <string name="slim_running">กำลังเพิ่มประสิทธิภาพ…</string>
     <string name="slim_space">เพิ่มพื้นที่แล้ว</string>
     <string name="slim_stop">หยุดการเพิ่มประสิทธิภาพ</string>
+    <string name="special_type_eye_repair">แก้ไขดวงตาที่ปิดโดยใช้ AI</string>
+    <string name="special_type_hdr">HDR</string>
+    <string name="special_type_night_beauty">AI low light portrait</string>
+    <string name="special_type_night_mode">AI โหมดกลางคืน</string>
+    <string name="special_type_portrait">AI พอร์ทเทรตวาดแสงไฟ</string>
+    <string name="special_type_wide_angle">AI มุมกว้างพิเศษ</string>
     <string name="start_debug">ปรับแก้ไขคลังภาพ</string>
     <string name="start_to_use_face_albumset">เรียงตามบุคคล</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -1268,7 +1302,7 @@
     <string name="trash_bin">ถังขยะ</string>
     <string name="trash_bin_key_word">รูปภาพที่ลบ</string>
     <string name="trash_bin_summary">เรียกดูภาพถ่ายที่สำรองข้อมูลไว้ซึ่งถูกลบออกไปเมื่อเร็วๆนี้</string>
-    <string name="try_again_later">ลองใหม่ในภายหลัง</string>
+    <string name="try_again_later">ลองอีกครั้งในภายหลัง</string>
     <string name="try_to_send">ส่ง</string>
     <string name="turn_off_and_move">ปิดใช้งานและย้าย</string>
     <string name="turn_on_and_remove">เปิดใช้งานและย้าย</string>
@@ -1291,8 +1325,14 @@
     <string name="video_editor_adjust">เสริม</string>
     <string name="video_editor_analyzing">กำลังวิเคราะห์วิดีโอ…</string>
     <string name="video_editor_audio">เสียง</string>
+    <string name="video_editor_audio_antiquity">ย้อนยุค</string>
     <string name="video_editor_audio_custom">เลือก</string>
+    <string name="video_editor_audio_dream">ฝัน</string>
+    <string name="video_editor_audio_electronics">Electro</string>
     <string name="video_editor_audio_none">ไม่มี</string>
+    <string name="video_editor_audio_quiet">เซน</string>
+    <string name="video_editor_audio_summertime">ฤดูร้อน</string>
+    <string name="video_editor_audio_vitality">แรง</string>
     <string name="video_editor_auto_trim">ตัดแต่งอัตโนมัติ</string>
     <string name="video_editor_auto_trim_tip">กำลังตัดแต่งอัตโนมัติ…</string>
     <string name="video_editor_cancel">ยกเลิก</string>
@@ -1307,7 +1347,7 @@
     <string name="video_editor_download_with_metered_network_title">คุณได้เชื่อมต่อกับเครือข่ายที่ต้องชำระเงินแล้ว</string>
     <string name="video_editor_encode_video">กำลังเข้ารหัสวีดีโอ…</string>
     <string name="video_editor_encode_video_error">ไม่สามารถเข้ารหัสวิดีโอได้</string>
-    <string name="video_editor_fatal_error">ขัดข้องไม่ทราบสาเหตุ</string>
+    <string name="video_editor_fatal_error">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="video_editor_filter">ฟิลเตอร์</string>
     <string name="video_editor_filter_and_regulator">ฟิลเตอร์</string>
     <string name="video_editor_filter_bailu">น้ำค้าง</string>

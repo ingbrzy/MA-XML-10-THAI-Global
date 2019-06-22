@@ -44,7 +44,7 @@
     <string name="err_delete_photos">ไม่สามารถลบรูปภาพได้</string>
     <string name="err_delete_files">ไม่สามารถลบไฟล์ได้</string>
     <string name="err_volume_not_enough">พื้นที่จัดเก็บไม่เพียงพอ</string>
-    <string name="err_unknown">ขัดข้องไม่ทราบสาเหตุ</string>
+    <string name="err_unknown">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="dir_switch_out_all_photos">คลังภาพพื้นที่ทับซ้อน</string>
     <string name="creating_app_icon">กำลังสร้างไอคอน…</string>
     <string name="create_app_icon_success">สร้างไอคอนเรียบร้อยแล้ว</string>
@@ -64,7 +64,7 @@
     <string name="remove_button_time">ลบออกและรีบูต(%ds)</string>
     <string name="cancel_button">ยกเลิก</string>
     <string name="list_empty_text">ว่างเปล่า</string>
-    <string name="list_empty_text_xspace">ติดตั้ง WeChat/QQ/Weibo, สร้างแอปโคลน และลองใหม่</string>
+    <string name="list_empty_text_xspace">ติดตั้ง WeChat/QQ/Weibo, สร้างแอปโคลน และลองอีกครั้ง</string>
     <string name="xspace_label">แอปโคลน</string>
     <string name="xspace_setting_label">การตั้งค่าแอปโคลน</string>
     <string name="xspace_account">บัญชีแอปโคลน</string>
@@ -424,7 +424,7 @@
     <string name="ent_activation">เปิดใช้งาน</string>
     <string name="ent_activating">กำลังเปิดใช้งาน…</string>
     <string name="ent_installing">กำลังติดตั้ง…</string>
-    <string name="ent_network_error">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองใหม่</string>
+    <string name="ent_network_error">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
     <string name="ent_invalid_qr">รหัส QR ไม่ถูกต้อง</string>
     <string name="ent_invalid_agency">รหัสบริษัทไม่ถูกต้อง</string>
     <string name="ent_privacy_policy_notice">* ข้อมูลส่วนบุคคลในโหมดนี้จะถูกเก็บรวบรวมตามนโยบายที่บริษัทของคุณกำหนดไว้ Xiaomi ไม่ได้รวบรวมข้อมูลส่วนบุคคลในโหมดนี้</string>
@@ -434,7 +434,7 @@
     <string name="ent_download_install_dialog_title">ดาวน์โหลดแอปองค์กร</string>
     <string name="ent_downloading_message">กำลังดาวน์โหลด %d%%</string>
     <string name="install">ติดตั้ง</string>
-    <string name="install_error">ไม่สามารถติดตั้งได้ กรุณาลองอีกครั้ง</string>
+    <string name="install_error">ไม่สามารถติดตั้งได้ ลองอีกครั้ง</string>
     <string name="ent_install_dialog_content">ติดตั้งแอปและรีบูตอุปกรณ์ของคุณตอนนี้?</string>
     <string name="ent_disallow_running">ไม่อนุญาตให้เรียกใช้แอป</string>
     <string name="greenguard_child_des_title">ฉันต้องการความช่วยเหลือจากเพื่อนและครอบครัว</string>
@@ -458,9 +458,9 @@
     <string name="dialog_tip_need_network">อุปกรณ์ของคุณจำเป็นต้องเชื่อมต่ออินเตอร์เน็ตเพื่อถอนสิทธิ์</string>
     <string name="dialog_undo_negative">ไม่เพิกถอน</string>
     <string name="dialog_title_service_error">พบข้อผิดพลาดจากเซิร์ฟเวอร์</string>
-    <string name="dialog_message_service_error">ไม่สามารถถอนสิทธิ์และทำการคืนค่าข้อมูลโรงงาน โปรดลองใหม่</string>
+    <string name="dialog_message_service_error">ไม่สามารถถอนสิทธิ์และทำการคืนค่าข้อมูลโรงงาน ลองอีกครั้ง</string>
     <string name="dialog_verify">ยืนยันลายนิ้วมือของคุณ</string>
-    <string name="dialog_verify_fingerprint_retry">ไม่สามารถยืนยันลายนิ้วมือได้ ลองใหม่อีกครั้ง</string>
+    <string name="dialog_verify_fingerprint_retry">ไม่สามารถยืนยันลายนิ้วมือได้ ลองอีกครั้ง</string>
     <string name="button_touch">วางนิ้วมือของคุณลงบนเซ็นเซอร์</string>
     <string name="button_input_password">ป้อนรหัสผ่าน</string>
     <string name="master_clear_not_available">การรีเซ็ตเป็นค่าเริ่มต้นจากโรงงานถูกจำกัดโดยบริษัทของคุณ</string>

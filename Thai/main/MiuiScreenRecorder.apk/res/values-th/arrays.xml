@@ -20,7 +20,7 @@
     <string-array name="screenrecorder_settings_orientation">
         <item>อัตโนมัติ</item>
         <item>แนวตั้ง</item>
-        <item>ภาพแนวนอน</item>
+        <item>แนวนอน</item>
     </string-array>
     <string-array name="screenrecorder_settings_resolution">
         <item>1080p</item>

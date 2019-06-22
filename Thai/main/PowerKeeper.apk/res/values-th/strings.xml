@@ -82,7 +82,7 @@
     <string name="cloud_international_addr">อัพเดทเซิร์ฟเวอร์ข้อมูลนานาชาติ</string>
     <string name="current_cloud_addr_is">ที่อยู่เซิร์ฟเวอร์คลาวด์ควบคุมคือ:</string>
     <string name="update_profile_sucess">อัพเดทฟอร์มเซิร์ฟเวอร์เรียบร้อย</string>
-    <string name="update_profile_failture_not_connect_wifi">ไม่สามารถอัพเดทได้ กรุณาเชื่อมต่อกับ Wi-Fi แล้วลองใหม่</string>
+    <string name="update_profile_failture_not_connect_wifi">ไม่สามารถอัพเดทได้ กรุณาเชื่อมต่อกับ Wi-Fi แล้วลองอีกครั้ง</string>
     <string name="sucess">เสร็จสิ้น</string>
     <string name="failure">ผิดพลาด</string>
     <string name="cloud_addr_info">ข้อมูลคลาวด์</string>

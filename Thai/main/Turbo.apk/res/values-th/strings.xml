@@ -42,6 +42,14 @@
     <string name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
     <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
     <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="early_warning_android_system">ระบบ Android</string>
+    <string name="early_warning_feedback_action">ความคิดเห็น</string>
+    <string name="early_warning_feedback_body">โปรดแสดงความคิดเห็นที่นี่</string>
+    <string name="early_warning_feedback_chooser_text">เลือกแอปอีเมล</string>
+    <string name="early_warning_feedback_subject">ความคิดเห็นเกี่ยวกับการแจ้งเตือนของการเตือนล่วงหน้า</string>
+    <string name="early_warning_notification_channel_name">คำเตือนเกี่ยวกับแบตเตอรี่</string>
+    <string name="early_warning_notification_text">ซึ่งเร็วกว่าเวลาที่คุณมักจะชาร์จตามปกติ</string>
+    <string name="early_warning_notification_title">แบตเตอรี่อาจหมดเมื่อถึงเวลา %1$s</string>
     <string name="icon_content_description">ไอคอนกล่องโต้ตอบ</string>
     <string name="password_toggle_content_description">แสดงรหัสผ่าน</string>
     <string name="ssb_clear_data_activity_name">รีเซ็ตโหมดปรับสว่างอัตโนมัติไหม</string>

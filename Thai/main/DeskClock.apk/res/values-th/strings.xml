@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="add_alarm">เพิ่มการปลุก</string>
     <string name="add_clock">เพิ่มนาฬิกา</string>
     <string name="add_timezone_title">เพิ่มเขตเวลา</string>
@@ -108,7 +109,9 @@
     <string name="hour_unit">ชั่วโมง +</string>
     <string name="install_weather_app_error">ไม่สามารถโหลดแอปได้</string>
     <string name="install_weather_app_loading">รอสักครู่…</string>
-    <string name="invalid_time">เวลาไม่ถูกต้อง: %3$s %1$d: %2$d</string>
+    <string name="invalid_time">"เวลาไม่ถูกต้อง:
+%3$s %1$d:
+%2$d "</string>
     <string name="invalid_timer_length">ระยะเวลาการจับเวลาไม่ถูกต้อง</string>
     <string name="keep_screen_on">เปิดหน้าจอไว้</string>
     <string name="korea_permission_calendar">ปฏิทิน</string>
@@ -157,7 +160,8 @@
     <string name="module_download_data_msg_replace">อัปเดตเสียงสำหรับการเตือนอัจฉริยะของ MIUI พร้อมใช้งานแล้ว จะต้องใช้ข้อมูลมือถือของคุณขนาด 20 MB สำหรับการดาวน์โหลดนี้ ดาวน์โหลดเดี๋ยวนี้?</string>
     <string name="module_download_data_msg_timer">นาฬิกาจำเป็นต้องดาวน์โหลดไฟล์เสียงสำหรับตัวจับเวลาเสียงรอบข้าง จะต้องใช้ข้อมูลมือถือของคุณขนาด 20MB สำหรับการดาวน์โหลดนี้ ดาวน์โหลดเดี๋ยวนี้?</string>
     <string name="module_download_fail">ไม่สามารถดาวน์โหลดเสียงเพิ่มเติมได้</string>
-    <string name="module_download_msg">นาฬิกาต้องการดาวน์โหลดไฟล์เสียงสำหรับการปลุกอัจฉริยะของ MIUI การเตือนอัจฉริยะประกอบด้วยคุณลักษณะเสียงที่อนุญาตให้รวมถึงข้อมูลสภาพอากาศปัจจุบันในการเตือนภัย ดาวน์โหลดเดี๋ยวนี้?</string>
+    <string name="module_download_msg">"นาฬิกาต้องการดาวน์โหลดไฟล์เสียงสำหรับการปลุกอัจฉริยะของ MIUI การเตือนอัจฉริยะประกอบด้วยคุณลักษณะเสียงที่อนุญาตให้รวมถึงข้อมูลสภาพอากาศปัจจุบันในการเตือนภัย 
+ดาวน์โหลดเดี๋ยวนี้?"</string>
     <string name="module_download_msg_golbal">นาฬิกาต้องการดาวน์โหลดไฟล์เสียงสำหรับการปลุกอัจฉริยะของ MIUI ดาวน์โหลดเดี๋ยวนี้?</string>
     <string name="module_download_msg_replace">อัปเดตเสียงสำหรับการเตือนอัจฉริยะของ MIUI พร้อมใช้งานแล้ว ดาวน์โหลดเดี๋ยวนี้?</string>
     <string name="module_download_msg_timer">นาฬิกาจำเป็นต้องดาวน์โหลดไฟล์เสียงสำหรับตัวจับเวลาเสียงรอบข้าง ดาวน์โหลดเดี๋ยวนี้?</string>
@@ -195,11 +199,15 @@
     <string name="setting_alarm_arriving_summary">ส่งการแจ้งเตือนก่อนที่จะมีเสียงกริ่ง</string>
     <string name="setting_alarm_arriving_title">แจ้งเตือนก่อนที่จะมีเสียงกริ่ง</string>
     <string name="settings">การตั้งค่า</string>
+    <string name="shortcut_new_alarm">ตั้งการปลุก</string>
+    <string name="shortcut_start_timer">เริ่มนับถอยหลัง</string>
+    <string name="shortcut_stop_watch">เริ่มจับเวลา</string>
     <string name="shut_down_keep_screen">หน้าจอจะไม่ถูกเปิดไว้</string>
     <string name="shutdown_alarm_disable_summary">นาฬิกาจะไม่ดังหลังจากที่ปิดอุปกรณ์</string>
     <string name="shutdown_alarm_enable_summary">นาฬิกาจะปลุกหากตั้งไว้อย่างน้อย 5 นาทีหลังจากที่คุณปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="slider_text">เลื่อนขึ้นเพื่อปิดใช้งาน</string>
     <string name="snooze_confirm_cancel">เลิกทำการปลุก</string>
@@ -218,6 +226,7 @@
     <string name="start_up">เริ่ม</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_title">จับเวลา</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">การตั้งค่า</string>
     <string name="system_time_settings_category_title">การตั้งค่าเวลา</string>
     <string name="temperature_unit">℃</string>
@@ -271,6 +280,7 @@
     <string name="turn_off_this_repeat_alarm">ปิดการปลุกซ้ำนี้ตลอดไป</string>
     <string name="upcoming_alarm">%s เเจ้งเตือนที่กำลังมา</string>
     <string name="upcoming_alarm_hint">คุณสามารถปิดการปลุกล่วงหน้าได้</string>
+    <string name="update_notification_info">กำลังอัปเดตข้อมูลในพื้นหลัง…</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
     <string name="vibrate_pref_summary">สั่นเมื่อมีเสียงปลุก</string>
     <string name="vibrate_when_ringing">สั่นเมื่อมีสายเรียกเข้า</string>

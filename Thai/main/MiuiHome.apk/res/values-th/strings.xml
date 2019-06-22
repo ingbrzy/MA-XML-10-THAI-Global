@@ -2,6 +2,7 @@
 <resources>
     <string name="action_add_to_workspace">เพิ่มไปยังหน้าแรก</string>
     <string name="activity_not_found">ไม่พบการติดตั้งแอปในเครื่อง</string>
+    <string name="activity_not_unlocked">รอจนกว่าอุปกรณ์ของคุณจะรีบูตอย่างสมบูรณ์ก่อนที่จะเปิดแอป</string>
     <string name="add_screen">เพิ่มหน้าจอ</string>
     <string name="announce_for_app_move_in_folder">ย้ายไปที่ตำแหน่ง %1$d ในโฟลเดอร์</string>
     <string name="announce_for_checked">%1$s เลือกแล้ว</string>
@@ -30,9 +31,11 @@
     <string name="announce_for_open_default_preview">เปิดการตั้งค่าหน้าจอหลักเริ่มต้น</string>
     <string name="announce_for_open_folder">เปิดโฟลเดอร์ %1$s</string>
     <string name="announce_for_open_launcher_menu">เปิดเมนูแล้ว</string>
+    <string name="announce_for_search_bar">แถบค้นหา</string>
     <string name="announce_for_show_uninstall_dialog">มีการถอนการติดตั้งกล่องโต้ตอบ ยกเลิกหรือยืนยัน</string>
     <string name="announce_for_unchecked">%1$s ยังไม่เลือก</string>
     <string name="announce_for_widget_span">กว้าง %1$d, สูง %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">มีแอปนี้อยู่ในเครื่องแล้ว</string>
     <string name="app_being_backup_message">ระบบกำลังสำรองข้อมูลแอป</string>
     <string name="app_being_restored_message">กำลังเรียกคืนค่าแอป</string>
@@ -92,6 +95,7 @@
     <string name="defalut_launcher_title">ค่าเริ่มต้นชุดเรียกใช้ระบบ</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">เกมส์</string>
+    <string name="default_folder_title_meitu">แอป Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">แอปเพิ่มเติม</string>
     <string name="default_folder_title_security">ระบบ</string>
@@ -288,6 +292,8 @@
     <string name="preferences_general_title">การตั้งค่าเพิ่มเติม</string>
     <string name="preferences_title">การตั้งค่าชุดเรียกใช้ระบบ</string>
     <string name="preferred_app_settings_not_selected">ไม่ได้เลือกไว้</string>
+    <string name="privacy_thumbnail_blur_summary">ตัวอย่างแอปเบลอล่าสุด</string>
+    <string name="privacy_thumbnail_blur_title">ดูตัวอย่างแอปเบลอ</string>
     <string name="quick_app">แอปด่วน</string>
     <string name="recents_config_title">ล่าสุด</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
@@ -315,6 +321,9 @@
     <string name="setting_wallpaper_tip">ปรับภาพโดยจีบนิ้วเข้าออกหรือปัด</string>
     <string name="settings">ตั้งค่า</string>
     <string name="settings_shortcut">การตั้งค่า</string>
+    <string name="shake_to_align_icons">เขย่าอุปกรณ์เพื่อเติมเซลล์ที่ว่างด้วยไอคอน</string>
+    <string name="shake_to_align_icons_summary">เขย่าอุปกรณ์ของคุณในขณะที่อยู่ในโหมดแก้ไขเพื่อเติมเซลล์ที่ว่างด้วยไอคอนโดยอัตโนมัติ</string>
+    <string name="shake_to_align_icons_title">เขย่าเพื่อเติมเซลล์ที่ว่าง</string>
     <string name="share">แชร์</string>
     <string name="show_all">แสดงทั้งหมด</string>
     <string name="show_mem_info_title">แสดงสถานะหน่วยความจำ</string>
@@ -324,11 +333,13 @@
     <string name="sort_by_not_defined">เรียงอัตโนมัติ</string>
     <string name="start_activity_failed">ชุดเรียกใช้ระบบไม่ทำงาน</string>
     <string name="starting_preset_app">กำลังเริ่ม…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">ดาวน์โหลดแล้ว</string>
     <string name="status_downloading">กำลังดาวน์โหลด…</string>
     <string name="status_installing">กำลังติดตั้ง</string>
     <string name="status_paused">หยุดพัก</string>
     <string name="status_pending">กำลังรอ…</string>
+    <string name="system_shortcuts_more_operation">ข้อมูลแอป</string>
     <string name="title_jeejen">Jeejen หน้าจอหลัก</string>
     <string name="title_select_live_folder">เลือกโฟลเดอร์</string>
     <string name="title_select_shortcut">เลือกปุ่มลัด</string>
@@ -367,9 +378,4 @@
     <string name="widget_global_search">ค้นหา</string>
     <string name="widget_quick_function">ฟังค์ชั่นทางลัด</string>
     <string name="widgets_preview_title">เพิ่มวิดเจ็ต</string>
-    <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
-    <string name="default_folder_title_meitu">Meitu</string>
-    <string name="privacy_thumbnail_blur_summary">ตัวอย่างแอปเบลอล่าสุด</string>
-    <string name="privacy_thumbnail_blur_title">ดูตัวอย่างแอปเบลอ</string>
-    <string name="system_shortcuts_more_operation">ข้อมูลแอป</string>
 </resources>

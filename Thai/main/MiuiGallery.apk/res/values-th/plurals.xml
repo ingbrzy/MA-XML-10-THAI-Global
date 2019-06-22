@@ -54,6 +54,15 @@
     <plurals name="backuping_desc_normal">
         <item quantity="other">%1$d รูปภาพและวิดีโอ</item>
     </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d รูปภาพ</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">บันทึก %d ภาพที่เลือกและลบภาพที่เหลือ?</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">บันทึก %d ภาพที่เลือก</item>
+    </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d รูปภาพ</item>
     </plurals>
@@ -68,6 +77,15 @@
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพจาก Mi คลาวด์และอุปกรณ์ที่ซิงค์ทั้งหมด?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพ?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพจาก Mi คลาวด์และอุปกรณ์นี้?</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">ลบ %d รายการจากอุปกรณ์และ Mi คลาวด์ทั้งหมด?</item>
@@ -86,6 +104,9 @@
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
         <item quantity="other">ลบ %d รูปภาพจากอัลบั้มนี้และ Mi คลาวด์ทั้งหมด?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพจากอุปกรณ์นี้?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">ลบ %d วิดีโอจากอุปกรณ์และ Mi คลาวด์ทั้งหมด?</item>

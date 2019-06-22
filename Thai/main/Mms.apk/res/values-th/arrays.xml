@@ -31,13 +31,6 @@
         <item>เฉพาะในโหมดปิดเสียง</item>
         <item>ไม่ดำเนินการ</item>
     </string-array>
-    <string-array name="reason_type">
-        <item>มิจฉาชีพ</item>
-        <item>เนื้อหาไม่เหมาะสม หรือผิดกฎหมาย</item>
-        <item>สแปม</item>
-        <item>อื่นๆ</item>
-        <item>ยกเลิก </item>
-    </string-array>
     <string-array name="recv_type">
         <item>接收并通知</item>
         <item>只接收</item>

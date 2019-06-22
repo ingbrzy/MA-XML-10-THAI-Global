@@ -50,6 +50,8 @@
     <string name="self_device_second_space">พื้นที่ทับซ้อนของโทรศัพท์นี้</string>
     <string name="other_device_main_space">พื้นที่ปกติ</string>
     <string name="other_device_second_space">พื้นที่ทับซ้อน</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">กำลังเรียกคืนค่า \"%s\"</string>
     <string name="size_unknown">ขนาดที่ไม่รู้จัก</string>
     <string name="recovering">กำลังเรียกคืนค่า %s</string>
@@ -100,7 +102,7 @@
     <string name="restore_task_cancelling">กำลังยกเลิก…</string>
     <string name="remove_task_in_process">กำลังลบ…</string>
     <string name="remove_task_unfinished">ยังลบข้อมูลไม่เสร็จ</string>
-    <string name="back_up_task_unfinished">ยังสำรองข้อมูลไม่เสร็จสิ้น</string>
+    <string name="back_up_task_unfinished">ไม่สามารถสำรองข้อมูลได้</string>
     <string name="about_to_recover">รอสักครู่…</string>
     <string name="success_open_cloudbackup">เปิดการสำรองข้อมูลสำหรับแอปบนหน้าจอหลัก</string>
     <string name="as_new_device">ปรับเป็นหน้าจอหลักและการตั้งค่าก่อนหน้านี้</string>
@@ -131,9 +133,10 @@
     <string name="can_not_restore_in_lite_mode">ไม่สามารถเรียกคืนค่าโหมดง่ายได้</string>
     <string name="can_not_backup_in_lite_mode">ไม่สามารถสำรองข้อมูลโหมดง่ายได้</string>
     <string name="restore_data_title">คืนค่าข้อมูล</string>
-    <string name="provision_error_connect_msg">ทดสอบเครือข่ายและลองใหม่ การสำรองข้อมูลไม่สามารถใช้ได้เมื่ออุปกรณ์ของคุณออฟไลน์</string>
+    <string name="provision_error_connect_msg">ทดสอบเครือข่ายแล้วลองอีกครั้ง การสำรองข้อมูลไม่สามารถใช้ได้เมื่ออุปกรณ์ของคุณออฟไลน์</string>
     <string name="provision_error_connect_title">ไม่สามารถเชื่อมต่อได้</string>
     <string name="loading_user_backup">กำลังโหลดข้อมูลสำรองผู้ใช้…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">กำลังคำนวณขนาด…</string>
     <string name="authentication_failed">ไม่สามารถยืนยันบัญชีได้</string>
@@ -143,7 +146,7 @@
     <string name="home_restore_error">ไม่สามารถกู้คืนหน้าจอหลักได้</string>
     <string name="get_device_id_error">ไม่สามารถรับรหัสอุปกรณ์ได้</string>
     <string name="unsupported_home">อัปเดต MIUI เป็นเวอร์ชั่นล่าสุด</string>
-    <string name="error_retry_later">ดำเนินการไม่สำเร็จ รอสักครู่แล้วลองใหม่อีกครั้ง…</string>
+    <string name="error_retry_later">ดำเนินการไม่สำเร็จ รอสักครู่แล้วลองอีกครั้ง…</string>
     <string name="try_continue">แตะเพื่อดำเนินการต่อ</string>
     <string name="download_home_data">กำลังดาวน์โหลดรูปแบบหน้าจอหลัก…</string>
     <string name="restore_home_failed">ไม่สามารถกู้คืนหน้าจอหลักได้</string>
@@ -152,7 +155,7 @@
     <string name="lack_of_storage">พื้นที่จัดเก็บไม่เพียงพอ</string>
     <string name="network_error">เชื่อมต่อกับเครือข่าย</string>
     <string name="remove_again">ลองอีกครั้ง</string>
-    <string name="download_meta_again">ไม่สามารถโหลดสำรองข้อมูลได้ ลองอีกครั้ง.</string>
+    <string name="download_meta_again">ไม่สามารถโหลดสำรองข้อมูลได้ ลองอีกครั้ง</string>
     <string name="cancel_restore_home">กำลังยกเลิก…</string>
     <string name="cancel_backup">กำลังยกเลิกการสำรองข้อมูล…</string>
     <string name="load_backup_failed">ไม่สามารถกำลังโหลดข้อมูลสำรอง</string>
@@ -190,7 +193,7 @@
     <string name="title_restore_with_current_network">ใช้การเชื่อมต่อในขณะนี้เพื่อดาวน์โหลดไฟล์</string>
     <string name="title_alert_restore_error">ไม่สามารถกู้คืนไฟล์ได้</string>
     <string name="msg_alert_restore_error">ไม่สามารถคืนค่ารายการจาก Mi คลาวด์ได้ ลองอีกครั้ง</string>
-    <string name="btn_restore_retry">ลองใหม่</string>
+    <string name="btn_restore_retry">ลองอีกครั้ง</string>
     <string name="btn_restore_abort">ยกเลิก </string>
     <string name="backup_stopped_title">ข้อมูลสำรองถูกหยุด</string>
     <string name="backup_stopped_msg">ข้อมูลสำรองปัจจุบันจะแทนที่ของก่อนหน้านี้ แตะเพื่อดู</string>
@@ -206,13 +209,19 @@
     <string name="restore_app_order_search_prior">แอปที่สำคัญมาก</string>
     <string name="restore_app_order_search_normal">แอปที่สำคัญทั่วไป</string>
     <string name="restore_app_order_search_installed">แอปในอุปกรณ์นี้</string>
-    <string name="restore_app_order_retry">ลองใหม่</string>
+    <string name="restore_app_order_retry">ลองอีกครั้ง</string>
     <string name="restore_app_order_retry_desc">"ไม่สามารถเชื่อมต่อเครือข่ายได้
-กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองใหม่"</string>
+กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง"</string>
     <string name="restore_app_order_loading">รอสักครู่…</string>
     <string name="restore_app_order_finish">เสร็จสิ้น</string>
     <string name="provision_restore_data">รายการเรียกคืนค่า</string>
     <string name="provision_background_restore_more_data">เรียกคืนค่ารายการเพิ่มเติมในพื้นหลัง</string>
     <string name="selected">เลือกไว้</string>
     <string name="unselected">ไม่ได้เลือกไว้</string>
+    <string name="backup_failed_reason_network_error">เครือข่ายเกิดข้อผิดพลาด รอประมาณ 1-2 นาทีแล้วลองอีกครั้ง</string>
+    <string name="backup_failed_reason_disk_space_not_enough">พื้นที่จัดเก็บข้อมูลไม่เพียงพอ เพิ่มที่จัดเก็บข้อมูลก่อน</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">พื้นที่จัดเก็บข้อมูลไม่เพียงพอใน Mi คลาวด์ อัพเกรดแผนของคุณหรือเพิ่มพื้นที่จัดเก็บข้อมูล</string>
+    <string name="restore_task_unfinished">ไม่สามารถกู้คืนได้</string>
+    <string name="restore_failed_reason_network_error">เครือข่ายเกิดข้อผิดพลาด รอประมาณ 1-2 นาทีแล้วลองอีกครั้ง</string>
+    <string name="restore_failed_reason_disk_space_not_enough">พื้นที่จัดเก็บข้อมูลไม่เพียงพอ เพิ่มที่จัดเก็บข้อมูลก่อน</string>
 </resources>

@@ -42,7 +42,6 @@
     <string name="auto_start_warning_title">อนุญาตให้ %s เริ่มต้นโดยอัตโนมัติ?</string>
     <string name="auto_start_warning_allow">อนุญาต</string>
     <string name="auto_start_warning_deny">ปฏิเสธ</string>
-    <string name="call_record_sample_prefix_miui">โทร</string>
     <string name="call_record_or">" หรือ "</string>
     <string name="caller_info_name_delimiter">" หรือ "</string>
     <string name="first_back_long_press_message">ในการตั้งค่าแบบกำหนดเอง &amp; กดปุ่มลัดค้างไว้ ไปที่ เมนูการตั้งค่า > การตั้งค่าเพิ่มเติม > ปุ่ม</string>
@@ -131,7 +130,7 @@
     <string name="security_permission_xiaomi_account_missed_text">ป้อนหมายเลขบัญชี Mi ของคุณ</string>
     <string name="security_permission_validate_warning">ขอบคุณที่มีส่วนช่วยพัฒนา MIUI ให้ดียิ่งขึ้น!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi และข้อมูลมือถือเปิดใช้งานแล้ว</string>
-    <string name="security_permission_network_failed_text">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองใหม่</string>
+    <string name="security_permission_network_failed_text">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
     <string name="security_permission_open_wifi_settings">เปิดการตั้งค่า Wi-Fi</string>
     <string name="xspace_resolver_activity_title">เลือกแอป</string>
     <string name="user_switching_dialog_text">กำลังสลับ…</string>
@@ -184,8 +183,8 @@
     <string name="voice_button_action_up">กดเพื่อพูด</string>
     <string name="voice_button_action_down">ปล่อยเพื่อค้นหา</string>
     <string name="voice_begin">คุณกำลังมองหาอะไร?</string>
-    <string name="voice_input_error_network">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองใหม่</string>
-    <string name="voice_input_error_other">เกิดข้อผิดพลาด รอประมาณ1-2นาทีแล้วลองใหม่อีกครั้ง</string>
+    <string name="voice_input_error_network">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
+    <string name="voice_input_error_other">เกิดข้อผิดพลาด รอประมาณ1-2นาทีแล้วลองอีกครั้ง</string>
     <string name="miui_warning_button_ok">ตกลง</string>
     <string name="miui_warning_button_cancel">ยกเลิก </string>
     <string name="miui_warning_tip_info">เกิดข้อผิดพลาดใน %1$s ปิดแอปนี้เดี๋ยวนี้หรือไม่?</string>
@@ -195,9 +194,10 @@
     <string name="popup_camera_tip">โปรดทราบ</string>
     <string name="popup_camera_sure">รับทราบ</string>
     <string name="popup_camera_sure_wait">รับทราบ (%dวิ)</string>
-    <string name="popup_camera_front_failed">ไม่สามารถเปิดกล้องหน้า กรุณาลองใหม่</string>
-    <string name="takeback_camera_front_failed">ไม่สามารถปิดกล้องหน้า กรุณาลองใหม่</string>
+    <string name="popup_camera_front_failed">ไม่สามารถเปิดกล้องหน้า ลองอีกครั้ง</string>
+    <string name="takeback_camera_front_failed">ไม่สามารถปิดกล้องหน้า ลองอีกครั้ง</string>
     <string name="stop_operate_camera_frequently">คุณเปิดกล้องหน้าบ่อยเกินไป</string>
+    <string name="popup_camera_front_when_use">แอปกล้องจำเป็นต้องเปิดกล้องหน้าอีกครั้ง เปิดตอนนี้เลย?</string>
     <string name="popup_camera_popup_falied_times_calibrate">ไม่สามารถเปิดกล้องหน้าหลายครั้ง ลองปรับเทียบกล้อง</string>
     <string name="popup_camera_takeback_falied_times_calibrate">ไม่สามารถปิดกล้องหน้าหลายครั้ง ลองปรับเทียบกล้อง</string>
     <string name="popup_camera_calibrate_now">ปรับเทียบ</string>

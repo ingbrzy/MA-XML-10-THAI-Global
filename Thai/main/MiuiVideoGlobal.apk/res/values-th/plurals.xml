@@ -27,4 +27,7 @@
     <plurals name="pw_comment_view_all_comment">
         <item quantity="other">เรียกดูทั้งหมด %d ความคิดเห็น</item>
     </plurals>
+    <plurals name="subscriber">
+        <item quantity="other"> ผู้สมัคร</item>
+    </plurals>
 </resources>

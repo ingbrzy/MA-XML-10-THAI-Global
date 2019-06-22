@@ -127,6 +127,7 @@
     <string name="note_sort_way">เลือกเรียงลำดับบันทึกของคุณที่ต้องการ</string>
     <string name="notealert_enter">เปิดบันทึก</string>
     <string name="notealert_ok">เลิกแสดง</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">ไม่มีการเตือน</string>
     <string name="permdesc_accessNote">แอปต้องสงสัยอาจใช้วิธีนี้ในการเข้าถึงข้อมูลส่วนบุคคลของคุณ</string>
     <string name="permission_intro_contact">สำหรับการทำเครื่องหมายบันทึกที่ถ่ายในระหว่างการโทร</string>
@@ -134,16 +135,16 @@
     <string name="permission_intro_phone">สำหรับการทำเครื่องหมายบันทึกที่ถ่ายในระหว่างการโทร</string>
     <string name="permission_intro_storage">สำหรับการบันทึกโน้ตและไฟล์แนบ</string>
     <string name="permlab_accessNote">บันทึกการเข้าถึง</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">ไม่ต้องยืนยันเมื่อมีการลบบันทึกย่อด้วยการใช้ท่าทาง</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">เลื่อนนิ้ว 2 นิ้วขึ้นเพื่อลบบันทึกย่อโดยไม่ต้องมีการยืนยัน</string>
     <string name="pref_title_cloud_trash_bin">ลบบันทึกใน Mi คลาวด์แล้ว</string>
     <string name="pref_title_common">การตั้งค่าเพิ่มเติม</string>
     <string name="pref_title_font_size">ขนาดอักษร</string>
     <string name="pref_title_note_style">รูปแบบ</string>
     <string name="pref_title_show_root_folder_in_homepage">แสดงบันทึกด่วนบนหน้าเริ่มต้นเท่านั้น</string>
-    <string name="pref_title_skip_confirm_for_quick_delete">ลบด่วน</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">ลบการใช้ท่าทาง</string>
     <string name="recover_notes_hint">เกิดข้อผิดพลาด เข้าไปที่ i.mi.com เพื่อกู้คืนบันทึก</string>
     <string name="redo">ทำซ้ำ</string>
-    <string name="refuse_to_open_as_pic_because_of_loading">รอจนกว่าจะโหลดเสร็จและลองใหม่</string>
+    <string name="refuse_to_open_as_pic_because_of_loading">รอจนกว่าจะโหลดเสร็จและลองอีกครั้ง</string>
     <string name="refuse_to_share_as_pic_because_of_content">บันทึกนี้ใหญ่เกินไป ไม่สามารถแชร์ได้</string>
     <string name="rename_folder_dialog_tile">แก้ชื่อโฟลเดอร์</string>
     <string name="rich_text_bold_description">ตัวหนา</string>
@@ -180,7 +181,7 @@
     <string name="sns_footer_text">เขียนด้วย Mi Notes</string>
     <string name="sns_hint_content">ป้อนข้อความ</string>
     <string name="sns_hint_title">หัวเรื่อง (ไม่ระบุก็ได้)</string>
-    <string name="sns_message_disconnect">เชื่อมต่อเครือข่ายไม่ได้้ กรุณาตรวจสอบการเชื่อมต่อแล้วลองใหม่</string>
+    <string name="sns_message_disconnect">เชื่อมต่อเครือข่ายไม่ได้้ กรุณาตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง</string>
     <string name="sns_title_edit">แชร์บันทึก</string>
     <string name="sns_title_send">ส่งข้อความ</string>
     <string name="sns_toast_empty">ไม่สามารถส่งข้อความว่างเปล่าได้</string>
@@ -208,6 +209,7 @@
     <string name="toast_notes_hidden_edit">ซ่อนบันทึกนี้เรียบร้อยแล้ว ดึงลงเพื่อดูบันทึกที่ซ่อนอยู่</string>
     <string name="toast_notes_hidden_home">ซ่อนบันทึกนี้เรียบร้อยแล้ว ดึงลงเพื่อดูบันทึกที่ซ่อนอยู่</string>
     <string name="toast_notes_unhidden">เลิกซ่อนเรียบร้อย</string>
+    <string name="toast_pic_is_not_really">กำลังบันทึกรูปภาพ…</string>
     <string name="toast_reach_text_limit_attachment">ไม่สามารถใส่ไฟล์แนบใหม่ได้เนื่องจากบันทึกยาวเกินไป</string>
     <string name="toast_reach_text_limit_checkbox">ไม่สามารถเพิ่มช่องทำเครื่องหมายได้เนื่องจากบันทึกยาวเกินไป</string>
     <string name="toast_reach_text_limit_truncate">บันทึกนี้ยาวเกินไป ข้อความบางส่วนได้ถูกตัดออก</string>

@@ -15,7 +15,7 @@
     <string name="cancel_edit">ยกเลิก</string>
     <string name="cannot_change_frames">อัตราเฟรมสามารถปรับแต่งเฉพาะสำหรับการบันทึกที่มีอัตราเฟรมคงที่เท่านั้น</string>
     <string name="cannot_change_parames">ไม่สามารถแก้ไขพารามิเตอร์ขณะบันทึกได้</string>
-    <string name="cannot_record">ไม่สามารถบันทึกได้ กรุณาลองอีกครั้งในภายหลัง</string>
+    <string name="cannot_record">ไม่สามารถบันทึกได้ ลองอีกครั้งในภายหลัง</string>
     <string name="close_screen_record">หยุดการบันทึกแล้ว</string>
     <string name="date_day" />
     <string name="date_month">/</string>

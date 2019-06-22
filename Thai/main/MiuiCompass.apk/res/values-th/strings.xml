@@ -16,7 +16,7 @@
     <string name="calibrate_failed">การปรับเทียบล้มเหลว</string>
     <string name="calibrate_failed_no_location">ไม่สามารถปรับเทียบค่าได้</string>
     <string name="calibrate_failed_timeout">ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้</string>
-    <string name="calibrate_rotate_again">ลองใหม่อีกครั้ง</string>
+    <string name="calibrate_rotate_again">ลองอีกครั้ง</string>
     <string name="calibrate_success">ปรับเทียบแล้ว</string>
     <string name="calibrate_tip">ถือเครื่องไว้ในมือและจัดระดับลาดเอียงเพื่อให้ลูกบอลตกลงกลางรูที่กำหนด</string>
     <string name="calibrate_title">ปรับเทียบเข็มทิศ</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_calllog_detail">รายละเอียดประวัติการโทร</string>
     <string name="accessibility_contact_detail">รายละเอียดผู้ติดต่อ</string>
     <string name="account_container_title">นำเข้าจาก</string>
@@ -100,6 +101,7 @@
     <string name="call_sim_menu_title_suffix">(หลัก)</string>
     <string name="call_telex">โทรเทเล็กซ์</string>
     <string name="call_tty_tdd">โทร TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s     </string>
     <string name="call_unit">CNY</string>
     <string name="call_work">โทรเบอร์ที่ทำงาน</string>
     <string name="call_work_mobile">โทรมือถือที่ทำงาน</string>
@@ -490,6 +492,7 @@
     <string name="force_touch_miprofile">นามบัตร</string>
     <string name="force_touch_new_contact">รายชื่อใหม่</string>
     <string name="frequentList">ใช้บ่อย</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">ชื่อ</string>
     <string name="gallery">คลังภาพ</string>
     <string name="generic_no_account_prompt">รักษาข้อมูลรายชื่อให้ปลอดภัย หากคุณทำโทรศัพท์หาย: ซิงค์กับบริการออนไลน์</string>
@@ -553,7 +556,7 @@
     <string name="import_to_xiaomi_account_confirm">นำเข้า</string>
     <string name="import_to_xiaomi_account_progress_finish">นำเข้ารายชื่อผู้ติดต่อแล้ว</string>
     <string name="import_to_xiaomi_account_progress_message">กำลังนำเข้า…</string>
-    <string name="import_to_xiaomi_account_progress_title">นำเข้ารายชื่อไปยังบัญชี Xiaomi</string>
+    <string name="import_to_xiaomi_account_progress_title">นำเข้ารายชื่อไปยังบัญชี Mi</string>
     <string name="import_to_xiaomi_account_title">นำเข้าไปยังบัญชี Mi</string>
     <string name="import_vcard_description">นำเข้ารายชื่อจากที่จัดเก็บข้อมูลอุปกรณ์ของคุณ</string>
     <string name="import_vcard_dialog_message">นำเข้า vCard?</string>
@@ -652,6 +655,9 @@
     <string name="menu_set_ring_tone">ตั้งเสียงเรียกเข้า</string>
     <string name="menu_settings">การตั้งค่า</string>
     <string name="menu_share">แชร์</string>
+    <string name="menu_share_qrcode">รหัส QR</string>
+    <string name="menu_share_text">ข้อความ</string>
+    <string name="menu_share_vcard_file">ไฟล์</string>
     <string name="menu_show_all_calls">แสดงการโทรทั้งหมด</string>
     <string name="menu_show_voicemails_only">แสดงเฉพาะข้อความเสียง</string>
     <string name="menu_splitAggregate">แยกกัน</string>
@@ -670,12 +676,13 @@
     <string name="miprofile_contact_header">รายชื่อที่เพิ่มนามบัตรได้</string>
     <string name="miprofile_contact_meaasge">รายชื่อในเครื่อง</string>
     <string name="miprofile_contact_verifying">กำลังยืนยัน</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">แก้ไขข้อมูลส่วนตัว</string>
     <string name="miprofile_error_accept_self">ไม่สามารถแลกนามบัตรกับตนเองได้</string>
     <string name="miprofile_error_no_miaccount">ลงชื่อเข้าใช้บัญชี Mi ของคุณ</string>
     <string name="miprofile_error_not_opened">ปิดใช้งานนามบัตร</string>
     <string name="miprofile_error_not_set">คุณยังไม่ได้ซิงค์นามบัตรไปยังเซิร์ฟเวอร์</string>
-    <string name="miprofile_error_unknown">ขัดข้องที่ไม่ทราบสาเหตุ</string>
+    <string name="miprofile_error_unknown">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="miprofile_find_miprofile_title">เพิ่มเพื่อดูข้อมูลทั้งหมด</string>
     <string name="miprofile_find_profile_batch_add">เพิ่มทั้งหมด</string>
     <string name="miprofile_find_profile_batch_finish">เสร็จสิ้น</string>
@@ -766,7 +773,7 @@
 •สำรองข้อมูลรายชื่อผู้ติดต่อได้อย่างปลอดภัย"</string>
     <string name="no_contact_details">ไม่มีข้อมูลเพิ่มเติมสำหรับรายชื่อนี้</string>
     <string name="no_contact_in_other_phone">ไม่พบรายชื่อ</string>
-    <string name="no_contacts_dialog_message">รายชื่ออาจจัดเก็บอยู่ในซิมการ์ด ลองนำเข้ารายชื่อจากซิมการ์ดไปยังที่จัดเก็บภายในเครื่องก่อน แล้วลองใหม่อีกครั้ง</string>
+    <string name="no_contacts_dialog_message">รายชื่ออาจจัดเก็บอยู่ในซิมการ์ด ลองนำเข้ารายชื่อจากซิมการ์ดไปยังที่จัดเก็บภายในเครื่องก่อนแล้วลองอีกครั้ง</string>
     <string name="no_contacts_dialog_title">ไม่สามารถค้นหารายชื่อได้</string>
     <string name="no_contacts_selected">ไม่มีรายชื่อที่เลือก</string>
     <string name="no_sdcard_message">ไม่พบ SD การ์ด</string>
@@ -823,7 +830,10 @@
     <string name="path_wipe_data">แอประบบ/รายชื่อ/จัดการรายชื่อ/ล้างข้อมูล</string>
     <string name="payphone">โทรศัพท์สาธารณะ</string>
     <string name="people">รายชื่อ</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">โทรศัพท์</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">หมายเลขยาวเกินไป</string>
     <string name="phone_primary">หลัก</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพในเครื่อง</string>
@@ -1033,8 +1043,10 @@
     <string name="set_data_package">ตั้งค่าการใช้ข้อมูลก่อน</string>
     <string name="set_default">ตั้งเป็นค่าเริ่มต้น</string>
     <string name="set_photo_failed_msg">ไม่สามารถส่งรูปภาพได้</string>
+    <string name="share_contact_as">แชร์รายชื่อเป็น</string>
     <string name="share_error">ไม่สามารถแชร์รายชื่อนี้</string>
     <string name="share_over_limit">ไม่สามารถแชร์เกินกว่า 1000 รายชื่อได้</string>
+    <string name="share_qrcode">แชร์รหัส QR</string>
     <string name="share_via">ส่งโดยใช้</string>
     <string name="share_visible_contacts">แชร์รายชื่อ</string>
     <string name="shortcutActivityTitle">เลือกผู้ติดต่อที่จะตั้งปุ่มลัด</string>
@@ -1064,13 +1076,14 @@
     <string name="sim_error_password_error">รหัสผ่านไม่ถูกต้อง</string>
     <string name="sim_error_storage_full">พื้นที่จัดเก็บของซิมการ์ดเต็ม</string>
     <string name="sim_error_text_too_long">ชื่อยาวเกินไป</string>
-    <string name="sim_export_error">ไม่มีซิม ลองใหม่ในภายหลัง</string>
+    <string name="sim_export_error">ไม่มีซิม ลองอีกครั้งในภายหลัง</string>
     <string name="sim_export_loading">กำลังอ่านซิมการ์ด…</string>
     <string name="sim_indexed_contact_not_exist">ตำแหน่ง %1$d บนซิมการ์ดไม่ถูกต้อง ตำแหน่งต้องอยู่ระหว่าง %2$d และ %3$d</string>
     <string name="sim_no_contact">ไม่มีรายชื่อในซิมการ์ด</string>
     <string name="sim_unloaded">ซิมการ์ดไม่ได้ติดตั้ง</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">ไม่มีสมาชิกกลุ่ม</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">บริษัท</string>
     <string name="smart_group_company_unavailable">ไม่มีข้อมูลบริษัท</string>
     <string name="smart_group_frequency_1">ภายในเดือนที่ผ่านมา</string>
@@ -1205,6 +1218,7 @@
     <string name="voip_audio_description">โทรผ่านเน็ต</string>
     <string name="voip_video_description">วิดีโอคอลผ่านเน็ต</string>
     <string name="websiteLabelsGroup">เว็บไซต์</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">ล้างข้อมูล</string>
     <string name="yellowPageNavigationIconLabel">สมุดหน้าเหลือง</string>
     <string name="yellowPageNavigationLabel">สมุดหน้าเหลือง</string>

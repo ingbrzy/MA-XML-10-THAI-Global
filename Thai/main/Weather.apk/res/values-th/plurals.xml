@@ -27,6 +27,18 @@
     <plurals name="total_voted_num_text">
         <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> คนโหวต"</item>
     </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">อุณหภูมิสูงสุด: %1$s องศาเซลเซียส</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">อุณหภูมิสูงสุด: %1$s องศาฟาเรนไฮต์</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">อุณหภูมิต่ำสุด: %1$s องศาเซลเซียส</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">อุณหภูมิต่ำสุด: %1$s องศาฟาเรนไฮต์</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">แจ่มใส</item>
     </plurals>

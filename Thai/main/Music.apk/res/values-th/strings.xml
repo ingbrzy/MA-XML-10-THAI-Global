@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="April">เมษายน</string>
+    <string name="August">สิงหาคม</string>
+    <string name="December">ธันวาคม</string>
+    <string name="February">กุมภาพันธ์</string>
+    <string name="January">มกราคม</string>
+    <string name="July">กรกฎาคม</string>
+    <string name="June">มิถุนายน</string>
+    <string name="March">มีนาคม</string>
+    <string name="May">พฤษภาคม</string>
+    <string name="November">พฤศจิกายน</string>
+    <string name="October">ตุลาคม</string>
+    <string name="September">กันยายน</string>
+    <string name="Updated_at">"อัพเดตเมื่อ:  "</string>
     <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
     <string name="abc_action_bar_up_description">นำทางขึ้น</string>
     <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
@@ -88,6 +101,7 @@
     <string name="available_playlist_name_format">รายการเพลงใหม่ %d</string>
     <string name="avoid_to_use_traffic_summary">ห้ามใช้เครือข่ายมือถือในการเรียกฟังเพลง</string>
     <string name="avoid_to_use_traffic_title">สอบถามก่อนเมื่อใช้งานข้อมูลมือถือเพื่อเล่นเพลง</string>
+    <string name="back">ย้อนกลับ</string>
     <string name="back_confirm">แตะอีกครั้งเพื่อเล่นแอปบนพื้นหลังแทน</string>
     <string name="bluetooth_device">อุปกรณ์เสียงบลูทูธ</string>
     <string name="buffering">กำลังบัฟเฟอร์…</string>
@@ -168,7 +182,7 @@
     <string name="dialog_queued_body">ไฟล์นี้อยู่ในรายการดาวน์โหลดแล้ว</string>
     <string name="dialog_renew_failure">ขออภัย การดำเนินการล้มเหลว</string>
     <string name="dialog_renew_free_end">ช่วงทดลองฟรีหมดแล้ว ติดตาม Hungama PRO หรือไม่?</string>
-    <string name="dialog_renew_positive_text">ใช่ ฉันอยากเจ๋งเหมือนมือโปร</string>
+    <string name="dialog_renew_positive_text">ใช่ ฉันอยากเจ๋งเหมือน PRO</string>
     <string name="dialog_renew_success">ขอบคุณสำหรับการยืนยันของคุณ</string>
     <string name="dialog_song_sort_type">เรียงลำดับเพลง</string>
     <string name="dialog_song_sort_type_name">โดยชื่อ</string>
@@ -222,6 +236,7 @@
     <string name="download_method">ดาวน์โหลด</string>
     <string name="download_no_application_title">ไม่สามารถเปิดไฟล์ได้</string>
     <string name="download_paused_in_power_save_mode">การดาวน์โหลดจะถูกหยุดขณะอยู่ในโหมดประหยัดแบตเตอรี่</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">กำลังดาวน์โหลด…</string>
     <string name="download_quality">คุณภาพการดาวน์โหลด</string>
     <string name="download_quality_summary">การตั้งค่าเพิ่มเติมสำหรับเพลงที่ดาวน์โหลด</string>
@@ -301,7 +316,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -356,9 +373,12 @@
     <string name="higher_quality_music_summary">รับฟังและดาวน์โหลดเพลงที่มีบิตเรทสูงกว่า</string>
     <string name="home_tab_local">เพลงของฉัน</string>
     <string name="home_tab_online">เพลงออนไลน์</string>
-    <string name="hot_icon_in_fast_indexer">ฮ้อต</string>
+    <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">เฉพาะสมาชิกแบบ PRO เท่านั้นที่สามารถดาวน์โหลดได้หลายเพลง จะสมัครเป็นสมาชิกแบบ PRO ตอนนี้หรือไม่?</string>
     <string name="hungama_free_download_out_summary">คุณไม่สามารถดาวน์โหลดเพลงฟรีเพิ่มเติมได้ จะสมัครเป็นสมาชิกแบบ PRO เพื่อดาวน์โหลดเพลงไม่จำกัดจำนวนหรือไม่?</string>
+    <string name="hungama_privacy_desc">นโยบายความเป็นส่วนตัว Hungama (ตัวเลือก)</string>
+    <string name="hungama_privacy_tips_content">ในการเข้าถึงเนื้อหาออนไลน์ คุณต้องยอมรับใน <a href="/link/click">นโยบายความเป็นส่วนตัวของ Hungama</a></string>
+    <string name="hungama_privacy_tips_title">นโยบายความเป็นส่วนตัว Hungama</string>
     <string name="hungama_subscribe_message">ซื้อสมาชิก PRO เพื่อดาวน์โหลดเพลงคุณภาพสูง</string>
     <string name="hungama_subscribe_positive_button">ซื้อสมาชิก PRO</string>
     <string name="hungama_subscribe_title">สมาชิก PRO</string>
@@ -498,14 +518,29 @@
     <string name="nowplaying_dialog_title_delete_tracks">ลบเพลงนี้ออกจากคิว?</string>
     <string name="nowplaying_menu_item_delete">ลบออกจากคิว</string>
     <string name="ok">ตกลง</string>
+    <string name="online_apk_acquired">โหลดแล้ว %d%%</string>
+    <string name="online_apk_acquiring">กำลังโหลด… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">ดาวน์โหลดไม่ได้เนื่องจากพื้นที่จัดเก็บไม่เพียงพอ</string>
     <string name="online_apk_downloading">กำลังดาวน์โหลด…%d%%</string>
     <string name="online_apk_install_alert_confirm">ดาวน์โหลด</string>
+    <string name="online_apk_install_alert_continue">ทำต่อ</string>
+    <string name="online_apk_install_alert_failed_text">ไม่สามารถดาวน์โหลดได้ ลองอีกครั้ง</string>
     <string name="online_apk_install_alert_message">คุณต้องดาวน์โหลดปลั๊กอิน Yandex.Music ดาวน์โหลดตอนนี้?</string>
+    <string name="online_apk_install_alert_mobile_net_text">คุณกำลังใช้ข้อมูลมือถือในขณะนี้ การใช้ข้อมูลมือถือเพื่อดาวน์โหลดรายการอาจมีค่าธรรมเนียมเพิ่มเติม</string>
     <string name="online_apk_install_alert_note">ให้บริการโดย Yandex.Music</string>
+    <string name="online_apk_install_alert_note_new">เนื้อหาออนไลน์ให้บริการโดย %s</string>
+    <string name="online_apk_install_alert_pause">พัก</string>
+    <string name="online_apk_install_alert_retry">ลองอีกครั้ง</string>
+    <string name="online_apk_install_alert_start">เริ่ม</string>
+    <string name="online_apk_install_completed">โหลดเนื้อหาออนไลน์สำเร็จแล้ว แตะ %s เพื่อดู</string>
     <string name="online_apk_install_error_no_enough_space">ติดตั้งไม่ได้เนื่องจากพื้นที่จัดเก็บไม่เพียงพอ</string>
     <string name="online_apk_install_error_with_reason">ติดตั้งไม่ได้ (ข้อผิดพลาด %d)</string>
+    <string name="online_apk_install_failed_with_reason" formatted="false">ไม่สามารถโหลดเนื้อหาออนไลน์ แตะ%sเพื่อลองอีกครั้ง รหัสข้อผิดพลาด: %d</string>
+    <string name="online_apk_install_in_background">กำลังโหลดเนื้อหาออนไลน์ในพื้นหลัง…</string>
+    <string name="online_apk_install_network_change_paused">คุณกำลังใช้ข้อมูลมือถือ พักการโหลดรายการสำหรับตอนนี้ แตะ%sเพื่อดู</string>
+    <string name="online_apk_install_network_error">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง</string>
     <string name="online_list_delete_message">เพลงที่ดาวน์โหลดทั้งหมดในรายการเพลงนี้จะถูกลบออกจากที่จัดเก็บข้อมูลภายใน</string>
+    <string name="online_playlist_category">เพลย์ลิสต์</string>
     <string name="online_recommend">รายการเพลง</string>
     <string name="online_service_open_tip">บริการเพลงออนไลน์เปิดอยู่</string>
     <string name="online_service_title">บริการออนไลน์</string>
@@ -560,8 +595,9 @@
     <string name="priority_storage_summary">ดาวน์โหลดเก็บไว้ใน SD การ์ดภายนอกโดยอัตโนมัติถ้ามี</string>
     <string name="privacy_desc">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=th_TH</string>
     <string name="pro_member">สมาชิก PRO</string>
-    <string name="project_device">Mi Phone</string>
+    <string name="project_device">โทรศัพท์ Mi</string>
     <string name="prompt_grant_write_settings_permission">อนุญาตให้มีการเปลี่ยนแปลงการตั้งค่าระบบ</string>
     <string name="pulluprefreshrecyclerview_loading_error">ไม่สามารถโหลดได้</string>
     <string name="pulluprefreshrecyclerview_loading_finished">โหลดเรียบร้อยแล้ว</string>
@@ -580,7 +616,7 @@
     <string name="request_subscription_status">รอสักครู่…</string>
     <string name="restart_immediate">รีสตาร์ท</string>
     <string name="retry">ลองอีกครั้ง</string>
-    <string name="retry_after_network_available">เชื่อมต่อเครือข่ายไม่ได้้ กรุณาตรวจสอบการเชื่อมต่อแล้วลองใหม่</string>
+    <string name="retry_after_network_available">เชื่อมต่อเครือข่ายไม่ได้้ กรุณาตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง</string>
     <string name="retry_download">ลองอีกครั้ง</string>
     <string name="ringtone_not_support">ระบบไม่รองรับประเภทไฟล์ของเพลงนี้</string>
     <string name="root_downloads">ดาวน์โหลด</string>
@@ -594,6 +630,8 @@
     <string name="save_changes">บันทึกการเปลี่ยนแปลง</string>
     <string name="search_album_and_lyric">ค้นหาปกอัลบั้มและเนื้อเพลง</string>
     <string name="search_empty">ไม่พบผลการค้นหาไดๆ</string>
+    <string name="search_empty_subtitle_online_music">แตะปุ่มด้านล่างเพื่อเปิด %s</string>
+    <string name="search_empty_title_online_music">ยังไม่มีรายการ</string>
     <string name="search_for_album">อัลบั้ม</string>
     <string name="search_for_artist">ศิลปิน</string>
     <string name="search_hint">ค้นหาศิลปิน เพลง อัลบั้มและข้อเสนอแนะ</string>
@@ -660,6 +698,7 @@
     <string name="start_to_check_new_version">กำลังตรวจสอบเพื่ออัพเดต…</string>
     <string name="start_to_download">กำลังดาวน์โหลด…</string>
     <string name="start_to_play">เล่น</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_internal">ที่จัดเก็บภายใน</string>
     <string name="storage_sd_card">SD การ์ด</string>
     <string name="storage_usb">ที่จัดเก็บข้อมูล USB</string>
@@ -712,6 +751,8 @@
     <string name="toast_not_pro">คุณลักษณะนี้พร้อมใช้งานเฉพาะสมาชิก PRO เท่านั้น</string>
     <string name="toast_uhd_songs_for_download">ตั้งเป็นดาวน์โหลดคุณภาพสูง</string>
     <string name="toast_uhd_songs_for_stream">ตั้งเป็นสตรีมคุณภาพสูง</string>
+    <string name="today">วันนี้</string>
+    <string name="top_chart_title">อันดับเพลง</string>
     <string name="ultra_high_quality">สูงสุด</string>
     <string name="unknown_album_name">อัลบั้มที่ไม่รู้จัก</string>
     <string name="unknown_artist_name">ไม่ทราบชื่อศิลปิน</string>
@@ -722,10 +763,11 @@
     <string name="upgrade_music_message">ไฟล์อัพเดทพร้อมแล้ว รีสตาร์ทเพื่ออัพเดท</string>
     <string name="upgrading_in_backstage">กำลังอัปเดตในพื้นหลัง…</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=th_TH</string>
     <string name="version_info">เวอร์ชั่น</string>
     <string name="video_play_cellular">อุปกรณ์ของคุณไม่ได้เชื่อมต่อกับ Wi-fi ใช้ข้อมูลมือถือหรือไม่?</string>
     <string name="video_replay_btn">เล่นอีกครั้ง</string>
-    <string name="video_retry_btn">ลองใหม่</string>
+    <string name="video_retry_btn">ลองอีกครั้ง</string>
     <string name="view_album">ดูอัลบั้ม</string>
     <string name="vip_required">รับแพ็คเพลงระดับพรีเมี่ยมเพื่อฟังเพลงนี้ ข้ามเพลงตอนนี้</string>
     <string name="vip_required_with_song">%sมีให้สำหรับสมาชิกแบบ PRO เท่านั้น ข้ามเพลงนี้ไปในตอนนี้</string>

@@ -56,6 +56,7 @@
     <string name="terms_of_use_label_systemhelper">, บริการลงทะเบียนด้วยตนเอง</string>
     <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
+    <string name="terms_of_use_label_updater">, ตัวอัพเดท</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ Facemoji ก่อนที่จะใช้คุณลักษณะนี้"</string>
