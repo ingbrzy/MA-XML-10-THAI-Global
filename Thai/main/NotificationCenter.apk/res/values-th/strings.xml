@@ -29,7 +29,6 @@
     <string name="off">ปิด</string>
     <string name="on">เปิด</string>
     <string name="show_badge_notifications">สัญลักษณ์แจ้งเตือน</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_disable_float_notification">ไม่อนุญาตให้ใช้หน้าต่างแจ้งเตือน</string>
     <string name="summary_disable_lockscreen_notification">ไม่อนุญาตให้ใช้การแจ้งเตือนหน้าจอล็อก</string>
     <string name="summary_disable_show_badge_notification">ไม่อนุญาตให้ใช้สัญลักษณ์แจ้งเตือน</string>
