@@ -2431,7 +2431,6 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="gesture_prevent_ringing_title">กดปุ่มเปิด/ปิดและปุ่มเพิ่มระดับเสียงพร้อมกัน</string>
     <string name="gesture_setting_off">ปิด</string>
     <string name="gesture_setting_on">เปิด</string>
-    <string name="gesture_wakeup_title">แตะหน้าจอสองครั้งติดกันเพื่อปลุกหน้าจอ</string>
     <string name="giga_hertz">GHz</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_change_warning">การตั้งค่านี้จะส่งผลต่อผู้ใช้ทั้งหมดในโทรศัพท์นี้</string>
