@@ -39,7 +39,7 @@
     <string name="app_already_exist">มีแอปนี้อยู่ในเครื่องแล้ว</string>
     <string name="app_being_backup_message">ระบบกำลังสำรองข้อมูลแอป</string>
     <string name="app_being_restored_message">กำลังเรียกคืนค่าแอป</string>
-    <string name="app_category_books">กำลังอ่าน</string>
+    <string name="app_category_books">หนังสือ</string>
     <string name="app_category_education">การศึกษา</string>
     <string name="app_category_entertainment">บันเทิง</string>
     <string name="app_category_finance">การเงิน</string>
@@ -49,7 +49,7 @@
     <string name="app_category_music_movie">ทีวี &amp; เพลง</string>
     <string name="app_category_news">ข่าว</string>
     <string name="app_category_photos">รูปถ่าย</string>
-    <string name="app_category_productivity">ผลิตภาพ</string>
+    <string name="app_category_productivity">การทำงาน</string>
     <string name="app_category_shopping">ช้อปปิ้ง</string>
     <string name="app_category_social">โซเชียล</string>
     <string name="app_category_sport">กีฬา</string>
@@ -97,7 +97,7 @@
     <string name="default_folder_title_game">เกมส์</string>
     <string name="default_folder_title_meitu">แอป Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
-    <string name="default_folder_title_recommend">แอปเพิ่มเติม</string>
+    <string name="default_folder_title_recommend">แอปแนะนำ</string>
     <string name="default_folder_title_security">ระบบ</string>
     <string name="default_folder_title_services">บริการ</string>
     <string name="default_folder_title_telcel">Telcel</string>
@@ -193,7 +193,7 @@
     <string name="guide_install_app_msg">แอปนี้ยังไม่ได้ติดตั้งบนเครื่อง ต้องการค้นหาและติดตั้งแอปตอนนี้หรือไม่?</string>
     <string name="guide_install_app_title">ต้องการค้นหาและติดตั้งแอปหรือไม่?</string>
     <string name="guide_tips_editing_mode">แตะ &amp; ค้างไว้เพื่อเลือกวิดเจ็ต</string>
-    <string name="home_gesture_content_center">ศูนย์เนื้อหา</string>
+    <string name="home_gesture_content_center">ศูนย์รวมเนื้อหา</string>
     <string name="home_gesture_global_search">ค้นหา</string>
     <string name="home_gesture_no_action">ไม่มี</string>
     <string name="home_gesture_notification_bar">การแจ้งเตือน</string>
