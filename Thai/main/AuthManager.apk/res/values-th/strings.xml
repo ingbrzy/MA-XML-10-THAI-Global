@@ -67,8 +67,8 @@
     <string name="HIPS_Perm_process_nfc_Desc">เข้าถึงฮาร์ดแวร์สื่อสารไร้สายระยะสั้น (NFC)</string>
     <string name="HIPS_Perm_install_shortcut">ปุ่มลัดบนหน้าจอหลัก</string>
     <string name="HIPS_Perm_install_shortcut_Desc">เพิ่มปุ่มลัดบนหน้าจอหลัก</string>
-    <string name="HIPS_Perm_read_notification_sms">ข้อความ SMS บริการ</string>
-    <string name="HIPS_Perm_read_notification_sms_Desc">อ่านข้อความ SMS บริการ</string>
+    <string name="HIPS_Perm_read_notification_sms">ข้อความ บริการ SMS</string>
+    <string name="HIPS_Perm_read_notification_sms_Desc">อ่านข้อความ บริการ SMS</string>
     <string name="HIPS_Perm_get_tasks">รับงาน</string>
     <string name="HIPS_Perm_get_tasks_Desc">รับงาน</string>
     <string name="HIPS_Perm_show_when_locked">แสดงบนหน้าจอล็อก</string>
@@ -88,7 +88,7 @@
     <string name="permission_group_title_media_related">มัลติมีเดีย</string>
     <string name="permission_group_title_settings_related">การตั้งค่า</string>
     <string name="ok">ตกลง</string>
-    <string name="default_permission_description">ดำเนินการที่ไม่รู้จัก</string>
+    <string name="default_permission_description">การดำเนินการที่ไม่รู้จัก</string>
     <string name="location_settings">การตั้งค่าตำแหน่ง</string>
     <string name="location_warning">%1$s เป็นผู้ให้บริการการระบุตำแหน่งพิกัดสำหรับอุปกรณ์นี้ การเข้าถึงสถานที่ตั้งสามารถแก้ไขได้จากการตั้งค่าตำแหน่งพิกัด</string>
     <string name="permission_warning_template">อนุญาต %1$s ให้%2$s?</string>
