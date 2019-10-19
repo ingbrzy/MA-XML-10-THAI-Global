@@ -51,12 +51,13 @@
     <string name="accessibility_repeats">ทำซ้ำ</string>
     <string name="accessibility_sync_cal">ซิงค์ปฏิทิน</string>
     <string name="account_and_calendar">บัญชี</string>
-    <string name="action_bar_date_button_title">วันที่คำนวณ</string>
     <string name="action_bar_return">ย้อนกลับ</string>
     <string name="action_text_card_manager">ช่อง</string>
     <string name="add_anniversary">เพิ่มครบรอบวันสำคัญ</string>
     <string name="add_countdown">เพิ่มการนับถอยหลัง</string>
     <string name="add_event">เพิ่มกำหนดการ</string>
+    <string name="add_holiday_desc">เพิ่มวันหยุดที่นี่</string>
+    <string name="add_holiday_title">เพิ่มวันหยุด</string>
     <string name="agenda_month_empty_hint">ไม่มีกิจกรรมในวันนี้</string>
     <string name="agenda_tomorrow">พรุ่งนี้ %1$s</string>
     <string name="agenda_view">กิจกรรม</string>
@@ -93,7 +94,7 @@
     <string name="can_not_modify_event">ไม่สามารถเปลี่ยนกำหนดการได้</string>
     <string name="can_not_modify_repeating_acrossing_days_event">ไม่สามารถเปลี่ยนกำหนดการหลายวันได้</string>
     <string name="cancel_reminder">ยกเลิกการเตือน</string>
-    <string name="card_detail_dialog_message">%1$s จะอัปเดททุกๆวัน สมัครเพื่อรับการอัพเดตรายวัน</string>
+    <string name="card_detail_dialog_message">%1$s จะอัปเดตทุกๆวัน สมัครเพื่อรับการอัปเดตรายวัน</string>
     <string name="card_detail_dialog_negative">สมัครในภายหลัง</string>
     <string name="card_detail_dialog_positive">สมัครทันที</string>
     <string name="card_detail_dialog_title">สมัครทันที?</string>
@@ -104,6 +105,7 @@
     <string name="cards_language_hint">บัตรบางอย่างอาจไม่สามารถใช้ได้ในภาษาที่เลือก</string>
     <string name="change_response_title">เปลี่ยนการตอบสนอง</string>
     <string name="change_zodiac">เปลี่ยนราศี</string>
+    <string name="choose_your_holidays">เลือกวันหยุด</string>
     <string name="click_to_share">แตะเพื่อแชร์</string>
     <string name="close_alarm">ปิดใช้งาน</string>
     <string name="contacts_permission_desc">เข้าถึงข้อมูลรายชื่อ</string>
@@ -116,6 +118,7 @@
 
 • เข้าถึงได้จากเว็บเบราเซอร์ใดก็ได้ 
 • สำรองข้อมูลกิจกรรมของคุณอย่างปลอดภัย"</string>
+    <string name="create_kundli">สร้าง Kundli</string>
     <string name="creating_event">สร้างกิจกรรมแล้ว</string>
     <string name="creating_event_with_guest">กำลังส่งคำเชิญ…</string>
     <string name="daily">ทุกวัน</string>
@@ -136,6 +139,7 @@
     <string name="date_interval_text_to">ถึง %1$s</string>
     <string name="date_jump_hint">ข้ามไปที่วันใดวันหนึ่ง</string>
     <string name="date_jump_title">ระบุวัน</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (วันนี้)"</string>
     <string name="day_view_new_event_hint">กำหนดการใหม่</string>
     <string name="default_reminder_mode">การเตือนกำหนดการ</string>
@@ -176,6 +180,7 @@
     <string name="edit_event_tab_countdown">นับถอยหลัง</string>
     <string name="edit_event_tab_event">กำหนดการ</string>
     <string name="edit_event_to_label">ถึง</string>
+    <string name="edit_your_long_holidays">แก้ไขวันหยุด</string>
     <string name="email_guests_label">ส่งอีเมลถึงแขก</string>
     <string name="email_install_hint">จดหมายถูกถอนการติดตั้งแล้ว กรุณาติดตั้งจดหมายอีกครั้งเพื่อเรียกคืนค่าบัญชีปฏิทินหรือเพิ่มใหม่</string>
     <string name="email_picker_label">อีเมลกับ</string>
@@ -204,6 +209,12 @@
     <string name="event_view">เรียกดูกิจกรรม</string>
     <string name="every_weekday">วันทำการ (จันทร์–ศุกร์)</string>
     <string name="fb_birthday_failure">ไม่สามารถนำเข้าวันเกิดจาก Facebook ได้ ลองอีกครั้ง</string>
+    <string name="fb_birthday_import_pref_desc">นำเข้าวันเกิดเพื่อนๆจาก Facebook</string>
+    <string name="fb_birthday_import_pref_title">นำเข้าตอนนี้</string>
+    <string name="fb_birthday_logout_failure">คุณยังไม่ได้เพิ่มบัญชี Facebook ของคุณ</string>
+    <string name="fb_birthday_logout_pref_desc">ลบบัญชี Facebook รวมไปถึงวันเกิดเพื่อนๆ</string>
+    <string name="fb_birthday_logout_pref_title">ลบบัญชี Facebook</string>
+    <string name="fb_birthday_logout_success">ลบบัญชี Facebook สำเร็จแล้ว</string>
     <string name="fb_birthday_region_warning">คุณลักษณะนี้ไม่สามารถใช้ได้ในพื้นที่ของคุณ</string>
     <string name="fb_birthday_success">นำเข้าวันเกิดจาก Facebook สำเร็จแล้ว</string>
     <string name="fb_calendar_account_name">Mi ปฎิทินท้องถิ่น</string>
@@ -212,6 +223,7 @@
     <string name="festival_detail_title">เทศกาล</string>
     <string name="file_exception">เกิดข้อผิดพลาด</string>
     <string name="fixtures">ตารางการแข่ง</string>
+    <string name="fourth_saturday_holiday">ทุกวันเสาร์ที่สองและสี่คือวันหยุด</string>
     <string name="from_google_group_calendar">ปฏิทิน Google</string>
     <string name="gadget_no_events">ไม่มีกิจกรรมในปฏิทินที่กำลังจะเกิดขึ้น</string>
     <string name="gadget_title">ปฏิทิน</string>
@@ -226,6 +238,10 @@
     <string name="greetingcard_end_of_page">นั่นคือทั้งหมดสำหรับวันนี้ กลับมาใหม่พรุ่งนี้!</string>
     <string name="greetingcard_notification_desc">ตรวจสอบสถานะล่าสุด</string>
     <string name="greetingcard_notification_title">ฟีดข้อมูลประจำวันของคุณพร้อมแล้ว</string>
+    <string name="greetingcard_reminder_dialog_message">อนุญาตให้ปฏิทินส่งการแจ้งเตือนรายวันเกี่ยวกับคำทักทายและสถานะให้คุณหรือไม่?</string>
+    <string name="greetingcard_reminder_dialog_negative">ไม่ ขอบคุณ</string>
+    <string name="greetingcard_reminder_dialog_positive">อนุญาต</string>
+    <string name="greetingcard_reminder_dialog_title">รับการแจ้งเตือน</string>
     <string name="greetingcard_reminder_disabled_status">คุณจะไม่ได้รับการแจ้งเตือนรายวันเกี่ยวกับสถานะ WhatsApp</string>
     <string name="greetingcard_reminder_disabled_text">เปิดใช้งานเตือนความจำ</string>
     <string name="greetingcard_reminder_enabled_status">คุณจะได้รับการแจ้งเตือนรายวันเกี่ยวกับสถานะ WhatsApp</string>
@@ -246,7 +262,14 @@
     <string name="hint_what">ชื่อกำหนดการ</string>
     <string name="hint_where">ตำแหน่งพิกัดพิกัด</string>
     <string name="holiday_card_title">ในวันนี้</string>
+    <string name="holiday_date">วันที่</string>
+    <string name="holiday_date_title">วันที่วันหยุด</string>
     <string name="holiday_detail_read_more">เพิ่มเติม</string>
+    <string name="holiday_name">ชื่อวันหยุด</string>
+    <string name="holiday_name_empty">ชื่อวันหยุดต้องไม่เว้นว่าง</string>
+    <string name="holiday_name_exists">วันหยุดนี้มีอยู่แล้ว</string>
+    <string name="holiday_saved">บันทึกสำเร็จแล้ว</string>
+    <string name="holidays_title">วันหยุด</string>
     <string name="horoscope_select_activity_label">เลือกสัญลักษณ์ราศี</string>
     <string name="image_processing">"ภาพ ' ยังไม่พร้อม"</string>
     <string name="import_action">นำเข้า</string>
@@ -268,9 +291,21 @@
     <string name="loading">รอสักครู่…</string>
     <string name="local_calendar_display_name">ปฎิทินในเครื่อง</string>
     <string name="local_owner_account_name">บันทึกไว้ในเครื่องแล้ว</string>
+    <string name="long_holiday_date_place_holder">dd MMMM</string>
+    <string name="long_holiday_dates">เริ่มจาก %1$s</string>
+    <string name="long_holiday_month_off">วันหยุดประจำเดือน</string>
+    <string name="long_holiday_week_off">วันหยุดประจำสัปดาห์</string>
     <string name="lunar_date">วันทางจันทรคติ</string>
+    <string name="manage_holidays">จัดการวันหยุด</string>
+    <string name="manage_title">จัดการ</string>
     <string name="match_finished">ไม่สามารถตั้งการเตือนความจำสำหรับเกมต่อเนื่องและเกมที่แล้วเสร็จ</string>
     <string name="match_select_activity_label">ลีก</string>
+    <string name="match_zodiac">จับคู่จักรราศี</string>
+    <string name="menstruation_card_default_title">ไม่มีบันทึกการมีประจำเดือน</string>
+    <string name="menstruation_card_error_sub_title">ปิดปฏิทินและเปิดอีกครั้ง</string>
+    <string name="menstruation_card_error_title">ไม่สามารถรับข้อมูลได้</string>
+    <string name="menstruation_card_private_mode_sub_title">โหมดส่วนตัว</string>
+    <string name="menstruation_card_private_mode_title">รอบประจำเดือน ****</string>
     <string name="menu_general_preferences">ทั่วไป</string>
     <string name="menu_reminder_preferences">การเตือน</string>
     <string name="missing_name">(ไม่มีชื่อ)</string>
@@ -299,7 +334,9 @@
     <string name="news">ข่าว</string>
     <string name="no_contact_birthday_hint">ไม่พบวันเกิดที่จะนำเข้า</string>
     <string name="no_events_hint">ไม่มีกิจกรรม</string>
+    <string name="no_holiday_selected">ไม่ได้เลือกวันหยุด</string>
     <string name="no_internet">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
+    <string name="no_long_holidays">ไม่มีวันหยุดยาวที่กำลังมาถึง</string>
     <string name="no_network">"ไม่สามารถเชื่อมต่อเครือข่ายได้ 
 กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง"</string>
     <string name="no_network_btn">ลองอีกครั้ง</string>
@@ -308,6 +345,7 @@
     <string name="no_visiable_calendar_message">คุณจำเป็นต้องเพิ่มบัญชีปฏิทิน แตะที่ \"เพิ่มบัญชี\" เพื่อดำเนินการต่อ</string>
     <string name="no_visiable_calendar_select_account">เพิ่มบัญชี</string>
     <string name="no_visiable_calendar_title">เพิ่มบัญชี</string>
+    <string name="not_more_than_three_weekday">คุณสามารถเลือกได้มากสุด 3 วัน</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">แจ้งเตือนของปฏิทิน</string>
     <string name="panchang_amanta">อามาวาสยันตะ</string>
@@ -325,12 +363,14 @@
     <string name="panchang_ritu">ริทู</string>
     <string name="panchang_shaka_samvat">ชากา สัมวัต</string>
     <string name="panchang_sun_sign">สุริยคติ</string>
+    <string name="panchang_till_time">จนถึง %1$s</string>
     <string name="panchang_tithi">ทิธิ</string>
     <string name="panchang_to"> ถึง </string>
     <string name="panchang_upto"> จนถึง </string>
     <string name="panchang_vikram_samvat">วิคราม สัมวัต</string>
     <string name="panchang_yamaghanta">ยามากหานตา</string>
     <string name="panchang_yog">ยอก</string>
+    <string name="partner_compatibility">ความเข้ากันได้ของคนรัก</string>
     <string name="path_calendar_settings">แอประบบ/ปฏิทิน/การตั้งค่า</string>
     <string name="prefDialogTitle_vibrateWhen">สั่นเตือน</string>
     <string name="pref_reminder_time">เวลาที่แจ้งเตือน</string>
@@ -385,11 +425,13 @@
     <string name="response_no">ไม่</string>
     <string name="response_yes">ใช่</string>
     <string name="rest_day_indication">: )</string>
+    <string name="saturday_click_disabled">ทุกวันเสาร์ที่สองและสี่คือวันหยุดแล้วตอนนี้</string>
     <string name="saving_event">บันทึกกิจกรรม</string>
     <string name="saving_event_with_guest">กำลังส่งอัปเดต…</string>
     <string name="search_calendar">วันที่;สุริยคติ;จันทรคติ;ปฏิทินประจำปี;ฟอร์จูน;หัวเรื่อง;การประชุม;แจ้งเตือน;การหยุดงาน;วันหยุด;วันเกิด;2016; 2017;เทศกาลฤดูใบไม้ผลิ;วันปีใหม่;วันแรงงานโลก;เทศกาลไหว้พระจันทร์</string>
     <string name="search_calendar_edit_event">ประชุม;เตือนความจำ;หัวเรื่อง</string>
     <string name="search_calendar_settings">ปฏิทิน;หัวเรื่อง;เตือนความจำ</string>
+    <string name="second_saturday_holiday">ทุกวันเสาร์ที่สองคือวันหยุด</string>
     <string name="select_date">ระบุวัน</string>
     <string name="set_reminder">ตั้งการเตือน</string>
     <string name="setting_about_calendar_version">เวอร์ชั่นปฏิทิน:</string>
@@ -398,6 +440,7 @@
     <string name="setting_about_summary">เวอร์ชั่น:</string>
     <string name="setting_accounts">บัญชีปฏิทิน</string>
     <string name="setting_change_language">เลือกภาษาของปฏิทิน</string>
+    <string name="setting_desc_import_todo">นำเข้างานที่กำหนดเวลาจาก Notes</string>
     <string name="setting_fb_birthdays_title">นำเข้าวันเกิดจาก Facebook</string>
     <string name="setting_features_title">การตั้งค่าคุณลักษณะ</string>
     <string name="setting_holiday_display_desc">การ์ดวันหยุดจะอยู่ด้านล่างกำหนดการของคุณในหน้าแรก</string>
@@ -405,12 +448,18 @@
     <string name="setting_others">เพิ่มเติม</string>
     <string name="setting_title_about">เกี่ยวกับ</string>
     <string name="setting_title_holiday_display">แสดงวันหยุด</string>
+    <string name="setting_title_import_todo">นำเข้างาน</string>
     <string name="setting_title_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="settings_show_long_holiday">วันหยุดยาว</string>
+    <string name="settings_show_long_holiday_description">วางแผนวันหยุดของคุณล่วงหน้า</string>
+    <string name="settings_show_p_tracker">แสดงข้อมูลการมีประจำเดือน</string>
+    <string name="settings_show_p_tracker_description">ติดตามรอบประจำเดือนของคุณ</string>
     <string name="share_image">แชร์</string>
     <string name="share_image_label">แชร์ผ่าน</string>
     <string name="share_title">แชร์</string>
     <string name="show_day_view">แสดงวัน</string>
     <string name="show_indic_date_summary">ปฏิทินอินเดียจะใช้ได้เมื่อใดภาษาหนึ่งของอินเดียถูกกำหนดให้เป็นภาษาของระบบของคุณ</string>
+    <string name="single_selected_holiday">%1$s เป็นวันหยุด</string>
     <string name="start_date_calculate">คำนวณ</string>
     <string name="storage_permission_denied">อนุญาตการเข้าถึงที่เก็บข้อมูลก่อน</string>
     <string name="subscribe_card">สมัครทันที</string>
@@ -432,11 +481,16 @@
     <string name="talk_back_read_date">%1$s (%2$s ตามปฏิทินจันทรคติ)</string>
     <string name="talk_back_setting">การตั้งค่า</string>
     <string name="template_announce_item_index">กิจกรรม %1$s ของ %2$s.</string>
+    <string name="three_selected_holiday">%1$s, %2$s และ %3$s เป็นวันหยุด</string>
     <string name="time_zone">เขตเวลา</string>
     <string name="timezone_label">โซนเวลา</string>
+    <string name="title_p_tracker">ประจำเดือน</string>
     <string name="today">วันนี้</string>
     <string name="today_at_time_fmt">วันนี้ %s</string>
     <string name="today_no_events">ไม่มีกำหนดการ</string>
+    <string name="todays_panchang_title">Panchang ของวันนี้</string>
+    <string name="todo_audio_event">"[งานเสียง] "</string>
+    <string name="todo_event">งานที่กำลังมาถึง</string>
     <string name="tomorrow">พรุ่งนี้</string>
     <string name="tomorrow_at_time_fmt">พรุ่งนี้ %s</string>
     <string name="too_long_content">เนื้อหายาวเกินไป</string>
@@ -463,6 +517,7 @@
     <string name="travel_seat_number_text">ที่นั่ง</string>
     <string name="travel_train_number_text">รถไฟ</string>
     <string name="travel_train_station">สถานีรถไฟ</string>
+    <string name="two_selected_holiday">%1$s และ %2$s เป็นวันหยุด</string>
     <string name="unsubscribe_card">ยกเลิกการสมัคร</string>
     <string name="unsubscribe_card_success">ยกเลิกการสมัครจาก“%1$s”เรียบร้อยแล้ว</string>
     <string name="unsubscribing_card">ยกเลิกการสมัครแล้ว</string>
@@ -486,4 +541,8 @@
     <string name="xiaomi_calendar_display_name">ปฏิทินบัญชี Mi</string>
     <string name="yearly">ประจำทุกปี (ทุกวันที่ %s ของทุกปี)</string>
     <string name="yearly_plain">ทุกปี</string>
+    <string name="action_bar_date_button_title">วันที่คำนวณ</string>
+    <string name="preferences_week_settings_title">การตั้งค่าสัปดาห์</string>
+    <string name="preferences_weekly_holiday_summary">เลือกวันที่จะหมายเหตุว่าเป็นวันหยุด</string>
+    <string name="preferences_weekly_holiday_title">วันหยุด</string>
 </resources>

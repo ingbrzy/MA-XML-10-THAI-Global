@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"เวอร์ชั่นแนะนำ %1$s
 ขนาด %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">ที่จัดเก็บข้อมูลไม่พร้อมใช้งาน ตรวจสอบ SD การ์ดของคุณ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ไม่สามารถเริ่มการดาวน์โหลดได้ ตรวจสอบให้แน่ใจว่าตัวจัดการการดาวน์โหลดทำงานปกติ</string>
     <string name="app_name">สำรองข้อมูล</string>
     <string name="local_app_name">สำรองข้อมูล</string>
@@ -47,9 +50,9 @@
     <string name="settings_summary">การตั้งค่าโทรศัพท์และข้อความ</string>
     <string name="camera_summary">การตั้งค่ากล้อง (ไม่เกี่ยวกับรูปถ่าย)</string>
     <string name="gallery_summary">การตั้งค่าคลังภาพ (ไม่เกี่ยวกับรูปถ่าย)</string>
-    <string name="account_summary">สำรองข้อมูลบัญชี Google บัญชี Mi และข้อมูลผู้ใช้อื่นๆ</string>
-    <string name="cloud_app_name">สำรองข้อมูล Mi คลาวด์</string>
-    <string name="cloud_home_title">Mi คลาวด์</string>
+    <string name="account_summary">สำรองข้อมูลบัญชี Google, บัญชี Xiaomi และข้อมูลผู้ใช้อื่นๆ</string>
+    <string name="cloud_app_name">การสำรองข้อมูล Xiaomi คลาวด์</string>
+    <string name="cloud_home_title">Xiaomi คลาวด์</string>
     <string name="prompt_reading">กำลังอ่าน…</string>
     <string name="prompt_sending">กำลังอัพโหลด…</string>
     <string name="prompt_writing">กำลังบันทึก…</string>
@@ -57,18 +60,17 @@
     <string name="backup_update">อัพเดท</string>
     <string name="backup_delete">ลบ:</string>
     <string name="findlost_contact">คืนค่ารายชื่อ</string>
-    <string name="findlost_contact_online">คืนค่ารายชื่อจาก Mi คลาวด์</string>
+    <string name="findlost_contact_online">คืนค่ารายชื่อจากคลาวด์</string>
     <string name="cloud_backup_login">เข้าสู่ระบบบัญชีของ Mi</string>
     <string name="cloud_backup_hint">เพื่อเข้าถึงสำรองข้อมูล กรุณาเข้าระบบก่อน</string>
-    <string name="cloud_backup_window_title">การสำรองข้อมูล Mi คลาวด์</string>
-    <string name="cloud_restore_window_title">คืนค่า Mi คลาวด์</string>
+    <string name="cloud_backup_window_title">การสำรองข้อมูล Xiaomi คลาวด์</string>
+    <string name="cloud_restore_window_title">เรียกคืนค่าจาก Xiaomi คลาวด์</string>
     <string name="cloud_restore_title">คืนค่าการสำรองข้อมูล</string>
     <string name="local_backup_window_title">สำรองข้อมูลในเครื่อง</string>
     <string name="local_restore_window_title">เรียกคืนค่าจากในเครื่อง</string>
     <string name="account_login">เข้าสู่ระบบ</string>
     <string name="miliao_account_login">เข้าสู่ระบบด้วย Mi Talk</string>
-    <string name="miliao_account_guide">"คุณสามารถใช้บัญชี Mi เพื่อเข้าใช้งานระบบ Mi คลาวด์ ร้านค้าธีม และบริการอื่นอีก
-มากมายจาก Mi ได้จากทุกที่ทั่วโลก"</string>
+    <string name="miliao_account_guide">คุณสามารถใช้บัญชี Mi เพื่อเข้าใช้งานระบบ Xiaomi คลาวด์ ธีม MIUI และบริการอื่นอีก มากมายจาก Mi ได้จากทุกที่ทั่วโลก</string>
     <string name="auto_backup">กำหนดเวลาสำรองข้อมูล</string>
     <string name="contact_title">รายชื่อ</string>
     <string name="call_title">ประวัติการโทร</string>
@@ -113,10 +115,10 @@
     <string name="nothing_searched">ไม่มีผลลัพธ์</string>
     <string name="restore_counts">คืนค่า:</string>
     <string name="service_stoped">บริการถูกหยุดแล้ว</string>
-    <string name="sc_network_unavailable">ตรวจสอบการเชื่อมต่อ แล้วลองอีกครั้ง</string>
+    <string name="sc_network_unavailable">ตรวจสอบการเชื่อมต่อ แล้วลองใหม่อีกครั้ง</string>
     <string name="sc_bad_request">คำสั่งไม่ถูกต้อง</string>
     <string name="sc_unaccess_password_file">ไม่พบรหัสผ่านเครือข่าย Wi-Fi</string>
-    <string name="sc_service_unavailable">ไม่สามารถใช้งาน Mi คลาวด์ ได้</string>
+    <string name="sc_service_unavailable">Xiaomi คลาวด์ใช้งานไม่ได้</string>
     <string name="sc_unauthorized">เข้าสู่ระบบอีกครั้ง</string>
     <string name="sc_request_timeout">หมดเวลาการร้องขอ</string>
     <string name="sc_precondition_failed">กรุณาเพิ่มที่อยู่อีเมลลงในบัญชี Mi ของคุณก่อน</string>
@@ -174,7 +176,7 @@
     <string name="deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="reverse_all">ล้างทั้งหมด</string>
     <string name="refresh">รีเฟรช</string>
-    <string name="cloud_item_info_summary">" (ในเครื่อง: %1$s | Mi คลาวด์: %2$s)"</string>
+    <string name="cloud_item_info_summary">(ในเครื่อง: %1$s | Xiaomi คลาวด์: %2$s)</string>
     <string name="cloud_restore_guide">เพื่อคืนค่าข้อมูลผู้ใช้ %s แตะ\"คืนค่า\"</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009ดาวน์โหลดแอป Mi Talk และเข้าสู่ระบบ
 \u0009http://www.miliao.com
@@ -207,7 +209,7 @@
     <string name="backup_empty_info_onpad">" สำรองข้อมูล, การตั้งค่าและแอป"</string>
     <string name="system_backup_info">การตั้งค่าระบบและรูปแบบหน้าจอหลัก</string>
     <string name="software_backup_info">ข้อมูลแอป</string>
-    <string name="account_contact_backup_info">บัญชี Google บัญชี Mi และข้อมูลรายชื่อ</string>
+    <string name="account_contact_backup_info">บัญชี Google บัญชี Xiaomi และข้อมูลรายชื่อ</string>
     <string name="files_backup_info">ไฟล์ทั้งหมดใน SD การ์ด(อาทิ รูปภาพ เพลง วิดีโอ ข้อมูลแอป ฯลฯ)</string>
     <string name="select_backup_item">เลือกรายการ</string>
     <string name="restore_data">เลือกข้อมูลที่ต้องการใช้ในการคืนค่า</string>
@@ -228,6 +230,7 @@
     <string name="restore_backup">คืนค่า</string>
     <string name="enable_encrypt_description">เข้ารหัส</string>
     <string name="disable_encrypt_description">ไม่ได้เข้ารหัส</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">รอสักครู่…</string>
     <string name="state_mounting">กำลังเข้าถึงพื้นที่จัดเก็บข้อมูลเราเตอร์…</string>
     <string name="abort_backup_confirm">ยังสำรองข้อมูลไม่เสร็จ ยกเลิกหรือไม่?</string>
@@ -258,7 +261,7 @@
     <string name="err_pkg_not_exist">ไม่พบแอป</string>
     <string name="err_user_abort">ถูกยกเลิกโดยผู้ใช้</string>
     <string name="err_binder_died">แอปหยุดกระทันหัน</string>
-    <string name="err_no_gms">เวอร์ชั่นแอปไม่เข้ากัน กรุณาติดตั้งแอปแยกต่างหาก</string>
+    <string name="err_no_gms">เวอร์ชั่นแอปไม่เข้ากัน ติดตั้งแอปแยกต่างหาก</string>
     <string name="backup_is_running">สำรองข้อมูลเครื่อง</string>
     <string name="restore_is_running">เรียกคืนข้อมูลเครื่อง</string>
     <string name="notif_backup_title">สำรองข้อมูล</string>
@@ -314,9 +317,7 @@
     <string name="trans_detail_item_app_data_too_large_tip">ดูเหมือนว่ารายการมีขนาดใหญ่เกินไปที่จะถ่ายโอน</string>
     <string name="trans_detail_item_app_data_skip_data">ไม่สามารถถ่ายโอนข้อมูลแอป</string>
     <string name="trans_detail_item_app_data_selected_tip">เลือกแอปพร้อมกัน</string>
-    <string name="trans_detail_list_footer">"1. คุณสามารถเลือกแอปต่างๆที่คุณต้องการถ่ายโอน
-2. หากคุณเลือกข้อมูลแอป แอปที่เกี่ยวข้องจะถูกเลือกเช่นกัน
-3. ข้อมูลแอป WeChat และ QQ อาจไม่สามารถถ่ายโอนได้เนื่องจากปัญหาความเข้ากันได้ คุณสามารถลองใช้คุณสมบัติการถ่ายโอนในแอป"</string>
+    <string name="trans_detail_list_footer">1. คุณสามารถเลือกแอปต่างๆที่คุณต้องการถ่ายโอน 2. หากคุณเลือกข้อมูลแอป แอปที่เกี่ยวข้องจะถูกเลือกเช่นกัน 3. ข้อมูลแอป WeChat และ QQ อาจไม่สามารถถ่ายโอนได้เนื่องจากปัญหาความเข้ากันได้ คุณสามารถลองใช้คุณสมบัติการถ่ายโอนในแอป</string>
     <string name="trans_detail_page_tip">รายการที่คุณเลือกยิ่งมาก การถ่ายโอนก็อาจใช้เวลานานขึ้น</string>
     <string name="trans_detail_sys_data_list_title">แอประบบ</string>
     <string name="trans_detail_app_data_list_title">ข้อมูลแอป</string>
@@ -376,9 +377,7 @@
     <string name="trans_wait_trans_data">"เชื่อมต่อเครื่องเดิมแล้ว
 กำลังรอการถ่ายโอน…"</string>
     <string name="trans_select_data">เลือกรายการที่จะส่ง</string>
-    <string name="trans_select_data_tips">"เลือกรายการที่จะถ่ายโอน
-รายการที่คล้ายกันในอุปกรณ์ใหม่จะถูกเขียนทับ
-(ขนาดของรายการที่ถ่ายโอนที่คุณเห็นตอนนี้เป็นค่าประมาณคร่าวๆ)"</string>
+    <string name="trans_select_data_tips">เลือกรายการที่จะถ่ายโอน รายการที่คล้ายกันในอุปกรณ์ใหม่จะถูกเขียนทับ (ขนาดของรายการที่ถ่ายโอนที่คุณเห็นตอนนี้เป็นค่าประมาณคร่าวๆ)</string>
     <string name="trans_select_data_no_space">"อุปกรณ์ใหม่พื้นที่จัดเก็บข้อมูลไม่เพียงพอ (พร้อมใช้งาน %s)
 เพิ่มพื้นที่จัดเก็บข้อมูลหรือถ่ายโอนรายการที่สำคัญเท่านั้น"</string>
     <string name="trans_select_data_too_large">"คุณเลือกรายการที่จะถ่ายโอนมากเกินไป 
@@ -395,9 +394,7 @@
     <string name="button_clean_garbage">เพิ่มพื้นที่</string>
     <string name="button_quit">ออก</string>
     <string name="soft_ap_creating">กำลังสร้างฮอตสปอต…</string>
-    <string name="wait_link">"เปิด Mi Mover บนอุปกรณ์เก่า
-แตะ \"ฉันคือผู้ส่ง\" แล้วเลือกฮอตสปอตเพื่อเชื่อมต่อ
-อย่าปิดหน้านี้ก่อนการเชื่อมต่อจะเสร็จสิ้น"</string>
+    <string name="wait_link">เปิด Mi Mover บนอุปกรณ์เก่า แตะ ฉันคือผู้ส่ง แล้วเลือกฮอตสปอตเพื่อเชื่อมต่อ อย่าปิดหน้านี้ก่อนการเชื่อมต่อจะเสร็จสิ้น</string>
     <string name="old_way">คุณสามารถสร้างรหัส QR บนอุปกรณ์ใหม่ของคุณและสแกนโดยใช้อันเก่าได้</string>
     <string name="soft_ap_create_failed">ไม่สามารถสร้างฮอตสปอต</string>
     <string name="scan_soft_ap_label">เชื่อมต่อไปยังอุปกรณ์เก่า</string>
@@ -410,7 +407,7 @@
     <string name="confirm_exit_link">ออก</string>
     <string name="confirm_exit_link_cancel">ไม่ออก</string>
     <string name="connect_soft_ap_label">กำลังเชื่อมต่อกับอุปกรณ์ใหม่…</string>
-    <string name="recreate_soft_ap_tips">แตะปุ่มด้านล่างเพื่อลองอีกครั้ง</string>
+    <string name="recreate_soft_ap_tips">แตะปุ่มด้านล่างเพื่อลองใหม่</string>
     <string name="trans_install_guide_page_title">ติดตั้ง Mi Mover บนโทรศัพท์เดิมของคุณ</string>
     <string name="trans_install_guide_scan_install_tip">"สแกนรหัส QR นี้ด้วยโทรศัพท์เดิมของคุณ
 เพื่อดาวน์โหลดและติดตั้ง Mi Mover"</string>
@@ -424,11 +421,11 @@
     <string name="size_mega_byte">MB</string>
     <string name="size_giga_byte">GB</string>
     <string name="trans_connect_failed_title">เชื่อมต่อไม่ได้</string>
-    <string name="trans_connect_failed_message">การเชื่อมต่อล้มเหลว ลองอีกครั้งหรือรีบูตอุปกรณ์ โดยบนอุปกรณ์อีกเครื่อง ให้ไปที่การตั้งค่า > การตั้งค่าเพิ่มเติม > Mi Mover แตะ [เครื่องนี้เป็นผู้ส่ง] หรือเปิด Mi Mover ใหม่หลังจากรีบูต</string>
+    <string name="trans_connect_failed_message">การเชื่อมต่อล้มเหลว กรุณาลองใหม่หรือรีบูตอุปกรณ์ โดยบนอุปกรณ์อีกเครื่อง ให้ไปที่การตั้งค่า > การตั้งค่าเพิ่มเติม > Mi Mover แตะ [เครื่องนี้เป็นผู้ส่ง] หรือเปิด Mi Mover ใหม่หลังจากรีบูต</string>
     <string name="trans_retry">ลองอีกครั้ง</string>
     <string name="trans_start_failed_title">ไม่สามารถเริ่มการถ่ายโอนได้</string>
-    <string name="trans_start_failed_message">ไม่สามารถเริ่มการถ่ายโอนได้ ลองอีกครั้งหรือรีบูตอุปกรณ์</string>
-    <string name="trans_connect_failed_device_incompatible">อุปกรณ์ไม่เข้ากัน ยกเลิกการถ่ายโอนและลองอีกครั้ง</string>
+    <string name="trans_start_failed_message">ไม่สามารถเริ่มการถ่ายโอนได้ ลองใหม่อีกครั้งหรือรีบูตอุปกรณ์</string>
+    <string name="trans_connect_failed_device_incompatible">อุปกรณ์ไม่เข้ากัน ยกเลิกการถ่ายโอนและลองใหม่อีครั้ง</string>
     <string name="trans_connection_failed">ถูกตัดการเชื่อมต่อ</string>
     <string name="user_notice_title">โปรดทราบ</string>
     <string name="user_notice_message">การใช้งานคุณลักษณะนี้จำเป็นต้องเชื่อมกับต่ออินเตอร์เน็ตเพื่อการทำงานที่ปกติ</string>
@@ -439,12 +436,12 @@
     <string name="trans_intro_desc_1">เปิด Mi phone, เชื่อมต่อ Wi-Fi และแตะ \"ฉันคือผู้รับ\" เลือกอุปกรณ์ iOS ของคุณ, ลงชื่อเข้าใช้ iCloud และนำเข้าข้อมูล</string>
     <string name="trans_intro_question_2">%d. ฉันจะใช้ Mi Mover ย้ายข้อมูลจากอุปกรณ์แอนดรอยด์ได้อย่างไร?</string>
     <string name="trans_intro_title_new">เปิดโทรศัพท์ใหม่:</string>
-    <string name="trans_intro_desc_new">แตะ \"ฉันเป็นผู้รับ\" รหัส QR จะถูกสร้างขึ้น</string>
+    <string name="trans_intro_desc_new">แตะ ฉันเป็นผู้รับ รหัส QR จะถูกสร้างขึ้น</string>
     <string name="trans_intro_title_old">เปิดโทรศัพท์เดิม:</string>
     <string name="trans_intro_desc_old">แตะ \"ฉันเป็นผู้ส่ง\" สแกนรหัส QR ด้วยโทรศัพท์ใหม่ รอจนกว่า Mi Mover จะหาไฟล์ที่จะส่งและแตะ \"ส่ง\"</string>
     <string name="trans_intro_desc_old_market">แตะ \"เริ่ม\" สแกนรหัส QR ด้วยโทรศัพท์ใหม่ รอจนกว่า Mi Mover จะหาไฟล์ที่จะส่งและแตะ \"ส่ง\"</string>
     <string name="trans_intro_question_10">%d. ไม่พบฮอตสปอตในอุปกรณ์เก่า?</string>
-    <string name="trans_intro_desc_10">แตะ \"เชื่อมต่อผ่านรหัส QR\" ในอุปกรณ์ใหม่และสแกนรหัส QR เพื่อสร้างการเชื่อมต่อ</string>
+    <string name="trans_intro_desc_10">แตะ เชื่อมต่อผ่านรหัส QR ในอุปกรณ์ใหม่และสแกนรหัส QR เพื่อสร้างการเชื่อมต่อ</string>
     <string name="trans_intro_question_3">%d. ฉันควรทำอย่างไรหาก Mi Mover ติดค้างในขั้นตอนหนึ่ง?</string>
     <string name="trans_intro_desc_3">ยกเลิกการถ่ายโอน ออกจาก Mi Mover และเริ่มต้นใหม่ ไฟล์ที่ซ้ำจะถูกเขียนทับระหว่างการถ่ายโอนใหม่</string>
     <string name="trans_intro_question_4">%d. เหตุใดฉันจึงไม่สามารถใช้ Wi-Fi ระหว่างการถ่ายโอนได้?</string>
@@ -460,9 +457,9 @@
     <string name="trans_intro_desc_8">ข้อมูลแอป WeChat และประวัติการแชทอาจไม่ได้รับการถ่ายโอนอย่างเต็มที่โดยใช้ Mi Mover ไปที่การตั้งค่าของ WeChat และออกจากระบบบัญชีของคุณเพื่อให้มีโอกาสมากขึ้นสำหรับการโอนเงินที่สำเร็จ</string>
     <string name="trans_intro_question_9">%d. รายการใดที่ไม่สามารถถ่ายโอนได้?</string>
     <string name="trans_intro_title_account">บัญชีและรหัสผ่าน:</string>
-    <string name="trans_intro_desc_account">คุณต้องลงชื่อเข้าใช้บัญชีของคุณอีกครั้ง (เช่น บัญชี Mi, Exchange, Google ฯลฯ) บนอุปกรณ์ใหม่เนื่องจากเหตุผลด้านความปลอดภัย</string>
+    <string name="trans_intro_desc_account">คุณต้องลงชื่อเข้าใช้บัญชีของคุณอีกครั้ง (เช่น Mi Account, Exchange, Google ฯลฯ) บนอุปกรณ์ใหม่เนื่องจากเหตุผลด้านความปลอดภัย</string>
     <string name="trans_intro_title_private">อัลบั้มซ่อน:</string>
-    <string name="trans_intro_desc_private">Mi Mover ไม่สามารถเข้าถึงรูปภาพในอัลบั้มที่ซ่อนได้เนื่องจากมีการเข้ารหัส คุณสามารถเรียกคืนภาพถ่ายเหล่านี้จาก Mi คลาวด์บนอุปกรณ์ใหม่ได้</string>
+    <string name="trans_intro_desc_private">Mi Mover ไม่สามารถเข้าถึงรูปภาพในอัลบั้มที่ซ่อนได้เนื่องจากมีการเข้ารหัส คุณสามารถเรียกคืนภาพถ่ายเหล่านี้จาก Xiaomi คลาวด์บนอุปกรณ์ใหม่ได้</string>
     <string name="trans_intro_title_multiuser">ข้อมูลพื้นที่ทับซ้อน:</string>
     <string name="trans_intro_desc_multiuser">Mi Mover ไม่สามารถเข้าถึงรายการในพื้นที่ทับซ้อนได้ ย้ายรายการไปยังพื้นที่ปกติและเปิดใช้ Mi Mover ที่นั่น</string>
     <string name="trans_intro_title_multiapp">ข้อมูลแอปโคลน:</string>
@@ -488,7 +485,7 @@
     <string name="trans_button_stay">อยู่ต่อ</string>
     <string name="trans_button_exit">ออก</string>
     <string name="trans_wlan_tips_title">ห้ามปิดใช้งาน Wi-Fi</string>
-    <string name="trans_wlan_tips_message">ห้ามปิดใช้งานหรือสลับการเชื่อมต่อ Wi-fi ระหว่างการโอนย้าย มิฉะนั้น Mi Mover จะไม่สามารถโอนย้ายข้อมูลได้</string>
+    <string name="trans_wlan_tips_message">ห้ามปิดใช้งานหรือสลับการเชื่อมต่อ Wi-fi ระหว่างการโอนย้าย. มิฉะนั้น Mi Mover จะไม่สามารถโอนย้ายข้อมูลได้</string>
     <string name="trans_disconnected_tips_title">อุปกรณ์ระยะไกลขาดการเชื่อมต่อ</string>
     <string name="trans_disconnected_tips_message">อุปกรณ์ระยะไกลขาดการเชื่อมต่อ เชื่อมต่อด้วยตนเองอีกครั้งหรือยกเลิกการถ่ายโอน</string>
     <string name="trans_button_cancel">ยกเลิก </string>
@@ -534,7 +531,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="hide_password_description">ซ่อนรหัสผ่าน</string>
     <string name="login">ลงชื่อเข้าใช้</string>
     <string name="logining">กำลังเข้าสู่ระบบ…</string>
-    <string name="login_failed">ลงชื่อเข้าใช้ไม่ได้ ลองอีกครั้ง</string>
+    <string name="login_failed">ลงชื่อเข้าใช้ไม่ได้ ลองอีกครั้ง.</string>
     <string name="connect_wifi_tip">ไม่ได้เชื่อมต่อเครือข่าย. กรุณาเชื่อมต่อ Wi-Fi เพื่อนำเข้ารายการจาก iCloud.</string>
     <string name="connect_wifi">เชื่อมต่อ Wi-Fi</string>
     <string name="notif_icloud_logining">กำลังลงชื่อเข้าใช้ iCloud บนอุปกรณ์ iOS เก่า…</string>
@@ -552,10 +549,9 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="hsa_send_again">ส่งอีกครั้ง</string>
     <string name="hsa_send_again_countdown">ส่งอีกครั้ง(%dวิ)</string>
     <string name="hsa_sending">กำลังส่ง…</string>
-    <string name="hsa_send_failed">ไม่สามารถส่งรหัสยืนยันได้ กรุณารอ 1-2 นาทีแล้วลองอีกครั้ง</string>
+    <string name="hsa_send_failed">ไม่สามารถส่งรหัสยืนยันได้ กรุณารอ 1-2 นาทีแล้วลองใหม่อีกครั้ง</string>
     <string name="hsa_tip_title">เคล็ดลับ:</string>
-    <string name="hsa_tip_message">"1. ข้อความรหัสยืนยันถูกส่งไปยังอุปกรณ์ที่ผูกกับ Apple ID ของคุณแล้ว
-2. ปิดใช้งานการตรวจสอบสิทธิ์สองชั้นหากรหัสยืนยันไม่ทำงาน"</string>
+    <string name="hsa_tip_message">1. หากไม่ได้รับโค้ดยืนยัน โปรดเช็คให้แน่ใจว่าคุณได้ทำการล็อคอินเข้าสู่ iCloud บนอุปกรณ์ Apple ของคุณ 2. หากใส่โค้ดยืนยันไม่ได้ผล ให้ทำการปิดการยืนยันตัวตนแบบสองขั้นตอน</string>
     <string name="hsa_tip_message_with_device">"1. ข้อความรหัสยืนยันถูกส่งไปยัง \"%s\" ที่ผูกกับ Apple ID ของคุณแล้ว
 2. ปิดใช้งานการตรวจสอบสิทธิ์สองชั้นหากรหัสยืนยันไม่ทำงาน"</string>
     <string name="hsa_tip_message_shutdown_hsa">วิธีปิดการตรวจสอบสิทธิ์สองชั้น</string>
@@ -569,6 +565,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 คุณต้องสำรองข้อมูลก่อน iCloud"</string>
     <string name="list_footer_tip_title">เคล็ดลับ:</string>
     <string name="import_tip_summary">ข้อกำหนดปัญหาความเข้ากันได้ สำหรับอุปกรณ์ iOS คุณสามารถถ่ายโอนได้เฉเพาะข้อมูลบางส่วนเท่านั้น ตรวจสอบให้แน่ใจว่าคุณได้สำรองข้อมูลก่อนการเริ่มการถ่ายโอน</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">นำเข้า</string>
     <string name="select_empty">เลือกรายการที่จะนำเข้า</string>
     <string name="select_item_summary_wait">กำลังรอ…</string>
@@ -649,9 +646,10 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="dialog_backup_password_cancel">ยกเลิก </string>
     <string name="dialog_backup_password_to_settings">การตั้งค่า</string>
     <string name="user_feedback">ข้อเสนอแนะ</string>
-    <string name="iCloud_ID_verification_tip">ป้อนรหัสยืนยันทางข้อความ SMS ที่ส่งไปยังหมายเลขโทรศัพท์ที่ผูกกับ Apple ID ของคุณ เพิกเฉยรหัสป๊อปอัปที่แสดงบนหน้าจอ iPhone ของคุณ</string>
+    <string name="iCloud_ID_verification_tip">แตะ อนุญาต บนอุปกรณ์ Apple ของคุณเพื่อให้รหัสยืนยันปรากฏขึ้น ป้อนรหัสยืนยันที่นี่</string>
     <string name="trans_complete_restoring">ถ่ายโอนสำเร็จแล้ว กำลังคืนค่าข้อมูลแอป…</string>
     <string name="dialog_backup_password_auto_backup_tips">ไม่สามารถสำรองข้อมูลโดยอัตโนมัติเมื่อเปิดใช้รหัสผ่านข้อมูลสำรอง ปิดใช้งานรหัสผ่านข้อมูลสำรองก่อน</string>
     <string name="dialog_backup_password_change_device_restore_tips">ไม่สามารถใช้ Mi Mover เมื่อเปิดใช้รหัสผ่านข้อมูลสำรอง ปิดใช้งานรหัสผ่านข้อมูลสำรองก่อน</string>
     <string name="dialog_backup_password_restore_tips">ไม่สามารถคืนค่ารายการเมื่อเปิดใช้รหัสผ่านข้อมูลสำรอง ปิดใช้งานรหัสผ่านข้อมูลสำรองก่อน</string>
+    <string name="trans_cancel_dialog_survey_title">ทำไมคุณถึงขัดจังหวะการถ่ายโอน?</string>
 </resources>

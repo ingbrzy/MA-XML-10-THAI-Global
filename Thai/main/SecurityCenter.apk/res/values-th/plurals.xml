@@ -134,6 +134,18 @@
     <plurals name="pc_main_power_manager_minute">
         <item quantity="other">%s นาที จะชาร์จเต็ม</item>
     </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%dนาที ตั้งแต่การชาร์จล่าสุด</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%dวินาที ตั้งแต่การชาร์จล่าสุด</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">เหลืออีก %d นาที</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">คงเหลือ %d ชั่งโมง</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d แอป รวมถึง %1$s กำลังกินแบต</item>
     </plurals>
@@ -173,17 +185,17 @@
     <plurals name="sp_monitored_apps_list_group_disable">
         <item quantity="other">%s แอปไม่ได้รับการป้องกัน</item>
     </plurals>
-    <plurals name="menu_text_antivirus_2">
-        <item quantity="other">%d รายการ</item>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d แอปมีไวรัสหรือมัลแวร์</item>
     </plurals>
-    <plurals name="menu_text_antivirus_3">
-        <item quantity="other">%d วัน</item>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">ไม่ได้สแกนอุปกรณ์เป็นเวลา %d วัน</item>
     </plurals>
-    <plurals name="menu_text_antispam_2">
-        <item quantity="other">%d รายการ</item>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d ข้อความหรือการโทรถูกบล็อค</item>
     </plurals>
-    <plurals name="menu_text_app_manager_2">
-        <item quantity="other">%d แอป</item>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">มีการอัพเดท %d รายการ</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d รายการปลอดภัย</item>
@@ -219,7 +231,7 @@
         <item quantity="other">ระบบไม่ได้ซิงค์ข้อมูลการใช้งานจากผู้ให้บริการเครือข่ายมาเป็นระยะเวลา %d วัน</item>
     </plurals>
     <plurals name="summary_app_update">
-        <item quantity="other">พบการอัพเดทสำหรับ %d แอป.</item>
+        <item quantity="other">พบการอัปเดตสำหรับ %d แอป.</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">ตรวจเช็คครั้งล่าสุดเมื่อ %d วันก่อน</item>
@@ -324,10 +336,10 @@
         <item quantity="other">    อีก +%1$d ตัวอักษร</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">สามารถซ่อน %d แอป</item>
+        <item quantity="other">%d ไอคอนแอปไม่ได้ถูกซ่อน</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d แอปซ่อนอยู่</item>
+        <item quantity="other">%d ไอคอนแอปถูกซ่อน</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d ปัญหาต้องการการเพิ่มประสิทธิภาพ</item>

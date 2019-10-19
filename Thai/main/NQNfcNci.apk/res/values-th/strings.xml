@@ -41,4 +41,5 @@
     <string name="prompt_connect_to_network">เชื่อมต่อกับเครือข่าย %1$s ไหม</string>
     <string name="beam_requires_nfc_enabled">Android Beam ต้องการให้เปิดใช้ NFC คุณต้องการเปิดใช้ไหม</string>
     <string name="android_beam">Android Beam</string>
+    <string name="beam_requires_external_storage_permission">แอปพลิเคชันไม่มีสิทธิ์ใช้พื้นที่เก็บข้อมูลภายนอก ซึ่งเป็นสิทธิ์ที่ต้องใช้ในการบีมไฟล์นี้</string>
 </resources>

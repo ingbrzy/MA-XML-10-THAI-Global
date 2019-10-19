@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_weather_setting">เกี่ยวกับสภาพอากาศ</string>
+    <string name="about_weather_setting_feedback">คำติชม</string>
+    <string name="abrupt_weather_settings_summary_type">รับการแจ้งเตือนเกี่ยวกับปริมาณน้ำฝนที่คาดหวังการเปลี่ยนแปลงคุณภาพอากาศและการเปลี่ยนแปลงที่สำคัญอื่นๆ</string>
     <string name="act_find_city_hint">ป้อนตำแหน่งพิกัด</string>
     <string name="act_find_city_hot_attractions_title">สถานที่ยอดนิยม</string>
     <string name="act_find_city_hot_city_title">เมืองยอดนิยม</string>
@@ -22,13 +25,15 @@
     <string name="activity_main_one_alert" />
     <string name="activity_main_pub_time">เผยแพร่เมื่อ %1$s</string>
     <string name="activity_main_time_format">E</string>
-    <string name="activity_main_update_time">อัพเดทล่าสุด %1$s</string>
+    <string name="activity_main_update_time">อัปเดตล่าสุด %1$s</string>
     <string name="activity_main_update_time_expire">ข้อมูลหมดอายุ</string>
     <string name="activity_main_update_time_right_now">เมื่อสักครู่</string>
     <string name="activity_minute_rain_location_fail_msg">ไม่สามารถรับข้อมูลตำแหน่งที่แม่นยำ เปลี่ยนเป็นเมืองปัจจุบัน</string>
     <string name="add_city">เพิ่มตำแหน่งพิกัด</string>
     <string name="alert_detail_title">แจ้งเตือนรายละเอียด</string>
     <string name="alert_warning">แจ้งเตือนสภาพอากาศ</string>
+    <string name="alert_weather_enable_settings_summary">รับคำเตือนสภาพอากาศอย่างเป็นทางการ</string>
+    <string name="alert_weather_enable_settings_title">คำเตือนสภาพอากาศ</string>
     <string name="already_voted_toast">วันนี้คุณได้โหวตเรียบร้อยแล้ว</string>
     <string name="app_name">สภาพอากาศ</string>
     <string name="aqi_data_source">ขับเคลื่อนด้วยคลาวด์สีสัน</string>
@@ -41,7 +46,7 @@
     <string name="aqi_fifteen_dates_time_format">d/M</string>
     <string name="aqi_first_sub_desc_locate">สถานี: %1$s (ห่างออกไป %2$s)</string>
     <string name="aqi_first_sub_desc_no_locate">ค่าเฉลี่ย AQI ใน %1$s</string>
-    <string name="aqi_publish_time">อัพเดทเมื่อ %1$s</string>
+    <string name="aqi_publish_time">อัปเดตเมื่อ %1$s</string>
     <string name="aqi_quality_ambient_air_quality">สภาพอากาศบริเวณใกล้เคียง</string>
     <string name="aqi_quality_co_desc">คาร์บอนมอนอกไซด์</string>
     <string name="aqi_quality_detail_15_days">พยากรณ์อากาศ 15 วัน</string>
@@ -96,14 +101,17 @@
     <string name="daily_forecast_add_city_message">ติดตามสภาพอากาศใน %1$s สำหรับการคาดการณ์รายละเอียดเพิ่มเติม</string>
     <string name="daily_forecast_add_city_title">ติดตามสภาพอากาศใน %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"รับข้อมูลสภาพอากาศไม่ได้
 ลากลงเพื่อรีเฟรชหรือตรวจสอบการตั้งค่าเครือข่าย"</string>
     <string name="data_provided_by">ข้อมูลบางส่วนจาก</string>
     <string name="edit_city">จัดการเมือง</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">กำลังอัปเดต…</string>
     <string name="empty_view_net_unavailable">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="empty_view_refresh">ลองอีกครั้ง</string>
     <string name="eu_region_version_first_start_network_msg">การใช้ผลิตภัณฑ์นี้ถือว่าคุณยอมรับให้ผลิตภัณฑ์นี้เชื่อมต่อเครือข่าย รวบรวมประมวลผล และใช้ข้อมูลส่วนบุคคลของคุณรวมทั้งพิกัดของเมืองที่คุณค้นหาและข้อมูลประเภทอื่นๆ ที่ระบุไว้ในนโยบายส่วนบุคคลของเรา ดูนโยบายความเป็นส่วนตัวของเราเพื่อเรียนรู้วิธีการรวบรวมและประมวลผลข้อมูล การแตะ \"ตกลง\" หมายความว่าคุณยอมรับ %1$s และ %2$s ของ Xiaomi</string>
+    <string name="feedback">รายงานข้อมูลสภาพอากาศที่ไม่ถูกต้อง</string>
     <string name="feedback_cloudy">มีเมฆมาก</string>
     <string name="feedback_foggy">หมอกจัด</string>
     <string name="feedback_haze">เมฆหมอก</string>
@@ -112,12 +120,16 @@
     <string name="feedback_overcast">มีเมฆมาก</string>
     <string name="feedback_report_privacy_msg">รายงานจะประกอบด้วยข้อมูลตำแหน่งของคุณ</string>
     <string name="feedback_result_fail_no_choice">เลือกเงื่อนไขสภาพอากาศปัจจุบัน</string>
+    <string name="feedback_result_fail_no_reason">ขอบคุณสำหรับข้อเสนอแนะ!</string>
+    <string name="feedback_result_fail_same_type">ดูเหมือนว่ารายงานของคุณจะไม่แตกต่างจากสภาพอากาศในขณะนี้ ลองอีกครั้ง</string>
     <string name="feedback_result_success">ส่งเรียบร้อยแล้วขอขอบคุณสำหรับข้อเสนอแนะของคุณ</string>
     <string name="feedback_sandy">มีทรายมาก</string>
     <string name="feedback_sunny">แจ่มใส</string>
     <string name="first_start_network_title">การเชื่อมกับต่ออินเตอร์เน็ตและการเข้าถึงตำแหน่ง</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">ขณะนี้</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">พยากรณ์อากาศ 24 ชั่วโมง</string>
     <string name="hourly_forecast_title_hourly_desc">พยากรณ์รายชั่วโมง</string>
@@ -133,11 +145,15 @@
     <string name="indices_title_feel">รู้สึกจริง</string>
     <string name="indices_title_pressure">ความกดอากาศ</string>
     <string name="install">ติดตั้ง</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ความกดอากาศ</string>
     <string name="international_details_title">รายละเอียด</string>
     <string name="international_details_uv_index_title">รังสียูวี</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ลม</string>
     <string name="it_is_going_to_rain">ฝนกำลังจะตก</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="locate_fail_detail_err">"ไม่สามารถระบุตำแหน่งอุปกรณ์ได้
 แตะที่หน้าจอเพื่อเพิ่มด้วยตนเองหรือเปลี่ยนตำแหน่ง"</string>
     <string name="location_provider_btn_text">เปิดใช้บริการตำแหน่งพิกัด</string>
@@ -160,7 +176,7 @@
     <string name="more_details">รายละเอียดเพิ่มเติม</string>
     <string name="network_not_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="network_unavailable">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
-    <string name="night_not_disturb_settings_summary">ปิดเสียงแจ้งเตือนระหว่าง 23:00 - 07:00 น.</string>
+    <string name="night_not_disturb_settings_summary">ปิดเสียงแจ้งเตือนระหว่าง 23:00 - 7:00 น.</string>
     <string name="night_not_disturb_settings_title">ห้ามรบกวนเวลากลางคืน</string>
     <string name="no_data">ไม่มีข้อมูล</string>
     <string name="no_network_btn">ลองอีกครั้ง</string>
@@ -194,8 +210,8 @@
     <string name="privacy_revoke_failed">ไม่สามารถถอนสิทธิ์ได้ รอสักครู่หรือสองครั้งแล้วลองอีกครั้ง</string>
     <string name="privacy_revoke_success">ยกเลิกการให้สิทธิ์เรียบร้อยแล้ว</string>
     <string name="privacy_settings">นโยบายความเป็นส่วนตัว</string>
-    <string name="pull_fresh_updated">อัพเดทเสร็จสิ้น</string>
-    <string name="pull_fresh_updating">กำลังอัพเดท…</string>
+    <string name="pull_fresh_updated">อัปเดตเสร็จสิ้น</string>
+    <string name="pull_fresh_updating">กำลังอัปเดต…</string>
     <string name="radar_cloud_image_title">แผนที่เรดาร์</string>
     <string name="radar_cloud_update_time">ก่อน %1$s</string>
     <string name="rainfall_settings_summary">แจ้งเตือนฝนตก</string>
@@ -219,6 +235,7 @@
     <string name="share_menu_title">แชร์</string>
     <string name="share_subject">แชร์</string>
     <string name="share_weather_desc">\#MIUI สภาพอากาศ#วันนี้ %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ไม่สามารถจัดเก็บภาพหน้าจอได้</string>
     <string name="shortcut_short_label_24_hour_forecast">พยากรณ์อากาศ 24 ชั่วโมง</string>
@@ -226,6 +243,7 @@
     <string name="some_where_on_earth">ที่ไหนสักแห่งบนโลก</string>
     <string name="sunrise">พระอาทิตย์ขึ้น</string>
     <string name="sunset">พระอาทิตย์ตก</string>
+    <string name="temperature_normal_unit">%1$s°</string>
     <string name="temperature_unit_C">%1$s℃</string>
     <string name="temperature_unit_F">%1$s℉</string>
     <string name="title_share_link">แชร์ลิงก์ URL</string>
@@ -251,12 +269,12 @@
     <string name="unit">หน่วย</string>
     <string name="unit_temperature">หน่วยอุณหภูมิ</string>
     <string name="unit_wind">หน่วยความเร็วลม</string>
-    <string name="update_night_setting_summary_text">อัพเดทข้อมูลสภาพอากาศระหว่าง 3:00 และ 07:00</string>
-    <string name="update_night_setting_title_text">อัพเดทคืนนี้โดยอัตโนมัติ</string>
+    <string name="update_night_setting_summary_text">อัปเดตข้อมูลสภาพอากาศระหว่าง 3:00 และ 07:00</string>
+    <string name="update_night_setting_title_text">อัปเดตคืนนี้โดยอัตโนมัติ</string>
     <string name="update_notification_info">กำลังอัปเดตข้อมูลในพื้นหลัง…</string>
-    <string name="update_setting_title_text">อัพเดทข้อมูลสภาพอากาศ</string>
-    <string name="updated_a_moment_ago">อัพเดทเมื่อสักครู่</string>
-    <string name="updating">กำลังอัพเดท…</string>
+    <string name="update_setting_title_text">อัปเดตข้อมูลสภาพอากาศ</string>
+    <string name="updated_a_moment_ago">อัปเดตเมื่อสักครู่</string>
+    <string name="updating">กำลังอัปเดต…</string>
     <string name="user_agreement">ข้อตกลงผู้ใช้งาน</string>
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
@@ -265,6 +283,8 @@
     <string name="view_forecast_item_yesterday">เมื่อวานนี้</string>
     <string name="view_indexes_item_today">วันนี้</string>
     <string name="view_indexes_item_tommorrow">พรุ่งนี้</string>
+    <string name="warning_weather_day_and_night_settings_summary">รับข้อมูลสรุปสภาพอากาศรายวันเวลา 7:00 น. และ 19:00 น.</string>
+    <string name="warning_weather_day_and_night_settings_title">ผลสรุปรายวัน</string>
     <string name="weather_alert_channel_name">แจ้งเตือน</string>
     <string name="weather_introduce">จะฝนตกหรือแจ่มใส อยู่กับคุณเสมอ</string>
     <string name="weather_permission_agree">ยอมรับ</string>

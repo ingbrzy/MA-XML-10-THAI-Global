@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">กดปุ่มบนกล่องค้างไว้ %1$d วินาที</item>
+    </plurals>
+</resources>

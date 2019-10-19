@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">กล้อง</string>
     <string name="accessibility_carrier_network_change_mode">แก้ไขผู้ให้บริการเครือข่าย</string>
     <string name="accessibility_cast_name">เชื่อมต่อไปยัง %s แล้ว</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">หยุดการฉายภาพหน้าจอ</string>
     <string name="accessibility_cell_data">ข้อมูลมือถือ</string>
     <string name="accessibility_cell_data_off">ข้อมูลมือถือปิด</string>
@@ -344,14 +345,12 @@
     <string name="block_notification_content_text">การแจ้งเตือนของ %1$s จะไม่แสดงอีก คุณสามารถเปลี่ยนแปลงได้ในการตั้งค่า</string>
     <string name="block_notification_desc">การแจ้งเตือนของแอปจะไม่ปรากฏขึ้นอีก คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="block_notification_text">ซ่อน</string>
-    <string name="block_record_notification_text">ซ่อนการแจ้งเตือนของ %1$s</string>
-    <string name="block_record_notification_title">ซ่อนการแจ้งเตือนไว้แล้ว</string>
     <string name="bluetooth_a2dp_profile_summary_connected">เชื่อมต่อไปยังเสียงสื่อมีเดีย</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">ใช้สำหรับเสียงสื่อมีเดีย</string>
     <string name="bluetooth_active_battery_level">ใช้งาน, แบตเตอรี่ %1$s</string>
     <string name="bluetooth_active_no_battery_level">ใช้งาน</string>
     <string name="bluetooth_battery_level">แบตเตอรี่ %1$s</string>
-    <string name="bluetooth_connected">เชื่อมต่อกับ %1$s แล้ว</string>
+    <string name="bluetooth_connected">เชื่อมต่อ %1$s</string>
     <string name="bluetooth_connected_battery_level">เชื่อมต่อแล้ว | แบตเตอรี่%1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">เชื่อมต่อ (ไม่มีสื่อมีเดีย) %1$s แล้ว</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">เชื่อมต่อแล้ว (ไม่มีสื่อมีเดีย) | แบตเตอรี่ %1$s%2$s</string>
@@ -543,6 +542,7 @@
     <string name="description_direction_left">ปัดไปทางซ้ายเพื่อ%s</string>
     <string name="description_direction_up">ปัดขึ้นเพื่อ%s</string>
     <string name="description_image_button_answer">รับสาย</string>
+    <string name="description_image_button_bubble_answer">ลำโพง</string>
     <string name="description_image_button_reject">ปฏิเสธ</string>
     <string name="description_image_icon_sim_card">ซิม %1$d</string>
     <string name="description_target_search">ค้นหา</string>
@@ -557,7 +557,6 @@
     <string name="development_settings_title">ตัวเลือกโหมดนักพัฒนา</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">หมายเหตุ: คุณสามารถใช้แป้นพิมพ์นี้ได้หลังจากรีบูตเครื่องเมื่อคุณปลดล็อกอุปกรณ์เท่านั้น</string>
-    <string name="disable_notification_summary">ไม่แสดงการแจ้งเตือนจากแอปที่เลือก</string>
     <string name="disable_notification_title">ซ่อนการแจ้งเตือน</string>
     <string name="disable_overlays">ปิดใช้งานการวางซ้อน HW</string>
     <string name="disable_overlays_summary">ใช้ GPU เสมอสำหรับแสดงหน้าจอ</string>
@@ -618,30 +617,31 @@
     <string name="enabled_by_admin">เปิดโดยแอดมิน</string>
     <string name="ethernet_label">อีเธอร์เน็ต</string>
     <string name="expand_button_title">ขั้นสูง</string>
-    <string name="expanded_confirm_disable_notification">ซ่อน</string>
     <string name="expanded_header_battery_charged">ชาร์จเต็ม</string>
     <string name="expanded_header_battery_charging">กำลังชาร์จ</string>
     <string name="expanded_header_battery_charging_with_time">เหลืออีก %s จะชาร์จเต็ม</string>
     <string name="expanded_header_battery_not_charging">ไม่ได้ชาร์จ</string>
     <string name="expanded_notification_manager">จัดการการแจ้งเตือน</string>
     <string name="experimental">ทดสอบภายใน</string>
-    <string name="ext_media_badremoval_notification_message">ตัดการเชื่อมต่อ SD การ์ดก่อนถอดออกเพื่อป้องกันข้อมูลสูญหาย</string>
-    <string name="ext_media_badremoval_notification_title">SD การ์ดถูกถอดออกโดยไม่คาดคิด</string>
+    <string name="ext_media_badremoval_notification_message">ตัดการเชื่อมต่อกับที่เก็บข้อมูล USB ก่อนถอดออกเพื่อป้องกันข้อมูลสูญหาย</string>
+    <string name="ext_media_badremoval_notification_title">ที่เก็บข้อมูล USB ถูกถอดออกโดยไม่คาดคิด</string>
     <string name="ext_media_checking_notification_message">กำลังตรวจสอบข้อผิดพลาด</string>
-    <string name="ext_media_checking_notification_title">กำลังเตรียม SD การ์ด</string>
+    <string name="ext_media_checking_notification_title">กำลังเตรียมที่เก็บข้อมูล USB</string>
     <string name="ext_media_mountable_notification_message">แตะเพื่อเปิดตัวจัดการไฟล์</string>
     <string name="ext_media_mountable_notification_title">เชื่อมต่อที่เก็บข้อมูล USB อุปกรณ์</string>
-    <string name="ext_media_nofs_notification_message">SD การ์ดว่างหรือระบบไฟล์ไม่รองรับ</string>
-    <string name="ext_media_nofs_notification_title">SD การ์ดว่าง</string>
-    <string name="ext_media_nomedia_notification_message">ถอด SD การ์ดออกแล้ว ใส่การ์ดใหม่</string>
-    <string name="ext_media_nomedia_notification_title">ถอด SD การ์ดออกแล้ว</string>
+    <string name="ext_media_nofs_notification_message">ที่เก็บข้อมูล USB ว่างหรือระบบไฟล์ไม่รองรับ</string>
+    <string name="ext_media_nofs_notification_title">ที่เก็บข้อมูล USB ว่าง</string>
+    <string name="ext_media_nomedia_notification_message">ถอดที่เก็บข้อมูล USB ออกแล้ว ใส่ที่เก็บข้อมูลอื่นได้</string>
+    <string name="ext_media_nomedia_notification_title">ถอดที่เก็บข้อมูล USB ออกแล้ว</string>
     <string name="ext_media_safe_remove">ถอดออกได้อย่างปลอดภัย</string>
-    <string name="ext_media_safe_unmount_notification_message">คุณสามารถถอด SD การ์ดออกได้แล้วขณะนี้</string>
-    <string name="ext_media_safe_unmount_notification_title">ถอด SD การ์ดออกได้อย่างปลอดภัย</string>
-    <string name="ext_media_unmountable_notification_message">SD การ์ดชำรุด คุณอาจต้องฟอร์แมตใหม่</string>
-    <string name="ext_media_unmountable_notification_title">SD การ์ดชำรุด</string>
+    <string name="ext_media_safe_unmount_notification_message">คุณสามารถถอดอุปกรณ์ USB ออกได้แล้วขณะนี้</string>
+    <string name="ext_media_safe_unmount_notification_title">ถอดที่เก็บข้อมูล USB ออกได้อย่างปลอดภัย</string>
+    <string name="ext_media_unmountable_notification_message">ที่เก็บข้อมูล USB ชำรุด คุณอาจต้องฟอร์แมตใหม่</string>
+    <string name="ext_media_unmountable_notification_title">ที่เก็บข้อมูล USB ชำรุด</string>
     <string name="external_source_trusted">อนุญาตแล้ว</string>
     <string name="external_source_untrusted">ไม่ได้รับอนุญาต</string>
+    <string name="face_data_apply_for_category_title">ปลดล็อกโดยใช้ข้อมูลใบหน้า</string>
+    <string name="face_data_apply_for_keyguard_title">หน้าจอล็อก</string>
     <string name="face_data_input_camera_fail">ไม่สามารถโหลดกล้องได้</string>
     <string name="face_data_input_camera_ok">กำลังโหลดข้อมูลกล้อง…</string>
     <string name="face_data_input_cancel">ยกเลิก </string>
@@ -673,6 +673,7 @@
     <string name="face_unlock_be_on_the_screen">ถืออุปกรณ์ไว้ข้างหน้าใบหน้าของคุณ</string>
     <string name="face_unlock_by_notification_screen_on_msg">คุณสามารถปลดล็อกหน้าจอด้วยใบหน้าได้ตลอดเวลาที่เปิดหน้าจอแม้ในขณะมีการแจ้งเตือนเข้ามา ซึ่งอาจเปลืองแบตกว่าปกติ</string>
     <string name="face_unlock_by_notification_screen_on_title">อนุญาตใบหน้าปลดล็อกเมื่อเปิดหน้าจอ</string>
+    <string name="face_unlock_category_title">ตัวเลือกหน้าจอล็อก</string>
     <string name="face_unlock_check_failed">ใบหน้าไม่ตรงกัน</string>
     <string name="face_unlock_close_screen">เข้าใกล้หน้าจอมากขึ้น</string>
     <string name="face_unlock_down">เงยหน้าขึ้น</string>
@@ -709,7 +710,7 @@
     <string name="face_unlock_success_stay_screen_msg">อยู่บนหน้าจอล็อคหลังจากตรวจสอบใบหน้าแล้ว เลื่อนขึ้นเพื่อเปิดหน้าจอหลัก</string>
     <string name="face_unlock_success_stay_screen_title">อยู่บนหน้าจอล็อคหลังจากปลดล็อค</string>
     <string name="failed_to_open_app_settings_toast">เปิดการตั้งค่า %1$s ไม่ได้</string>
-    <string name="fingerprint_add_text">อัพเดทอินเตอร์เฟซของลายนิ้วมือแล้ว เพิ่มลายนิ้วมือของคุณอีกครั้ง</string>
+    <string name="fingerprint_add_text">อัปเดตอินเตอร์เฟซของลายนิ้วมือแล้ว เพิ่มลายนิ้วมือของคุณอีกครั้ง</string>
     <string name="fingerprint_add_title">เพิ่มลายนิ้วมือ</string>
     <string name="fingerprint_again_identified_msg">ระบบได้จัดเก็บลายนิ้วมือของคุณเพื่อใช้ปลดล็อกเครื่องแทนรหัสผ่านไว้แล้ว</string>
     <string name="fingerprint_dialog_touch_sensor">แตะเซ็นเซอร์ลายนิ้วมือ</string>
@@ -769,6 +770,26 @@
     <string name="gxzw_area">ตัวสแกนลายนิ้วมือ</string>
     <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">กดแรงหน่อย</string>
+    <string name="gxzw_quick_open_add_event">เพิ่มกิจกรรม</string>
+    <string name="gxzw_quick_open_add_event_sub">ปฏิทิน</string>
+    <string name="gxzw_quick_open_alipay_pay">รหัสชำระเงิน</string>
+    <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
+    <string name="gxzw_quick_open_alipay_scan">ตัวสแกน</string>
+    <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
+    <string name="gxzw_quick_open_qr_code">รหัส QR</string>
+    <string name="gxzw_quick_open_qr_code_sub">ตัวสแกน</string>
+    <string name="gxzw_quick_open_search">ค้นหา</string>
+    <string name="gxzw_quick_open_search_sub">เบราเซอร์</string>
+    <string name="gxzw_quick_open_skip_teach">ข้ามแนะนำวิธีการ</string>
+    <string name="gxzw_quick_open_wechat_pay">รหัสชำระเงิน</string>
+    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
+    <string name="gxzw_quick_open_wechat_scan">ตัวสแกน</string>
+    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
+    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
+    <string name="gxzw_quick_open_xiaoai_title1">พูดชื่อแอปที่คุณต้องการเปิด</string>
+    <string name="gxzw_quick_open_xiaoai_title2">พูดชื่อสถานที่ที่คุณต้องการใช้</string>
+    <string name="gxzw_quick_tip_press">กดต่อไปเรื่อยๆ…</string>
+    <string name="gxzw_quick_tip_slide">อย่ายกนิ้วของคุณ เลื่อนเพื่อเลือก</string>
     <string name="gxzw_try_again">ลองอีกครั้ง</string>
     <string name="gxzw_try_more_again">ลองอีกครั้ง</string>
     <string name="gxzw_use_password">ใช้รหัสผ่านของคุณเพื่อปลดล็อก</string>
@@ -807,6 +828,7 @@
     <string name="input_password_after_boot_msg">เพื่อปลดล็อกอุปกรณ์ กรุณาป้อนรหัสผ่าน</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ไม่สามารถสลับระหว่างพื้นที่ขณะโทรได้</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">ไม่สามารถสลับระหว่างพื้นที่เมื่อการควบคุมโดยผู้ปกครองเปิดอยู่</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">ไม่สามารถสลับระหว่างที่ว่างได้เมื่อเปิดตัวประหยัดแบตเตอรี่อัลตร้า</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">คุณจำเป็นต้องเข้าสู่พื้นที่ปกติก่อนที่อุปกรณ์จะทำการรีบูต</string>
     <string name="input_password_hint_text">ใส่รหัสผ่าน</string>
     <string name="input_pattern_hint_text">วาดรูปแบบของคุณเพื่อปลดล็อก:</string>
@@ -887,6 +909,10 @@
     <string name="keyguard_charged">ชาร์จเต็ม</string>
     <string name="keyguard_charging_back_to_lockscreen">กลับไปที่ล็อกหน้าจอ</string>
     <string name="keyguard_charging_info_battery_used_time_text">ใช้แบตเตอรี่</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">สัดส่วนการใช้แบต</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">วันนี้ %s</string>
@@ -914,6 +940,7 @@
     <string name="keyguard_missing_sim_instructions_long">ไม่พบซิมการ์ดหรืออ่านซิมการ์ดไม่ได้ กรุณาใส่ซิมการ์ด</string>
     <string name="keyguard_missing_sim_message">ไม่พบซิมการ์ดในเครื่อง</string>
     <string name="keyguard_missing_sim_message_short">ไม่พบซิมการ์ด</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">เครือข่ายถูกล็อกไว้</string>
     <string name="keyguard_password_enter_password_code">ป้อนรหัสผ่านเพื่อปลดล็อก</string>
     <string name="keyguard_password_enter_pin_code">ป้อนรหัส PIN</string>
@@ -997,6 +1024,7 @@
     <string name="left_keycode">คีย์โค๊ดซ้าย</string>
     <string name="left_nav_bar_button_type">ประเภทปุ่มซ้ายพิเศษ</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">แตะเพื่อแก้ไขหรือลบรหัสผ่านสำหรับการสำรองข้อมูลหน้าจอหลักเต็มรูปแบบ</string>
     <string name="local_backup_password_summary_none">การสำรองข้อมูลหน้าจอหลักเต็มรูปแบบไม่ได้รับการป้องกันในขณะนี้</string>
     <string name="local_backup_password_title">รหัสผ่านข้อมูลสำรองหน้าจอหลัก</string>
@@ -1070,17 +1098,18 @@ d MMMM"</string>
     <string name="miui_guide_dialog_message">เสียงสื่อ (เพลง วิดีโอ ฯลฯ) จะยังคงเล่นในโหมดเงียบ คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ปลดล็อกโดยใช้อุปกรณ์บลูทูธ</string>
     <string name="miui_ringer_count_down">นับถอยหลัง</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">ปิดเสียง</string>
     <string name="miui_ringer_standard_description">ปิดเสียงเรียกเข้าสำหรับสายเรียกเข้าและการแจ้งเตือน</string>
     <string name="miui_ringer_total">ห้ามรบกวน</string>
     <string name="miui_ringer_total_description">ปิดเสียงและปิดการสั่นสะเทือนสำหรับทุกรายการยกเว้นนาฬิกาปลุก</string>
     <string name="miui_screen_rotation_freeze_message">ปิดการหมุนจออัตโนมัติ</string>
-    <string name="miui_toast_zen_dnd_to_off">เรียกคืนค่าเสียงและการสั่น</string>
-    <string name="miui_toast_zen_standard_to_off">เปิดเสียงสำหรับสายเรียกเข้าและการแจ้งเตือน</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">เสียงเรียกเข้ารวมทั้งการแจ้งเตือนและเสียงจากสื่อต่างๆจะถูกเปิด</string>
-    <string name="miui_toast_zen_to_dnd">ปิดใช้งานเสียงและการสั่น</string>
-    <string name="miui_toast_zen_to_standard">เสียงสำหรับสายเรียกเข้าและการแจ้งเตือนถูกปิด</string>
-    <string name="miui_toast_zen_to_standard_when_shield_media">เสียงเรียกเข้ารวมทั้งการแจ้งเตือนและเสียงจากสื่อต่างๆจะถูกปิด</string>
+    <string name="miui_toast_zen_dnd_to_off">ปิด DND แล้ว เสียงและการสั่นจะกลับสู่ปกติ</string>
+    <string name="miui_toast_zen_standard_to_off">ปิด โหมดปิดเสียง แล้ว เสียงเรียกเข้าจะกลับสู่ปกติ</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">ปิด โหมดปิดเสียง แล้ว จะมีการเล่นเสียงเรียกเข้ารวมทั้งเสียงแจ้งเตือนและสื่อ</string>
+    <string name="miui_toast_zen_to_dnd">เปลี่ยนเป็น DND แล้ว เสียงถูกปิดและปิดการสั่นไหวในขณะนี้</string>
+    <string name="miui_toast_zen_to_standard">เปลี่ยนเป็น โหมดปิดเสียง แล้ว เสียงเรียกเข้าและการแจ้งเตือนจะถูกปิดเสียงในขณะนี้</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">เปลี่ยนเป็น โหมดปิดเสียง แล้ว ขณะนี้เสียงเรียกเข้ารวมถึงเสียงแจ้งเตือนและเสียงสื่อ ถูกปิดเสียงในขณะนี้</string>
     <string name="mobile_data">ข้อมูลมือถือ</string>
     <string name="mobile_data_always_on">เปิดข้อมูลมือถือเสมอ</string>
     <string name="mobile_data_always_on_summary">ใช้ข้อมูลมือถือเสมอแม้ในขณะที่ Wi‑Fi ใช้งานได้ (สำหรับการสลับเครือข่ายด่วน)</string>
@@ -1097,12 +1126,14 @@ d MMMM"</string>
 
 สำหรับข้อมูลเพิ่มเติมโปรดติดต่อผู้ดูแลระบบของคุณ"</string>
     <string name="monitoring_description_ca_cert_settings">เปิดหนังสือรับรองที่เชื่อถือได้</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">ผู้ให้บริการออกใบรับรองถูกติดตั้งบนอุปกรณ์นี้ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_do_body">ผู้ดูแลระบบของคุณสามารถตรวจสอบและจัดการการตั้งค่า การเข้าถึงองค์กร แอป ข้อมูลที่เกี่ยวข้องกับอุปกรณ์และข้อมูลตำแหน่งของอุปกรณ์ของคุณได้</string>
     <string name="monitoring_description_do_body_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ของคุณได้</string>
     <string name="monitoring_description_do_header_generic">อุปกรณ์ของคุณมีการจัดการโดย %1$s</string>
     <string name="monitoring_description_do_header_with_name">%1$s ใช้ %2$s เพื่อจัดการอุปกรณ์ของคุณ</string>
     <string name="monitoring_description_do_learn_more">เรียนรู้เพิ่มเติม</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">องค์กรของคุณได้ติดตั้งผู้ออกใบรับรองในโปรไฟล์งานของคุณ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_managed_profile_named_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ได้</string>
     <string name="monitoring_description_management">"อุปกรณ์ของคุณมีการจัดการโดยองค์กรของคุณ 
@@ -1134,6 +1165,7 @@ d MMMM"</string>
 
  คุณเชื่อมต่อกับ VPN ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายของคุณได้"</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">ใบรับรอง CA</string>
     <string name="monitoring_subtitle_network_logging">บันทึกข้อมูลระบบเครือข่าย</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1148,6 +1180,7 @@ d MMMM"</string>
     <string name="nav_guide_message">ใช้ท่าทางเพื่อซ่อน/แสดงปุ่มซอฟท์</string>
     <string name="nav_guide_ok">ติดตั้ง</string>
     <string name="nav_guide_title">ซ่อนปุ่มซอฟท์</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">ไม่มี</string>
     <string name="no_multi_window_app">ไม่มีแอปซึ่งรองรับการแบ่งหน้าจอ</string>
     <string name="no_notification_tips">ไม่มีการแจ้งเตือน</string>
@@ -1219,10 +1252,10 @@ d MMMM"</string>
     <string name="okay">ตกลง</string>
     <string name="oldman_airplane_mode_text">โหมดเครื่องบิน</string>
     <string name="oldman_incall_text">ย้อนกลับไปยังการโทร</string>
-    <string name="open_camera_hint_text">ปัดไปทางซ้ายเพื่อเปิดกล้อง</string>
+    <string name="open_camera_hint_text">ลากไอคอนเพื่อเปิดกล้อง</string>
     <string name="open_extreme_power_save_mode_title">เปิดใช้งานเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
     <string name="open_lock_screen_magazine_hint_text">เลื่อนไปทางซ้ายสำหรับตัวเลือกเพิ่มเติม</string>
-    <string name="open_remote_center_hint_text">เลื่อนไปทางขวาเพื่อเปิดศูนย์กลางการควบคุม</string>
+    <string name="open_remote_center_hint_text">ปัดไปทางขวาเพื่อดูส่วนควบคุม</string>
     <string name="other">อื่นๆ</string>
     <string name="overlay_display_devices_title">จำลองจอแสดงผลที่สอง</string>
     <string name="overview">ภาพรวม</string>
@@ -1231,10 +1264,10 @@ d MMMM"</string>
     <string name="phone_locked_foget_password">ลืมรหัสผ่าน?</string>
     <string name="phone_locked_foget_password_mehod_back">ย้อนกลับ</string>
     <string name="phone_locked_foget_password_method">ลืมรหัสผ่าน?</string>
-    <string name="phone_locked_foget_password_method_content">&lt;Data>คุณต้องลบข้อมูล &lt;font color=#a5220e>ทั้งหมด &lt;/font> บนอุปกรณ์ของคุณ รวมทั้งรูปภาพและรายชื่อผู้ติดต่อ จากนั้นตั้งรหัสผ่านล็อคหน้าจอใหม่.;&lt;/Data></string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data>คุณต้องลบข้อมูล &lt;font color=#a5220e>ทั้งหมด &lt;/font> บนอุปกรณ์ของคุณ รวมทั้งรูปภาพและรายชื่อผู้ติดต่อ จากนั้นตั้งรหัสผ่านล็อคหน้าจอใหม่.&lt;/Data></string>
     <string name="phone_locked_foget_password_method_next">ถัดไป</string>
     <string name="phone_locked_foget_password_ok">รับทราบ</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>ปิดอุปกรณ์ของคุณ กด &lt;font color=#a5220e>ปุ่มเปิด/ปิดเครื่อง &lt;/font> และ &lt;font color=#a5220e>ปุ่มเพิ่มเสียงค้าง &lt;/font>รอจนกว่าคุณจะเห็นโลโก้ Mi;&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>ปิดอุปกรณ์ของคุณ กด &lt;font color=#a5220e>ปุ่มเปิด/ปิดเครื่อง&lt;/font> และ &lt;font color=#a5220e>ปุ่มเพิ่มเสียงค้าง&lt;/font> รอจนกว่าคุณจะเห็นโลโก้ Mi&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>เลือก&lt;font color=#a5220e>\"ลบออก &amp;amp; รีเซ็ต\"&lt;/font> และรอจนกว่าอุปกรณ์รีบูต.;&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">ลบข้อมูลอย่างไร?</string>
     <string name="phone_locked_string">โทรศัพท์ถูกล็อก</string>
@@ -1311,6 +1344,7 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">ชื่อผู้ให้บริการ DNS ส่วนตัว</string>
     <string name="private_dns_mode_provider_failure">เชื่อมต่อไม่ได้</string>
     <string name="private_dns_mode_provider_hostname_hint">ป้อนผู้ให้บริการ DNS ส่วนตัว</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">โปรไฟล์อาจได้รับการตรวจสอบ</string>
     <string name="prompt_danger">อันตราย</string>
     <string name="prompt_detecting">กำลังตรวจจับ</string>
@@ -1324,6 +1358,7 @@ d MMMM"</string>
     <string name="qs_dnd_replace">เปลี่ยน</string>
     <string name="qs_dnd_until">จนถึง %s</string>
     <string name="qs_edit">แก้ไข</string>
+    <string name="qs_open_night_mode_alert_summary">การตั้งค่าการแสดงผลบางอย่างเข้ากันไม่ได้กับโหมดมืด อย่างไรก็ระบบจะเรียกคืนค่าเดิมเมื่อคุณปิดโหมดมืด</string>
     <string name="qs_rearrange">จัดเรียงการตั้งค่าด่วนใหม่</string>
     <string name="quick_settings">การตั้งค่าด่วน</string>
     <string name="quick_settings_autobrightness_label">ความสว่างอัตโนมัติ</string>
@@ -1392,6 +1427,7 @@ d MMMM"</string>
     <string name="quick_settings_night_secondary_label_on_at">ตั้งแต่ %s</string>
     <string name="quick_settings_night_secondary_label_on_at_sunset">ตั้งแต่พระอาทิตย์ตก</string>
     <string name="quick_settings_night_secondary_label_until_sunrise">จนถึงพระอาทิตย์ขึ้น</string>
+    <string name="quick_settings_nightmode_label">โหมดมืด</string>
     <string name="quick_settings_notifications_label">การแจ้งเตือน</string>
     <string name="quick_settings_papermode_label">โหมดอ่าน</string>
     <string name="quick_settings_powermode_label">โหมดประสิทธิภาพ</string>
@@ -1442,11 +1478,13 @@ d MMMM"</string>
     <string name="recents_accessibility_split_screen_top">ย้ายหน้าจอแยกไปบนสุด</string>
     <string name="recents_app_info_button_label">ข้อมูลแอป</string>
     <string name="recents_caption_resize">เลือกการจัดเรียงภารกิจใหม่</string>
+    <string name="recents_dimiss_task">ล้าง</string>
     <string name="recents_drag_hint_message">กดค้างแอป แล้วลากไปที่นี่</string>
     <string name="recents_empty_message">ไม่พบรายการล่าสุด</string>
     <string name="recents_empty_message_dismissed_all">คุณได้ล้างทั้งหมดแล้ว</string>
     <string name="recents_empty_message_multi_window">เปิดแอปจากหน้าจอหลัก</string>
     <string name="recents_exit_multi_window_mode">ออก</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">ไม่สามารถใช้หน้าจอแยกได้ขณะกำลังฉายภาพ</string>
     <string name="recents_incompatible_app_message">แอปนี้ไม่รองรับการแบ่งหน้าจอ</string>
     <string name="recents_launch_disabled_message">%s ถูกปิดใช้งานในโหมดปลอดภัย</string>
     <string name="recents_launch_error_message">ไม่สามารถเริ่ม %s</string>
@@ -1457,6 +1495,7 @@ d MMMM"</string>
     <string name="recents_multistack_add_stack_dialog_split_vertical">แบ่งตามแนวตั้ง</string>
     <string name="recents_search_bar_label">ค้นหา</string>
     <string name="recents_stack_action_button_label">ล้างทั้งหมด</string>
+    <string name="recents_task_screening">กำลังฉายภาพ</string>
     <string name="recents_title_app_manager">จัดการแอป</string>
     <string name="recents_title_game">เกมส์</string>
     <string name="recents_title_garbage_cleanup">ตัวทำความสะอาด</string>
@@ -1545,13 +1584,13 @@ d MMMM"</string>
     <string name="show_demo_mode">แสดงโหมดแสดงตัวอย่าง</string>
     <string name="show_hw_layers_updates">แสดงการอัปเดตระดับฮาร์ดแวร์</string>
     <string name="show_hw_layers_updates_summary">ฮาร์ดแวร์ที่กำลังอัปเดตจะกะพริบเป็นสีเขียว</string>
-    <string name="show_hw_screen_updates">แสดง GPU อัพเดต</string>
+    <string name="show_hw_screen_updates">แสดง GPU อัปเดต</string>
     <string name="show_hw_screen_updates_summary">แสดงหน้าต่างที่วิดีโอแสดงผลโดย GPU</string>
     <string name="show_non_rect_clip">แก้ไขการทำงานของคลิปที่ไม่ใช่สี่เหลี่ยม</string>
     <string name="show_notification_channel_warnings">แสดงการแจ้งเตือนช่องสัญญาณ</string>
     <string name="show_notification_channel_warnings_summary">แสดงคำเตือนบนหน้าจอ เมื่อแอปพลิเคชันแจ้งเตือนโดยชองทางที่ไม่ถูกต้อง</string>
-    <string name="show_screen_updates">แสดงการอัพเดทพื้นผิว</string>
-    <string name="show_screen_updates_summary">แฟลชหน้าต่างพื้นผิวทั้งหมดเมื่ออัพเดท</string>
+    <string name="show_screen_updates">แสดงการอัปเดตพื้นผิว</string>
+    <string name="show_screen_updates_summary">แฟลชหน้าต่างพื้นผิวทั้งหมดเมื่ออัปเดต</string>
     <string name="show_silently">แสดงการแจ้งเตือนเงียบ</string>
     <string name="show_touches">แสดงการแตะ</string>
     <string name="show_touches_summary">แสดงการตอบสนองสำหรับการแตะ</string>
@@ -1811,8 +1850,8 @@ d MMM"</string>
     <string name="usb_preference_title">ตัวเลือกถ่ายโอนไฟล์ USB</string>
     <string name="usb_ptp_text">รูปภาพ</string>
     <string name="usb_share_net_info">ใช้การเชื่อมต่ออินเทอร์เน็ตของคอมพิวเตอร์</string>
-    <string name="usb_storage_error_message">ระบบพบปัญหากับ SD การ์ดของคุณ</string>
-    <string name="usb_storage_message">คุณเชื่อมต่อกับคอมพิวเตอร์ของคุณผ่าน USB แตะปุ่มด้านล่างหากคุณต้องการคัดลอกไฟล์ระหว่างคอมพิวเตอร์กับอุปกรณ์ Android ของคุณ‘s SD การ์ด</string>
+    <string name="usb_storage_error_message">เกิดข้อผิดพลาดขณะระบบพยายามเข้าถึงอุปกรณ์ของคุณในฐานะอุปกรณ์เก็บข้อมูล USB</string>
+    <string name="usb_storage_message">คุณเชื่อมต่อกับคอมพิวเตอร์ของคุณผ่าน USB แล้ว แตะปุ่มด้านล่างหากคุณต้องการคัดลอกไฟล์ระหว่างคอมพิวเตอร์และอุปกรณ์แอนดรอยด์ของคุณ‘s ที่เก็บข้อมูล USB</string>
     <string name="usb_storage_notification_message">เลือกเพื่อคัดลอกไฟล์ไปยังและจากคอมพิวเตอร์ของคุณ</string>
     <string name="usb_storage_notification_title">เชื่อมต่อ USB แล้ว</string>
     <string name="usb_storage_stop_message">ก่อนถอดสาย USB ออก กรุณาทำการตัดการเชื่อมต่อ (“ejected”) ตัวอุปกรณ์แอนดรอยด์ออกจากเครื่องคอมพิวเตอร์ให้เรียบร้อยก่อน</string>
@@ -1891,7 +1930,8 @@ d MMM"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimal</string>
     <string name="wapi_yes">ใช่</string>
-    <string name="weather_publish_time">อัพเดทล่าสุด %1$s</string>
+    <string name="weather_description_no_aqi">%1$s</string>
+    <string name="weather_publish_time">อัปเดตล่าสุด %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">จุดเข้าใช้งานชั่วคราวเต็มรูปแบบ</string>
     <string name="wifi_auto_sel_wapi_cert">เลือกโดยอัตโนมัติ</string>
     <string name="wifi_cant_connect">ไม่สามารถเชื่อมต่อได้</string>
@@ -1924,12 +1964,14 @@ d MMM"</string>
     <string name="wifi_security_none">ไม่มี</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>

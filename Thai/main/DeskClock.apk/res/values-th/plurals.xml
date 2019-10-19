@@ -24,6 +24,18 @@
     <plurals name="second">
         <item quantity="other">%d วินาที</item>
     </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">เปลี่ยนช่วงเวลา snooze เป็น %d นาที</item>
+    </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">งีบหลับ %1$s ครั้ง</item>
+    </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">ทุก %1$s นาที งีบหลับ %2$s ครั้ง</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">ทุก %1$s นาที</item>
+    </plurals>
     <plurals name="snooze_duration_summary">
         <item quantity="other">นาฬิกาจะปลุก %2$s ครั้ง (%1$s นาที)</item>
     </plurals>

@@ -12,7 +12,7 @@
     <string name="permdesc_downloadManagerAdvanced">อนุญาตให้แอปพลิเคชันเข้าถึงคุณลักษณะขั้นสูงของการดาวน์โหลด แอปพลิเคชันที่เป็นอันตรายสามารถใช้วิธีนี้เพื่อขัดขวางการดาวน์โหลดและเข้าถึงข้อมูลส่วนตัว</string>
     <string name="permlab_downloadCompletedIntent">ส่งการแจ้งเตือนการดาวน์โหลด</string>
     <string name="permdesc_downloadCompletedIntent">อนุญาตให้แอปพลิเคชันส่งการแจ้งเตือนเกี่ยวกับการดาวน์โหลดเสร็จสิ้น แอปพลิเคชันที่เป็นอันตรายสามารถใช้แอปนี้เพื่อสับสนแอปอื่นๆ ที่ดาวน์โหลดไฟล์</string>
-    <string name="permlab_seeAllExternal">ดูการดาวน์โหลดทั้งหมดใน SD การ์ด</string>
+    <string name="permlab_seeAllExternal">ดูการดาวน์โหลดทั้งหมดในที่จัดเก็บข้อมูล USB</string>
     <string name="permdesc_seeAllExternal">อนุญาตให้แอปพลิเคชันดูทั้งหมดดาวน์โหลดไปยัง SD การ์ดโดยไม่คำนึงว่าจะดาวน์โหลดแอปใดก็ตาม</string>
     <string name="permlab_downloadCacheNonPurgeable">สำรองพื้นที่ในแคชดาวน์โหลด</string>
     <string name="permdesc_downloadCacheNonPurgeable">อนุญาตให้แอปพลิเคชันดาวน์โหลดไฟล์ลงในแคชดาวน์โหลดซึ่งไม่สามารถลบออกได้โดยอัตโนมัติ เมื่อผู้จัดการการดาวน์โหลดจำเป็นต้องใช้พื้นที่มากขึ้น</string>
@@ -42,4 +42,5 @@
     <string name="download_queued">อยู่ในคิวแล้ว</string>
     <string name="download_running">กำลังดาวน์โหลด</string>
     <string name="download_error">ไม่สามารถดาวน์โหลดได้</string>
+    <string name="download_running_percent">กำลังดาวน์โหลด %s</string>
 </resources>

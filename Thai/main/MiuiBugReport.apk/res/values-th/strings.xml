@@ -9,8 +9,7 @@
     <string name="app_search">ค้นหาแอป</string>
     <string name="btn_send">ส่ง</string>
     <string name="bugreport_dialog_not_show_again">ไม่ต้องแสดงอีก</string>
-    <string name="bugreport_dialog_submit_content">"&lt;Data>คุณกำลังบันทึกข้อมูลบันทึกของซอฟต์แวร์บนอุปกรณ์นี้ในตอนนี้ บันทึกเหล่านี้อาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ โปรดอย่าแบ่งปันบันทึกนี้กับคนอื่นหากคุณไม่ต้องการเปิดเผยข้อมูลนี้ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ
-         &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว&lt;/Data>"</string>
+    <string name="bugreport_dialog_submit_content">&lt;Data>คุณกำลังบันทึกข้อมูลบันทึกของซอฟต์แวร์บนอุปกรณ์นี้ในตอนนี้ บันทึกเหล่านี้อาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ โปรดอย่าแบ่งปันบันทึกนี้กับคนอื่นหากคุณไม่ต้องการเปิดเผยข้อมูลนี้ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> ของเราแล้ว&lt;/Data></string>
     <string name="bugreport_dump_complete_notification_summary">แตะเพื่อดู</string>
     <string name="bugreport_dump_complete_notification_title">สร้างรายงานปัญหาแล้ว</string>
     <string name="bugreport_dump_start_notification_summary">ใช้เวลาประมาณสองสามนาที</string>
@@ -103,9 +102,23 @@
     <string name="feedback_description_hint_suggestion">บอกเราว่าคุณต้องการปรับปรุง MIUI อย่างไร</string>
     <string name="feedback_description_label">คำอธิบาย</string>
     <string name="feedback_description_suggest_hint">ฉันอยากให้คุณสามารถเพิ่มคุณลักษณะใหม่ () เนื่องจากฉันต้องการ ()</string>
-    <string name="feedback_detail_tile">ความคืบหน้า</string>
+    <string name="feedback_detail_copy_toast">คัดลอกไปยังคลิปบอร์ด</string>
+    <string name="feedback_detail_feedback_attach">ไฟล์แนบ</string>
+    <string name="feedback_detail_feedback_attach_upload_failed">ไม่สามารถอัปโหลดได้</string>
+    <string name="feedback_detail_feedback_attach_uploading">กำลังอัปโหลด…</string>
+    <string name="feedback_detail_feedback_category">หมวดหมู่</string>
+    <string name="feedback_detail_feedback_id">ID รายงาน: %d</string>
+    <string name="feedback_detail_feedback_reply_hint">ตอบกลับ</string>
+    <string name="feedback_detail_feedback_summary">ข้อเสนอแนะ</string>
+    <string name="feedback_detail_need_content">ป้อนข้อมูลก่อน</string>
+    <string name="feedback_detail_title">รายละเอียด</string>
+    <string name="feedback_detail_upload_generate_log">สร้างบันทึก</string>
+    <string name="feedback_detail_upload_image">กำลังอัปโหลดรูปภาพ/วิดีโอ</string>
+    <string name="feedback_detail_upload_local_log">อัปโหลดไฟล์</string>
+    <string name="feedback_detail_upload_log">อัปโหลดบันทึก</string>
+    <string name="feedback_detail_waiting">กำลังสร้าง…</string>
     <string name="feedback_empty_report_list">ยังไม่มีรายงาน</string>
-    <string name="feedback_guess">คาดเดา</string>
+    <string name="feedback_guess">คาดเดา:</string>
     <string name="feedback_history_remind_login_desc">เข้าสู่ระบบด้วยบัญชี Mi ของคุณเพื่อดูรายละเอียดและความคืบหน้ารายงานของคุณ</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA คีย์: %s</string>
@@ -135,7 +148,7 @@
     <string name="feedback_select_upload_log_not_select_desc">ไม่ได้เลือก \"เพิ่มบันทึกการใช้\"</string>
     <string name="feedback_select_upload_log_select_desc">เลือก \"เพิ่มบันทึกการใช้\"</string>
     <string name="feedback_status_answered">ได้คำตอบแล้ว</string>
-    <string name="feedback_status_change_notification_title">ความคืบหน้ารายงานของคุณมีการอัพเดท</string>
+    <string name="feedback_status_change_notification_title">ความคืบหน้ารายงานของคุณมีการอัปเดต</string>
     <string name="feedback_status_collect_log_failed">รับบันทึกการใช้ไม่ได้</string>
     <string name="feedback_status_commit_failed_title">ไม่สามารถส่งรายงานได้</string>
     <string name="feedback_status_commit_in_queue_title">กำลังรอ…</string>
@@ -155,7 +168,7 @@
     <string name="feedback_status_submit_feedback_failed">ส่งข้อเสนอแนะไม่สำเร็จ</string>
     <string name="feedback_status_supplement">อธิบายรายละเอียดปัญหาของคุณ</string>
     <string name="feedback_status_supplement_more">เพิ่มความคิดเห็น</string>
-    <string name="feedback_status_upload_log_failed">ไม่สามารถอัพโหลดสิ่งที่แนบได้</string>
+    <string name="feedback_status_upload_log_failed">ไม่สามารถอัปโหลดสิ่งที่แนบได้</string>
     <string name="feedback_submit_failed_notification_desc">ดูรายละเอียด</string>
     <string name="feedback_submit_failed_notification_retry">ส่งอีกครั้ง</string>
     <string name="feedback_submit_failed_notification_title">ไม่สามารถส่งรายงานได้</string>
@@ -182,12 +195,13 @@
     <string name="issue_search">ค้นหา</string>
     <string name="kr_authorization_agree">ยอมรับ</string>
     <string name="kr_authorization_contact">บัญชี</string>
-    <string name="kr_authorization_contact_desc">สำหรับรับข้อมูลบัญชี Mi และตรวจสอบบัญชีของคุณ</string>
+    <string name="kr_authorization_contact_desc">สำหรับการเข้าถึงข้อมูลบัญชี Mi เพื่อระบุอุปกรณ์</string>
     <string name="kr_authorization_exit">ออก</string>
+    <string name="kr_authorization_function">ส่ง ข้อเสนอแนะ สร้างบันทึก ดูคำถามที่ถามบ่อย</string>
     <string name="kr_authorization_log_protocol">บันทึกของโปรโตคอล (ไม่ระบุก็ได้)</string>
     <string name="kr_authorization_log_protocol_desc">เพื่อปรับปรุงบริการที่คุณได้รับเราจะอัปโหลดสถิติการใช้งานและบันทึกระบบไปยังเซิร์ฟเวอร์ของเรา รายการเหล่านี้อาจรวมถึงข้อมูลส่วนบุคคลของคุณเช่นเดียวกับข้อมูลเกี่ยวกับอุปกรณ์และเครือข่ายของคุณ เราจะใช้รายการที่อัปโหลดเพื่อค้นหาและวิเคราะห์ปัญหาในระบบ</string>
     <string name="kr_authorization_phone">โทรศัพท์</string>
-    <string name="kr_authorization_phone_desc">สำหรับการระบุอุปกรณ์โดยใช้ IMEI และหมายเลขรุ่น รวมถึงการค้นหาและวิเคราะห์ปัญหา</string>
+    <string name="kr_authorization_phone_desc">สำหรับการเข้าถึง รุ่นอุปกรณ์, IMEI และรหัสอุปกรณ์ เพื่อค้นหาและแก้ไขปัญหา</string>
     <string name="kr_authorization_privacy_policy">นโยบายความเป็นส่วนตัว (บังคับ)</string>
     <string name="kr_authorization_select_all">เลือกทั้งหมด</string>
     <string name="kr_authorization_storage">ที่จัดเก็บข้อมูล</string>
@@ -200,6 +214,10 @@
     <string name="max_error">%1$sของคุณยาวเกินไป</string>
     <string name="menu_copy">คัดลอก</string>
     <string name="message_label">ข้อความ</string>
+    <string name="mi_service_dialog_cancel">ออก</string>
+    <string name="mi_service_dialog_confirm">เปิด</string>
+    <string name="mi_service_dialog_content">คุณลักษณะข้อเสนอแนะทั้งหมดถูกย้ายไปที่แอป \"บริการและข้อเสนอแนะ\" ใหม่ แอปข้อเสนอแนะจะถูกลบออกจากหน้าจอหลักของคุณ แตะ \"เปิด\" เพื่อลอง\"บริการและข้อเสนอแนะ\"</string>
+    <string name="mi_service_dialog_title">แนะนำ \"บริการและข้อเสนอแนะ\"</string>
     <string name="michat_app_name">บริการออนไลน์</string>
     <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">หากคุณไม่สามารถติดต่อสายด่วน 400 ได้ ลองใช้โทรศัพท์เครื่องอื่นโทร: %1$s</string>
@@ -212,7 +230,7 @@
     <string name="michat_cant_join_artificial">ไม่สามารถเชื่อมเครือข่ายได้เนื่องจากเครือข่ายขัดข้อง</string>
     <string name="michat_check_network">ตรวจสอบการตั้งค่าเครือข่าย</string>
     <string name="michat_close_text">การแชทสิ้นสุดลง</string>
-    <string name="michat_comment_net_error">เชื่อมต่อเครือข่ายไม่ได้ กรุณาลองใหม่ภายหลัง</string>
+    <string name="michat_comment_net_error">เชื่อมต่อเครือข่ายไม่ได้ ลองอีกครั้งในภายหลัง</string>
     <string name="michat_comment_submit">ให้คะแนนและย้อนกลับ</string>
     <string name="michat_comment_thx">ขอบคุณสำหรับข้อเสนอแนะของคุณ!</string>
     <string name="michat_customer_join">เข้าร่วมแชท</string>
@@ -252,21 +270,21 @@
     <string name="michat_pull_to_refresh_refreshing_label">กำลังโหลดประวัติ…</string>
     <string name="michat_pull_to_refresh_release_label">ปล่อยเพื่อดูประวัติ</string>
     <string name="michat_return_to_outside">ออก</string>
-    <string name="michat_service_unavailiable">ไม่สามารถรับข้อมูลได้ ลองใหม่ในภายหลัง</string>
+    <string name="michat_service_unavailiable">ไม่สามารถรับข้อมูลได้ ลองอีกครั้งในภายหลัง</string>
     <string name="michat_skillset_business_type_title">เลือกบริการ</string>
     <string name="michat_skillset_product_title">เลือกผลิตภัณฑ์</string>
     <string name="michat_transfer_message">กำลังมองหาบุคคลที่ช่วยคุณ…</string>
     <string name="michat_try_again">ลองอีกครั้ง</string>
-    <string name="michat_type_list_null">ไม่สามารถรับข้อมูลได้ ลองใหม่ในภายหลัง</string>
+    <string name="michat_type_list_null">ไม่สามารถรับข้อมูลได้ ลองอีกครั้งในภายหลัง</string>
     <string name="michat_type_picture">รูปภาพ</string>
     <string name="michat_user_quit">คุณออกจากแชทแล้ว</string>
     <string name="michat_wait_for_a_moment">รอสักครู่ ความช่วยเหลือกำลังมา!</string>
     <string name="michat_webview_title">ดูรายละเอียด</string>
     <string name="min_error">%1$sของคุณสั้นเกินไป</string>
     <string name="mobile_data_note_dialog_cancel">รอเครือข่าย Wi-Fi</string>
-    <string name="mobile_data_note_dialog_confirm">อัพโหลด</string>
+    <string name="mobile_data_note_dialog_confirm">อัปโหลด</string>
     <string name="mobile_data_note_dialog_content">ดูเหมือนว่าคุณกำลังเชื่อมต่อกับเครือข่ายแบบชำระเงิน การอัปโหลดบันทึกอาจมีค่าใช้จ่ายเพิ่มเติม</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">ดูเหมือนว่าคุณกำลังเชื่อมต่อกับเครือข่ายแบบชำระเงิน การอัพโหลดบันทึกต้องใช้ข้อมูลมือถือ %s MB</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">ดูเหมือนว่าคุณกำลังเชื่อมต่อกับเครือข่ายแบบชำระเงิน การอัปโหลดบันทึกต้องใช้ข้อมูลมือถือ %s MB</string>
     <string name="mobile_data_note_dialog_title">แจ้งเตือนการใช้ข้อมูล</string>
     <string name="modem_tool_log_dumping_desc">คลิกไอคอนเพื่อหยุด</string>
     <string name="modem_tool_log_dumping_title">การจัดทำบันทึกการใช้โมเด็ม</string>
@@ -283,7 +301,7 @@
     <string name="module_more">เพิ่มเติม</string>
     <string name="module_network">เครือข่าย</string>
     <string name="module_search">ค้นหา</string>
-    <string name="module_security">ความปลอดภัย &amp; Mi คลาวด์</string>
+    <string name="module_security">ความปลอดภัย &amp; Xiaomi คลาวด์</string>
     <string name="module_system">ระบบ</string>
     <string name="module_tools">เครื่องมือระบบ</string>
     <string name="modules">เลือกรายการ</string>
@@ -301,7 +319,7 @@
     <string name="network_errortip_noconnection">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่าย</string>
     <string name="network_errortip_parse">เกิดข้อผิดพลาด</string>
     <string name="network_errortip_server">เกิดข้อผิดพลาด ลองอีกครั้งในภายหลัง</string>
-    <string name="network_errortip_timeout">การเชื่อมต่อเกินระยะเวลาที่กำหนด ลองใหม่อีกครั้ง</string>
+    <string name="network_errortip_timeout">การเชื่อมต่อเกินระยะเวลาที่กำหนด ลองอีกครั้งในภายหลัง</string>
     <string name="network_errortip_unknow">ทางเรากำลังพยายามแก้ไขอยู่…</string>
     <string name="network_unavailable_dialog_button_ok">ตกลง</string>
     <string name="network_unavailable_dialog_content">ข้อเสนอแนะจะถูกส่งเมื่อมีการเชื่อมต่อเครือข่าย</string>
@@ -494,10 +512,8 @@
     <string name="select_system_app_tag">เลือกปัญหา</string>
     <string name="submit_dialog_cancel">ไม่เห็นด้วย</string>
     <string name="submit_dialog_confirm">เห็นด้วย</string>
-    <string name="submit_dialog_content">"&lt;Data>คุณต้องยอมรับใน
-         &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a> ของเราเพื่อใช้งานข้อเสนอแนะ ปัญหาที่คุณรายงานพร้อมกับรายการที่คุณแนบ (อาจประกอบด้วยข้อมูลส่วนบุคคลตลอดจนข้อมูลเกี่ยวกับอุปกรณ์และเครือข่ายของคุณ) จะถูกอัปโหลดไปยังเซิร์ฟเวอร์ของ MIUI วิธีนี้จะช่วยให้เราสามารถค้นหาและแก้ไขปัญหาที่คุณรายงานได้&lt;/Data>"</string>
-    <string name="submit_dialog_content_global">"&lt;Data>ความคิดเห็นของคุณ พร้อมกับสิ่งที่แนบ (หากมี) และบันทึก (คุณสามารถยกเลิกการเลือกกล่องตัวเลือกสำหรับรายการที่คุณไม่ต้องการอัพโหลดได้) จะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI และไปยังส่วนที่จำกัดใน MIUI Forum สำหรับนักพัฒนา ข้อมูลเกี่ยวกับหัวเรื่องและกิจกรรมในฟอรัมของคุณจะได้รับการรวบรวมเพื่อการวิเคราะห์และการสื่อสารต่อไป บันทึกเหล่านี้อาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ
-         &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">ข้อตกลงการใช้งาน&lt;/a>ของเราแล้ว&lt;/Data>"</string>
+    <string name="submit_dialog_content">&lt;Data>คุณต้องยอมรับใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> ของเราเพื่อใช้งานข้อเสนอแนะ ปัญหาที่คุณรายงานพร้อมกับรายการที่คุณแนบ (อาจประกอบด้วยข้อมูลส่วนบุคคลตลอดจนข้อมูลเกี่ยวกับอุปกรณ์และเครือข่ายของคุณ) จะถูกอัปโหลดไปยังเซิร์ฟเวอร์ของ MIUI วิธีนี้จะช่วยให้เราสามารถค้นหาและแก้ไขปัญหาที่คุณรายงานได้&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>ความคิดเห็นของคุณพร้อมกับไฟล์แนบ (ถ้ามี) และบันทึก (คุณสามารถยกเลิกการเลือกช่องรายการที่คุณไม่ต้องการอัปโหลด) จะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI โดยอาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> ของเราแล้ว&lt;/Data></string>
     <string name="submit_dialog_title">ส่งรายงาน</string>
     <string name="submit_feedback_info_failed">ไม่สามารถส่งรายงานได้</string>
     <string name="suggestion_description">ใส่รายละเอียดเพิ่มเติมได้ที่นี่</string>
@@ -529,7 +545,7 @@
     <string name="toast_fill_brackets">รายงานของคุณไม่ครบถ้วน</string>
     <string name="toast_loading_app_id">กำลังรับข้อมูล…</string>
     <string name="toast_log_not_exists">บันทึกการใช้ที่จำเป็นถูกลบหรือไม่มีอยู่</string>
-    <string name="toast_log_too_large">ไม่สามารถอัพโหลด บันทึกนี้ใหญ่เกินไป</string>
+    <string name="toast_log_too_large">ไม่สามารถอัปโหลด บันทึกนี้ใหญ่เกินไป</string>
     <string name="toast_module_required">เลือกรายการ</string>
     <string name="toast_network_unavailable">ส่งไม่สำเร็จ เชื่อมต่อเครือข่ายไม่ได้</string>
     <string name="toast_pending_log_collection">กำลังรวบรวมบันทึกการใช้…</string>
@@ -539,7 +555,7 @@
     <string name="toast_report_copied_to_clipboard">คัดลอกรายงานไปยังคลิปบอร์ดแล้ว</string>
     <string name="toast_report_sent_failed">ส่งรายงานล้มเหลว</string>
     <string name="toast_report_sent_succeed">ส่งรายงานแล้ว</string>
-    <string name="toast_screenshot_too_large">ไม่สามารถอัพโหลดรูปภาพหรือวิดีโอที่มีขนาดใหญ่กว่า 100MB</string>
+    <string name="toast_screenshot_too_large">ไม่สามารถอัปโหลดรูปภาพหรือวิดีโอที่มีขนาดใหญ่กว่า 100MB</string>
     <string name="toast_third_packagename_required">ป้อนชื่อแอป</string>
     <string name="toast_title_required">อธิบายถึงปัญหาของคุณ</string>
     <string name="topic_author">1#</string>

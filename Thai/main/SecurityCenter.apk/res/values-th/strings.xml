@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -103,13 +105,13 @@
     <string name="dlg_not_block_call">เลิกบล็อกหมายเลขที่เลือกไว้หรือไม่? มันจะถูกเพิ่มเป็นข้อยกเว้น แต่รายการที่ถูกบล็อกก่อนหน้านี้จะไม่ปรากฏในประวัติการโทร</string>
     <string name="dlg_update_date_title">คำเตือน</string>
     <string name="dlg_update_data_content">คุณไม่ได้เชื่อมต่อ Wi-Fi การใช้ข้อมูลมือถือคุณอาจจะต้องจ่ายค่าบริการเพิ่มเติม ดำเนินการต่อหรือไม่?</string>
-    <string name="dlg_sec_network_unavailable">แอปความปลอดภัยไม่สามารถอัพเดทได้ เนื่องจากคุณจำกัดการเชื่อมต่อกับอินเทอร์เน็ต อนุญาตการเชื่อมต่อกับอินเทอร์เน็ตหรือไม่?</string>
+    <string name="dlg_sec_network_unavailable">แอปความปลอดภัยไม่สามารถอัปเดตได้ เนื่องจากคุณจำกัดการเชื่อมต่อกับอินเทอร์เน็ต อนุญาตการเชื่อมต่อกับอินเทอร์เน็ตหรือไม่?</string>
     <string name="dlg_update_btn_contiue">ดำเนินต่อ</string>
     <string name="dlg_update_btn_open">อนุญาต</string>
-    <string name="dlg_update_updating">กำลังอัพเดท…</string>
+    <string name="dlg_update_updating">กำลังอัปเดต…</string>
     <string name="toast_update_nonetwork">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
-    <string name="toast_update_fail">ไม่สามารถอัพเดทได้</string>
-    <string name="toast_update_success">อัพเดทเสร็จสิ้น</string>
+    <string name="toast_update_fail">ไม่สามารถอัปเดตได้</string>
+    <string name="toast_update_success">อัปเดตเสร็จสิ้น</string>
     <string name="toast_update_notneed">เป็นปัจจุบัน</string>
     <string name="menu_call">โทร</string>
     <string name="menu_sms">ส่งข้อความ</string>
@@ -172,7 +174,7 @@
     <string name="sms_filter">ตัวกรองอัจฉริยะ</string>
     <string name="sms_keywords">รายการบล็อกคีย์เวิร์ด</string>
     <string name="sms_service">บล็อกบริการข้อความ SMS</string>
-    <string name="sms_stranger_block">บล็อกข้อความ SMS จากบุคคลแปลกหน้า</string>
+    <string name="sms_stranger_block">บล็อกไว้</string>
     <string name="sms_contact_block">บล็อกข้อความ SMS จากผู้ติดต่อ</string>
     <string name="sms_malicious_url">บล็อกข้อความ SMS จาก URL ที่น่าสงสัย</string>
     <string name="sms_cloud_block">บล็อกคลาวด์</string>
@@ -193,12 +195,14 @@
     <string name="mark_agent_block_large">ตัวแทน(เอเย่น)</string>
     <string name="mark_sell_block_large">ขายของทางโทรศัพท์</string>
     <string name="mark_harass_block_large">ก่อกวน</string>
-    <string name="ad_update_time">อัพเดทล่าสุด: %s</string>
-    <string name="ad_update_time_unKnown">ไม่ทราบการอัพเดทล่าสุด</string>
+    <string name="ad_update_time">อัปเดตล่าสุด: %s</string>
+    <string name="ad_update_time_unKnown">ไม่ทราบการอัปเดตล่าสุด</string>
     <string name="sms_delete_title">ลบข้อความ</string>
     <string name="call_delete_title">ลบประวัติการโทร</string>
     <string name="sms_delete_hint">ลบข้อความที่ถูกบล็อกทั้งหมดจากเลขหมายนี้?</string>
+    <string name="sms_delete_all_hint">ลบข้อความทั้งหมดตอนนี้?</string>
     <string name="call_delete_hint">ลบสายเรียกเข้าที่ถูกบล็อกทั้งหมดจากเลขหมายนี้?</string>
+    <string name="call_delete_all_hint">ลบสายเรียกเข้าที่ถูกบล็อกไว้ทั้งหมด?</string>
     <string name="backsound_set_hint">ตั้งเสียงปฏิเสธสายสำหรับ %s?</string>
     <string name="report">รายงาน</string>
     <string name="report_only">เลือกข้อความที่จะรายงาน</string>
@@ -208,6 +212,7 @@
     <string name="report_warning_title">คำเตือน</string>
     <string name="st_sub_title_customize_mode_name">ชื่อ</string>
     <string name="read_all_sms">อ่านทั้งหมด</string>
+    <string name="delete_all_sms">ลบทั้งหมด</string>
     <string name="loding">กำลังโหลดข้อมูล</string>
     <string name="action_source_sms_title">ข้อความที่ถูกบล็อก</string>
     <string name="action_source_call_title">โทรที่ถูกบล็อก</string>
@@ -237,6 +242,7 @@
     <string name="st_antispam_title_anoy_incoming">สายเรียกเข้าจากเลขหมายที่ไม่รู้จัก</string>
     <string name="st_antispam_title_null_incoming">เลขหมายส่วนตัว</string>
     <string name="st_antispam_title_service_sms">แจ้งเตือนบริการ</string>
+    <string name="st_antispam_title_mms">MMS</string>
     <string name="st_summary_keywords_blacklist">เพิ่มคีย์เวิร์ดเพื่อบล็อกข้อความ</string>
     <string name="st_summary_blacklist_numbers">บล็อกการโทรและข้อความตามหมายเลขและพื้นที่ที่กำหนด</string>
     <string name="st_summary_whitelist_numbers">อนุญาตการโทรและข้อความตามหมายเลขและพื้นที่ที่กำหนด</string>
@@ -289,8 +295,8 @@
     <string name="mark_harass_time_setting">บล็อกเลขหมายที่ถูกรายงานว่าก่อกวนเกินจำนวนครั้งที่กำหนด</string>
     <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">รายงานหมายเลข</string>
-    <string name="sms_smart_engine_update">อัพเดตตัวกรองข้อความโดยอัตโนมัติ</string>
-    <string name="sms_smart_engine_update_now">อัพเดท</string>
+    <string name="sms_smart_engine_update">อัปเดตตัวกรองข้อความโดยอัตโนมัติ</string>
+    <string name="sms_smart_engine_update_now">อัปเดต</string>
     <string name="mark_number_setting_guide_title">บล็อกเลขหมายที่มีผู้รายงาน</string>
     <string name="mark_number_setting_guide_content1">ต้องการบล็อกสายเรียกเข้าที่มีผู้รายงานไว้?</string>
     <string name="mark_number_setting_guide_content2">บล็อกสายเรียกเข้าที่มีบุคคลอื่นรายงานไว้โดยอัตโนมัติ</string>
@@ -320,7 +326,7 @@
     <string name="st_share_settings">การตั้งค่าใช้ซิม 1</string>
     <string name="st_msg_settings">รายการบล็อกข้อความ</string>
     <string name="st_msg_intercept_contacts">บล็อกข้อความ SMS จากผู้ติดต่อ</string>
-    <string name="st_msg_stranger_group">บล็อกข้อความ SMS จากบุคคลแปลกหน้า</string>
+    <string name="st_msg_stranger_group">บล็อกข้อความจากบุคคลแปลกหน้า</string>
     <string name="st_msg_other_group">อื่นๆ</string>
     <string name="st_msg_keyword_group">คีย์เวิร์ด</string>
     <string name="st_msg_keyword_black">รายการบล็อกคีย์เวิร์ด</string>
@@ -342,11 +348,11 @@
     <string name="st_confirm_dialog_summary_contact_call">การโทรทั้งหมดจากผู้ติดต่อจะถูกบล็อก</string>
     <string name="st_confirm_dialog_summary_oversea_call">เปิดใช้งานบล็อกสายเรียกเข้าจากหมายเลขโทรศัพท์ต่างประเทศทั้งหมด</string>
     <string name="cta_dialog_title">การเชื่อมกับต่ออินเตอร์เน็ต</string>
-    <string name="cta_dialog_msg">&lt;Data>คุณต้องยอมรับใน &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ก่อนใช้ความปลอดภัย ความปลอดภัยจำเป็นต้องเชื่อมต่อกับอินเตอร์เน็ตและเข้าถึงตำแหน่งพิกัดเพื่อทำงานอย่างปกติ และทำให้คำจำกัดความของโปรแกรมป้องกันไวรัสเป็นปัจจุบันอยู่เสมอ ยอมรับหรือไม่?&lt;/Data></string>
     <string name="cta_dialog_negative">ออก</string>
     <string name="cta_dialog_positive">ยอมรับ</string>
     <string name="cta_settings">อนุญาตให้เชื่อมต่ออินเทอร์เน็ต</string>
-    <string name="gdpr_msg">&lt;Data>ในการใช้คุณลักษณะขั้นพื้นฐานของการรักษาความปลอดภัยคุณต้องยอมรับว่า Xiaomi จะรวบรวมประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณรวมทั้งข้อมูลเกี่ยวกับวิธีที่คุณใช้คุณลักษณะของความปลอดภัย (เช่นสถิติการใช้ข้อมูลมือถือข้อมูลเกี่ยวกับมัลแวร์, รวมถึงข้อมูลพื้นฐานเกี่ยวกับอุปกรณ์ของคุณ) และข้อมูลประเภทอื่นๆ ที่ระบุใน &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">นโยบายความเป็นส่วนตัว&lt;/a>.&lt;/Data>ของเรา</string>
+    <string name="gdpr_msg">&lt;Data>ในการใช้คุณลักษณะขั้นพื้นฐานของการรักษาความปลอดภัยคุณต้องยอมรับว่า Xiaomi จะรวบรวมประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณรวมทั้งข้อมูลเกี่ยวกับวิธีที่คุณใช้คุณลักษณะของความปลอดภัย (เช่นสถิติการใช้ข้อมูลมือถือข้อมูลเกี่ยวกับมัลแวร์, รวมถึงข้อมูลพื้นฐานเกี่ยวกับอุปกรณ์ของคุณ) และข้อมูลประเภทอื่นๆ ที่ระบุใน &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">นโยบายความเป็นส่วนตัว&lt;/a>.&lt;/Data>ของเรา</string>
+    <string name="cta_main_purpose">ยินดีต้อนรับสู่ความปลอดภัย! คุณสามารถใช้แอพนี้เพื่อล้างขยะบนอุปกรณ์ของคุณค้นหาและต่อต้านไวรัสเพิ่มประสิทธิภาพการเล่นเกมประหยัดแบตเตอรี่จัดการแอพและอื่นๆ อีกมากมาย</string>
     <string name="app_name_na">การใช้ข้อมูล</string>
     <string name="list_empty_text">ไม่มี</string>
     <string name="dialog_title_attention">โปรดทราบ</string>
@@ -424,7 +430,7 @@
     <string name="firewall_restrict_android_dialog_content">เพื่อให้เครื่องทำงานได้ตามปกติ แอปส่วนหนึ่งในระบบแอนดรอยด์จะยังคงเชื่อมกับต่ออินเตอร์เน็ตได้ แอปเหล่านี้อาจเชื่อมต่อเครือข่ายข้อมูลมือถือและอาจเสียค่าบริการให้แก่ผู้ให้บริการเครือข่ายของคุณ</string>
     <string name="background_restrict_app_dialog_message">การจำกัดการเข้าถึงเครือข่ายในพื้นหลังสำหรับแอปนี้อาจทำให้แอปไม่สามารถทำงานได้ตามปกติ รับข้อความ ดาวน์โหลดเนื้อหา ฯลฯ จำกัดหรือไม่?</string>
     <string name="firewall_allow_network">อนุญาต</string>
-    <string name="app_bg_restrict_dialog_message">การจำกัดการเชื่อมต่อเครือข่ายเบื้องหลังอาจทำให้แอปไม่สามารถทำงานได้ตามปกติ ตัวอย่างเช่น อาจไม่สามารถรับข้อความหรืออัพเดตเนื้อหาได้อีกต่อไป</string>
+    <string name="app_bg_restrict_dialog_message">การจำกัดการเชื่อมต่อเครือข่ายเบื้องหลังอาจทำให้แอปไม่สามารถทำงานได้ตามปกติ ตัวอย่างเช่น อาจไม่สามารถรับข้อความหรืออัปเดตเนื้อหาได้อีกต่อไป</string>
     <string name="firewall_network_allow">อนุญาต %1$s เพื่อใช้ %2$s การเชื่อมต่อ</string>
     <string name="search_result_text">ไม่พบแอปไดๆ</string>
     <string name="firewall_mobile_dialog_message">แอปที่ติดตั้งจะไม่สามารถเชื่อมต่ออินเตอร์เน็ตและใช้ข้อมูลมือถือได้ หากคุณปิดสวิตช์นี้</string>
@@ -461,6 +467,7 @@
     <string name="not_limited_brand">ไม่จำกัด</string>
     <string name="pref_about_traffic_title">การตั้งค่าการใช้ข้อมูล</string>
     <string name="pref_traffic_manage_title">การใช้ข้อมูล</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">แพ็คเกจข้อมูล</string>
     <string name="pref_adjust_traffic_data">ตั้งการใช้ข้อมูล</string>
     <string name="pref_category_title_other">การตั้งค่าเพิ่มเติม</string>
@@ -485,12 +492,12 @@
     <string name="pref_correction_setting_switch">ใช้แบบเริ่มต้นการปรับเที่ยบที่กำหนดเอง</string>
     <string name="pref_correction_sms_number">ส่งข้อความการปรับเทียบไปยัง</string>
     <string name="pref_correction_sms_content">แบบเริ่มต้นการปรับเทียบ</string>
-    <string name="adjust_traffic_carrier_summary_today">อัพเดทวันนี้ตอน %s</string>
-    <string name="adjust_traffic_carrier_summary_yesterday">อัพเดทเมื่อวานตอน %s</string>
-    <string name="adjust_traffic_carrier_summary_two_day_before">อัพเดทเมื่อ 2 วันก่อน</string>
-    <string name="adjust_traffic_carrier_summary_oneweek_before">อัพเดทเมื่อ 1 สัปดาห์ก่อน</string>
-    <string name="adjust_traffic_carrier_summary_more_oneweek_before">อัพเดทล่าสุดไม่น้อยกว่าหนึ่งสัปดาห์</string>
-    <string name="adjust_traffic_carrier_summary_more_onemonth_before">อัพเดทล่าสุดไม่น้อยกว่าหนึ่งเดือน</string>
+    <string name="adjust_traffic_carrier_summary_today">อัปเดตวันนี้ตอน %s</string>
+    <string name="adjust_traffic_carrier_summary_yesterday">อัปเดตเมื่อวานตอน %s</string>
+    <string name="adjust_traffic_carrier_summary_two_day_before">อัปเดตเมื่อ 2 วันก่อน</string>
+    <string name="adjust_traffic_carrier_summary_oneweek_before">อัปเดตเมื่อ 1 สัปดาห์ก่อน</string>
+    <string name="adjust_traffic_carrier_summary_more_oneweek_before">อัปเดตล่าสุดไม่น้อยกว่าหนึ่งสัปดาห์</string>
+    <string name="adjust_traffic_carrier_summary_more_onemonth_before">อัปเดตล่าสุดไม่น้อยกว่าหนึ่งเดือน</string>
     <string name="left_precent">60%</string>
     <string name="right_precent">100%</string>
     <string name="pref_category_package_type_title">ประเภทแพ็คเกจข้อมูล</string>
@@ -616,7 +623,7 @@
     <string name="free_time_traffic_hint">ป้อนเพดานข้อมูลนอกช่วงปกติ</string>
     <string name="traffic_correction_start_correction">กำลังเชื่อมต่อกับเซิร์ฟเวอร์ของผู้ให้บริการ…</string>
     <string name="traffic_correction_start_correction_failed">ไม่สามารถส่งการร้องขอได้ ตรวจสอบการตั้งค่าผู้ให้บริการของคุณ</string>
-    <string name="traffic_correction_success">อัพเดทการใช้ข้อมูลแล้ว</string>
+    <string name="traffic_correction_success">อัปเดตการใช้ข้อมูลแล้ว</string>
     <string name="traffic_correction_failed">รับข้อมูลไม่ได้</string>
     <string name="traffic_correction_success_notify_message">แตะเพื่อดูรายละเอียด</string>
     <string name="sim_location_error_notify_title">ซิมการ์ดผิดพลาด</string>
@@ -627,7 +634,7 @@
     <string name="package_setted_error_notification_titile">ไม่สามารถตั้งแพ็คเกจข้อมูลได้</string>
     <string name="package_setted_error_notification_summary">แตะเพื่อเรียกดูรายละเอียดการใช้ข้อมูล</string>
     <string name="traffic_config_alert_title">แก้ไข %s รายการ</string>
-    <string name="traffic_config_alert_auto_modify">อัพเดทแพ็คเกจการใช้ข้อมูลโดยอัตโนมัติ</string>
+    <string name="traffic_config_alert_auto_modify">อัปเดตแพ็คเกจการใช้ข้อมูลโดยอัตโนมัติ</string>
     <string name="traffic_config_alert_body">"แผนบริการของผู้ให้บริการของคุณแสดงข้อมูลนี้:%s 
 
  คุณจะดำเนินการนี้หรือไม่?"</string>
@@ -649,7 +656,7 @@
     <string name="traffic_limit_error_alert_package">"
 
 ข้อมูลที่เหลือประกอบด้วยข้อมูลที่ได้รับโอนถ่ายจากเดือนก่อน"</string>
-    <string name="traffic_alert_auto_modify_notification_titile">อัพเดทแพ็คเกจข้อมูลแล้ว</string>
+    <string name="traffic_alert_auto_modify_notification_titile">อัปเดตแพ็คเกจข้อมูลแล้ว</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">เปลี่ยนแพ็คเกจรายเดือนเป็น %s</string>
     <string name="traffic_alert_auto_modify_package_summary">ปรับแพ็คเกจตามข้อมูลของผู้ให้บริการโดยอัตโนมัติ</string>
     <string name="operator_name_cmcc">China Mobile</string>
@@ -705,7 +712,7 @@
     <string name="privacy_prompt_traffic_adjust_message">"หลังจากที่คุณเริ่มการปรับเทียบ MIUI จะเชื่อมต่อกับเครือข่ายเข้ารหัสข้อมูลผู้ให้บริการหมายเลขโทรศัพท์ IMEI และบัญชี Mi และอัปโหลดรายการเหล่านี้ไปยังเซิร์ฟเวอร์ Mi ทำเช่นนี้เพื่อรับเทมเพลตการปรับเทียบของผู้ให้บริการและเรียนรู้ว่าสามารถซื้อข้อมูลในตำแหน่งได้หรือไม่ 
 
 ขณะที่ปรับเทียบ MIUI จะส่งข้อความไปยังผู้ให้บริการเพื่อรับเทมเพลตการปรับเทียบ"</string>
-    <string name="privacy_prompt_tc_sms_report_message">หมายเลขโทรศัพท์ของคุณและข้อมูลจากผู้ให้บริการจะทำการเข้ารหัสและอัพโหลดไปยังเซิร์ฟเวอร์ของ Mi เพื่ออัพเดทสถิติการใช้งานข้อมูลมือถือของคุณ</string>
+    <string name="privacy_prompt_tc_sms_report_message">หมายเลขโทรศัพท์ของคุณและข้อมูลจากผู้ให้บริการจะทำการเข้ารหัสและอัพโหลดไปยังเซิร์ฟเวอร์ของ Mi เพื่ออัปเดตสถิติการใช้งานข้อมูลมือถือของคุณ</string>
     <string name="international_roaming_setting">การโรมมิ่งข้อมูล</string>
     <string name="domestic_roaming_setting">โรมมิ่งระหว่างประเทศ</string>
     <string name="pref_roaming_setting_gategory">การตั้งค่า</string>
@@ -878,10 +885,10 @@
     <string name="tc_diagnostic_status_error_brand">ไม่พบผู้ให้บริการเครือข่าย</string>
     <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>เครือข่ายผู้ให้บริการไม่ตอบสนอง&lt;/font>"</string>
     <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>ผลลัพธ์: สังกัดไม่ถูกต้อง&lt;br/>&lt;br/>กำหนดสังกัด: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>สังกัดที่ถูกต้อง: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>ผลลัพธ์: ผู้ให้บริการไม่ถูกต้อง&lt;br/>&lt;br/>กำหนดผู้ให้บริการ: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>ผู้ให้บริการที่ถูกต้อง: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>ผลลัพธ์: ผู้ให้บริการไม่ถูกต้อง&lt;br/>&lt;br/>กำหนดผู้ให้บริการ: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>ผู้ให้บริการที่ถูกต้อง: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>ผลลัพธ์: แพ็คเกจผู้ให้บริการไม่ถูกต้อง&lt;br/>&lt;br/>กำหนดแพ็คเกจ: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>แพ็คเกจที่ถูกต้อง: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>ผลลัพธ์: การวินิจฉัยล้มเหลว&lt;br/>&lt;br/>รายงานปัญหาเพื่อช่วยปรับปรุงเครื่องมือวินิจฉัยของ MIUI&lt;/font>"</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>ผลลัพธ์: เครือข่ายผู้ให้บริการและแพ็คเกจถูกต้อง&lt;br/>&lt;br/>ไม่สามารถเสร็จสิ่้นการปรับแก้ได้:&lt;br/>1. สถิติผู้ให้บริการอาจจะไม่แน่นอนในช่วงเริ่มต้นและสิ้นสุดของเดือน&lt;br/>2. คุณลักษณะแอปความปลอดภัยไม่ได้ทำการอัพเดต&lt;br/>&lt;br/>รายงานปัญหาเพื่อช่วยปรับปรุงเครื่องมือวินิจฉัยของ MIUI&lt;/font>"</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>ผลลัพธ์: เครือข่ายผู้ให้บริการและแพ็คเกจถูกต้อง&lt;br/>&lt;br/>ไม่สามารถเสร็จสิ่้นการปรับแก้ได้:&lt;br/>1. สถิติผู้ให้บริการอาจจะไม่แน่นอนในช่วงเริ่มต้นและสิ้นสุดของเดือน&lt;br/>2. คุณลักษณะแอปความปลอดภัยไม่ได้ทำการอัปเดต&lt;br/>&lt;br/>รายงานปัญหาเพื่อช่วยปรับปรุงเครื่องมือวินิจฉัยของ MIUI&lt;/font>"</string>
     <string name="tc_diagnostic_notification_title">วินิจฉัยผู้ให้บริการ</string>
     <string name="tc_diagnostic_notification_summary">การปรับแก้ล้มเหลว 5 ครั้งติดต่อกัน แตะเพื่อเริ่มต้นการวินิจฉัย</string>
     <string name="tc_diagnostic_upload_success">ขอบคุณสำหรับข้อเสนอแนะของคุณ!</string>
@@ -969,7 +976,7 @@
     <string name="om_running_system_apps">แอประบบที่กำลังใช้</string>
     <string name="om_running_third_apps">แอปจากแหล่งอื่นที่กำลังใช้</string>
     <string name="om_locked_apps_summary">แอปที่ถูกล็อกจะถูกปฏิเสธจากการเพิ่มความเร็ว</string>
-    <string name="power_center_title">การเพิ่มประสิทธิภาพแบตเตอรี่</string>
+    <string name="power_center_title">แบตเตอรี่และประสิทธิภาพ</string>
     <string name="power_center_back">ย้อนกลับ</string>
     <string name="power_center_auto_shutdown">ตั้งเวลาเปิด/ปิดเครื่อง</string>
     <string name="power_center_ontime_boot">เวลาเปิดเครื่อง</string>
@@ -1012,6 +1019,7 @@
     <string name="usage_type_data_send">ปริมาณข้อมูลขาออก</string>
     <string name="usage_type_no_coverage">ระยะเวลาที่อับสัญญาณ</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">แอนดรอยด์</string>
     <string name="process_mediaserver_label">เซิร์ฟเวอร์สื่อมีเดีย</string>
     <string name="power_screen">หน้าจอ</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1019,6 +1027,8 @@
     <string name="power_cell">สัญญาณมือถือ</string>
     <string name="power_phone">โทร (เสียง)</string>
     <string name="power_idle">โทรศัพท์ไม่ได้ใช้งาน</string>
+    <string name="power_ambient_display">หน้าจอแอมเบียนท์</string>
+    <string name="battery_desc_ambient_display">พลังงานที่ใช้โดยหน้าจอแอมเบียนท์</string>
     <string name="usage_type_cpu">การทำงานของซีพียูรวม</string>
     <string name="usage_type_cpu_foreground">การทำงานของซีพียูเบื้องหน้า</string>
     <string name="usage_type_wake_lock">ไม่ต้องพักเครื่อง</string>
@@ -1040,7 +1050,7 @@
     <string name="shutdown_cancel_reminder_detail">ระบบไม่ได้ปิดเครื่องในเวลาที่กำหนดเนื่องจากคุณใช้สายในขณะนั้นอยู่</string>
     <string name="shutdown_cancel_reminder_detail2">ดูเหมือนว่าคุณกำลังเล่นเกมในขณะนี้ ปิดตามเวลาที่กำหนดจะถูกยกเลิก</string>
     <string name="legal_workday_invalidate">จันทร์-ศุกร์ (ข้อมูลวันหยุดล้าสมัย)</string>
-    <string name="legal_workday_invalidate_message">แตะเพื่ออัพเดทข้อมูลวันหยุดราชการ</string>
+    <string name="legal_workday_invalidate_message">แตะเพื่ออัปเดตข้อมูลวันหยุดราชการ</string>
     <string name="legal_workday_message">(ข้ามวันหยุด)</string>
     <string name="boot_time_day">เปิดในอีก %1$d วัน เวลา %2$s</string>
     <string name="boot_time_day_tomorrow">เปิดพรุ่งนี้ เวลา %1$s</string>
@@ -1086,7 +1096,7 @@
     <string name="btn_text_optimize_now">เพิ่มประสิทธิภาพ</string>
     <string name="btn_text_optimize_manually">เพิ่มประสิทธิภาพด้วยตนเอง</string>
     <string name="battery_history_activity_title">ประวัติ</string>
-    <string name="btn_text_goto_power_rank">เรียกดูอันดับการใช้แบต</string>
+    <string name="btn_text_goto_power_rank">เรียกดูสถิติทั้งหมด</string>
     <string name="btn_text_goto_setup">ไปที่เมนูการตั้งค่า</string>
     <string name="power_save_title_text">ตัวประหยัดแบตเตอรี่</string>
     <string name="power_save_summary_text">เปิดใช้งานตัวประหยัดแบตเตอรี่เพื่อลดการทำงานในพื้นหลังของแอป, หยุดซิงค์ และลดภาพเคลื่อนไหวของระบบ</string>
@@ -1112,7 +1122,7 @@
     <string name="deep_power_save_item_title_bluetooth">ปิดใช้งานบลูทูธ</string>
     <string name="deep_power_save_item_summary_bluetooth">ปิดใช้งานบลูทูธเพื่อประหยัดแบตเตอรี่</string>
     <string name="deep_power_save_item_title_lock_screen_time">ทำให้หน้าจอหลับ</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">พักหน้าจอหลังไม่มีการใช้งาน 30 วินาที เพื่อประหยัดแบตเตอรี่</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">พักหน้าจอหลังไม่มีการใช้งาน 15 วินาที เพื่อประหยัดแบตเตอรี่</string>
     <string name="power_save_mode_enable">ตัวประหยัดแบตเตอรี่</string>
     <string name="power_save_mode_summary">เปิดใช้งานโหมดประหยัดพลังงาน ระบบจะควบคุมกิจกรรมในพื้นหลังและปิดใช้งานการซิงค์</string>
     <string name="power_optimize_save_mode_not_opened">โหมดประหยัดแบตเตอรี่ปิดใช้งาน</string>
@@ -1234,12 +1244,17 @@
     <string name="power_center_list_item_auto_brightness">ปรับความสว่างหน้าจอโดยอัตโนมัติ</string>
     <string name="power_center_list_item_deep_save_title">การตั้งค่าขั้นสูง</string>
     <string name="power_center_list_item_battery_status_time">ชม.</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">หยุดการสแกน</string>
     <string name="hide_mode_result_summary_text">ปรับแต่งการตั้งค่าตัวประหยัดแบตเตอรี่ของแต่ละแอป</string>
     <string name="auto_task_result_summary_text">ตั้งค่างานอัตโนมัติสำหรับตัวประหยัดแบตเตอรี่</string>
-    <string name="pc_settings_title">การตั้งค่าการเพิ่มประสิทธิภาพแบตเตอรี่</string>
+    <string name="pc_settings_title">การตั้งค่าแบตเตอรี่และประสิทธิภาพ</string>
     <string name="pc_main_activity_back">ย้อนกลับ</string>
     <string name="extreme_power_save_mode_card_summary">เปิดใช้งานตัวประหยัดแบตเตอรี่ขั้นสูงเพื่อประหยัดพลังงานเมื่อแบตเตอรี่ต่ำ</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="power_save_ps_limit">จำกัดกิจกรรมของแอประบบ</string>
     <string name="power_save_ps_freeze">หยุดการกระทำแอปในพื้นหลัง</string>
     <string name="power_save_ps_clean">ล้างแคชเมื่อใดก็ตามที่อุปกรณ์ล็อก</string>
@@ -1259,6 +1274,15 @@
     <string name="power_setting_category_other">การตั้งค่าเพิ่มเติม</string>
     <string name="power_setting_background_app_save_title">ตัวประหยัดแบตเตอรี่พื้นหลัง</string>
     <string name="power_setting_background_app_save_summary">จำกัดกิจกรรมของแอปในพื้นหลังโดยไม่กระทบต่อการทำงาน</string>
+    <string name="power_setting_warm_configure">ควบคุมอุณหภูมิ</string>
+    <string name="power_setting_config_scenario_policies_title">สถานการณ์</string>
+    <string name="power_setting_scenario_policies_summary">ระบุสถานการณ์เพื่อสลับระหว่างโหมดประหยัดแบตเตอรี่โดยอัตโนมัติ</string>
+    <string name="power_setting_important_warning">คำเตือน</string>
+    <string name="power_setting_warm_performance_tip">สถานการณ์ที่ต้องใช้พลังงานสูงจะเพิ่มอุณหภูมิของอุปกรณ์ของคุณเหนือระดับของโหมดควบคุมอุณหภูมิเริ่มต้น</string>
+    <string name="power_setting_features">คุณลักษณะพิเศษ</string>
+    <string name="power_setting_wireless_reverse_charging_title">ย้อนกลับการชาร์จแบบไร้สาย</string>
+    <string name="power_setting_wireless_reverse_charging_summary">ชาร์จอุปกรณ์ที่เข้ากันได้แบบไร้สาย</string>
+    <string name="battery_and_property">แบตเตอรี่และประสิทธิภาพ</string>
     <string name="power_settings_lock_screen_saver_title">การตั้งค่าหน้าจอล็อก</string>
     <string name="quick_optimize_sub_summary_with_battery_text">เพิ่มแล้ว %1$s ใช้ได้อีกประมาณ %2$s</string>
     <string name="quick_optimize_sub_battery_text">ใช้ได้อีกประมาณ %s</string>
@@ -1273,6 +1297,17 @@
     <string name="pc_main_sub_battery_text_hour_minute">ใช้ได้อีก %1$s ชม. %2$s น.</string>
     <string name="pc_main_power_manager_day_hour">%1$s วัน %2$s ชม. จะชาร์จเต็ม</string>
     <string name="pc_main_power_manager_hour_minute">%1$s ชม. %2$s น. จะชาร์จเต็ม</string>
+    <string name="battery_statistics_activity_title">สถิติการใช้แบตเตอรี่</string>
+    <string name="pc_battery_history_consume_rank_menu_item">จัดอันดับ</string>
+    <string name="pc_battery_history_battery_detail_menu_item">รายละเอียด</string>
+    <string name="pc_battery_history_rank_percent_menu_item">เปอร์เซ็นต์</string>
+    <string name="pc_battery_history_rank_mha_menu_item">mAh</string>
+    <string name="pc_battery_detail_curve_reference_now">ขณะนี้</string>
+    <string name="pc_battery_detail_device_item_title">สถิติการใช้แบตเตอรี่</string>
+    <string name="pc_statistics_battery_use_title">การใช้แบตเตอรี่</string>
+    <string name="pc_statistics_battery_use_summary">%s ตั้งแต่การชาร์จล่าสุด</string>
+    <string name="pc_statistics_battery_use_hour_minute">%1$dชม. %2$dนาที ตั้งแต่การชาร์จล่าสุด</string>
+    <string name="pc_statistics_battery_last_hour_minute">เหลืออีก %1$dชม. %2$dนาที</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s กำลังกินแบต</string>
     <string name="notification_battery_scan_consume_abnormal_summary">แตะเพื่อแก้ไขปัญหา</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">ป้องกันไม่ให้ระบบเข้าสู่โหมดสแตนด์บาย</string>
@@ -1282,14 +1317,46 @@
     <string name="pc_abnormal_scan_reason_wake_system">ปลุกระบบบ่อยเกินไป</string>
     <string name="pc_abnormal_scan_reason_reconnect">ลองเชื่อมต่อเครือข่ายบ่อยเกินไป</string>
     <string name="pc_abnormal_scan_button_text">ปิดแอป</string>
+    <string name="superpower_settings">ตัวประหยัดแบตเตอรี่อัลตร้า</string>
+    <string name="superpower_notification_time_12">EEEE dd MMMM</string>
+    <string name="superpower_notification_time_24">EEEE dd MMMM</string>
+    <string name="superpower_notification_hint_enter">เปิดใช้งาน</string>
+    <string name="superpower_savemode_limit1">ธีมมืด</string>
+    <string name="superpower_savemode_limit2">จำกัดการทำงานในพื้นหลัง</string>
+    <string name="superpower_savemode_limit3">จำกัดกิจกรรมที่สิ้นเปลืองพลังงาน (ซิงค์, GPS, การสั่นสะเทือน, การแสดงผล Ambient ฯลฯ )</string>
+    <string name="superpower_savemode_limit4">อนุญาตให้แอปที่เลือกทำงานตามปกติ</string>
+    <string name="superpower_settins_switch_summary">จำกัด คุณสมบัติการใช้พลังงานส่วนใหญ่เพื่อให้ฟังก์ชันการใช้งานพื้นฐาน (เช่น การโทร, SMS และแอพที่เลือก) ใช้ได้นานที่สุด</string>
+    <string name="superpower_settins_autoleave_title">ปิดการใช้งานโดยอัตโนมัติ</string>
+    <string name="superpower_settins_autoleave_summary">ปิดการประหยัดแบตเตอรี่อัลตร้าโดยอัตโนมัติเมื่อชาร์จแบตเตอรี่ถึง 50%</string>
+    <string name="superpower_settins_other">การตั้งค่าเพิ่มเติม</string>
+    <string name="superpower_settins_autoenter_title">เปิดการใช้งานโดยอัตโนมัติ</string>
+    <string name="superpower_settins_autoenter_summary">เปิดการประหยัดแบตเตอรี่อัลตร้าโดยอัตโนมัติเมื่อแบตเตอรี่เหลือแค่ 10%</string>
+    <string name="superpower_notification_title">แบตเตอรี่เหลือน้อยกว่า 10%</string>
+    <string name="superpower_notification_summary">เปิดใช้งานการประหยัดแบตเตอรี่อัลตร้า</string>
+    <string name="superpower_dialog_title">ตัวประหยัดแบตเตอรี่อัลตร้า</string>
+    <string name="superpower_dialog_massage">ประหยัดแบตเตอรี่อัลตร้าจำกัดคุณลักษณะการใช้พลังงานมากที่สุดและลดประสิทธิภาพของอุปกรณ์ของคุณเพื่อที่จะออกจากฟังก์ชั่นพื้นฐาน (เช่น การโทร SMS และการเชื่อมต่อกับเครือข่าย) ใช้ได้นานที่สุด เปิดตัวประหยัดแบตเตอรี่อัลตร้าหรือไม่?</string>
+    <string name="superpower_dialog_button_ok">ตกลง</string>
+    <string name="superpower_dialog_button_disable_dialog">ไม่ต้องแสดงอีก</string>
+    <string name="superpower_progress_title">เวลาที่เหลือ</string>
+    <string name="superpower_progress_content">เปิดใช้งานการประหยัดแบตเตอรี่อัลตร้า…</string>
+    <string name="superpower_progress_turnoff_items">กำลังจำกัดกิจกรรมที่สิ้นเปลืองพลังงาน</string>
+    <string name="superpower_progress_turnoff_process">จำกัดการทำงานในพื้นหลัง</string>
+    <string name="superpower_progress_turndown_brightness">ลดความสว่างของหน้าจอ</string>
+    <string name="superpower_progress_switch_home">เปลี่ยนเป็นธีมมืด</string>
+    <string name="superpower_progress_left_time">%1$dชม. %2$dนาที</string>
+    <string name="pc_search_keywords_battery">แบตเตอรี่</string>
+    <string name="pc_search_keywords_battery_save">ตัวประหยัดแบตเตอรี่</string>
+    <string name="pc_search_keywords_battery_use">การใช้แบตเตอรี่</string>
+    <string name="pc_search_keywords_capacity">ความจุแบตเตอรี่</string>
+    <string name="pc_search_keywords_property">ประสิทธิภาพ</string>
     <string name="handle_bar_title_system">ระบบ</string>
     <string name="apps_list_header_title_sms">ตรวจสอบแอปข้อความ</string>
     <string name="apps_list_header_title_sms_access">จำกัดการเข้าถึงรหัสยืนยัน</string>
-    <string name="apps_item_title_system">อัพเดทระบบ</string>
+    <string name="apps_item_title_system">อัปเดตระบบ</string>
     <string name="apps_item_summary_system_update">ข้อบกพร่องบางอย่างจะได้รับการแก้ไขในเวอร์ชั่นใหม่เพื่อทำให้การชำระเงินปลอดภัยมากขึ้น</string>
     <string name="apps_item_summary_system_rooted">การเข้าถึงรูทได้รับอนุญาต เรียกคืนการตั้งค่าเริ่มต้นเพื่อหลีกเลี่ยงความเสี่ยงด้านความปลอดภัย!</string>
     <string name="apps_item_summary_sms">%s มีการเข้าถึงข้อความของคุณซึ่งอาจก่อให้เกิดปัญหาด้านความปลอดภัย</string>
-    <string name="button_text_update_now">อัพเดต</string>
+    <string name="button_text_update_now">อัปเดต</string>
     <string name="button_text_fix_now">ซ่อมแซม</string>
     <string name="button_text_open_now">เปิด</string>
     <string name="button_text_forbid_now">ห้าม</string>
@@ -1311,7 +1378,7 @@
     <string name="wifi_item_title_arp_attack">การโจมตีของ ARP</string>
     <string name="wifi_item_status_connection_no">ไม่ได้เชื่อมต่อ</string>
     <string name="main_activity_content_summary_root">เข้าถึงรูท</string>
-    <string name="main_activity_content_summary_update">อัพเดทระบบ</string>
+    <string name="main_activity_content_summary_update">อัปเดตระบบ</string>
     <string name="result_wifi_header">ตรวจพบความเสี่ยงจาก Wi-Fi</string>
     <string name="result_sms_header">ตรวจพบความเสี่ยงจากข้อความ</string>
     <string name="result_autoscan_header">ตรวจสอบการชำระเงิน</string>
@@ -1348,8 +1415,8 @@
     <string name="sp_settings_group_title_check_item">หลายรายการ</string>
     <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_check_item_title_root">การรูท</string>
-    <string name="sp_settings_check_item_title_update">อัพเดทระบบ</string>
-    <string name="sp_settings_check_item_title_virus_exception">รายการไวรัสที่ยกเว้น</string>
+    <string name="sp_settings_check_item_title_update">อัปเดตระบบ</string>
+    <string name="sp_settings_check_item_title_virus_exception">รายการยกเว้น</string>
     <string name="sp_settings_check_item_title_sign_exception">ลายเซ็นต์รายการยกเว้น</string>
     <string name="sp_settings_check_item_summary_virus_exception">จัดการรายการไวรัสที่ยกเว้น</string>
     <string name="sp_settings_check_item_summary_sign_exception">จัดการลายเซ็นต์รายการยกเว้น</string>
@@ -1366,7 +1433,7 @@
     <string name="dialog_no_longer_alert">ไม่ต้องแสดงอีก</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">แจ้งเตือน Wi-Fi สาธารณะ</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">คุณเชื่อมต่อกับเครือข่าย Wi-Fi สาธารณะซึ่งอาจไม่ปลอดภัย ตรวจสอบว่าการชำระเงินของคุณได้รับการคุ้มครองก่อนที่คุณจะดำเนินการให้เสร็จสมบูรณ์</string>
-    <string name="sc_warning_updater_not_found">ไม่พบการอัพเดตแอป</string>
+    <string name="sc_warning_updater_not_found">ไม่พบการอัปเดตแอป</string>
     <string name="sp_background_risk_dialog_title">แจ้งเตือน</string>
     <string name="sp_background_risk_dialog_summary">, ตรวจสอบและแก้ไขปัญหาการชำระเงิน</string>
     <string name="sp_background_risk_type_wifi">เครือข่าย Wi-Fi นี้ไม่ปลอดภัย</string>
@@ -1385,8 +1452,6 @@
     <string name="btn_text_quick_scan">สแกน</string>
     <string name="menu_text_antivirus">สแกนด้านความปลอดภัย</string>
     <string name="menu_summary_antivirus">ค้นหาไวรัสในอุปกรณ์นี้</string>
-    <string name="menu_summary_antivirus_2">พบความเสี่ยงที่อาจเกิดขึ้น</string>
-    <string name="menu_summary_antivirus_3">ยังไม่ได้สแกนอุปกรณ์</string>
     <string name="menu_text_optimize_manage">เพิ่มความเร็ว</string>
     <string name="menu_text_networkassistants">การใช้ข้อมูล</string>
     <string name="menu_summary_networkassistants">จัดการแพ็คเกจข้อมูลของคุณ</string>
@@ -1395,24 +1460,25 @@
     <string name="menu_summary_networkassistants_4">ใช้ข้อมูลหมดแล้ว</string>
     <string name="menu_text_networkassistants_remain">คงเหลือ %s</string>
     <string name="menu_text_networkassistants_danger">ใช้เกินไป %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_antispam">รายการบล็อก</string>
     <string name="menu_summary_antispam">บล็อกสายเรียกเข้าและข้อความ</string>
-    <string name="menu_summary_antispam_2">บล็อกสายเรียกเข้าและข้อความแล้ว</string>
     <string name="menu_text_license_manager">การอนุญาต</string>
     <string name="menu_text_garbage_cleanup">ทำความสะอาด</string>
     <string name="menu_summary_garbage_cleanup">ไม่มีขยะ</string>
-    <string name="menu_summary_garbage_cleanup_2">ปริมาณขยะ</string>
-    <string name="menu_summary_garbage_cleanup_3">ล้างขยะทันที</string>
-    <string name="menu_text_power_manager">การเพิ่มประสิทธิภาพแบตเตอรี่</string>
+    <string name="menu_summary_garbage_cleanup_ex">ล้างขยะ %s</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
+    <string name="menu_text_power_manager">แบตเตอรี่และประสิทธิภาพ</string>
     <string name="menu_summary_power_manager">ตัวประหยัดแบตเตอรี่ช่วยให้โทรศัพท์ของคุณใช้งานได้นานขึ้น</string>
     <string name="menu_summary_power_manager_1">ชาร์จแบตเตอรี่เต็มแล้ว</string>
     <string name="menu_summary_power_manager_2">คงเหลือ %s</string>
     <string name="menu_summary_power_manager_3">เสียบที่ชาร์จ</string>
     <string name="menu_summary_power_manager_4">ชาร์จเต็มในอีก %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">การสแกนครั้งล่าสุดถูกยกเลิก</string>
     <string name="examination_score_100">ไม่พบสิ่งผิดปกติ!</string>
     <string name="examination_score_80_100">ยังปรับแต่งเล็กน้อยให้ดีขึ้นได้อีก</string>
@@ -1426,8 +1492,7 @@
     <string name="activity_title_license_manager">การอนุญาต</string>
     <string name="activity_title_power_manager">การเพิ่มประสิทธิภาพแบตเตอรี่</string>
     <string name="activity_title_garbage_cleanup">ทำความสะอาด</string>
-    <string name="menu_summary_app_manager">อัพเดทและถอนการติดตั้งแอป</string>
-    <string name="menu_summary_app_manager_2">อัพเดตพร้อมใช้งาน</string>
+    <string name="menu_summary_app_manager">อัปเดตและถอนการติดตั้งแอป</string>
     <string name="memory_check_content">ปล่อยไป %s</string>
     <string name="memory_clear_unused">ล้างหน่วยความจำแคช (%s)</string>
     <string name="activity_title_virus">ไวรัส</string>
@@ -1465,8 +1530,8 @@
     <string name="title_dev_no">ตัวเลือกสำหรับผู้พัฒนาระบบเปิดอยู่</string>
     <string name="summary_dev">ป้องกันเครื่องจากมัลแวร์และปกป้องข้อมูลส่วนบุคคล</string>
     <string name="item_usb_debug">การดีบักผ่าน USB</string>
-    <string name="item_virus_lib">อัพเดทฐานข้อมูลไวรัสโดยอัตโนมัติ</string>
-    <string name="item_system_auto_download">ดาวน์โหลดอัพเดทอัตโนมัติ</string>
+    <string name="item_virus_lib">อัปเดตฐานข้อมูลไวรัสโดยอัตโนมัติ</string>
+    <string name="item_system_auto_download">ดาวน์โหลดอัปเดตอัตโนมัติ</string>
     <string name="item_install_monitor">เฝ้าระวังการติดตั้งแอป</string>
     <string name="item_app_permission">การอนุญาตของแอป</string>
     <string name="item_mms">กรองข้อความไม่พึงประสงค์</string>
@@ -1495,12 +1560,12 @@
     <string name="menu_item_virus_install_monitor_title">สแกนก่อนทำการติดตั้ง</string>
     <string name="menu_item_virus_install_monitor_summary">ตรวจสอบหาไวรัสก่อนการติดตั้งแอปทุกครั้ง</string>
     <string name="activity_title_virus_settings">การตั้งค่า</string>
-    <string name="hints_virus_lib_update_default_summary">ไม่ทราบเวลาอัพเดทครั้งล่าสุด</string>
-    <string name="menu_item_virus_lib_auto_update_summary">อัพเดทเมื่อ %s</string>
+    <string name="hints_virus_lib_update_default_summary">ไม่ทราบเวลาอัปเดตครั้งล่าสุด</string>
+    <string name="menu_item_virus_lib_auto_update_summary">อัปเดตเมื่อ %s</string>
     <string name="hints_virus_app_list_item_summary">แอป</string>
     <string name="hints_virus_apk_list_item_summary">apk</string>
     <string name="hints_loading_text">กำลังโหลด…</string>
-    <string name="security_center_slogan">ความปลอดภัย ระวังอยู่เสมอ</string>
+    <string name="security_center_slogan">ทำให้อุปกรณ์ของคุณปลอดภัยและรวดเร็ว</string>
     <string name="activity_title_auto_start_manager">เริ่มต้นอัตโนมัติ</string>
     <string name="activity_title_permission_manager">การอนุญาต</string>
     <string name="activity_title_other_permission_manager">การอนุญาตอื่นๆ</string>
@@ -1526,6 +1591,8 @@
     <string name="permission_action_accept">ยอมรับ</string>
     <string name="permission_action_prompt">แจ้งให้ทราบ</string>
     <string name="permission_action_reject">ปฏิเสธ</string>
+    <string name="permission_action_always">อนุญาตตลอด</string>
+    <string name="permission_action_foreground">ในขณะที่ใช้แอป</string>
     <string name="empty_title_permission_apps_list">ไม่มีแอป</string>
     <string name="old_sdk_deny_warning">แอปไม่สามารถเข้ากันกับการร้องขอสิทธิ์การใช้งานแอนดรอยด์ล่าสุด การไม่อนุญาตอาจส่งผลกระทบกับการทำงานของแอปนี้</string>
     <string name="empty_title_root_apps">ไม่มีแอปใดใช้งานรูทได้</string>
@@ -1588,7 +1655,7 @@
     <string name="empty_title_manual_item_white_list">ไม่มีรายการยกเว้น</string>
     <string name="title_cloud_account">บัญชี Mi</string>
     <string name="summary_cloud_account">ใช้ประโยชน์จากเครื่อง Mi ของคุณให้ได้ประโยชน์สูงสุด</string>
-    <string name="title_cloud_service">Mi คลาวด์</string>
+    <string name="title_cloud_service">Xiaomi คลาวด์</string>
     <string name="summary_cloud_service">ซิงค์รูปภาพ รายชื่อผู้ติดต่อและข้อมูลอื่นๆ ระหว่างอุปกรณ์ต่างๆ ของคุณ</string>
     <string name="title_network_switch">การเชื่อมต่อกับเครือข่าย</string>
     <string name="summary_network_switch">อนุญาตให้แอปความปลอดภัยเชื่อมกับต่ออินเตอร์เน็ตได้</string>
@@ -1609,12 +1676,12 @@
     <string name="summary_flow_purchase">ดูเหมือนว่ามีข้อมูลไม่มากพอ ซื้อข้อมูลเพิ่มเพื่อรักษาการเชื่อมต่อ</string>
     <string name="title_show_notification">วิดเจ็ตแถบการแจ้งเตือน</string>
     <string name="summary_show_notification">ล้างแคช, ดูสถานะแบตเตอรี่ และรายการบล็อกในแถบการแจ้งเตือน</string>
-    <string name="title_garbage_lib">อัพเดทฐานข้อมูลขยะ</string>
+    <string name="title_garbage_lib">อัปเดตฐานข้อมูลขยะ</string>
     <string name="summary_garbage_lib">ลบสปายแวร์ แอดแวร์ และไฟล์ขยะที่ไม่เป็นที่ต้องการโดยใช้ฐานข้อมูลล่าสุดของระบบ</string>
     <string name="title_device_not_root">ไม่สามารถเข้าถึงรูทได้</string>
     <string name="title_permission_root">เข้าถึงรูท</string>
     <string name="summary_permission_root">ดูเหมือนว่าอุปกรณ์นี้มีการเข้าถึงรูท ซึ่งอาจทำให้มีผลต่อการรักษาความปลอดภัยอุปกรณ์ของคุณ</string>
-    <string name="title_app_update">พบอัพเดทสำหรับแอป</string>
+    <string name="title_app_update">พบอัปเดตสำหรับแอป</string>
     <string name="title_find_device">ค้นหาอุปกรณ์</string>
     <string name="summary_find_device">ค้นหาพิกัดและสั่งล็อกเครื่องของคุณได้จากทุกที่</string>
     <string name="title_realname_verify">การยืนยันตัวตน</string>
@@ -1623,15 +1690,15 @@
     <string name="summary_mifi_insurance">รัปประกันเปลี่ยนใหม่ 1 ปี กรณีที่เกิดจากความเสียหายของฮาร์ดแวร์</string>
     <string name="title_cloud_space_almost_full">พื้นที่ในคลาวด์ใกล้เต็ม อาจซิงค์ข้อมูลได้ไม่ครบ</string>
     <string name="summary_cloud_space_almost_full">เพิ่มที่จัดเก็บข้อมูล</string>
-    <string name="title_cloud_space_full">Mi คลาวด์พื้นที่เต็ม</string>
+    <string name="title_cloud_space_full">Xiaomi คลาวด์พื้นที่เต็ม</string>
     <string name="summary_cloud_space_full">ซื้อพื้นที่จัดเก็บเพิ่ม พร้อมรับบริการเสริมพิเศษ</string>
-    <string name="title_auto_update">อัพเดทโดยอัตโนมัติ</string>
-    <string name="summary_auto_update">MIUI จะเลือกเวลาที่เหมาะสมที่สุดในการดาวน์โหลดและติดตั้งชุดอัพเดท</string>
+    <string name="title_auto_update">อัปเดตโดยอัตโนมัติ</string>
+    <string name="summary_auto_update">MIUI จะเลือกเวลาที่เหมาะสมที่สุดในการดาวน์โหลดและติดตั้งชุดอัปเดต</string>
     <string name="title_rcs_switch">เปิดใช้งานข้อความ China Mobile</string>
     <string name="summary_rcs_switch">ส่งข้อความ SMS ไปยังผู้ใช้ China Mobile โดยไม่มีค่าใช้จ่าย</string>
     <string name="title_miui_update_latest">MIUI เป็นรุ่นล่าสุดแล้ว</string>
-    <string name="title_miui_update">พบอัพเดทของระบบ</string>
-    <string name="summary_miui_update">พบการอัพเดทสำหรับ %s</string>
+    <string name="title_miui_update">พบอัปเดตของระบบ</string>
+    <string name="summary_miui_update">พบการอัปเดตสำหรับ %s</string>
     <string name="title_virus_cloudscan">สแกนไวรัสคลาวด์</string>
     <string name="summary_virus_cloudscan">อัพโหลดชื่อพร้อมรายละเอียดแอปและสแกนโดยใช้ฐานข้อมูลไวรัสออนไลน์ของระบบ</string>
     <string name="title_cleaner_cloudscan">สแกนขยะคลาวด์</string>
@@ -1643,7 +1710,7 @@
     <string name="toast_auto_traffic_correct">การใช้ข้อมูลจะถูกปรับเทียบโดยอัตโนมัติ</string>
     <string name="toast_show_notification">ตรึงไว้บนแถบการแจ้งเตือน</string>
     <string name="toast_cleaner_cloudscan">ตัวทำความสะอาดจะใช้ฐานข้อมูลออนไลน์</string>
-    <string name="toast_garbage_lib">ตัวทำความสะอาดได้เปิดใช้การอัพเดทอัตโนมัติแล้ว</string>
+    <string name="toast_garbage_lib">ตัวทำความสะอาดได้เปิดใช้การอัปเดตอัตโนมัติแล้ว</string>
     <string name="title_app_lock_disable">ล็อกแอป</string>
     <string name="summary_app_lock_disable">ใช้งานล็อกแอปเพื่อป้องกันแอปของคุณ</string>
     <string name="title_first_aid_kit">แก้ปัญหา</string>
@@ -1702,30 +1769,30 @@
     <string name="antivirus_none_engine_dialog_ok">ตกลง</string>
     <string name="antivirus_privacy_dialog_title">นโยบายความเป็นส่วนตัว</string>
     <string name="antivirus_privacy_dialog_summary">การใช้งานคุณลักษณะนี้จะเข้ารหัสและทำการอัพโหลดรหัสประจำเครื่องของคุณไปยังเซิร์ฟเวอร์ของ Avast, AVL และ Tencent (%s)</string>
-    <string name="antivirus_privacy_dialog_summary_link">ดูนโยบายความเป็นส่วนตัว</string>
+    <string name="antivirus_privacy_dialog_summary_link">นโยบายความเป็นส่วนตัว</string>
     <string name="antivirus_privacy_dialog_cloudscan">อัพโหลดชื่อแอปและรายละเอียด</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">อัพโหลดและสแกนรายชื่อแอปและรายละเอียดโดยอ้างอิงจากฐานข้อมูลไวรัสออนไลน์ของระบบ</string>
     <string name="antivirus_privacy_dialog_ok">ตกลง</string>
-    <string name="pref_title_manual_check_virus_db_update">ตรวจสอบการอัพเดท</string>
+    <string name="pref_title_manual_check_virus_db_update">ตรวจสอบการอัปเดต</string>
     <string name="virus_update_tips_title">คำเตือน</string>
     <string name="virus_wait_network_dialog_message">ขณะนี้โทรศัพท์ของคุณไม่ได้เชื่อมต่อกับ Wi-Fi ใช้การเชื่อมต่อข้อมูลมือถือหรือไม่?</string>
     <string name="antivirus_not_wlan">คุณไม่ได้เชื่อมต่อ Wi-Fi การใช้ข้อมูลมือถือคุณอาจจะต้องจ่ายค่าบริการเพิ่มเติม ดำเนินการต่อหรือไม่?</string>
-    <string name="antivirus_longtime_no_update">ดูเหมือนฐานข้อมูลไวรัสของคุณเก่าเกินไป การอัปเดตปกติช่วยให้ผลการสแกนดีขึ้น อนุญาตความปลอดภัยเพื่อเชื่อมต่ออินเทอร์เน็ตและอัพเดตฐานข้อมูลไวรัสหรือไม่?</string>
-    <string name="antivirus_longtime_no_update1">ดูเหมือนฐานข้อมูลไวรัสของคุณเก่าเกินไป การอัปเดตปกติช่วยให้ผลการสแกนดีขึ้น อัพเดทฐานข้อมูลไวรัสและลองอีกครั้ง</string>
-    <string name="antivirus_sec_network_unavailable">แอปความปลอดภัยไม่สามารถอัพเดทได้ เนื่องจากคุณจำกัดการเชื่อมต่อกับอินเทอร์เน็ต อนุญาตการเชื่อมต่อกับอินเทอร์เน็ตหรือไม่?</string>
+    <string name="antivirus_longtime_no_update">ดูเหมือนฐานข้อมูลไวรัสของคุณเก่าเกินไป การอัปเดตปกติช่วยให้ผลการสแกนดีขึ้น อนุญาตความปลอดภัยเพื่อเชื่อมต่ออินเทอร์เน็ตและอัปเดตฐานข้อมูลไวรัสหรือไม่?</string>
+    <string name="antivirus_longtime_no_update1">ดูเหมือนฐานข้อมูลไวรัสของคุณเก่าเกินไป การอัปเดตปกติช่วยให้ผลการสแกนดีขึ้น อัปเดตฐานข้อมูลไวรัสและลองอีกครั้ง</string>
+    <string name="antivirus_sec_network_unavailable">แอปความปลอดภัยไม่สามารถอัปเดตได้ เนื่องจากคุณจำกัดการเชื่อมต่อกับอินเทอร์เน็ต อนุญาตการเชื่อมต่อกับอินเทอร์เน็ตหรือไม่?</string>
     <string name="antivirus_update_btn_contiue">ดำเนินการต่อ</string>
     <string name="antivirus_update_btn_open">อนุญาต</string>
-    <string name="antivirus_update_btn_update">อัพเดต</string>
-    <string name="antivirus_toast_updating">กำลังอัพเดท…</string>
-    <string name="antivirus_toast_update_success">อัพเดทเสร็จสิ้น</string>
-    <string name="antivirus_toast_update_failed">ไม่สามารถอัพเดทได้</string>
+    <string name="antivirus_update_btn_update">อัปเดต</string>
+    <string name="antivirus_toast_updating">กำลังอัปเดต…</string>
+    <string name="antivirus_toast_update_success">อัปเดตเสร็จสิ้น</string>
+    <string name="antivirus_toast_update_failed">ไม่สามารถอัปเดตได้</string>
     <string name="antivirus_toast_already_update">เป็นปัจจุบัน</string>
     <string name="antivirus_toast_network_unavailable">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="handle_title_network">ความปลอดภัย Wi-Fi</string>
     <string name="handle_title_pay_env">สิ่งแวดล้อมการชำระเงิน</string>
     <string name="handle_title_privacy">ความเป็นส่วนตัว &amp; ความปลอดภัย</string>
     <string name="risk_count_suffix" />
-    <string name="virus_auto_update_engine">อัพเดตอัตโนมัติ: %s</string>
+    <string name="virus_auto_update_engine">อัปเดตอัตโนมัติ: %s</string>
     <string name="hints_scan_danger_result">พบความเสี่ยง แก้ปัญหาตอนนี้</string>
     <string name="ss_activity_main_support_text">สร้างสรรค์โดย %s</string>
     <string name="hints_virus_app_summary">%s (แอป)</string>
@@ -1794,6 +1861,7 @@
     <string name="card_main_deepclean_wechat_action">ล้าง</string>
     <string name="card_main_sectool_title">เครื่องมือ</string>
     <string name="card_main_monthreport_action">เรียกดู</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ทดสอบเครือข่าย</string>
     <string name="card_main_netcheck_summary">ทดสอบการเชื่อมต่อสำหรับปัญหาเครือข่าย</string>
     <string name="card_main_netcheck_action">ทดสอบ</string>
@@ -1850,7 +1918,7 @@
     <string name="ac_enter_applock">เข้าสู่การล็อกแอป</string>
     <string name="ac_mask_all_apps">ซ่อนสำหรับแอปทั้งหมด</string>
     <string name="ac_unmask_all_apps">เลิกซ่อนสำหรับแอปทั้งหมด</string>
-    <string name="ac_summaryOn">เปิดใช้งาน ต้องใช้รหัสผ่านเพื่อเปิดแอป</string>
+    <string name="ac_summaryOn">ป้อนรหัสผ่านเพื่อเปิดแอปที่ได้รับการป้องกัน</string>
     <string name="ac_summaryOff">ปิดใช้งาน ไม่ต้องใช้รหัสผ่านเพื่อเปิดแอป</string>
     <string name="lockpattern_tutorial_cancel_label">ยกเลิก</string>
     <string name="lockpattern_tutorial_continue_label">ถัดไป</string>
@@ -1864,8 +1932,8 @@
     <string name="modifypassword">เปลี่ยนรูปแบบรหัสผ่าน</string>
     <string name="back_modifypassword">กลับไปที่การเปลี่ยนประเภทรหัสผ่าน</string>
     <string name="showpattern">แสดงรูปแบบ</string>
-    <string name="notification_mask_title">ซ่อนเนื้อหา</string>
-    <string name="notification_mask_summary">ซ่อนเนื้อหาแจ้งเตือนทั้งบนหน้าจอล็อกและแถบการแจ้งเตือน</string>
+    <string name="notification_mask_title">ซ่อนเนื้อหาการแจ้งเตือน</string>
+    <string name="notification_mask_summary">ไม่แสดงเนื้อหาการแจ้งเตือนสำหรับแอปที่ได้รับการป้องกัน</string>
     <string name="convenient_mode">ปลดล็อกแอปทั้งหมดในครั้งเดียว</string>
     <string name="convenient_summary">ป้อนรหัสผ่านเพื่อปลดล็อกแอปทั้งหมด</string>
     <string name="suggest_app_tolock">ข้อเสนอแนะ</string>
@@ -2014,7 +2082,7 @@
     <string name="optimize_result_button_open_now">เปิดใช้งาน</string>
     <string name="optimize_result_button_realname_now">ยืนยัน</string>
     <string name="optimize_result_button_mifi_insurance">ซื้อตอนนี้</string>
-    <string name="optimize_result_button_update_now">อัพเดท</string>
+    <string name="optimize_result_button_update_now">อัปเดต</string>
     <string name="optimize_result_button_to_set">ตั้งค่า</string>
     <string name="optimize_result_button_fix_now">ซ่อมแซม</string>
     <string name="optimize_result_button_onekey_restore">เรียกคืนค่า</string>
@@ -2087,7 +2155,7 @@
     <string name="app_manager_uninstall_xspace_app_dlg_msg">การถอนการติดตั้งแอปโคลนจะลบข้อมูลแอปทั้งหมด</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">แอปที่โคลนไว้จะถูกลบออกพร้อมกับข้อมูลแอป</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">ถอนการติดตั้งแอปโคลน?</string>
-    <string name="app_manager_appupdate_remind">แจ้งให้ทราบเกี่ยวกับการอัพเดต</string>
+    <string name="app_manager_appupdate_remind">แจ้งให้ทราบเกี่ยวกับการอัปเดต</string>
     <string name="app_usage_never">ไม่เคยเรียกใช้</string>
     <string name="app_usage_recently">ที่ใช้ล่าสุด</string>
     <string name="app_manager_have_not_consume">ไม่มี</string>
@@ -2111,8 +2179,8 @@
     <string name="app_manger_des_separator">", "</string>
     <string name="app_manager_disable">ไม่อนุญาต</string>
     <string name="app_manager_factory_reset">ถอนการติดตั้งการอัปเดต</string>
-    <string name="app_manager_factory_reset_dlg_title">ถอนการติดตั้งอัพเดทไหม?</string>
-    <string name="app_manager_factory_reset_dlg_msg">การอัพเดตทั้งหมดในระบบแอปแอนดรอยด์นี้จะถูกถอนการติดตั้งทั้งหมด</string>
+    <string name="app_manager_factory_reset_dlg_title">ถอนการติดตั้งอัปเดตไหม?</string>
+    <string name="app_manager_factory_reset_dlg_msg">การอัปเดตทั้งหมดในระบบแอปแอนดรอยด์นี้จะถูกถอนการติดตั้งทั้งหมด</string>
     <string name="app_manager_system_mobile_disable">ปิดใช้งานข้อมูล</string>
     <string name="app_managere_not_have_app">ไม่มี</string>
     <string name="app_manager_pref_ads">ข้อเสนอแนะ</string>
@@ -2178,6 +2246,7 @@
     <string name="app_manager_find_apps">หาแอป</string>
     <string name="app_manager_thumbnail_blur_title">แสดงตัวอย่างแอปเบลอ</string>
     <string name="app_manager_thumbnail_blur_summary">แสดงตัวอย่างแอปเบลอล่าสุด</string>
+    <string name="app_manager_power_consume">%.1f%%</string>
     <string name="ad_btn_default_text">เรียนรู้เพิ่มเติม</string>
     <string name="open_activity_err">ไม่พบแอ็พพลิเคชัน</string>
     <string name="low_memory_warning_dialog_title">พื้นที่จัดเก็บไม่เพียงพอ</string>
@@ -2233,7 +2302,7 @@
     <string name="already_close_gamebooster">ตัวเร่งความเร็วในการเล่นเกมปิดอยู่</string>
     <string name="no_game">ไม่พบเกมส์</string>
     <string name="gamebooster_network_dialog_title">บางคุณลักษณะไม่พร้อมใช้งาน</string>
-    <string name="gamebooster_network_dialog_message">อนุญาตความปลอดภัยเพื่อเชื่อมต่อเครือข่ายในคำสั่ง เพื่อให้ใช้คุณลักษณะทั้งหมดของตัวเพิ่มความเร็วเกมส์ได้?</string>
+    <string name="gamebooster_network_dialog_message">อนุญาตแอปความปลอดภัยเพื่อเชื่อมต่อเครือข่ายในคำสั่ง เพื่อให้ใช้คุณลักษณะทั้งหมดของ Game Turbo ได้?</string>
     <string name="ask_create_shortcut">สร้างปุ่มลัดหน้าจอหลักหรือไม่?</string>
     <string name="create_shortcut">สร้างทางลัดหน้าจอหลักสำหรับตัวเร่งความเร็วเกม</string>
     <string name="i_know">รับทราบ</string>
@@ -2245,6 +2314,12 @@
     <string name="gmscore_support_service">บริการ Google พื้นฐาน</string>
     <string name="gmscore_support_remind">เปิดใช้งานคุณลักษณะนี้หากคุณพบปัญหาในการใช้ Gmail, Google Maps และแอป Google อื่นๆ การดำเนินการนี้อาจจะใช้งานแบตเตอรี่เพิ่มขึ้น</string>
     <string name="google_base_app_install_choice">แอปจำเป็นต้องใช้ Google Service Framework เพื่อให้ทำงานได้ตามปกติ ดาวน์โหลดและติดตั้งหรือไม่?</string>
+    <string name="function_gwsd_title">ไม่อนุญาตให้สายเรียกเข้าขัดจังหวะการเชื่อมต่อข้อมูล SIM</string>
+    <string name="function_gwsd_detail">"เกี่ยวกับคุณสมบัตินี้:
+ 1. สายเรียกเข้าสู่ซิมข้อมูลของคุณ จะไม่ขัดขวางการเชื่อมต่อข้อมูลมือถือ การเชื่อมต่อจะถูกขัดจังหวะเฉพาะเมื่อคุณรับสาย
+ 2. เมื่อเปิดใช้งานคุณสมบัตินี้ผู้โทรจะไม่ได้ยินเสียงเรียกเข้าระหว่างรอสาย สายเรียกเข้าจะสิ้นสุดลงหากคุณไม่ตอบรับภายใน 6 วินาที
+ 3. คุณสมบัตินี้ใช้งานได้กับซิมการ์ดข้อมูลเท่านั้น การโทรไปที่ซิมหลักของคุณจะขัดขวางการเชื่อมต่อข้อมูลมือถือ
+ 4. คุณสมบัตินี้รองรับเฉพาะ China Mobile และ China Unicom"</string>
     <string name="application_item_disable">จำกัดแล้ว</string>
     <string name="application_item_already_permission">อนุญาตแล้ว</string>
     <string name="man_add_application">เพิ่มแอปเริ่มต้นอัตโนมัติด้วยตนเอง</string>
@@ -2377,6 +2452,7 @@
     <string name="gamebox_display_3">สว่าง</string>
     <string name="gamebox_display_4">สว่าง &amp; อิ่มสี</string>
     <string name="gamebox_display_set">"การเพิ่มประสิทธิภาพของภาพ: "</string>
+    <string name="gamebox_milink">ฉายภาพ</string>
     <string name="gb_first_window_title">ตัวเร่งความเร็วในการเล่นเกม</string>
     <string name="gb_first_window_summary">เพิ่มความเร็วและประสิทธิภาพในระดับระบบ</string>
     <string name="gb_first_window_gamebox_summary_four">ล้างแคช บันทึกภาพหน้าจอและจับภาพหน้าจอ</string>
@@ -2411,6 +2487,7 @@
     <string name="gb_advance_settings_reset_dialog_content">เรียกคืนการตั้งค่าเริ่มต้นตอนนี้?</string>
     <string name="title_reply">ความคิดเห็น</string>
     <string name="title_like">ถูกใจ</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">ข้อมูลมือถือ</string>
     <string name="game_wid_viewpoint_buttom">พักสักนิด</string>
     <string name="video_repeat">เล่นอีกครั้ง</string>
@@ -2450,22 +2527,31 @@
     <string name="gamebox_recent_task_expand_fail">แอปที่ทำงานกับปุ่มลัดยังไม่ถูกติดตั้ง</string>
     <string name="gamecenter_install_sucessfull">ติดตั้งเสร็จสิ้น</string>
     <string name="gamecenter_install_fail">ไม่สามารถติดตั้งได้</string>
-    <string name="securityadd_update_tips_title">อัพเดท</string>
-    <string name="securityadd_update_tips_message">อัพเดทปลั๊กอินบริการด้านความปลอดภัยเพื่อรับการเข้าถึงคุณลักษณะล่าสุด %1$dMB จะถูกดาวน์โหลด</string>
+    <string name="securityadd_update_tips_title">อัปเดต</string>
+    <string name="securityadd_update_tips_message">อัปเดตปลั๊กอินบริการด้านความปลอดภัยเพื่อรับการเข้าถึงคุณลักษณะล่าสุด %1$dMB จะถูกดาวน์โหลด</string>
     <string name="securityadd_update_tips_cancle">ในภายหลัง</string>
-    <string name="securityadd_update_tips_now">อัพเดท</string>
-    <string name="securityadd_install_fail">ไม่สามารถอัพเดทปลั๊กอิน ลองอีกครั้ง</string>
+    <string name="securityadd_update_tips_now">อัปเดต</string>
+    <string name="securityadd_install_fail">ไม่สามารถอัปเดตปลั๊กอิน ลองอีกครั้ง</string>
     <string name="function_shield_settings_title">จำกัดคุณลักษณะต่อไปนี้เมื่อเล่นเกม</string>
     <string name="function_shield_auto_bright">ปิดใช้งานความสว่างอัตโนมัติ</string>
     <string name="function_shield_eye_shield">ปิดใช้งานโหมดอ่าน</string>
     <string name="function_shield_three_finger">จำกัดท่าทางหน้าจอ</string>
     <string name="function_shield_pull_notification_bar">ไม่ต้องเปิดแถบการแจ้งเตือน</string>
+    <string name="function_shield_voice_trigger">อย่าปลุก Mi AI ด้วยเสียง</string>
     <string name="choose_gs_show_way">เลือกทิศทางของหน้าจอ</string>
     <string name="gs_show_way">ทิศทางของหน้าจอ</string>
     <string name="gs_show_way_horizontal">แนวนอน</string>
     <string name="gs_show_way_vertical">แนวตั้ง</string>
     <string name="gb_global_settings">การตั้งค่าทั่วไป</string>
     <string name="gb_add_game_hint">เพิ่มรายการจากรายการของแอป</string>
+    <string name="gb_first_guide_title">เพิ่มความเร็วและประสิทธิภาพในระดับระบบ</string>
+    <string name="gb_first_guide_gamebox_des">ใช้ปุ่มลัดในขณะเล่นเกม</string>
+    <string name="gb_first_guide_handsfree_des">รับสายในพื้นหลัง</string>
+    <string name="gb_first_guide_shortcut_des">ปุ่มลัดหน้าจอหลักสำหรับ Game Turbo ถูกสร้างแล้ว</string>
+    <string name="gb_first_guide_function_shiled_title">ปิดใช้งานคุณลักษณะระบบเมื่อ Game Turbo เปิดอยู่</string>
+    <string name="stop_milink_connect">หยุดการฉายภาพหน้าจอ</string>
+    <string name="other_milink_connect">ไม่สามารถถ่ายทอดได้ คุณสมบัติอื่นกำลังถูกถ่ายทอดอยู่ในขณะนี้</string>
+    <string name="alert_back_milink_hangup_tips_content">การถ่ายทอดจะไม่ถูกขัดจังหวะในขณะที่คุณกำลังวางสาย คุณสามารถกดปุ่ม Power เพื่อปลุกหน้าจอ</string>
     <string name="notify_channel_name_security">ความปลอดภัยของระบบ</string>
     <string name="privacy_apps_category_title">แอปที่ซ่อนอยู่</string>
     <string name="privacy_apps">แอปที่ซ่อนอยู่</string>
@@ -2480,6 +2566,12 @@
     <string name="privacy_apps_checkbox_remind_choice">ไม่ต้องแสดงอีก</string>
     <string name="privacy_apps_go_to_use">เริ่ม</string>
     <string name="privacy_apps_close">ปิด</string>
+    <string name="privacy_apps_shield_message_title">ไม่ต้องแจ้งเตือน</string>
+    <string name="privacy_apps_shield_message_summary">ไม่แสดงการแจ้งเตือนสำหรับแอปที่ได้รับการป้องกัน</string>
+    <string name="privacy_apps_begin_use">เริ่ม</string>
+    <string name="privacy_apps_next_stup">ถัดไป</string>
+    <string name="privacy_apps_button_know">เข้าใจแล้ว</string>
+    <string name="privacy_apps_tutorial_dlg_title">วิธีค้นหาแอพที่ซ่อนอยู่</string>
     <string name="first_aid_stop_scan">หยุดการสแกน</string>
     <string name="first_aid_scanning_item1">กำลังตรวจสอบปัญหาด้านประสิทธิภาพ…</string>
     <string name="first_aid_scanning_item2">กำลังตรวจสอบปัญหาเครือข่าย…</string>
@@ -2552,6 +2644,55 @@
     <string name="third_desktop_dialog_content">เนื่องจากแอปชุดเรียกใช้ระบบจากบุคคลที่สามอาจส่งผลให้เกิดปัญหาเช่น การรั่วไหลของข้อมูล การเปลี่ยนแบตเตอรี่ผิดปกติและการล่าช้า เป็นต้น มีเพียงการตั้งค่าที่ได้รับการตรวจสอบโดย MIUI เป็นตัวเริ่มต้นของคุณ</string>
     <string name="third_desktop_dialog_ok">รับทราบ</string>
     <string name="user_guide">เลื่อนขึ้นเพื่อค้นหาเกมใหม่เพิ่มเติม</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">ยินดีต้อนรับสู่ %1s! แอปนี้ให้คุณใช้คุณสมบัติดังต่อไปนี้: %2s</string>
+    <string name="system_permission_declare_privacy_declare">เราเคารพและปกป้องความเป็นส่วนตัวของคุณ จำไว้ว่า %1s ต้องรวบรวมข้อมูลของคุณและต้องได้รับการอนุญาตต่อไปนี้เพื่อทำงานตามปกติ:</string>
+    <string name="system_permission_declare_analytics_declare">ขอขอบคุณที่ลงทะเบียนในโปรแกรมประสบการณ์ผู้ใช้ของเรา อุปกรณ์ของคุณต้องเชื่อมต่อกับอินเทอร์เน็ตเพื่อให้คุณสมบัตินี้ทำงานได้ตามปกติ คุณต้องให้สิทธิ์ต่อไปนี้เพื่ออนุญาตให้เรารวบรวมข้อมูลที่จะช่วยให้เราปรับปรุงผลิตภัณฑ์และบริการของเรา ข้อมูลนี้ถูกรวบรวมเพื่อวัตถุประสงค์ทางสถิติเท่านั้น เราจะไม่สามารถใช้ข้อมูลนี้เพื่อระบุตัวตนของคุณเป็นการส่วนตัว</string>
+    <string name="system_permission_declare_privacy_no_permission">โปรดทราบว่า %1s จำเป็นต้องรวบรวมข้อมูลของคุณเพื่อให้ทำงานได้ตามปกติเราเคารพและปกป้องความเป็นส่วนตัวของคุณ</string>
+    <string name="system_permission_declare_use_network">เชื่อมต่อกับเครือข่าย</string>
+    <string name="system_permission_declare_use_network_no_permission">เชื่อมต่อกับเครือข่าย</string>
+    <string name="system_permission_declare_no_say_no">หากคุณเลือกที่จะไม่ให้สิทธิ์ที่จำเป็นหรือไม่อนุญาตให้เรารวบรวมและใช้ข้อมูลของคุณแอปนี้จะไม่สามารถทำงานได้ตามปกติ</string>
+    <string name="system_permission_declare_no_say_no_analytics">หากคุณไม่ต้องการให้สิทธิ์เหล่านี้คุณสามารถยกเลิกการลงทะเบียนในการตั้งค่า > การตั้งค่าเพิ่มเติม > ความเป็นส่วนตัว > โปรแกรมประสบการณ์ผู้ใช้</string>
+    <string name="system_permission_declare_no_say_no_non_mandatory">หากคุณเลือกที่จะไม่ให้สิทธิ์ที่จำเป็นหรือไม่อนุญาตให้เรารวบรวมและใช้ข้อมูลของคุณแอปนี้จะไม่สามารถทำงานได้บางส่วน</string>
+    <string name="system_permission_declare_revoke_uninstallable">คุณสามารถ ลงชื่อออก ถอนการติดตั้งแอปนี้ หรือจัดการการอนุญาต และการให้สิทธิ์ใน ความปลอดภัย > จัดการแอป > การอนุญาต > การอนุญาต</string>
+    <string name="system_permission_declare_revoke_system">คุณสามารถออกจากแอปนี้ได้</string>
+    <string name="system_permission_declare_double_link">&lt;Data>อ่านและยอมรับ &lt;a href=\"%1$s\">ข้อตกลงการใช้&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ขก่อนที่จะใช้คุณสมบัตินี้&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement">&lt;Data>อ่านและยอมรับ &lt;a href=\"%1$s\">ข้อตกลงการใช้&lt;/a> ก่อนที่จะใช้คุณสมบัตินี้&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data>อ่านและยอมรับ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ก่อนที่จะใช้คุณสมบัตินี้&lt;/Data></string>
+    <string name="system_permission_declare_agree">ยอมรับ</string>
+    <string name="system_permission_declare_disagree">ไม่เห็นด้วย</string>
+    <string name="system_permission_perm_send_mms">ส่ง MMS</string>
+    <string name="system_permission_perm_read_mms">อ่าน MMS</string>
+    <string name="system_permission_perm_answer_call">โทรออก</string>
+    <string name="system_permission_perm_read_numbers">อ่านหมายเลขโทรศัพท์</string>
+    <string name="permgroupdesc_contacts">เข้าถึงรายชื่อผู้ติดต่อ</string>
+    <string name="permgroupdesc_location">เข้าถึงข้อมูลตำแหน่งพิกัด</string>
+    <string name="permgroupdesc_calendar">เข้าถึงกำหนดการในปฏิทิน</string>
+    <string name="permgroupdesc_sms">อ่านหรือส่งข้อความ SMS</string>
+    <string name="permgroupdesc_storage">เข้าถึงรูปภาพหรือไฟล์บนอุปกรณ์</string>
+    <string name="permgroupdesc_microphone">บันทึกเสียง</string>
+    <string name="permgroupdesc_camera">ถ่ายภาพและบันทึกวิดีโอ</string>
+    <string name="permgroupdesc_calllog">เข้าถึงและบันทึกรายการไปที่ประวัติการโทร</string>
+    <string name="permgroupdesc_phone">โทรออกและจัดการการสนทนา</string>
+    <string name="permgroupdesc_sensors">เข้าถึงข้อมูลเซ็นเซอร์ร่างกาย</string>
+    <string name="permgroupdesc_recognition">เข้าถึงข้อมูลสุขภาพและกิจกรรม</string>
+    <string name="phone_manage">คุณประโยชน์</string>
+    <string name="securitycenter_tab_title">ความปลอดภัย</string>
+    <string name="phone_manage_system_tool_title">เครื่องมือ</string>
+    <string name="phone_manage_system_tool_summary">เครื่องมือระบบที่มีประโยชน์</string>
+    <string name="phone_manage_clean_title">ตัวทำความสะอาด</string>
+    <string name="phone_manage_clean_summary">เพิ่มพื้นที่ที่จัดเก็บข้อมูล</string>
+    <string name="phone_manage_app_manager_summary">จัดการแอปบนอุปกรณ์ของคุณ</string>
+    <string name="phone_manage_electric_title">แบตเตอรี่</string>
+    <string name="phone_manage_electric_summary">เพิ่มประสิทธิภาพอุปกรณ์ของคุณเพื่อประหยัดแบตเตอรี่</string>
+    <string name="phone_manage_special_title">คุณลักษณะพิเศษ</string>
+    <string name="phone_manage_special_summary">สำรวจฟังก์ชันการทำงานเพิ่มเติมของเรา</string>
+    <string name="system_tool_green_guard">ปกป้องครอบครัว</string>
+    <string name="system_tool_sos">ฉุกเฉิน SOS</string>
+    <string name="power_save_mode">ตัวประหยัดแบตเตอรี่</string>
+    <string name="power_save_settings">การตั้งค่าแบตเตอรี่</string>
+    <string name="banner_optimizemanage_summary">เพิ่มพื้นที่หน่วยความจำ</string>
+    <string name="banner_red_money_assist_summary">เปิดอั่งเปาเร็วขึ้น</string>
+    <string name="banner_red_money_assist_button">เปิดใช้งาน</string>
     <string name="resource_securitycenter_settings">ความปลอดภัย</string>
     <string name="keywords_securitycenter_settings">การใช้แบตเตอรี่;จัดการเริ่มต้นอัตโนมัติ;ติดตั้งผ่าน USB;การอนุญาตแอป;ซื้อข้อมูลมือถือ;รายการบล็อก;การใช้ข้อมูล;ปรับเทียบแผนข้อมูล;ทดสอบเครือข่าย; ประหยัดแบตเตอรี่;ความร้อน;เปิดใช้งาน;ปิดใช้งาน;แบตเตอรี่;การระบาย;ปัญหาแบตเตอรี่;พลังงาน;ตัวประหยัดแบตเตอรี่;ตัวประหยัดพลังงาน;การประหยัดพลังงาน;การประหยัดแบตเตอรี่; เริ่มต้นอัตโนมัติ;การอนุญาต;เริ่มอัตโนมัติ;MIUI เริ่มต้นอัตโนมัติ; แอปเริ่มต้นอัตโนมัติ; เริ่มต้นแอปอัตโนมัติ;โปรแกรมเริ่มต้น;โปรแกรมเริ่มต้นแล้ว;เริ่มทริกเกอร์; USB ติดตั้ง;ติดตั้งจากคอมพิวเตอร์;ADB ติดตั้ง; ตำแหน่งพิกัด;เข้าถึงรายชื่อ; ข้อมูล;ข้อมูลมือถือ;ซื้อข้อมูล;เติมเน็ต;แพคเกจข้อมูล; บล็อก;บัญชีดำ;รายการบล็อกอัจฉริยะ;มิจฉาชีพ;ขาย;เอเย่น;โทรรายการบล็อก;ข้อความรายการบล็อก;ส่งข้อความรายการบล็อก;SMS รายการบล็อก;บัญชีดำ;บัญชีดำ;รายการบล็อก;รายการบล็อก;มิจฉาชีพ;บล็อกรายชื่อ;บล็อกรายชื่อ; สภาพจราจร; ปรับเทียบ; การเชื่อมต่อ;อินเตอร์เน็ต;ทดสอบ; ใช้แบตเตอรี่;การเพิ่มประสิทธิภาพแบตเตอรี่;การใช้พลังงาน; เกมส์;ตัวเพิ่มความเร็ว;Glory of the king;โหมดประสิทธิภาพ;ห้ามรบกวน</string>
     <string name="path_securitycenter_settings">แอประบบ/ความปลอดภัย</string>

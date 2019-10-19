@@ -42,6 +42,7 @@
     <string name="auto_start_warning_title">อนุญาตให้ %s เริ่มต้นโดยอัตโนมัติ?</string>
     <string name="auto_start_warning_allow">อนุญาต</string>
     <string name="auto_start_warning_deny">ปฏิเสธ</string>
+    <string name="call_record_sample_prefix_miui">โทร</string>
     <string name="call_record_or">" หรือ "</string>
     <string name="caller_info_name_delimiter">" หรือ "</string>
     <string name="first_back_long_press_message">ในการตั้งค่าแบบกำหนดเอง &amp; กดปุ่มลัดค้างไว้ ไปที่ เมนูการตั้งค่า > การตั้งค่าเพิ่มเติม > ปุ่ม</string>
@@ -72,7 +73,7 @@
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">กดปุ่มเพิ่มเสียงเพื่อปิดคุณลักษณะนี้</string>
     <string name="screen_button_notification_title">ปิดใช้งานปุ่มลัด</string>
     <string name="screen_button_notification_text">หากต้องการเปิดใช้งาน กดปุ่มโฮมและปุ่มเปิด/ปิดเครื่องพร้อมกัน</string>
-    <string name="screen_paper_mode_enter_toast">โหมดอ่านเปิดใช้อยู่ เพื่อปิดคุณลักษณะนี้ ไปที่ เมนูการตั้งค่า > การแสดงผล > โหมดการอ่าน</string>
+    <string name="screen_paper_mode_enter_toast">โหมดการอ่านเปิดใช้อยู่ เพื่อปิดคุณลักษณะนี้ ไปที่ เมนูการตั้งค่า > การแสดงผล > โหมดการอ่าน</string>
     <string name="sim_added_reboot_title">การเปิดใช้งานซิมการ์ดจะเริ่มหลังจากที่คุณรีบูตเครื่อง</string>
     <string name="sim_added_reboot_confirm">รีบูต</string>
     <string name="softap_notifif_title">ฮอตสปอต \"%s\" เปิดใช้งานอยู่</string>
@@ -130,7 +131,7 @@
     <string name="security_permission_xiaomi_account_missed_text">ป้อนหมายเลขบัญชี Mi ของคุณ</string>
     <string name="security_permission_validate_warning">ขอบคุณที่มีส่วนช่วยพัฒนา MIUI ให้ดียิ่งขึ้น!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi และข้อมูลมือถือเปิดใช้งานแล้ว</string>
-    <string name="security_permission_network_failed_text">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
+    <string name="security_permission_network_failed_text">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองใหม่</string>
     <string name="security_permission_open_wifi_settings">เปิดการตั้งค่า Wi-Fi</string>
     <string name="xspace_resolver_activity_title">เลือกแอป</string>
     <string name="user_switching_dialog_text">กำลังสลับ…</string>
@@ -183,8 +184,8 @@
     <string name="voice_button_action_up">กดเพื่อพูด</string>
     <string name="voice_button_action_down">ปล่อยเพื่อค้นหา</string>
     <string name="voice_begin">คุณกำลังมองหาอะไร?</string>
-    <string name="voice_input_error_network">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
-    <string name="voice_input_error_other">เกิดข้อผิดพลาด รอประมาณ1-2นาทีแล้วลองอีกครั้ง</string>
+    <string name="voice_input_error_network">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองใหม่</string>
+    <string name="voice_input_error_other">เกิดข้อผิดพลาด รอประมาณ1-2นาทีแล้วลองใหม่อีกครั้ง</string>
     <string name="miui_warning_button_ok">ตกลง</string>
     <string name="miui_warning_button_cancel">ยกเลิก </string>
     <string name="miui_warning_tip_info">เกิดข้อผิดพลาดใน %1$s ปิดแอปนี้เดี๋ยวนี้หรือไม่?</string>
@@ -194,8 +195,8 @@
     <string name="popup_camera_tip">โปรดทราบ</string>
     <string name="popup_camera_sure">รับทราบ</string>
     <string name="popup_camera_sure_wait">รับทราบ (%dวิ)</string>
-    <string name="popup_camera_front_failed">ไม่สามารถเปิดกล้องหน้า ลองอีกครั้ง</string>
-    <string name="takeback_camera_front_failed">ไม่สามารถปิดกล้องหน้า ลองอีกครั้ง</string>
+    <string name="popup_camera_front_failed">ไม่สามารถเปิดกล้องหน้า กรุณาลองใหม่</string>
+    <string name="takeback_camera_front_failed">ไม่สามารถปิดกล้องหน้า กรุณาลองใหม่</string>
     <string name="stop_operate_camera_frequently">คุณเปิดกล้องหน้าบ่อยเกินไป</string>
     <string name="popup_camera_front_when_use">แอปกล้องจำเป็นต้องเปิดกล้องหน้าอีกครั้ง เปิดตอนนี้เลย?</string>
     <string name="popup_camera_popup_falied_times_calibrate">ไม่สามารถเปิดกล้องหน้าหลายครั้ง ลองปรับเทียบกล้อง</string>
@@ -204,11 +205,66 @@
     <string name="popup_camera_calibrate_success">ปรับเทียบสำเร็จ คุณสามารถเปิดกล้องหน้าได้แล้ว</string>
     <string name="popup_camera_calibrate_failed">ปรับเทียบล้มเหลว</string>
     <string name="popup_camera_using_camera_background">%s กำลังใช้กล้องหน้า</string>
-    <string name="sim_lock_non_ais_msg">"ซิมการ์ดไม่รองรับการทำงานในทุกฟังก์ชั่น
-ร่วมกับโทรศัพท์เครื่องนี้เนื่องจากมิได้เป็น
-ไปตามเงื่อนไขและข้อตกลง หากมีข้อสงสัย
-หรือต้องการสอบถามข้อมูลเพิ่มเติม กรุณา
-ติดต่อศูนย์บริการของ Xiaomi หรือร้านค้าที่
-จำหน่ายสินค้าให้กับท่าน"</string>
-    <string name="sim_lock_now_ais_title">ซิม%1$d</string>
+    <string name="popup_camera_remove_hid_device">ดูเหมือนว่าอุปกรณ์ของคุณถูกเชื่อมต่อกับตัวควบคุมเกม คุณอาจไม่สามารถเปิดกล้องหน้าเมื่อตัวควบคุมเกมถูกเชื่อมต่ออยู่</string>
+    <string name="popup_camera_cancel_popup">ยกเลิก</string>
+    <string name="popup_camera_continue_popup">เปิดกล้อง</string>
+    <string name="throwing_screen">ฉายภาพ</string>
+    <string name="throwing_print">พิมพ์</string>
+    <string name="send_files_to">ส่งรายการไปยัง</string>
+    <string name="file_sending">กำลังโอนไฟล์…</string>
+    <string name="tips_prompt_enable_midrop">แชร์ไฟล์ด้วยอุปกรณ์บริเวณใกล้เคียง</string>
+    <string name="enable_midrop">เปิดใช้งาน</string>
+    <string name="mi_drop">Mi แชร์</string>
+    <string name="device_type_pc">คอมพิวเตอร์</string>
+    <string name="btn_sure">ตกลง</string>
+    <string name="btn_cancel">ยกเลิก </string>
+    <string name="scanning_device_tips">ค้นหาอุปกรณ์บริเวณใกล้เคียง…ตรวจสอบให้แน่ใจว่าอุปกรณ์อื่นๆอยู่ในโหมดเปิดการมองเห็น</string>
+    <string name="default_device_name">อุปกรณ์ไม่รู้จัก</string>
+    <string name="pc_device_model_name">คอมพิวเตอร์</string>
+    <string name="multi_file_name">%1$s，%2$s</string>
+    <string name="confirm_cancel_task_images">ยกเลิกส่งรูปภาพไปยัง %1$s?</string>
+    <string name="confirm_cancel_task_files">ยกเลิกส่งไฟล์ไปยัง %1$s?</string>
+    <string name="file_cannot_screen_throw">ไม่สามารถฉายรายการนี้ได้</string>
+    <string name="file_cannot_print">ไม่สามารถพิมพ์รายการนี้ได้</string>
+    <string name="functions_are_being_developed">คุณสมบัตินี้จะสามารถใช้ได้เร็วๆ นี้ คอยติดตาม!</string>
+    <string name="unrecognized_manufacture">ไม่ทราบ</string>
+    <string name="xiaomi">Mi</string>
+    <string name="oppo">OPPO</string>
+    <string name="vivo">vivo</string>
+    <string name="unrecognized_model">อุปกรณ์ไม่รู้จัก</string>
+    <string name="xiaomi_9">Mi 9</string>
+    <string name="xiaomi_9_se">Mi 9 SE</string>
+    <string name="xiaomi_8">Mi 8</string>
+    <string name="xiaomi_8_se">Mi 8 SE</string>
+    <string name="xiaomi_8_ud">Mi 8 Pro</string>
+    <string name="xiaomi_8_young">Mi 8 Lite</string>
+    <string name="xiaomi_8_exp">Mi 8 Explorer Edition</string>
+    <string name="xiaomi_6">Mi 6</string>
+    <string name="xiaomi_mix_2">Mi MIX 2</string>
+    <string name="xiaomi_mix_2s">Mi MIX 2S</string>
+    <string name="xiaomi_mix_3">Mi MIX 3</string>
+    <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
+    <string name="xiaomi_cc_9">Mi CC9</string>
+    <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
+    <string name="xiaomi_cc_9e">Mi CC9e</string>
+    <string name="xiaomi_poco_f1">POCO F1</string>
+    <string name="xiaomi_max_3">Mi MAX 3</string>
+    <string name="xiaomi_note_3">Mi Note 3</string>
+    <string name="redmi_note_7">Redmi Note 7</string>
+    <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="redmi_6">Redmi 6</string>
+    <string name="redmi_6a">Redmi 6A</string>
+    <string name="redmi_6_pro">Redmi 6 Pro</string>
+    <string name="redmi_7a">Redmi 7A</string>
+    <string name="redmi_note_5">Redmi Note 5</string>
+    <string name="redmi_k20">Redmi K20</string>
+    <string name="redmi_k20_pro">Redmi K20 Pro</string>
+    <string name="mi_9t">Mi 9T</string>
+    <string name="mi_9t_pro">Mi 9T Pro</string>
+    <string name="mi_a3">Mi A3</string>
+    <string name="autofill_save_ok">อนุญาต</string>
+    <string name="autofill_save_title">บันทึกรหัสผ่านโดยอัตโนมัติ</string>
+    <string name="autofill_save_message">อนุญาตให้ MIUI บันทึกบัญชีและรหัสผ่านของคุณหรือไม่?</string>
+    <string name="autofill_save_sub_message">คุณจะสามารถจัดการรหัสผ่านที่บันทึกไว้ได้ใน การตั้งค่า > รหัสผ่าน &amp; ความปลอดภัย > %s</string>
+    <string name="autofill_service_name">จัดการรหัสผ่าน</string>
 </resources>

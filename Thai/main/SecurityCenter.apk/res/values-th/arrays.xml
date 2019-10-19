@@ -19,26 +19,26 @@
     <string-array name="date_of_traffic_prefix">
         <item>"เมื่อวานนี้: "</item>
         <item>"วันนี้: "</item>
-        <item>"เดือนล่าสุด: "</item>
+        <item>"เดือนที่แล้ว: "</item>
         <item>"เดือนนี้: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>เมื่อวานนี้ (ข้อมูล)</item>
-        <item>วันนี้ (ข้อมูล)</item>
-        <item>เดือนล่าสุด (ข้อมูล)</item>
-        <item>เดือนนี้ (ข้อมูล)</item>
-        <item>Wi-Fi เมื่อวานนี้</item>
-        <item>Wi-Fi วันนี้</item>
-        <item>Wi-Fi เดือนล่าสุด</item>
-        <item>Wi-Fi เดือนนี้</item>
+        <item>"เมื่อวานนี้ (ข้อมูลมือถือ) "</item>
+        <item>"วันนี้ (ข้อมูลมือถือ) "</item>
+        <item>"เดือนที่แล้ว (ข้อมูลมือถือ) "</item>
+        <item>"เดือนนี้ (ข้อมูลมือถือ) "</item>
+        <item>"เมื่อวานนี้ (Wi-Fi) "</item>
+        <item>"วันนี้ (Wi-Fi) "</item>
+        <item>"เดือนที่แล้ว (Wi-Fi) "</item>
+        <item>"เดือนนี้ (Wi-Fi) "</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"การใช้ข้อมูลมือถือ "</item>
-        <item>"การใช้ข้อมูล Wi-Fi "</item>
+        <item>"การใช้ Wi-Fi "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"การใช้ข้อมูลมือถือ "</item>
-        <item>"การใช้ข้อมูล Wi-Fi "</item>
+        <item>"การใช้มือถือ  "</item>
+        <item>"การใช้ Wi-Fi "</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>แสดงการแจ้งเตือน</item>
@@ -73,11 +73,17 @@
         <item>เรียงตามพื้นที่เก็บข้อมูลที่ใช้</item>
         <item>เรียงตามเวลาการติดตั้ง</item>
     </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="title_app_info">
         <item>แหล่งการติดตั้ง</item>
         <item>เวลาการติดตั้ง</item>
-        <item>แหล่งที่มาอัพเดทล่าสุด</item>
-        <item>เวลาอัพเดทล่าสุด</item>
+        <item>แหล่งที่มาอัปเดตล่าสุด</item>
+        <item>เวลาอัปเดตล่าสุด</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>การใช้งานข้อมูล</item>
@@ -104,6 +110,14 @@
         <item>ทุกวัน</item>
         <item>ทุกวันธรรมดา</item>
         <item>กำหนดเอง</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>ค่าเริ่มต้น</item>
+        <item>จัดลำดับความสำคัญของประสิทธิภาพ</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>กำลังใช้โหมดควบคุมอุณหภูมิเริ่มต้น</item>
+        <item>กำลังจัดลำดับความสำคัญของประสิทธิภาพ</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>หลังจาก 1 นาที</item>

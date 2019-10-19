@@ -4,6 +4,19 @@
     <string name="activity_not_found">ไม่พบการติดตั้งแอปในเครื่อง</string>
     <string name="activity_not_unlocked">รอจนกว่าอุปกรณ์ของคุณจะรีบูตอย่างสมบูรณ์ก่อนที่จะเปิดแอป</string>
     <string name="add_screen">เพิ่มหน้าจอ</string>
+    <string name="all_apps">แอปทั้งหมด</string>
+    <string name="all_apps_no_search_results">ไม่พบผลลัพธ์การค้นหา</string>
+    <string name="all_apps_search_app">ค้นหาแอป</string>
+    <string name="all_apps_search_market_message">ค้นหาออนไลน์</string>
+    <string name="all_apps_setting_desktop_desc">แสดงแอพที่ติดตั้งทั้งหมดบนหน้าจอหลัก กดไอคอนของแอปค้างไว้เพื่อดูทางลัด จัดการหรือถอนการติดตั้งแอพ</string>
+    <string name="all_apps_setting_desktop_title">ปกติ</string>
+    <string name="all_apps_setting_drawer_desc">วางแอพที่ติดตั้งไว้ทั้งหมดลงในลิ้นชักแอปซึ่งสามารถเปิดได้โดยปัดขึ้นบนหน้าจอหลัก คุณจะยังสามารถค้นหาแอปที่คุณย้ายไปยังหน้าจอหลักในลิ้นชักแอปได้</string>
+    <string name="all_apps_setting_drawer_tips_desc">ลิ้นชักแอปถูกเปิดขึ้นโดยการปัดขึ้นบนหน้าจอหลัก การสลับเป็นโหมดหน้าจอหลักด้วยลิ้นชักแอปจะทำให้ศูนย์เนื้อหาไม่สามารถใช้งานได้ สลับหรือไม่?</string>
+    <string name="all_apps_setting_drawer_tips_title">ใช้งานลิ้นชักแอป</string>
+    <string name="all_apps_setting_drawer_title">ด้วยลิ้นชักแอป</string>
+    <string name="all_apps_setting_title">หน้าจอหลัก</string>
+    <string name="all_apps_slide_up_tips">การปัดขึ้นถูกสงวนไว้สำหรับการเปิดลิ้นชักแอป เปลี่ยนเป็นโหมดหน้าจอหลักปกติแล้วลองอีกครั้ง</string>
+    <string name="all_apps_suggestions">ข้อแนะนำแอป</string>
     <string name="announce_for_app_move_in_folder">ย้ายไปที่ตำแหน่ง %1$d ในโฟลเดอร์</string>
     <string name="announce_for_checked">%1$s เลือกแล้ว</string>
     <string name="announce_for_choose_default_screen">ตั้งค่าหน้าจอ %1$d เป็นหน้าจอหลักเริ่มต้น</string>
@@ -251,6 +264,7 @@
     <string name="multi_selecting_tips">เพื่อจัดระเบียบแอป ลากไอคอนและวางที่นี่</string>
     <string name="no_detail_page">ไม่มีหน้ารายละเอียด</string>
     <string name="no_space_toast">พื้นที่ว่างไม่เพียงพอ</string>
+    <string name="no_space_toast_when_click_widget">พื้นที่ไม่เพียงพอในหน้านี้ ลองลากรายการนี้ไปยังหน้าอื่น</string>
     <string name="normal_wallpaper">ภาพพื้นหลัง</string>
     <string name="notification_installed">ติดตั้งเรียบร้อย</string>
     <string name="notification_open_button">เปิด</string>
@@ -258,8 +272,8 @@
     <string name="online_wallpaper">ออนไลน์</string>
     <string name="open_personal_assistant_dialog_btn_cancel">ยกเลิก</string>
     <string name="open_personal_assistant_dialog_btn_confirm">ปิดใช้งาน</string>
-    <string name="open_personal_assistant_dialog_desc">คุณไม่สามารถใช้ App vault และรับการอัพเดต ปิดใช้งานทันที?</string>
-    <string name="open_personal_assistant_dialog_desc_international">คุณจะไม่สามารถใช้การ์ด App Vault (สต็อก, ปุ่มลัด ฯลฯ) และรับการอัพเดตหลังจากปิดคุณลักษณะนี้</string>
+    <string name="open_personal_assistant_dialog_desc">คุณไม่สามารถใช้ App vault และรับการอัปเดต ปิดใช้งานทันที?</string>
+    <string name="open_personal_assistant_dialog_desc_international">คุณจะไม่สามารถใช้การ์ด App Vault (สต็อก, ปุ่มลัด ฯลฯ) และรับการอัปเดตหลังจากปิดคุณลักษณะนี้</string>
     <string name="open_personal_assistant_dialog_title">ปิดใช้ App vault</string>
     <string name="open_personal_assistant_title">App vault</string>
     <string name="out_of_space">ไม่มีที่ว่างบนหน้าจอหลักแล้ว</string>
@@ -295,6 +309,7 @@
     <string name="privacy_thumbnail_blur_summary">ตัวอย่างแอปเบลอล่าสุด</string>
     <string name="privacy_thumbnail_blur_title">ดูตัวอย่างแอปเบลอ</string>
     <string name="quick_app">แอปด่วน</string>
+    <string name="recent_apps">เมื่อเร็วๆนี้</string>
     <string name="recents_config_title">ล่าสุด</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">ว่าง</string>
@@ -307,6 +322,7 @@
     <string name="recommend_loading">กำลังโหลด</string>
     <string name="recommend_refresh">รีเฟรช</string>
     <string name="recommend_xout">ไม่ต้องแสดง</string>
+    <string name="remove_invalidate_gadget_tips">หนึ่งในวิดเจ็ตที่คุณใช้ไม่สามารถใช้ได้อีกต่อไป คุณสามารถเพิ่มอันอื่นๆได้</string>
     <string name="reset_description_first_time">คุณสามารถคืนค่ารูปแบบจาก %1$s ภายใน 2 ชั่วโมง</string>
     <string name="reset_description_others">คุณสามารถคืนค่ารูปแบบจาก %1$s</string>
     <string name="reset_fail">ไม่สามารถกู้คืนไฟล์ได้</string>
@@ -325,6 +341,9 @@
     <string name="shake_to_align_icons_summary">เขย่าอุปกรณ์ของคุณในขณะที่อยู่ในโหมดแก้ไขเพื่อเติมเซลล์ที่ว่างด้วยไอคอนโดยอัตโนมัติ</string>
     <string name="shake_to_align_icons_title">เขย่าเพื่อเติมเซลล์ที่ว่าง</string>
     <string name="share">แชร์</string>
+    <string name="shortcut_share_dialog_content">ไฟล์ที่คุณส่งจากโทรศัพท์ของคุณและผู้รับจะถูกเลือกและถูกกำหนดโดยคุณ ระวังตัวเมื่อคุณเลือกไฟล์ที่จะแชร์และเลือกผู้รับ คุณไม่สามารถใช้โทรศัพท์เพื่อส่ง ไวรัส มัลแวร์ โทรจัน ระเบิดเวลา และวัตถุอันตรายอื่นๆ ไปยังผู้อื่น อย่าใช้โทรศัพท์ของคุณเพื่อส่งซอฟต์แวร์ใด ๆ ที่อาจส่งผลต่อการใช้งานปกติของอุปกรณ์ของผู้รับหรือรายการใด ๆ ที่อาจเกิดความเสียหายรบกวนขัดขวางหรือกำจัดข้อมูลระบบหรือข้อมูลส่วนบุคคลใด ๆ บนอุปกรณ์มือถือ คุณจะต้องรับผิดชอบต่อความเสียหายที่เกิดขึ้นกับผู้ใช้รายอื่นหรืออุปกรณ์ปลายทาง Xiaomi จะพยายามอย่างเต็มที่เพื่อให้แน่ใจว่าฟังก์ชั่นการใช้งานร่วมกันรวมถึงเทคโนโลยีและข้อมูลที่เกี่ยวข้องปลอดภัยมีประสิทธิภาพแม่นยำและเชื่อถือได้ อย่างไรก็ตามเนื่องจากข้อจำกัดทางเทคโนโลยีในปัจจุบัน Xiaomi ไม่รับประกันว่าการใช้งานร่วมกันจะสมบูรณ์แบบและจะตอบสนองทุกความต้องการของคุณ</string>
+    <string name="shortcut_share_dialog_positive_button">รับทราบ</string>
+    <string name="shortcut_share_dialog_title">ข้อสงวนสิทธิ์</string>
     <string name="show_all">แสดงทั้งหมด</string>
     <string name="show_mem_info_title">แสดงสถานะหน่วยความจำ</string>
     <string name="show_recents_recommend_title">แสดงคำแนะนำ</string>
@@ -333,6 +352,7 @@
     <string name="sort_by_not_defined">เรียงอัตโนมัติ</string>
     <string name="start_activity_failed">ชุดเรียกใช้ระบบไม่ทำงาน</string>
     <string name="starting_preset_app">กำลังเริ่ม…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">ดาวน์โหลดแล้ว</string>
     <string name="status_downloading">กำลังดาวน์โหลด…</string>
     <string name="status_installing">กำลังติดตั้ง</string>

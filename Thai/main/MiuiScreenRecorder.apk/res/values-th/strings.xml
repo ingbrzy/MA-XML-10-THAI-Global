@@ -58,6 +58,7 @@
     <string name="operation_send">ส่ง</string>
     <string name="permission_intro_microphone">สำหรับบันทึกเสียงเมื่อตั้งแหล่งกำเนิดเสียงเป็นไมโครโฟน</string>
     <string name="permission_intro_storage">สำหรับการเก็บบันทึกหน้าจอ</string>
+    <string name="permission_microphone_desc">ใช้ไมโครโฟนเป็นแหล่งกำเนิดเสียงสำหรับบันทึกหน้าจอ</string>
     <string name="quit_recording">ยุติการบันทึกวิดีโอหน้าจอ</string>
     <string name="recording_failure">ไม่สามารถบันทึกได้ เริ่มต้นใหม่</string>
     <string name="recording_max_size">การบันทึกถูกหยุด และบันทึกเนื่องจากขนาดของไฟล์วิดีโอถึงขีดจำกัด เริ่มต้นการบันทึกจากตำแหน่งที่คุณค้างไว้หากยังไม่เสร็จสิ้น</string>
@@ -70,6 +71,8 @@
     <string name="screen_record_params">คุณภาพการบันทึก</string>
     <string name="select_all">เลือกทั้งหมด</string>
     <string name="settings">การตั้งค่า</string>
+    <string name="settings_other">อื่นๆ</string>
+    <string name="settings_privacy">นโยบายความเป็นส่วนตัว</string>
     <string name="show_hard_key">แสดงปุ่มนำทาง</string>
     <string name="show_hard_key_summary">เมื่อกดปุ่มโฮม เมนู และปุ่มย้อนกลับจะแสดงข้อความแจ้งเตือน</string>
     <string name="show_screen_touch">แสดงตำแหน่งของการแตะ</string>

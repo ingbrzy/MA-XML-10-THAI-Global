@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">%d ชั่วโมงที่ผ่านมา</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+    </plurals>
     <plurals name="guide_used_number">
         <item quantity="other">นำไปใช้ใน %1$d อุปกรณ์</item>
     </plurals>
@@ -13,13 +19,13 @@
         <item quantity="other">%1$s เสียงเรียกเข้า</item>
     </plurals>
     <plurals name="theme_batch_has_update_text">
-        <item quantity="other">พบการอัพเดทใหม่ %1$d ธีม</item>
+        <item quantity="other">พบการอัปเดตใหม่ %1$d ธีม</item>
     </plurals>
     <plurals name="theme_designer_products_count">
         <item quantity="other">%1$s งาน</item>
     </plurals>
     <plurals name="theme_update_local_resource_notifaction">
-        <item quantity="other">พบการอัพเดทใหม่ %1$d ธีม</item>
+        <item quantity="other">พบการอัปเดตใหม่ %1$d ธีม</item>
     </plurals>
     <plurals name="transparent_wallpaper_filter_hint">
         <item quantity="other">ค้นหาใน %1$d แอป</item>

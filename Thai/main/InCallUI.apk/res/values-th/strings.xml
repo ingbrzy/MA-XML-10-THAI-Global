@@ -78,7 +78,6 @@
     <string name="respond_via_sms_custom_message">ข้อความกำหนดเอง</string>
     <string name="manageConferenceLabel">การจัดการประชุมทางโทรศัพท์</string>
     <string name="emergency_call_dialog_number_for_display">เลขหมายฉุกเฉิน</string>
-    <string name="volte_call">โทร VoLTE</string>
     <string name="notification_dialing">กำลังต่อสาย</string>
     <string name="notification_ongoing_call">ใช้สายอยู่</string>
     <string name="notification_on_hold">พักสายอยู่</string>
@@ -128,21 +127,16 @@
     <string name="msim_select_default_time_left">(%d วิ)</string>
     <string name="select_sim_hint">ไม่สามารถใช้ซิม %2$d ขณะที่ซิม %1$d ใช้งานอยู่</string>
     <string name="select_one_sim_title">ใช้ได้เฉพาะซิม %1$d เท่านั้น</string>
-    <string name="select_sim_hint_for_heduohao">ไม่สามารถใช้ซิมอื่นในขณะที่ซิม %1$d ย่อย %2$d ใช้งานอยู่</string>
-    <string name="select_one_sim_title_for_heduohao">สามารถใช้ได้เพียงซิม %1$d ย่อย %2$d เท่านั้น</string>
     <string name="can_not_use">ไม่สามารถใช้ได้</string>
     <string name="sim1_description">ซิม1</string>
     <string name="sim2_description">ซิม2</string>
-    <string name="sim1_heduohao_card">ย่อย 1</string>
-    <string name="sim2_heduohao_card">ย่อย 2</string>
-    <string name="sim3_heduohao_card">ย่อย 3</string>
     <string name="call_description_recording">กำลังบันทึกเสียง…</string>
     <string name="call_recording_error_privacy">ไม่สามารถบันทึกเสียงได้ขณะอยู่ในโหมดเยี่ยมชม</string>
     <string name="call_recording_error_sd_access">ไม่สามารถอ่าน SD การ์ดได้</string>
     <string name="call_recording_error_sd_unmounted">การบันทึกหยุดลง: SD การ์ดถูกถอดออก</string>
     <string name="call_recording_error_low_storage">ที่จัดเก็บข้อมูลไม่เพียงพอ</string>
     <string name="call_recording_error_start_failed">เครื่องบันทึกเสียงถูกใช้งานโดยแอปอื่น</string>
-    <string name="call_recording_error_unknown">เกิดข้อผิดพลาดที่ไม่รู้จัก</string>
+    <string name="call_recording_error_unknown">ขัดข้องไม่ทราบสาเหตุ</string>
     <string name="call_recording_notification_title">บันทึกการสนทนาแล้ว</string>
     <string name="call_recording_notification_title_error">บันทึกการสนทนาไม่ได้</string>
     <string name="call_recording_notification_message">แตะเพื่อฟัง</string>
@@ -169,7 +163,6 @@
     <string name="onscreen_message_text">ข้อความ</string>
     <string name="onscreen_close_preview_camera">ปิด</string>
     <string name="upgrade_vt_prompt">สลับไปยังวิดีโอคอล?</string>
-    <string name="incoming_answer_voice_text">ตอบรับด้วยเสียง</string>
     <string name="picking_participant">กำลังดูข้อมูลผู้ติดต่อ…</string>
     <string name="conference_caller_info_name">การประชุมสายกับ %1$s</string>
     <string name="video_conference_caller_info_name">การวิดีโอประชุมสายกับ %1$s</string>
@@ -191,8 +184,8 @@
     <string name="incoming_circle_text_reject">ปล่อย</string>
     <string name="incoming_circle_text_answer_p">เลื่อนขึ้น</string>
     <string name="incoming_circle_text_answer">ปล่อย</string>
-    <string name="incoming_circle_text_message_p">เลื่อนขึ้น</string>
-    <string name="incoming_circle_text_message">ปล่อย</string>
+    <string name="incoming_circle_text_video_answer_p">ปัดขึ้นเพื่อรับสายด้วยวิดีโอ</string>
+    <string name="incoming_circle_text_video_answer">ปล่อยเพื่อรับสายด้วยวิดีโอ</string>
     <string name="dialpad_zero">0</string>
     <string name="dialpad_one">1</string>
     <string name="dialpad_two">2</string>
@@ -206,4 +199,9 @@
     <string name="prompt_no_volte_when_failed">ไม่สามารถโทรได้ ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณเชื่อมต่อเครือข่าย 4G และรองรับ VoLTE</string>
     <string name="volume_boost_text">เพิ่มระดับเสียงสำเร็จ</string>
     <string name="supp_service_notification_call_waiting">หมายเลขที่คุณกำลังโทรไปนั้นไม่ว่าง โปรดรอสักครู่…</string>
+    <string name="incall_bubble_hangup_click_hint">แตะอีกครั้งเพื่อย้อนกลับไปยังการโทร</string>
+    <string name="manager_conference_done">เสร็จสิ้น</string>
+    <string name="incoming_answer_voice_text">ตอบรับด้วยเสียง</string>
+    <string name="incoming_circle_text_message_p">เลื่อนขึ้น</string>
+    <string name="incoming_circle_text_message">ปล่อย</string>
 </resources>

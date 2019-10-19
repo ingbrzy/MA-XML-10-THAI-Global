@@ -60,19 +60,19 @@
     <string name="wating">รอสักครู่…</string>
     <string name="Active">เปิดใช้งาน</string>
     <string name="ok_button">ตกลง</string>
-    <string name="remove_button">ลบออกและรีบูต</string>
-    <string name="remove_button_time">ลบออกและรีบูต(%ds)</string>
+    <string name="remove_button">ลบ</string>
+    <string name="remove_button_time">ลบ (%dวิ)</string>
     <string name="cancel_button">ยกเลิก</string>
     <string name="list_empty_text">ว่างเปล่า</string>
-    <string name="list_empty_text_xspace">ติดตั้ง WeChat/QQ/Weibo, สร้างแอปโคลน และลองอีกครั้ง</string>
+    <string name="list_empty_text_xspace">สร้างแอปโคลนเพิ่มเติมแล้วลองอีกครั้ง</string>
     <string name="xspace_label">แอปโคลน</string>
     <string name="xspace_setting_label">การตั้งค่าแอปโคลน</string>
     <string name="xspace_account">บัญชีแอปโคลน</string>
     <string name="xspace_remove">ลบบัญชีแอปโคลน</string>
     <string name="declare_dialog_title">เกี่ยวแอปโคลน</string>
     <string name="menu_item_about_privacy_title">นโยบายความเป็นส่วนตัว</string>
-    <string name="stop_xspace_alert_title">กำลังลบบัญชีแอปโคลน</string>
-    <string name="stop_xspace_alert_content">แอปโคลนและข้อมูลทั้งหมดจะถูกลบอย่างถาวร คุณจะต้องรีบูตอุปกรณ์ของคุณเพื่อใช้การเปลี่ยนแปลงนี้ ลบบัญชีเลยไหม?</string>
+    <string name="stop_xspace_alert_title">ลบบัญชีแอปโคลน</string>
+    <string name="stop_xspace_alert_content">ลบแอปโคลนทั้งหมดพร้อมกับบัญชีและข้อมูลแอปหรือไม่? อุปกรณ์ของคุณจะถูกรีบูตเพื่อใช้การเปลี่ยนแปลงนี้</string>
     <string name="xspace_loading_msg">กำลังโหลดแอป…</string>
     <string name="xspace_header">แอปโคลน</string>
     <string name="xspace_introduce">แนะนำ</string>
@@ -295,15 +295,23 @@
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">ลงชื่อเข้าใช้และแชร์</string>
-    <string name="use_xiaoai_open">ปลุกโดยใช้การสั่งงานด้วยเสียง</string>
+    <string name="use_xiaoai_open">ปลุกโดยใช้ Mi AI</string>
+    <string name="use_google_open">ปลุกโดยใช้ตัวช่วย Google</string>
     <string name="xspace_weibo_title">Weibo</string>
     <string name="weibo_send">ส่งไปที่ Weibo</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="qq_send">ส่งไปยังเพื่อน QQ/คอม</string>
     <string name="qq_login">ลงชื่อเข้าใช้ QQ</string>
-    <string name="xspace_default_setting_label">แอปเริ่มต้น</string>
-    <string name="xspace_default_app_title">แอปเริ่มต้น</string>
-    <string name="xspace_default_app_summary">ตั้งค่าแอปเริ่มต้นสำหรับการชำระเงิน การแชร์ รายการโปรด และอื่นๆ</string>
+    <string name="xspace_whatsapp_title">WhatsApp</string>
+    <string name="whatsapp_send">แชร์ไปยัง WhatsApp</string>
+    <string name="xspace_facebook_title">Facebook</string>
+    <string name="facebook_send">แชร์ไปยัง Facebook</string>
+    <string name="facebook_login">ลงชื่อเข้าใช้โดยใช้ Facebook</string>
+    <string name="xspace_instagram_title">Instagram</string>
+    <string name="instagram_send">แชร์ไปยัง Instagram</string>
+    <string name="xspace_default_setting_label">ส่วนตัว</string>
+    <string name="xspace_default_app_title">ส่วนตัว</string>
+    <string name="xspace_default_app_summary">เลือกแอปเริ่มต้นที่ใช้สำหรับการลงชื่อเข้าใช้การแชร์และการสั่งงานด้วยเสียง</string>
     <string name="xspace_default_setting_dialog_title"> ค่าเริ่มต้น</string>
     <string name="xspace_default_guide_notification_content">แตะเพื่อแก้ไข</string>
     <string name="xspace_default_guide_notification_main_title">ใช้แอปเริ่มต้น</string>
@@ -337,8 +345,8 @@
     <string name="can_not_switch_when_calling">ไม่สามารถสลับระหว่างพื้นที่ขณะโทรได้</string>
     <string name="can_not_delete_when_calling">ไม่สามารถลบพื้นที่ขณะโทรได้</string>
     <string name="support_desc">บริการรักษาความปลอดภัยโดย Spaces Mobile</string>
-    <string name="sdcardfs_dialog_title">อัพเดทที่สำคัญ</string>
-    <string name="sdcardfs_dialog_message">ระบบไฟล์ใหม่ถูกนำมาใช้ในการอัพเดทนี้ ข้อมูลเก่าอาจไม่เข้ากับข้อมูลดังกล่าว เมื่อต้องการแก้ปัญหานี้ให้ทำตามขั้นตอน เพื่อติดตั้งการอัพเดท อุปกรณ์ของคุณจะรีบูตเครื่องอีกครั้งระหว่างการอัพเดทนี้</string>
+    <string name="sdcardfs_dialog_title">อัปเดตที่สำคัญ</string>
+    <string name="sdcardfs_dialog_message">ระบบไฟล์ใหม่ถูกนำมาใช้ในการอัปเดตนี้ ข้อมูลเก่าอาจไม่เข้ากับข้อมูลดังกล่าว เมื่อต้องการแก้ปัญหานี้ให้ทำตามขั้นตอน เพื่อติดตั้งการอัปเดต อุปกรณ์ของคุณจะรีบูตเครื่องอีกครั้งระหว่างการอัปเดตนี้</string>
     <string name="do_not_ask">ไม่ต้องถามอีก</string>
     <string name="gpg_message">การสร้างแอปโคลนสำหรับเกมต้องใช้ Google Play Games สร้างแอปโคลนสำหรับ Google Play Games หรือไม่?</string>
     <string name="gpg_title">แอปโคลนสำหรับเกมส์ Google Play</string>
@@ -370,19 +378,19 @@
     <string name="remove_user_click_message">* ถ้าคุณไม่มีรายการที่สำคัญในพื้นที่ทับซ้อน %s</string>
     <string name="remove_user_click_message_action">คุณสามารถลบพื้นที่ทับซ้อนและรีบูตอุปกรณ์ของคุณตอนนี้</string>
     <string name="sdcradfs_dialog_in_owner_title">พื้นที่ทับซ้อน</string>
-    <string name="sdcradfs_dialog_in_owner_message">"ระบบไฟล์ใหม่ถูกนำมาใช้ในการอัพเดทนี้ ข้อมูลเก่าอาจไม่เข้ากับข้อมูลดังกล่าว หากต้องการอัพเดทให้ย้ายรายการจากพื้นที่ทับซ้อน รีบูตอุปกรณ์ของคุณ และสร้างพื้นที่ทับซ้อนอีกครั้ง
+    <string name="sdcradfs_dialog_in_owner_message">"ระบบไฟล์ใหม่ถูกนำมาใช้ในการอัปเดตนี้ ข้อมูลเก่าอาจไม่เข้ากับข้อมูลดังกล่าว หากต้องการอัปเดตให้ย้ายรายการจากพื้นที่ทับซ้อน รีบูตอุปกรณ์ของคุณ และสร้างพื้นที่ทับซ้อนอีกครั้ง
 หากคุณไม่อัปเดต แอปโคลนอาจทำงานไม่ถูกต้องเช่นกัน"</string>
-    <string name="sdcradfs_dialog_in_sec_title">อัพเดทที่สำคัญ</string>
-    <string name="sdcradfs_dialog_in_sec_message">"ในการอัพเดตคุณควรลบพื้นที่ทับซ้อนของคุณแล้วสร้างใหม่อีกครั้ง ย้ายข้อมูลจากพื้นที่ทับซ้อนก่อน และรีบูตอุปกรณ์เพื่อทำการอัปเดตให้เสร็จสมบูรณ์
+    <string name="sdcradfs_dialog_in_sec_title">อัปเดตที่สำคัญ</string>
+    <string name="sdcradfs_dialog_in_sec_message">"ในการอัปเดตคุณควรลบพื้นที่ทับซ้อนของคุณแล้วสร้างใหม่อีกครั้ง ย้ายข้อมูลจากพื้นที่ทับซ้อนก่อน และรีบูตอุปกรณ์เพื่อทำการอัปเดตให้เสร็จสมบูรณ์
 หากคุณไม่อัปเดตแอปโคลนอาจทำงานไม่ปกติเช่นกัน"</string>
     <string name="space_created_success">สร้างพื้นที่ทับซ้อนเรียบร้อย</string>
     <string name="encrypt_space_delete_dialog_title">โปรดทราบ</string>
-    <string name="encrypt_space_delete_dialog_message">คุณกำลังดำเนินการอัพเดทระบบ หลังจากการอัพเดตข้อมูลพื้นที่ทับซ้อนจะไม่สามารถใช้ร่วมกันได้ เพื่อหลีกเลี่ยงปัญหานี้ให้ย้ายข้อมูลทั้งหมดไปยังพื้นที่ปกติ ลบพื้นที่ทับซ้อนและสร้างใหม่อีกครั้ง</string>
+    <string name="encrypt_space_delete_dialog_message">คุณกำลังดำเนินการอัปเดตระบบ หลังจากการอัปเดตข้อมูลพื้นที่ทับซ้อนจะไม่สามารถใช้ร่วมกันได้ เพื่อหลีกเลี่ยงปัญหานี้ให้ย้ายข้อมูลทั้งหมดไปยังพื้นที่ปกติ ลบพื้นที่ทับซ้อนและสร้างใหม่อีกครั้ง</string>
     <string name="encrypt_space_delete_dialog_click_message">*หากคุณไม่ต้องการที่จะย้ายข้อมูล %s</string>
     <string name="encrypt_space_delete_dialog_click_message_action">ลบและสร้างพื้นที่ทับซ้อนตอนนี้</string>
     <string name="encrypt_space_delete_dialog_positive_text">ย้ายข้อมูล</string>
     <string name="encrypt_space_delete_notification_title">พื้นที่ทับซ้อน</string>
-    <string name="encrypt_space_delete_notification_message">ลบพื้นที่ทับซ้อนของคุณและสร้างใหม่ อัพเดทอุปกรณ์ของคุณให้สำเร็จ</string>
+    <string name="encrypt_space_delete_notification_message">ลบพื้นที่ทับซ้อนของคุณและสร้างใหม่ อัปเดตอุปกรณ์ของคุณให้สำเร็จ</string>
     <string name="space_create_guide_title_1">ป้องกันความเป็นส่วนตัวของคุณ</string>
     <string name="space_create_guide_desc_1">จัดเก็บแอปและรูปภาพอย่างปลอดภัย</string>
     <string name="space_create_guide_title_2">สร้างได้ตลอดเวลา</string>
@@ -390,10 +398,10 @@
     <string name="space_create_guide_title_3">ปราศจากความเสี่ยงอย่างแน่นอน</string>
     <string name="space_create_guide_desc_3">พื้นที่ทับซ้อนจะไม่ส่งผลต่อรายการอื่นๆ บนอุปกรณ์ของคุณ</string>
     <string name="space_create_guide_switchmode_title">สลับระหว่างพื้นที่</string>
-    <string name="second_space_desktop_tips_dialog_title">อัพเดทที่สำคัญ</string>
+    <string name="second_space_desktop_tips_dialog_title">อัปเดตที่สำคัญ</string>
     <string name="second_space_desktop_tips_dialog_positive_text">รับทราบ</string>
-    <string name="second_space_desktop_tips_dialog_message">หลังจากอัพเดตนี้ไอคอนสำหรับการย้ายข้อมูลและการจัดการพื้นที่ที่สองจะไม่ปรากฏบนหน้าจอหลักอีกต่อไป คุณจะสามารถเข้าถึงคุณลักษณะที่เกี่ยวข้องได้ในการตั้งค่า</string>
-    <string name="green_guard">การควบคุมโดยผู้ปกครอง</string>
+    <string name="second_space_desktop_tips_dialog_message">หลังจากอัปเดตนี้ไอคอนสำหรับการย้ายข้อมูลและการจัดการพื้นที่ที่สองจะไม่ปรากฏบนหน้าจอหลักอีกต่อไป คุณจะสามารถเข้าถึงคุณลักษณะที่เกี่ยวข้องได้ในการตั้งค่า</string>
+    <string name="green_guard">ปกป้องครอบครัว</string>
     <string name="bind_device">เพิ่มอุปกรณ์</string>
     <string name="green_guard_des1">เพิ่มอุปกรณ์เพื่อจัดการอุปกรณ์เหล่านั้นจากระยะไกล</string>
     <string name="green_guard_title2">เรียกดูข้อมูลตำแหน่งพิกัด</string>
@@ -437,10 +445,12 @@
     <string name="install_error">ไม่สามารถติดตั้งได้ ลองอีกครั้ง</string>
     <string name="ent_install_dialog_content">ติดตั้งแอปและรีบูตอุปกรณ์ของคุณตอนนี้?</string>
     <string name="ent_disallow_running">ไม่อนุญาตให้เรียกใช้แอป</string>
-    <string name="greenguard_child_des_title">ฉันต้องการความช่วยเหลือจากเพื่อนและครอบครัว</string>
-    <string name="greenguard_child_des">ใช้แอปของเราเพื่อเชื่อมต่อ</string>
-    <string name="greenguard_parent_des_title">ฉันต้องช่วยเหลือเพื่อนและครอบครัว</string>
-    <string name="greenguard_parent_des">ดาวน์โหลดแอปของเราและเพิ่มอุปกรณ์ของคนอื่น</string>
+    <string name="greenguard_child_des_title">สแกนรหัส QR เพื่อเพิ่มอุปกรณ์</string>
+    <string name="greenguard_child_des">จัดการอุปกรณ์ของเพื่อนและครอบครัวของคุณ</string>
+    <string name="greenguard_parent_des_title">ใช้ Kite Guard เพื่อเพิ่มอุปกรณ์</string>
+    <string name="greenguard_parent_des">จัดการอุปกรณ์ของเพื่อนและครอบครัวของคุณ</string>
+    <string name="greenguard_functional_description">"จัดการอุปกรณ์จากระยะไกล ดูข้อมูลตำแหน่ง 
+ควบคุมการติดตั้งแอพและจำกัดการใช้งาน"</string>
     <string name="cta_declaration_title">ข้อตกลงและเงื่อนไข</string>
     <string name="cta_declaration_message_format" formatted="false">คุณต้องอ่านและยอมรับ &lt;&lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> ก่อนที่จะใช้โหมดบริษัท อุปกรณ์ของคุณต้องเชื่อมต่อกับอินเทอร์เน็ตเพื่อเปิดใช้งานโหมดบริษัท ยอมรับหรือไม่?</string>
     <string name="cta_declaration_agree_and_continue">ยอมรับ</string>
@@ -466,4 +476,5 @@
     <string name="master_clear_not_available">การรีเซ็ตเป็นค่าเริ่มต้นจากโรงงานถูกจำกัดโดยบริษัทของคุณ</string>
     <string name="dual_animation">เปิดใช้ภาพเคลื่อนไหว</string>
     <string name="dual_animation_description">แสดงภาพเคลื่อนไหวเมื่อเปิดใช้แอปโคลน</string>
+    <string name="can_not_switch_when_super_power_active">ไม่สามารถสลับระหว่างที่ว่างได้เมื่อเปิดตัวประหยัดแบตเตอรี่อัลตร้า</string>
 </resources>

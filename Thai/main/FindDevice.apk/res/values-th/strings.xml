@@ -84,5 +84,5 @@
     <string name="sys_notification_async_verify_title">เปิดใช้งานค้นหาอุปกรณ์อีกครั้ง</string>
     <string name="sys_notification_async_verify_content">นโยบายด้านความปลอดภัยที่ได้รับการอัพเดทของเรากำหนดให้เปิดใช้งานค้นหาอุปกรณ์อีกครั้ง</string>
     <string name="sys_notification_async_open_failed_title">ไม่สามารถปิดใช้การค้นหาอุปกรณ์ได้</string>
-    <string name="sys_notification_async_open_failed_content">แตะเพื่อลองอีกครั้งหรือยกเลิก</string>
+    <string name="sys_notification_async_open_failed_content">แตะเพื่อลองใหม่หรือยกเลิก</string>
 </resources>

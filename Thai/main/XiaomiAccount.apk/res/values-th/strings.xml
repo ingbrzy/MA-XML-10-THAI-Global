@@ -71,7 +71,7 @@
     <string name="passport_login">ลงชื่อเข้าใช้</string>
     <string name="passport_relogin">ลงชื่อเข้าใช้อีกครั้ง</string>
     <string name="passport_skip_login">ข้าม</string>
-    <string name="passport_skip_setup_account_title">ไม่ต้องการใช้ Mi คลาวด์?</string>
+    <string name="passport_skip_setup_account_title">ไม่ต้องการใช้ Xiaomi คลาวด์?</string>
     <string name="passport_skip_setup_account_msg">คุณสามารถตั้งค่าบัญชี Mi ภายหลังในเมนูการตั้งค่า</string>
     <string name="passport_confirm_login">ดำเนินการต่อ</string>
     <string name="passport_find_password_on_web_msg">เข้าไปที่เว็บไซต์ account.mi.com เพื่อตั้งค่ารหัสผ่านของคุณใหม่</string>
@@ -201,10 +201,7 @@
     <string name="passport_querying_phone_info">กำลังขอข้อมูลบัญชี…</string>
     <string name="passport_area_code_title">รหัสประเทศ</string>
     <string name="passport_area_code_hot">ที่ใช้บ่อย</string>
-    <string name="passport_user_agreement_p1">ตกลงตาม </string>
-    <string name="passport_user_agreement_p2">ข้อตกลงการใช้งาน</string>
-    <string name="passport_user_agreement_p3"> และ </string>
-    <string name="passport_user_agreement_p4">นโยบายความเป็นส่วนตัว</string>
+    <string name="passport_user_agreement_link">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของ Xiaomi แล้ว&lt;/Data></string>
     <string name="passport_privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="passport_user_agreement">ข้อตกลงการใช้งาน</string>
     <string name="passport_license_host_unreachable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ คุณสามารถเรียกดูข้อมูลหน้านี้ได้จาก %s.</string>
@@ -273,21 +270,22 @@
     <string name="passport_get_innetdate_msg">&lt;font color=Red>ดูเหมือน&lt;/font> หมายเลข %s ถูกรีไซเคิลโดยผู้ให้บริการของคุณแล้ว ตรวจสอบเมื่อหมายเลขออนไลน์</string>
     <string name="passport_get_innetdate_agree">ตรวจสอบ</string>
     <string name="passport_get_innetdate_disagree">ไม่</string>
-    <string name="passport_extra_gdpr_license">การสร้างบัญชี Mi ของคุณหมายความว่าคุณยอมรับว่า Xiaomi จะเก็บประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณรวมทั้งข้อมูลการยืนยัน (เช่นรหัสยืนยัน) ข้อมูลพื้นที่ทับซ้อน (เช่นข้อมูลเกี่ยวกับวิธีที่คุณใช้พื้นที่ทับซ้อนรหัสที่ใช้ในพื้นที่ปกติและทับซ้อน) และข้อมูลอื่นๆ ที่ระบุไว้ในนโยบายความเป็นส่วนตัวของเรา ดูนโยบายความเป็นส่วนตัวของเราเพื่อเรียนรู้วิธีที่เราประมวลผลและใช้ข้อมูลส่วนตัว</string>
     <string name="passport_talkback_image_captcha">รหัสยืนยันรูปภาพ</string>
     <string name="passport_talkback_voice_captcha">เปิดรหัสยืนยันเสียง</string>
     <string name="passport_talkback_switch_voice_captcha">สลับเป็นรหัสยืนยันเสียง</string>
     <string name="passport_talkback_switch_image_captcha">สลับเป็นรหัสยืนยันรูปภาพ</string>
-    <string name="passport_license_info_open">รายละเอียด</string>
-    <string name="passport_license_info_collapse">หุบ</string>
     <string name="passport_first_login_prompt">บัญชี Mi จะถูกสร้างโดยอัตโนมัติเมื่อคุณลงชื่อเข้าใช้เป็นครั้งแรก</string>
     <string name="passport_wx_bind_account_limit">ไม่สามารถสร้างบัญชีได้ในตอนนี้ ลองลงชื่อเข้าใช้ด้วยวิธีการอื่นๆ</string>
     <string name="facebook_app_id">2263965750590514</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
+    <string name="passport_ticket_login_select_sim_card">เลือกซิมการ์ด</string>
+    <string name="passport_ticket_login_select_sim_card_cancel">ยกเลิก </string>
+    <string name="passport_ticket_login_select_sim_card_1">ซิม 1</string>
+    <string name="passport_ticket_login_select_sim_card_2">ซิม 2</string>
     <string name="search_app_name">บัญชี Mi</string>
     <string name="search_mi_account">บัญชี Mi</string>
-    <string name="search_mi_account_key_words">Mi คลาวด์,การตั้งค่าบัญชี,ข้อมูล Mi Pay,ลงชื่อออก</string>
+    <string name="search_mi_account_key_words">Xiaomi คลาวด์, การตั้งค่าบัญชี, ข้อมูล Mi Pay, ลงชื่อออก</string>
     <string name="search_mi_account_desc">บัญชี Mi</string>
     <string name="search_mi_account_path">การตั้งค่า/บัญชี Mi</string>
     <string name="search_user_detail">ข้อมูลส่วนบุคคล</string>
@@ -314,15 +312,21 @@
     <string name="bind_sns_description">เข้าสู่ระบบโดยใช้ %s</string>
     <string name="add_account">เชื่อมต่อบัญชี</string>
     <string name="qq">QQ</string>
+    <string name="weixin">WeChat</string>
     <string name="bind_qq">QQ</string>
+    <string name="bind_weixin">เชื่อมต่อกับบัญชี WeChat</string>
+    <string name="need_install_wechat">กรุณาติดตั้ง WeChat ก่อน</string>
     <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
     <string name="bind_facebook">เชื่อมต่อกับเพื่อนในบัญชี Facebook</string>
+    <string name="bind_google">เชื่อมต่อกับบัญชี Google</string>
     <string name="binded">เชื่อมต่อแล้ว</string>
     <string name="nobind">ไม่เชื่อมต่อ</string>
     <string name="button_unbind">ตัดการเชื่อมต่อ</string>
     <string name="unbind_sns_description">หลังจากคุณตัดการเชื่อมต่อกับบัญชีนี้ คุณจะไม่สามารถใช้ข้อมูลบัญชี %s เข้าสู่บัญชี Mi ได้</string>
     <string name="confirm_unbind">ตัดการเชื่อมต่อกับบัญชีนี้?</string>
-    <string name="binded_description" formatted="false">%s ได้รับการเชื่อมต่อกับบัญชี Mi ของคุณแล้ว โปรไฟล์ของคุณจะถูกอัพเดทพร้อมกับข้อมูลในบัญชี %s</string>
+    <string name="binded_description" formatted="false">"%s ได้เชื่อมต่อกับบัญชี Mi ของคุณแล้ว
+คุณสามารถลงชื่อเข้าใช้บัญชี Mi โดยใช้ %s ได้ตอนนี้"</string>
     <string name="access_token_expired_warning">บัญชี Weibo หมดอายุแล้ว</string>
     <string name="access_token_invalid_warning">บัญชี Weibo ไม่ถูกต้อง</string>
     <string name="service_error">พบข้อผิดพลาด</string>
@@ -344,7 +348,7 @@
     <string name="account_error_longer_user_name">ชื่อต้องมีความยาวไม่เกิน 20 ตัว</string>
     <string name="account_error_user_name">ชื่อที่ใส่ไม่ถูกต้อง</string>
     <string name="account_error_user_birthday">วันเกิดที่คุณป้อนไม่ถูกต้อง</string>
-    <string name="account_limit_update_birthday">ไม่สามารถอัพเดทวันเกิดได้ในตอนนี้</string>
+    <string name="account_limit_update_birthday">ไม่สามารถอัปเดตวันเกิดได้ในตอนนี้</string>
     <string name="account_user_other_info">ข้อมูลเพิ่มเติม</string>
     <string name="account_user_region">ภูมิภาค</string>
     <string name="account_global_region">ต่างประเทศ</string>
@@ -359,7 +363,7 @@
     <string name="account_none_binded_info">ไม่มี</string>
     <string name="account_bind_secure_phone_title">เพิ่มหมายเลขโทรศัพท์</string>
     <string name="account_bind_secure_email_title">เพิ่มอีเมล</string>
-    <string name="update_phone_number_notice_message">คุณต้องยืนยันตัวตนก่อนจึงจะสามารถอัพเดทหมายเลขโทรศัพท์ได้</string>
+    <string name="update_phone_number_notice_message">คุณต้องยืนยันตัวตนก่อนจึงจะสามารถอัปเดตหมายเลขโทรศัพท์ได้</string>
     <string name="failed_dup_secure_phone_number">หมายเลขโทรศัพท์นี้ได้ถูกผูกไว้กับบัญชี Mi อื่นอยู่ก่อนแล้ว</string>
     <string name="confirm_phone_number_dialog_title">ยืนยันหมายเลขโทรศัพท์</string>
     <string name="confirm_bundled_phone_dialog_title">ยืนยันการผูกกับหมายเลขโทรศัพท์</string>
@@ -389,8 +393,8 @@
     <string name="resend_email_success">ส่งอีเมลแล้ว</string>
     <string name="resend_email_reach_limit_title">ส่งอีเมลไม่สำเร็จ</string>
     <string name="resend_email_reach_limit_message">คุณได้ร้องขอให้ส่งอีเมลเกินจำนวนครั้งที่กำหนด ตรวจสอบดูให้แน่ใจว่าอีเมลที่จะใช้ยืนยันตัวตนไม่ถูกจัดเก็บไว้ในกล่องข้อความขยะ</string>
-    <string name="update_email_address_dialog_title">อัพเดทอีเมล</string>
-    <string name="update_email_address_dialog_message">คุณต้องยืนยันตัวตนก่อนจึงจะสามารถอัพเดทอีเมลได้</string>
+    <string name="update_email_address_dialog_title">อัปเดตอีเมล</string>
+    <string name="update_email_address_dialog_message">คุณต้องยืนยันตัวตนก่อนจึงจะสามารถอัปเดตอีเมลได้</string>
     <string name="update_phone_notice">เปลี่ยนการตั้งค่าความปลอดภัย</string>
     <string name="no_phone">ไม่มีหมายเลขโทรศัพท์</string>
     <string name="action_update_phone">เปลี่ยนหมายเลขโทรศัพท์</string>
@@ -406,7 +410,7 @@
     <string name="account_mibi_charge">เติม Mi เครดิต</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">บริการ</string>
-    <string name="cloud_service">Mi คลาวด์</string>
+    <string name="cloud_service">Xiaomi คลาวด์</string>
     <string name="vip_account_settings">การตั้งค่า VIP</string>
     <string name="xiao_mi_vip">Mi VIP</string>
     <string name="mi_vip_info">เรียกดูสิทธิพิเศษ</string>
@@ -418,8 +422,11 @@
     <string name="activity_not_found_notice">ไม่พบแอป</string>
     <string name="scan_barcode_title">เข้าสู่ระบบบัญชีของ Mi โดยการสแกนรหัส QR</string>
     <string name="talkback_scan_barcode">สแกนรหัส QR</string>
-    <string name="scan_barcode">สแกนรหัส QR เพื่อลงชื่อเข้าใช้</string>
     <string name="agreement_and_privacy">นโยบายความเป็นส่วนตัวและข้อตกลงการใช้งาน</string>
+    <string name="system_ad">โฆษณาในแอประบบ</string>
+    <string name="system_ad_switch">โฆษณาในแอประบบ</string>
+    <string name="system_ad_summary">"เปิดใช้คุณลักษณะนี้เพื่ออนุญาตให้แสดงโฆษณาจำนวนเล็กน้อยในแอประบบ โฆษณาเหล่านี้ช่วยให้เราพัฒนาและปรับปรุงผลิตภัณฑ์และบริการของเรา คุณสามารถเลือกที่จะปิดคุณสมบัตินี้ได้ทุกเมื่อ ขอบคุณสำหรับการสนับสนุน! "</string>
+    <string name="system_ad_list">ดูแอปที่เกี่ยวข้อง</string>
     <string name="authorize_title">การอนุมัติ</string>
     <string name="my_device_title">เครื่องของฉัน</string>
     <string name="device_list_title">อุปกรณ์ของฉัน</string>
@@ -431,6 +438,13 @@
     <string name="device_delete_success_title">ออกจากระบบแล้ว</string>
     <string name="device_delete_success_message">หากคุณไม่ได้เป็นผู้ใช้งานเครื่องดังกล่าวนี้ กรุณาเปลี่ยนรหัสผ่านของคุณทันที</string>
     <string name="change_password">เปลี่ยนรหัสผ่าน</string>
+    <string name="two_factor_auth">การตรวจสอบสิทธิ์สองชั้น</string>
+    <string name="two_factor_auth_summary">เมื่อคุณพยายามลงชื่อเข้าใช้บนอุปกรณ์ใหม่หรือในตำแหน่งใหม่คุณจะได้รับแจ้งเกี่ยวกับสิ่งนี้ในอุปกรณ์ที่เชื่อมต่ออื่นๆ คุณจะต้องยืนยันว่าความพยายามในการลงชื่อเข้าใช้นั้นได้รับอนุญาตจากคุณหรือไม่</string>
+    <string name="two_factor_auth_method">วิธีการตรวจสอบ</string>
+    <string name="two_factor_auth_click_confirm">ยืนยันการเช็คอิน</string>
+    <string name="two_factor_auth_click_confirm_summary">คุณจะเห็นการแจ้งเตือนบนอุปกรณ์ Mi อื่นๆ ที่เชื่อมต่อ แตะการแจ้งเตือนเพื่ออนุญาตให้ลงชื่อเข้าใช้บนอุปกรณ์ใหม่</string>
+    <string name="two_factor_auth_need_code">ป้อนรหัส</string>
+    <string name="two_factor_auth_need_code_summary">คุณจะเห็นรหัสบนอุปกรณ์ Mi ที่เชื่อมต่ออื่นๆ ป้อนรหัสนี้ในอุปกรณ์ใหม่เพื่อลงชื่อเข้าใช้</string>
     <string name="completed">เสร็จสมบูรณ์!</string>
     <string name="no_network_title">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="no_network_btn">รีเฟรช</string>
@@ -439,9 +453,9 @@
     <string name="empty_device_list_notice">ไม่มีอุปกรณ์ในรายการ</string>
     <string name="device_name">ชื่ออุปกรณ์</string>
     <string name="sim_card">ซิมการ์ด</string>
-    <string name="multi_user_not_show_sync_activity_title">อย่าเปิดใช้การซิงค์กับ Mi คลาวด์</string>
+    <string name="multi_user_not_show_sync_activity_title">อย่าเปิดใช้การซิงค์กับคลาวด์</string>
     <string name="multi_user_not_show_sync_activity_message_1">ดูเหมือนว่าคุณกำลังใช้พื้นที่ปกติ ของบัญชี Mi อยู่</string>
-    <string name="multi_user_not_show_sync_activity_message_2">ในกรณีดังกล่าว ข้อมูลทั้งหมดจะถูกซิงค์ไปยังพื้นที่ทับซ้อนของคุณเพื่อหลีกเลี่ยงปัญหานี้ กรุณาอย่าเปิดการซิงค์กับ Mi คลาวด์</string>
+    <string name="multi_user_not_show_sync_activity_message_2">ในกรณีดังกล่าว ข้อมูลทั้งหมดจะถูกซิงค์ไปยังพื้นที่ทับซ้อนของคุณเพื่อหลีกเลี่ยงปัญหานี้ กรุณาอย่าเปิดการซิงค์กับคลาวด์</string>
     <string name="find_device_access_denied">ไม่สามารถขอรับสถานะได้ การเข้าถึงถูกปฏิเสธ</string>
     <string name="find_device_account_error">ไม่สามารถขอรับสถานะได้เนื่องจากบัญชีเกิดข้อผิดพลาด</string>
     <string name="find_device_null_credential_error">ไม่สามารถขอรับข้อมูลอุปกรณ์ได้ กรุณาติดต่อศูนย์บริการลูกค้า Xiaomi</string>
@@ -510,9 +524,9 @@
     <string name="bind_safe_phone_msg">เพิ่มหมายเลขโทรศัพท์ของคุณเพื่อให้สามารถลงชื่อเข้าใช้บัญชี Mi ในครั้งต่อไปได้</string>
     <string name="account_notification_message">การเข้าสู่ระบบหมดเวลา ลงชื่อเข้าใช้อีกครั้ง</string>
     <string name="sim_changed_notification_title">เปลี่ยนหมายเลขโทรศัพท์?</string>
-    <string name="sim_changed_notification_msg">แตะเพื่ออัพเดตการกู้คืนข้อมูลโทรศัพท์ของคุณและรักษาความปลอดภัยให้กับบัญชีของคุณ</string>
+    <string name="sim_changed_notification_msg">แตะเพื่ออัปเดตการกู้คืนข้อมูลโทรศัพท์ของคุณและรักษาความปลอดภัยให้กับบัญชีของคุณ</string>
     <string name="recycle_phone_notification_title">ความเสี่ยงด้านความปลอดภัยของบัญชี Mi</string>
-    <string name="recycle_phone_notification_msg">ดูเหมือนหมายเลขโทรศัพท์ของคุณถูกรีไซเคิล แตะเพื่ออัพเดต</string>
+    <string name="recycle_phone_notification_msg">ดูเหมือนหมายเลขโทรศัพท์ของคุณถูกรีไซเคิล แตะเพื่ออัปเดต</string>
     <string name="send_diagnosis_log">ส่งบันทึกการวิเคราะห์</string>
     <string name="for_diagnosis_usage_only">ใช้แค่สำหรับปัญหาของตำแหน่งพิกัด</string>
     <string name="collect_diagnosis_log">สร้างบันทึกวินิจฉัย</string>
@@ -529,7 +543,7 @@ ID:%s
     <string name="exit">ออก</string>
     <string name="passport_privacy_policy_required">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
     <string name="passport_user_agreement_required">ข้อตกลงการใช้งาน (จำเป็น)</string>
-    <string name="kr_license_desc">คุณต้องยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเราก่อนใช้บริการบัญชี Mi และ Mi คลาวด์</string>
+    <string name="kr_license_desc">คุณต้องยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเราก่อนใช้บริการบัญชี Mi และ Xiaomi คลาวด์</string>
     <string name="kr_permission_desc">สิทธิ์ที่จำเป็น</string>
     <string name="optional_permissions">สิทธิ์การใช้งานเพิ่มเติม</string>
     <string name="permission_group_contacts">รายชื่อผู้ติดต่อ</string>
@@ -540,4 +554,6 @@ ID:%s
     <string name="kr_permission_phone_desc">สำหรับปกป้องบัญชีของคุณ</string>
     <string name="kr_permission_storage_desc">สำหรับการบันทึกการวินิจฉัย</string>
     <string name="kr_permission_sms_desc">สำหรับรหัสยืนยันอัตโนมัติ</string>
+    <string name="system_ad_switch_failed">ไม่สามารถบันทึกการตั้งค่านี้ได้</string>
+    <string name="ep_unsupported">ไม่สามารถลงชื่อเข้าใช้บัญชี Mi บนอุปกรณ์ของคุณได้</string>
 </resources>

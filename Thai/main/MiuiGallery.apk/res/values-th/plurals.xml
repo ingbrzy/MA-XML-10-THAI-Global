@@ -33,6 +33,9 @@
     <plurals name="album_item_msg_format">
         <item quantity="other">(%d รายการ)</item>
     </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d รายการ</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">รูปภาพ %1$d รูปของ%2$s ได้ทำการเพิ่มแล้ว</item>
     </plurals>
@@ -46,7 +49,7 @@
         <item quantity="other">%d รายการ มีขนาดใหญ่เกินไปที่จะสำรองข้อมูล</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d รูปภาพและวิดีโอ | หยุดชั่วคราว</item>
+        <item quantity="other">จะดำเนินการต่อใน %d นาที</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d รูปภาพและวิดีโอ| %2$s</item>
@@ -58,10 +61,13 @@
         <item quantity="other">%d รูปภาพ</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">บันทึก %d ภาพที่เลือกและลบภาพที่เหลือ?</item>
+        <item quantity="other">ลบ %d ภาพที่คุณไม่ได้เลือก?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">ลบ %d รูปภาพ</item>
     </plurals>
     <plurals name="burst_save_selected">
-        <item quantity="other">บันทึก %d ภาพที่เลือก</item>
+        <item quantity="other">เก็บ %d ภาพที่เลือก</item>
     </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d รูปภาพ</item>
@@ -79,43 +85,46 @@
         <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพจาก Mi คลาวด์และอุปกรณ์ที่ซิงค์ทั้งหมด?</item>
+        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพจาก Xiaomi คลาวด์และอุปกรณ์ที่ซิงค์ทั้งหมด?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพ?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพจาก Mi คลาวด์และอุปกรณ์นี้?</item>
+        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพจาก Xiaomi คลาวด์และอุปกรณ์นี้?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d รายการถูกลบ</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">ลบ %d รายการจากอุปกรณ์และ Mi คลาวด์ทั้งหมด?</item>
+        <item quantity="other">ลบ %d รายการจากอุปกรณ์และ Xiaomi คลาวด์ทั้งหมด?</item>
     </plurals>
     <plurals name="delete_media_from_local">
         <item quantity="other">ลบ %d รายการ?</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">ลบ %d รายการจากอัลบั้มนี้และ Mi คลาวด์ทั้งหมด?</item>
+        <item quantity="other">ลบ %d รายการจากอัลบั้มนี้และ Xiaomi คลาวด์ทั้งหมด?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">ลบ %d รูปภาพจากอุปกรณ์และ Mi คลาวด์ทั้งหมด?</item>
+        <item quantity="other">ลบ %d รูปภาพจากอุปกรณ์และ Xiaomi คลาวด์ทั้งหมด?</item>
     </plurals>
     <plurals name="delete_photo_from_local">
         <item quantity="other">ลบ %d รูปภาพ?</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">ลบ %d รูปภาพจากอัลบั้มนี้และ Mi คลาวด์ทั้งหมด?</item>
+        <item quantity="other">ลบ %d รูปภาพจากอัลบั้มนี้และ Xiaomi คลาวด์ทั้งหมด?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพจากอุปกรณ์นี้?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">ลบ %d วิดีโอจากอุปกรณ์และ Mi คลาวด์ทั้งหมด?</item>
+        <item quantity="other">ลบ %d วีดีโอจากอุปกรณ์และ Xiaomi คลาวด์ทั้งหมด?</item>
     </plurals>
     <plurals name="delete_video_from_local">
         <item quantity="other">ลบ %d วิดีโอ?</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">ลบ %d วิดีโอจากอัลบั้มนี้และ Mi คลาวด์ทั้งหมด?</item>
+        <item quantity="other">ลบ %d วีดีโอจากอัลบั้มนี้และ Xiaomi คลาวด์ทั้งหมด?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">ไม่สามารถดาวน์โหลด %1$d ไฟล์ได้</item>
@@ -131,6 +140,9 @@
     </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">ข้าม %1$d รูปภาพที่ไม่สามารถแสดงผลได้</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ไฟล์</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d รายการกำลังรอการสำรองข้อมูล</item>
@@ -209,6 +221,9 @@
     </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">ไม่สามารถแชร์ กำลังประมวลผล %d ภาพ …</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d วินาที</item>
     </plurals>
     <plurals name="slim_complete_photo_count">
         <item quantity="other">เพิ่มประสิทธิภาพ %d รูปภาพ</item>

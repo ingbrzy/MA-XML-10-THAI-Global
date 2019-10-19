@@ -2,7 +2,7 @@
 <resources>
     <string name="alert_message_clear_records">ลบไฟล์บันทึกที่เลือกไว้?</string>
     <string name="alert_message_delete_local_record">ลบบันทึกนี้?</string>
-    <string name="alert_message_delete_record">การลบบันทึกเสียงออกจากอุปกรณ์ของคุณจะทำให้บันทึกเสียงใน Mi คลาวด์ถูกลบออกเช่นกัน ต้องการลบหรือไม่?</string>
+    <string name="alert_message_delete_record">การลบบันทึกเสียงออกจากอุปกรณ์ของคุณจะทำให้บันทึกเสียงใน Xiaomi คลาวด์ถูกลบออกเช่นกัน ต้องการลบหรือไม่?</string>
     <string name="alert_message_delete_record_title">ลบบันทึกเสียงหรือไม่?</string>
     <string name="app_name">บันทึกเสียง</string>
     <string name="back">ย้อนกลับ</string>
@@ -14,12 +14,12 @@
     <string name="call_record_list_group_unconnected">ไม่ได้เชื่อมต่อ</string>
     <string name="clear_records">ลบไฟล์บันทึกที่ซิงค์ไว้?</string>
     <string name="cloud_record_open">ซิงค์บันทึกเสียง</string>
-    <string name="cloud_record_tip">ซิงค์บันทึกเสียงกับ Mi คลาวด์</string>
-    <string name="cloud_service_state_open_reminder">เปิดการซิงค์กับ Mi คลาวด์ เพื่อซิงค์การบันทึก</string>
+    <string name="cloud_record_tip">ซิงค์บันทึกเสียงกับ Xiaomi คลาวด์</string>
+    <string name="cloud_service_state_open_reminder">เปิดการซิงค์กับคลาวด์ เพื่อซิงค์การบันทึก</string>
     <string name="cloud_status_full_dialog_cancel">ในภายหลัง</string>
     <string name="cloud_status_full_dialog_msg">พื้นที่บนคลาวด์ของคุณเต็มแล้ว ไม่สามารถซิงค์บันทึกเสียง อัพเกรดบัญชีของคุณเพื่อรับพื้นที่จัดเก็บเพิ่มเติม</string>
     <string name="cloud_status_full_dialog_ok">อัพเกรด</string>
-    <string name="cloud_status_full_dialog_title">พื้นที่ใน Mi คลาวด์เต็ม</string>
+    <string name="cloud_status_full_dialog_title">พื้นที่ใน Xiaomi คลาวด์เต็ม</string>
     <string name="data_connection_body">การดาวน์โหลดไฟล์นี้ผ่านเครือข่ายมือถือต้องใช้ปริมาณการถ่ายโอนข้อมูลสูง ซึ่งหากใช้ไปเกินแพ็คเกจที่กำหนดแล้ว อาจทำให้คุณต้องเสียค่าบริการที่เพิ่มขึ้นให้แก่ผู้ให้บริการเครือข่าย</string>
     <string name="data_connection_button_text">ตกลง</string>
     <string name="data_connection_title">คำเตือนการใช้งานข้อมูล</string>
@@ -28,7 +28,7 @@
     <string name="deleting_message">กำลังลบ…</string>
     <string name="details">รายละเอียด</string>
     <string name="dialog_content_storage_full">การบันทึกหยุดลง เพราะมีพื้นที่เหลืออยู่ไม่เพียงพอในที่เก็บข้อมูลในเครื่องโทรศัพท์ของคุณ</string>
-    <string name="dialog_privacy_revoke_tips">หลังจากที่คุณยกเลิกการให้สิทธิ์ แอปจะหยุดรวบรวมข้อมูลและข้อมูลที่เกี่ยวข้องทั้งหมดจะถูกลบออกจากเซิร์ฟเวอร์ ซึ่งอาจทำให้แอปไม่สามารถใช้งานได้ เพิกถอนการให้สิทธิ์หรือไม่? เพื่อความปลอดภัยของบัญชีของคุณให้ลงชื่อเข้าใช้ i.mi.com ก่อนที่จะยกเลิกการให้สิทธิ์สำหรับบริการ Mi คลาวด์</string>
+    <string name="dialog_privacy_revoke_tips">หลังจากที่คุณยกเลิกการให้สิทธิ์ แอปจะหยุดรวบรวมข้อมูลและข้อมูลที่เกี่ยวข้องทั้งหมดจะถูกลบออกจากเซิร์ฟเวอร์ ซึ่งอาจทำให้แอปไม่สามารถใช้งานได้ เพิกถอนการให้สิทธิ์หรือไม่? เพื่อความปลอดภัยของบัญชีของคุณให้ลงชื่อเข้าใช้ i.mi.com ก่อนที่จะยกเลิกการให้สิทธิ์สำหรับบริการ Xiaomi คลาวด์</string>
     <string name="dialog_title_storage_full">พื้นที่ไม่เพียงพอ</string>
     <string name="download">ดาวน์โหลด</string>
     <string name="duration_format_hour">%sชม.</string>
@@ -180,7 +180,7 @@
     <string name="recognize_extra_price_desp">(สิทธิพิเศษสำหรับผู้ใช้ Mi)</string>
     <string name="record">บันทึก</string>
     <string name="record_back_pressed_hint">หากต้องการหยุดบันทึก ให้แตะที่ปุ่มย้อนหลังอีกครั้ง</string>
-    <string name="record_download">ดาวน์โหลดจาก Mi คลาวด์</string>
+    <string name="record_download">ดาวน์โหลดจาก Xiaomi คลาวด์</string>
     <string name="record_download_complete">ดาวน์โหลด</string>
     <string name="record_download_msg">สามารถฟังเสียงบันทึกได้ก็ต่อเมื่อดาวน์โหลดเสร็จสิ้นแล้ว</string>
     <string name="record_download_msg_reload">ไม่พบไฟล์เสียงบันทึก</string>
@@ -246,7 +246,9 @@
     <string name="status_bar_back">แตะเพื่อกลับไปยังตัวบันทึกเสียง</string>
     <string name="status_bar_recording">กำลังบันทึก…</string>
     <string name="status_bar_recording_pause">พักการบันทึกเสียงไว้</string>
+    <string name="text_btn_backward_3_seconds">ย้อนกลับ 3 วินาที</string>
     <string name="text_btn_complete">หยุด</string>
+    <string name="text_btn_forward_3_seconds">ไปข้างหน้า 3 วินาที</string>
     <string name="text_btn_list">กำลังบันทึก</string>
     <string name="text_btn_mark">ทำเครื่องหมาย</string>
     <string name="text_btn_pause">หยุดพัก</string>
@@ -256,11 +258,16 @@
     <string name="text_btn_recording">บันทึก</string>
     <string name="text_btn_wave">คลื่น</string>
     <string name="text_finish">ยืนยัน</string>
+    <string name="text_play_speed_0_5">ความเร็วในการเล่น 0.5X</string>
+    <string name="text_play_speed_1_0">ความเร็วในการเล่นปกติ</string>
+    <string name="text_play_speed_1_5">ความเร็วในการเล่น 1.5X</string>
+    <string name="text_play_speed_2_0">ความเร็วในการเล่น 2X</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s สามารถบันทึกเสียงได้ประมาณ %2$s</string>
     <string name="toast_uninstall_fileexplorer">ไม่ได้ติดตั้งตัวจัดการไฟล์</string>
+    <string name="usage_description">กำลังทำสำเนารายการเสียงและซิงค์กับคลาวด์</string>
     <string name="webview_check_network">การตั้งค่าเครือข่าย</string>
     <string name="webview_data_error">เกิดข้อผิดพลาด</string>
     <string name="webview_locating_fail">ไม่พบตำแหน่งพิกัดของคุณ</string>

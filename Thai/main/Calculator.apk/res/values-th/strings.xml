@@ -18,6 +18,7 @@
     <string name="cancel">ยกเลิก </string>
     <string name="children_education">การศึกษาของเด็ก</string>
     <string name="choose_currency">เลือกสกุลเงิน</string>
+    <string name="choose_radix">เลือกระบบตัวเลข</string>
     <string name="choose_unit">เลือกหน่วย</string>
     <string name="city">เมือง</string>
     <string name="clearDesc">ล้าง</string>
@@ -28,6 +29,7 @@
     <string name="convertion_unit">ตัวแปลงหน่วย</string>
     <string name="convertion_unit_area">แปลงหน่วยพื้นที่</string>
     <string name="convertion_unit_length">แปลงหน่วยความยาว</string>
+    <string name="convertion_unit_radix">ระบบตัวเลข</string>
     <string name="convertion_unit_temperature">แปลงหน่วยอุณหภูมิ</string>
     <string name="convertion_unit_time">แปลงหน่วยเวลา</string>
     <string name="convertion_unit_velocity">แปลงหน่วยความเร็ว</string>
@@ -38,7 +40,7 @@
     <string name="currency_update_connect_to_get_data">อัตราแลกเปลี่ยนมีให้บริการโดย Webull เชื่อมต่อกับเครือข่ายเพื่อรับข้อมูลล่าสุด</string>
     <string name="currency_update_support">ข้อมูลอัตราแลกเปลี่ยนให้บริการโดย webull.</string>
     <string name="currency_update_time_format">ข้อมูลอัตราแลกเปลี่ยนให้บริการโดย webull (%s)</string>
-    <string name="currency_update_updating">กำลังอัพเดทอัตราแลกเปลี่ยน…</string>
+    <string name="currency_update_updating">กำลังอัปเดตอัตราแลกเปลี่ยน…</string>
     <string name="current_rate_remind_commercial" />
     <string name="current_rate_remind_fund" />
     <string name="dateformat">dd/MM/yyyy</string>
@@ -112,6 +114,7 @@
     <string name="item_title_dress_size">ขนาดเสื้อ</string>
     <string name="item_title_length_conversion">ความยาว</string>
     <string name="item_title_mortgage">สินเชื่อบ้าน</string>
+    <string name="item_title_radix">ระบบตัวเลข</string>
     <string name="item_title_scientific_calculator">วิทยาศาสตร์</string>
     <string name="item_title_tax">ภาษี</string>
     <string name="item_title_temprature_conversion">อุณหภูมิ</string>
@@ -174,6 +177,7 @@
     <string name="mortgage_item_years">ระยะเวลาการให้สินเชื่อ</string>
     <string name="mortgage_loans_amount">จำนวนเงินกู้ยืม</string>
     <string name="mortgage_provident_found_interest_rate">อัตราดอกเบี้ยของกองทุน</string>
+    <string name="mortgage_provider_east_money">ข้อมูลจาก East Money</string>
     <string name="mortgage_repayment_amount">ยอดที่ต้องชำระ</string>
     <string name="mortgage_result">ผลลัพธ์</string>
     <string name="mortgage_show_details">แสดงรายละเอียด</string>
@@ -186,6 +190,7 @@
     <string name="negDesc">สลับไปมาระหว่างอุณหภูมิสูงหรือต่ำกว่าศูนย์</string>
     <string name="network_confirm_content">เครื่องคิดเลข การแปลงสกุลเงิน ภาษี และจำนอง ต้องเชื่อมต่อกับอินเทอร์เน็ตและเข้าถึงบริการตำแหน่งเพื่อให้ทำงานได้ตามปกติ</string>
     <string name="network_confirm_title">สิทธิ์ที่จำเป็น</string>
+    <string name="network_purpose">ยินดีต้อนรับสู่เครื่องคิดเลข! เครื่องคิดเลขช่วยให้คุณสามารถ แปลงสกุลเงิน คำนวณการชำระคืนจำนอง และอื่นๆ</string>
     <string name="none">ไม่ตั้ง</string>
     <string name="not_supported_due_to_language">คุณลักษณะนี้พร้อมใช้งานในภาษาจีนเท่านั้น</string>
     <string name="ok">ตกลง</string>
@@ -199,8 +204,8 @@
     <string name="preference_alert_follow_wechat">คัดลอกและวางไปยัง WeChat เพื่อติดตาม</string>
     <string name="preference_alert_follow_wechat_button">คัดลอก</string>
     <string name="preference_check_update_summary_current_version">เวอร์ชั่นปัจจุบัน: %s</string>
-    <string name="preference_check_update_summary_new_version">พบการอัพเดต: %s</string>
-    <string name="preference_check_update_title">ตรวจสอบการอัพเดท</string>
+    <string name="preference_check_update_summary_new_version">พบการอัปเดต: %s</string>
+    <string name="preference_check_update_title">ตรวจสอบการอัปเดต</string>
     <string name="preference_feedback_title">คำถามที่พบบ่อย</string>
     <string name="preference_follow_qq_group">กลุ่ม QQ:523274279</string>
     <string name="preference_follow_us">ติดตามฉัน</string>
@@ -318,11 +323,13 @@
     <string name="unit_data_display_currency_aed">เดอร์แฮมสหรัฐอาหรับเอมิเรตส์</string>
     <string name="unit_data_display_currency_ars">เปโซอาร์เจนตินา</string>
     <string name="unit_data_display_currency_aud">ดอลลาร์ออสเตรเลีย</string>
+    <string name="unit_data_display_currency_bdt">ทากาบังคลาเทศ</string>
     <string name="unit_data_display_currency_bgn">เลฟบัลแกเรีย</string>
     <string name="unit_data_display_currency_bhd">ดีนาร์บาห์เรน</string>
     <string name="unit_data_display_currency_bnd">ดอลลาร์บรูไน</string>
     <string name="unit_data_display_currency_brl">เรียลบราซิล</string>
     <string name="unit_data_display_currency_byn">รูเบิลเบลารุส</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">ดอลลาร์แคนาดา</string>
     <string name="unit_data_display_currency_chf">ฟรังก์สวิส</string>
     <string name="unit_data_display_currency_clp">เปโซชิลี</string>
@@ -408,6 +415,10 @@
     <string name="unit_data_display_length_um">ไมโครเมตร</string>
     <string name="unit_data_display_length_yd">หลา</string>
     <string name="unit_data_display_length_zhang">Zhang</string>
+    <string name="unit_data_display_radix_10">ทศนิยม</string>
+    <string name="unit_data_display_radix_16">เลขฐานสิบหก</string>
+    <string name="unit_data_display_radix_2">เลขฐานสอง</string>
+    <string name="unit_data_display_radix_8">เลขฐานแปด</string>
     <string name="unit_data_display_temperature_c">เซลเซียส</string>
     <string name="unit_data_display_temperature_f">ฟาเรนไฮต์</string>
     <string name="unit_data_display_temperature_k">เคลวิน</string>
@@ -601,14 +612,21 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">ไม่สามารถเชื่อมต่อเพื่อดาวน์โหลด ตรวจสอบว่าแอปนี้มีสิทธิ์ที่จำเป็นทั้งหมดในการตั้งค่า > แอปที่ติดตั้งแล้ว</string>
     <string name="xiaomi_external_storage_unavailable">ที่เก็บข้อมูลไม่เพียงพอ ตรวจสอบการ SD การ์ด</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"แนะนำเวอร์ชั่น %1$s
  ขนาด: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"แนะนำเวอร์ชั่น %1$s
- ขนาดการอัพเดตเดลต้า: %2$s"</string>
-    <string name="xiaomi_update_dialog_title">%1$s อัพเดต!</string>
+ ขนาดการอัปเดตเดลต้า: %2$s"</string>
+    <string name="xiaomi_update_dialog_title">%1$s อัปเดต!</string>
     <string name="year" />
     <string name="preference_use_voice">เอาต์พุตเสียง</string>
+    <string name="preference_use_voice_summary">เปิดเพื่อใช้เอาต์พุตเสียงพูดระหว่างการคำนวณ</string>
+    <string name="preference_use_voice_title">เอาต์พุตเสียงพูด</string>
+    <string name="preference_user_feedback_title">ข้อเสนอแนะ</string>
+    <string name="voice_guide_text">คุณสามารถเปิดเอาต์พุตเสียงพูดได้ที่นี่</string>
     <string name="warn_locale_unsupport_for_voice">ยังไม่รองรับเอาต์พุตเสียงสำหรับภาษานี้</string>
 </resources>

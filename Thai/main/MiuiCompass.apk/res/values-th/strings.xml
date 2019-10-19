@@ -55,6 +55,8 @@
     <string name="mobiledata_alert_dialog_title">คำเตือนการใช้งานข้อมูล</string>
     <string name="open_perm_msg">เข็มทิศต้องการเข้าถึงข้อมูลตำแหน่งและกล้องถ่ายรูป นี่เป็นสิ่งจำเป็นในการกำหนดพิกัดและแสดงตัวอย่างสด อนุญาตหรือไม่?</string>
     <string name="open_perm_title">สิทธิ์ที่จำเป็น</string>
+    <string name="permission_camera_desc">ใช้ตัววัดระดับน้ำ</string>
+    <string name="permission_location_desc">แสดงพิกัดและความดันบรรยากาศ</string>
     <string name="preference_other">อื่นๆ</string>
     <string name="preference_privacy_title">นโยบายความเป็นส่วนตัว</string>
     <string name="pressure">%.1f</string>

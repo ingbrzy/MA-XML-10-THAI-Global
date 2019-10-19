@@ -46,7 +46,7 @@
         <item quantity="other">%d รูปภาพที่ซ่อนยังไม่ได้ซิงค์ หลังจากที่รายการทั้งหมดซิงค์แล้วให้ตรวจสอบและลงชื่ออก; มิฉะนั้นรายการทั้งหมดจะถูกลบ</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">หยุดการซิงค์ชั่วคราว ทำงานต่อใน %d นาที…</item>
+        <item quantity="other">ซิงค์ต่อภายใน %d นาที</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">%s นาทีที่แล้ว</item>
@@ -55,6 +55,6 @@
         <item quantity="other">%s ชม. ที่แล้ว</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s บริการจะถูกซิงค์กับ Mi คลาวด์</item>
+        <item quantity="other">%s บริการจะถูกซิงค์กับ Xiaomi คลาวด์</item>
     </plurals>
 </resources>

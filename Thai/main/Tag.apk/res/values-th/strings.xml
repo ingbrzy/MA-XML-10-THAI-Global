@@ -12,4 +12,6 @@
     <string name="import_vcard">นำเข้า ^1</string>
     <string name="mime_display_name">ข้อมูลจากแท็ก NFC</string>
     <string name="vcard_title">ข้อมูลรายชื่อติดต่อสำหรับ ^1</string>
+    <string name="call_phone_permission_denied">แอปพลิเคชันนี้ต้องใช้สิทธิ์โทรศัพท์เพื่อโทรออก คุณสามารถจัดการสิทธิ์การเข้าถึง Tag ได้ในการตั้งค่า</string>
+    <string name="external_storage_permission_denied">แอปพลิเคชันนี้ต้องใช้สิทธิ์พื้นที่เก็บข้อมูลภายนอกเพื่อเข้าถึงไฟล์ของคุณ คุณจัดการสิทธิ์การเข้าถึง Tag ได้ในการตั้งค่า</string>
 </resources>

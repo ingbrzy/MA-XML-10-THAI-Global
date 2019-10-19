@@ -82,7 +82,7 @@
     <string name="cloud_international_addr">อัพเดทเซิร์ฟเวอร์ข้อมูลนานาชาติ</string>
     <string name="current_cloud_addr_is">ที่อยู่เซิร์ฟเวอร์คลาวด์ควบคุมคือ:</string>
     <string name="update_profile_sucess">อัพเดทฟอร์มเซิร์ฟเวอร์เรียบร้อย</string>
-    <string name="update_profile_failture_not_connect_wifi">ไม่สามารถอัพเดทได้ กรุณาเชื่อมต่อกับ Wi-Fi แล้วลองอีกครั้ง</string>
+    <string name="update_profile_failture_not_connect_wifi">ไม่สามารถอัพเดทได้ กรุณาเชื่อมต่อกับ Wi-Fi แล้วลองใหม่</string>
     <string name="sucess">เสร็จสิ้น</string>
     <string name="failure">ผิดพลาด</string>
     <string name="cloud_addr_info">ข้อมูลคลาวด์</string>
@@ -102,7 +102,7 @@
     <string name="config_classify">จัดเรียงตามการตั้งค่าแอป</string>
     <string name="active_classify">จัดเรียงตามสถานะของกิจกรรม</string>
     <string name="extreme_mode_max_item_alert">คุณสามารถเลือกได้สูงสุด 4 แอปเพื่อให้ทำงานในพื้นหลังเมื่อเปิดใช้งานตัวประหยัดแบตเตอรี่ขั้นสูง</string>
-    <string name="message_i_know">รับทราบ</string>
+    <string name="message_i_know">เข้าใจแล้ว</string>
     <string name="high_temp_state">ร้อนเกิน</string>
     <string name="high_temp_state_message">อุปกรณ์ของคุณร้อนเกินไป ข้อมูลมือถือ ฮอตสปอต Wi-Fi GPS และกล้อง จะถูกจำกัด</string>
     <string name="atrace_start">กำลังบันทึกการใช้ atrace…</string>

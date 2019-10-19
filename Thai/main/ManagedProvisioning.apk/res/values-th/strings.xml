@@ -97,8 +97,8 @@
     <string name="join_many_items_middle">%1$s, %2$s</string>
     <string name="join_two_items">%1$s และ %2$s</string>
     <string name="launcher_app_cant_be_used_by_work_profile">โปรไฟล์งานของคุณไม่สามารถใช้แอป Launcher นี้</string>
-    <string name="learn_more_label">ปุ่มเรียนรู้เพิ่มเติม</string>
-    <string name="learn_more_link">เรียนรู้เพิ่มเติม</string>
+    <string name="learn_more_label">ปุ่มดูข้อมูลเพิ่มเติม</string>
+    <string name="learn_more_link">ดูข้อมูลเพิ่มเติม</string>
     <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished">ลิงก์นี้ไม่ปลอดภัยและไม่สามารถเปิดได้จนกว่าจะตั้งค่าอุปกรณ์เสร็จสิ้น: %1$s</string>
     <string name="managed_device_info">ข้อมูลอุปกรณ์ที่มีการจัดการ</string>
     <string name="managed_provisioning_error_text">ไม่สามารถตั้งค่าโปรไฟล์งานของคุณได้ โปรดติดต่อฝ่ายไอทีหรือลองอีกครั้งในภายหลัง</string>

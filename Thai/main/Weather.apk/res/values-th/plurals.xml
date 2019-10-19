@@ -12,6 +12,9 @@
     <plurals name="aqi_all_city_cur_num">
         <item quantity="other">ค่าเฉลี่ย %1$s ของสถานี</item>
     </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">พยากรณ์ %1$s วัน</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">พยากรณ์ %1$s วัน</item>
     </plurals>

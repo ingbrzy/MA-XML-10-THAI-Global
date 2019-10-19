@@ -26,13 +26,16 @@
     <string name="other_settings_user_experience_summary_index">เรียกดูรายละเอียด</string>
     <string name="other_settings_upload_debug_log_title">ส่งข้อมูลการวินิจฉัยโดยอัตโนมัติ</string>
     <string name="other_settings_upload_debug_log_summary">สถิติการใช้งานที่ช่วยให้เราค้นหาและแก้ไขปัญหา อาจมีข้อมูลส่วนบุคคลของคุณ</string>
-    <string name="other_settings_auto_update">อัพเดทโดยอัตโนมัติ</string>
-    <string name="other_settings_auto_update_summary">MIUI จะเลือกเวลาที่ดีที่สุดในการติดตั้งการอัปเดต</string>
-    <string name="other_settings_ad_enable">การแนะนำเกี่ยวกับโฆษณาส่วนบุคคล</string>
-    <string name="other_settings_ad_enable_summary">รับโฆษณาที่ปรับเปลี่ยนในแบบของคุณตามข้อมูลพฤติกรรมของคุณ</string>
+    <string name="other_settings_auto_update">อัปเดตระบบอัตโนมัติ</string>
+    <string name="other_settings_auto_update_summary">MIUI จะเลือกเวลาที่ดีที่สุดในการดาวน์โหลดและติดตั้งการอัปเดต อุปกรณ์ของคุณจะถูกรีบูตโดยอัตโนมัติเพื่อใช้การเปลี่ยนแปลง</string>
+    <string name="other_settings_ad_enable">โฆษณาส่วนบุคคล</string>
+    <string name="other_settings_ad_enable_summary">ปรับแต่งโฆษณาตามความสนใจของคุณ</string>
+    <string name="other_settings_ad_disable_summary">เปิดใช้งานเพื่อปรับแต่งโฆษณา</string>
+    <string name="other_settings_ad_dialog_content">หลังจากปิดคุณสมบัตินี้ คุณจะไม่ได้รับโฆษณาในแบบของคุณอีกต่อไป อย่างไรก็ตามคุณจะยังคงได้รับโฆษณาที่ไม่เกี่ยวข้องกับความสนใจของคุณ คุณสามารถเรียนรู้เพิ่มเติมเกี่ยวกับโฆษณาส่วนบุคคลในนโยบายความเป็นส่วนตัวของ Xiaomi ปิดโฆษณาส่วนบุคคลหรือไม่?</string>
     <string name="other_settings_enhanced_lockscreen">ภาพพื้นหลังรายวัน</string>
-    <string name="other_settings_enhanced_lockscreen_summary">รับรูปภาพและเรื่องราวที่จัดไว้ให้กับหน้าจอล็อกของคุณทุกวัน ตามข้อตกลงและเงื่อนไข</string>
-    <string name="other_settings_enhanced_lockscreen_summary_index">ข้อตกลงและเงื่อนไข</string>
+    <string name="other_settings_enhanced_lockscreen_summary">รับภาพและเรื่องราวที่คัดสรรมาแล้ว ส่งไปยังหน้าจอล็อคของคุณทุกวัน%1$s และ %2$s</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">ข้อตกลงผู้ใช้งาน</string>
+    <string name="other_settings_enhanced_lockscreen_privacy_index">นโยบายความเป็นส่วนตัว</string>
     <string name="back">ย้อนกลับ</string>
     <string name="next">ถัดไป</string>
     <string name="skip_underline">ข้ามขั้นตอนนี้</string>
@@ -51,12 +54,17 @@
     <string name="terms_of_use_label">"ความเป็นส่วนตัวของคุณเป็นสิ่งสำคัญมากสำหรับเรา โปรดอ่านข้อตกลงการใช้บริการและนโยบายความเป็นส่วนตัวของเราที่จะเข้าใจข้อมูลที่เรารวบรวมวิธีการที่เราใช้มันและตัวเลือกที่มีให้คุณ. 
 
 คุณจะต้องยอมรับข้อกำหนดในการให้บริการและนโยบายส่วนบุคคลก่อนจึงจะสามารถ ใช้ MIUI %s และบัญชี Mi​ ส่วนประกอบสถิติจะเชื่อมต่อกับอินเทอร์เน็ตและตรวจสอบตำแหน่งของคุณ"</string>
-    <string name="terms_of_use_lable_apps">บริการ Mi, การเปิดใช้งานบริการ Mi SIM, Mi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, ศูนย์เกมส์, MAB, MIUI Daemon และ ระบบส่วนประกอบ MSA, บริการการแปล, แอปด่วน, App vault, สถิติ, Mi Link</string>
+    <string name="terms_of_use_lable_apps">บริการ Mi, การเปิดใช้งานบริการ Mi SIM, Xiaomi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, ศูนย์เกมส์, MIUI Daemon และ ระบบส่วนประกอบ MSA, บริการการแปล, แอปด่วน, App vault, สถิติ, Mi Link</string>
+    <string name="terms_of_use_label_mab">, MAB</string>
+    <string name="terms_of_use_label_Mistore">, ระบบปลั๊กอิน Mi สโตร์</string>
     <string name="terms_of_use_lable_gms">, Google Play services</string>
     <string name="terms_of_use_label_systemhelper">, บริการลงทะเบียนด้วยตนเอง</string>
+    <string name="terms_of_use_ble_htmlViewer">, ผู้ให้บริการตำแหน่งแบบผสม, HTMLViewer</string>
     <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
-    <string name="terms_of_use_label_updater">, ตัวอัพเดท</string>
+    <string name="terms_of_use_label_updater">, ตัวอัปเดต</string>
+    <string name="terms_of_use_label_package">, ตัวติดตั้งแพ็คเกจ</string>
+    <string name="terms_of_use_label_phrase">, คำที่ถูกใช้บ่อย</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ Facemoji ก่อนที่จะใช้คุณลักษณะนี้"</string>
@@ -88,7 +96,7 @@
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">ใช้ลายนิ้วมือของคุณในการปลดล็อกเครื่อง ลงชื่อเข้าสู่แอปหรือบริการต่างๆ</string>
     <string name="content_description_start">เริ่มต้น</string>
-    <string name="start_up_slogan">ดีไซนด์เพื่อประสบการณ์แบบเต็มจอ</string>
+    <string name="start_up_slogan">ชีวิตง่ายขึ้น</string>
     <string name="content_description_miui_version">MIUI 10</string>
     <string name="content_description_complete">เสร็จสมบูรณ์</string>
     <string name="language_picker_other_languages_title">ภาษาเพิ่มเติม</string>
