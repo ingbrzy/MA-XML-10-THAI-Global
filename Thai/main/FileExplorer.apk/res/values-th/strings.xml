@@ -161,7 +161,6 @@
     <string name="dialog_type_image">รูปภาพ</string>
     <string name="dialog_type_text">เอกสาร</string>
     <string name="dialog_type_video">วิดีโอ</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">แสดงชื่อ</string>
     <string name="domain">โดเมน</string>
     <string name="download_success">ดาวน์โหลดเรียบร้อย</string>
@@ -208,7 +207,6 @@
     <string name="favorite_ringtone">เสียงเรียกเข้า</string>
     <string name="favorite_screen_cap">ภาพหน้าจอ</string>
     <string name="feedback_send_email_body_extra_info">ห้ามลบข้อมูลต่อไปนี้ มันจะช่วยให้เราค้นหาปัญหาได้ดีขึ้น</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">สามารถอ่านได้: </string>
     <string name="file_info_canwrite">สามารถเขียนได้: </string>
     <string name="file_info_ishidden">ซ่อน: </string>
