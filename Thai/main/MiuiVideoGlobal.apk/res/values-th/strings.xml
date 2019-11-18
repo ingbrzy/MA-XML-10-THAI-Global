@@ -439,7 +439,6 @@
     <string name="not_show">ไม่ต้องแสดงอีก</string>
     <string name="notify_apk_installed">ดาวน์โหลดเรียบร้อย</string>
     <string name="ok">ตกลง</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">การติดตามล่าสุด</string>
     <string name="order_recently_updated">อัปเดตล่าสุด</string>
     <string name="ovp_alert_dialog_download_install_task">กำลังดาวน์โหลด HD ปลั๊กอิน…</string>
