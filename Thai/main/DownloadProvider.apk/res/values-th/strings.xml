@@ -41,5 +41,4 @@
     <string name="download_queued">อยู่ในคิวแล้ว</string>
     <string name="download_running">กำลังดาวน์โหลด</string>
     <string name="download_error">ไม่สามารถดาวน์โหลดได้</string>
-    <string name="download_running_percent">กำลังดาวน์โหลด %s</string>
 </resources>
