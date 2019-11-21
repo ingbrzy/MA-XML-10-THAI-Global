@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_index">
+        <item quantity="other">%1$d วัน</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">เป้าหมาย: %1$d ก้าว</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" ก้าว"</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">ประจำเดือน %1$d-วัน</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d ก้าว</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">คุณไม่มีการบันทึกเป็นเวลา %1$d วัน บันทึกช่วงเวลาของคุณเพื่อรับการทำนายที่แม่นยำยิ่งขึ้น</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">ประจำเดือนรอบนี้มีระยะเวลา %1$d วัน</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">วันที่ %1$d ของวงรอบประจำเดือน</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">รอบประจำเดือน %1$d-วัน</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d ครั้ง</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">วันที่ %1$d ของรอบประจำเดือน</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">อีก %1$d วันก่อนจะถึงประจำเดือนรอบต่อไป</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">วันที่ %1$d โดยประมาณของรอบประจำเดือน</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" วัน"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d ปี</item>
+    </plurals>
+</resources>

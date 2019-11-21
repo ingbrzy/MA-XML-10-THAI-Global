@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recommendation_desc_week">
+        <item>คำแนะนำสำหรับวันอาทิตย์</item>
+        <item>คำแนะนำสำหรับวันจันทร์</item>
+        <item>คำแนะนำสำหรับวันอังคาร</item>
+        <item>คำแนะนำสำหรับวันพุธ</item>
+        <item>คำแนะนำสำหรับวันพฤหัส</item>
+        <item>คำแนะนำสำหรับวันศุกร์</item>
+        <item>คำแนะนำสำหรับวันเสาร์</item>
+    </string-array>
+</resources>

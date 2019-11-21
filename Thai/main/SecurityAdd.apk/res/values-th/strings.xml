@@ -18,6 +18,7 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ad_downloading">ดาวน์โหลด…</string>
     <string name="app_name">ปลั๊กอินบริการระบบ</string>
     <string name="app_select_title">เพิ่มแอปที่ใช้บ่อย</string>
@@ -35,6 +36,7 @@
     <string name="dialog_market_score_title_step2">ขอบคุณสำหรับข้อเสนอแนะของคุณ!</string>
     <string name="dual_app_title">แอปโคลน</string>
     <string name="dual_app_words">ทุกบัญชีสมควรมีแอปของมันเอง</string>
+    <string name="empty">" "</string>
     <string name="fastboot_locked_answer_1">Fastboot เป็นวิธีดั้งเดิมในการแฟลชอุปกรณ์ Mi เมื่ออุปกรณ์อยู่ในโหมด Fastboot คุณสามารถเข้าถึงและลบข้อมูลทั้งหมดที่จัดเก็บไว้ในเครื่องได้โดยตรง เราล็อก Fastboot เพื่อให้แน่ใจว่าข้อมูลของคุณจะปลอดภัยในกรณีที่อุปกรณ์ของคุณหายรวมทั้งเพื่อรับประกันความน่าเชื่อถือของคุณลักษณะการค้นหาอุปกรณ์</string>
     <string name="fastboot_locked_answer_2">ในกรณีที่อุปกรณ์ของคุณหาย Fastboot รับประกันความปลอดภัยของสิ่งที่จัดเก็บไว้ในเครื่อง หากคุณปลดล็อก Fastboot คุณจะไม่สามารถล็อกอุปกรณ์จากระยะไกลหรือลบข้อมูลโดยใช้การค้นหาอุปกรณ์ได้อีกต่อไป นั่นเป็นเหตุผลที่เราไม่แนะนำให้คุณปลดล็อก Fastboot ในอุปกรณ์ของคุณ</string>
     <string name="fastboot_locked_answer_3">คุณควรใช้โปรแกรมเครื่องมือปลดล็อกจากเว็บไซต์ MIUI โดยตรง ในการปลดล็อกเครื่องเราต้องการให้แน่ใจว่าเป็นเครื่องของคุณจริง คุณจึงควรลงชื่อเข้าใช้ด้วยบัญชี Mi และเปิดใช้การค้นหาอุปกรณ์ไว้ตลอด</string>
@@ -78,7 +80,7 @@
     <string name="superpower_progress_battery_last">คงเหลือ %s</string>
     <string name="superpower_progress_left_time">%1$dชม. %2$dนาที</string>
     <string name="superpower_search_hint">ค้นหาแอป</string>
-    <string name="superpower_select_app_title">รูปแบบหน้าจอหลัก</string>
+    <string name="superpower_select_app_title">แอปที่ใช้บ่อย</string>
     <string name="superpower_settings">ตัวประหยัดแบตเตอรี่อัลตร้า</string>
     <string name="superpower_system">แนะนำ</string>
     <string name="superpower_third">แอปภายนอก</string>
@@ -87,4 +89,23 @@
     <string name="title_share_link">แชร์ลิงก์ URL</string>
     <string name="usage_sorted_loading_text">รอสักครู่…</string>
     <string name="xunyou_pay_webview">บริการ Xunyou</string>
+    <string name="cancel">ยกเลิก </string>
+    <string name="fingerprint_not_remind">ไม่ต้องถามอีก</string>
+    <string name="free_send_net_booster">เพิ่มความเร็วเครือข่ายฟรี</string>
+    <string name="free_send_net_booster_busniess">รับ Xunlei เพิ่มความเร็วฟรี</string>
+    <string name="free_send_net_booster_busniess_tip">แตะเพื่อรับ</string>
+    <string name="free_send_net_booster_tip">เพลิดเพลินไปกับการเล่นเกมที่รื่นขึ้นพร้อมเพิ่มความเร็วเครือข่ายฟรี</string>
+    <string name="net_booster_expire_notification">เซสชั่นเพิ่มความเร็วของเครือข่ายกำลังจะจบลง</string>
+    <string name="net_booster_overdue_notification">เซสชั่นเพิ่มความเร็วของเครือข่ายกำลังจะจบลง</string>
+    <string name="net_booster_overdue_notification_tip">เซสชั่นเพิ่มความเร็วเครือข่ายจะสิ้นสุดเร็วๆนี้ ต่ออายุเซสชัน?</string>
+    <string name="renew_now">ต่ออายุ</string>
+    <string name="superpower_app_contact">รายชื่อ</string>
+    <string name="superpower_app_delete">ลบ</string>
+    <string name="superpower_app_edit">แก้ไข</string>
+    <string name="superpower_app_exit">ออก</string>
+    <string name="superpower_app_isadded">เพิ่มแล้ว</string>
+    <string name="superpower_app_mms">ข้อความ</string>
+    <string name="superpower_app_phone">โทรศัพท์</string>
+    <string name="superpower_settings_launcher">ตัวประหยัดแบตเตอรี่อัลตร้า</string>
+    <string name="superpower_toast_app_select_full">คุณสามารถเพิ่มได้สูงสุด 6 รายการในแอปที่ใช้บ่อย</string>
 </resources>

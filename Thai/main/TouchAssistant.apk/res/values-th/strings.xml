@@ -18,11 +18,9 @@
     <string name="motion_behavior">โหมดการควบคุม</string>
     <string name="name_alipay_payment_code">การชำระเงิน Alipay</string>
     <string name="name_alipay_scan">ตัวสแกน Alipay</string>
-    <string name="name_all_mipay_cards">Mi Pay</string>
     <string name="name_handy_mode">โหมดถนัดมือ</string>
     <string name="name_long_press_power_key">กดปุ่มเปิด/ปิดค้างไว้</string>
     <string name="name_memory_clean">ล้างแคช</string>
-    <string name="name_mi_wallet">Mi Wallet</string>
     <string name="name_music_next_song">เพลงถัดไป</string>
     <string name="name_music_prev_song">เพลงก่อนหน้า</string>
     <string name="name_music_toggle">เล่น/หยุดเพลง</string>

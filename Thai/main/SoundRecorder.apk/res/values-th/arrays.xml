@@ -16,11 +16,6 @@
         <item>MP3</item>
         <item>WAV</item>
     </string-array>
-    <string-array name="record_format_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="record_locale_language">
         <item>fa</item>
         <item>ar</item>
@@ -35,11 +30,6 @@
         <item>MP3 ~192Kb/วิ ~90MB/ชม.</item>
         <item>MP3 ~100Kb/วิ ~90MB/ชม.</item>
         <item>MP3 ~75Kb/วิ ~90MB/ชม.</item>
-    </string-array>
-    <string-array name="record_quality_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="record_scenes_entries">
         <item>เพลง</item>
@@ -56,12 +46,6 @@
         <item>วางไมค์ให้ใกล้กับแหล่งที่มาของเสียงเพื่อให้ได้เสียงที่มีคุณภาพสูง</item>
         <item>วางโทรศัพท์ไว้ระหว่างผู้อัดทั้งสองเพื่อให้บันทึกเสียงการสนทนาได้อย่างชัดเจนยิ่งขึ้น</item>
         <item>เทคโนโลยีช่วงไดนามิกสูงจะช่วยให้รายละเอียดเสียงจับไมโครโฟนมากขึ้น</item>
-    </string-array>
-    <string-array name="record_scenes_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
     </string-array>
     <string-array name="record_type_entries">
         <item>MP3</item>

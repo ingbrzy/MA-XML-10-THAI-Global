@@ -8,15 +8,9 @@
     <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
     <string name="abc_capital_off">ปิด</string>
     <string name="abc_capital_on">เปิด</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Space</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">เมนู+</string>
     <string name="abc_search_hint">ค้นหา…</string>
     <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
@@ -56,7 +50,6 @@
     <string name="app_label">นาฬิกา</string>
     <string name="auto_silence_never">ไม่ต้อง</string>
     <string name="auto_silence_title">ปิดเสียงอัตโนมัติ</string>
-    <string name="battery_charging_level">%d%%</string>
     <string name="birthday_alarm">แจ้งเตือนวันเกิด</string>
     <string name="birthday_alarm_summary">ใช้เพลงวันเกิดแทนเสียงการแจ้งเตือนปกติในวันคล้ายวันเกิดของคุณ</string>
     <string name="cancel">ยกเลิก</string>
@@ -74,7 +67,6 @@
     <string name="content_desc_keep_screen">ปุ่ม \"เปิดหน้าจอไว้\"</string>
     <string name="control_set_alarm">ตั้งการปลุก</string>
     <string name="control_set_alarm_with_existing">ตั้งการปลุก: %s</string>
-    <string name="day_concat">", "</string>
     <string name="default_alarm_alert">ค่าเริ่มต้นเสียงการปลุก</string>
     <string name="default_alarm_title">เสียงเริ่มต้น</string>
     <string name="default_label">การปลุก</string>
@@ -151,13 +143,11 @@
     <string name="life_post_wake_up_item_acumu_day_title">นับวัน</string>
     <string name="life_post_wake_up_item_percentage_title">แฟน Mi อยู่ข้างหลังคุณ</string>
     <string name="life_post_wake_up_item_time_title">เวลาตื่นนอน</string>
-    <string name="life_post_wake_up_percentage_sign">%</string>
     <string name="life_post_wake_up_percentage_title">แฟน Mi อยู่ข้างหลังคุณ</string>
     <string name="life_post_wake_up_time_title">เวลาตื่นนอน</string>
     <string name="life_post_weather_invalid">แตะเพื่อดูข้อมูลสภาพอากาศ</string>
     <string name="life_post_weather_no_network">เชื่อมต่อกับเครือข่ายเพื่ออัปเดตข้อมูลสภาพอากาศ</string>
-    <string name="life_post_weather_temperature_centigrade">°</string>
-    <string name="listen_news_privacy">&lt;Data>เพื่อที่จะให้บริการที่เป็นส่วนตัวและเพิ่มข่าวเช้าไปในการแจ้งเตือนของคุณ นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href= %1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
+    <string name="listen_news_privacy">&lt;Data>เพื่อที่จะให้บริการที่เป็นส่วนตัวและเพิ่มข่าวเช้าไปในการแจ้งเตือนของคุณ นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
     <string name="loading_ringtone">กำลังโหลดเสียงเรียกเข้า…</string>
     <string name="menu_add_worldclock">เพิ่มนาฬิกา</string>
     <string name="menu_desk_clock">นาฬิกา</string>
@@ -184,32 +174,33 @@
     <string name="module_download_success">ดาวน์โหลดไฟล์เสียงเรียบร้อยแล้ว</string>
     <string name="module_download_title">ต้องการเสียงเพิ่มเติม</string>
     <string name="module_downloading">กำลังดาวน์โหลดไฟล์เสียง…</string>
+    <string name="module_unzipping">กำลังแตกไฟล์เสียง…</string>
     <string name="module_update_success">อัปเดตเสียงสำหรับการปลุกอัจฉริยะของ MIUI ถูกดาวน์โหลดแล้ว คุณสามารถตั้งค่านาฬิกาปลุกอัจฉริยะของ MIUI ได้ในการตั้งค่านาฬิกา</string>
     <string name="module_update_success_control">รับทราบ</string>
     <string name="module_weather_ringtone_download_data">สัญญาณเตือนสภาพอากาศจะเลือกเสียงเรียกเข้าที่แตกต่างกันไปตามสภาพอากาศปัจจุบัน นาฬิกาต้องดาวน์โหลดไฟล์เสียงประมาน ≈30MB เพื่อให้ใช้งานได้ ดาวน์โหลดเดี๋ยวนี้?</string>
-    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>สัญญาณเตือนสภาพอากาศจะเลือกเสียงเรียกเข้าที่แตกต่างกันไปตามสภาพอากาศปัจจุบัน นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียงประมาน ≈30MB ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href= %1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>สัญญาณเตือนสภาพอากาศจะเลือกเสียงเรียกเข้าที่แตกต่างกันไปตามสภาพอากาศปัจจุบัน นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียงประมาน ≈30MB ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
     <string name="module_weather_ringtone_download_wifi">สัญญาณเตือนสภาพอากาศจะเลือกเสียงเรียกเข้าที่แตกต่างกันไปตามสภาพอากาศปัจจุบัน นาฬิกาต้องดาวน์โหลดไฟล์เสียงเพื่อให้ใช้งานได้ ดาวน์โหลดเดี๋ยวนี้?</string>
-    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>สัญญาณเตือนสภาพอากาศจะเลือกเสียงเรียกเข้าที่แตกต่างกันไปตามสภาพอากาศปัจจุบัน นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียง ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href= %1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>สัญญาณเตือนสภาพอากาศจะเลือกเสียงเรียกเข้าที่แตกต่างกันไปตามสภาพอากาศปัจจุบัน นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียง ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
     <string name="module_weather_ringtone_introduce">สัญญาณเตือนสภาพอากาศจะเลือกเสียงเรียกเข้าที่แตกต่างกันไปตามสภาพอากาศปัจจุบัน นอกจากนี้ยังช่วยให้คุณฟังข้อมูลสภาพอากาศปัจจุบันในตอนเช้า</string>
     <string name="module_weather_ringtone_introduce_global">สัญญาณเตือนสภาพอากาศจะเลือกเสียงเรียกเข้าที่แตกต่างกันไปตามสภาพอากาศปัจจุบัน</string>
     <string name="module_weather_ringtone_update_data">การเตือนสภาพอากาศตอนนี้มาพร้อมกับเพลงประกอบและการประกาศด้วยเสียงที่ดีกว่า นาฬิกาต้องดาวน์โหลดไฟล์เสียงประมาน ≈30MB เพื่อให้ใช้งานได้ ดาวน์โหลดเดี๋ยวนี้?</string>
     <string name="module_weather_ringtone_update_success">การเตือนสภาพอากาศตอนนี้มาพร้อมกับเพลงประกอบและการประกาศด้วยเสียงที่ดีกว่า คุณสามารถสร้างการเตือนใหม่เพื่อลองใช้คุณสมบัตินี้</string>
-    <string name="module_week_ringtone_download_data">สัญญาณเตือนรายสัปดาห์จะเล่นเสียงที่แตกต่างของธรรมชาติทุกวันตลอดสัปดาห์ นาฬิกาต้องดาวน์โหลดไฟล์เสียงประมาน ≈30MB เพื่อให้ใช้งานได้ ดาวน์โหลดเดี๋ยวนี้?</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data>สัญญาณเตือนรายสัปดาห์จะเล่นเสียงที่แตกต่างของธรรมชาติทุกวันตลอดสัปดาห์ นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียงประมาน ≈30MB ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href= %1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
-    <string name="module_week_ringtone_download_wifi">สัญญาณเตือนรายสัปดาห์จะเล่นเสียงที่แตกต่างของธรรมชาติทุกวันตลอดสัปดาห์ นาฬิกาต้องดาวน์โหลดไฟล์เสียงเพื่อให้ใช้งานได้ ดาวน์โหลดเดี๋ยวนี้?</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>สัญญาณเตือนรายสัปดาห์จะเล่นเสียงที่แตกต่างของธรรมชาติทุกวันตลอดสัปดาห์ นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียง ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href= %1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
-    <string name="module_week_ringtone_introduce">สัญญาณเตือนรายสัปดาห์จะเล่นเสียงที่แตกต่างของธรรมชาติทุกวันตลอด</string>
-    <string name="module_week_ringtone_update_data">สัญญาณเตือนรายสัปดาห์จะเล่นเสียงที่แตกต่างของธรรมชาติทุกวันตลอดสัปดาห์ นาฬิกาต้องดาวน์โหลดไฟล์เสียงประมาน ≈30MB เพื่อให้ใช้งานได้ ดาวน์โหลดเดี๋ยวนี้?</string>
-    <string name="module_week_ringtone_update_success">สัญญาณเตือนรายสัปดาห์มาพร้อมกับเพลงพื้นหลังในแต่ละวันของสัปดาห์ คุณสามารถสร้างการเตือนใหม่เพื่อลองใช้คุณสมบัตินี้</string>
+    <string name="module_week_ringtone_download_data">เสียงปลุกธรรมชาติจะเล่นเสียงที่แตกต่างกันไปตามวัน นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียงประมาน ≈30MB ดาวน์โหลดตอนนี้?</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data>เสียงปลุกธรรมชาติจะเล่นเสียงที่แตกต่างกันไปตามวัน นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียงประมาน ≈30MB ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
+    <string name="module_week_ringtone_download_wifi">เสียงปลุกธรรมชาติจะเล่นเสียงที่แตกต่างกันไปตามวัน นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียง ดาวน์โหลดตอนนี้?</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>เสียงปลุกธรรมชาติจะเล่นเสียงที่แตกต่างกันไปตามวัน นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียง ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
+    <string name="module_week_ringtone_introduce">เสียงปลุกธรรมชาติจะเล่นเสียงที่แตกต่างกันไปตามวัน</string>
+    <string name="module_week_ringtone_update_data">เสียงปลุกธรรมชาติจะเล่นเสียงที่แตกต่างกันไปตามวัน นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดไฟล์เสียงประมาน ≈30MB ดาวน์โหลดตอนนี้?</string>
+    <string name="module_week_ringtone_update_success">เสียงปลุกธรรมชาติจะเล่นเสียงที่แตกต่างกันไปตามวัน คุณสามารถสร้างการเตือนใหม่เพื่อลองใช้คุณสมบัตินี้</string>
     <string name="module_white_noise_download_data">นาฬิกาจำเป็นต้องดาวน์โหลดไฟล์เสียงสำหรับตัวจับเวลาเสียงรอบข้าง จะต้องใช้ข้อมูลมือถือของคุณขนาด 30MB สำหรับการดาวน์โหลดนี้ ดาวน์โหลดเดี๋ยวนี้?</string>
-    <string name="module_white_noise_download_data_privacy">&lt;Data>เพื่อดาวน์โหลดไฟล์เสียงสำหรับตัวจับเวลาเสียงรอบข้าง (≈30MB) และให้บริการส่วนบุคคล นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href= %1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา คุณกำลังใช้ข้อมูลมือถืออยู่ตอนนี้ ยอมรับไหม?&lt;/Data></string>
+    <string name="module_white_noise_download_data_privacy">&lt;Data>เพื่อดาวน์โหลดไฟล์เสียงสำหรับตัวจับเวลาเสียงรอบข้าง (≈30MB) และให้บริการส่วนบุคคล นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา คุณกำลังใช้ข้อมูลมือถืออยู่ตอนนี้ ยอมรับไหม?&lt;/Data></string>
     <string name="module_white_noise_download_wifi">นาฬิกาจำเป็นต้องดาวน์โหลดไฟล์เสียงสำหรับตัวจับเวลาเสียงรอบข้าง ดาวน์โหลดเดี๋ยวนี้?</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data>เพื่อดาวน์โหลดไฟล์เสียงสำหรับตัวจับเวลาเสียงรอบข้างและให้บริการที่เป็นส่วนตัว นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href= %1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data>เพื่อดาวน์โหลดไฟล์เสียงสำหรับตัวจับเวลาเสียงรอบข้างและให้บริการที่เป็นส่วนตัว นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
     <string name="monday_to_friday">จันทร์ - ศุกร์</string>
     <string name="more_setting">การตั้งค่าเพิ่มเติม</string>
     <string name="more_settings">การตั้งค่า</string>
-    <string name="network_privacy">&lt;Data>เพื่อรับข้อมูลที่เกี่ยวข้องเกี่ยวกับวันหยุดนักขัตฤกษ์ในท้องถิ่น การปรับเวลา และให้บริการส่วนบุคคล นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href= %1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
-    <string name="network_privacy_global">&lt;Data>เพื่อที่จะให้บริการที่เป็นส่วนตัว นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href= %1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
+    <string name="network_privacy">&lt;Data>เพื่อรับข้อมูลที่เกี่ยวข้องเกี่ยวกับวันหยุดนักขัตฤกษ์ในท้องถิ่น การปรับเวลา และให้บริการส่วนบุคคล นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
+    <string name="network_privacy_global">&lt;Data>เพื่อที่จะให้บริการที่เป็นส่วนตัว นาฬิกาจำเป็นต้องเชื่อมต่ออินเทอร์เน็ต ก่อนใช้งานนาฬิกาคุณต้องอ่านและยอมรับใน &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
     <string name="never">ครั้งเดียว</string>
     <string name="no_alarm_setting">ไม่มีนาฬิกาปลุกในนี้</string>
     <string name="no_worldclock">ไม่มีนาฬิกาในนี้</string>
@@ -217,17 +208,11 @@
     <string name="open_keep_screen">หน้าจอจะถูกเปิดไว้</string>
     <string name="other_category_title">อื่นๆ</string>
     <string name="pause">หยุดพัก</string>
-    <string name="percentage_sign">%</string>
     <string name="personal_recommend">คำแนะนำเนื้อหาส่วนบุคคล</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="privacy_policy_title">นโยบายความเป็นส่วนตัว</string>
     <string name="remind_ringtone">เสียงเตือน</string>
     <string name="repeat_count">จำนวนครั้ง</string>
-    <string name="repeat_count_value_five">5</string>
-    <string name="repeat_count_value_one">1</string>
-    <string name="repeat_count_value_ten">10</string>
-    <string name="repeat_count_value_three">3</string>
-    <string name="repeat_count_value_two">2</string>
     <string name="reset">เริ่มใหม่</string>
     <string name="revert">เรียกคืน</string>
     <string name="ringtone_all">เสียงเรียกเข้าทั้งหมด</string>
@@ -236,7 +221,7 @@
     <string name="ringtone_firefly">หิ่งห้อย</string>
     <string name="ringtone_other">เสียงเรียกเข้าเพิ่มเติม</string>
     <string name="ringtone_weather">เตือนสภาพอากาศ</string>
-    <string name="ringtone_week">เตือนประจำสัปดาห์</string>
+    <string name="ringtone_week">เสียงปลุกธรรมชาติ</string>
     <string name="search_alarm_clock_keywords">การปลุก;นาฬิกาปลุก;</string>
     <string name="search_stopwatch_keywords">นาฬิกาจับเวลา</string>
     <string name="search_timer_keywords">ตัวจับเวลา</string>
@@ -263,34 +248,20 @@
     <string name="slider_text">เลื่อนขึ้นเพื่อปิดใช้งาน</string>
     <string name="snooze_confirm_cancel">เลิกทำการปลุก</string>
     <string name="snooze_duration">เลื่อนปลุก</string>
-    <string name="snooze_duration_text">%1$s | %2$s</string>
     <string name="snooze_duration_title">เลื่อนปลุก</string>
     <string name="snooze_duration_value">ช่วงเวลา (นาที)</string>
-    <string name="snooze_duration_value_fifteen">15</string>
-    <string name="snooze_duration_value_five">5</string>
-    <string name="snooze_duration_value_one">1</string>
-    <string name="snooze_duration_value_ten">10</string>
-    <string name="snooze_duration_value_thirty">30</string>
-    <string name="snooze_duration_value_twenty">20</string>
-    <string name="snooze_duration_value_twenty_five">25</string>
     <string name="star_wy_alarm_speech">พบกับ Roy Wang</string>
     <string name="start">เริ่ม</string>
     <string name="start_up">เริ่ม</string>
-    <string name="status_bar_clock_date_time_format">H:mm:ss</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
-    <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_title">จับเวลา</string>
     <string name="system_permission_purpose">การสร้างการเตือนวันทำงานและการตั้งค่าเสียงเรียกเข้าที่กำหนดเอง</string>
     <string name="system_time_setting">การตั้งค่า</string>
     <string name="system_time_settings_category_title">การตั้งค่าเวลา</string>
-    <string name="temperature_unit">℃</string>
     <string name="time">เวลา</string>
-    <string name="time_picker_colon">:</string>
     <string name="time_picker_label_hour">ชม.</string>
     <string name="time_picker_label_minute">น.</string>
     <string name="time_picker_label_second">วิ</string>
-    <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">แตะที่หน้าจอเพื่อปิดเสียง</string>
     <string name="timer_alarm_dot_matrix_label">ถึงเวลา</string>
     <string name="timer_alert_alert_silenced">ตัวจับเวลาจะเงียบภายใน %1$s นาที</string>
@@ -314,7 +285,6 @@
     <string name="timer_created">เพิ่มตัวจับเวลาเรียบร้อย</string>
     <string name="timer_end_time">จับเวลาจะหยุดที่ %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
-    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">ตกลง</string>
     <string name="timer_is_paused">ตัวจับเวลาถูกหยุดชั่วคราว</string>
     <string name="timer_item_duration_display">%1$d นาที %2$d วินาที</string>

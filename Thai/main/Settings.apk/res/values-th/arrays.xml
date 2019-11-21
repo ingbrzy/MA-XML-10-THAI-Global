@@ -42,19 +42,19 @@
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>ทุกวัน</item>
-        <item>คืนในสัปดาห์</item>
+        <item>คืนวันธรรมดา</item>
         <item>วันหยุดสุดสัปดาห์</item>
         <item>กำหนดเอง</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>ทุกวัน</item>
-        <item>คืนในสัปดาห์</item>
+        <item>คืนวันธรรมดา</item>
         <item>วันหยุดสุดสัปดาห์</item>
         <item>กำหนดเอง</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>ปิดภาพเคลื่อนไหว</item>
-        <item>ภาพเคลื่อนไหวซูม .5x</item>
+        <item>ภาพเคลื่อนไหวซูม 0.5x</item>
         <item>ภาพเคลื่อนไหวซูม 1x</item>
         <item>ภาพเคลื่อนไหวซูม 1.5x</item>
         <item>ภาพเคลื่อนไหวซูม 2x</item>
@@ -230,6 +230,11 @@
         <item>ไม่เกิน 3 การดำเนินการ</item>
         <item>ไม่เกิน 4 การดำเนินการ</item>
     </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>ปิด</item>
+        <item>แก้ไขข้อบกพร่อง</item>
+        <item>รายละเอียด</item>
+    </string-array>
     <string-array name="automatic_storage_management_days">
         <item>เกิน 30 วัน</item>
         <item>เกิน 60 วัน</item>
@@ -306,28 +311,6 @@
         <item>เพิ่มประสิทธิภาพคุณภาพการเชื่อมต่อ (330kbps/303kbps)</item>
         <item>ความพยายามที่ดีที่สุด (ปรับเปลี่ยนอัตราบิต)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
-        <item>Short latency</item>
-        <item>Middle latency</item>
-        <item>Long latency</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
-        <item>Short latency (50~100ms)</item>
-        <item>Middle latency (150~200ms)</item>
-        <item>Long latency (300~500ms)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-        <item>Optimized for connection quality</item>
-        <item>Balanced audio and connection quality</item>
-        <item>Optimized for audio quality</item>
-        <item>Best effort (Auto bit rate)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Optimized for connection quality (400kbps)</item>
-        <item>Balanced audio and connection quality (500/560kbps)</item>
-        <item>Optimized for audio quality (900kbps)</item>
-        <item>Best effort (Auto bit rate)</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
         <item>44.1 kHz</item>
@@ -350,20 +333,18 @@
         <item>เสียงQualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>เสียง Qualcomm® aptX™ Adaptive</item>
-        <item>LHDC</item>
         <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>ใช้ค่ากำหนดของระบบ (ค่าเริ่มต้น)</item>
+        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>เสียง Qualcomm® aptX™</item>
-        <item>เสียงQualcomm® aptX™ HD</item>
+        <item>เสียง Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>เสียง Qualcomm® aptX™ Adaptive</item>
-        <item>LHDC</item>
-        <item>ใช้งานตัวแปลงสัญญาณตัวเลือก</item>
+        <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
@@ -397,6 +378,13 @@
         <item>5 นาที</item>
         <item>1 ชั่วโมง</item>
         <item>ไม่มีระยะหมดเวลา</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>ปิดใช้งาน</item>
+        <item>เปิดใช้งานตัวกรอง</item>
+        <item>เปิดใช้งานตัวกรองส่วนหัว</item>
+        <item>เปิดใช้งานตัวกรองแพ็คเก็ตสื่อ</item>
+        <item>เปิดใช้งาน</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 วินาที</item>
@@ -445,6 +433,14 @@
         <item>แบบไม่เป็นทางการ</item>
         <item>คัดลายมือ</item>
         <item>อักษรตัวพิมพ์ใหญ่ขนาดเล็ก</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>เครือข่ายบ้านเท่านั้น</item>
+        <item>อัตโนมัติ</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>ปลดล็อกด้วยใบหน้า</item>
@@ -531,7 +527,7 @@
         <item>นิวยอร์ก</item>
         <item>บิวลาห์</item>
         <item>ซาเลม</item>
-        <item>ปานามาซิตี้</item>
+        <item>ปานามา</item>
         <item>ฟีนิกซ์</item>
         <item>พอร์ต-ออฟ-สเปน</item>
         <item>ปอร์โตแปรงซ์</item>
@@ -743,6 +739,31 @@
         <item>ปารามาริโบ</item>
         <item>กีโต</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>เพิ่มสีสัน</item>
         <item>สีธรรมชาติเหมือนที่ตาเห็น</item>
@@ -778,9 +799,8 @@
         <item>1</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>อัตโนมัติ (อิงตามเวลาของวัน)</item>
-        <item>เปิดอยู่เสมอ</item>
-        <item>ปิดอยู่เสมอ</item>
+        <item>สีเข้ม</item>
+        <item>สีอ่อน</item>
     </string-array>
     <string-array name="data_usage_data_range">
         <item>30 วันที่ผ่านมา</item>
@@ -818,12 +838,6 @@
         <item>5 นาที</item>
         <item>10 นาที</item>
         <item>30 นาที</item>
-    </string-array>
-    <string-array name="eap_method_without_sim_auth">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>ไม่มี</item>
@@ -889,6 +903,15 @@
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
     </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>ไม่ต้องปลุกหน้าจอ</item>
         <item>ปลุกหน้าจอ</item>
@@ -932,6 +955,43 @@
         <item>หลังจาก 5 นาที</item>
         <item>ไม่เคย</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="long_press_timeout_selector_titles">
         <item>สั้น</item>
         <item>ปานกลาง</item>
@@ -999,6 +1059,14 @@
         <item>เข้าถึงอุปกรณ์ที่เชื่อมต่อ: mtpfs /media/mtp ผ่านตัวจัดการไฟล์; เช่นเดียวกับโฟลเดอร์ในเครื่อง</item>
         <item>"ถอนการติดตั้งอุปกรณ์: fusermount -u /media/mtp
 หมายเหตุ: ใช้สำหรับ Ubuntu 8.04 เท่านั้น!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -1100,6 +1168,97 @@
         <item>ตัดเสียงรบกวนโดยใช้ไมโครโฟนเดี่ยว</item>
         <item>ตัดเสียงรบกวนโดยใช้ไมโครโฟนคู่</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>ประสิทธิภาพการทำงาน</item>
         <item>สมดุล</item>
@@ -1114,6 +1273,36 @@
         <item>เพลง</item>
         <item>อีเมล</item>
         <item>เล่นวิดีโอ</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>ต้องการ GSM/WCDMA</item>
+        <item>GSM เท่านั้น</item>
+        <item>WCDMA เท่านั้น</item>
+        <item>GSM/WCDMA อัตโนมัติ</item>
+        <item>CDMA/EvDo อัตโนมัติ</item>
+        <item>CDMA ที่ไม่มี EvDo</item>
+        <item>EvDo เท่านั้น</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>ทั่วโลก</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>TDSCDMA เท่านั้น</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>ทั่วโลก</item>
+        <item>LTE/CDMA</item>
+        <item>LTE/GSM/UMTS</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>พื้นที่จัดเก็บข้อมูลในเครื่อง</item>
@@ -1180,12 +1369,17 @@
     <string-array name="screen_optimize_summary">
         <item>ปรับสีตามแสงปัจจุบัน</item>
         <item>เพิ่มสีสันเสมอ</item>
-        <item>ความเปรียบต่างตั้งไว้คงที่</item>
+        <item>คืนค่าสีมาตรฐานของเนื้อหาบนหน้าจอด้วยการปรับเทียบสี</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>อัตโนมัติ (แนะนำ)</item>
         <item>อิ่มสี</item>
-        <item>มาตรฐาน</item>
+        <item>สีดั้งเดิม</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
@@ -1254,6 +1448,10 @@
         <item>ใช้สีน้ำเงินวาดบริเวณที่ไม่ใช่เหลี่ยม</item>
         <item>ใช้สีเขียววาดทำให้คำสั่งเด่น</item>
     </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>เสมอ</item>
         <item>30 นาที</item>
@@ -1276,9 +1474,38 @@
         <item>อนุญาต</item>
         <item>ปฏิเสธ</item>
     </string-array>
+    <string-array name="swipe_direction_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
-        <item>12ชั่วโมง 1:00 PM</item>
-        <item>24ชั่วโมง 13:00</item>
+        <item>12 ชั่วโมง 1:00 PM</item>
+        <item>24 ชั่วโมง 13:00</item>
         <item>อัตโนมัติ (ตามภาษาระบบ)</item>
     </string-array>
     <string-array name="timezone_filters">
@@ -1311,7 +1538,7 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>ปิดภาพเคลื่อนไหว</item>
-        <item>ภาพเคลื่อนไหวซูม 5x</item>
+        <item>ภาพเคลื่อนไหวซูม 0.5x</item>
         <item>ภาพเคลื่อนไหวซูม 1x</item>
         <item>ภาพเคลื่อนไหวซูม 1.5x</item>
         <item>ภาพเคลื่อนไหวซูม 2x</item>
@@ -1354,8 +1581,8 @@
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>กำลังชาร์จ</item>
-        <item>MTP (โอนไฟล์)</item>
-        <item>PTP (โอนรูปภาพโปรโตคอล)</item>
+        <item>MTP (โปรโตคอลถ่ายโอนสื่อ)</item>
+        <item>PTP (โปรโตคอลถ่ายโอนรูปภาพ)</item>
         <item>RNDIS (ต่อ USB)</item>
         <item>แหล่งที่มาของเสียง</item>
         <item>MIDI</item>
@@ -1369,13 +1596,17 @@
         <item>จากทุกคน</item>
         <item>จากผู้ติดต่อเท่านั้น</item>
         <item>จากผู้ติดต่อที่ติดดาวเท่านั้น</item>
-        <item>ไม่</item>
+        <item>ไม่มี</item>
     </string-array>
     <string-array name="vip_mode_value">
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
+    </string-array>
+    <string-array name="vpn_proxy_settings">
+        <item>ไม่มี</item>
+        <item>กำหนดเอง</item>
     </string-array>
     <string-array name="vpn_states">
         <item>ไม่ได้เชื่อมต่อ</item>
@@ -1394,10 +1625,10 @@
         <item>IPSec VPN พร้อมด้วยใบรับรองและการตรวจสอบสิทธิ์แบบผสม</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>กำลังเชื่อมต่อ…</item>
-        <item>เชื่อมต่อแล้ว</item>
+        <item>กำลังเริ่มเซสชัน…</item>
+        <item>เริ่มเซสชันแล้ว</item>
         <item>กำลังปิดใช้บริการ…</item>
-        <item>เชื่อมต่อไม่ได้</item>
+        <item>เริ่มเซสชันไม่ได้</item>
         <item>ไม่มีการตอบสนองภายในเวลาที่ระบบกำหนด กำลังลองใหม่…</item>
         <item>เชื่อมต่ออุปกรณ์แล้ว</item>
     </string-array>
@@ -1418,14 +1649,13 @@
         <item>เปอร์เซ็นต์ (ในไอคอน)</item>
         <item>เปอร์เซ็นต์ (ถัดจากไอคอนในแถบแจ้งเตือน)</item>
     </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa2</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices">
-        <item>ต้องการใช้ Wi-Fi</item>
-        <item>ต้องการใช้อินเทอร์เน็ตมือถือ</item>
-        <item>Wi-Fi เท่านั้น</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
@@ -1435,19 +1665,6 @@
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
         <item>อินเทอร์เน็ตมือถือ</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>ต้องการใช้ Wi-Fi</item>
-        <item>ต้องการใช้อินเทอร์เน็ตมือถือ</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values_without_wifi_only">
-        <item>2</item>
-        <item>1</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>เชื่อมต่อโดยอัตโนมัติ</item>
@@ -1459,15 +1676,6 @@
         <item>TLS</item>
         <item>TTLS</item>
         <item>PWD</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>ไม่</item>
@@ -1514,6 +1722,10 @@
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>ใช้ที่อยู่ MAC แบบสุ่ม (ค่าเริ่มต้น)</item>
+        <item>ใช้ที่อยู่ MAC ของอุปกรณ์</item>
+    </string-array>
     <string-array name="wifi_proxy_settings">
         <item>ไม่มี</item>
         <item>ด้วยตนเอง</item>
@@ -1539,7 +1751,7 @@
         <item>เชื่อมต่อแล้ว</item>
         <item>ระงับแล้ว</item>
         <item>กำลังตัดการเชื่อมต่อ…</item>
-        <item>ตัดการเชื่อมต่อ</item>
+        <item>ตัดการเชื่อมต่อแล้ว</item>
         <item>ไม่สำเร็จ</item>
         <item>บล็อกแล้ว</item>
         <item>หลีกเลี่ยงการเชื่อมต่อที่ไม่ดี</item>
@@ -1558,13 +1770,9 @@
         <item>บล็อกแล้ว</item>
         <item>หลีกเลี่ยงการเชื่อมต่อที่ไม่ดี</item>
     </string-array>
-    <string-array name="wifi_tether_security_values">
-        <item>4</item>
-        <item>0</item>
-    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>ปิดภาพเคลื่อนไหว</item>
-        <item>ภาพเคลื่อนไหวซูม 5x</item>
+        <item>ภาพเคลื่อนไหวซูม 0.5x</item>
         <item>ภาพเคลื่อนไหวซูม 1x</item>
         <item>ภาพเคลื่อนไหวซูม 1.5x</item>
         <item>ภาพเคลื่อนไหวซูม 2x</item>

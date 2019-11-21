@@ -73,6 +73,7 @@
     <string name="bt_path_not_exit">ไม่พบที่จัดเก็บดังกล่าว</string>
     <string name="bt_restart_dialog_message">เริ่มการดาวน์โหลดในโฟลเดอร์ BT ใหม่ทั้งหมด?</string>
     <string name="bt_restart_dialog_title">เริ่มการดาวน์โหลดใหม่ทั้งหมด</string>
+    <string name="byteShort_per_seconds">B/วิ</string>
     <string name="cancel">ยกเลิก </string>
     <string name="check_new_downloaded_action">เรียกดู</string>
     <string name="check_new_downloaded_file">พบไฟล์ใหม่</string>
@@ -113,9 +114,10 @@
     <string name="download_pending">กำลังรอการดาวน์โหลด</string>
     <string name="download_remain_time">เหลืออีก:</string>
     <string name="download_speed">ความเร็วดาวน์โหลด:</string>
+    <string name="download_speed_suffix">%1$s %2$s</string>
     <string name="download_spend_time">เวลา</string>
     <string name="download_status_continue">ทำต่อ</string>
-    <string name="download_status_fail">ลองใหม่</string>
+    <string name="download_status_fail">ลองอีกครั้ง</string>
     <string name="download_status_paused">หยุดพัก</string>
     <string name="download_title">ดาวน์โหลด</string>
     <string name="download_wait_connect">กำลังรอการเชื่อมต่อ</string>
@@ -140,7 +142,8 @@
     <string name="extend">เพิ่มเติม</string>
     <string name="file_exist_hint">มีไฟล์นี้ในเครื่องอยู่แล้ว</string>
     <string name="file_size">ขนาด:</string>
-    <string name="get_data_failed">ไม่สามารถรับข้อมูลได้ รอประมาณ 1-2 นาทีแล้วลองใหม่อีกครั้ง.</string>
+    <string name="get_data_failed">ไม่สามารถรับข้อมูลได้ รอประมาณ 1-2 นาทีแล้วลองอีกครั้ง</string>
+    <string name="gigabyteShort_per_seconds">GB/วิ</string>
     <string name="guess_like">คุณอาจจะชอบ</string>
     <string name="hint">คำเตือน</string>
     <string name="info_download_details">รายละเอียด</string>
@@ -151,9 +154,12 @@
     <string name="install">ติดตั้ง</string>
     <string name="installing">กำลังติดตั้ง…</string>
     <string name="insufficient_space">พื้นที่จัดเก็บไม่เพียงพอ</string>
+    <string name="kilobyteShort_per_seconds">kB/วิ</string>
     <string name="korean_all_choose_item_title">ฉันยอมรับข้อกำหนดและเงื่อนไขทั้งหมดด้านล่าง</string>
     <string name="korean_permission_group_phone_describe">เข้าถึงอุปกรณ์ IMEI และสถานะครือข่าย รวบรวมข้อมูลเกี่ยวกับการดาวน์โหลดที่ล้มเหลวเพื่อปรับปรุงบริการ</string>
     <string name="korean_permission_group_phone_title">โทรศัพท์</string>
+    <string name="korean_permission_group_storage_describe">เข้าถึงที่เก็บข้อมูลของอุปกรณ์เพื่อจัดการการดาวน์โหลด</string>
+    <string name="korean_permission_group_storage_title">พื้นที่จัดเก็บข้อมูล</string>
     <string name="korean_privacy_btn_accept">ยอมรับ</string>
     <string name="korean_privacy_btn_exit">ออก</string>
     <string name="korean_privacy_item_title">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
@@ -162,6 +168,7 @@
     <string name="load_finish_hint">นั่นคือทั้งหมดตอนนี้</string>
     <string name="loading">รอสักครู่…</string>
     <string name="media_filter">สื่อมีเดีย</string>
+    <string name="megabyteShort_per_seconds">MB/วิ</string>
     <string name="menu_all_task_pause">พักชั่วคราวทั้งหมด</string>
     <string name="menu_all_task_start">เริ่มทั้งหมด</string>
     <string name="menu_enter_edit_mode">ตัวแก้ไข</string>
@@ -169,7 +176,7 @@
     <string name="menu_title_pause_all">พักชั่วคราวทั้งหมด</string>
     <string name="menu_title_resume_all">เริ่มทั้งหมด</string>
     <string name="menu_title_settings">การตั้งค่า</string>
-    <string name="net_error">เชื่อมต่อกับอินเตอร์เน็ตก่อนแล้วลองใหม่อีกครั้ง</string>
+    <string name="net_error">เชื่อมต่อกับอินเตอร์เน็ตก่อนแล้วลองอีกครั้ง</string>
     <string name="new_file_notification_title_image">รูปภาพ</string>
     <string name="no_file_hint">มีการดาวน์โหลดไฟล์นี้ดำเนินอยู่ก่อนแล้ว</string>
     <string name="no_result_for_keyword">ไม่พบการค้นหา \"%1$s\"</string>
@@ -194,6 +201,7 @@
     <string name="paused_unknown">พักชั่วคราวแล้ว</string>
     <string name="paused_waiting_for_network">กำลังรอการเชื่อมต่อเครือข่าย</string>
     <string name="paused_waiting_to_retry">กำลังรอเพื่อลองใหม่</string>
+    <string name="petabyteShort_per_seconds">PB/วิ</string>
     <string name="pref_download_settings_title">จำกัดขนาดการดาวน์โหลด</string>
     <string name="pref_summary_any_bytes_popup">รอดาวน์โหลดไฟล์ผ่าน Wi-Fi เท่านั้น</string>
     <string name="pref_summary_enable_max_bytes_popup">แสดงหน้าต่างแจ้งเตือนหากใช้การดาวน์โหลดผ่านเครือข่ายข้อมูลมือถือ</string>
@@ -237,6 +245,7 @@
     <string name="task_detail">งาน</string>
     <string name="task_detail_notfound_confirm">ตกลง</string>
     <string name="task_fail">ล้มเหลว</string>
+    <string name="terabyteShort_per_seconds">TB/วิ</string>
     <string name="toast_only_wifi_download">เชื่อมต่อกับ Wi-Fi เพื่อดาวน์โหลดรายการนี้</string>
     <string name="total_speedup">เพิ่มความเร็ว (ทั้งหมด)</string>
     <string name="version">เวอร์ชั่น %s</string>

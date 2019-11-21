@@ -63,7 +63,7 @@
     <string name="print_forget_printer">ไม่ต้องจำเครื่องพิมพ์</string>
     <string name="print_help_label">ช่วยเหลือ</string>
     <string name="print_help_tip">ตรวจสอบให้แน่ใจว่าทั้งโทรศัพท์และเครื่องพิมพ์ของคุณเชื่อมต่อกับเครือข่าย Wi-Fi เดียวกันหรือ Wi-Fi Direct เปิดอยู่ %1$s</string>
-    <string name="print_help_tip_reg">เรียกดู ช่วยเหลือ</string>
+    <string name="print_help_tip_reg">เรียกดู \"ช่วยเหลือ\"</string>
     <string name="print_no_print_services">ไม่ได้เปิดใช้บริการพิมพ์</string>
     <string name="print_no_printers">ไม่พบเครื่องพิมพ์</string>
     <string name="print_options_collapsed">ยุบตัวเลือกการพิมพ์แล้ว</string>
@@ -103,10 +103,8 @@
     <string name="search_brand">ค้นหา</string>
     <string name="select_to_add_printers">เลือกเพื่อเพิ่มเครื่องพิมพ์</string>
     <string name="start_print">พิมพ์</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_template">สรุป สำเนา %1$s, ขนาดกระดาษ %2$s</string>
     <string name="system_print_service_help">เกี่ยวกับการพิมพ์</string>
     <string name="template_all_pages">ทั้ง %1$s หน้า</string>
     <string name="template_page_range">ช่วง %1$s หน้า</string>
-    <string name="wifi_direct">Wi-Fi Direct</string>
 </resources>

@@ -108,6 +108,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>ปิดใช้</item>
+        <item>เปิดใช้รายการที่กรอง</item>
+        <item>เปิดใช้</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>สีที่ได้รับการปรับปรุง</item>
         <item>สีธรรมชาติตามที่ดวงตามองเห็น</item>

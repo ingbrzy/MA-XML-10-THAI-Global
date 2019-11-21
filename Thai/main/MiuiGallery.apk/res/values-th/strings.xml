@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="accept">ยอมรับ</string>
     <string name="accept_or_deny">%1$s แชร์อัลบั้ม %2$s กับคุณ</string>
     <string name="actionbar_overflow_item_desc">ตัวเลือกเพิ่มเติม</string>
@@ -101,7 +128,7 @@
     <string name="alert_selection_description">MIUI จะวิเคราะห์รูปภาพที่คล้ายกันและทำเครื่องหมายภาพที่ดีที่สุดสำหรับคุณ</string>
     <string name="alert_selection_title">เลือกภาพที่ดีที่สุด</string>
     <string name="all_faces">ภาพถ่ายกับคนนี้</string>
-    <string name="all_items_synced">อัลบั้มทั้งหมดได้รับการสำรองข้อมูลไปยัง Xiaomi คลาวด์แล้ว</string>
+    <string name="all_items_synced">อัลบั้มทั้งหมดถูกซิงค์กับคลาวด์แล้ว</string>
     <string name="all_video_album_display_name">วิดีโอทั้งหมด</string>
     <string name="already_create_baby_album">มีอัลบั้มลูกอยู่ใน Xiaomi คลาวด์ แล้ว</string>
     <string name="and"> และ </string>
@@ -116,20 +143,20 @@
     <string name="assistant_page_label">ความทรงจำ</string>
     <string name="assistant_page_server_error">ตรวจสอบการตั้งค่าเครือข่ายของคุณ</string>
     <string name="associate_face_album">เลือกอัลบั้ม</string>
-    <string name="auto_backup_introduce">สำรองข้อมูลรูปภาพและวิดีโอโดยอัตโนมัติ (ต้องใช้บัญชี Mi)</string>
+    <string name="auto_backup_introduce">ซิงค์ข้อมูลรูปภาพและวิดีโอโดยอัตโนมัติ (ต้องใช้บัญชี Mi)</string>
     <string name="auto_download_media_title">ดาวน์โหลดรูปภาพจาก Xiaomi คลาวด์ อัตโนมัติ</string>
     <string name="auto_update_face">เพิ่มรูปภาพโดยอัตโนมัติ</string>
     <string name="auto_update_face_summary">ยืนยันบุคคลและเพิ่มรูปภาพไปยังอัลบั้มลูกโดยอัตโนมัติ</string>
     <string name="auto_update_off">ปิด</string>
     <string name="auto_update_on">เปิด</string>
-    <string name="auto_upload_before_share_message">สำรองข้อมูลอัลบั้มนี้ไปยัง Xiaomi คลาวด์ก่อนทำการแชร์</string>
+    <string name="auto_upload_before_share_message">ซิงค์ข้อมูลอัลบั้มนี้กับ Xiaomi คลาวด์ก่อนทำการแชร์</string>
     <string name="auto_upload_before_share_title">คำแนะนำ</string>
     <string name="auto_upload_disable_tip">การซิงค์กับคลาวด์ถูกปิด</string>
     <string name="auto_upload_disable_toast_long_press_menu">การซิงค์กับคลาวด์ถูกปิด</string>
     <string name="auto_upload_enable_toast_long_press_menu">การซิงค์กับคลาวด์ถูกเปิด</string>
     <string name="baby_album">อัลบั้มลูก</string>
     <string name="baby_album_change_background">เปลี่ยนรูปภาพพื้นหลัง</string>
-    <string name="baby_album_needs_auto_backup_tip">ปิดใช้งานการสำรองข้อมูลสำหรับอัลบั้มลูกไม่ได้</string>
+    <string name="baby_album_needs_auto_backup_tip">ปิดใช้งานการซิงค์ข้อมูลสำหรับอัลบั้มลูกไม่ได้</string>
     <string name="baby_album_new_photo_remind">มีรูปภาพใหม่ในอัลบั้มลูกของคุณ</string>
     <string name="baby_album_setting_title">ข้อมูลลูก</string>
     <string name="baby_album_settings">การตั้งค่าอัลบั้มลูก</string>
@@ -151,8 +178,8 @@
     <string name="baby_sexy">เพศ</string>
     <string name="baby_suffix">ลูก</string>
     <string name="back">ย้อนกลับ</string>
-    <string name="backup_automatically_summary">สำรองข้อมูลรูปภาพและวิดีโอบนอุปกรณ์ทั้งหมดไปยัง Xiaomi คลาวด์ คุณสามารถเรียกดู เรียงลำดับ แก้ไข รวมถึงแชร์รูปภาพและวิดีโอบนอุปกรณ์ทั้งหมดได้อย่างสะดวก</string>
-    <string name="backup_automatically_title">สำรองข้อมูลโดยอัตโนมัติ</string>
+    <string name="backup_automatically_summary">ซิงค์ข้อมูลรูปภาพและวิดีโอบนอุปกรณ์ทั้งหมดไปยัง Xiaomi คลาวด์ คุณสามารถเรียกดู เรียงลำดับ แก้ไข รวมถึงแชร์รูปภาพและวิดีโอบนอุปกรณ์ทั้งหมดได้อย่างสะดวก</string>
+    <string name="backup_automatically_title">ซิงค์อัตโนมัติ</string>
     <string name="backup_battery_low_desc">คุณสามารถเลือกดำเนินการสำรองข้อมูลรายการต่อได้</string>
     <string name="backup_battery_low_title">สำรองข้อมูลหยุดชั่วคราวเนื่องจากแบตเตอรี่ต่ำ</string>
     <string name="backup_close">ปิดสำรองข้อมูล</string>
@@ -163,7 +190,7 @@
     <string name="backup_cta_not_allow_desc">ยอมรับเพื่อสำรองข้อมูลอัตโนมัติ</string>
     <string name="backup_cta_not_allow_title">เข้าถึงเครือข่ายไม่ได้</string>
     <string name="backup_detail_page_empty">ไม่พบรูปภาพหรือวิดีโอที่กำลังรอสำหรับข้อมูลสำรอง</string>
-    <string name="backup_detail_page_title">การสำรองข้อมูล Xiaomi คลาวด์</string>
+    <string name="backup_detail_page_title">รายการซิงค์แล้ว</string>
     <string name="backup_device_space_low_btn_text">ล้าง</string>
     <string name="backup_device_space_low_desc">เพิ่มที่จัดเก็บข้อมูลเพื่อดำเนินการสำรองข้อมูลรายการต่อ</string>
     <string name="backup_device_space_low_title">พื้นที่จัดเก็บไม่เพียงพอ</string>
@@ -179,15 +206,16 @@
     <string name="backup_no_wifi_btn_text">ข้อมูลที่ใช้</string>
     <string name="backup_no_wifi_desc">คุณสามารถสำรองข้อมูลรายการการใช้ข้อมูลมือถือได้</string>
     <string name="backup_no_wifi_title">ซิงค์จะดำเนินต่อหลังจากที่คุณเชื่อมต่อกับ Wi-fi</string>
-    <string name="backup_only_in_wifi">ใช้ Wi‑Fi ในการสำรองข้อมูลรูปภาพและวิดีโอเท่านั้น</string>
-    <string name="backup_only_in_wifi_summary">ไม่ใช้เครือข่ายข้อมูลมือถือในการสำรองข้อมูลรูปภาพและวิดีโอ</string>
-    <string name="backup_only_wifi_dialog_message">ใช้เครือข่ายข้อมูลมือถือในการสำรองข้อมูลรูปภาพและวิดีโอ?</string>
+    <string name="backup_only_in_wifi">ใช้ Wi‑Fi ในการซิงค์ข้อมูลรูปภาพและวิดีโอเท่านั้น</string>
+    <string name="backup_only_in_wifi_summary">ไม่ใช้เครือข่ายข้อมูลมือถือในการซิงค์ข้อมูลรูปภาพและวิดีโอ</string>
+    <string name="backup_only_wifi_dialog_message">ใช้เครือข่ายข้อมูลมือถือในการซิงค์ข้อมูลรูปภาพและวิดีโอ?</string>
     <string name="backup_pause">พักการสำรองข้อมูลชั่วคราว</string>
+    <string name="backup_pause_dialog_title">พักการซิงค์</string>
     <string name="backup_pause_title">พักการซิงค์ไว้</string>
     <string name="backup_pending">จะได้รับการสำรองข้อมูลโดยอัตโนมัติ</string>
     <string name="backup_stop">หยุดสำรองข้อมูล</string>
     <string name="backup_sync_dialog_confirm">เปิดใช้งาน</string>
-    <string name="backup_sync_dialog_tips">เปิดใช้งานซิงค์กับคลาวด์ เพื่อแก้ไขการตั้งค่าสำหรับการข้อมูลสำรอง</string>
+    <string name="backup_sync_dialog_tips">เปิดการซิงค์กับคลาวด์เพื่อเปลี่ยนการตั้งค่า</string>
     <string name="backup_sync_dialog_title">ซิงค์ถูกปิด</string>
     <string name="backup_sync_error_btn_text">ลองอีกครั้ง</string>
     <string name="backup_sync_error_desc">เชื่อมต่อ Xiaomi คลาวด์ไม่ได้</string>
@@ -221,7 +249,7 @@
     <string name="by_others">อื่นๆ</string>
     <string name="by_sms">ข้อความ SMS</string>
     <string name="byteShort">B</string>
-    <string name="camera_needs_auto_backup_tip">อัลบั้มกล้องจำเป็นต้องถูกสำรองข้อมูล</string>
+    <string name="camera_needs_auto_backup_tip">อัลบั้มกล้องจำเป็นต้องถูกซิงค์ข้อมูล</string>
     <string name="cancel">ยกเลิก </string>
     <string name="cancel_baby_lock_wallpaper_confirm_msg">เปลี่ยนเป็นภาพพื้นหลังเริ่มต้นในหน้าจอล็อก?</string>
     <string name="cancel_download_btn_text">หยุด</string>
@@ -249,6 +277,9 @@
     <string name="chooser_fragment_mishare_title">แชร์ไปยัง</string>
     <string name="cleaner_empty_value_description">ไม่พบสิ่งผิดปกติ</string>
     <string name="cleaner_photo_pick_delete_selected">ลบรูปภาพที่เลือก</string>
+    <string name="cleaner_raw_action">ล้าง</string>
+    <string name="cleaner_raw_description">เพิ่มพื้นที่จัดเก็บโดยลบภาพ RAW ขนาดใหญ่</string>
+    <string name="cleaner_raw_title">ล้างไฟล์ RAW</string>
     <string name="cleaner_scan_description">การเพิ่มประสิทธิภาพรายการจะช่วยเพิ่มพื้นที่เก็บข้อมูลในอุปกรณ์ของคุณ</string>
     <string name="cleaner_scan_exit_dialog_message">เข้าใหม่อีกครั้งจำเป็นต้องสแกนใหม่ ต้องการออกหรือไม่?</string>
     <string name="cleaner_scan_exit_dialog_positive">หยุด</string>
@@ -279,13 +310,13 @@
     <string name="close">ปิด</string>
     <string name="close_dialog_desc">ปิดกล่องสนทนา</string>
     <string name="cloud_camera_display_name">รูปภาพจากกล้อง</string>
-    <string name="cloud_guide_auto_backup_title">เลือกอัลบั้มที่ต้องการสำรองข้อมูล</string>
+    <string name="cloud_guide_auto_backup_title">เลือกอัลบั้มที่ต้องการซิงค์</string>
     <string name="cloud_guide_login_title">สำรองข้อมูลรูปภาพและวิดีโอโดยอัตโนมัติ</string>
     <string name="cloud_guide_welcome_title">Xiaomi คลาวด์</string>
-    <string name="cloud_privacy_with_ai_album">คำชี้แจงสิทธิ์ส่วนบุคคลเกี่ยวกับการสำรองข้อมูลอัตโนมัติและการประมวลผลภาพ</string>
-    <string name="cloud_privacy_with_face">คำชี้แจงสิทธิ์ส่วนบุคคลเกี่ยวกับการสำรองข้อมูลอัตโนมัติและการจดจำใบหน้า</string>
+    <string name="cloud_privacy_with_ai_album">คำชี้แจงสิทธิ์ส่วนบุคคลเกี่ยวกับการซิงค์ข้อมูลอัตโนมัติและการประมวลผลภาพ</string>
+    <string name="cloud_privacy_with_face">คำชี้แจงสิทธิ์ส่วนบุคคลเกี่ยวกับการซิงค์ข้อมูลอัตโนมัติและการจดจำใบหน้า</string>
     <string name="cloud_screenshots_display_name">จับภาพหน้าจอ</string>
-    <string name="cloud_settings">การสำรองข้อมูลคลังภาพ</string>
+    <string name="cloud_settings">ซิงค์</string>
     <string name="cloud_storage_extend">ขยายพื้นที่จัดเก็บคลาวด์</string>
     <string name="cloud_storage_ok_append_desc">ใช้งานได้ %s</string>
     <string name="cloud_storage_ok_desc">พื้นที่จัดเก็บ Xiaomi คลาวด์ %s</string>
@@ -554,6 +585,7 @@
     <string name="face_name_edit">แก้ไข</string>
     <string name="face_name_input">ป้อนชื่อ</string>
     <string name="face_recommend">ข้อเสนอแนะ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">ดำเนินการไม่เสร็จสิ้น</string>
     <string name="fail_to_pick_email">ที่อยู่อีเมลไม่ถูกต้อง</string>
     <string name="fail_to_sync_album">ไม่สามารถซิงค์อัลบั้ม ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</string>
@@ -564,6 +596,7 @@
     <string name="feature_guidance_photo_effects">"เอฟเฟ็กต์​ภาพถ่ายใหม่
 พร้อมใช้งาน"</string>
     <string name="feature_guidance_video_editor_smart_effects">เอฟเฟ็กต์​ใหม่พร้อมใช้งาน</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">ไม่สามารถพิมพ์รายการนี้ได้</string>
     <string name="file_cannot_screen_throw">ไม่สามารถฉายรายการนี้ได้</string>
     <string name="file_sending">กำลังโอนไฟล์…</string>
@@ -586,6 +619,7 @@
     <string name="filter_category_scene">ทิวทัศน์</string>
     <string name="filter_category_sky">ท้องฟ้า</string>
     <string name="filter_film_blackwhite">ดำ&amp;ขาว</string>
+    <string name="filter_film_classic">คลาสสิก</string>
     <string name="filter_film_dew">น้ำค้าง</string>
     <string name="filter_film_fade">เนียนใส</string>
     <string name="filter_film_film">ฟิล์ม</string>
@@ -694,6 +728,7 @@
     <string name="gif_tip">ไฟล์ GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">ตั้งค่า</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"คลังภาพต้องการเข้าถึง 
 %s
  เพื่อให้ทำงานได้ตามปกติ แตะ \"ตั้งค่า\" เพื่อไปยังการอนุญาต"</string>
@@ -786,7 +821,10 @@
     <string name="main_discard_confirm_message">คุณมีการเปลี่ยนแปลงที่ไม่ได้บันทึก</string>
     <string name="main_discard_negative_btn">ละทิ้ง</string>
     <string name="main_discard_positive_btn">บันทึก &amp; ออก</string>
+    <string name="main_save_cancel">ยกเลิก </string>
+    <string name="main_save_compress">บีบอัดและบันทึก</string>
     <string name="main_save_error_msg">บันทึกการเปลี่ยนแปลงไม่ได้เนื่องจากผิดพลาด</string>
+    <string name="main_save_origin">บันทึกไฟล์ต้นฉบับ</string>
     <string name="mark_myself_default_name">ฉัน</string>
     <string name="mark_myself_suggestion_load_more">นั่นไม่ใช่ฉัน</string>
     <string name="mark_myself_suggestion_title">"เลือกรูปภาพที่มีใบหน้าของคุณ
@@ -805,7 +843,7 @@
     <string name="merge_album_title">ควบรวมกับใครสักคน</string>
     <string name="messagelist_sender_self">ฉัน</string>
     <string name="mi_drop">Mi แชร์</string>
-    <string name="micloud_introduce">สำรองข้อมูลรูปภาพและวิดีโอโดยอัตโนมัติ (ต้องใช้บัญชี Mi)</string>
+    <string name="micloud_introduce">ซิงค์ข้อมูลรูปภาพและวิดีโอโดยอัตโนมัติ (ต้องใช้บัญชี Mi)</string>
     <string name="midnight">AM</string>
     <string name="monday">Monday</string>
     <string name="monday_short">Mon</string>
@@ -996,6 +1034,7 @@
     <string name="people_mark_mode_title_no_mark_name">เลือกสักคน</string>
     <string name="people_page_label">บุคคล</string>
     <string name="people_page_unname">ไม่มีชื่อ</string>
+    <string name="percent_sign">%</string>
     <string name="permission_contacts_desc">สำหรับการกำหนดรายชื่อให้กับคนในรูปถ่าย</string>
     <string name="permission_contacts_name">รายชื่อ</string>
     <string name="permission_optional_category">สิทธิ์เพิ่มเติม</string>
@@ -1205,8 +1244,13 @@
     <string name="screen_doodle_talkback_size">ความกว้างของลายเส้น</string>
     <string name="screen_editor_btn_delete">ลบ</string>
     <string name="screen_editor_btn_save">บันทึก</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">ลบภาพหน้าจอนี้หรือไม่?</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">เสร็จสิ้น</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ยกเลิก </string>
     <string name="screen_save_dialog_btn_delete">ลบภาพหน้าจอ</string>
     <string name="screen_save_dialog_btn_save">บันทึกไปยังคลังภาพ</string>
@@ -1243,6 +1287,7 @@
     <string name="search_login_title_full_screen">ลงชื่อเข้าใช้บัญชี Mi ของคุณเพื่อค้นหาสิ่งของและบุคคลเพิ่มเติม</string>
     <string name="search_mark_feedback_false_negative_title">ตกลง</string>
     <string name="search_mark_feedback_false_positive_title">ซ่อมแซม</string>
+    <string name="search_menu_title">ค้นหา</string>
     <string name="search_net_error">เกิดข้อผิดพลาดเกี่ยวกับเครือข่าย เชื่อมต่อเครือข่ายอื่นและลองอีกครั้ง</string>
     <string name="search_request_applied">ใช้งานแล้ว</string>
     <string name="search_request_open">เข้าร่วมทีมทดสอบ</string>
@@ -1264,6 +1309,9 @@
     <string name="search_title_recommend">แนะนำ</string>
     <string name="search_title_suggestion">ข้อเสนอแนะ</string>
     <string name="search_title_tag">สิ่งของ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">กำลังมองหาโปรเจคเตอร์…</string>
     <string name="secret_album_card_description">ที่ที่ดีที่สุดสำหรับความลับทั้งหมดของคุณ</string>
     <string name="secret_album_card_title">เปิดอัลบั้มที่ซ่อนไว้</string>
@@ -1312,7 +1360,7 @@
     <string name="setup_network_connection">การตั้งค่าเครือข่าย</string>
     <string name="share">แชร์</string>
     <string name="share_album">แชร์อัลบั้ม</string>
-    <string name="share_album_needs_auto_upload_tip">ไม่สามารถปิดใช้การสำรองข้อมูลอัลบั้มแชร์ได้</string>
+    <string name="share_album_needs_auto_upload_tip">ไม่สามารถปิดใช้ซิงค์กับคลาวด์สำหรับอัลบั้มแชร์?</string>
     <string name="share_album_qr_code">รหัส QR ของอัลบั้ม</string>
     <string name="share_by_email_start">แชร์ %1$s บนพื้นหลัง</string>
     <string name="share_by_email_successfully">แชร์ %1$s</string>
@@ -1500,6 +1548,8 @@
     <string name="unpublish_failed">ไม่สามารถยกเลิกการเผยแพร่อัลบั้ม</string>
     <string name="unpublish_succeeded">ไม่เผยแพร่อัลบั้มแล้ว</string>
     <string name="unpublishing">กำลังยกเลิก…</string>
+    <string name="unsupport_raw">%s ไม่ทำงานกับภาพ RAW</string>
+    <string name="unsupport_raw_and_video">%s ไม่ทำงานกับวีดีโอและภาพ RAW</string>
     <string name="unsupport_video">%s ไม่ทำงานกับวิดีโอ</string>
     <string name="user_agree">เห็นด้วย</string>
     <string name="user_agreement2">เงื่อนไขการให้บริการ</string>

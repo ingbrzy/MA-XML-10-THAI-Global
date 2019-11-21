@@ -5,7 +5,7 @@
     <string name="calendar_sound">การแจ้งเตือนกิจกรรม</string>
     <string name="calendar_tip">เสียงเตือนความจำเหตุการณ์ใช้งานได้สำหรับการเตือนปฏิทินบันทึกย่อและงานต่างๆ</string>
     <string name="follow_sim1">ใช้การตั้งค่าใช้ซิม 1</string>
-    <string name="intelligent_recognition_item_summary">ระบุสายเรียกเข้าที่ทำโดยผู้ให้บริการ (เช่น การส่งอาหาร) และใช้เสียงเรียกเข้าแยกต่างหากสำหรับพวกเขา</string>
+    <string name="intelligent_recognition_item_summary">ใช้เสียงเรียกเข้าที่กำหนดไว้สำหรับการโทรจากบริการจัดส่งและรถแท็กซี่ คุณสมบัตินี้จะทำงานเมื่อตั้งค่า %s เป็นเสียงเรียกเข้าเริ่มต้นของคุณ</string>
     <string name="intelligent_recognition_item_title">ระบุบริการ</string>
     <string name="mms">การส่งข้อความ</string>
     <string name="more_ringtone">เสียงเรียกเข้าทั้งหมด</string>

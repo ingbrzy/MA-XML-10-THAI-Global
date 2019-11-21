@@ -37,6 +37,8 @@
         <item>อื่นๆ</item>
         <item>กำหนดเอง</item>
     </string-array>
+    <array name="face_acquired_vendor" />
+    <array name="face_error_vendor" />
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -57,9 +59,5 @@
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>เกิดปัญหาในการลงทะเบียนการโทรผ่าน Wi‑Fi กับผู้ให้บริการของคุณ: %1$s</item>
-    </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>กำลังเรียก Wi-Fi ของ %s</item>
     </string-array>
 </resources>

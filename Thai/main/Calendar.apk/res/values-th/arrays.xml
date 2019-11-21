@@ -6,16 +6,12 @@
         <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="aries_info">
-        <item>aries</item>
+        <item>ราศีเมษ</item>
         <item>ราศีเมษ</item>
         <item>21/3 - 19/4</item>
     </string-array>
-    <string-array name="bundesliga">
-        <item>2</item>
-        <item>บูนเดสลิกา</item>
-    </string-array>
     <string-array name="cancer_info">
-        <item>cancer</item>
+        <item>ราศีกรกฎ</item>
         <item>ราศีกรกฎ</item>
         <item>22/6 - 22/7</item>
     </string-array>
@@ -25,103 +21,73 @@
         <item>22/12 - 19/1</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>เฉพาะกิจกรรมนี้</item>
-        <item>กิจกรรมทั้งหมดในซีรีส์</item>
+        <item>เฉพาะกำหนดการนี้</item>
+        <item>กำหนดการทั้งหมดในซีรีส์</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>แค่ตอนนี้</item>
+        <item>ปิดการแจ้งเตือนซ้ำ</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>ไปข้างหน้า</item>
         <item>ย้อนหลัง</item>
     </string-array>
-    <string-array name="dates">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
-    </string-array>
     <string-array name="default_reminder_labels">
-        <item>เวลาก่อนกิจกรรม</item>
+        <item>เวลากำหนดการ</item>
         <item>ก่อน 5 นาที</item>
+        <item>ก่อน 10 นาที</item>
         <item>ก่อน 15 นาที</item>
         <item>ก่อน 30 นาที</item>
         <item>ก่อน 1 ชั่วโมง</item>
-        <item>ก่อน 4 ชั่วโมง</item>
         <item>ก่อน 1 วัน</item>
         <item>ก่อน 2 วัน</item>
         <item>ก่อน 1 สัปดาห์</item>
     </string-array>
+    <string-array name="default_reminder_later_time_labels">
+        <item>5 นาที</item>
+        <item>10 นาที</item>
+        <item>15 นาที</item>
+        <item>30 นาที</item>
+        <item>1 ชั่วโมง</item>
+    </string-array>
     <string-array name="delete_repeating_labels">
-        <item>เฉพาะกิจกรรมนี้</item>
-        <item>กิจกรรมนี้และในอนาคต</item>
-        <item>กิจกรรมทั้งหมด</item>
+        <item>เฉพาะกำหนดการนี้</item>
+        <item>กำหนดการนี้และในอนาคต</item>
+        <item>กำหนดการทั้งหมด</item>
     </string-array>
     <string-array name="gemini_info">
-        <item>gemini</item>
+        <item>ราศีเมถุน</item>
         <item>ราศีเมถุน</item>
         <item>21/5 - 21/6</item>
     </string-array>
-    <string-array name="la_liga">
-        <item>3</item>
-        <item>ลาลิก้า</item>
-    </string-array>
     <string-array name="leo_info">
-        <item>leo</item>
         <item>ราศีสิงห์</item>
-        <item>23/7 - 22/8</item>
+        <item>ราศีสิงห์</item>
+        <item>23/7 - 23/8</item>
     </string-array>
     <string-array name="libra_info">
-        <item>libra</item>
+        <item>ราศีตุล</item>
         <item>ราศีตุล</item>
         <item>23/9 - 23/10</item>
     </string-array>
-    <string-array name="ligue_1">
-        <item>5</item>
-        <item>Ligue 1</item>
-    </string-array>
-    <string-array name="panchang_weeks">
-        <item>วันอาทิตย์</item>
-        <item>วันจันทร์</item>
-        <item>วันอังคาร</item>
-        <item>วันพุธ</item>
-        <item>วันพฤหัสบดี</item>
-        <item>วันศุกร์</item>
-        <item>วันเสาร์</item>
+    <string-array name="open_alarm_repeating_labels">
+        <item>แค่ตอนนี้</item>
+        <item>ตั้งการแจ้งเตือนซ้ำ</item>
     </string-array>
     <string-array name="pisces_info">
-        <item>pisces</item>
+        <item>ราศีมีน</item>
         <item>ราศีมีน</item>
         <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>ปิด</item>
+        <item>สำหรับกำหนดการทั้งหมด</item>
+        <item>สำหรับเหตุการณ์ที่ระบุเวลา</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>เสมอ</item>
         <item>เมื่อปิดเสียงเรียกเข้าเท่านั้น</item>
-        <item>ไม่เคย</item>
+        <item>ไม่ต้อง</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>ภูมิภาคเริ่มต้น</item>
@@ -163,9 +129,9 @@
         <item>31</item>
     </string-array>
     <string-array name="repeat_choose_end">
-        <item>ครั้งเดียว</item>
+        <item>ไม่ต้อง</item>
         <item>เวลา</item>
-        <item>จำนวนครั้ง</item>
+        <item>ตามจำนวนครั้ง</item>
     </string-array>
     <string-array name="repeat_choose_month">
         <item>มกรา</item>
@@ -203,8 +169,8 @@
         <item>อาทิตย์</item>
     </string-array>
     <string-array name="repeat_countdown">
-        <item>ไม่เคย</item>
-        <item>ทุกเดือน</item>
+        <item>ไม่ต้อง</item>
+        <item>รายเดือน</item>
         <item>ทุกปี</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
@@ -256,122 +222,129 @@
         <item>อาจจะ</item>
         <item>ไม่</item>
     </string-array>
+    <string-array name="response_labels2">
+        <item>ไม่ตอบสนอง</item>
+        <item>ยอมรับ</item>
+        <item>ตัดสินใจในภายหลัง</item>
+        <item>ปฏิเสธ</item>
+    </string-array>
     <string-array name="sagittarius_info">
-        <item>sagittarius</item>
+        <item>ราศีธนู</item>
         <item>ราศีธนู</item>
         <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
-        <item>scorpio</item>
+        <item>ราศีพิจิก</item>
         <item>ราศีพิจิก</item>
         <item>24/10 - 22/11</item>
     </string-array>
-    <string-array name="serie_a">
-        <item>1</item>
-        <item>กัลโช่ซิลิอา</item>
-    </string-array>
     <string-array name="taurus_info">
-        <item>taurus</item>
+        <item>ราศีพฤษภ</item>
         <item>ราศีพฤษภ</item>
         <item>20/4 - 20/5</item>
     </string-array>
-    <string-array name="timezone_labels">
+    <string-array name="timezone_labels_v3">
         <item>หมู่เกาะมาร์แชลล์</item>
         <item>เกาะมิดเวย์</item>
-        <item>รัฐฮาวาย</item>
-        <item>รัฐอะแลสกา</item>
-        <item>เวลามาตรฐานแปซิฟิก (PST)</item>
+        <item>ฮาวาย</item>
+        <item>อลาสกา</item>
+        <item>เวลาแปซิฟิก</item>
         <item>ตีฮัวนา</item>
         <item>รัฐแอริโซนา</item>
         <item>รัฐชีวาวา</item>
         <item>โซนเวลาเมาน์เทน (MT)</item>
         <item>อเมริกากลาง</item>
         <item>โซนเวลากลาง (CT)</item>
-        <item>เม็กซิโกซิตี</item>
+        <item>เม็กซิโกซิตี้</item>
         <item>รัฐซัสแคตเชวัน</item>
         <item>โบโกตา</item>
         <item>โซนเวลาตะวันออก (ET)</item>
         <item>เวเนซุเอลา</item>
-        <item>โซนเวลาแอตแลนติก (บาร์เบโดส)</item>
-        <item>โซนเวลาแอตแลนติก (แคนาดา)</item>
+        <item>เวลาของแอตแลนติก (บาร์เบโดส)</item>
+        <item>เวลาของแอตแลนติก (แคนาดา)</item>
         <item>มาเนาส์</item>
-        <item>ซานเตียโก</item>
+        <item>ซานติอาโก</item>
         <item>รัฐนิวฟันด์แลนด์</item>
-        <item>บราซีเลีย</item>
+        <item>บราซิเลีย</item>
         <item>บัวโนสไอเรส</item>
         <item>กรีนแลนด์</item>
         <item>มอนเตวิเดโอ</item>
-        <item>ไมด์-แอตแลนติก</item>
+        <item>แอตแลนติกกลาง</item>
         <item>อะโซร์ส</item>
-        <item>กาบูเวร์ดี</item>
+        <item>เคปเวิร์ด</item>
         <item>กาซาบล็องกา</item>
-        <item>ลอนดอน ดับลิน</item>
-        <item>อัมสเตอร์ดัม เบอร์ลิน</item>
+        <item>ลอนดอน</item>
+        <item>ดับลิน</item>
+        <item>อัมสเตอร์ดัม</item>
+        <item>เบอร์ลิน</item>
         <item>เบลเกรด</item>
         <item>บรัสเซลส์</item>
-        <item>ซาราเยโว</item>
+        <item>ซาราเจโว</item>
         <item>วินด์ฮุก</item>
         <item>โซนเวลาแอฟริกาตะวันตก (WAT)</item>
-        <item>อัมมาน จอร์แดน</item>
-        <item>เอเธนส์ อิสตันบูล</item>
-        <item>เบรุต เลบานอน</item>
+        <item>อัมมาน</item>
+        <item>เอเธนส์</item>
+        <item>อิสตันบูล</item>
+        <item>เบรุต</item>
         <item>ไคโร</item>
         <item>เฮลซิงกิ</item>
         <item>เยลูซาเลม</item>
-        <item>มินสค์</item>
+        <item>มินสก์</item>
         <item>ฮาราเร</item>
         <item>แบกแดด</item>
-        <item>มอสโค</item>
+        <item>มอสโก</item>
         <item>คูเวต</item>
         <item>ไนโรบี</item>
         <item>เตหะราน</item>
         <item>บากู</item>
-        <item>ทบิลีซี</item>
+        <item>ทบิลิซิ</item>
         <item>เยเรวาน</item>
         <item>ดูไบ</item>
         <item>คาบูล</item>
-        <item>อิสลามาบาด การาจี</item>
+        <item>การาจี</item>
         <item>ออรัล อัค โซล</item>
         <item>เยคาเตรินบุร์ก</item>
         <item>โกลกาตา</item>
-        <item>ศรีลันกา</item>
+        <item>ศรีลังกา</item>
         <item>กาฐมาณฑุ</item>
         <item>อัสตานา</item>
         <item>ย่างกุ้ง</item>
-        <item>ครัสโนยาสค์</item>
-        <item>กรุงเทพ</item>
+        <item>ครัสโนยารสค์</item>
+        <item>กรุงเทพมหานคร</item>
         <item>ปักกิ่ง</item>
+        <item>ฉงชิ่ง</item>
         <item>ฮ่องกง</item>
         <item>มาเก๊า</item>
         <item>สิงค์โปร์</item>
         <item>อีร์คุตสค์</item>
         <item>กัวลาลัมเปอร์</item>
-        <item>เพิร์ธ</item>
+        <item>เพิร์ท</item>
         <item>ไทเป</item>
         <item>โซล</item>
-        <item>โตเกียว โอซาก้า</item>
-        <item>โซล</item>
+        <item>โตเกียว</item>
+        <item>ยาคุตสค์</item>
         <item>แอดิเลด</item>
         <item>ดาร์วิน</item>
         <item>บริสเบน</item>
-        <item>ดาร์วิน</item>
-        <item>ซิดนีย์ แคนเบอร์รา</item>
+        <item>โฮบาร์ต</item>
+        <item>ซิดนีย์</item>
+        <item>แคนเบอร์รา</item>
         <item>วลาดีวอสตอค</item>
         <item>กวม</item>
-        <item>มากาดาน</item>
+        <item>มากาดัน</item>
         <item>โอ๊คแลนด์</item>
         <item>ฟิจิ</item>
         <item>ตองกา</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
-        <item>3 ชั่วโมงก่อน</item>
-        <item>4 ชั่วโมงก่อน</item>
-        <item>5 ชั่วโมงก่อน</item>
-        <item>6 ชั่วโมงก่อน</item>
+        <item>ก่อน 3 ชั่วโมง</item>
+        <item>ก่อน 4 ชั่วโมง</item>
+        <item>ก่อน 5 ชั่วโมง</item>
+        <item>ก่อน 6 ชั่วโมง</item>
         <item>ก่อน 1 วัน</item>
     </string-array>
     <string-array name="virgo_info">
-        <item>virgo</item>
+        <item>ราศีกันย์</item>
         <item>ราศีกันย์</item>
         <item>23/8 - 22/9</item>
     </string-array>
@@ -387,5 +360,14 @@
     <string-array name="widget_style_list">
         <item>โปร่งแสง</item>
         <item>พื้นหลังสีขาว</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>อา</item>
+        <item>จ</item>
+        <item>อ</item>
+        <item>พ</item>
+        <item>พฤ</item>
+        <item>ศ</item>
+        <item>ส</item>
     </string-array>
 </resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extra_photo_common_saving">กำลังบันทึก…</string>
+    <string name="motion_photo_re_pick_title">เลือกรูปภาพที่ดีที่สุด</string>
+    <string name="motion_photo_toast_default">ค่าเริ่มต้น</string>
+    <string name="motion_photo_toast_suggest">แนะนำ</string>
+    <string name="refocus_discard_confirm_message">บันทึกการเปลี่ยนแปลง?</string>
+    <string name="refocus_discard_negative_btn">ละทิ้ง</string>
+    <string name="refocus_discard_positive_btn">บันทึก</string>
+    <string name="refocus_photo_not_support">ไม่สามารถเบลอรูปภาพนี้ได้</string>
+    <string name="refocus_relighting_toast">ย้ายวงกลมเพื่อปรับมุมแสง</string>
+    <string name="refocus_save_cancel">ยกเลิก </string>
+    <string name="refocus_save_title">เลือกรูปแบบ</string>
+    <string name="refocus_save_to_photo">บันทึกเป็นรูปภาพ</string>
+    <string name="refocus_save_to_video">บันทึกเป็นวิดีโอ</string>
+    <string name="refocus_saving">กำลังบันทึก…</string>
+    <string name="refocus_title">เบลอ</string>
+    <string name="refocus_type_relighting">แสงสตูดิโอ</string>
+    <string name="refocus_type_relighting_no_face">ไม่พบใบหน้า</string>
+    <string name="refocus_type_relighting_small_face">ใบหน้ามีขนาดเล็กเกินไปที่จะใช้เอฟเฟ็กซ์สตูดิโอ</string>
+    <string name="refocus_type_static">ระดับการเบลอ</string>
+    <string name="refocus_type_video">เส้นทางแสง</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -12,6 +12,7 @@
     <string name="call_record_list_group_all">ทั้งหมด</string>
     <string name="call_record_list_group_connected">เชื่อมต่อแล้ว</string>
     <string name="call_record_list_group_unconnected">ไม่ได้เชื่อมต่อ</string>
+    <string name="cancel_rename">ยกเลิก </string>
     <string name="clear_records">ลบไฟล์บันทึกที่ซิงค์ไว้?</string>
     <string name="cloud_record_open">ซิงค์บันทึกเสียง</string>
     <string name="cloud_record_tip">ซิงค์บันทึกเสียงกับ Xiaomi คลาวด์</string>
@@ -73,6 +74,7 @@
     <string name="korea_permission_record_resc">สำหรับการบันทึกเสียง</string>
     <string name="korea_permission_storage">พื้นที่จัดเก็บ</string>
     <string name="korea_permission_storage_desc">สำหรับการจัดเก็บบันทึก</string>
+    <string name="loading_more">รอสักครู่…</string>
     <string name="loading_order_list">รอสักครู่…</string>
     <string name="loading_order_list_empty">ไม่มีคำสั่งซื้อ</string>
     <string name="low_battery_error">เหลือแบตเตอรี่น้อยกว่า 5% หยุดและจัดเก็บเสียงที่บันทึกของคุณเพื่อป้องกันการสูญหาย</string>
@@ -105,7 +107,6 @@
     <string name="online_recognize_duration_limite">(เริ่มจาก 10 นาที)</string>
     <string name="online_recognize_fail">ไม่สามารถคัดสำเนาได้</string>
     <string name="online_recognize_login_fail">เข้าสู่ระบบไม่ได้</string>
-    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">เข้าสู่ระบบ</string>
     <string name="online_recognize_order_duration_key">ระยะเวลา</string>
     <string name="online_recognize_order_pay">ชำระและดูผล</string>
@@ -121,11 +122,11 @@
     <string name="online_recognize_order_upload">ยืนยันและอัปโหลด</string>
     <string name="online_recognize_order_uploading">กำลังอัปโหลด %s…</string>
     <string name="online_recognize_other_order_upload">อจนกว่าการอัปโหลดปัจจุบันจะเสร็จสมบูรณ์และลองอีกครั้ง</string>
+    <string name="online_recognize_progress">กำลังคัดสำเนา %s…</string>
     <string name="online_recognize_running">กำลังคัดสำเนา…</string>
     <string name="online_recognize_service_unavailable">ไม่มีบริการในขณะนี้ รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="order_item_duration">ระยะเวลา: %s</string>
     <string name="order_item_number">หมายเลขสั่งซื้อ: %s</string>
-    <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">แอประบบ/บันทึกเสียง</string>
     <string name="pause">พัก</string>
     <string name="pay_error_cancel">การชำระถูกยกเลิก</string>
@@ -139,7 +140,7 @@
     <string name="preference_led_indicator_prompt">ขณะบันทึกเสียง แสดงปุ่มลัดไว้บนแถบสถานะและกระพริบไฟสถานะ</string>
     <string name="preference_online_orders">รายการสั่งซื้อออนไลน์</string>
     <string name="preference_recog_faqs">คำถามที่พบบ่อยเกี่ยวกับคัดสำเนาออนไลน์</string>
-    <string name="preference_recog_terms">เงื่อนไขการใช้บริการ</string>
+    <string name="preference_recog_terms">เงื่อนไขการให้บริการ</string>
     <string name="preference_record_scenes_dialog_title">เลือกวิธีการบันทึก</string>
     <string name="preference_scenes">ประเภทการบันทึก</string>
     <string name="preference_silent_mode">ปิดเสียงเตือนสายเรียกเข้าขณะบันทึกเสียง</string>
@@ -190,15 +191,12 @@
     <string name="record_format_preference_title">รูปแบบการบันทึก</string>
     <string name="record_list">ไฟล์เสียงที่บันทึกไว้</string>
     <string name="record_list_call">สายสนทนาที่บันทึกไว้</string>
-    <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">บันทึกเสียงสนทนาที่ซิงค์ไว้</string>
     <string name="record_list_cloud_call">รายการโทรที่ซิงค์ไว้</string>
     <string name="record_list_cloud_fm">บันทึกเสียงวิทยุที่ซิงค์ไว้</string>
     <string name="record_list_fm">บันทึกเสียงวิทยุ</string>
     <string name="record_list_item_recognize_text">ข้อความ</string>
     <string name="record_mark_point">ทำเครื่องหมาย %s</string>
-    <string name="record_name_hour">.</string>
-    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">คุณภาพการบันทึก</string>
     <string name="record_resotre">กู้คืนที่บันทึก</string>
     <string name="recording">การบันทึกเสียง</string>
@@ -225,7 +223,9 @@
     <string name="retry">ลองใหม่</string>
     <string name="runtime_permission_ungranted">ไม่สามารถใช้ตัวบันทึกเสียงได้เนื่องจากไม่ได้รับอนุญาต</string>
     <string name="search_app">บันทึกเสียง</string>
+    <string name="search_empty">ไม่พบผลลัพธ์การค้นหา</string>
     <string name="search_enable_earpiece_title">ฟังเสียงที่บันทึกจากเครื่อง</string>
+    <string name="search_hint">ค้นหา</string>
     <string name="search_led_indicator">การแจ้งเตือนบนหน้าจอล็อก</string>
     <string name="search_led_indicator_prompt">"ขณะบันทึกเสียง แสดงปุ่มลัดไว้บนแถบสถานะและกระพริบไฟสถานะ
 บนหน้าจอล็อก"</string>
@@ -262,9 +262,6 @@
     <string name="text_play_speed_1_0">ความเร็วในการเล่นปกติ</string>
     <string name="text_play_speed_1_5">ความเร็วในการเล่น 1.5X</string>
     <string name="text_play_speed_2_0">ความเร็วในการเล่น 2X</string>
-    <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s สามารถบันทึกเสียงได้ประมาณ %2$s</string>
     <string name="toast_uninstall_fileexplorer">ไม่ได้ติดตั้งตัวจัดการไฟล์</string>
     <string name="usage_description">กำลังทำสำเนารายการเสียงและซิงค์กับคลาวด์</string>
@@ -272,7 +269,7 @@
     <string name="webview_data_error">เกิดข้อผิดพลาด</string>
     <string name="webview_locating_fail">ไม่พบตำแหน่งพิกัดของคุณ</string>
     <string name="webview_network_access_denied">ระบบไม่ได้รับอนุญาตให้ใช้งานเครือข่าย</string>
-    <string name="webview_network_unavaliable">ไม่สามารถเชื่อมต่อเครือข่าย</string>
+    <string name="webview_network_unavaliable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="webview_service_unavailiable">ไม่มีบริการ</string>
     <string name="webview_try_again">ลองอีกครั้ง</string>
     <string name="wifi_recommended_body" formatted="false">การดาวน์โหลดไฟล์นี้ (%s) ผ่านเครือข่ายมือถือต้องใช้ปริมาณการถ่ายโอนข้อมูลสูง ซึ่งหากใช้ไปเกินแพ็คเกจคุณที่ใช้งานแล้วอาจทำให้ต้องเสียค่าบริการที่เพิ่มขึ้นให้แก่ผู้ให้บริการเครือข่าย ถ้าคุณต้องการรอการเชื่อมต่อกับเครือข่าย Wi-Fi แล้วจึงค่อยดาวน์โหลดไฟล์กรุณาแตะ %s</string>

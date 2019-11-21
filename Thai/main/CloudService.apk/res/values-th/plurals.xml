@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="items_unsynced">
-        <item quantity="other">รายการที่กำลังรอการซิงค์: %d</item>
-    </plurals>
-    <plurals name="dirty_contacts_count">
-        <item quantity="other">รายชื่อผู้ติดต่อ %d รายการ</item>
-    </plurals>
-    <plurals name="dirty_mms_count">
-        <item quantity="other">%d ข้อความ</item>
-    </plurals>
-    <plurals name="dirty_note_count">
-        <item quantity="other">บันทึกย่อ %d รายการ</item>
-    </plurals>
-    <plurals name="dirty_image_count">
-        <item quantity="other">%d รูปภาพ</item>
-    </plurals>
-    <plurals name="dirty_callog_count">
-        <item quantity="other">%d บันทึกประวัติการเรียกเข้า</item>
-    </plurals>
-    <plurals name="dirty_wlan_count">
-        <item quantity="other">%d เครือข่าย Wi-Fi</item>
-    </plurals>
-    <plurals name="dirty_recorder_count">
-        <item quantity="other">%d การบันทึก</item>
-    </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d เพลง</item>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d รายการบล็อก</item>
     </plurals>
     <plurals name="dirty_browser_count">
         <item quantity="other">%d รายการเบราว์เซอร์</item>
@@ -33,8 +9,23 @@
     <plurals name="dirty_calendar_count">
         <item quantity="other">%d รายการปฏิทิน</item>
     </plurals>
-    <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d รายการบล็อก</item>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d บันทึกประวัติการเรียกเข้า</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">รายชื่อผู้ติดต่อ %d รายการ</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d รูปภาพ</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d ข้อความ</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d เพลง</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">บันทึกย่อ %d รายการ</item>
     </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d ทางเข้า App vault</item>
@@ -42,17 +33,26 @@
     <plurals name="dirty_phrase_count">
         <item quantity="other">%d คำที่ถูกใช้บ่อย</item>
     </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d การบันทึก</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">%d รูปภาพที่ซ่อนยังไม่ได้ซิงค์ หลังจากที่รายการทั้งหมดซิงค์แล้วให้ตรวจสอบและลงชื่ออก; มิฉะนั้นรายการทั้งหมดจะถูกลบ</item>
     </plurals>
-    <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">ซิงค์ต่อภายใน %d นาที</item>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d เครือข่าย Wi-Fi</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">รายการที่กำลังรอการซิงค์: %d</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">%s ชม. ที่แล้ว</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">%s นาทีที่แล้ว</item>
     </plurals>
-    <plurals name="last_sync_time_hours_ago">
-        <item quantity="other">%s ชม. ที่แล้ว</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">ซิงค์ต่อภายใน %d นาที</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s บริการจะถูกซิงค์กับ Xiaomi คลาวด์</item>

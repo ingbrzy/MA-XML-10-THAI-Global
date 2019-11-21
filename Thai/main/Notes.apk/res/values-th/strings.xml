@@ -19,14 +19,15 @@
     <string name="alert_title_restore">กู้คืนบันทึกย่อ</string>
     <string name="all_folder_name">บันทึกย่อทั้งหมด</string>
     <string name="all_terms">%1$s และ %2$s</string>
-    <string name="app_name">บันทึก</string>
+    <string name="app_name">บันทึกย่อ</string>
     <string name="app_notification_info">บันทึก กำลังทำงานบนพื้นหลัง</string>
     <string name="app_widget">บันทึกย่อ</string>
     <string name="application_icon">ไอคอนแอป</string>
-    <string name="audio_panel_time_counter_default">00:00</string>
+    <string name="audio_create_normal_state">ปล่อยเพื่อสร้าง เลื่อนขึ้นเพื่อยกเลิก</string>
+    <string name="audio_create_will_cancel_state">ปล่อยเพื่อยกเลิก</string>
     <string name="audio_toast_file_invalid">ไฟล์เสียงไม่ถูกต้อง</string>
     <string name="audio_toast_file_undownload">ไฟล์เสียงที่ดาวน์โหลดไม่ครบหรือเสียหาย</string>
-    <string name="audio_toast_network_is_not_available">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
+    <string name="audio_toast_network_is_not_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="call_folder_name">บันทึกย่อการโทร</string>
     <string name="cancel_alarm_description">ยกเลิกการปลุก</string>
     <string name="check_in_todo_app">แสดงงาน</string>
@@ -40,9 +41,6 @@
     <string name="cta_dialog_title">ต้องการคำร้องขออนุญาต</string>
     <string name="cta_reminder">การบันทึกต้องการสิทธิ์เชื่อมต่อกับเครือข่าย บันทึกเสียง และเข้าถึงรายชื่อเพื่อทำงานตามปกติ อนุญาตหรือไม่?</string>
     <string name="date_calculate_today">0 วัน</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_time_picker_alarm_reminder">การปลุก</string>
     <string name="date_time_picker_dialog_title">ตั้งวันที่และเวลา</string>
     <string name="date_time_picker_has_not_set_alarm">ไม่ได้ตั้งปลุก</string>
@@ -89,8 +87,6 @@
     <string name="error_widget_exist_for_send_to_desktop">บันทึกนี้อยู่บนหน้าจอหลักของคุณอยู่แล้ว</string>
     <string name="exceed_todo_text_limitation">รายละเอียดงานยาวเกินไป</string>
     <string name="first_enter_custom_folder_hint">คุณสามารถเปลี่ยนชื่อ หรือลบโฟลเดอร์ต่อไปนี้</string>
-    <string name="fmt_chinese_date">N e</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="folder_exist">มีชื่อโฟลเดอร์นี้อยู่แล้ว</string>
     <string name="folder_operation_delete">ลบ</string>
     <string name="folder_operation_rename">แก้ไขชื่อ</string>
@@ -123,13 +119,17 @@
     <string name="menu_send_as_text">ส่งเป็นข้อความ</string>
     <string name="menu_send_to_desktop">วางบนหน้าจอหลัก</string>
     <string name="menu_send_weibo">ส่งไปที่ Weibo</string>
-    <string name="menu_source">จาก: %1$s</string>
+    <string name="menu_source">จาก %1$s</string>
     <string name="menu_stick">ปักหมุด</string>
     <string name="menu_title_select_folder">เลือกโฟลเดอร์</string>
     <string name="menu_todo_hide_finished_todo">ซ่อนงานที่ทำเสร็จแล้ว</string>
     <string name="menu_todo_show_finished_todo">แสดงงานที่ทำเสร็จแล้ว</string>
     <string name="menu_unhide">เลิกซ่อน</string>
     <string name="menu_unstick">เลิกปักหมุด</string>
+    <string name="new_audio_create_cancel_talkback_des">ยกเลิกแล้ว</string>
+    <string name="new_audio_create_done_talkback_des">สร้างแล้ว</string>
+    <string name="new_audio_create_guide_tip">กดค้างไว้เพื่อสร้างบันทึกเสียง</string>
+    <string name="new_audio_create_talkback_des">แตะเพื่อสร้างโน้ตย่อ กดค้างไว้เพื่อสร้างบันทึกเสียง ปล่อยปุ่มเพื่อหยุดการบันทึกและสร้างบันทึกย่อหรือเลื่อนขึ้นเพื่อยกเลิก</string>
     <string name="not_now">ไม่ใช่ตอนนี้</string>
     <string name="note_description_content">แอปบันทึก เป็นเครื่องมือที่ยอดเยี่ยมสำหรับการบันทึกไอเดียของคุณ มีการแจ้งเตือนในตัวและซิงค์รายการของคุณกับคลาวด์ เพื่อให้คุณสามารถเข้าถึงได้ทุกที่ทุกเวลา ตรวจสอบให้แน่ใจว่าคุณรู้และเข้าใจคุณลักษณะเหล่านี้ก่อนที่จะลบแอป</string>
     <string name="note_description_title">เกี่ยวกับบันทึก</string>
@@ -151,7 +151,7 @@
     <string name="permission_microphone_desc">กำลังทำบันทึกเสียง</string>
     <string name="permission_network_for_cloud_desc">ในการซิงค์บันทึกกับคลาวด์คุณจะต้องเชื่อมต่อกับอินเทอร์เน็ต ข้อมูลมือถืออาจถูกใช้เพื่อซิงค์รายการ เชื่อมต่อตอนนี้?</string>
     <string name="permission_read_contact_desc">เชื่อมโยงบันทึกย่อที่สร้างขึ้นระหว่างการโทรกับผู้ติดต่อ</string>
-    <string name="permission_xiaoai_desc">&lt;Data>Mi AI จะรวบรวมการบันทึกเสียงและ ID อุปกรณ์ของคุณเพื่อถอดเสียงและสร้างบันทึกเสียง เรียนรู้เพิ่มเติมใน Mi AI &lt;a href=\"%1$s\">Privacy Policy&lt;/a>.&lt;/Data></string>
+    <string name="permission_xiaoai_desc">&lt;Data>Mi AI จะรวบรวมการบันทึกเสียงและ ID อุปกรณ์ของคุณเพื่อถอดเสียงและสร้างบันทึกเสียง เรียนรู้เพิ่มเติมใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> Mi AI&lt;/Data></string>
     <string name="permlab_accessNote">บันทึกการเข้าถึง</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">เลื่อนนิ้ว 2 นิ้วขึ้นเพื่อลบบันทึกย่อโดยไม่ต้องมีการยืนยัน</string>
     <string name="pref_desc_todo_float_mode">เลื่อนจากขอบของหน้าจอเพื่อเปิดกล่องเครื่องมืองาน</string>
@@ -165,6 +165,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">ลบการใช้ท่าทาง</string>
     <string name="pref_title_todo_float_mode">ใช้กล่องเครื่องมืองาน</string>
     <string name="pref_title_todo_shorcut">กล่องเครื่องมือ</string>
+    <string name="privacy_note_content_empty">ยังไม่มีรายการ</string>
     <string name="recover_notes_hint">เกิดข้อผิดพลาด เข้าไปที่ i.mi.com เพื่อกู้คืนบันทึก</string>
     <string name="redo">ทำซ้ำ</string>
     <string name="refuse_to_open_as_pic_because_of_loading">รอจนกว่าจะโหลดเสร็จและลองอีกครั้ง</string>
@@ -205,7 +206,7 @@
     <string name="sns_footer_text">เขียนด้วย Mi Notes</string>
     <string name="sns_hint_content">ป้อนข้อความ</string>
     <string name="sns_hint_title">หัวเรื่อง (ไม่ระบุก็ได้)</string>
-    <string name="sns_message_disconnect">เชื่อมต่อเครือข่ายไม่ได้้ กรุณาตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง</string>
+    <string name="sns_message_disconnect">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ กรุณาตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง</string>
     <string name="sns_title_edit">แชร์บันทึก</string>
     <string name="sns_title_send">ส่งข้อความ</string>
     <string name="sns_toast_empty">ไม่สามารถส่งข้อความว่างเปล่าได้</string>
@@ -284,8 +285,6 @@
     <string name="todo_module_name">งาน</string>
     <string name="todo_notify_alarm_title">เตือนความจำงาน</string>
     <string name="todo_schedule_time_expired">" (หมดอายุ)"</string>
-    <string name="todo_schedule_time_for_picker_hm">H mm</string>
-    <string name="todo_schedule_time_hm">HH:mm</string>
     <string name="todo_schedule_time_md">dd/MM</string>
     <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
     <string name="todo_schedule_time_today">วันนี้</string>

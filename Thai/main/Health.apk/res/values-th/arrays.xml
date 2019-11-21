@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_prompt_label">
+        <item>มีเหตุผล</item>
+        <item>ยาว</item>
+        <item>ยาวเกินไป</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>ถึงเวลาเคลื่อนไหวได้แล้ว!</item>
+        <item>เรียนรู้เพิ่มเติม</item>
+        <item>ดื่มน้ำและเดินเล่น</item>
+        <item>เรียนรู้เพิ่มเติม</item>
+        <item>ขึ้นบันไดสักเที่ยว</item>
+        <item>เรียนรู้เพิ่มเติม</item>
+        <item>อย่านั่งนานเกินไป</item>
+        <item>เรียนรู้เพิ่มเติม</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 ชั่วโมง</item>
+        <item>2 ชั่วโมง</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" kcal"</item>
+        <item>" kJ"</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" ซม."</item>
+        <item>" ม."</item>
+        <item>" กม."</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>วัน</item>
+        <item>สัปดาห์</item>
+        <item>เดือน</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>ไม่มีการจำกัด</item>
+        <item>จำกัดการทำงานในพื้นหลัง</item>
+        <item>หยุดหลังจาก 10 นาที</item>
+        <item>ไม่ต้อง</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" กม./ชม."</item>
+        <item>" ม./วินาที"</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>อาทิตย์</item>
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัส</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+    </string-array>
+</resources>

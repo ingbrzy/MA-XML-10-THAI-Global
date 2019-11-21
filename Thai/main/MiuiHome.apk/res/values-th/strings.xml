@@ -48,7 +48,6 @@
     <string name="announce_for_show_uninstall_dialog">มีการถอนการติดตั้งกล่องโต้ตอบ ยกเลิกหรือยืนยัน</string>
     <string name="announce_for_unchecked">%1$s ยังไม่เลือก</string>
     <string name="announce_for_widget_span">กว้าง %1$d, สูง %2$d</string>
-    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">มีแอปนี้อยู่ในเครื่องแล้ว</string>
     <string name="app_being_backup_message">ระบบกำลังสำรองข้อมูลแอป</string>
     <string name="app_being_restored_message">กำลังเรียกคืนค่าแอป</string>
@@ -68,7 +67,6 @@
     <string name="app_category_sport">กีฬา</string>
     <string name="app_category_tools">เครื่องมือ</string>
     <string name="app_category_travel">เดินทาง</string>
-    <string name="app_category_vr">VR</string>
     <string name="application_name">ตัวเรียกใช้ระบบ</string>
     <string name="apply">นำไปใช้</string>
     <string name="apply_action">นำไปใช้</string>
@@ -106,25 +104,19 @@
     <string name="current_wallpaper">ปัจจุบัน</string>
     <string name="custom_wallpaper_picker">เรียกดู</string>
     <string name="defalut_launcher_title">ค่าเริ่มต้นชุดเรียกใช้ระบบ</string>
-    <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">เกมส์</string>
     <string name="default_folder_title_meitu">แอป Meitu</string>
-    <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">แอปเพิ่มเติม</string>
     <string name="default_folder_title_security">ระบบ</string>
     <string name="default_folder_title_services">บริการ</string>
-    <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">เครื่องมือ</string>
     <string name="default_screen_preview_title">ตั้งค่าหน้าจอเริ่มต้น</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">ลบ</string>
     <string name="delete_screen">ลบหน้าจอ</string>
     <string name="delete_wallpaper_message">ลบภาพพื้นหลัง %1$d ภาพ?</string>
     <string name="deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="disable_wallpaper_scroll">ภาพพื้นหลังเลื่อนตามไม่ได้</string>
     <string name="download_action">ดาวน์โหลด</string>
-    <string name="drag_multiple_item_name" />
-    <string name="drag_single_item_name" />
     <string name="dual_app">แอปโคลน</string>
     <string name="edit_folder_title">แก้ไขชื่อโฟลเดอร์</string>
     <string name="edit_mode_dual_app">สร้างแอปโคลน</string>
@@ -258,7 +250,6 @@
     <string name="menu_wallpaper">ภาพพื้นหลัง</string>
     <string name="menu_workspace_preview">ตัวอย่างรายการหน้าจอหลัก</string>
     <string name="mi_wallpaper">ธีม MIUI</string>
-    <string name="minus_one_screen">App vault</string>
     <string name="miui_screen_config_title">การตั้งค่าหน้าจอหลัก</string>
     <string name="mtzgadget_missing_text">วิดเจ็ทไม่สามารถใช้งานได้</string>
     <string name="multi_selecting_tips">เพื่อจัดระเบียบแอป ลากไอคอนและวางที่นี่</string>
@@ -275,7 +266,6 @@
     <string name="open_personal_assistant_dialog_desc">คุณไม่สามารถใช้ App vault และรับการอัปเดต ปิดใช้งานทันที?</string>
     <string name="open_personal_assistant_dialog_desc_international">คุณจะไม่สามารถใช้การ์ด App Vault (สต็อก, ปุ่มลัด ฯลฯ) และรับการอัปเดตหลังจากปิดคุณลักษณะนี้</string>
     <string name="open_personal_assistant_dialog_title">ปิดใช้ App vault</string>
-    <string name="open_personal_assistant_title">App vault</string>
     <string name="out_of_space">ไม่มีที่ว่างบนหน้าจอหลักแล้ว</string>
     <string name="permdesc_install_shortcut">อนุญาตให้แอปเพิ่ม ปุ่มลัดโดยอัตโนมัติ</string>
     <string name="permdesc_install_widget">อนุญาตให้แอปเพิ่ม วิดเจ็ตโดยอัตโนมัติ</string>
@@ -311,7 +301,6 @@
     <string name="quick_app">แอปด่วน</string>
     <string name="recent_apps">เมื่อเร็วๆนี้</string>
     <string name="recents_config_title">ล่าสุด</string>
-    <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">ว่าง</string>
     <string name="recommend_apps_no_data">ไม่มีข้อมูล</string>
     <string name="recommend_apps_no_data_toast">ไม่มีคำแนะนำสำหรับตอนนี้</string>

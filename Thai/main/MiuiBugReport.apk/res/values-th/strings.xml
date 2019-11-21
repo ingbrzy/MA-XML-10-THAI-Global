@@ -57,7 +57,6 @@
     <string name="customer_service_apply">ร้องขอศูนย์บริการลูกค้า</string>
     <string name="customer_service_complain">รายงานศูนย์บริการลูกค้า</string>
     <string name="customer_service_station">ตำแหน่งพิกัดบริการ</string>
-    <string name="default_text_view">TextView</string>
     <string name="description">อธิบายเกี่ยวกับปัญหาที่พบ</string>
     <string name="dialog_ask_delete">ลบ</string>
     <string name="dialog_ask_quit">ออก</string>
@@ -82,8 +81,6 @@
     <string name="err_type_system_summary">ที่เก็บข้อมูล ประสิทธิภาพการใช้งาน ฯลฯ</string>
     <string name="err_type_systemapp">แอป MIUI</string>
     <string name="err_type_translate">ภาษา</string>
-    <string name="err_type_wifi">Wi-Fi</string>
-    <string name="err_type_xiaomi_family">Mi Home</string>
     <string name="err_type_xiaomi_service">ศูนย์บริการลูกค้า</string>
     <string name="error_no_connection">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s ปัญหา \"%2$s\"</string>
@@ -120,7 +117,6 @@
     <string name="feedback_empty_report_list">ยังไม่มีรายงาน</string>
     <string name="feedback_guess">คาดเดา:</string>
     <string name="feedback_history_remind_login_desc">เข้าสู่ระบบด้วยบัญชี Mi ของคุณเพื่อดูรายละเอียดและความคืบหน้ารายงานของคุณ</string>
-    <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA คีย์: %s</string>
     <string name="feedback_jira_key_place_holder">กำลังสร้าง Jira…</string>
     <string name="feedback_package_log_failed">บีบอัดบันทึกการใช้ไม่ได้</string>
@@ -187,8 +183,6 @@
     <string name="feedback_tracking">ติดตามปัญหา</string>
     <string name="feedback_version_label">เวอร์ชั่น</string>
     <string name="feesback_list">รายงาน</string>
-    <string name="first_position">2#</string>
-    <string name="floor">%1$s#</string>
     <string name="from">จาก %1$s</string>
     <string name="goon_feedback_main">ดำเนินต่อ</string>
     <string name="hint_feedback_main">อธิบายเกี่ยวกับปัญหาที่พบ</string>
@@ -219,7 +213,6 @@
     <string name="mi_service_dialog_content">คุณลักษณะข้อเสนอแนะทั้งหมดถูกย้ายไปที่แอป \"บริการและข้อเสนอแนะ\" ใหม่ แอปข้อเสนอแนะจะถูกลบออกจากหน้าจอหลักของคุณ แตะ \"เปิด\" เพื่อลอง\"บริการและข้อเสนอแนะ\"</string>
     <string name="mi_service_dialog_title">แนะนำ \"บริการและข้อเสนอแนะ\"</string>
     <string name="michat_app_name">บริการออนไลน์</string>
-    <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">หากคุณไม่สามารถติดต่อสายด่วน 400 ได้ ลองใช้โทรศัพท์เครื่องอื่นโทร: %1$s</string>
     <string name="michat_artificial_customer_text">เจ้าหน้าที่ลูกค้าสัมพันธ์</string>
     <string name="michat_attach_image">รูปภาพ</string>
@@ -325,7 +318,6 @@
     <string name="network_unavailable_dialog_content">ข้อเสนอแนะจะถูกส่งเมื่อมีการเชื่อมต่อเครือข่าย</string>
     <string name="network_unavailable_dialog_title">ไม่สามารถใช้งานเครือข่ายได้</string>
     <string name="non_system_app_select">แอปที่ดาวน์โหลด</string>
-    <string name="nothing">--</string>
     <string name="open_feedback_main">เพิ่มเติม</string>
     <string name="packaging_dialog_content">กำลังสร้างรายงาน…</string>
     <string name="passport_access_denied">เข้าสู่ระบบไม่ได้</string>
@@ -483,6 +475,7 @@
     <string name="passport_wrong_phone_number_format">รูปแบบของหมายเลขโทรศัพท์ที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_wrong_vcode">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="pic_not_exist">ไม่พบรูปภาพดังกล่าว</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">ข้อเสนอแนะที่คุณระบุไว้พร้อมทั้งบันทึกข้อบกพร่องจะถูกส่งไปยังเซิร์ฟเวอร์ของ Mi</string>
     <string name="plus_one_submit_dialog_not_show_again">จำตัวเลือกนี้</string>
     <string name="post_miui_bbs_failed">โพสต์ไปยังหน้าพูดคุย MIUI ไม่ได้</string>
@@ -504,7 +497,6 @@
     <string name="save_pic_fail">ไม่สามารถบันทึกรูปภาพได้ ตรวจสอบ SD การ์ดของคุณ</string>
     <string name="save_pic_success">บันทึกรูปภาพไปยัง %s</string>
     <string name="screen_lock">การล็อกหน้าจอ</string>
-    <string name="second_position">3#</string>
     <string name="section_description">รายละเอียด</string>
     <string name="section_err_type">ประเภทของปัญหา</string>
     <string name="section_screenshot">ภาพหน้าจอ</string>
@@ -557,7 +549,6 @@
     <string name="toast_screenshot_too_large">ไม่สามารถอัปโหลดรูปภาพหรือวิดีโอที่มีขนาดใหญ่กว่า 100MB</string>
     <string name="toast_third_packagename_required">ป้อนชื่อแอป</string>
     <string name="toast_title_required">อธิบายถึงปัญหาของคุณ</string>
-    <string name="topic_author">1#</string>
     <string name="try_again">ลองอีกครั้ง</string>
     <string name="upload_log_failed">ไม่สามารถส่งบันทึกการใช้งานได้</string>
     <string name="warning_field_empty">ป้อน %1$s</string>
