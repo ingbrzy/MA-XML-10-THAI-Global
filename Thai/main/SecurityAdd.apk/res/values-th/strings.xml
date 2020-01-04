@@ -18,7 +18,6 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="search_menu_title">ค้นหา</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ad_downloading">ดาวน์โหลด…</string>
     <string name="app_name">ปลั๊กอินบริการระบบ</string>
     <string name="app_select_title">เพิ่มแอปที่ใช้บ่อย</string>
@@ -36,7 +35,6 @@
     <string name="dialog_market_score_title_step2">ขอบคุณสำหรับข้อเสนอแนะของคุณ!</string>
     <string name="dual_app_title">แอปโคลน</string>
     <string name="dual_app_words">ทุกบัญชีสมควรมีแอปของมันเอง</string>
-    <string name="empty">" "</string>
     <string name="fastboot_locked_answer_1">Fastboot เป็นวิธีดั้งเดิมในการแฟลชอุปกรณ์ Mi เมื่ออุปกรณ์อยู่ในโหมด Fastboot คุณสามารถเข้าถึงและลบข้อมูลทั้งหมดที่จัดเก็บไว้ในเครื่องได้โดยตรง เราล็อก Fastboot เพื่อให้แน่ใจว่าข้อมูลของคุณจะปลอดภัยในกรณีที่อุปกรณ์ของคุณหายรวมทั้งเพื่อรับประกันความน่าเชื่อถือของคุณลักษณะการค้นหาอุปกรณ์</string>
     <string name="fastboot_locked_answer_2">ในกรณีที่อุปกรณ์ของคุณหาย Fastboot รับประกันความปลอดภัยของสิ่งที่จัดเก็บไว้ในเครื่อง หากคุณปลดล็อก Fastboot คุณจะไม่สามารถล็อกอุปกรณ์จากระยะไกลหรือลบข้อมูลโดยใช้การค้นหาอุปกรณ์ได้อีกต่อไป นั่นเป็นเหตุผลที่เราไม่แนะนำให้คุณปลดล็อก Fastboot ในอุปกรณ์ของคุณ</string>
     <string name="fastboot_locked_answer_3">คุณควรใช้โปรแกรมเครื่องมือปลดล็อกจากเว็บไซต์ MIUI โดยตรง ในการปลดล็อกเครื่องเราต้องการให้แน่ใจว่าเป็นเครื่องของคุณจริง คุณจึงควรลงชื่อเข้าใช้ด้วยบัญชี Mi และเปิดใช้การค้นหาอุปกรณ์ไว้ตลอด</string>
