@@ -25,6 +25,7 @@
     <string name="data_connection_button_text">ตกลง</string>
     <string name="data_connection_title">คำเตือนการใช้งานข้อมูล</string>
     <string name="delete">ลบ</string>
+    <string name="delete_cloud_data_at_same_time">ลบจากคลาวด์เช่นกัน</string>
     <string name="delete_dialog_message">ลบไฟล์เสียงที่บันทึกไว้หรือไม่?</string>
     <string name="deleting_message">กำลังลบ…</string>
     <string name="details">รายละเอียด</string>
@@ -107,6 +108,7 @@
     <string name="online_recognize_duration_limite">(เริ่มจาก 10 นาที)</string>
     <string name="online_recognize_fail">ไม่สามารถคัดสำเนาได้</string>
     <string name="online_recognize_login_fail">เข้าสู่ระบบไม่ได้</string>
+    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">เข้าสู่ระบบ</string>
     <string name="online_recognize_order_duration_key">ระยะเวลา</string>
     <string name="online_recognize_order_pay">ชำระและดูผล</string>
@@ -127,6 +129,7 @@
     <string name="online_recognize_service_unavailable">ไม่มีบริการในขณะนี้ รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="order_item_duration">ระยะเวลา: %s</string>
     <string name="order_item_number">หมายเลขสั่งซื้อ: %s</string>
+    <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">แอประบบ/บันทึกเสียง</string>
     <string name="pause">พัก</string>
     <string name="pay_error_cancel">การชำระถูกยกเลิก</string>
@@ -136,11 +139,13 @@
     <string name="playback_share_records">แชร์บันทึก</string>
     <string name="preference_enable_earpiece_summary">ใช้หูฟังภายในเครื่องสำหรับการเปิดฟังเสียง</string>
     <string name="preference_enable_earpiece_title">ใช้หูฟังภายในเครื่องเพื่อฟังเสียงที่บันทึก</string>
-    <string name="preference_led_indicator">การแจ้งเตือนในหน้าล็อกจอ</string>
+    <string name="preference_led_indicator">การแจ้งเตือนบนหน้าจอล็อก</string>
     <string name="preference_led_indicator_prompt">ขณะบันทึกเสียง แสดงปุ่มลัดไว้บนแถบสถานะและกระพริบไฟสถานะ</string>
     <string name="preference_online_orders">รายการสั่งซื้อออนไลน์</string>
     <string name="preference_recog_faqs">คำถามที่พบบ่อยเกี่ยวกับคัดสำเนาออนไลน์</string>
     <string name="preference_recog_terms">เงื่อนไขการให้บริการ</string>
+    <string name="preference_record_desktop_indicator_summary">แสดงตัวแสดงสถานะสีน้ำเงินบนหน้าจอหลักเมื่อตัวบันทึกกำลังทำงานในพื้นหลัง</string>
+    <string name="preference_record_desktop_indicator_title">ตัวแสดงสถานะหน้าจอหลัก</string>
     <string name="preference_record_scenes_dialog_title">เลือกวิธีการบันทึก</string>
     <string name="preference_scenes">ประเภทการบันทึก</string>
     <string name="preference_silent_mode">ปิดเสียงเตือนสายเรียกเข้าขณะบันทึกเสียง</string>
@@ -191,12 +196,15 @@
     <string name="record_format_preference_title">รูปแบบการบันทึก</string>
     <string name="record_list">ไฟล์เสียงที่บันทึกไว้</string>
     <string name="record_list_call">สายสนทนาที่บันทึกไว้</string>
+    <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">บันทึกเสียงสนทนาที่ซิงค์ไว้</string>
     <string name="record_list_cloud_call">รายการโทรที่ซิงค์ไว้</string>
     <string name="record_list_cloud_fm">บันทึกเสียงวิทยุที่ซิงค์ไว้</string>
     <string name="record_list_fm">บันทึกเสียงวิทยุ</string>
     <string name="record_list_item_recognize_text">ข้อความ</string>
     <string name="record_mark_point">ทำเครื่องหมาย %s</string>
+    <string name="record_name_hour">.</string>
+    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">คุณภาพการบันทึก</string>
     <string name="record_resotre">กู้คืนที่บันทึก</string>
     <string name="recording">การบันทึกเสียง</string>
@@ -262,6 +270,9 @@
     <string name="text_play_speed_1_0">ความเร็วในการเล่นปกติ</string>
     <string name="text_play_speed_1_5">ความเร็วในการเล่น 1.5X</string>
     <string name="text_play_speed_2_0">ความเร็วในการเล่น 2X</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s สามารถบันทึกเสียงได้ประมาณ %2$s</string>
     <string name="toast_uninstall_fileexplorer">ไม่ได้ติดตั้งตัวจัดการไฟล์</string>
     <string name="usage_description">กำลังทำสำเนารายการเสียงและซิงค์กับคลาวด์</string>

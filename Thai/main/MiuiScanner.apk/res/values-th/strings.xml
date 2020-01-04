@@ -61,6 +61,13 @@
     <string name="call_anyone">โทร</string>
     <string name="camera_error_title">ข้อผิดพลาดจากกล้อง</string>
     <string name="cancel">ยกเลิก </string>
+    <string name="carsHome_title">รถยนต์</string>
+    <string name="cars_is_public">เปิดตัวแล้ว</string>
+    <string name="cars_no_public">ยังไม่เปิดตัว</string>
+    <string name="cars_solution">"ผลลัพท์: "</string>
+    <string name="cars_suitability">"เหมือน: "</string>
+    <string name="cars_title">สแกนชิ้นส่วนรถยนต์หรือตัวรถยนต์</string>
+    <string name="carshome_data">สนับสนุนด้านเทคนิคโดย Autohome Inc.</string>
     <string name="check_for_updates">ตรวจสอบการอัปเดตเวอร์ชันเบต้า</string>
     <string name="choose_open_code_app">เลือกแอป</string>
     <string name="choose_pay_title">เลือกวิธีการชำระเงิน</string>
@@ -78,6 +85,7 @@
     <string name="continue_waiting">รอต่อไป</string>
     <string name="copy_text">คัดลอกข้อความ</string>
     <string name="copy_text_success">คัดลอกข้อความแล้ว</string>
+    <string name="copy_tracknum">คัดลอกรหัสติดตาม</string>
     <string name="crop_cancel_description">ยกเลิก</string>
     <string name="crop_done_description">เสร็จสิ้น</string>
     <string name="crop_title_study">ตัดรูปภาพ</string>
@@ -137,10 +145,12 @@
     <string name="got_it">รับทราบ</string>
     <string name="gps">การนำทาง</string>
     <string name="import_contact">นำเข้ารายชื่อ</string>
-    <string name="impunity_declaration_content">เครื่องสแกนต้องใช้กล้องและประมวลผลภาพที่คุณถ่ายขณะใช้แอป อย่าใช้เครื่องสแกนในการถ่ายภาพวัตถุที่มีข้อมูลส่วนบุคคลของคุณ โดยการแตะที่ \"เห็นด้วย\" คุณเห็นด้วยกับ &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"> นโยบายความเป็นส่วนตัว &lt;/a>&lt;/font> ของเรา และอนุญาตเครื่องสแกนเพื่อเชื่อมต่อกับอินเตอร์เนต</string>
+    <string name="impunity_declaration_content">เครื่องสแกนต้องใช้กล้องและประมวลผลภาพที่คุณถ่ายขณะใช้แอป อย่าใช้เครื่องสแกนในการถ่ายภาพวัตถุที่มีข้อมูลส่วนบุคคลของคุณ โดยการแตะที่ \"เห็นด้วย\" คุณเห็นด้วยกับ &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"> นโยบายความเป็นส่วนตัว &lt;/a>&lt;/font> ของเรา และอนุญาตเครื่องสแกนเพื่อเชื่อมต่อกับอินเตอร์เนต</string>
     <string name="impunity_declaration_negative_text">ออก</string>
     <string name="impunity_declaration_title">นโยบายความเป็นส่วนตัว</string>
     <string name="jd_shopping_title">ค้นหาบน JD</string>
+    <string name="jingdong">JD</string>
+    <string name="kuaidi100_data">ขับเคลื่อนโดย Kuaidi 100</string>
     <string name="label_choose_picture">เลือกรูปภาพ</string>
     <string name="label_flash_light">แสงแฟลช</string>
     <string name="language_entry_chinese_cn">ภาษาจีนประยุกต์</string>
@@ -150,6 +160,7 @@
     <string name="language_entry_japanese">ภาษาญี่ปุ่น</string>
     <string name="language_entry_korean">ภาษาเกาหลี</string>
     <string name="language_entry_spanish">ภาษาสเปน</string>
+    <string name="logistics">การจัดส่งด่วน</string>
     <string name="low_version_tip">อัปเดต MIUI เป็นเวอร์ชั่นล่าสุดเพื่อใช้งานตัวสแกน</string>
     <string name="miracast_connect">ฉายภาพ</string>
     <string name="miracast_connect_fail">ไม่สามารถฉายภาพได้ ลองอีกครั้ง</string>
@@ -158,6 +169,7 @@
     <string name="miracast_message">ฉายภาพหน้าจอไปที่ %s?</string>
     <string name="miracast_switch_off">แสดงผลแบบไร้สายปิดอยู่</string>
     <string name="miracast_switch_tip">เปิดใช้งานแสดงผลแบบไร้สายเพื่อใช้คุณลักษณะนี้</string>
+    <string name="mishop">Mi สโตร์</string>
     <string name="module_title_business_card">นามบัตร</string>
     <string name="module_title_code">รหัส QR</string>
     <string name="module_title_document">เอกสาร</string>
@@ -176,6 +188,7 @@
     <string name="not_insert_contact">ไม่สามารถเพิ่มรายชื่อได้</string>
     <string name="not_recommend_access_web_url">เยี่ยมชมต่อไป</string>
     <string name="note">หมายเหตุ</string>
+    <string name="now_state">"สถานะปัจจุบัน:  "</string>
     <string name="once">เพียงครั้งเดียว</string>
     <string name="open_url">เปิดลิงก์ URL</string>
     <string name="pay_no_tip">ไม่ต้องแสดงอีก</string>
@@ -188,10 +201,16 @@
     <string name="plant_reg_fail_2">ไม่รู้จักวัตถุนี้ ตัวสแกนสามารถระบุได้แค่พืชเท่านั้น</string>
     <string name="plant_support">" (สนับสนุนด้านเทคนิค)"</string>
     <string name="plant_title">สแกนพืชที่คุณต้องการทราบ</string>
+    <string name="please_try_again_later">รอประมาณ 1-2 นาทีแล้วลองอีกครั้ง</string>
     <string name="preparing_sd">กำลังเตรียมที่เก็บข้อมูลในเครื่อง…</string>
     <string name="previous">ย้อนกลับ</string>
     <string name="prompt">โปรดทราบ</string>
     <string name="qr_code_details">รายละเอียดรหัส QR:</string>
+    <string name="queryNum">ตรวจสอบรายการสั่งซื้อ</string>
+    <string name="query_faile">สถานะการสั่งซื้อและรายละเอียดยังไม่ได้รับการซิงค์ ตรวจสอบคำสั่งซื้อของคุณด้วยตนเอง</string>
+    <string name="query_inai">ให้ Mi AI ช่วยคุณ</string>
+    <string name="query_more">ข้อมูลเพิ่มเติม</string>
+    <string name="query_tracknum">ตรวจสอบคำสั่งซื้อจัดส่งด่วน</string>
     <string name="recognize">สแกน</string>
     <string name="recognize_fail">อ่านรหัสไม่ได้</string>
     <string name="request_server_failed">ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้</string>
@@ -200,6 +219,7 @@
     <string name="sdk_not_ready">กำลังเตรียม SDK ลองอีกครั้งในภายหลัง</string>
     <string name="secure_access_web_url">ไปยังเว็ปไซต์</string>
     <string name="see_app_details">ดูรายละเอียดแอป</string>
+    <string name="see_details">แตะเพื่อดูรายละเอียด</string>
     <string name="select_dialog_confirm">ตกลง</string>
     <string name="send_mail">ส่งอีเมล</string>
     <string name="setting_alipay">Alipay</string>
@@ -214,6 +234,13 @@
     <string name="shopping_title">ถ่ายภาพภาพของผลิตภัณฑ์</string>
     <string name="shopping_vendor_info">สนับสนุนโดย Taobao</string>
     <string name="spaceIsLow_content">เนื้อที่ใน SD การ์ดไม่เพียงพอ ล้างขยะเพื่อเพิ่มเนื้อที่ว่าง</string>
+    <string name="store_feedback_prompt">เขียนข้อเสนอแนะของคุณก่อน</string>
+    <string name="store_location_dialog">บริการนี้ให้บริการโดย Dianping รูปภาพทั้งหมดที่คุณถ่ายขณะใช้บริการนี้รวมถึงข้อมูลตำแหน่งที่เกี่ยวข้องจะถูกแชร์กับ Dianping เพื่อรับข้อมูลเกี่ยวกับร้านค้า</string>
+    <string name="store_location_fail">ไม่สามารถขอรับข้อมูลตำแหน่งพิกัดได้</string>
+    <string name="store_location_prompt">อนุญาตให้ ตัวสแกน เข้าถึงตำแหน่งพิกัดของคุณเพื่อให้สามารถระบุร้านค้า</string>
+    <string name="store_module_title">ร้านค้า</string>
+    <string name="store_no_date">ไม่สามารถระบุร้านค้า</string>
+    <string name="store_title">สแกนป้ายร้านค้า</string>
     <string name="study_rotate_picture">กำลังสร้างภาพ…</string>
     <string name="study_scan_result">ผลลัพธ์</string>
     <string name="study_searching">กำลังค้นหาผลลัพธ์…</string>
@@ -221,6 +248,7 @@
     <string name="study_vendor_info">ขับเคลื่อนโดย Zuoyebang</string>
     <string name="suggested_submission_success">ส่งความคิดเห็นของคุณสำเร็จแล้ว</string>
     <string name="switch_open">เปิดใช้งาน</string>
+    <string name="taobao">Taobao</string>
     <string name="tel">โทรศัพท์</string>
     <string name="title">หัวเรื่อง:</string>
     <string name="to_install_title">รหัส QR นี้นำคุณไปยังแอปที่ถอนการติดตั้งไปแล้ว ดาวน์โหลดแอปนี้หรือไม่?</string>
@@ -261,6 +289,7 @@
     <string name="url_is_unknown">ไม่สามารถตรวจสอบความปลอดภัยของเว็ปไซต์ได้</string>
     <string name="url_is_unsafety">เว็บไซต์นี้ไม่ปลอดภัย</string>
     <string name="vender_info_translation_kingsoft">ให้บริการโดย Kingsoft</string>
+    <string name="waybill_num">"การสั่งซื้อ: "</string>
     <string name="web">เว็บไซต์:</string>
     <string name="website_details">เว็บไซต์:</string>
     <string name="weixin_code_tip">สแกนรหัส QR นี้โดยใช้ WeChat</string>
@@ -274,6 +303,8 @@
     <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (ใบสมัครของคุณจะถูกส่งไปตรวจสอบในไม่ช้า)"</string>
     <string name="wx_not_installed_toast">คุณสมบัตินี้จำเป็นต้องใช้ WeChat ติดตั้ง WeChat ก่อน</string>
+    <string name="xiaoai_dialog">"ลองบอก Mi AI ว่าคุณ
+ต้องการสแกนอะไร"</string>
     <string name="you_have_permission_to_download">แตะเพื่อดาวน์โหลดเวอร์ชันเบต้า</string>
     <string name="you_id">"ID ของคุณ: "</string>
     <string name="your_application_is_under_review">" (ใบสมัครของคุณอยู่ระหว่างการตรวจสอบ)"</string>

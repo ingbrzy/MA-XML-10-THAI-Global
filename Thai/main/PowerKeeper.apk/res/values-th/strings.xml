@@ -92,6 +92,7 @@
     <string name="scenario_policies_summary">ใช้กลยุทธ์การประหยัดพลังงานที่แตกต่างกันตามสถานการณ์</string>
     <string name="scenario_policies_title">รูปแบบอัจฉริยะ</string>
     <string name="scenario_policies_warmcontrol">ควบคุมอุณหภูมิ</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">ไม่พบแอปไดๆ</string>
     <string name="show_system_app">แสดงแอประบบ</string>
     <string name="sleep_config_enhance_description">เมื่อใดก็ตามที่ MIUI ตรวจพบว่าคุณกำลังนอนหลับอยู่จะปิดแอปพื้นหลัง จำกัด NFC บลูทูธ GPS ข้อมูลมือถือและการใช้ Wi-Fi และจะไม่เปิดหน้าจอสำหรับการแจ้งเตือน</string>

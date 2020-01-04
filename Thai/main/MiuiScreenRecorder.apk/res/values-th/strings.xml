@@ -17,6 +17,9 @@
     <string name="cannot_change_parames">ไม่สามารถแก้ไขพารามิเตอร์ขณะบันทึกได้</string>
     <string name="cannot_record">ไม่สามารถบันทึกได้ ลองอีกครั้งในภายหลัง</string>
     <string name="close_screen_record">หยุดการบันทึกแล้ว</string>
+    <string name="date_day" />
+    <string name="date_month">/</string>
+    <string name="date_year">/</string>
     <string name="description_content">ตัวบันทึกหน้าจอให้คุณสมบัติในการบันทึกระดับระบบ การดำเนินการนี้จะทำให้ไม่สามารถใช้ตัวบันทึกหน้าจอได้ ยืนยันเพื่อดำเนินการต่อ</string>
     <string name="description_title">เกี่ยวกับตัวบันทึกหน้าจอ</string>
     <string name="deselect_all">ยกเลิกการเลือกทั้งหมด</string>
@@ -38,7 +41,7 @@
     <string name="home_title_none">เลือกรายการ</string>
     <string name="is_checked">เลือกแล้ว</string>
     <string name="is_go_home">กลับไปยังตัวบันทึกหน้าจอ</string>
-    <string name="is_go_home_summary">เปิดหน้าเริ่มต้นของตัวบันทึกหน่าจอหลังจากพักบันทึกชั่วคราว</string>
+    <string name="is_go_home_summary">เปิดหน้าเริ่มต้นของตัวบันทึกหน้าจอหลังจากพักบันทึกชั่วคราว</string>
     <string name="loopback_sound">ลำโพง</string>
     <string name="low_battery">ชาร์จโทรศัพท์ของคุณก่อนเริ่มการบันทึก</string>
     <string name="low_battery_title">แบตเตอรี่ต่ำ</string>
@@ -74,6 +77,10 @@
     <string name="show_hard_key_summary">เมื่อกดปุ่มโฮม เมนู และปุ่มย้อนกลับจะแสดงข้อความแจ้งเตือน</string>
     <string name="show_screen_touch">แสดงตำแหน่งของการแตะ</string>
     <string name="show_screen_touch_summary">แสดงตำแหน่งการแตะโดยใช้จุดสีขาว</string>
+    <string name="size_byte">B</string>
+    <string name="size_gigabyte">GB</string>
+    <string name="size_kilobyte">KB</string>
+    <string name="size_megabyte">MB</string>
     <string name="sound_source">แหล่งที่มาของเสียง</string>
     <string name="sound_source_summary">เสียงจากมือถือหรือจากไมค์</string>
     <string name="sound_source_summary_without_system_sounds">ใช้ไมโครโฟนหรือปิดเสียง</string>
@@ -85,6 +92,7 @@
     <string name="stop_recording">หยุดการบันทึก</string>
     <string name="storage_location">ที่จัดเก็บข้อมูล</string>
     <string name="storage_location_summary">เลือกตัวเลือกพื้นที่เก็บข้อมูลที่คุณต้องการ</string>
+    <string name="timer_format">%s</string>
     <string name="unchecked">ไม่ได้เลือกไว้</string>
     <string name="using_record_confirm_cancel">จำกัด</string>
     <string name="using_record_confirm_ok">อนุญาต</string>

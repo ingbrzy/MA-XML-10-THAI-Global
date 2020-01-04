@@ -26,13 +26,13 @@
     </string-array>
     <string-array name="alarm_set">
         <item>เสียงปลุกจะดังในอีก 1 นาทีหลังจากนี้</item>
-        <item>ปลุกในอีก %1$s หลังจากนี้</item>
-        <item>ปลุกในอีก %2$s หลังจากนี้</item>
-        <item>ปลุกในอีก %1$s %2$s หลังจากนี้</item>
-        <item>ปลุกในอีก %3$s หลังจากนี้</item>
-        <item>ปลุกในอีก %1$s และ %3$s หลังจากนี้</item>
-        <item>ปลุกในอีก %2$s และ %3$s หลังจากนี้</item>
-        <item>ปลุกในอีก %1$s %2$s and %3$s.</item>
+        <item>เสียงปลุกจะดังในอีก %1$s หลังจากนี้</item>
+        <item>เสียงปลุกจะดังในอีก %2$s หลังจากนี้</item>
+        <item>เสียงปลุกจะดังในอีก %1$s %2$s หลังจากนี้</item>
+        <item>เสียงปลุกจะดังในอีก %3$s หลังจากนี้</item>
+        <item>เสียงปลุกจะดังในอีก %1$s และ %3$s หลังจากนี้</item>
+        <item>เสียงปลุกจะดังในอีก %2$s และ %3$s หลังจากนี้</item>
+        <item>เสียงปลุกจะดังในอีก %1$s %2$s and %3$s.</item>
     </string-array>
     <string-array name="aqi_value">
         <item>ดีมาก</item>
@@ -51,6 +51,17 @@
         <item>20 นาที</item>
         <item>25 นาที</item>
         <item>30 นาที</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>จันทร์ - ศุกร์</item>
+        <item>ทุกวัน</item>
+        <item>วันทำงาน</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>ทุกวัน</item>
+        <item>วันจันทร์ - วันศุกร์</item>
+        <item>วันทำงาน</item>
+        <item>กำหนดเอง</item>
     </string-array>
     <string-array name="cities_names_miui">
         <item>อาบิดจัน</item>
@@ -633,6 +644,22 @@
         <item>ซูรินาม</item>
         <item>เอกวาดอร์</item>
     </string-array>
+    <string-array name="days_of_week">
+        <item>อาทิตย์</item>
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัส</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>ตามเวลาที่ตั้ง</item>
+        <item>ล่วงหน้า 15 นาที</item>
+        <item>ล่วงหน้า 30 นาที</item>
+        <item>ล่วงหน้า 1 ชั่วโมง</item>
+        <item>ไม่มี</item>
+    </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 นาที</item>
         <item>5 นาที</item>
@@ -641,6 +668,15 @@
         <item>20 นาที</item>
         <item>25 นาที</item>
         <item>30 นาที</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
     </string-array>
     <string-array name="time">
         <item>%1$s</item>
@@ -664,5 +700,10 @@
         <item>ไม่ต้องทำอะไร</item>
         <item>เลื่อนปลุก</item>
         <item>ยกเลิก</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="daily_suggestions_steps">
+        <item quantity="other">Walk at least %1$d steps every day</item>
+    </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d วัน</item>
+    </plurals>
+    <plurals name="dialog_choose_items">
+        <item quantity="other">Selected %1$d items</item>
+    </plurals>
+    <plurals name="dialog_delete_records_confirm">
+        <item quantity="other">Delete %1$d records?</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">เป้าหมาย: %1$d ก้าว</item>
@@ -9,8 +18,32 @@
     <plurals name="goal_unit">
         <item quantity="other">" ก้าว"</item>
     </plurals>
+    <plurals name="goal_unit_with_number">
+        <item quantity="other">%1$d steps</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d hrs</item>
+    </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">ประจำเดือน %1$d-วัน</item>
+    </plurals>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">Day %1$d (expected)</item>
+    </plurals>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">Day %1$d</item>
+    </plurals>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">Next period in %1$d days</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%1$d mins</item>
+    </plurals>
+    <plurals name="sleep_goal_by_hour">
+        <item quantity="other">Goal: %1$d hours</item>
+    </plurals>
+    <plurals name="sleep_management_exp_hours">
+        <item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d ก้าว</item>
@@ -41,6 +74,9 @@
     </plurals>
     <plurals name="title_menstruation_predict_period">
         <item quantity="other">วันที่ %1$d โดยประมาณของรอบประจำเดือน</item>
+    </plurals>
+    <plurals name="title_today_exercise_steps">
+        <item quantity="other">%1$d steps today</item>
     </plurals>
     <plurals name="unit_days">
         <item quantity="other">" วัน"</item>

@@ -51,6 +51,10 @@
         <item>อีเมลที่เก่ากว่า</item>
         <item>กล่องขาเข้า</item>
     </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>ทั้งหมด</item>
+        <item>Only senders</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>ที่อยู่:</item>
         <item>โทร:</item>

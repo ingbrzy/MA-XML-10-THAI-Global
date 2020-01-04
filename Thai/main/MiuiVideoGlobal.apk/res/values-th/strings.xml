@@ -111,6 +111,7 @@
     <string name="cast_forward">กรอไปข้างหน้า</string>
     <string name="cast_forward_10">กรอไปข้างหน้า 10 วินาที</string>
     <string name="cast_forward_30">กรอไปข้างหน้า 30 วินาที</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">ปิดเสียง</string>
     <string name="cast_notification_connected_message">เชื่อมต่อ %1$s แล้ว</string>
     <string name="cast_notification_connecting_message">กำลังเชื่อมต่อ %1$s</string>
@@ -168,6 +169,27 @@
     <string name="com_facebook_tooltip_default">คุณควบคุมได้ เลือกว่าคุณต้องการแชร์ข้อมูลใดกับแอพ</string>
     <string name="com_permission_desc">Mi วิดีโอ ไม่สามารถเข้าถึงวิดีโอในอุปกรณ์ของคุณได้ กรุณาอนุญาตให้เข้าถึงในการตั้งค่า</string>
     <string name="com_permission_title">ต้องการคำร้องขออนุญาต</string>
+    <string name="comment_model_add_comment">เพิ่มความคิดเห็น</string>
+    <string name="comment_model_bg_add_comment">แชร์ความคิดของคุณกับชุมชนของเรา</string>
+    <string name="comment_model_bg_deleted_comment">ความคิดเห็นนี้ถูกลบแล้ว</string>
+    <string name="comment_model_comment">ความคิดเห็น</string>
+    <string name="comment_model_confirm_delete">ลบความคิดเห็นตอนนี้?</string>
+    <string name="comment_model_copy">คัดลอก</string>
+    <string name="comment_model_copy_fail">คัดลอกไม่ได้</string>
+    <string name="comment_model_copy_success">คัดลอกเรียบร้อยแล้ว</string>
+    <string name="comment_model_delete">ลบ</string>
+    <string name="comment_model_delete_fail">ไม่สามารถลบได้</string>
+    <string name="comment_model_delete_success">ลบเรียบร้อยแล้ว</string>
+    <string name="comment_model_reply">ตอบกลับ</string>
+    <string name="comment_model_reply_comment">"ตอบกลับถึง %s: "</string>
+    <string name="comment_model_report">รายงาน</string>
+    <string name="comment_model_report_fail">ไม่สามารถรายงานได้</string>
+    <string name="comment_model_report_success">รายงานเรียบร้อยแล้ว</string>
+    <string name="comment_model_send_fail">ไม่สามารถส่งได้</string>
+    <string name="comment_model_send_fail_frequently">เร็วเกินไป! รอ 1-2 นาทีแล้วลองอีกครั้ง</string>
+    <string name="comment_model_send_forbid_desc">ความคิดเห็นที่เผยแพร่หลายรายการของคุณมีรายการที่ละเมิดมาตรฐานชุมชนของเรา บัญชีของคุณถูกระงับอย่างถาวรในขณะนี้ คุณสามารถอุทธรณ์การตัดสินใจของเราโดยใช้ข้อเสนอแนะในแอป</string>
+    <string name="comment_model_send_forbid_tips">บัญชีที่ถูกระงับ</string>
+    <string name="comment_model_send_success">ส่งเรียบร้อยแล้ว</string>
     <string name="common_cancel">ยกเลิก </string>
     <string name="common_google_play_services_enable_button">เปิดใช้</string>
     <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
@@ -192,14 +214,14 @@
     <string name="confirm_new_pwd">ยืนยันรหัสผ่านใหม่</string>
     <string name="confirm_unbundled_phone_dialog_message">หมายเลขโทรศัพท์นี้ไม่ได้ผูกกับบัญชี Mi %2$s เมื่อ %1$s หากดำเนินการต่อหมายเลขโทรศัพท์จะไม่ผูกกับบัญชี Mi %3$s อีกต่อไป ดำเนินการต่อหรือไม่?</string>
     <string name="content">เนื้อหา</string>
-    <string name="content_can_not_null">ไม่สามารถส่งข้อติชมโดยไม่มีคำอธิบายได้</string>
+    <string name="content_can_not_null">ไม่สามารถส่งข้อเสนอแนะโดยไม่มีคำอธิบายได้</string>
     <string name="data_empty">ไม่มีรายการ</string>
     <string name="description">รายละเอียด</string>
     <string name="diagnosis_log_send_failed">ไม่สามารถส่งบันทึกได้ ลองอีกครั้ง.</string>
     <string name="diagnosis_log_sent_format">"ส่งบันทึกการใช้สำเร็จแล้ว
 ID:%s
 ส่งรหัสนี้ไปยังที่ปรึกษา"</string>
-    <string name="dialog_privacy_info_new2">เพื่อให้สามารถใช้บริการได้ คุณต้องตกลงว่า %1$s จะรวบรวม ดำเนินการ และใช้ข้อมูลส่วนตัวของคุณ คุณจะถือว่าได้อ่านและตกลง &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> เมื่อคุณกด \"ตกลง\" ด้านล่างนี้</string>
+    <string name="dialog_privacy_info_new2">เพื่อให้สามารถใช้บริการได้ คุณต้องตกลงว่า %1$s จะรวบรวม ดำเนินการ และใช้ข้อมูลส่วนตัวของคุณ คุณจะถือว่าได้อ่านและตกลง &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> เมื่อคุณกด \"ตกลง\" ด้านล่างนี้</string>
     <string name="dialog_privacy_title">การให้สิทธิ์</string>
     <string name="dialog_revoke_privacy_info_new2">หลังจากที่คุณถอนการอนุญาต แอปนี้จะหยุดรวบรวมข้อมูล ข้อมูลที่เกี่ยวข้องจะถูกลบออกจากเซิฟเวอร์ การกระทำนี้อาจทำให้ไม่สามารถใช้งานแอปได้ ต้องการถอนคำอนุญาตหรือไม่？</string>
     <string name="dialog_revoke_privacy_title">กำลังเพิกถอนการให้สิทธิ์</string>
@@ -253,6 +275,7 @@ ID:%s
     <string name="favorite_cancel_success">ลบออกจากรายการโปรดเรียบร้อยแล้ว</string>
     <string name="favorite_fail">ไม่สามารถเพิ่มรายการโปรดได้ ลองใหม่อีกครั้ง.</string>
     <string name="favorite_success">เพิ่มไปยังรายการโปรดเรียบร้อยแล้ว</string>
+    <string name="fcm_fallback_notification_channel_label">เบ็ดเตล็ด</string>
     <string name="feedback">ข้อเสนอแนะ</string>
     <string name="feedback_activity_title">ข้อเสนอแนะ</string>
     <string name="feedback_contact_empty">ป้อนข้อมูลการติดต่อของคุณ</string>
@@ -336,7 +359,7 @@ ID:%s
     <string name="later">ภายหลัง</string>
     <string name="loading">รอสักครู่…</string>
     <string name="login">ลงชื่อเข้าใช้</string>
-    <string name="login_tip">ลงชื่อเข้าใช้เพื่อให้สามารถรับการตอบรับของข้อติชมของคุณจากเรา</string>
+    <string name="login_tip">ลงชื่อเข้าใช้เพื่อให้สามารถรับการตอบรับของข้อเสนอแนะของคุณจากเรา</string>
     <string name="logout">ออกจากระบบ</string>
     <string name="logout_account">ออกจากระบบ</string>
     <string name="lp_base_folder">SD การ์ด</string>
@@ -391,7 +414,7 @@ ID:%s
     <string name="lv_menu_hide">ซ่อน</string>
     <string name="lv_menu_selectAll">เลือกทั้งหมด</string>
     <string name="lv_menu_send">ส่ง</string>
-    <string name="lv_menu_unhide">แสดง</string>
+    <string name="lv_menu_unhide">เลิกซ่อน</string>
     <string name="lv_mplayer_error_io">ไม่สามารถอ่านไฟล์มีเดียได้</string>
     <string name="lv_mplayer_error_malformed">ไฟล์มีเดียไม่ถูกต้อง</string>
     <string name="lv_mplayer_error_server_died">เซิร์ฟเวอร์สื่อมีเดียล้มเหลว</string>
@@ -431,7 +454,7 @@ ID:%s
     <string name="lv_subtitle_onlinesub_loading">กำลังโหลดคำบรรยาย…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">กำลังโหลดคำบรรยาย…</string>
     <string name="lv_subtitle_onlinesub_right_declare">ข้อสงวนสิทธิ์</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">รับคำบรรยาย &lt;br/>&lt;br/> จาก &lt;a href=http://www.opensubtitles.org> opensubtitles.org&lt;/a> &lt;br/>&lt;br/> คำบรรยายออนไลน์ทั้งหมดมีให้โดย &lt;a href=http://www.opensubtitles.org> opensubtitles.org&lt;/a></string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">รับคำบรรยาย &lt;br/>&lt;br/> จาก &lt;a href=\"http://www.opensubtitles.org\"> opensubtitles.org&lt;/a> &lt;br/>&lt;br/> คำบรรยายออนไลน์ทั้งหมดมีให้โดย &lt;a href=\"http://www.opensubtitles.org\"> opensubtitles.org&lt;/a></string>
     <string name="lv_subtitle_onlinesub_save_failed">ไม่สามารถเพิ่มคำบรรยายได้</string>
     <string name="lv_subtitle_onlinesub_save_success">เพิ่มคำบรรยายเรียบร้อย</string>
     <string name="lv_subtitle_onlinesub_search_keyword">ป้อนคำค้นที่จะใช้ค้นหา</string>
@@ -501,8 +524,15 @@ ID:%s
     <string name="no_recommend_data">ไม่มีวิดีโอแนะนำตอนนี้</string>
     <string name="no_subscriptions">ไม่มีรายการ</string>
     <string name="not_show">ไม่ต้องแสดงอีก</string>
+    <string name="notice_comment_action">%s แสดงความคิดเห็นบนโพสของคุณ</string>
+    <string name="notice_comment_action_deleted">ความคิดเห็นนี้ถูกลบแล้ว</string>
+    <string name="notice_feedback_content">มีการอัปเดตเกี่ยวกับข้อเสนอแนะของคุณ แตะเพื่อดู</string>
+    <string name="notice_like_action">%s ถูกใจความคิดเห็นของคุณ</string>
+    <string name="notice_message_title">การแจ้งเตือน</string>
+    <string name="notice_title">ข้อความ</string>
     <string name="notify_apk_installed">ดาวน์โหลดเรียบร้อย</string>
     <string name="ok">ตกลง</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">การติดตามล่าสุด</string>
     <string name="order_recently_updated">อัปเดตล่าสุด</string>
     <string name="ovp_alert_dialog_download_install_task">กำลังดาวน์โหลด HD ปลั๊กอิน…</string>
@@ -510,6 +540,7 @@ ID:%s
     <string name="ovp_category">ประเภท</string>
     <string name="ovp_confirm_delete_favor">ลบรายการที่เลือกจากรายการโปรด?</string>
     <string name="ovp_default_plugin_name">HD ปลั๊กอิน</string>
+    <string name="ovp_detail_back_to_watch_more">ค้นพบรายการเพิ่มเติมในหน้าแรก</string>
     <string name="ovp_detail_collapse_summary">ซ่อน</string>
     <string name="ovp_detail_collect">เพิ่มไปยังรายการโปรด</string>
     <string name="ovp_detail_comment">ข้อคิดเห็น</string>
@@ -552,12 +583,14 @@ ID:%s
     <string name="ovp_loading_video_netplay_label_v5">รอสักครู่…</string>
     <string name="ovp_local_videos_title">วิดีโอในเครื่อง</string>
     <string name="ovp_navigation_category">หมวดหมู่</string>
+    <string name="ovp_navigation_content">ความร่วมมือด้านเนื้อหา</string>
     <string name="ovp_navigation_favorites">รายการโปรด</string>
     <string name="ovp_navigation_feedback">ข้อเสนอแนะ</string>
     <string name="ovp_navigation_history">ประวัติ</string>
     <string name="ovp_navigation_home">หน้าแรก</string>
     <string name="ovp_navigation_language">ภาษา</string>
     <string name="ovp_navigation_localvideo">ในเครื่อง</string>
+    <string name="ovp_navigation_notice">การแจ้งเตือน</string>
     <string name="ovp_navigation_setting">การตั้งค่า</string>
     <string name="ovp_navigation_subscribe">การสมัครใช้งาน</string>
     <string name="ovp_player_plugin_dlg_neg_btn">ปิด</string>
@@ -665,8 +698,8 @@ ID:%s
     <string name="passport_unknow_error">เกิดข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="passport_unknow_host_network_error">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองใหม่อีกครั้ง</string>
     <string name="passport_unknow_network_error">เครือข่ายขัดข้อง</string>
-    <string name="passport_user_agreement_link">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของ Xiaomi แล้ว&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>ฉันได้อ่านและยอมรับเอกสารดังกล่าวแล้ว: &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของ Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a>ของ Xiaomi แล้ว&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>ฉันได้อ่านและยอมรับเอกสารดังกล่าวแล้ว: &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%4$s\">นโยบายความเป็นส่วนตัว&lt;/a>ของ Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">ป้อนรหัสผ่านสำหรับ %1$s</string>
     <string name="passport_v_code_error">รหัสยืนยันไม่ถูกต้อง</string>
     <string name="passport_vcode_notification_title">การตรวจสอบการเข้าสู่ระบบของคุณไม่สมบูรณ์</string>
@@ -703,6 +736,7 @@ ID:%s
     <string name="playlist_title">รายการที่เล่น</string>
     <string name="plus_add_shortcut">สร้างปุ่มลัดหน้าจอหลัก</string>
     <string name="plus_change_poster">เปลี่ยนปกอัลบั้ม</string>
+    <string name="plus_continue_watching">ดูต่อไป</string>
     <string name="plus_deleting_wait">กำลังลบ</string>
     <string name="plus_fallback">ข้อเสนอแนะ</string>
     <string name="plus_gallery_allvideos">วิดีโอทั้งหมด</string>
@@ -721,6 +755,12 @@ ID:%s
     <string name="plus_gallery_video_title_mediatype">หมวดหมู่วีดีโอ</string>
     <string name="plus_gallery_video_title_othergallery">วีดีโออื่นๆ</string>
     <string name="plus_loading_text">กำลังโหลดไอเทม…</string>
+    <string name="plus_menu_delete">ลบ</string>
+    <string name="plus_menu_delete_popup_text">ลบทันที?</string>
+    <string name="plus_menu_properties">คุณสมบัติ</string>
+    <string name="plus_menu_rename">เปลี่ยนชื่อ</string>
+    <string name="plus_menu_rename_fail">ชื่อไฟล์ไม่สามารถประกอบด้วย \"/\"</string>
+    <string name="plus_menu_share">แชร์</string>
     <string name="plus_mine_gallery">อัลบั้มของฉัน</string>
     <string name="plus_mine_videos">วิดีโอของฉัน</string>
     <string name="plus_player_8k_video_not_support">ไม่สามารถเล่นวิดีโอ 8K บนอุปกรณ์นี้ได้</string>
@@ -759,7 +799,7 @@ ID:%s
     <string name="plus_player_subtitle_local_add_success">เพิ่มคำบรรยายเรียบร้อย</string>
     <string name="plus_player_subtitle_no_file">ไม่มีคำบรรยายที่นี่</string>
     <string name="plus_player_subtitle_online">คำบรรยายออนไลน์</string>
-    <string name="plus_player_subtitle_online_declare_content">คุณกำลังค้นหาคำบรรยาย &lt;br/> ในฐานข้อมูล &lt;a href=http://www.opensubtitles.org> opensubtitles.org &lt;/a> &lt;br/> คำบรรยายทั้งหมดจัดทำโดย &lt;a href=http://www.opensubtitles.org> opensubtitles.org &lt;/a></string>
+    <string name="plus_player_subtitle_online_declare_content">คุณกำลังค้นหาคำบรรยาย &lt;br/> ในฐานข้อมูล &lt;a href=\"http://www.opensubtitles.org\"> opensubtitles.org &lt;/a> &lt;br/> คำบรรยายทั้งหมดจัดทำโดย &lt;a href=\"http://www.opensubtitles.org\"> opensubtitles.org &lt;/a></string>
     <string name="plus_player_subtitle_online_declare_title">ข้อสงวนสิทธิ์</string>
     <string name="plus_player_subtitle_online_download_fail">ไม่สามารถดาวน์โหลดคำบรรยายได้</string>
     <string name="plus_player_subtitle_online_download_start">กำลังโหลดคำบรรยาย…</string>
@@ -768,9 +808,34 @@ ID:%s
     <string name="plus_player_subtitle_online_search_empty">ไม่พบคำบรรยายออนไลน์</string>
     <string name="plus_player_subtitle_online_search_hint">ป้อนคำค้นที่จะใช้ค้นหา</string>
     <string name="plus_player_subtitle_online_search_no_network">เครือข่ายขัดข้อง</string>
-    <string name="plus_player_unhide">แสดง</string>
+    <string name="plus_player_unhide">เลิกซ่อน</string>
     <string name="plus_player_video_not_support">ไม่รองรับวีดีโอประเภทนี้</string>
     <string name="plus_poster_reset_default">เรียกคืนปกเริ่มต้น</string>
+    <string name="plus_properties_bit_rate">บิทเรท</string>
+    <string name="plus_properties_codec">Codec</string>
+    <string name="plus_properties_date">วันที่</string>
+    <string name="plus_properties_file">ไฟล์</string>
+    <string name="plus_properties_file_name">ชื่อไฟล์</string>
+    <string name="plus_properties_finished">เสร็จสิ้น</string>
+    <string name="plus_properties_format">ประเภทไฟล์</string>
+    <string name="plus_properties_frame_rate">อัตราเฟรม</string>
+    <string name="plus_properties_last_playback_position">ตำแหน่งล่าสุด</string>
+    <string name="plus_properties_last_playback_time">เล่นล่าสุด</string>
+    <string name="plus_properties_length">ระยะเวลา</string>
+    <string name="plus_properties_media">สื่อ</string>
+    <string name="plus_properties_path">ตำแหน่งที่ตั้ง</string>
+    <string name="plus_properties_playback_history">ประวัติการเล่น</string>
+    <string name="plus_properties_resolution">ความละเอียด</string>
+    <string name="plus_properties_sample_rate">อัตราสุ่ม</string>
+    <string name="plus_properties_size">ขนาด</string>
+    <string name="plus_properties_status">สถานะ</string>
+    <string name="plus_properties_stream">รับฟัง</string>
+    <string name="plus_properties_stream_title">หัวเรื่อง</string>
+    <string name="plus_properties_type">ประเภท</string>
+    <string name="plus_properties_type_audio">เสียง</string>
+    <string name="plus_properties_type_subtitle">คำบรรยาย</string>
+    <string name="plus_properties_type_video">วีดีโอ</string>
+    <string name="plus_properties_unfinish">ยังไม่เสร็จ</string>
     <string name="plus_search_barhint">ค้นหาวีดีโอบนเครื่อง</string>
     <string name="plus_search_guide">ค้นหาวีดีโอ</string>
     <string name="plus_search_result_empty">ไม่พบผลลัพธ์การค้นหา</string>
@@ -810,6 +875,11 @@ ID:%s
     <string name="reload_sub_title">แตะเพื่อลองอีกครัั้ง</string>
     <string name="reload_title">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="report">รายงาน</string>
+    <string name="report_content_fakement">สแปมหรือฉ้อโกง</string>
+    <string name="report_content_illegal">คำแถลงการณ์ที่ผิดกฎหมาย</string>
+    <string name="report_content_other">อื่นๆ</string>
+    <string name="report_content_sexy">เนื้อหาทางเพศที่โจ่งแจ้ง</string>
+    <string name="report_content_violence">คำพูดแสดงความเกลียดชัง</string>
     <string name="report_fail">ไม่สามารถรายงานได้ กรุณาลองอีกครั้ง.</string>
     <string name="report_success">รายงานเรียบร้อยแล้ว</string>
     <string name="resend_active_email">ส่งใหม่</string>
@@ -862,6 +932,7 @@ ID:%s
     <string name="sns_bind_limit">มีความพยายามมากเกินไป ลองวิธีอื่นๆ ในการลงชื่อเข้าใช้</string>
     <string name="sns_sign_in">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
     <string name="source">"แหล่งที่มา: "</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD การ์ด</string>
     <string name="storage_internal_sdcard">พื้นที่จัดเก็บข้อมูลในเครื่อง</string>
     <string name="submit">ส่ง</string>

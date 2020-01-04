@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">เรียกดู %d การตอบกลับ</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">กำลังกลับไปที่หน้าหลักภายใน %1$d วินาที…</item>
     </plurals>
@@ -14,6 +17,9 @@
     </plurals>
     <plurals name="lv_video_count">
         <item quantity="other">%d วิดีโอ</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">เนื้อหาของคุณมีรายการ (%1$s) ที่ละเมิดมาตรฐานชุมชนของเรา บัญชีของคุณถูกระงับ %2$d วัน จนถึง %3$s.</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d วิดีโอ</item>
