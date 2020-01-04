@@ -403,7 +403,6 @@
     <string name="sort_by_not_defined">เรียงอัตโนมัติ</string>
     <string name="start_activity_failed">ชุดเรียกใช้ระบบไม่ทำงาน</string>
     <string name="starting_preset_app">กำลังเริ่ม…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">ดาวน์โหลดแล้ว</string>
     <string name="status_downloading">กำลังดาวน์โหลด…</string>
     <string name="status_installing">กำลังติดตั้ง</string>
