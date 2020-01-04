@@ -100,7 +100,6 @@
     <string name="aqi_quality_index_light_pollution">ควรระวัง</string>
     <string name="aqi_quality_index_moderate">ปานกลาง</string>
     <string name="aqi_quality_index_unhealthy">ไม่ดีต่อสุขภาพ</string>
-    <string name="auto_add_app_shortcut">新安装应用添加到桌面</string>
     <string name="auto_delete_category_dialog_content">แอปปัจจุบันจะถูกลบออกจากหมวดหมู่นี้และหมวดหมู่จะถูกลบ ลบหมวดหมู่นี้ทันทีหรือไม่?</string>
     <string name="auto_delete_category_dialog_title">กำลังลบหมวดหมู่</string>
     <string name="backup_fail">ไม่สามารถเปิดใช้การสำรองข้อมูลได้</string>
@@ -403,6 +402,7 @@
     <string name="sort_by_not_defined">เรียงอัตโนมัติ</string>
     <string name="start_activity_failed">ชุดเรียกใช้ระบบไม่ทำงาน</string>
     <string name="starting_preset_app">กำลังเริ่ม…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">ดาวน์โหลดแล้ว</string>
     <string name="status_downloading">กำลังดาวน์โหลด…</string>
     <string name="status_installing">กำลังติดตั้ง</string>
