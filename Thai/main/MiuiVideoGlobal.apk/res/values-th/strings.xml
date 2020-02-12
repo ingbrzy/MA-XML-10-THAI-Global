@@ -111,6 +111,7 @@
     <string name="cast_forward">กรอไปข้างหน้า</string>
     <string name="cast_forward_10">กรอไปข้างหน้า 10 วินาที</string>
     <string name="cast_forward_30">กรอไปข้างหน้า 30 วินาที</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">ปิดเสียง</string>
     <string name="cast_notification_connected_message">เชื่อมต่อ %1$s แล้ว</string>
     <string name="cast_notification_connecting_message">กำลังเชื่อมต่อ %1$s</string>
@@ -298,6 +299,7 @@ ID:%s
     <string name="fw_loading">รอสักครู่…</string>
     <string name="fw_reload_sub_title">แตะหน้าจอเพื่อลองอีกครั้ง</string>
     <string name="fw_reload_title">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
+    <string name="gallery_fold_tags">ซ่อนเครื่องหมาย</string>
     <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">กล้อง</string>
     <string name="gallery_folder_alias_download">ดาวน์โหลด</string>
@@ -330,6 +332,7 @@ ID:%s
     <string name="gallery_video_operate_text">การปรับแต่งสโลโมชั่น</string>
     <string name="gallery_video_save_video">กำลังสร้างวิดีโอ…</string>
     <string name="gallery_video_slow_edit">สโลโมชั่น</string>
+    <string name="gallery_view_tags">แสดงเครื่องหมาย</string>
     <string name="get_back_pwd">กำลังรีเซ็ตรหัสผ่าน</string>
     <string name="get_ph_ticket">รับรหัส</string>
     <string name="get_phone_bind_exceed_limit">คุณสามารถผูกหมายเลขโทรศัพท์กับบัญชี Mi ได้เกิน 3 บัญชี ไม่สามารถเพิ่มบัญชีใหม่ได้</string>
@@ -357,11 +360,16 @@ ID:%s
     <string name="language_setting_tips_dialog">คุณสามารถเปลี่ยนการตั้งค่าภาษาได้ใน บัญชี > ภาษา</string>
     <string name="later">ภายหลัง</string>
     <string name="loading">รอสักครู่…</string>
+    <string name="local_push_title">ยอดนิยมของวันนี้</string>
     <string name="login">ลงชื่อเข้าใช้</string>
     <string name="login_tip">ลงชื่อเข้าใช้เพื่อให้สามารถรับการตอบรับของข้อเสนอแนะของคุณจากเรา</string>
     <string name="logout">ออกจากระบบ</string>
     <string name="logout_account">ออกจากระบบ</string>
     <string name="lp_base_folder">SD การ์ด</string>
+    <string name="lp_play_mode_list_loop">เล่นวน</string>
+    <string name="lp_play_mode_pause">เล่นครั้งเดียว</string>
+    <string name="lp_play_mode_single_loop">เล่นวนครั้งเดียว</string>
+    <string name="lp_play_mode_title">โหมดการเล่น</string>
     <string name="lp_speed_title">ความเร็วที่เล่น</string>
     <string name="lp_speed_toast">เล่นที่ความเร็ว %sX …</string>
     <string name="lp_videoView_error_button">รับทราบ</string>
@@ -382,6 +390,7 @@ ID:%s
     <string name="lv_audio_track">แทร็กเสียง</string>
     <string name="lv_auto_update">อัปเดตในภายหลัง</string>
     <string name="lv_brightness">ความสว่าง</string>
+    <string name="lv_cast">ฉายภาพ</string>
     <string name="lv_check_delete_file">เลือกรายการที่จะลบ</string>
     <string name="lv_check_send_file">คุณสามารถส่งไฟล์ได้ครั้งละ 1 ไฟล์เท่านั้น</string>
     <string name="lv_confirm_delete_history">ลบรายการที่เลือกไว้?</string>
@@ -518,6 +527,7 @@ ID:%s
     <string name="next">ถัดไป</string>
     <string name="nick_name">ชื่อเล่น</string>
     <string name="no_account">ไม่ได้เข้าสู่ระบบ</string>
+    <string name="no_more_content">นั่นคือทั้งหมดตอนนี้</string>
     <string name="no_network_tips">ไม่สามารถใช้คุณสมบัตินี้ได้ในขณะนี้ การเข้าถึงเครือข่ายถูกจำกัด</string>
     <string name="no_phone">ไม่มีหมายเลขโทรศัพท์</string>
     <string name="no_recommend_data">ไม่มีวิดีโอแนะนำตอนนี้</string>
@@ -531,6 +541,7 @@ ID:%s
     <string name="notice_title">ข้อความ</string>
     <string name="notify_apk_installed">ดาวน์โหลดเรียบร้อย</string>
     <string name="ok">ตกลง</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">การติดตามล่าสุด</string>
     <string name="order_recently_updated">อัปเดตล่าสุด</string>
     <string name="ovp_alert_dialog_download_install_task">กำลังดาวน์โหลด HD ปลั๊กอิน…</string>
@@ -930,6 +941,7 @@ ID:%s
     <string name="sns_bind_limit">มีความพยายามมากเกินไป ลองวิธีอื่นๆ ในการลงชื่อเข้าใช้</string>
     <string name="sns_sign_in">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
     <string name="source">"แหล่งที่มา: "</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD การ์ด</string>
     <string name="storage_internal_sdcard">พื้นที่จัดเก็บข้อมูลในเครื่อง</string>
     <string name="submit">ส่ง</string>

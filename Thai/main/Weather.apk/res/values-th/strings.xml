@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="about_weather_setting">เกี่ยวกับสภาพอากาศ</string>
     <string name="about_weather_setting_feedback">ข้อเสนอแนะ</string>
     <string name="abrupt_weather_settings_summary_type">รับการแจ้งเตือนเกี่ยวกับปริมาณน้ำฝนที่คาดหวังการเปลี่ยนแปลงคุณภาพอากาศและการเปลี่ยนแปลงที่สำคัญอื่นๆ</string>
@@ -101,10 +128,12 @@
     <string name="daily_forecast_add_city_message">ติดตามสภาพอากาศใน %1$s สำหรับการคาดการณ์รายละเอียดเพิ่มเติม</string>
     <string name="daily_forecast_add_city_title">ติดตามสภาพอากาศใน %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"รับข้อมูลสภาพอากาศไม่ได้
 ลากลงเพื่อรีเฟรชหรือตรวจสอบการตั้งค่าเครือข่าย"</string>
     <string name="data_provided_by">ข้อมูลบางส่วนจาก</string>
     <string name="edit_city">จัดการเมือง</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">กำลังอัปเดต…</string>
     <string name="empty_view_net_unavailable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="empty_view_refresh">ลองอีกครั้ง</string>
@@ -126,6 +155,8 @@
     <string name="first_start_network_title">การเชื่อมกับต่ออินเตอร์เน็ตและการเข้าถึงตำแหน่ง</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">ขณะนี้</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">พยากรณ์อากาศ 24 ชั่วโมง</string>
     <string name="hourly_forecast_title_hourly_desc">พยากรณ์รายชั่วโมง</string>
@@ -139,11 +170,15 @@
     <string name="indices_title_feel">รู้สึกจริง</string>
     <string name="indices_title_pressure">ความกดอากาศ</string>
     <string name="install">ติดตั้ง</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ความกดอากาศ</string>
     <string name="international_details_title">รายละเอียด</string>
     <string name="international_details_uv_index_title">รังสียูวี</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ลม</string>
     <string name="it_is_going_to_rain">ฝนกำลังจะตก</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="life_index_title">ดัชนีสภาพอากาศ</string>
     <string name="locate_fail_detail_err">"ไม่สามารถระบุตำแหน่งอุปกรณ์ได้
 แตะที่หน้าจอเพื่อเพิ่มด้วยตนเองหรือเปลี่ยนตำแหน่ง"</string>
@@ -170,6 +205,7 @@
     <string name="minute_rain_refreshing_now">กำลังรีเฟรช…</string>
     <string name="missing_required_permission">คุณได้ปิดใช้การอนุญาตที่จำเป็น</string>
     <string name="more_details">รายละเอียดเพิ่มเติม</string>
+    <string name="more_expanded">เพิ่มเติม</string>
     <string name="network_not_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="network_unavailable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="night_not_disturb_settings_summary">ปิดเสียงแจ้งเตือนระหว่าง 23:00 - 7:00 น.</string>
@@ -227,6 +263,7 @@
     <string name="request_permission_read_phone_state_dialog_content">สำหรับการระบุอุปกรณ์ของคุณ</string>
     <string name="request_permission_storage_dialog_content">สำหรับการแชร์ข้อมูลสภาพอากาศในรูปแบบภาพ</string>
     <string name="retry">ลองอีกครั้ง</string>
+    <string name="search_menu_title">ค้นหา</string>
     <string name="search_weather">สภาพอากาศ</string>
     <string name="search_weather_keywords">อุณหภูมิ;พยากรณ์อากาศ;สภาพอากาศ;คุณภาพอากาศ;ระดับมลพิษ;ความชื้น</string>
     <string name="set_degree_centigrade">°C</string>
@@ -237,11 +274,13 @@
     <string name="share_menu_title">แชร์</string>
     <string name="share_subject">แชร์</string>
     <string name="share_weather_desc">\#MIUI สภาพอากาศ#วันนี้ %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ไม่สามารถจัดเก็บภาพหน้าจอได้</string>
     <string name="shortcut_short_label_24_hour_forecast">พยากรณ์อากาศ 24 ชั่วโมง</string>
     <string name="shortcut_short_label_recent_forecast">ตรวจสอบสภาพอากาศ</string>
     <string name="some_where_on_earth">ที่ไหนสักแห่งบนโลก</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunrise">พระอาทิตย์ขึ้น</string>
     <string name="sunset">พระอาทิตย์ตก</string>
     <string name="temperature_normal_unit">%1$s°</string>

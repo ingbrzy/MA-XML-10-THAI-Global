@@ -54,6 +54,7 @@
     <string name="action_item_hifi">หูฟังและเสียงเอฟเฟกต์</string>
     <string name="action_item_play_all">สลับทั้งหมด</string>
     <string name="action_item_play_next">เล่นในภายหลัง</string>
+    <string name="action_item_play_video">เล่นมิวสิควิดีโอ</string>
     <string name="action_item_remove">เอาออก</string>
     <string name="action_item_remove_from_favorite">เลิกชื่นชอบ</string>
     <string name="action_item_share">แชร์</string>
@@ -111,6 +112,7 @@
     <string name="artist_name">ศิลปิน</string>
     <string name="audio_picker_title">เลือกเพลง</string>
     <string name="auto_recommend">อัตโนมัติ (แนะนำ)</string>
+    <string name="auto_sound_quality">Auto</string>
     <string name="auto_update">อัปเดตโดยอัตโนมัติ</string>
     <string name="auto_update_tip">คุณสามารถอัปเดตแอประบบโดยใช้ข้อมูลมือถือ ซึ่งอาจทำให้เกิดค่าใช้จ่ายข้อมูลมือถือเพิ่มเติม</string>
     <string name="available_playlist_name_format">รายการเพลงใหม่ %d</string>
@@ -128,11 +130,13 @@
     <string name="button_wait_for_wifi">รอ</string>
     <string name="cancel">ยกเลิก</string>
     <string name="cancel_running_download">ยกเลิก</string>
+    <string name="cannot_download_to_sdcard_hint">ไม่สามารถดาวน์โหลดรายการไปยังการ์ด SD ได้เนื่องจากข้อจำกัดทางลิขสิทธิ์ รายการจะถูกดาวน์โหลดไปยังที่เก็บข้อมูลภายในแทน</string>
     <string name="change_download_quality">แก้ไขคุณภาพการดาวน์โหลด</string>
     <string name="checking_new_version">กำลังตรวจสอบเพื่ออัปเดต…</string>
     <string name="choose_download_quality">เลือกคุณภาพการดาวน์โหลด</string>
     <string name="choose_music_lang_pref">ภาษาที่ต้องการสำหรับเพลง</string>
     <string name="choose_stream_quality">เลือกคุณภาพการรับฟัง</string>
+    <string name="click_and_watch_video_tip">แตะเพื่อเล่นมิวสิควิดีโอ</string>
     <string name="click_to_add_album_cover_and_lyric">แตะเพื่อเพิ่มปกอัลบั้มและเนื้อเพลง</string>
     <string name="click_to_shuffle">แตะเพื่อชัฟเฟอร์</string>
     <string name="close_music_time">"เวลาที่เหลือ: "</string>
@@ -161,6 +165,7 @@
     <string name="connecting_apk">กำลังเชื่อมต่อ…</string>
     <string name="create_playlist">สร้างรายการเพลง</string>
     <string name="create_playlist_failure">สร้างรายการเพลงไม่ได้</string>
+    <string name="create_playlist_input_hint">ป้อนชื่อเพลย์ลิสต์</string>
     <string name="current_album">ปกอัลบั้มปัจจุบัน</string>
     <string name="current_lyric">เนื้อเพลงปัจจุบัน</string>
     <string name="current_version">เวอร์ชั่นปัจจุบัน</string>
@@ -209,7 +214,7 @@
     <string name="dialog_renew_positive_text">ใช่ ฉันอยากเจ๋งเหมือน PRO</string>
     <string name="dialog_renew_success">ขอบคุณสำหรับการยืนยันของคุณ</string>
     <string name="dialog_score_btn_good">คะแนน</string>
-    <string name="dialog_score_prompt_bad">ขอบคุณสำหรับความคิดเห็นของคุณ! เราจะพยายามอย่างเต็มที่เพื่อปรับปรุงแอปและบริการของเรา</string>
+    <string name="dialog_score_prompt_bad">ขอบคุณสำหรับข้อเสนอแนะของคุณ! เราจะพยายามอย่างเต็มที่เพื่อปรับปรุงแอปและบริการของเรา</string>
     <string name="dialog_score_prompt_good">ขอบคุณสำหรับการสนับสนุน! ให้คะแนนแอปของเราใน Google Play ด้วยหรือไม่?</string>
     <string name="dialog_score_title">ให้คะแนนแอปของเรา</string>
     <string name="dialog_song_sort_type">เรียงลำดับเพลง</string>
@@ -265,7 +270,9 @@
     <string name="download_method">ดาวน์โหลด</string>
     <string name="download_no_application_title">ไม่สามารถเปิดไฟล์ได้</string>
     <string name="download_paused_in_power_save_mode">การดาวน์โหลดจะถูกหยุดขณะอยู่ในโหมดประหยัดแบตเตอรี่</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">กำลังดาวน์โหลด…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">คุณภาพการดาวน์โหลด</string>
     <string name="download_quality_summary">การตั้งค่าเพิ่มเติมสำหรับเพลงที่ดาวน์โหลด</string>
     <string name="download_queued">อยู่ในคิวแล้ว</string>
@@ -346,7 +353,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -374,6 +383,7 @@
     <string name="fcm_fallback_notification_channel_label">เบ็ดเตล็ด</string>
     <string name="feed_back">ข้อเสนอแนะ</string>
     <string name="file_not_found">ไม่พบไฟล์นี้</string>
+    <string name="filter_by_MP4">แสดงโฟลเดอร์ที่มีไฟล์ MP4</string>
     <string name="filter_by_duration">ตามความยาว</string>
     <string name="filter_by_duration_max">%d นาที</string>
     <string name="filter_by_duration_min">%d วินาที</string>
@@ -403,9 +413,9 @@
     <string name="goto_online_search">ค้นหาออนไลน์</string>
     <string name="handle_later">ภายหลัง</string>
     <string name="hd_quality_audio">เสียงคุณภาพ HD</string>
-    <string name="headset_and_audio_effect_category">หูฟัง &amp; เสียงเอฟเฟกต์</string>
-    <string name="headset_and_audio_effect_summary">หูฟัง &amp; ตัวปรับแต่งเสียง</string>
-    <string name="headset_and_audio_effect_title">หูฟัง &amp; เสียงเอฟเฟกต์</string>
+    <string name="headset_and_audio_effect_category">หูฟังและเสียงเอฟเฟกต์</string>
+    <string name="headset_and_audio_effect_summary">หูฟังและตัวปรับแต่งเสียง</string>
+    <string name="headset_and_audio_effect_title">หูฟังและเสียงเอฟเฟกต์</string>
     <string name="hide_album">ซ่อนปกอัลบั้ม</string>
     <string name="hide_lyric">ซ่อนเนื้อเพลง</string>
     <string name="high_sound_quality">สูง</string>
@@ -415,6 +425,7 @@
     <string name="home_tab_local">เพลงของฉัน</string>
     <string name="home_tab_more_music">เพลงเพิ่มเติม</string>
     <string name="home_tab_online">เพลงออนไลน์</string>
+    <string name="home_tab_recommend">ออนไลน์</string>
     <string name="home_tab_search">ค้นหา</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">เฉพาะสมาชิกแบบ PRO เท่านั้นที่สามารถดาวน์โหลดได้หลายเพลง จะสมัครเป็นสมาชิกแบบ PRO ตอนนี้หรือไม่?</string>
@@ -471,7 +482,7 @@
     <string name="local_page_song_download_history">ดาวน์โหลด</string>
     <string name="login_instantly">ลงชื่อเข้าใช้</string>
     <string name="login_mi_account_and_gain_more_rights">ลงชื่อเข้าใช้ด้วยบัญชี Mi ของคุณเพื่อเข้าถึงคุณลักษณะเพิ่มเติม</string>
-    <string name="long_press_to_select_lyric">กด &amp; ค้างเพื่อเลือกไฟล์เพลงในเครื่อง</string>
+    <string name="long_press_to_select_lyric">กดค้างเพื่อเลือกไฟล์เพลงในเครื่อง</string>
     <string name="low_sound_quality">ต่ำ</string>
     <string name="lrc_search_failed">ไม่พบเนื้อเพลง</string>
     <string name="lrc_searching">กำลังค้นหา…</string>
@@ -515,7 +526,7 @@
     <string name="modify_song_info_success">อัปเดตข้อมูลเพลงแล้ว</string>
     <string name="more">เพิ่มเติม</string>
     <string name="more_add_song_list">เพิ่มเพลงไปยังคิว</string>
-    <string name="more_milink_and_bluetooth">Mi Link &amp; บลูทูธ</string>
+    <string name="more_milink_and_bluetooth">Mi Link และบลูทูธ</string>
     <string name="more_settings">การตั้งค่าขั้นสูง</string>
     <string name="more_settings_summary">ตั้งเวลาปิดเครื่อง คัดกรองไฟล์ และอื่นๆ</string>
     <string name="more_share">แชร์</string>
@@ -599,6 +610,7 @@
     <string name="online_apk_install_in_background">กำลังโหลดเนื้อหาออนไลน์ในพื้นหลัง…</string>
     <string name="online_apk_install_network_change_paused">คุณกำลังใช้ข้อมูลมือถือ พักการโหลดรายการสำหรับตอนนี้ แตะ%sเพื่อดู</string>
     <string name="online_apk_install_network_error">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง</string>
+    <string name="online_apk_install_tips">คุณต้องดาวน์โหลดปลั๊กอินของผู้ให้บริการเนื้อหานี้หนึ่งครั้ง คุณจะสามารถเข้าถึงเพลงได้โดยตรงในครั้งต่อไป</string>
     <string name="online_list_delete_message">เพลงที่ดาวน์โหลดทั้งหมดในรายการเพลงนี้จะถูกลบออกจากที่จัดเก็บข้อมูลภายใน</string>
     <string name="online_playlist_category">เพลย์ลิสต์</string>
     <string name="online_recommend">รายการเพลง</string>
@@ -661,6 +673,7 @@
     <string name="priority_storage_summary">ดาวน์โหลดเก็บไว้ใน SD การ์ดภายนอกโดยอัตโนมัติถ้ามี</string>
     <string name="privacy_desc">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=th_TH</string>
     <string name="pro_member">สมาชิก PRO</string>
     <string name="project_device">โทรศัพท์ Mi</string>
     <string name="prompt_grant_write_settings_permission">อนุญาตให้มีการเปลี่ยนแปลงการตั้งค่าระบบ</string>
@@ -738,6 +751,8 @@
     <string name="service_and_settings">บริการและการตั้งค่า</string>
     <string name="set_as_alarm_clock_ringtone">เสียงปลุก</string>
     <string name="set_as_ring">ตั้งเป็นเสียงเรียกเข้า</string>
+    <string name="set_online_home_subtitle">เปิดคำแนะนำออนไลน์เมื่อเปิดแอป</string>
+    <string name="set_online_home_title">แสดงคำแนะนำออนไลน์เมื่อเริ่มต้น</string>
     <string name="set_ringtones_failed">ไม่สามารถตั้งเป็นเสียงเรียกเข้า</string>
     <string name="set_ringtones_successful">ตั้ง %s เป็นเสียงเรียกเข้าแล้ว</string>
     <string name="setting_feature_setting">การตั้งค่าคุณลักษณะ</string>
@@ -786,6 +801,7 @@
     <string name="start_to_check_new_version">กำลังตรวจสอบเพื่ออัปเดต…</string>
     <string name="start_to_download">กำลังดาวน์โหลด…</string>
     <string name="start_to_play">เล่น</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">ที่จัดเก็บข้อมูลแอปโคลน</string>
     <string name="storage_internal">ที่จัดเก็บภายใน</string>
     <string name="storage_sd_card">SD การ์ด</string>
@@ -862,6 +878,7 @@
     <string name="upgrade_music_message">ไฟล์อัปเดตพร้อมแล้ว รีสตาร์ทเพื่ออัปเดต</string>
     <string name="upgrading_in_backstage">กำลังอัปเดตในพื้นหลัง…</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=th_TH</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="version_info">เวอร์ชั่น</string>
@@ -878,4 +895,5 @@
     <string name="wifi_required_title">คุณต้องเชื่อมต่อกับ Wi-Fi เพื่อดาวน์โหลดไฟล์นี้</string>
     <string name="you_can_switch_mode_in_settings">คุณสามารถสลับระหว่างโหมดในการตั้งค่า</string>
     <string name="you_may_like">คุณอาจจะชอบ</string>
+    <string name="youtube_play_history">ประวัติการเล่น</string>
 </resources>

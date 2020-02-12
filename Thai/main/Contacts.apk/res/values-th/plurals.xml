@@ -79,7 +79,7 @@
         <item quantity="other">%1$d รายชื่อที่มีข้อมูลเหมือนกันบางส่วน</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">รวมจาก %0$d แหล่ง</item>
+        <item quantity="other">รวมจาก %1$d แหล่ง</item>
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">ข้อความเสียง %1$d</item>
@@ -91,7 +91,7 @@
         <item quantity="other">%1$d คนจาก %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d กลุ่ม</item>
+        <item quantity="other">%1$d กลุ่ม</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">คงเหลือ %1$d รายการ</item>

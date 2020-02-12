@@ -9,6 +9,5 @@
     <string name="menu_add_frequent_phrases">เพิ่ม</string>
     <string name="menu_delete">ลบ</string>
     <string name="menu_edit">แก้ไข</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sync_phrase_label">คำที่ถูกใช้บ่อย</string>
 </resources>

@@ -23,13 +23,12 @@
     <string name="all_apps_no_search_results">ไม่พบผลลัพธ์การค้นหา</string>
     <string name="all_apps_search_app">ค้นหาแอป</string>
     <string name="all_apps_search_market_message">ค้นหาออนไลน์</string>
-    <string name="all_apps_setting_desktop_desc">แสดงแอพที่ติดตั้งทั้งหมดบนหน้าจอหลัก กดไอคอนของแอปค้างไว้เพื่อดูทางลัด จัดการหรือถอนการติดตั้งแอพ</string>
+    <string name="all_apps_setting_desktop_desc">แสดงแอปที่ติดตั้งทั้งหมดบนหน้าจอหลัก กดไอคอนของแอปค้างไว้เพื่อดูปุ่มลัด จัดการหรือถอนการติดตั้งแอป</string>
     <string name="all_apps_setting_desktop_title">ปกติ</string>
     <string name="all_apps_setting_drawer_desc">วางแอพที่ติดตั้งไว้ทั้งหมดลงในลิ้นชักแอปซึ่งสามารถเปิดได้โดยปัดขึ้นบนหน้าจอหลัก คุณจะยังสามารถค้นหาแอปที่คุณย้ายไปยังหน้าจอหลักในลิ้นชักแอปได้</string>
     <string name="all_apps_setting_drawer_tips_desc">ลิ้นชักแอปถูกเปิดขึ้นโดยการปัดขึ้นบนหน้าจอหลัก การสลับเป็นโหมดหน้าจอหลักด้วยลิ้นชักแอปจะทำให้ศูนย์เนื้อหาไม่สามารถใช้งานได้ สลับหรือไม่?</string>
     <string name="all_apps_setting_drawer_tips_title">ใช้งานลิ้นชักแอป</string>
     <string name="all_apps_setting_drawer_title">ด้วยลิ้นชักแอป</string>
-    <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">รูปแบบเดิม</string>
     <string name="all_apps_setting_scroll_bar">แถบเลื่อน</string>
     <string name="all_apps_setting_title">หน้าจอหลัก</string>
@@ -66,7 +65,6 @@
     <string name="announce_for_show_uninstall_dialog">มีการถอนการติดตั้งกล่องโต้ตอบ ยกเลิกหรือยืนยัน</string>
     <string name="announce_for_unchecked">%1$s ยังไม่เลือก</string>
     <string name="announce_for_widget_span">กว้าง %1$d, สูง %2$d</string>
-    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">มีแอปนี้อยู่ในเครื่องแล้ว</string>
     <string name="app_being_backup_message">ระบบกำลังสำรองข้อมูลแอป</string>
     <string name="app_being_restored_message">กำลังเรียกคืนค่าแอป</string>
@@ -86,7 +84,6 @@
     <string name="app_category_sport">กีฬา</string>
     <string name="app_category_tools">เครื่องมือ</string>
     <string name="app_category_travel">เดินทาง</string>
-    <string name="app_category_vr">VR</string>
     <string name="application_name">ตัวเรียกใช้ระบบ</string>
     <string name="apply">นำไปใช้</string>
     <string name="apply_action">นำไปใช้</string>
@@ -100,6 +97,7 @@
     <string name="aqi_quality_index_light_pollution">ควรระวัง</string>
     <string name="aqi_quality_index_moderate">ปานกลาง</string>
     <string name="aqi_quality_index_unhealthy">ไม่ดีต่อสุขภาพ</string>
+    <string name="auto_add_app_shortcut">วางแอปใหม่ไว้ที่หน้าจอหลัก</string>
     <string name="auto_delete_category_dialog_content">แอปปัจจุบันจะถูกลบออกจากหมวดหมู่นี้และหมวดหมู่จะถูกลบ ลบหมวดหมู่นี้ทันทีหรือไม่?</string>
     <string name="auto_delete_category_dialog_title">กำลังลบหมวดหมู่</string>
     <string name="backup_fail">ไม่สามารถเปิดใช้การสำรองข้อมูลได้</string>
@@ -116,9 +114,9 @@
     <string name="category_cannot_empty">ป้อนหมวดหมู่ก่อน</string>
     <string name="category_choose_no_app_select_tip">ต้องมีแอปอย่างน้อย 1 รายการในทุกหมวดหมู่</string>
     <string name="category_drawer_name_hint">ใส่ชื่อหมวดหมู่</string>
-    <string name="category_edit_back_confirm_dialog_content">Save changes now?</string>
-    <string name="category_edit_back_confirm_dialog_negative_button">"Don't save"</string>
-    <string name="category_edit_back_confirm_dialog_positive_button">Save</string>
+    <string name="category_edit_back_confirm_dialog_content">บันทึกการเปลี่ยนแปลงเดี๋ยวนี้?</string>
+    <string name="category_edit_back_confirm_dialog_negative_button">ไม่บันทึก</string>
+    <string name="category_edit_back_confirm_dialog_positive_button">บันทึก</string>
     <string name="category_group">จัดหมวดหมู่แอป</string>
     <string name="category_group_summary">จัดประเภทแอปในลิ้นชักแอป</string>
     <string name="category_not_selected">แอปที่ใช้งานได้</string>
@@ -138,18 +136,14 @@
     <string name="current_wallpaper">ปัจจุบัน</string>
     <string name="custom_wallpaper_picker">เรียกดู</string>
     <string name="defalut_launcher_title">ค่าเริ่มต้นชุดเรียกใช้ระบบ</string>
-    <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">เกมส์</string>
     <string name="default_folder_title_meitu">แอป Meitu</string>
-    <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">แอปอื่นๆ</string>
     <string name="default_folder_title_recommend">แอปเพิ่มเติม</string>
     <string name="default_folder_title_security">ระบบ</string>
     <string name="default_folder_title_services">บริการ</string>
-    <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">เครื่องมือ</string>
     <string name="default_screen_preview_title">ตั้งค่าหน้าจอเริ่มต้น</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">ลบ</string>
     <string name="delete_category_dialog_content">คุณจะไม่สามารถกู้คืนหมวดหมู่นี้ได้หากที่คุณลบออก ลบหรือไม่?</string>
     <string name="delete_category_dialog_title">ลบหมวดหมู่นี้</string>
@@ -158,8 +152,6 @@
     <string name="deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="disable_wallpaper_scroll">ภาพพื้นหลังเลื่อนตามไม่ได้</string>
     <string name="download_action">ดาวน์โหลด</string>
-    <string name="drag_multiple_item_name" />
-    <string name="drag_single_item_name" />
     <string name="drawer_background">พื้นหลัง</string>
     <string name="drawer_background_dark">มืด</string>
     <string name="drawer_background_light">แสง</string>
@@ -254,6 +246,7 @@
     <string name="home_pull_down_action">เลื่อนลงบนหน้าจอหลัก</string>
     <string name="home_screen">หน้าจอหลัก</string>
     <string name="home_slide_up_action">เลื่อนขึ้นบนหน้าจอหลัก</string>
+    <string name="home_switch_personal_assistant">หน้าจอ -1</string>
     <string name="icon_reorganize_channel">จัดเรียงไอคอน</string>
     <string name="icon_size">ขนาดไอคอน</string>
     <string name="image_too_small_message">รูปภาพต้นฉบับขนาดเล็กเกินไป</string>
@@ -263,6 +256,9 @@
     <string name="is_system_wallpaper_message">ไม่สามารถลบไฟล์ของระบบได้</string>
     <string name="launcher_not_exist">เกิดข้อผิดพลาด ย้อนกลับหน้าจอหลักและลองอีกครั้ง</string>
     <string name="launcher_pull_down_title">เลื่อนลงบนหน้าจอหลัก</string>
+    <string name="launcher_search_bar_title">แถบค้นหาหน้าจอหลัก</string>
+    <string name="launcher_search_bar_value_disable">ปิด</string>
+    <string name="launcher_search_bar_value_enable">เปิด</string>
     <string name="launcher_slide_up_title">เลื่อนขึ้นบนหน้าจอหลัก</string>
     <string name="launcher_sliding_up_gesture">เลื่อนหน้าจอหลักขึ้นเพื่อเปิดการค้นหา</string>
     <string name="launcher_title">หน้าจอหลักและล่าสุด</string>
@@ -302,9 +298,8 @@
     <string name="menu_wallpaper">ภาพพื้นหลัง</string>
     <string name="menu_workspace_preview">ตัวอย่างรายการหน้าจอหลัก</string>
     <string name="mi_wallpaper">ธีม MIUI</string>
-    <string name="minus_one_screen">App vault</string>
     <string name="miui_screen_config_title">การตั้งค่าหน้าจอหลัก</string>
-    <string name="mtzgadget_missing_text">วิดเจ็ทไม่สามารถใช้งานได้</string>
+    <string name="mtzgadget_missing_text">วิดเจ็ตไม่สามารถใช้งานได้</string>
     <string name="multi_selecting_tips">เพื่อจัดระเบียบแอป ลากไอคอนและวางที่นี่</string>
     <string name="no_detail_page">ไม่มีหน้ารายละเอียด</string>
     <string name="no_space_toast">พื้นที่ว่างไม่เพียงพอ</string>
@@ -313,13 +308,13 @@
     <string name="notification_installed">ติดตั้งเรียบร้อย</string>
     <string name="notification_open_button">เปิด</string>
     <string name="notification_reset_title">จัดเรียงไอคอนเรียบร้อยแล้ว</string>
+    <string name="one_key_call_title">แตะเพื่อโทร</string>
     <string name="online_wallpaper">ออนไลน์</string>
     <string name="open_personal_assistant_dialog_btn_cancel">ยกเลิก</string>
     <string name="open_personal_assistant_dialog_btn_confirm">ปิดใช้งาน</string>
     <string name="open_personal_assistant_dialog_desc">คุณไม่สามารถใช้ App vault และรับการอัปเดต ปิดใช้งานทันที?</string>
     <string name="open_personal_assistant_dialog_desc_international">คุณจะไม่สามารถใช้การ์ด App Vault (สต็อก, ปุ่มลัด ฯลฯ) และรับการอัปเดตหลังจากปิดคุณลักษณะนี้</string>
     <string name="open_personal_assistant_dialog_title">ปิดใช้ App vault</string>
-    <string name="open_personal_assistant_title">App vault</string>
     <string name="out_of_space">ไม่มีที่ว่างบนหน้าจอหลักแล้ว</string>
     <string name="permdesc_install_shortcut">อนุญาตให้แอปเพิ่ม ปุ่มลัดโดยอัตโนมัติ</string>
     <string name="permdesc_install_widget">อนุญาตให้แอปเพิ่ม วิดเจ็ตโดยอัตโนมัติ</string>
@@ -355,7 +350,6 @@
     <string name="quick_app">แอปด่วน</string>
     <string name="recent_apps">เมื่อเร็วๆนี้</string>
     <string name="recents_config_title">ล่าสุด</string>
-    <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">แอปเสนอแนะ</string>
     <string name="recommend_apps_default_title">ว่าง</string>
     <string name="recommend_apps_no_data">ไม่มีข้อมูล</string>
@@ -407,7 +401,10 @@
     <string name="status_installing">กำลังติดตั้ง</string>
     <string name="status_paused">หยุดพัก</string>
     <string name="status_pending">กำลังรอ…</string>
+    <string name="switch_personal_assistant_app_vault">แอป vault</string>
+    <string name="switch_personal_assistant_none">ไม่มี</string>
     <string name="system_shortcuts_more_operation">ข้อมูลแอป</string>
+    <string name="system_shortcuts_remove">ลบออก</string>
     <string name="system_text">ระบบ</string>
     <string name="title_jeejen">Jeejen หน้าจอหลัก</string>
     <string name="title_select_live_folder">เลือกโฟลเดอร์</string>
@@ -445,6 +442,6 @@
     <string name="widget_favorite_contacts_style">เปลี่ยนขนาด</string>
     <string name="widget_gadget_player">เพลง</string>
     <string name="widget_global_search">ค้นหา</string>
-    <string name="widget_quick_function">ฟังค์ชั่นทางลัด</string>
+    <string name="widget_quick_function">ฟังค์ชั่นปุ่มลัด</string>
     <string name="widgets_preview_title">เพิ่มวิดเจ็ต</string>
 </resources>

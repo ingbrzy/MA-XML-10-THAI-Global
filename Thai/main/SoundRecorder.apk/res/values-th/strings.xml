@@ -152,6 +152,10 @@
     <string name="preference_status_bar_indicator_prompt">แสดงแถบสถานะในขณะทำการบันทึก</string>
     <string name="preference_tip_rename">ตั้งชื่อไฟล์เสียงด้วยตนเอง</string>
     <string name="privacy_policy_title">นโยบายความเป็นส่วนตัว</string>
+    <string name="recognition_button_add_to_queue">เพิ่มลงในคิว</string>
+    <string name="recognition_button_cancel">ในภายหลัง</string>
+    <string name="recognition_button_start">ถอดความ</string>
+    <string name="recognition_confirm_dialog_body">การถอดความอาจใช้เวลาสักครู่ คุณจะได้รับการแจ้งเตือนเมื่องานนี้เสร็จสมบูรณ์ ถอดความตอนนี้หรือไม่?</string>
     <string name="recognition_error_cancel">ยกเลิกแล้ว</string>
     <string name="recognition_error_code">รหัสข้อผิดพลาด:%d</string>
     <string name="recognition_error_download_cancel">ภายหลัง</string>
@@ -167,6 +171,11 @@
     <string name="recognition_error_internal">ข้อผิดพลาดภายใน</string>
     <string name="recognition_error_stopped">หยุดการคัดสำเนา</string>
     <string name="recognition_error_unknown">เกิดข้อผิดพลาดที่ไม่รู้จัก รายงานให้เราทราบแล้วลองอีกครั้ง</string>
+    <string name="recognition_interrupt_current_dialog_body">การถอดความอาจใช้เวลาสักครู่ คุณจะได้รับการแจ้งเตือนเมื่องานนี้เสร็จสมบูรณ์ กำลังถอดความ \"%s\" ในขณะนี้ เพิ่มภารกิจนี้เข้าไปในคิวการถอดความหรือไม่?</string>
+    <string name="recognition_notification_channel">กำลังถอดความ</string>
+    <string name="recognition_notification_complete_success">ถอดความ \"%s\" สำเร็จแล้ว แตะเพื่อดู</string>
+    <string name="recognition_notification_error">ไม่สามารถถอดความ \"%s\"</string>
+    <string name="recognition_notification_running">กำลังถอดความ \"%s\"…</string>
     <string name="recognition_process_dialog_body">บันทึกอื่นๆ (%s) กำลังถูกคัดลอก หยุดงานที่กำลังดำเนินอยู่และเริ่มงานใหม่?</string>
     <string name="recognition_process_dialog_cancel">คิว</string>
     <string name="recognition_process_dialog_confirm">บังคับเริ่ม</string>
@@ -174,6 +183,7 @@
     <string name="recognition_status_downloaded">ดาวน์โหลดเครื่องมือคัดสำเนาเสร็จแล้ว</string>
     <string name="recognition_status_downloading">"กำลังดาวน์โหลด "</string>
     <string name="recognition_status_init">"กำลังเตรียม "</string>
+    <string name="recognition_stop_current">หยุดงานที่กำลังดำเนินอยู่</string>
     <string name="recognize_choose_dialog_offline">คัดสำเนาฟรี</string>
     <string name="recognize_choose_dialog_offline_desp">บันทึกการคัดสำเนาโดยไม่ต้องเชื่อมต่ออินเตอร์เน็ต</string>
     <string name="recognize_choose_dialog_online">คัดสำเนาในคลาวด์</string>

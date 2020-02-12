@@ -8,15 +8,9 @@
     <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
     <string name="abc_capital_off">ปิด</string>
     <string name="abc_capital_on">เปิด</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Space</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">เมนู+</string>
     <string name="abc_search_hint">ค้นหา…</string>
     <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
@@ -28,7 +22,6 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="search_menu_title">ค้นหา</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="Approval">สมัคร</string>
     <string name="Xiaomi_account_pending_approval">กำลังตรวจสอบใบสมัคร</string>
     <string name="about_title">เกี่ยวกับ</string>
@@ -36,7 +29,7 @@
     <string name="accessibility_shutter_button">ชัตเตอร์</string>
     <string name="action_search">ค้นหา</string>
     <string name="address">ที่อยู่:</string>
-    <string name="agree_app_use">สแกนรหัส QR และจดจำมันในภาพอื่นๆ</string>
+    <string name="agree_app_use">การสแกนรหัส QR และภาพอื่นๆ (คุณสมบัติบางอย่างอาจต้องมีการเข้าถึงตำแหน่งของคุณ)</string>
     <string name="agree_btn">ตกลง</string>
     <string name="agree_camera_permission">สำหรับการถ่ายภาพและบันทึกวิดีโอ</string>
     <string name="agree_storage_permission">สำหรับการเข้าถึงภาพถ่ายและไฟล์ที่เก็บไว้ในอุปกรณ์ของคุณ</string>
@@ -49,7 +42,6 @@
     <string name="back">ย้อนกลับ</string>
     <string name="barcode_into_rectangle">ป้อนรหัสลงในกรอบ</string>
     <string name="birthday">วันเกิด:</string>
-    <string name="blog">Weibo</string>
     <string name="business_card">นามบัตร</string>
     <string name="business_card_result_title">นามบัตร</string>
     <string name="business_card_title">ใส่นามบัตรลงในกรอบ</string>
@@ -59,6 +51,8 @@
     <string name="business_no_result">ไม่สามารถตรวจสอบนามบัตรได้ ลองอีกครั้ง</string>
     <string name="calender">ปฏิทิน</string>
     <string name="call_anyone">โทร</string>
+    <string name="calories_logo_text">การสนับสนุน AI จาก Health Hope</string>
+    <string name="calories_request_interface_text">การสนับสนุน AI</string>
     <string name="camera_error_title">ข้อผิดพลาดจากกล้อง</string>
     <string name="cancel">ยกเลิก </string>
     <string name="carsHome_title">รถยนต์</string>
@@ -95,7 +89,6 @@
     <string name="document_crop_title">ตัดภาพเอกสาร</string>
     <string name="document_grayscale">เอกสารขาวดำ</string>
     <string name="document_grayscale_tip_msg">กำลังแปลงเป็นเอกสารขาวดำ…</string>
-    <string name="document_ocr">OCR</string>
     <string name="document_ocr_result_copy">คัดลอกข้อความ</string>
     <string name="document_ocr_result_save">บันทึกไปยังบันทึกย่อ</string>
     <string name="document_ocr_result_title">รูปภาพเอกสาร</string>
@@ -149,7 +142,6 @@
     <string name="impunity_declaration_negative_text">ออก</string>
     <string name="impunity_declaration_title">นโยบายความเป็นส่วนตัว</string>
     <string name="jd_shopping_title">ค้นหาบน JD</string>
-    <string name="jingdong">JD</string>
     <string name="kuaidi100_data">ขับเคลื่อนโดย Kuaidi 100</string>
     <string name="label_choose_picture">เลือกรูปภาพ</string>
     <string name="label_flash_light">แสงแฟลช</string>
@@ -222,14 +214,12 @@
     <string name="see_details">แตะเพื่อดูรายละเอียด</string>
     <string name="select_dialog_confirm">ตกลง</string>
     <string name="send_mail">ส่งอีเมล</string>
-    <string name="setting_alipay">Alipay</string>
     <string name="setting_choose_every_time">ถามก่อนเสมอ</string>
     <string name="setting_default_function">คุณลักษณะเริ่มต้น</string>
     <string name="setting_function_sort">จัดเรียงคุณสมบัติใหม่</string>
     <string name="setting_preference_pay">วิธีการชำระเงินที่ต้องการ</string>
     <string name="setting_title">การตั้งค่า</string>
     <string name="setting_use_last_choose">จดจำตัวเลือกก่อนหน้านี้</string>
-    <string name="setting_wechat">WeChat</string>
     <string name="shopping_searching">กำลังค้นหา…</string>
     <string name="shopping_title">ถ่ายภาพภาพของผลิตภัณฑ์</string>
     <string name="shopping_vendor_info">สนับสนุนโดย Taobao</string>
@@ -248,7 +238,6 @@
     <string name="study_vendor_info">ขับเคลื่อนโดย Zuoyebang</string>
     <string name="suggested_submission_success">ส่งความคิดเห็นของคุณสำเร็จแล้ว</string>
     <string name="switch_open">เปิดใช้งาน</string>
-    <string name="taobao">Taobao</string>
     <string name="tel">โทรศัพท์</string>
     <string name="title">หัวเรื่อง:</string>
     <string name="to_install_title">รหัส QR นี้นำคุณไปยังแอปที่ถอนการติดตั้งไปแล้ว ดาวน์โหลดแอปนี้หรือไม่?</string>
@@ -294,13 +283,11 @@
     <string name="website_details">เว็บไซต์:</string>
     <string name="weixin_code_tip">สแกนรหัส QR นี้โดยใช้ WeChat</string>
     <string name="welcome_to_thesweepversion">ยินดีต้อนรับสู่ ตัวสแกนเวอร์ชั่นเบต้า!</string>
-    <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">ฮอตสปอต \"%1$s\" มีอยู่แล้ว ลบแล้วสแกนรหัสอีกครั้งเพื่อเชื่อมต่อ</string>
     <string name="wifi_open_fail">เปิดใช้งาน Wi-Fi ไม่ได้</string>
     <string name="wifi_psd_toolong">รหัสผ่านยาวเกินไป ป้อนรหัสผ่านด้วยตนเอง</string>
     <string name="wifi_pwd">รหัสผ่าน:</string>
     <string name="wifi_security">ความปลอดภัย:</string>
-    <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (ใบสมัครของคุณจะถูกส่งไปตรวจสอบในไม่ช้า)"</string>
     <string name="wx_not_installed_toast">คุณสมบัตินี้จำเป็นต้องใช้ WeChat ติดตั้ง WeChat ก่อน</string>
     <string name="xiaoai_dialog">"ลองบอก Mi AI ว่าคุณ
