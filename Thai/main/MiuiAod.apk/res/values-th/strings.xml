@@ -28,7 +28,6 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="search_menu_title">ค้นหา</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_battery_level">แบตเตอรี่ %d เปอร์เซ็นต์</string>
     <string name="accessibility_battery_level_charging">กำลังชาร์จแบตเตอรี่ %d เปอร์เซ็นต์</string>
     <string name="align_type">จัด</string>
