@@ -1222,7 +1222,6 @@ aptX Adaptive: โหมด Codec"</string>
 หากคุณได้ทำการใดๆข้างต้นไปแล้ว เพิ่มบัญชี Mi ของคุณอีกครั้ง; มิฉะนั้นคุณจะไม่สามารถปลดล็อกอุปกรณ์ของคุณได้"</string>
     <string name="bootloader_tips_ok">รับทราบ</string>
     <string name="bootloader_tips_warning">อย่าตัดการเชื่อมต่อจากเครือข่าย, ลงชื่อออกจากบัญชี Mi,​ ดำเนินการคืนค่าเริ่มต้นจากโรงงาน หรือลบข้อมูลระบบ</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">สีของไฟ</string>
     <string name="breathing_light_color_summary">สีของไฟสถานะเมื่อได้รับการแจ้งเตือนใหม่</string>
     <string name="breathing_light_freq_summary">กระพริบไฟสถานะเมื่อคุณได้รับการแจ้งเตือนใหม่</string>
@@ -2003,7 +2002,6 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="dialog_title_hdmi_color_calibration">การแก้ไขสีที่ตั้งไว้</string>
     <string name="dialog_title_login">เข้าสู่ระบบบัญชีของ Mi</string>
     <string name="dialog_yes">ใช่</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">หมายเหตุ: คุณสามารถใช้แป้นพิมพ์นี้ได้หลังจากรีบูตเครื่องเมื่อคุณปลดล็อกอุปกรณ์เท่านั้น</string>
     <string name="disable_overlays">ปิดใช้งานการวางซ้อน HW</string>
     <string name="disable_overlays_summary">ใช้ GPU เสมอสำหรับแสดงหน้าจอ</string>
@@ -2073,7 +2071,6 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="dndm_auto_button_title">ใช้โหมดห้ามรบกวนเวลานี้ตลอด</string>
     <string name="dndm_auto_setting_group">กำหนดเวลา</string>
     <string name="dndm_auto_time_setting">ตั้งเวลา</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">ถึง</string>
     <string name="dndm_auto_time_turn_off_title">ปิดใช้โหมดห้ามรบกวนโดยอัตโนมัติ</string>
     <string name="dndm_auto_time_turn_on">จาก</string>
@@ -3482,7 +3479,6 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="memory_title">ใช้งานได้: %1$s\u0009\u0009ทั้งหมด: %2$s</string>
     <string name="memory_usage">การใช้หน่วยความจำ</string>
     <string name="memory_usage_apps">หน่วยความจำที่แอปใช้</string>
-    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">ใช้หน่วยความจำเฉลี่ย %1$s ใน 3 ชั่วโมงล่าสุด</string>
     <string name="menu_cancel">ทิ้ง</string>
     <string name="menu_check">ประสบการณ์</string>
@@ -3894,7 +3890,6 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="nfc_how_it_works_got_it">รับทราบ</string>
     <string name="nfc_how_it_works_title">การชำระเงินที่เครื่องเทอร์มินัล</string>
     <string name="nfc_more_title">เพิ่มเติม...</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">แอปชำระเงินเริ่มต้น</string>
     <string name="nfc_payment_default_not_set">ไม่ได้ตั้งค่า</string>
     <string name="nfc_payment_favor_default">ใช้แอปเริ่มต้นเสมอ</string>
@@ -4203,7 +4198,6 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="overlay_settings">แสดงทับแอปอื่นๆ</string>
     <string name="overlay_toast_failed_to_apply">ใช้การวางซ้อนไม่สำเร็จ</string>
     <string name="owner_info_settings_edit_text_hint">เช่น Android ของสมชาย</string>
-    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">ไม่มี</string>
     <string name="owner_info_settings_title">ลายเซ็นต์หน้าจอล็อก</string>
     <string name="owner_space">พื้นที่ปกติ</string>
@@ -4393,7 +4387,6 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="power_remaining_less_than_duration_only">เหลือน้อยกว่า %1$s</string>
     <string name="power_remaining_more_than_subtext">เหลือมากกว่า %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">เหลือมากกว่า %1$s</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">หน้าจอ</string>
     <string name="power_settings_title">ประสิทธิภาพของระบบ</string>
     <string name="power_suggestion_extend_battery">ยืดอายุการใช้งานแบตเตอรี่ %1$s</string>
@@ -4614,8 +4607,6 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="private_sms_recording_intro_header">วาดรูปแบบเพื่อปลดล็อก:</string>
     <string name="private_sms_reset_by_account">เข้าระบบบัญชี Mi ของคุณเพื่อรีเซ็ตรหัสผ่าน</string>
     <string name="process_dex2oat_label">การเพิ่มประสิทธิภาพแอป</string>
-    <string name="process_format">%1$s (%2$d)</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_provider_in_use_description">ตัวให้บริการ %1$s ถูกใช้งานอยู่</string>
     <string name="process_service_in_use_description">บริการ %1$s ถูกใช้งานอยู่</string>
@@ -5327,7 +5318,6 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="security_encryption_attention_3">คุณต้องตั้งรหัสผ่านหน้าจอล็อกใหม่</string>
     <string name="security_encryption_attention_4">ให้แน่ใจว่าคุณจำรหัสผ่านหน้าจอล็อกของคุณได้ มิฉะนั้นคุณจะต้องรีเซ็ตและล้างข้อมูลทั้งหมดบนอุปกรณ์โดยสมบูรณ์</string>
     <string name="security_encryption_attention_info">คุณสามารถเข้ารหัสบัญชี, การตั้งค่า, แอปที่ดาวน์โหลดไว้และข้อมูล, สื่อมีเดียและไฟล์อื่นๆในนั้น</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">ข้อสำคัญ</string>
     <string name="security_encryption_close_dialog_info">การเลือกที่จะไม่เข้ารหัสอุปกรณ์โดยใช้รหัสผ่านหน้าจอล็อกอาจทำบริการบางอย่างของ Google ไม่สามารถใช้งานได้</string>
     <string name="security_encryption_close_dialog_title">คืนค่าการป้องกันรหัสผ่านเริ่มต้น</string>
@@ -5650,7 +5640,6 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sim_select_card">เลือกซิมการ์ด</string>
     <string name="sim_selection_channel_title">การเลือกซิม</string>
     <string name="sim_selection_required_pref">ต้องเลือก</string>
-    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">ซิมการ์ด</string>
     <string name="sim_setup_wizard_title">ซิมการ์ด</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -5666,7 +5655,6 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">ข้ามไปก่อน</string>
     <string name="skip_label">ข้าม</string>
@@ -5793,10 +5781,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="status_bar_app_enable_keyguard">หน้าจอล็อก</string>
     <string name="status_bar_app_enable_message">สัญลักษณ์ไอคอนแอป</string>
     <string name="status_bar_carrier_settings_no_sim_card">ไม่พบซิมการ์ด</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">การแจ้งเตือน &amp; แถบสถานะ</string>
     <string name="status_bar_settings_all_app_display_loading">รอสักครู่…</string>
-    <string name="status_bar_settings_carrier_sim">"ซิม %1$s: "</string>
     <string name="status_bar_settings_manage_notification">การแจ้งเตือนแอป</string>
     <string name="status_bar_settings_notification_bar">แถบการแจ้งเตือน</string>
     <string name="status_bar_settings_status_bar">แถบสถานะ</string>
@@ -6045,7 +6031,6 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sum_carrier_select">เลือกผู้ให้บริการเครือข่าย</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s ถึง %2$s</string>
     <string name="supl_not_set">&lt;ไม่ได้ตั้งค่า></string>
     <string name="support_summary">บทความช่วยเหลือ โทรศัพท์และแชท การเริ่มต้นใช้งาน</string>
@@ -7721,10 +7706,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="zone_auto_summaryOn">ใช้เวลาที่กำหนดโดยเครือข่ายผู้ให้บริการ</string>
     <string name="zone_auto_title">ใช้เขตเวลาที่ระบุโดยเครือข่าย</string>
     <string name="zone_change_to_from_dst">%1$s เริ่มในวันที่ %2$s</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">ใช้%1$s %2$s เริ่ม %3$s</string>
     <string name="zone_info_footer_no_dst">ใช้ %1$s ไม่มีเวลาออมแสง</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">เรียงตามตัวอักษร</string>
     <string name="zone_list_menu_sort_by_timezone">เรียงตามเขตเวลา</string>
     <string name="zone_menu_by_offset">เลือกตามความต่างเวลา UTC</string>
