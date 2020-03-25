@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">กลับ</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_query">คำค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="action_folder_description">เรียกดูโฟลเดอร์</string>
     <string name="action_mode_switcher_grid_description">มุมมองมีกรอบ</string>
     <string name="action_mode_switcher_list_description">แสดงรายการ</string>
@@ -36,11 +63,14 @@
     <string name="cloud_trash_bin_title">ลบบันทึกย่อในคลาวด์แล้ว</string>
     <string name="confirm_cancel">ไม่เห็นด้วย</string>
     <string name="confirm_ok">ยอมรับ</string>
+    <string name="copy">คัดลอก</string>
     <string name="cta_confirm_cancel">ไม่อนุญาต</string>
     <string name="cta_confirm_ok">อนุญาต</string>
     <string name="cta_dialog_message">การบันทึกต้องการสิทธิ์เชื่อมต่อกับเครือข่าย บันทึกเสียง และเข้าถึงรายชื่อเพื่อทำงานตามปกติ อนุญาตหรือไม่?</string>
     <string name="cta_dialog_title">ต้องการคำร้องขออนุญาต</string>
     <string name="cta_reminder">บันทึกย่อต้องการสิทธิ์เชื่อมต่อกับเครือข่าย บันทึกเสียง และเข้าถึงรายชื่อเพื่อทำงานตามปกติ อนุญาตหรือไม่?</string>
+    <string name="data_empty_note">ยังไม่มีบันทึกย่อที่นี่</string>
+    <string name="data_empty_todo">ยังไม่มีงานที่นี่</string>
     <string name="date_calculate_today">0 วัน</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -90,6 +120,7 @@
     <string name="error_unsupport_content">บันทึกย่อนี้มีเนื้อหาที่ไม่รองรับ แตะที่นี่เพื่ออัปเดต</string>
     <string name="error_widget_exist_for_send_to_desktop">บันทึกย่อนี้อยู่บนหน้าจอหลักของคุณอยู่แล้ว</string>
     <string name="exceed_todo_text_limitation">รายละเอียดงานยาวเกินไป</string>
+    <string name="expand_button_title">ขั้นสูง</string>
     <string name="first_enter_custom_folder_hint">คุณสามารถเปลี่ยนชื่อ หรือลบโฟลเดอร์ต่อไปนี้</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
@@ -137,6 +168,7 @@
     <string name="new_audio_create_guide_tip">กดค้างไว้เพื่อสร้างบันทึกเสียง</string>
     <string name="new_audio_create_talkback_des">แตะเพื่อสร้างโน้ตย่อ กดค้างไว้เพื่อสร้างบันทึกเสียง ปล่อยปุ่มเพื่อหยุดการบันทึกและสร้างบันทึกย่อหรือเลื่อนขึ้นเพื่อยกเลิก</string>
     <string name="not_now">ไม่ใช่ตอนนี้</string>
+    <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="note_description_content">แอปบันทึกย่อ เป็นเครื่องมือที่ยอดเยี่ยมสำหรับการบันทึกไอเดียของคุณ มีการแจ้งเตือนในตัวและซิงค์รายการของคุณกับคลาวด์ เพื่อให้คุณสามารถเข้าถึงได้ทุกที่ทุกเวลา ตรวจสอบให้แน่ใจว่าคุณรู้และเข้าใจคุณลักษณะเหล่านี้ก่อนที่จะลบแอป</string>
     <string name="note_description_title">เกี่ยวกับบันทึกย่อ</string>
     <string name="note_link_email">เขียนอีเมล</string>
@@ -147,6 +179,8 @@
     <string name="note_sort_way">เลือกเรียงลำดับบันทึกย่อของคุณที่ต้องการ</string>
     <string name="notealert_enter">เปิดบันทึก</string>
     <string name="notealert_ok">เลิกแสดง</string>
+    <string name="notelist_string_info">…</string>
+    <string name="notification_content_add_todo_from_other_app">คุณได้เพิ่มงานใหม่ แตะเพื่อดู</string>
     <string name="notify_alarm_title">การเตือนของบันทึกย่อ</string>
     <string name="permdesc_accessNote">แอปต้องสงสัยอาจใช้วิธีนี้ในการเข้าถึงข้อมูลส่วนบุคคลของคุณ</string>
     <string name="permission_get_account_desc">กำลังซิงค์บันทึกกับคลาวด์</string>
@@ -171,6 +205,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">ลบการใช้ท่าทาง</string>
     <string name="pref_title_todo_float_mode">ใช้กล่องเครื่องมืองาน</string>
     <string name="pref_title_todo_shorcut">กล่องเครื่องมือ</string>
+    <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacy_note_content_empty">ยังไม่มีรายการ</string>
     <string name="recover_notes_hint">เกิดข้อผิดพลาด เข้าไปที่ i.mi.com เพื่อกู้คืนบันทึกย่อ</string>
     <string name="redo">ทำซ้ำ</string>
@@ -211,6 +246,7 @@
     <string name="search_hint">ค้นหาบันทึกย่อ</string>
     <string name="search_keyword_notes">บันทึกย่อ;ความจำ</string>
     <string name="search_label">กำลังค้นหา…</string>
+    <string name="search_menu_title">ค้นหา</string>
     <string name="search_path_notes">แอประบบ/บันทึกย่อ</string>
     <string name="search_setting_description">ค้นหาข้อความในบันทึกย่อของคุณ</string>
     <string name="select_account_prompt">ซิงค์บันทึกย่อ</string>
@@ -235,6 +271,8 @@
     <string name="sns_title_send">ส่งข้อความ</string>
     <string name="sns_toast_empty">ไม่สามารถส่งข้อความว่างเปล่าได้</string>
     <string name="sns_toast_over_limit">ส่งเป็นรูปภาพแล้ว</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sync_tips">แตะเพื่อซิงค์บันทึกย่อไว้บนคลาวด์</string>
     <string name="theme_blue_description">สีน้ำเงิน</string>
     <string name="theme_green_description">สีเขียว</string>
@@ -345,6 +383,8 @@
     <string name="unclassfied_folder_name">ไม่มีหมวดหมู่</string>
     <string name="undo">เลิกทำ</string>
     <string name="unknown_source">ไม่ทราบที่มา</string>
+    <string name="v7_preference_off">ปิด</string>
+    <string name="v7_preference_on">เปิด</string>
     <string name="widget_content_loading">รอสักครู่…</string>
     <string name="widget_havenot_content">แตะเพื่อสร้างบันทึก กดที่วิดเจ็ตค้างไว้เพื่อปรับขนาด</string>
 </resources>

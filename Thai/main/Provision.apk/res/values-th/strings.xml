@@ -35,6 +35,7 @@
     <string name="content_description_start">เริ่มต้น</string>
     <string name="content_introduction">ศูนย์เนื้อหาจะรวมเนื้อหาและบริการจากหลายช่องทาง ที่นี่คุณสามารถ อ่านบทความ ดูวิดีโอ ดูรายการเด่นประจำวัน และรับคำแนะนำเนื้อหา</string>
     <string name="continue_to_enable_accessibility">แตะสองนิ้วค้างเพื่อเปิดใช้งานสิ่งอำนวยความสะดวก</string>
+    <string name="data_traffic_enable_dialog_title">หากคุณไม่ได้เชื่อมต่อกับ Wi-Fi ในตอนนี้ อุปกรณ์ของคุณจะใช้ข้อมูลมือถือ การใช้ข้อมูลมือถืออาจสร้างค่าธรรมเนียมผู้ให้บริการเพิ่มเติม</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">ใช้ลายนิ้วมือของคุณในการปลดล็อกเครื่อง ชำระเงินผ่าน Mi Pay หรือใช้เพื่อเข้าสู่ระบบของแอปหรือบริการต่างๆ</string>
@@ -59,7 +60,7 @@
     <string name="font_hint_large">ค่าเริ่มต้นขนาดข้อความ</string>
     <string name="font_hint_normal">เพิ่มขนาดข้อความ</string>
     <string name="framework_introduction">ขอบข่ายการบริการ Mi อนุญาตให้คุณใช้บัญชี Mi, Mi Push, Mi Stats และ MIUI BI</string>
-    <string name="framwork_base_service">เพื่อให้บริการเหล่านี้ ขอบข่ายการบริการ Mi (บัญชี Mi, Mi Push, สถิติ Mi, MIUI BI) จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเข้าถึงหมายเลขโทรศัพท์ IMEI และ IMSI ของคุณและอนุญาตให้อุปกรณ์ของคุณรับการแจ้งเตือนแบบ Push</string>
+    <string name="framwork_base_service">เพื่อให้บริการเหล่านี้ ขอบข่ายการบริการ Mi (บัญชี Mi, Mi Push, สถิติ Mi, MIUI BI) จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเข้าถึง ตำแหน่งพิกัด, หมายเลขโทรศัพท์ IMEI และ IMSI ของคุณและอนุญาตให้อุปกรณ์ของคุณรับการแจ้งเตือนแบบ Push</string>
     <string name="game_introduction">ปลั๊กอินเกมส์อนุญาตให้คุณ ลงชื่อเข้าใช้ สร้างคำสั่งซื้อ ชำระเงินให้เสร็จสมบูรณ์ ใช้คูปอง และเข้าร่วมกิจกรรมโปรโมชั่น</string>
     <string name="google_service_introduction">เพื่อให้สามารถทำงานได้ตามปกติ Google Play ต้องเชื่อมต่ออินเทอร์เน็ต เข้าถึงตำแหน่งของคุณ สามารถบันทึกเสียง โทรออก เข้าถึงกิจกรรมในปฏิทิน ประวัติการโทร เซ็นเซอร์ ที่จัดเก็บข้อมูล กล้อง ข้อมูลอุปกรณ์ และบัญชี</string>
     <string name="ime_privacy_policy">นโยบายความเป็นส่วนตัวสำหรับแป้นพิมพ์ที่เลือก</string>
@@ -146,6 +147,8 @@
     <string name="permission_virusscan_introduction">สำหรับทำการสแกนไวรัสและปรับแต่งอุปกรณ์ของคุณ</string>
     <string name="permission_xunlei_introduction">สำหรับการลงชื่อเข้าใช้และจัดการบัญชีระบบเพื่อให้บริการ Xunlei</string>
     <string name="poco_agree_terms_other">(รวมถึงนโยบายความเป็นส่วนตัวและข้อตกลงผู้ใช้ ของ POCO launcher)</string>
+    <string name="poco_launcher_privacy_policy">นโยบายความเป็นส่วนตัวของ POCO launcher</string>
+    <string name="poco_launcher_user_agreement">ข้อตกลงการใช้งานของ POCO Launcher</string>
     <string name="pref_title_data_slot">ซิมที่ใช้งานข้อมูลเป็นหลัก</string>
     <string name="pref_title_voice_slot">ซิมที่ใช้โทรออกเป็นหลัก</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
@@ -214,11 +217,11 @@
     <string name="terms_of_use_label_systemhelper">, บริการลงทะเบียนด้วยตนเอง</string>
     <string name="terms_of_use_label_updater">, ตัวอัปเดต</string>
     <string name="terms_of_use_lable_apps">บริการ Mi, การเปิดใช้งานบริการ Mi SIM, Xiaomi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, ศูนย์เกมส์, MIUI Daemon และ ระบบส่วนประกอบ MSA, บริการการแปล, แอปด่วน, App vault, สถิติ, Mi Link</string>
-    <string name="terms_of_use_lable_default_input_method_facemoji">"r
-r
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
+
 คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ Facemoji ก่อนที่จะใช้คุณลักษณะนี้"</string>
-    <string name="terms_of_use_lable_default_input_method_kika">"r
-r
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
 คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ Kika ก่อนที่จะใช้คุณลักษณะนี้"</string>
     <string name="terms_of_use_lable_gms">, Google Play services</string>
     <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
@@ -227,7 +230,7 @@ r
     <string name="terms_privacy_policy_input_method_kika">นโยบายความเป็นส่วนตัว Kika</string>
     <string name="title_fingerprint">ตั้งรหัสผ่าน</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
-    <string name="user_agreement_declare">ก่อนที่จะใช้ MIUI คุณต้องอ่านและยอมรับข้อตกลงผู้ใช้และนโยบายความเป็นส่วนตัวของเรา ในขณะที่อุปกรณ์ของคุณกำลังเปิดใช้งาน การเปิดใช้งานบริการ Mi SIM, หน้าจอหลัก, วลีที่ใช้บ่อย, บริการแปลภาษา, MIUI Daemon และ ตัวอัพเดท จะเชื่อมต่อกับเครือข่าย MSA จะเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณ</string>
+    <string name="user_agreement_declare">ก่อนที่จะใช้ MIUI คุณต้องอ่านและยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเรา ในขณะที่อุปกรณ์ของคุณกำลังเปิดใช้งาน การเปิดใช้งานบริการ Mi SIM, Xiaomi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, วลีที่ใช้บ่อย, บริการแปลภาษา, MIUI Daemon, ตัวเรียกดู HTML, ผู้ช่วย AI, แบตเตอรี่และประสิทธิภาพ, ตัวตรวจจับพลังงาน, Joyose, การตั้งค่า OS AI และ ตัวอัพเดท จะเชื่อมต่อกับเครือข่าย บริการอัจฉริยะ จะเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณ</string>
     <string name="voice_assist_advice">Mi AI อณุญาตให้คุณใช้การควบคุมด้วยเสียง แต่จะใช้พลังงานมากกว่าเดิม (+1% ทุกชั่วโมง)</string>
     <string name="voice_assist_condition">"คุณจะสามารถใช้งาน Mi AI ได้ในกรณี:r
 1. เมื่อหน้าจอเปิดอยู่r

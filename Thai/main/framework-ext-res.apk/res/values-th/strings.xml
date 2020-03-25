@@ -83,6 +83,7 @@
     <string name="handy_mode_summary">ออกจากโหมดนี้ได้โดยแตะบริเวณที่ว่างขอบจอ</string>
     <string name="handy_mode_title">โหมดถนัดมือ</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">วางนิ้วของคุณลงบนปุ่มโฮม</string>
+    <string name="input_method_clipboard_tips">รายการที่คัดลอกจะถูกลบออกจากคลิปบอร์ดหลังจาก 48 ชั่วโมง</string>
     <string name="input_method_edit_phrase_text">เพิ่มคำที่ถูกใช้บ่อย</string>
     <string name="input_method_no_content_text">ยังไม่มีรายการ</string>
     <string name="input_method_switch_settings_text">การตั้งค่าแป้นพิมพ์</string>

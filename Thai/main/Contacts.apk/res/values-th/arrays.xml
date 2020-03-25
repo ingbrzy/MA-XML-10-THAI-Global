@@ -2,6 +2,6 @@
 <resources>
     <string-array name="otherLabels">
         <item>องค์กร</item>
-        <item>บันทึก</item>
+        <item>บันทึกย่อ</item>
     </string-array>
 </resources>

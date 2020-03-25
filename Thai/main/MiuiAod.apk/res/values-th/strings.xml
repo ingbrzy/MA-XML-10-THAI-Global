@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="above_image">ขึ้น</string>
     <string name="accessibility_battery_level">แบตเตอรี่ %d เปอร์เซ็นต์</string>
     <string name="accessibility_battery_level_charging">กำลังชาร์จแบตเตอรี่ %d เปอร์เซ็นต์</string>
     <string name="align_type">จัด</string>
@@ -42,19 +44,22 @@
     <string name="aod_mode_summary">แสดงนาฬิกา วันที่ การแจ้งเตือน และภาพพื้นหลังเมื่อปิดหน้าจอ</string>
     <string name="aod_mode_time_summary">ตั้งเวลาในการเปิดและปิดโหมดอัตโนมัติ</string>
     <string name="aod_mode_time_title">กำหนดการ</string>
-    <string name="aod_mode_title">เปิดโหมดเสมอ</string>
+    <string name="aod_mode_title">จอแสดงผลแบบเปิดตลอด</string>
+    <string name="aod_show_date_and_time">แสดงวันและเวลา</string>
     <string name="aod_show_style_title">แสดงรายการ</string>
     <string name="aod_style">ธีม</string>
     <string name="aod_to_close">ปิดใช้งาน</string>
     <string name="apply">นำไปใช้</string>
     <string name="apply_succeed">ใช้งานเรียบร้อยแล้ว</string>
     <string name="background_icon">พื้นหลัง</string>
+    <string name="below_image">ลง</string>
     <string name="cancel">ยกเลิก </string>
     <string name="choose_aod_style">เลือกชุดรูปแบบ</string>
     <string name="chosen_picture">เลือกพื้นหลัง</string>
     <string name="clock_panel_icon">หน้าปัดนาฬิกา</string>
     <string name="color_change_with_time_description">เปลี่ยนสีข้อความโดยอัตโนมัติเมื่อเวลาผ่านไป</string>
     <string name="color_change_with_time_title">เปลี่ยนสีโดยอัตโนมัติ</string>
+    <string name="custom_image">รูปภาพที่กำหนดเอง</string>
     <string name="deep_space_planet">อวกาศ</string>
     <string name="deep_space_planet_des">ธีมนี้สะท้อนการเปลี่ยนแปลงของแสงรอบตัวคุณในระหว่างวัน พระอาทิตย์ขึ้นและพระอาทิตย์ตกจะถูกซิงค์กับตำแหน่งของคุณด้วย</string>
     <string name="digital_clock">ดิจิตอล</string>
@@ -84,18 +89,20 @@
     <string name="show_battery_status">แสดงสถานะแบตเตอรี่</string>
     <string name="show_notification">แสดงการแจ้งเตือน</string>
     <string name="show_notificaton">แสดงการแจ้งเตือน</string>
+    <string name="shownone_arround_image">ไม่มี</string>
     <string name="signature">ลายเซ็นต์</string>
     <string name="signature_default_content">"เชื่ออยู่เสมอว่าสิ่งดีๆ
 กำลังจะเกิดขึ้น"</string>
     <string name="standard_clock_panel">มาตรฐาน</string>
     <string name="standard_style">มาตรฐาน</string>
-    <string name="summary">"เพื่อลดการใช้พลังงาน รายการต่างๆจะไม่แสดงในสถานการณ์ต่อไปนี้:
-1. เมื่ออุปกรณ์ของคุณอยู่ในที่มืดเป็นเวลานาน
-2. เมื่อเปิดโหมดห้ามรบกวน"</string>
+    <string name="summary">เพื่อลดการใช้พลังงาน รายการจะไม่ปรากฏขึ้นเมื่ออุปกรณ์ของคุณอยู่ในที่มืดเป็นเวลานาน</string>
     <string name="temporary_style">เป็นเวลา 10 วินาทีหลังจากแตะ</string>
     <string name="text_color">สีข้อความ</string>
     <string name="text_length_exceed_limit_alert">*ข้อความที่คุณป้อนยาวเกินไป</string>
     <string name="text_size">ขนาดข้อความ</string>
+    <string name="time_location">ตำแหน่งนาฬิกา</string>
     <string name="time_style">รูปแบบ</string>
     <string name="time_style_layout">แผนผัง</string>
+    <string name="disable_aod_in_power_save_mode">ปิดเมื่อตัวประหยัดแบตเตอรี่เปิดอยู่</string>
+    <string name="disable_aod_in_power_save_mode_summary">ไม่แสดงรายการเพื่อประหยัดพลังงาน</string>
 </resources>

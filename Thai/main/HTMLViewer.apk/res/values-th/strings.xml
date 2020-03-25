@@ -14,6 +14,8 @@
     <string name="open_wifi_connect_summary">แตะเพื่อดูรายละเอียด</string>
     <string name="open_wifi_connect_title">เชื่อมต่อไปยัง %1$s</string>
     <string name="permdesc_accessDrm">อนุญาตให้แอปเข้าถึงเนื้อหาการป้องกัน DRM</string>
+    <string name="poco_launcher_privacy_policy">นโยบายความเป็นส่วนตัวของ POCO launcher</string>
+    <string name="poco_launcher_user_agreement">ข้อตกลงการใช้งานของ POCO Launcher</string>
     <string name="poco_privacy_policy">นโยบายความเป็นส่วนตัว POCO Launcher &amp; ข้อตกลงการใช้งาน POCO Launcher</string>
     <string name="policy_name">ชื่อสัญญา: %s</string>
     <string name="pre_installed_apps">แอปที่ติดตั้งไว้ล่วงหน้า</string>

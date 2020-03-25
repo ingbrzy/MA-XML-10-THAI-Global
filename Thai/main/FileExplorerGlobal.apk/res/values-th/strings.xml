@@ -8,9 +8,15 @@
     <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
     <string name="abc_capital_off">ปิด</string>
     <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">เมนู+</string>
     <string name="abc_search_hint">ค้นหา…</string>
     <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
@@ -41,6 +47,8 @@
     <string name="app_name_downloadedrom">แพ็คเกจ</string>
     <string name="app_name_downloads">ดาวน์โหลด</string>
     <string name="app_name_market">แอปสโตร์</string>
+    <string name="app_name_midrop">Mi Drop</string>
+    <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">เพลง</string>
     <string name="app_name_miuiringtone">เสียงเรียกเข้า</string>
     <string name="app_name_miuiwallpaper">ภาพพื้นหลัง</string>
@@ -51,6 +59,7 @@
     <string name="auto_save_extend">ขยาย</string>
     <string name="auto_upgrade">อัปเดตโดยอัตโนมัติ</string>
     <string name="big5_summary">การเข้ารหัสเริ่มต้น Windows ภาษาจีนดั้งเดิม</string>
+    <string name="byteShort">B</string>
     <string name="can_not_send_with_too_many">ไม่สามารถส่งไฟล์จำนวนมากในคราวเดียว</string>
     <string name="cancel">ยกเลิก</string>
     <string name="cancel_auto_save">ไม่ ขอบคุณ</string>
@@ -70,6 +79,7 @@
     <string name="category_file">ไฟล์</string>
     <string name="category_folder">โฟลเดอร์</string>
     <string name="category_installed_app">ติดตั้งแอปแล้ว</string>
+    <string name="category_midrive">Mi Drive</string>
     <string name="category_move_limit_notice">คุณสามารถย้ายจาก 3 ถึง 7 รายการไปด้านบนของหน้าจอ</string>
     <string name="category_music">เพลง</string>
     <string name="category_other">อื่นๆ</string>
@@ -151,6 +161,7 @@
     <string name="dialog_type_image">รูปภาพ</string>
     <string name="dialog_type_text">เอกสาร</string>
     <string name="dialog_type_video">วิดีโอ</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">แสดงชื่อ</string>
     <string name="domain">โดเมน</string>
     <string name="download_success">ดาวน์โหลดเรียบร้อย</string>
@@ -197,6 +208,7 @@
     <string name="favorite_ringtone">เสียงเรียกเข้า</string>
     <string name="favorite_screen_cap">ภาพหน้าจอ</string>
     <string name="feedback_send_email_body_extra_info">ห้ามลบข้อมูลต่อไปนี้ มันจะช่วยให้เราค้นหาปัญหาได้ดีขึ้น</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">สามารถอ่านได้: </string>
     <string name="file_info_canwrite">สามารถเขียนได้: </string>
     <string name="file_info_ishidden">ซ่อน: </string>
@@ -220,6 +232,7 @@
     <string name="ftp_username_and_passworld">ลงชื่อเข้าใช้</string>
     <string name="ftp_username_hint">ชื่อผู้ใช้</string>
     <string name="gbk_summary">การเข้ารหัสเริ่มต้นของ Windows ภาษาจีนประยุกต์</string>
+    <string name="gigabyteShort">GB</string>
     <string name="homepage_tab_recent">ล่าสุด</string>
     <string name="host">โฮสต์</string>
     <string name="hot_sticker">สติกเกอร์</string>
@@ -235,15 +248,18 @@
     <string name="info_system_version">เวอร์ชั่นระบบ:</string>
     <string name="invalid_name_or_password">ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</string>
     <string name="just_now">เมื่อสักครู่</string>
+    <string name="kilobyteShort">KB</string>
     <string name="load_more">ดูเพิ่มเติม</string>
     <string name="loading">รอสักครู่…</string>
     <string name="local_image">รูปภาพ</string>
     <string name="local_music">ไฟล์เสียง</string>
+    <string name="local_network">LAN</string>
     <string name="local_video">ไฟล์วิดีโอ</string>
     <string name="make_private">ซ่อน</string>
     <string name="make_private_msg_1">ซ่อนไฟล์นี้?</string>
     <string name="make_private_msg_2">ซ่อนไฟล์เหล่านี้?</string>
     <string name="make_private_msg_3">ไฟล์ทั้งหมดในโฟลเดอร์นี้จะถูกซ่อนไว้</string>
+    <string name="megabyteShort">MB</string>
     <string name="menu_item_deep_clean">ทำความสะอาดเชิงลึก</string>
     <string name="menu_item_ftp">เชื่อมต่อกับคอมพิวเตอร์</string>
     <string name="menu_item_midrop">โอนไฟล์</string>
@@ -253,6 +269,7 @@
     <string name="menu_item_sort_date">วันที่มีการแก้ไข</string>
     <string name="menu_item_sort_name">ชื่อ</string>
     <string name="menu_item_sort_type">ประเภท</string>
+    <string name="menu_item_usb">USB</string>
     <string name="mi_router_label">เราเตอร์</string>
     <string name="mode">โหมด</string>
     <string name="month_day_format">dd MMM</string>
@@ -336,6 +353,7 @@
     <string name="permission_required">ไม่สามารถเข้าถึงไฟล์ได้ อนุญาตให้ตัวจัดการไฟล์เข้าถึงไฟล์ในการตั้งค่า</string>
     <string name="permission_storage">ที่จัดเก็บข้อมูล</string>
     <string name="permission_storage_desc">เข้าถึงและสร้างไฟล์เข้าถึงที่เก็บข้อมูลและบันทึกไฟล์</string>
+    <string name="petabyteShort">PB</string>
     <string name="phone">ที่จัดเก็บภายใน</string>
     <string name="phone_storage">พื้นที่จัดเก็บ</string>
     <string name="phone_storage_apk_title">ไฟล์ APK: </string>
@@ -405,6 +423,7 @@
     <string name="search_empty_view_hint">ไม่พบข้อมูล</string>
     <string name="search_error_hint">ค้นหา</string>
     <string name="search_file_type_apk">APK</string>
+    <string name="search_file_type_doc">Doc</string>
     <string name="search_file_type_music">เพลง</string>
     <string name="search_file_type_picture">รูปภาพ</string>
     <string name="search_file_type_video">วิดีโอ</string>
@@ -430,6 +449,7 @@
     <string name="settings_about">เกี่ยวกับ</string>
     <string name="settings_feedback">ข้อเสนอแนะ</string>
     <string name="settings_score">ให้คะแนนตัวจัดการไฟล์</string>
+    <string name="share_facebook">Facebook</string>
     <string name="share_file_manger">แชร์ตัวจัดการไฟล์</string>
     <string name="share_via_qr_code">ใช้งานร่วมกันผ่านรหัส QR</string>
     <string name="skip_file">ข้าม</string>
@@ -437,6 +457,7 @@
     <string name="sort_size_asc">เล็กไปใหญ่</string>
     <string name="sort_size_desc">ใหญ่ไปเล็ก</string>
     <string name="start_server">เริ่ม</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_cache">แคช</string>
     <string name="status_download">ดาวน์โหลด</string>
     <string name="stay_awake_summary">ไม่พักหน้าจอขณะใช้งาน FTP</string>
@@ -451,8 +472,11 @@
     <string name="str_clean">ล้าง</string>
     <string name="tab_common_app">แอป &amp; โฟลเดอร์</string>
     <string name="tab_more">เพิ่มเติม</string>
+    <string name="terabyteShort">TB</string>
     <string name="terms_conditions">ข้อตกลงและเงื่อนไข</string>
     <string name="terms_conditions_desc">อ่านรายการทั้งหมดต่อไปนี้อย่างถี่ถ้วนและเลือกว่าคุณยอมรับหรือไม่</string>
+    <string name="time_am">AM</string>
+    <string name="time_pm">PM</string>
     <string name="time_to_upgrade">ระบบมีการอัปเดต</string>
     <string name="tip">โปรดทราบ</string>
     <string name="title_app_tags">แอป</string>

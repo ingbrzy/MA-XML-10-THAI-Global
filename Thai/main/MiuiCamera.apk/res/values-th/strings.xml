@@ -21,6 +21,7 @@
     <string name="accessibility_camera_record_start">เริ่มการถ่ายวิดีโอ</string>
     <string name="accessibility_camera_record_stop">หยุดการถ่ายวิดีโอ</string>
     <string name="accessibility_camera_shutter_finish">ถ่ายภาพเรียบร้อยแล้ว</string>
+    <string name="accessibility_camera_switch_capture_recording">สลับระหว่างโหมดภาพถ่ายและวิดีโอ</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">โหมดตัวเต็มถูกปิดอยู่</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">โหมดตัวเต็มถูกเปิดอยู่</string>
     <string name="accessibility_camera_video_960fps_120">120FPS</string>
@@ -71,14 +72,17 @@
     <string name="accessibility_video_pause_button">พักการถ่ายวิดีโอ</string>
     <string name="accessibility_video_resume_button">ดำเนินการถ่ายวิดีโอต่อ</string>
     <string name="accessibility_zoom_button">โหมดซูม</string>
-    <string name="ai_scene_mode_use_hint_text">"กล้อง AI ตรวจพบฉากโดยอัตโนมัติ
-และปรับแต่งรูปภาพโดยใช้ข้อมูลนี้"</string>
+    <string name="ai_scene_mode_use_hint_text">"จดจำฉากโดยใช้ AI
+และปรับการตั้งค่าโดยอัตโนมัติ"</string>
     <string name="ai_scene_top_moon_off">โหมดแสงน้อย</string>
     <string name="ai_scene_top_tip">โหมดพระจันทร์</string>
     <string name="audio_focus_exit_button_text">ปิดใช้งานโฟกัสภาพด้วยเสียง</string>
     <string name="autozoom_click_hint">แตะวัตถุเพื่อให้วัตถุอยู่ในโฟกัสในขณะที่เคลื่อนไหว อยู่ห่างอย่างน้อย 3 เมตรเพื่อผลลัพธ์ที่ดีที่สุด</string>
     <string name="autozoom_disabled_hint">หยุดการติดตามสิ่งของที่กำลังเคลื่อนที่</string>
     <string name="autozoom_hint">ติดตามสิ่งของที่เคลื่อนที่</string>
+    <string name="auxiliary_close_status">เอฟเฟกต์เพิ่มเติมปิดอยู่</string>
+    <string name="auxiliary_exposure_feedback_status">การตรวจสอบการเปิดรับแสงเปิดอยู่</string>
+    <string name="auxiliary_focus_peak_status">การโฟกัสจุดสูงสุดเปิดอยู่</string>
     <string name="back_bokeh_use_hint">รักษาระยะบุคคลภายใน1.5 เมตร เพื่อเอฟเฟกต์ที่ดีที่สุุด</string>
     <string name="beauty_body">รูปร่าง</string>
     <string name="beauty_body_body">หน้าเรียว</string>
@@ -112,6 +116,7 @@
     <string name="camera_liveshot_on_tip">ภาพไดนามิก</string>
     <string name="camera_mode_options">โหมด</string>
     <string name="camera_setting">กล้อง</string>
+    <string name="camera_settings_category_development">คุณลักษณะทดลอง</string>
     <string name="camera_settings_label">การตั้งค่ากล้อง</string>
     <string name="camera_snap_mode_title">โหมดถ่ายเร็วแบบเร่งด่วน</string>
     <string name="camera_snap_mode_title_detail">แตะเพื่อดูรายละเอียด</string>
@@ -159,9 +164,7 @@
     <string name="confirm_install_scanner_message">ตัวสแกนช่วยให้คุณสแกนรหัส QR, บาร์โค้ดและอื่นๆได้ คุณไม่จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อติดตั้ง</string>
     <string name="confirm_install_scanner_title">ติดตั้งตัวสแกน</string>
     <string name="confirm_location_alert">จดจำตำแหน่งพิกัดที่ถ่ายภาพไว้</string>
-    <string name="confirm_location_message">"บันทึกตำแหน่งพิกัดไว้กับรูปภาพหรือวิดีโอที่คุณถ่าย
-
-ข้อมูลดังกล่าวที่จัดเก็บอยู่ในภาพถ่ายสามารถนำไปใช้ร่วมกันกับแอปอื่นๆได้อย่างง่ายดาย"</string>
+    <string name="confirm_location_message">&lt;Data>ยินดีต้อนรับสู่ง กล้อง! การติดแท็กภาพถ่ายและวิดีโอของคุณด้วยตำแหน่งที่พวกเขาถ่ายจะทำให้แกลเลอรีของคุณเป็นระเบียบมากขึ้นและช่วยให้คุณค้นหารายการได้เร็วขึ้น คุณสมบัติบางอย่างอาจไม่สามารถใช้ได้หากคุณจำกัดการเพิ่มข้อมูลตำแหน่ง&lt;br/>&lt;br/>เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;/Data></string>
     <string name="confirm_location_title">คุณจำได้ไหมว่าถ่ายจากที่ไหน?</string>
     <string name="confirm_recording_fail_calling_alert">บันทึกขณะโทรไม่ได้</string>
     <string name="confirm_recording_fail_recorder_busy_alert">แอปอื่นอาจกำลังใช้งานไมค์เพื่อบันทึกเสียงอยู่ก่อน</string>
@@ -300,9 +303,11 @@
     <string name="live_sticker_fragment_tab_name">เอฟเฟกต์ TikTok</string>
     <string name="live_sticker_network_error_hint">เครือข่ายผิดพลาด</string>
     <string name="live_sticker_updating">กำลังอัปเดต…</string>
+    <string name="location_access_allow">อนุญาต</string>
     <string name="location_permission_des">จดจำตำแหน่งสำหรับรูปภาพและวิดีโอ</string>
     <string name="location_permission_not_ask_again">อนุญาตให้ กล้อง เข้าถึงตำแหน่งพิกัดของคุณในการตั้งค่าโทรศัพท์</string>
     <string name="location_permission_not_ask_again_go_to_settings">อนุญาต</string>
+    <string name="log_format">LOG</string>
     <string name="lying_direct_hint">ทิศทางปัจจุบัน</string>
     <string name="macro_mode">มาโคร</string>
     <string name="macro_mode_tip">ระยะห่างระหว่างเลนส์กับวัตถุไม่ควรเกิน 10 ซม.</string>
@@ -383,6 +388,7 @@
     <string name="module_name_professional">โปร</string>
     <string name="module_name_square">สี่เหลี่ยม</string>
     <string name="module_name_video">วิดีโอ</string>
+    <string name="moive_frame">กรอบภาพยนตร์</string>
     <string name="multi_window_mode_not_supported">กล้องไม่สามารถทำงานในหน้าจอแยกได้</string>
     <string name="network_access_user_notice_agree">ยอมรับ</string>
     <string name="network_access_user_notice_message_live_video">&lt;Data>กล้องจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้เอฟเฟ็กต์เพลงและคุณสมบัติอื่นๆ สำหรับวิดีโอสั้นๆ&lt;br/>&lt;br/>โดยการแตะ ยอมรับ ด้านล่าง คุณเห็นด้วยกับ &lt;a href =%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href =%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของเรา และอนุญาตให้กล้องเชื่อมต่ออินเทอร์เน็ต&lt;/Data></string>
@@ -397,8 +403,47 @@
     <string name="pano_how_to_use_prompt_slow_down">ช้าลง…</string>
     <string name="pano_how_to_use_prompt_start">แตะที่ลูกศรเพื่อเปลี่ยนทิศทางการถ่ายภาพและขยับอย่างช้าๆ</string>
     <string name="pano_how_to_use_prompt_to_move">เริ่มการแพนอย่างช้าๆ</string>
+    <string name="parameter_description_pro_capture_title">คุณลักษณะ Pro สำหรับการถ่ายรูปภาพ</string>
+    <string name="parameter_description_pro_video_title">คุณลักษณะ Pro สำหรับการถ่ายวิดีโอ</string>
+    <string name="parameter_description_sub_title">ใช้ความคิดสร้างสรรค์มากขึ้นในการควบคุมภาพถ่ายและวิดีโอของคุณ</string>
+    <string name="parameter_ef_split_description">คุณสามารถลากวงแหวนปรับระดับแสงออกจากวงแหวนปรับโฟกัสและปรับพารามิเตอร์ทั้งสองแยกกัน</string>
+    <string name="parameter_ef_split_title">แยกการโฟกัสและการวัดแสง</string>
+    <string name="parameter_et_description">วามเร็วชัตเตอร์อัตโนมัติถูกกำหนดโดยตัววัดแสงของกล้อง เมื่อคุณเลือกความเร็วชัตเตอร์ด้วยตนเองโปรดจำไว้ว่ายิ่งชัตเตอร์เปิดนานเท่าใดแสงที่ส่องเข้ามาในเซ็นเซอร์ก็ยิ่งมีมากขึ้นเท่านั้น</string>
+    <string name="parameter_exposure_description">คุณสมบัตินี้ช่วยให้คุณชดเชยแสงเมื่อคุณต้องการให้ภาพสว่างหรือมืดกว่าที่มาตรวัดแนะนำ</string>
+    <string name="parameter_exposure_feecback_description">ไฮไลต์บริเวณแสงน้อยในสีน้ำเงินและพื้นที่สว่างมากเกินไปเป็นสีแดงเพื่อให้สามารถปรับระดับแสงได้อย่างถูกต้อง</string>
+    <string name="parameter_exposure_feecback_title">การตรวจสอบการเปิดรับแสง</string>
+    <string name="parameter_exposure_title">ชดเชยแสง</string>
+    <string name="parameter_focus_description">คุณสามารถโฟกัสได้ทั้งแบบด้วยตนเองและแบบอัตโนมัติ ค่าการโฟกัสที่คุณเลือกบนตัวเลื่อนยิ่งมาก พื้นที่โฟกัสจะยิ่งอยู่ห่างจากเลนส์มากขึ้น</string>
+    <string name="parameter_focus_title">โฟกัส</string>
+    <string name="parameter_histogram_description">ฮิสโตแกรมเป็นการแสดงการเปิดรับแสงแบบเรียลไทม์ซึ่งแสดงส่วนที่มืดที่สุดของฉากทางด้านซ้ายของคุณไปยังส่วนที่สว่างที่สุดทางด้านขวา ส่วนแนวตั้งของสเกลแสดงให้เห็นว่าฉากมีความสว่างหรือมืดเท่าใด</string>
+    <string name="parameter_histogram_title">ฮิสโตแกรม</string>
+    <string name="parameter_iso_description">ค่า ISO สามารถกำหนดได้โดยอัตโนมัติโดยเครื่องวัดแสง นอกจากนี้คุณยังสามารถเปลี่ยนค่าได้ด้วยตนเอง โปรดจำไว้ว่า ISO ที่สูงขึ้นทำให้กล้องของคุณไวต่อแสงมากขึ้น</string>
+    <string name="parameter_lens_description">คุณสามารถสลับเลนส์ได้หลายแบบ:</string>
+    <string name="parameter_lens_marco">, MACRO (เลนส์มาโคร)</string>
+    <string name="parameter_lens_st">, S-TELE (เลนส์ซูม)</string>
+    <string name="parameter_lens_t">, TELE (เลนส์เทเลโฟโต้)</string>
+    <string name="parameter_lens_tele_2x">, TELE-2X (เลนส์เทเลโฟโต้)</string>
+    <string name="parameter_lens_tele_5x">, TELE-5X (เลนส์เทเลโฟโต้)</string>
+    <string name="parameter_lens_title">เลนส์</string>
+    <string name="parameter_lens_uw">, UW (เลนส์มุมกว้างพิเศษ)</string>
+    <string name="parameter_lens_w">WIDE (เลนส์มุมกว้าง)</string>
+    <string name="parameter_log_format_description">รูปแบบนี้บันทึกวิดีโอด้วยฟังก์ชั่นลอการิทึมที่ใช้กับส่วนโค้งรับแสงเพื่อบันทึกรายละเอียดเพิ่มเติมในไฮไลท์และเงาให้ตัวเลือกเพิ่มเติมในการประมวลผลภายหลัง</string>
+    <string name="parameter_log_format_title">รูปแบบ LOG</string>
+    <string name="parameter_metering_description">การวัดแสงเฉลี่ยคำนึงถึงทุกพื้นที่ของภาพของคุณทำงานได้ดีที่สุดสำหรับฉากที่มีแสงเท่ากัน การวัดแสงแบบศูนย์กลางให้ความสำคัญกับพื้นที่ส่วนกลางของเฟรมเป็นหลักและให้ความสำคัญกับความสว่างของพื้นที่โดยรอบซึ่งเหมาะสำหรับวัตถุที่ถ่ายภาพที่อยู่ตรงกลางเฟรม การวัดแสงเฉพาะจุดครอบคลุมเฉพาะจุดในจุดเดียวทำให้คุณควบคุมการเปิดรับแสงได้อย่างแม่นยำ</string>
+    <string name="parameter_metering_title">โหมดการวัด</string>
+    <string name="parameter_peak_focus_description">เมื่อคุณโฟกัสด้วยตนเอง ให้ใช้การโฟกัสจุดสูงสุดเพื่อวางไฮไลต์สีแดงไว้ในพื้นที่โฟกัส</string>
+    <string name="parameter_peak_focus_title">จุดสูงสุดโฟกัส</string>
+    <string name="parameter_peak_raw_description">ฟอร์แมตภาพนี้จะบันทึกข้อมูลภาพทั้งหมดที่บันทึกโดยเซ็นเซอร์เมื่อคุณถ่ายภาพ ข้อมูลที่ไม่บีบอัดทำให้คุณมีตัวเลือกเพิ่มเติมในการประมวลผลภายหลัง</string>
+    <string name="parameter_peak_raw_title">รูปแบบ RAW</string>
+    <string name="parameter_wb_description">นอกจากการตั้งค่าสมดุลแสงขาว (หลอดไส้, กลางวัน, ฟลูออเรสเซนต์, เมฆครึ้ม) คุณยังสามารถตั้งค่าสมดุลแสงขาวให้เป็นค่าที่กำหนดเองภายในช่วง 2,000–8,000 เคลวิน</string>
+    <string name="parameter_wb_title">สมดุลสีขาว</string>
+    <string name="parameter_zoom_slider_description">ลากตัวเลื่อนการซูมขึ้นลงเพื่อเปลี่ยนภาพของคุณอย่างราบรื่นจากการถ่ายระยะไกลเป็นระยะใกล้</string>
+    <string name="parameter_zoom_slider_title">ซูม</string>
     <string name="path_settings">แอประบบ/กล้อง/การตั้งค่า</string>
     <string name="photo_assistance_tips_title">เคล็ดลับสด</string>
+    <string name="pic_flaw_blink_more">ดูเหมือนว่าใครบางคนในกรอบภาพจะหลับตา</string>
+    <string name="pic_flaw_blink_one">ดูเหมือนว่าบุคคนในกรอบภาพจะหลับตา</string>
+    <string name="pic_flaw_cover">ดูเหมือนเลนส์จะถูกบังบางส่วน</string>
     <string name="popup_tip_3d_beauty_intro_text">3D บิวตี้</string>
     <string name="portait_effect_entry_blackwhite">ดำ&amp;ขาว</string>
     <string name="portait_effect_entry_cool">มิ้นท์</string>
@@ -420,6 +465,17 @@
 พื้นหลังในภาพของคุณ"</string>
     <string name="portrait_bokeh_text">โหมดภาพบุคคล</string>
     <string name="portrait_bokeh_tips">วางวัตถุในระยะ 1.5 เมตร</string>
+    <string name="portrait_india_effect_entry_memory">ความทรงจำ</string>
+    <string name="portrait_india_effect_entry_mono">โมโน</string>
+    <string name="portrait_india_effect_entry_pink">ชมพู</string>
+    <string name="portrait_india_effect_entry_portrait">บุคคล</string>
+    <string name="portrait_india_effect_entry_retro">ย้อนยุค</string>
+    <string name="portrait_india_effect_entry_romantic">โรแมนติก</string>
+    <string name="portrait_india_effect_entry_strong">เข้ม</string>
+    <string name="portrait_india_effect_entry_sunny">แจ่มใส</string>
+    <string name="portrait_india_effect_entry_sweet">คาราเมล</string>
+    <string name="portrait_india_effect_entry_warm">อบอุ่น</string>
+    <string name="portrait_india_effect_entry_young">วันรุ่น</string>
     <string name="portrait_mode_depth_effect_success_hint">หน้าชัดหลังเบลอ</string>
     <string name="portrait_mode_lowlight_hint">ตอนนี้แสงน้อยเกินไป</string>
     <string name="portrait_mode_too_close_hint">ขยับให้ห่างออกจากวัตถุ</string>
@@ -429,7 +485,6 @@
     <string name="portrait_mode_use_hint_for_bokeh">"ลองโหมดภาพบุคคล
 ทำให้หน้าชัดหลังเบลอ"</string>
     <string name="pref_960_watermark_title">ลายน้ำ 960FPS</string>
-    <string name="pref_advance_settings">การตั้งค่าเพิ่มเติม</string>
     <string name="pref_ai_detect">การตรวจจับ AI</string>
     <string name="pref_audio_focus_entry_front">ด้านหน้า</string>
     <string name="pref_audio_focus_entry_general">ปกติ</string>
@@ -454,6 +509,10 @@
     <string name="pref_camera_autoexposure_entry_frameaverage">เฉลี่ยทั้งภาพ</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">วัดแสงเฉพาะจุด</string>
     <string name="pref_camera_autoexposure_title">การวัดแสงอัตโนมัติ</string>
+    <string name="pref_camera_auxiliary_close">ปิด</string>
+    <string name="pref_camera_auxiliary_exposure_feedback">การตรวจสอบการเปิดรับแสง</string>
+    <string name="pref_camera_auxiliary_focus_peak">จุดสูงสุดโฟกัส</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
@@ -478,6 +537,7 @@
     <string name="pref_camera_coloreffect_entry_vsco_a4">งดงาม</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">คลาสสิก</string>
     <string name="pref_camera_coloreffect_title">ฟิลเตอร์</string>
+    <string name="pref_camera_common_settings">การตั้งค่าทั่วไป</string>
     <string name="pref_camera_contrast_title">ความเปรียบต่าง</string>
     <string name="pref_camera_delay_capture_entry_10s">ล่าช้า 10 วิ</string>
     <string name="pref_camera_delay_capture_entry_3s">3 วิ</string>
@@ -486,12 +546,10 @@
     <string name="pref_camera_delay_capture_title">นับถอยหลัง</string>
     <string name="pref_camera_device_watermark_title">ลายน้ำอุปกรณ์</string>
     <string name="pref_camera_exposuretime_entry_0_5">2วิ</string>
-    <string name="pref_camera_exposuretime_entry_1">1วิ</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000วิ</string>
     <string name="pref_camera_exposuretime_entry_125">1/125วิ</string>
     <string name="pref_camera_exposuretime_entry_15">1/15วิ</string>
     <string name="pref_camera_exposuretime_entry_16s">16 วิ</string>
-    <string name="pref_camera_exposuretime_entry_2">1/2วิ</string>
     <string name="pref_camera_exposuretime_entry_250">1/250วิ</string>
     <string name="pref_camera_exposuretime_entry_30">1/30วิ</string>
     <string name="pref_camera_exposuretime_entry_32s">32 วิ</string>
@@ -528,6 +586,8 @@
     <string name="pref_camera_hdr_entry_live">ปัจจุบัน</string>
     <string name="pref_camera_hdr_entry_normal">โปร</string>
     <string name="pref_camera_hdr_entry_off">ปิด</string>
+    <string name="pref_camera_heic_image_format_description">รูปภาพในรูปแบบไฟล์ภาพที่มีประสิทธิภาพสูงจะใช้พื้นที่เก็บข้อมูลน้อยลง แต่แอปบางตัวอาจไม่รองรับ</string>
+    <string name="pref_camera_heic_image_format_title">ฟอร์แมต HEIF</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
@@ -550,6 +610,7 @@
     <string name="pref_camera_lying_summary">แจ้งให้ทราบเกี่ยวกับทิศทางในปัจจุบันเมื่อโทรศัพท์ขนานกับพื้น</string>
     <string name="pref_camera_lying_title">แจ้งให้ทราบเกี่ยวกับทิศทาง</string>
     <string name="pref_camera_magic_mirror_title">กระจกลวงตา</string>
+    <string name="pref_camera_manual_description_title">เกี่ยวกับคุณลักษณะ Pro</string>
     <string name="pref_camera_manual_mode_title">ตั้งค่าเอง</string>
     <string name="pref_camera_movie_solid_title">ป้องกันภาพสั่นไหว</string>
     <string name="pref_camera_multilevel_entry_high">สูง</string>
@@ -573,6 +634,7 @@
     <string name="pref_camera_portrait_mode_title">โหมดถ่ายภาพคน</string>
     <string name="pref_camera_proximity_lock_summary">ล็อกการแตะเมื่อใส่ในกระเป๋าพกพา</string>
     <string name="pref_camera_proximity_lock_title">โหมดพกพา</string>
+    <string name="pref_camera_quick_settings">การตั้งค่าด่วน</string>
     <string name="pref_camera_recordlocation_entry_off">ปิด</string>
     <string name="pref_camera_recordlocation_entry_on">เปิด</string>
     <string name="pref_camera_recordlocation_title">จัดเก็บข้อมูลตำแหน่งพิกัด</string>
@@ -677,6 +739,9 @@
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_photo_assistance_tips_off">ปิด</string>
     <string name="pref_photo_assistance_tips_on">เปิด</string>
+    <string name="pref_pic_flaw_tip_summary">รับการแจ้งเตือนแบบเรียลไทม์เมื่อมีคนในกรอบภาพหลับตาหรือเลนส์ถูกบังบางส่วนในระหว่างการถ่ายภาพ</string>
+    <string name="pref_pic_flaw_tip_title">แจ้งเตือนเกี่ยวกับตำหนิ</string>
+    <string name="pref_popup_camera_title">กล้องป๊อปอัพ</string>
     <string name="pref_priority_storage_title">บันทึกไปยังSD การ์ด</string>
     <string name="pref_privacy_title">นโยบายความเป็นส่วนตัว</string>
     <string name="pref_qc_focus_position_title">F</string>
@@ -816,7 +881,7 @@
     <string name="video_effect_entry_polaroid">โพลารอยด์</string>
     <string name="video_reach_size_limit">ไฟล์วิดีโอมีขนาดถึงที่กำหนดไว้แล้ว</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
-    <string name="video_ultra_clear_tip_8k">8K UHD</string>
+    <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">ดูนโยบายความเป็นส่วนตัว</string>
     <string name="vv_duartion_hint">%1$s | ส่วนที่ %2$d | %3$ss</string>
     <string name="vv_hint">คุณสามารถถ่าย vlogs ได้เฉพาะในโหมดแนวนอน</string>

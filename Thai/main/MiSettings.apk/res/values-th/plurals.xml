@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="last_several_days">
+        <item quantity="other">%d วัน</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">เวลาหน้าจอวันนี้เท่ากับค่าเฉลี่ย %d-วัน ของคุณ</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">เวลาหน้าจอวันนี้น้อยกว่าค่าเฉลี่ย %1$d-วัน ของคุณ %2$s</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">เวลาหน้าจอวันนี้มากกว่าค่าเฉลี่ย %1$d-วัน ของคุณ %2$s</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f ครั้ง</item>
+    </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d วัน</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">ปลดล็อกแล้ว %d ครั้ง</item>
     </plurals>
@@ -11,6 +29,9 @@
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
         <item quantity="other">ได้รับ %d การแจ้งเตือน</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d นาทีเป็นก้าวสำคัญสู่การมีสติและสมาธิ</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d ชั่วโมง</item>

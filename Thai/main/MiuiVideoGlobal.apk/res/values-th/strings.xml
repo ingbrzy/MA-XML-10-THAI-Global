@@ -111,6 +111,7 @@
     <string name="cast_forward">กรอไปข้างหน้า</string>
     <string name="cast_forward_10">กรอไปข้างหน้า 10 วินาที</string>
     <string name="cast_forward_30">กรอไปข้างหน้า 30 วินาที</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">ปิดเสียง</string>
     <string name="cast_notification_connected_message">เชื่อมต่อ %1$s แล้ว</string>
     <string name="cast_notification_connecting_message">กำลังเชื่อมต่อ %1$s</string>
@@ -142,6 +143,9 @@
     <string name="choose_to_signup">ไม่ ฉันต้องการสร้างบัญชี</string>
     <string name="click_to_reload_more">แตะเพื่อโหลดเพิ่มเติม</string>
     <string name="click_to_retry">ลองใหม่</string>
+    <string name="cloud_online_switch">การแนะนำส่วนบุคคล</string>
+    <string name="cloud_online_switch_close_time">คุณสามารถเปิดการแนะนำเนื้อหาในแบบของคุณได้ %s</string>
+    <string name="cloud_online_switch_open_time">แสดงคำแนะนำเนื้อหาส่วนบุคคล</string>
     <string name="collect_diagnosis_log">รวบรวมบันทึกการใช้</string>
     <string name="com_facebook_device_auth_instructions">ไปที่ &lt;b>facebook.com/device&lt;/b> แล้วป้อนรหัสที่ปรากฏด้านล่าง</string>
     <string name="com_facebook_image_download_unknown_error">เกิดข้อผิดพลาดที่ไม่คาดคิดขณะดาวน์โหลดภาพ</string>
@@ -149,7 +153,7 @@
     <string name="com_facebook_internet_permission_error_title">ข้อผิดพลาด AndroidManifest</string>
     <string name="com_facebook_like_button_liked">ถูกใจแล้ว</string>
     <string name="com_facebook_like_button_not_liked">ถูกใจ</string>
-    <string name="com_facebook_loading">กำลังโหลด...</string>
+    <string name="com_facebook_loading">กำลังโหลด…</string>
     <string name="com_facebook_loginview_cancel_action">ยกเลิก</string>
     <string name="com_facebook_loginview_log_in_button">เข้าสู่ระบบ</string>
     <string name="com_facebook_loginview_log_in_button_continue">ดำเนินการต่อด้วย Facebook</string>
@@ -171,6 +175,7 @@
     <string name="comment_model_add_comment">เพิ่มความคิดเห็น</string>
     <string name="comment_model_bg_add_comment">แชร์ความคิดของคุณกับชุมชนของเรา</string>
     <string name="comment_model_bg_deleted_comment">ความคิดเห็นนี้ถูกลบแล้ว</string>
+    <string name="comment_model_close">การคอมเม้นต์ใช้ไม่ได้ตอนนี้ โปรดอดใจรอ</string>
     <string name="comment_model_comment">ความคิดเห็น</string>
     <string name="comment_model_confirm_delete">ลบความคิดเห็นตอนนี้?</string>
     <string name="comment_model_copy">คัดลอก</string>
@@ -358,6 +363,7 @@ ID:%s
     <string name="language_setting_tips">เลือกการตั้งค่าภาษาของคุณเพื่อรับเนื้อหาแนะนำที่เกี่ยวข้องมากขึ้น คุณสามารถเปลี่ยนการตั้งค่าภาษาได้ใน โปรไฟล์ > ภาษา</string>
     <string name="language_setting_tips_dialog">คุณสามารถเปลี่ยนการตั้งค่าภาษาได้ใน บัญชี > ภาษา</string>
     <string name="later">ภายหลัง</string>
+    <string name="live_tv_title">Live TV</string>
     <string name="loading">รอสักครู่…</string>
     <string name="local_push_title">ยอดนิยมของวันนี้</string>
     <string name="login">ลงชื่อเข้าใช้</string>
@@ -532,6 +538,7 @@ ID:%s
     <string name="no_recommend_data">ไม่มีวิดีโอแนะนำตอนนี้</string>
     <string name="no_subscriptions">ไม่มีรายการ</string>
     <string name="not_show">ไม่ต้องแสดงอีก</string>
+    <string name="not_support_share">ไม่สามารถแชร์รายการนี้ได้ในขณะนี้</string>
     <string name="notice_comment_action">%s แสดงความคิดเห็นบนโพสของคุณ</string>
     <string name="notice_comment_action_deleted">ความคิดเห็นนี้ถูกลบแล้ว</string>
     <string name="notice_feedback_content">มีการอัปเดตเกี่ยวกับข้อเสนอแนะของคุณ แตะเพื่อดู</string>
@@ -540,6 +547,7 @@ ID:%s
     <string name="notice_title">ข้อความ</string>
     <string name="notify_apk_installed">ดาวน์โหลดเรียบร้อย</string>
     <string name="ok">ตกลง</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">การติดตามล่าสุด</string>
     <string name="order_recently_updated">อัปเดตล่าสุด</string>
     <string name="ovp_alert_dialog_download_install_task">กำลังดาวน์โหลด HD ปลั๊กอิน…</string>
@@ -852,7 +860,7 @@ ID:%s
     <string name="plus_share_channel_wechat_moments">โมเมนต์ WeChat</string>
     <string name="plus_share_channel_weibo">Weibo</string>
     <string name="plus_shortcut">วิดีโอในเครื่อง</string>
-    <string name="plus_shortcut_created_succ">สร้างทางลัดบนหน้าจอหลักสำเร็จแล้ว</string>
+    <string name="plus_shortcut_created_succ">สร้างปุ่มลัดบนหน้าจอหลักสำเร็จแล้ว</string>
     <string name="plus_shortcut_existed">ปุ่มลัดนี้มีอยู่แล้ว</string>
     <string name="plus_sort_title">จัดเรียง</string>
     <string name="plus_sort_type_default">ค่าเริ่มต้น</string>
@@ -912,6 +920,10 @@ ID:%s
     <string name="save_cancel_toast">แตะ \"ย้อนกลับ\" อีกครั้งเพื่อยกเลิกการบันทึกวิดีโอ</string>
     <string name="screenrecord_cancel">ปัญหาความเข้ากันได้</string>
     <string name="screenrecord_nosupport_record">เครื่องบันทึกภาพหน้าจอไม่รองรับในอุปกรณ์นี้</string>
+    <string name="screenshot_8k">ภาพหน้าจอ 8K</string>
+    <string name="screenshot_8k_save_toast">บันทึกภาพหน้าจอ 8K ใน %s</string>
+    <string name="screenshot_8k_saving">กำลังบันทึกภาพหน้าจอ 8K…</string>
+    <string name="screenshot_8k_share">ส่งไฟล์ไปยัง</string>
     <string name="search">ค้นหา</string>
     <string name="search_choose_language">เลือกภาษา</string>
     <string name="search_choose_voice_language">เลือกภาษาที่ใช้สำหรับการค้นหาด้วยเสียง</string>
@@ -939,6 +951,7 @@ ID:%s
     <string name="sns_bind_limit">มีความพยายามมากเกินไป ลองวิธีอื่นๆ ในการลงชื่อเข้าใช้</string>
     <string name="sns_sign_in">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
     <string name="source">"แหล่งที่มา: "</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD การ์ด</string>
     <string name="storage_internal_sdcard">พื้นที่จัดเก็บข้อมูลในเครื่อง</string>
     <string name="submit">ส่ง</string>

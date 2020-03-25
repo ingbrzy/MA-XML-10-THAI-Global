@@ -13,7 +13,7 @@
     <string name="hide_touch_assistant">ซ่อนโดยอัตโนมัติ</string>
     <string name="hide_touch_assistant_intro">ซ่อนเมนูลัดในแอปที่เลือกไว้</string>
     <string name="hide_when_fullscreen">ย้ายเมนูลัดไปไว้ขอบจอขณะใช้งานแบบเต็มจอ</string>
-    <string name="hide_when_fullscreen_intro">ย้ายเมนูลัดไปไว้ขอบจอขณะใช้งานแบบเต็มจอ</string>
+    <string name="hide_when_fullscreen_intro">ย้ายเมนูลัดไปไว้ขอบจอขณะใช้งานโหมดเต็มจอ</string>
     <string name="mi_wallet_summary">บัตรโดยสาร/Mi Pay/คีย์การ์ด</string>
     <string name="motion_behavior">โหมดการควบคุม</string>
     <string name="name_alipay_payment_code">การชำระเงิน Alipay</string>
