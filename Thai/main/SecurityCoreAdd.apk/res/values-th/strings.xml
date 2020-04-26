@@ -130,7 +130,7 @@
     <string name="ent_licence_code_hint">ป้อนรหัสใบอนุญาต</string>
     <string name="ent_licence_code_invalid">รหัสใบอนุญาตที่คุณป้อนไม่ถูกต้อง</string>
     <string name="ent_mode_activated">โหมดบริษัทเปิดใช้งานแล้ว</string>
-    <string name="ent_network_error">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
+    <string name="ent_network_error">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
     <string name="ent_next_step">ถัดไป</string>
     <string name="ent_privacy_policy_notice">* ข้อมูลส่วนบุคคลในโหมดนี้จะถูกเก็บรวบรวมตามนโยบายที่บริษัทของคุณกำหนดไว้ Xiaomi ไม่ได้รวบรวมข้อมูลส่วนบุคคลในโหมดนี้</string>
     <string name="enter_air_space">ไปยังพื้นที่ทำงาน</string>
@@ -174,6 +174,10 @@
     <string name="greenguard_child_des_title">สแกนรหัส QR เพื่อเพิ่มอุปกรณ์</string>
     <string name="greenguard_functional_description">"จัดการอุปกรณ์จากระยะไกล ดูข้อมูลตำแหน่ง 
 ควบคุมการติดตั้งแอพและจำกัดการใช้งาน"</string>
+    <string name="greenguard_install_cancle">ไม่ ขอบคุณ</string>
+    <string name="greenguard_install_confirm">ติดตั้ง</string>
+    <string name="greenguard_install_message">ปกป้องครอบครัว เป็นแอปในระบบ คุณไม่จำเป็นต้องใช้อินเตอร์เน็ตเพื่อติดตั้ง</string>
+    <string name="greenguard_install_title">ติดตั้ง ปกป้องครอบครัว</string>
     <string name="greenguard_parent_des">จัดการอุปกรณ์ของเพื่อนและครอบครัวของคุณ</string>
     <string name="greenguard_parent_des_title">ใช้ Kite Guard เพื่อเพิ่มอุปกรณ์</string>
     <string name="guide_contact_sub_title_desc">"รายชื่อที่เพิ่มไปยังพื้นที่ทับซ้อนจะกลายเป็นรายชื่อส่วนตัว

@@ -15,7 +15,7 @@
         <item>ที่จัดเก็บข้อมูล</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
-        <item>ซิงค์รายชื่อ ข้อความ บันทึก ปฏิทิน และอื่นๆของคุณ</item>
+        <item>ซิงค์รายชื่อ ข้อความ บันทึกย่อ ปฏิทิน และอื่นๆของคุณ</item>
         <item>สำรองข้อมูลแอป การจัดเรียงหน้าจอหลัก และภาพพื้นหลัง</item>
         <item>สำรองข้อมูลการตั้งค่าที่สำคัญ รวมไปถึง Wi-Fi และการแสดงผล</item>
         <item>ล็อกอุปกรณ์จากระยะไกลหากอุปกรณ์สูญหาย</item>
@@ -26,17 +26,17 @@
         <item>สำรองข้อมูลการตั้งค่าระบบ</item>
         <item>ค้นหาอุปกรณ์</item>
     </string-array>
-    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
-        <item>For identifying your device</item>
-        <item>For locating your device and switching to the lost mode</item>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+        <item>สำหรับการระบุอุปกรณ์ของคุณ</item>
+        <item>สำหรับการระบุตำแหน่งของอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย</item>
     </string-array>
-    <string-array name="priv_dialog_sync_runtime_perm_desc">
-        <item>For syncing events</item>
-        <item>For syncing messages</item>
-        <item>For syncing messages</item>
-        <item>For syncing contacts</item>
-        <item>For syncing contacts</item>
-        <item>For saving items on your device (e.g. images, videos, songs)</item>
+    <string-array name="privacy_dialog_sync_runtime_perm_desc">
+        <item>สำหรับการซิงค์กำหนดการ</item>
+        <item>สำหรับการซิงค์ข้อความ</item>
+        <item>สำหรับการซิงค์ข้อความ</item>
+        <item>สำหรับการซิงค์รายชื่อ</item>
+        <item>สำหรับการซิงค์รายชื่อ</item>
+        <item>สำหรับการบันทึกรายการในอุปกรณ์ของคุณ (เช่น รูปภาพ วิดีโอ เพลง)</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>ข้อมูลสำรอง</item>
@@ -89,9 +89,9 @@
         <item>เพลง;คลาวด์;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์</item>
     </string-array>
     <string-array name="settings_search_notes">
-        <item>ซิงค์บันทึกด้วย Xiaomi คลาวด์</item>
+        <item>ซิงค์บันทึกย่อด้วย Xiaomi คลาวด์</item>
         <item>เปิดใช้งานซิงค์</item>
-        <item>บันทึก;คลาวด์;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์</item>
+        <item>บันทึกย่อ;คลาวด์;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
         <item>ซิงค์ App vault ด้วย Xiaomi คลาวด์</item>

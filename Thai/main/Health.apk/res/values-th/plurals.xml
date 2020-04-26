@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="count_duration_standard">
+        <item quantity="other">%1$d-%2$d times</item>
+    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Walk at least %1$d steps every day</item>
     </plurals>
@@ -11,6 +14,15 @@
     </plurals>
     <plurals name="dialog_delete_records_confirm">
         <item quantity="other">Delete %1$d records?</item>
+    </plurals>
+    <plurals name="distance_unit_kilometre">
+        <item quantity="other">%1$.1f km</item>
+    </plurals>
+    <plurals name="dream_talk_segment">
+        <item quantity="other">%1$d การบันทึก</item>
+    </plurals>
+    <plurals name="dream_talk_segment_unit">
+        <item quantity="other">recordings</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">เป้าหมาย: %1$d ก้าว</item>
@@ -39,6 +51,9 @@
     <plurals name="minutes">
         <item quantity="other">%1$d mins</item>
     </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%1$d mins ago</item>
+    </plurals>
     <plurals name="sleep_goal_by_hour">
         <item quantity="other">Goal: %1$d hours</item>
     </plurals>
@@ -63,6 +78,27 @@
     <plurals name="sum_cycle_days">
         <item quantity="other">รอบประจำเดือน %1$d-วัน</item>
     </plurals>
+    <plurals name="time_duration_compare_standard">
+        <item quantity="other">≤%1$d minutes</item>
+    </plurals>
+    <plurals name="time_duration_hour_float">
+        <item quantity="other">%1$.2f hrs</item>
+    </plurals>
+    <plurals name="time_duration_hour_int">
+        <item quantity="other">%d hrs</item>
+    </plurals>
+    <plurals name="time_duration_hour_standard">
+        <item quantity="other">%1$.1f-%2$.1f hours</item>
+    </plurals>
+    <plurals name="time_duration_minute">
+        <item quantity="other">%1$d minutes</item>
+    </plurals>
+    <plurals name="time_duration_minute_standard">
+        <item quantity="other">%1$d-%2$d minutes</item>
+    </plurals>
+    <plurals name="time_duration_time">
+        <item quantity="other">%1$d times</item>
+    </plurals>
     <plurals name="times_format">
         <item quantity="other">%1$d ครั้ง</item>
     </plurals>
@@ -80,6 +116,9 @@
     </plurals>
     <plurals name="unit_days">
         <item quantity="other">" วัน"</item>
+    </plurals>
+    <plurals name="unit_times">
+        <item quantity="other">" times"</item>
     </plurals>
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d ปี</item>

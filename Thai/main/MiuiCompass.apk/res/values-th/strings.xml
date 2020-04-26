@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">กลับ</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_query">คำค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="allow">อนุญาต</string>
     <string name="altitude">%.1f</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
@@ -23,6 +50,7 @@
     <string name="cancel">ยกเลิก </string>
     <string name="cannot_get_location">--</string>
     <string name="compass_settings">การตั้งค่า</string>
+    <string name="copy">คัดลอก</string>
     <string name="cta_v2_app_purpose">แสดง ทิศทาง พิกัด ความดันบรรยากาศ และระดับความสูงปัจจุบัน</string>
     <string name="dialog_body_no_network">เชื่อมต่อกับ Wi-fi หรือเปิดข้อมูลมือถือ</string>
     <string name="dialog_calibrat_altitude">กำลังปรับเทียบ…</string>
@@ -38,6 +66,7 @@
     <string name="do_not_show_next_time">ไม่ต้องแสดงอีก</string>
     <string name="error_camera_unavailable">ตรวจสอบถ้าหากมีการใช้งานกล้องของแอปอื่นๆอยู่</string>
     <string name="error_camera_unavailable_title">กล้องไม่พร้อมใช้งาน</string>
+    <string name="expand_button_title">ขั้นสูง</string>
     <string name="first_using_dialog_message">ในการใช้งานแอปเข็มทิศจำเป็นต้องเชื่อมต่อกับเครือข่ายและกล้องถ่ายรูป พร้อมทั้งใช้การระบุตำแหน่งพิกัดของเครื่อง</string>
     <string name="first_using_dialog_title">การอนุญาตของแอป</string>
     <string name="guide_toast">กรุณาขยับอุปกรณ์ตามรูปเพื่อปรับเทียบ</string>
@@ -54,17 +83,24 @@
     <string name="longitude">ลองติจูด</string>
     <string name="mobiledata_alert_dialog_message">เชื่อมกับต่ออินเตอร์เน็ตเพื่อปรับตั้งค่าความสูงชัน?</string>
     <string name="mobiledata_alert_dialog_title">คำเตือนการใช้งานข้อมูล</string>
+    <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="open_perm_msg">เข็มทิศต้องการเข้าถึงข้อมูลตำแหน่งและกล้องถ่ายรูป นี่เป็นสิ่งจำเป็นในการกำหนดพิกัดและแสดงตัวอย่างสด อนุญาตหรือไม่?</string>
     <string name="open_perm_title">สิทธิ์ที่จำเป็น</string>
     <string name="permission_camera_desc">ใช้ตัววัดระดับน้ำ</string>
     <string name="permission_location_desc">แสดงพิกัดและความดันบรรยากาศ</string>
+    <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="preference_other">อื่นๆ</string>
     <string name="preference_privacy_title">นโยบายความเป็นส่วนตัว</string>
     <string name="pressure">%.1f</string>
     <string name="pressure_title">ความกดอากาศ</string>
     <string name="pressure_unit">hPa</string>
+    <string name="search_menu_title">ค้นหา</string>
     <string name="shake_enter_tip">ควงโทรศัพท์เพื่อปรับเทียบเข็มทิศ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="unit_degree">องศา</string>
     <string name="using_camera_confirm_cancel">ออก</string>
     <string name="using_camera_confirm_ok">ตกลง</string>
+    <string name="v7_preference_off">ปิด</string>
+    <string name="v7_preference_on">เปิด</string>
 </resources>

@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -93,6 +111,9 @@
         <item>LDAC</item>
         <item>เสียง Qualcomm® aptX™ Adaptive</item>
         <item>เสียง Qualcomm® aptX™ TWS+</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
@@ -105,6 +126,9 @@
         <item>LDAC</item>
         <item>เสียง Qualcomm® aptX™ Adaptive</item>
         <item>เสียงQualcomm® aptX™ TWS+</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
@@ -130,8 +154,8 @@
         <item>ปิดใช้อยู่</item>
         <item>เปิดใช้งานตัวกรอง</item>
         <item>เปิดใช้งาน</item>
-        <item>เปิดใช้งาน ตัวกรองส่วนหัว</item>
-        <item>เปิดใช้งาน ตัวกรองแพ็คเก็ตสื่อมีเดีย</item>
+        <item>เปิดใช้งาน \"ตัวกรองส่วนหัว\"</item>
+        <item>เปิดใช้งาน \"ตัวกรองแพ็คเก็ตสื่อมีเดีย\"</item>
     </string-array>
     <string-array name="clock_options">
         <item>แสดงชั่วโมง นาที และวินาที</item>

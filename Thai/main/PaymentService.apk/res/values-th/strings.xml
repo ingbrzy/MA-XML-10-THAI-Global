@@ -23,7 +23,7 @@
     <string name="passport_account_hint_text">ที่อยู่อีเมล หมายเลขโทรศัพท์ หรือรหัสบัญชี Mi</string>
     <string name="passport_account_identity_title">ยืนยันตัวตนของคุณ</string>
     <string name="passport_account_label">บัญชี Mi</string>
-    <string name="passport_account_name">บัญชีผู้ใช้: %1$s</string>
+    <string name="passport_account_name">"บัญชีผู้ใช้: %1$s "</string>
     <string name="passport_account_not_activated">ยังไม่ได้เปิดใช้งานบัญชี</string>
     <string name="passport_account_not_actived">บัญชีของคุณยังไม่ได้เปิดใช้งาน</string>
     <string name="passport_account_set_password">ตั้งรหัสผ่าน</string>
@@ -213,4 +213,5 @@
     <string name="passport_wrong_phone_number_format">รูปแบบของหมายเลขโทรศัพท์ที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_wrong_vcode">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_yes">ใช่</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

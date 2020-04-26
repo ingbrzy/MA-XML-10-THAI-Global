@@ -91,7 +91,6 @@
     <string name="description_image_button_four">สี่</string>
     <string name="description_image_button_hangup">วางสาย</string>
     <string name="description_image_button_message_enter">ตอบกลับด้วยข้อความ</string>
-    <string name="description_image_button_message_exit">ซ่อนข้อความ</string>
     <string name="description_image_button_nine">เก้า</string>
     <string name="description_image_button_one">หนึ่ง</string>
     <string name="description_image_button_pound">สี่เหลี่ยม</string>
@@ -207,4 +206,5 @@
     <string name="wait_prompt_str">"ส่งสัญญาณโทนเสียงนี้?
 "</string>
     <string name="waiting_close_airplane_mode">รอสักครู่…</string>
+    <string name="wifi_call">โทร VoWifi</string>
 </resources>

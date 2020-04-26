@@ -41,7 +41,6 @@
     <string name="agree_camera_permission">สำหรับการถ่ายภาพและบันทึกวิดีโอ</string>
     <string name="agree_storage_permission">สำหรับการเข้าถึงภาพถ่ายและไฟล์ที่เก็บไว้ในอุปกรณ์ของคุณ</string>
     <string name="always">เสมอ</string>
-    <string name="amazon_assistant_shopping_title">ค้นหาใน Amazon</string>
     <string name="app_description_content">ตัวสแกนช่วยให้คุณสามารถสแกน QR โค้ด เอกสาร นามบัตรและอื่นๆได้ ตรวจสอบให้แน่ใจว่าคุณเข้าใจถึงคุณสมบัติเหล่านี้ก่อนที่คุณจะถอนการติดตั้งแอป</string>
     <string name="app_description_title">เกี่ยวกับตัวสแกน</string>
     <string name="app_details">แอป:</string>
@@ -74,6 +73,7 @@
     <string name="choose_open_code_app">เลือกแอป</string>
     <string name="choose_pay_title">เลือกวิธีการชำระเงิน</string>
     <string name="choose_picture">เลือกรูปภาพรหัส QR</string>
+    <string name="choosed_title">เลือกแล้ว</string>
     <string name="classesNameNull_toast">ชื่อวิชาเรียนไม่สามารถเว้นว่างได้</string>
     <string name="classes_canfirmTitle">ยืนยันผลลัพธ์และเริ่มนำเข้า</string>
     <string name="classes_company">นำเข้า</string>
@@ -100,10 +100,16 @@
     <string name="copy_text">คัดลอกข้อความ</string>
     <string name="copy_text_success">คัดลอกข้อความแล้ว</string>
     <string name="copy_tracknum">คัดลอกรหัสติดตาม</string>
+    <string name="create">สร้างรหัส QR</string>
+    <string name="createFail">ไม่สามารถสร้างรหัส QR ได้ ข้อความของคุณยาวเกินไป</string>
+    <string name="createQRCode_hint">ป้อนข้อความ</string>
+    <string name="createQRCode_save">บันทึก</string>
+    <string name="create_again">รีเฟรช</string>
     <string name="crop_cancel_description">ยกเลิก</string>
     <string name="crop_done_description">เสร็จสิ้น</string>
     <string name="crop_title_study">ตัดรูปภาพ</string>
     <string name="crop_title_translation">เลือกข้อความที่ต้องการจะแปล</string>
+    <string name="delete">ลบ</string>
     <string name="document_color_picture">สี</string>
     <string name="document_color_picture_tip">กำลังแปลงเป็นเอกสารสี…</string>
     <string name="document_crop_title">ตัดภาพเอกสาร</string>
@@ -158,6 +164,8 @@
     <string name="food_module_title_food">แคลอรี่</string>
     <string name="got_it">รับทราบ</string>
     <string name="gps">การนำทาง</string>
+    <string name="history">ประวัติ</string>
+    <string name="importFailed">ไม่สามารถนำเข้าได้</string>
     <string name="import_contact">นำเข้ารายชื่อ</string>
     <string name="impunity_declaration_content">เครื่องสแกนต้องใช้กล้องและประมวลผลภาพที่คุณถ่ายขณะใช้แอป อย่าใช้เครื่องสแกนในการถ่ายภาพวัตถุที่มีข้อมูลส่วนบุคคลของคุณ โดยการแตะที่ \"เห็นด้วย\" คุณเห็นด้วยกับ &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"> นโยบายความเป็นส่วนตัว &lt;/a>&lt;/font> ของเรา และอนุญาตเครื่องสแกนเพื่อเชื่อมต่อกับอินเตอร์เนต</string>
     <string name="impunity_declaration_negative_text">ออก</string>
@@ -228,6 +236,11 @@
     <string name="recognize">สแกน</string>
     <string name="recognize_fail">อ่านรหัสไม่ได้</string>
     <string name="request_server_failed">ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้</string>
+    <string name="saveDone">บันทึกเรียบร้อยแล้ว</string>
+    <string name="scanHistory">ประวัติตัวสแกน</string>
+    <string name="scanHistory_close">ปิดใช้งาน</string>
+    <string name="scanHistory_isOpen">เริ่มติดตามประวัติของรายการสแกนตอนนี้หรือไม่?</string>
+    <string name="scanHistory_open">เปิดใช้งาน</string>
     <string name="scan_result">ผลลัพธ์</string>
     <string name="scan_support_type">WeChat Alipay รหัส QR บาร์โค้ด</string>
     <string name="sdk_not_ready">กำลังเตรียม SDK ลองอีกครั้งในภายหลัง</string>

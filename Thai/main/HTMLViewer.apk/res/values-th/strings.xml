@@ -6,7 +6,7 @@
     <string name="app_version_which_call">เวอร์ชั่นแอป: %s</string>
     <string name="autoconnect">เชื่อมต่อโดยอัตโนมัติ</string>
     <string name="ime_privacy_policy">เลือกแป้นพิมพ์</string>
-    <string name="license_host_unreachable">"เชื่อมต่อเครือข่ายไม่ได้ กรุณาใช้อุปกรณ์อย่างอื่น
+    <string name="license_host_unreachable">"ไม่สามารถเชื่อมต่อกับเครือข่ายได้ กรุณาใช้อุปกรณ์อย่างอื่น
 เปิด%sเพื่อเรียกดูข้อมูลนี้"</string>
     <string name="loading">รอสักครู่…</string>
     <string name="mibi_license">ข้อตกลงการใช้งาน Mi เครดิต</string>
@@ -16,7 +16,7 @@
     <string name="permdesc_accessDrm">อนุญาตให้แอปเข้าถึงเนื้อหาการป้องกัน DRM</string>
     <string name="poco_launcher_privacy_policy">นโยบายความเป็นส่วนตัวของ POCO launcher</string>
     <string name="poco_launcher_user_agreement">ข้อตกลงการใช้งานของ POCO Launcher</string>
-    <string name="poco_privacy_policy">นโยบายความเป็นส่วนตัว POCO Launcher &amp; ข้อตกลงการใช้งาน POCO Launcher</string>
+    <string name="poco_privacy_policy">นโยบายความเป็นส่วนตัว POCO Launcherและข้อตกลงการใช้งาน POCO Launcher</string>
     <string name="policy_name">ชื่อสัญญา: %s</string>
     <string name="pre_installed_apps">แอปที่ติดตั้งไว้ล่วงหน้า</string>
     <string name="settings_ad_loading">รอสักครู่…</string>
@@ -26,6 +26,6 @@
     <string name="settings_license_activity_unavailable">โหลดการอนุญาตไม่ได้</string>
     <string name="settings_safetylegal_activity_loading">รอสักครู่…</string>
     <string name="settings_safetylegal_activity_title">ความปลอดภัยข้อมูล</string>
-    <string name="settings_safetylegal_activity_unreachable">เชื่อมต่อเครือข่ายไม่ได้ เพื่อเรียกดูข้อมูลตอนนี้ กรุณาใช้คอมพิวเตอร์อื่นที่เชื่อมต่อเน็ตอยู่ในการเปิด%s</string>
+    <string name="settings_safetylegal_activity_unreachable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ เพื่อเรียกดูข้อมูลตอนนี้ กรุณาใช้คอมพิวเตอร์อื่นที่เชื่อมต่อเน็ตอยู่ในการเปิด%s</string>
     <string name="settings_safetylegal_title">ความปลอดภัยข้อมูล</string>
 </resources>

@@ -97,7 +97,7 @@
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">ปฏิเสธและไม่ต้องถามอีก</string>
     <string name="location_settings">การตั้งค่าตำแหน่ง</string>
     <string name="location_warning">%1$s เป็นผู้ให้บริการการระบุตำแหน่งพิกัดสำหรับอุปกรณ์นี้ การเข้าถึงสถานที่ตั้งสามารถแก้ไขได้จากการตั้งค่าตำแหน่งพิกัด</string>
-    <string name="never_ask_again">ไม่ต้องถามอีก</string>
+    <string name="never_ask_again">ไม่ต้องถามอีกหลังจากจำกัด</string>
     <string name="ok">ตกลง</string>
     <string name="permdesc_camera">ถ่ายภาพและบันทึกวิดีโอ</string>
     <string name="permdesc_in_calls">มอนิเตอร์สายเรียกเข้า</string>

@@ -7,7 +7,7 @@
         <item quantity="other">คำสั่งของคุณไม่สามารถดำเนินการได้ระหว่างอยู่ในโหมดโทรกลับฉุกเฉิน มือถือเครื่องนี้จะอยู่ในโหมดนี้เป็นเวลา %s นาที คุณต้องการออกตอนนี้หรือไม่?</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">หน่วง: %s วินาที</item>
+        <item quantity="other">หน่วง: %d วินาที</item>
     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">คุณสามารถเพิ่มได้มากสุด %s คน เลือกอีกครั้ง</item>

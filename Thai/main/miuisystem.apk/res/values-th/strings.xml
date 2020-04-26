@@ -194,7 +194,7 @@
     <string name="mijazz">Mi แจ๊ส</string>
     <string name="cta_permission_delimiter">, </string>
     <string name="cta_permission_and"> และ </string>
-    <string name="cta_title">เงื่อนไขการใช้</string>
+    <string name="cta_title">เงื่อนไขการใช้งาน</string>
     <string name="cta_message_license">ในการใช้ผลิตภัณฑ์ดังกล่าว ถือว่าคุณได้ยอมรับเงื่อนไขที่ระบุไว้ในเงื่อนไขการให้บริการและนโยบายความเป็นส่วนตัวของทางเรา</string>
     <string name="cta_message_permission">แอปดังกล่าวจำเป็นต้อง%2$sเพื่อให้ใช้งานได้ตามปกติ</string>
     <string name="cta_check_reminder">ไม่ต้องแสดงอีก</string>

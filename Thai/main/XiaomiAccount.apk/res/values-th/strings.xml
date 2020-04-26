@@ -120,6 +120,7 @@
     <string name="passport_change_phone_number">สลับหมายเลข</string>
     <string name="passport_forget_password"><u>ลืมรหัสผ่าน</u></string>
     <string name="passport_forget_password_no_underline">ลืมรหัสผ่าน</string>
+    <string name="passport_can_not_receive_verification_code">ไม่ได้รับรหัสยืนยัน?</string>
     <string name="passport_reg_type_email">ที่อยู่อีเมล</string>
     <string name="passport_register_by_email"><u>สร้างบัญชีใหม่โดยใช้อีเมล</u></string>
     <string name="passport_international_register_by_email">สร้างบัญชีใหม่โดยใช้อีเมล</string>
@@ -446,7 +447,7 @@
     <string name="two_factor_auth_need_code">ป้อนรหัส</string>
     <string name="two_factor_auth_need_code_summary">คุณจะเห็นรหัสบนอุปกรณ์ Mi ที่เชื่อมต่ออื่นๆ ป้อนรหัสนี้ในอุปกรณ์ใหม่เพื่อลงชื่อเข้าใช้</string>
     <string name="completed">เสร็จสมบูรณ์!</string>
-    <string name="no_network_title">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
+    <string name="no_network_title">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="no_network_btn">รีเฟรช</string>
     <string name="get_device_list_failed">ไม่พบข้อมูลอุปกรณ์</string>
     <string name="delete_device_failed">ลบอุปกรณ์ไม่สำเร็จ</string>
@@ -505,7 +506,9 @@
     <string name="input_new_pwd">ป้อนรหัสผ่านใหม่</string>
     <string name="confirm_new_pwd">ยืนยันรหัสผ่านใหม่</string>
     <string name="inconsistent_pwd">รหัสผ่านไม่ตรงกัน</string>
-    <string name="same_new_and_old_pwd">รหัสผ่านจะต้องไม่ซ้ำกันกับรหัสผ่านที่ใช้อยู่ในปัจจุบัน</string>
+    <string name="same_new_and_old_pwd">รหัสผ่านใหม่จะต้องแตกต่างจากรหัสเดิม</string>
+    <string name="pwd_width_phone_number_or_mail_num">รหัสผ่านต้องไม่มี หมายเลขโทรศัพท์ อีเมล หรือรหัสบัญชี Mi ของคุณ</string>
+    <string name="risky_pwd_not_allow">รหัสผ่านใหม่ไม่ปลอดภัย โปรดตั้งค่าเป็นอย่างอื่น</string>
     <string name="account_security_info_pref_title">ข้อมูลความปลอดภัย</string>
     <string name="account_bind_settings">บัญชี</string>
     <string name="account_bind_devices">อุปกรณ์</string>

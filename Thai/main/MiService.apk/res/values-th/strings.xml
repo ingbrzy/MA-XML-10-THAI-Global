@@ -30,8 +30,12 @@
     <string name="mi_service_app_name">บริการและข้อเสนอแนะ</string>
     <string name="miservice_channel_update_notification_info">\"บริการและข้อเสนอแนะ\" กำลังขอข้อมูลออนไลน์…</string>
     <string name="miservice_notification_boot_content">เรียนรู้เพิ่มเติมเกี่ยวกับสิ่งที่ MIUI สามารถทำได้</string>
+    <string name="miservice_notification_huanji_content">โอนย้ายโดยใช้ Mi Mover</string>
+    <string name="miservice_notification_huanji_title">มีรายการสำคัญในโทรศัพท์เครื่องเก่าของคุณหรือไม่?</string>
     <string name="miservice_notification_open_feedback_content">ข้อเสนอแนะทั้งหมดถูกย้ายไปที่แอปใหม่</string>
     <string name="miservice_notification_open_feedback_title">แนะนำ \"บริการและข้อเสนอแนะ\"</string>
+    <string name="miservice_notification_scan_content">ใช้ตัวสแกนเพื่อแปลคำและวลี</string>
+    <string name="miservice_notification_scan_title">แปลได้อย่างรวดเร็ว</string>
     <string name="miui_feedback_answer_detail_community">คุณสามารถหาคำตอบสำหรับคำถามของคุณได้ในชุมชน Mi</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">ใช่</string>
     <string name="miui_feedback_answer_detail_feedback_result">ขอบคุณสำหรับข้อเสนอแนะของคุณ!</string>
@@ -46,6 +50,7 @@
     <string name="miui_feedback_edit_add_original_images_dialog_content">หากปัญหาที่คุณรายงานนั้นเกี่ยวกับคุณภาพจากภาพของกล้อง เพิ่มรูปต้นฉบับ (ไม่ครอบตัด) เพื่อช่วยเราค้นหาปัญหา เพิ่มรูปถ่ายตอนนี้?</string>
     <string name="miui_feedback_edit_choose_module">เลือกรายการ</string>
     <string name="miui_feedback_edit_choose_module_hint">จำเป็นต้องระบุ</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">เวลา</string>
     <string name="miui_feedback_edit_choose_reproductivity">การทำสำเนา</string>
     <string name="miui_feedback_edit_choose_third_app_name">เลือกชื่อแอป</string>
     <string name="miui_feedback_edit_contact_info_hint">หมายเลขโทรศัพท์/อีเมล</string>
@@ -58,12 +63,13 @@
     <string name="miui_feedback_edit_discard_draft_dialog_title">ยกเลิกแบบร่าง?</string>
     <string name="miui_feedback_edit_hint">รายงานข้อผิดพลาดเวลาที่คุณพบปัญหาเพื่อช่วยให้เราแก้ปัญหาได้เร็วขึ้น กรุณาใช้ภาษาไทยหรืออังกฤษ</string>
     <string name="miui_feedback_edit_hint_gone">ปิดข้อความ</string>
+    <string name="miui_feedback_edit_hint_optional">เลือก</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">รอเครือข่าย Wi-Fi</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">อัปโหลด</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">ดูเหมือนว่าคุณกำลังเชื่อมต่อกับเครือข่ายแบบชำระเงิน การอัปโหลดบันทึกอาจมีค่าใช้จ่ายเพิ่มเติม</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_title">คำเตือนการใช้เครือข่ายข้อมูล</string>
     <string name="miui_feedback_edit_need_phone_state_permission">อนุญาตให้แอปเข้าถึงข้อมูลอุปกรณ์เพื่อให้แอปอ่าน IMEI ของคุณ ซึ่งจะช่วยระบุปัญหา แตะ \"ตกลง\" เพื่อเปิดการตั้งค่า</string>
-    <string name="miui_feedback_edit_need_storage_permission">อนุญาตให้แอปเข้าถึงที่เก็บข้อมูลอุปกรณ์เพื่อให้สามารถแนบรูปภาพและวิดีโอตามความคิดเห็นของคุณ แตะ \"ตกลง\" เพื่อเปิดการตั้งค่า</string>
+    <string name="miui_feedback_edit_need_storage_permission">อนุญาตให้แอปเข้าถึงที่เก็บข้อมูลอุปกรณ์เพื่อให้สามารถแนบรูปภาพและวิดีโอกับข้อเสนอแนะของคุณ แตะ \"ตกลง\" เพื่อเปิดการตั้งค่า</string>
     <string name="miui_feedback_edit_permission_denied_title">จำกัดสิทธิ์: %1$s</string>
     <string name="miui_feedback_edit_phone_state_permission_name">เข้าถึงข้อมูลอุปกรณ์</string>
     <string name="miui_feedback_edit_reproductivity_everytime">ตลอดเวลา</string>
@@ -92,6 +98,7 @@
     <string name="miui_feedback_edit_submit_dialog_not_show_again">ไม่ต้องแสดงอีก</string>
     <string name="miui_feedback_edit_submit_dialog_title">ส่งรายงาน</string>
     <string name="miui_feedback_edit_submit_directly">ส่ง</string>
+    <string name="miui_feedback_edit_title_occurrence_time">เลือกเวลา</string>
     <string name="miui_feedback_edit_title_reproductivity">เลือกการทำสำเนา</string>
     <string name="miui_feedback_edit_toast_description_required">กรุณาอธิบายรายละเอียดของปัญหา</string>
     <string name="miui_feedback_edit_toast_module_required">เลือกรายการ</string>
@@ -102,7 +109,7 @@
     <string name="miui_feedback_main_answer_title">มีคำตอบสำหรับคำถามนี้</string>
     <string name="miui_feedback_main_frequent_question_title">คำถามที่พบบ่อย</string>
     <string name="miui_feedback_main_menu_catch_full_log">สร้างบันทึก</string>
-    <string name="miui_feedback_main_menu_feedback_list">ดูประวัติความคิดเห็น</string>
+    <string name="miui_feedback_main_menu_feedback_list">ดูประวัติข้อเสนอแนะ</string>
     <string name="miui_feedback_main_search_footer">นี่ไม่ใช่คำถามที่คุณต้องการถาม?</string>
     <string name="miui_feedback_main_search_issue">ป้อนคำค้นที่จะใช้ค้นหา</string>
     <string name="miui_feedback_main_start_submit">ส่งข้อเสนอแนะ</string>
@@ -138,16 +145,16 @@
     <string name="permission_exit">ออก</string>
     <string name="permission_first_start_network_title">ข้อตกลงและเงื่อนไข</string>
     <string name="permission_main_purpose">แสดงการสาธิตคุณสมบัติ MIUI ส่งข้อเสนอแนะและสมัครใช้บริการหลังการขาย</string>
-    <string name="permission_privacy">นโยบายความเป็นส่วนตัว (บังคับ)</string>
+    <string name="permission_privacy">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
     <string name="permission_region_version_msg">&lt;Data>ก่อนที่จะใช้ \"บริการและข้อเสนอแนะ\", คุณต้องอ่านและยอมรับใน &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา&lt;/Data></string>
     <string name="permission_select_all">เลือกทั้งหมด</string>
     <string name="permission_storage">พื้นที่จัดเก็บข้อมูล</string>
     <string name="permission_storage_introduce">สำหรับบันทึกรายการบนอุปกรณ์ของคุณ</string>
-    <string name="permission_user_protocol">ข้อตกลงการใช้งาน (บังคับ)</string>
+    <string name="permission_user_protocol">ข้อตกลงการใช้งาน (จำเป็น)</string>
     <string name="public_loading_text">รอสักครู่…</string>
     <string name="public_net_error_retry">ลองอีกครั้ง</string>
     <string name="public_net_error_sub_title">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
-    <string name="public_net_error_title">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
+    <string name="public_net_error_title">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

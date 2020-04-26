@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">กล้อง</string>
     <string name="accessibility_carrier_network_change_mode">แก้ไขผู้ให้บริการเครือข่าย</string>
     <string name="accessibility_cast_name">เชื่อมต่อไปยัง %s แล้ว</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">หยุดการฉายภาพหน้าจอ</string>
     <string name="accessibility_cell_data">ข้อมูลมือถือ</string>
     <string name="accessibility_cell_data_off">ข้อมูลมือถือปิด</string>
@@ -312,6 +313,8 @@
     <string name="available_via_carrier">พร้อมใช้งานผ่าน %1$s</string>
     <string name="available_via_passpoint">สามารถเชื่อมต่อผ่าน %1$s</string>
     <string name="back">ย้อนกลับ</string>
+    <string name="band_24G">" (ย่านความถี่ 2.4 GHz)"</string>
+    <string name="band_5G">" (ย่านความถี่ 5 GHz)"</string>
     <string name="battery">แบตเตอรี่</string>
     <string name="battery_can_use_time">ใช้ได้อีกประมาณ %s</string>
     <string name="battery_detail_charging_summary">ตัวประหยัดแบตเตอรี่ไม่พร้อมใช้งานขณะชาร์จ</string>
@@ -442,7 +445,7 @@
     <string name="branded_vpn_footer">เครือข่ายอาจได้รับการตรวจสอบ</string>
     <string name="broadcast_tile">ถ่ายทอดบล็อก</string>
     <string name="bt_hci_snoop_log">เปิดใช้บันทึกบลูทูธ HCI</string>
-    <string name="bt_hci_snoop_log_summary">บันทึกแพ็คเกจบลูทูธ HCI ทั้งหมดเป็นไฟล์</string>
+    <string name="bt_hci_snoop_log_summary">จับแพ็คเก็ตบลูทูธ (เปิด-ปิดบลูทูธหลังจากเปลี่ยนการตั้งค่านี้)</string>
     <string name="bt_is_off">บลูทูธปิด</string>
     <string name="btn_camera">ใส่ใบหน้าของคุณ</string>
     <string name="bugreport_in_power">วิดเจ็ตรายงานข้อผิดพลาด</string>
@@ -773,26 +776,6 @@
     <string name="gxzw_area">ตัวสแกนลายนิ้วมือ</string>
     <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">กดแรงหน่อย</string>
-    <string name="gxzw_quick_open_add_event">เพิ่มกิจกรรม</string>
-    <string name="gxzw_quick_open_add_event_sub">ปฏิทิน</string>
-    <string name="gxzw_quick_open_alipay_pay">รหัสชำระเงิน</string>
-    <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
-    <string name="gxzw_quick_open_alipay_scan">ตัวสแกน</string>
-    <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
-    <string name="gxzw_quick_open_qr_code">รหัส QR</string>
-    <string name="gxzw_quick_open_qr_code_sub">ตัวสแกน</string>
-    <string name="gxzw_quick_open_search">ค้นหา</string>
-    <string name="gxzw_quick_open_search_sub">เบราเซอร์</string>
-    <string name="gxzw_quick_open_skip_teach">ข้ามแนะนำวิธีการ</string>
-    <string name="gxzw_quick_open_wechat_pay">รหัสชำระเงิน</string>
-    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
-    <string name="gxzw_quick_open_wechat_scan">ตัวสแกน</string>
-    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
-    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
-    <string name="gxzw_quick_open_xiaoai_title1">พูดชื่อแอปที่คุณต้องการเปิด</string>
-    <string name="gxzw_quick_open_xiaoai_title2">พูดชื่อสถานที่ที่คุณต้องการใช้</string>
-    <string name="gxzw_quick_tip_press">กดต่อไปเรื่อยๆ…</string>
-    <string name="gxzw_quick_tip_slide">อย่ายกนิ้วของคุณ เลื่อนเพื่อเลือก</string>
     <string name="gxzw_try_again">ลองอีกครั้ง</string>
     <string name="gxzw_try_more_again">ลองอีกครั้ง</string>
     <string name="gxzw_use_password">ใช้รหัสผ่านของคุณเพื่อปลดล็อก</string>
@@ -915,6 +898,10 @@
     <string name="keyguard_charging_back_to_lockscreen">กลับไปที่ล็อกหน้าจอ</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">ใช้แบตเตอรี่</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">สัดส่วนการใช้แบต</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">วันนี้ %s</string>
@@ -942,6 +929,7 @@
     <string name="keyguard_missing_sim_instructions_long">ไม่พบซิมการ์ดหรืออ่านซิมการ์ดไม่ได้ กรุณาใส่ซิมการ์ด</string>
     <string name="keyguard_missing_sim_message">ไม่พบซิมการ์ดในเครื่อง</string>
     <string name="keyguard_missing_sim_message_short">ไม่พบซิมการ์ด</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">เครือข่ายถูกล็อกไว้</string>
     <string name="keyguard_password_enter_password_code">ป้อนรหัสผ่านเพื่อปลดล็อก</string>
     <string name="keyguard_password_enter_pin_code">ป้อนรหัส PIN</string>
@@ -1025,6 +1013,7 @@
     <string name="left_keycode">คีย์โค๊ดซ้าย</string>
     <string name="left_nav_bar_button_type">ประเภทปุ่มซ้ายพิเศษ</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="loading_injected_setting_summary">กำลังโหลด…</string>
     <string name="local_backup_password_summary_change">แตะเพื่อแก้ไขหรือลบรหัสผ่านสำหรับการสำรองข้อมูลหน้าจอหลักเต็มรูปแบบ</string>
     <string name="local_backup_password_summary_none">การสำรองข้อมูลหน้าจอหลักเต็มรูปแบบไม่ได้รับการป้องกันในขณะนี้</string>
@@ -1100,6 +1089,7 @@ d MMMM"</string>
     <string name="miui_guide_dialog_message">เสียงสื่อ (เพลง วิดีโอ ฯลฯ) จะยังคงเล่นในโหมดเงียบ คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ปลดล็อกโดยใช้อุปกรณ์บลูทูธ</string>
     <string name="miui_ringer_count_down">นับถอยหลัง</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">ปิดเสียง</string>
     <string name="miui_ringer_standard_description">ปิดเสียงเรียกเข้าสำหรับสายเรียกเข้าและการแจ้งเตือน</string>
     <string name="miui_ringer_total">ห้ามรบกวน</string>
@@ -1127,12 +1117,14 @@ d MMMM"</string>
 
 สำหรับข้อมูลเพิ่มเติมโปรดติดต่อผู้ดูแลระบบของคุณ"</string>
     <string name="monitoring_description_ca_cert_settings">เปิดหนังสือรับรองที่เชื่อถือได้</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">ผู้ให้บริการออกใบรับรองถูกติดตั้งบนอุปกรณ์นี้ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_do_body">ผู้ดูแลระบบของคุณสามารถตรวจสอบและจัดการการตั้งค่า การเข้าถึงองค์กร แอป ข้อมูลที่เกี่ยวข้องกับอุปกรณ์และข้อมูลตำแหน่งของอุปกรณ์ของคุณได้</string>
     <string name="monitoring_description_do_body_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ของคุณได้</string>
     <string name="monitoring_description_do_header_generic">อุปกรณ์ของคุณมีการจัดการโดย %1$s</string>
     <string name="monitoring_description_do_header_with_name">%1$s ใช้ %2$s เพื่อจัดการอุปกรณ์ของคุณ</string>
     <string name="monitoring_description_do_learn_more">เรียนรู้เพิ่มเติม</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">องค์กรของคุณได้ติดตั้งผู้ออกใบรับรองในโปรไฟล์งานของคุณ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_managed_profile_named_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ได้</string>
     <string name="monitoring_description_management">"อุปกรณ์ของคุณมีการจัดการโดยองค์กรของคุณ 
@@ -1164,6 +1156,7 @@ d MMMM"</string>
 
  คุณเชื่อมต่อกับ VPN ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายของคุณได้"</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">ใบรับรอง CA</string>
     <string name="monitoring_subtitle_network_logging">บันทึกข้อมูลระบบเครือข่าย</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1202,6 +1195,7 @@ d MMMM"</string>
     <string name="nav_guide_message">ใช้ท่าทางเพื่อซ่อน/แสดงปุ่มซอฟท์</string>
     <string name="nav_guide_ok">ติดตั้ง</string>
     <string name="nav_guide_title">ซ่อนปุ่มซอฟท์</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">ไม่มี</string>
     <string name="no_multi_window_app">ไม่มีแอปซึ่งรองรับการแบ่งหน้าจอ</string>
     <string name="no_notification_tips">ไม่มีการแจ้งเตือน</string>
@@ -1374,6 +1368,7 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">ชื่อผู้ให้บริการ DNS ส่วนตัว</string>
     <string name="private_dns_mode_provider_failure">เชื่อมต่อไม่ได้</string>
     <string name="private_dns_mode_provider_hostname_hint">ป้อนผู้ให้บริการ DNS ส่วนตัว</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">โปรไฟล์อาจได้รับการตรวจสอบ</string>
     <string name="prompt_danger">อันตราย</string>
     <string name="prompt_detecting">กำลังตรวจจับ</string>
@@ -1490,6 +1485,7 @@ d MMMM"</string>
     <string name="quick_settings_wifi_not_connected">ไม่ได้เชื่อมต่อ</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi ปิดอยู่</string>
     <string name="quick_settings_wifi_on_label">Wi-Fi เปิดอยู่</string>
+    <string name="quick_settings_wireless_label">ย้อนกลับการชาร์จแบบไร้สาย</string>
     <string name="quick_settings_work_mode_label">โหมดทำงาน</string>
     <string name="rapid_charge_mode_tip">ชาร์จด่วน</string>
     <string name="recent_cannot_dock">ไม่สามารถใช้หน้าจอแยกในพื้นที่ทับซ้อนได้</string>
@@ -1575,7 +1571,9 @@ d MMMM"</string>
     <string name="screenshot_edit">แก้ไข</string>
     <string name="screenshot_failed_title">ไม่สามารถจัดถ่ายภาพหน้าจอได้</string>
     <string name="screenshot_failed_to_capture_text">แอปหรือองค์กรของคุณไม่อนุญาตให้ถ่ายภาพหน้าจอ</string>
+    <string name="screenshot_failed_to_capture_title">แอปนี้ไม่อนุญาตให้ถ่ายภาพหน้าจอ</string>
     <string name="screenshot_failed_to_save_text">ไม่สามารถบันทึกภาพหน้าจอได้เนื่องจากพื้นที่เก็บข้อมูลมีจำกัด</string>
+    <string name="screenshot_failed_to_save_title">พื้นที่เก็บข้อมูลไม่เพียงพอสำหรับภาพหน้าจอใหม่</string>
     <string name="screenshot_failed_to_save_unknown_text">เกิดข้อผิดพลาดขณะบันทึกภาพหน้าจอ</string>
     <string name="screenshot_feedback_txt">ข้อเสนอแนะ</string>
     <string name="screenshot_insert_failed">ไม่สามารถโหลดภาพหน้าจอได้ ดำเนินการใหม่อีกครั้งหรือเรียกดูรูปภาพจากคลังภาพ</string>
@@ -1769,7 +1767,7 @@ d MMM"</string>
     <string name="system_ui_tuner">เครื่องมือปรับแต่งระบบ</string>
     <string name="tap_to_sign_up">แตะเพื่อเข้าสู่ระบบ</string>
     <string name="task_access_locked_app_msg">เปิดใช้ล็อกแอปแล้ว</string>
-    <string name="tether_settings_title_all">การแชร์เครือข่าย &amp; ฮอตสปอตแบบพกพา</string>
+    <string name="tether_settings_title_all">การแชร์เครือข่ายและฮอตสปอตแบบพกพา</string>
     <string name="tether_settings_title_bluetooth">แชร์เครือข่ายผ่านบลูทูธ</string>
     <string name="tether_settings_title_usb">แชร์เครือข่ายผ่าน USB</string>
     <string name="tether_settings_title_usb_bluetooth">แชร์เครือข่าย</string>
@@ -1961,6 +1959,7 @@ d MMM"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimal</string>
     <string name="wapi_yes">ใช่</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">อัปเดตล่าสุด %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">จุดเข้าใช้งานชั่วคราวเต็มรูปแบบ</string>
     <string name="wifi_auto_sel_wapi_cert">เลือกโดยอัตโนมัติ</string>
@@ -1984,7 +1983,7 @@ d MMM"</string>
     <string name="wifi_is_off">Wi-Fi ปิดใช้งานอยู่</string>
     <string name="wifi_limited_connection">จำกัดการเชื่อมต่อ</string>
     <string name="wifi_metered_label">ตามอัตราการใช้</string>
-    <string name="wifi_no_internet">ไม่สามารถเข้าถึงอินเตอร์เน็ตได้</string>
+    <string name="wifi_no_internet">ไม่สามรถการเชื่อมต่ออินเตอร์เน็ตได้</string>
     <string name="wifi_no_internet_no_reconnect">ไม่สามรถการเชื่อมต่ออินเตอร์เน็ตได้</string>
     <string name="wifi_not_in_range">ไม่ได้อยู่ในขอบเขต</string>
     <string name="wifi_remembered">บันทึกแล้ว</string>
@@ -2024,6 +2023,15 @@ d MMM"</string>
     <string name="wireless_charge_reset_device">ชาร์จช้า ปรับอุปกรณ์ของคุณ</string>
     <string name="wireless_charge_reset_device_detail">ตรวจสอบให้แน่ใจว่าตำแหน่งของอุปกรณ์ของคุณอยู่บนที่แท่นชาร์จอย่างถูกต้อง</string>
     <string name="wireless_charge_stop">หยุดการชาร์จไร้สาย</string>
+    <string name="wireless_charging_connected_message">ไม่สามารถใช้การชาร์จแบบไร้สายย้อนกลับเมื่ออุปกรณ์ของคุณกำลังชาร์จแบบไร้สาย</string>
+    <string name="wireless_charging_low_battery_level_message">ไม่สามารถใช้การชาร์จแบบไร้สายย้อนกลับได้เมื่อแบตเตอรี่ชาร์จน้อยกว่า 30%</string>
+    <string name="wireless_charging_ok">เข้าใจแล้ว</string>
+    <string name="wireless_charging_saver_cancel">ปิดใช้งาน</string>
+    <string name="wireless_charging_saver_message">เปิดใช้งานการประหยัดแบตเตอรี่แล้ว รักษาการชาร์จแบบไร้สายกลับใช้ได้หรือไม่?</string>
+    <string name="wireless_charging_saver_ok">เก็บไว้</string>
+    <string name="wireless_charging_tips_disable">ไม่ต้องแสดงอีก</string>
+    <string name="wireless_charging_tips_message">วางอุปกรณ์ที่รองรับการชาร์จแบบไร้สาย Qi (โทรศัพท์อุปกรณ์เสริม ฯลฯ) ที่ด้านหลังของอุปกรณ์นี้</string>
+    <string name="wireless_charging_tips_title">ย้อนกลับการชาร์จแบบไร้สาย</string>
     <string name="wrong_password">รหัสผ่านไม่ถูกต้อง</string>
     <string name="zen_alarm_warning">คุณจะไม่ได้ยินเสียงปลุก %1$s</string>
     <string name="zen_alarm_warning_indef">คุณจะไม่ได้ยินเสียงปลุก %1$s นอกเสียจากว่าคุณจะปิดการทำงานนี้ก่อน</string>

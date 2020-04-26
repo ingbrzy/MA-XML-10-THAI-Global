@@ -20,7 +20,7 @@
     <string name="lock_screen_tip_toast">อนุญาตการแจ้งเตือนในหน้าจอล็อคใน \"Format\"</string>
     <string name="lockscreen_notifications">การแจ้งเตือนบนหน้าจอล็อก</string>
     <string name="not_sent_recently">ไม่ใช่เร็วๆนี้</string>
-    <string name="notch_and_status_bar_setting">รายบาก &amp; แถบสถานะ</string>
+    <string name="notch_and_status_bar_setting">รอยบาก &amp; แถบสถานะ</string>
     <string name="notification_display_setting">แถบการแจ้งเตือน</string>
     <string name="notification_display_style">รูปแบบการแจ้งเตือน</string>
     <string name="notification_fold_summary">การแจ้งเตือนที่ไม่สำคัญทั้งหมดจะปรากฏในโฟลเดอร์แยก</string>
@@ -32,6 +32,7 @@
     <string name="on">เปิด</string>
     <string name="settings_guide_title">ต้องการการตั้งค่าอื่นๆ?</string>
     <string name="show_badge_notifications">สัญลักษณ์แจ้งเตือน</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">แถบสถานะ</string>
     <string name="summary_disable_float_notification">ไม่อนุญาตให้ใช้หน้าต่างแจ้งเตือน</string>
     <string name="summary_disable_lockscreen_notification">ไม่อนุญาตให้ใช้การแจ้งเตือนหน้าจอล็อก</string>

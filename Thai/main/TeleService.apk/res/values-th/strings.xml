@@ -58,6 +58,7 @@
     <string name="additional_gsm_call_settings_with_label">การตั้งค่าเพิ่มเติม (%s)</string>
     <string name="administrative_disable">การจัดการปิดใช้งาน</string>
     <string name="administrative_enable">การจัดการเปิดใช้งาน</string>
+    <string name="advanced_mobile_settings">การตั้งค่าขั้นสูง</string>
     <string name="advanced_options_title">ขั้นสูง</string>
     <string name="advanced_settings">การตั้งค่าเพิ่มเติม</string>
     <string name="advanced_settings_hide">▽ แตะเพื่อซ่อนทั้งหมด</string>
@@ -98,9 +99,9 @@
     <string name="audio_mode_wired_headset">หูฟังมีสาย</string>
     <string name="auth_username_summary">ชื่อผู้ใช้ที่ใช้สำหรับการรับรองความถูกต้อง</string>
     <string name="auth_username_title">ชื่อผู้ใช้สำหรับตรวจสอบสิทธิ์</string>
-    <string name="auto_answer_delay_entries_delay_10s">10 วินาที</string>
-    <string name="auto_answer_delay_entries_delay_3s">3 วินาที</string>
-    <string name="auto_answer_delay_entries_delay_5s">5 วินาที</string>
+    <string name="auto_answer_delay_entries_delay_10s">%d วินาที</string>
+    <string name="auto_answer_delay_entries_delay_3s">%d วินาที</string>
+    <string name="auto_answer_delay_entries_delay_5s">%d วินาที</string>
     <string name="auto_answer_delay_entries_immediately">ไม่ต้องหน่วง</string>
     <string name="auto_answer_delay_title">หน่วงเวลาการรับสายอัตโนมัติ</string>
     <string name="auto_answer_pref_summary">รับสายโดยอัตโนมัติ</string>
@@ -117,7 +118,23 @@
     <string name="auto_redial_pref_title">โทรซ้ำโดยอัตโนมัติ</string>
     <string name="auto_retry_mode_summary">เปิดใช้การโทรซ้ำอัตโนมัติ</string>
     <string name="auto_retry_mode_title">ลองซ้ำอัตโนมัติ</string>
+    <string name="autoip">การโทรผ่าน IP อัตโนมัติ</string>
+    <string name="autoip_add_zero_prefix">เพิ่มเลขขึ้นต้นด้วย 0 สำหรับมือถือ</string>
+    <string name="autoip_areacode_required">กรุณาป้อนรหัสพื้นที่</string>
+    <string name="autoip_areacode_required_accept">ตกลง</string>
     <string name="autoip_areacode_required_for_emergency_number">ต้องใส่รหัสพื้นที่ด้วยสำหรับการโทรออกฉุกเฉิน</string>
+    <string name="autoip_autoip_current_areacode_summary">รหัสพื้นที่ปัจจุบันคือ %s</string>
+    <string name="autoip_current_areacode">รหัสพื้นที่ปัจจุบัน</string>
+    <string name="autoip_current_areacode_summary">รหัสพื้นที่ของตำแหน่งพิกัดปัจจุบัน</string>
+    <string name="autoip_exception">เลขหมายที่ไม่ต้องใส่เลขขึ้นต้น IP</string>
+    <string name="autoip_exception_summary">ทั้งหมด %d</string>
+    <string name="autoip_exception_summary_more">, ทั้งหมด %d</string>
+    <string name="autoip_no_exceptions">เพิ่มเลขหมายที่ไม่ต้องใส่เลขขึ้นต้น IP</string>
+    <string name="autoip_prefix">เลขขึ้นต้น IP</string>
+    <string name="autoip_prefix_summary">เลขขึ้นต้น IP ของผู้ให้บริการเครือข่ายคือ %s</string>
+    <string name="autoip_setting">การตั้งค่า IP อัตโนมัติ</string>
+    <string name="autoip_summary">เพิ่มเลขนำหน้า IP สำหรับเลขหมายต่างประเทศ</string>
+    <string name="autoip_support_local_numbers">ใช้เลขขึ้นต้น IP เสมอ</string>
     <string name="available_via_carrier">พร้อมใช้งานผ่านทาง %1$s</string>
     <string name="available_via_passpoint">พร้อมใช้งานผ่านทาง %1$s</string>
     <string name="back">ย้อนกลับ</string>
@@ -391,13 +408,13 @@
     <string name="cfb_title">โอนสายเมื่อสายไม่ว่าง</string>
     <string name="cfnrc_title">โอนสายเมื่อไม่สามารถติดต่อได้</string>
     <string name="cfnrc_title_cta">โอนสายเมื่อไม่สามารถติดต่อได้</string>
-    <string name="cfnry_time_fifteen_sec">15 วินาที</string>
-    <string name="cfnry_time_five_sec">5 วินาที</string>
+    <string name="cfnry_time_fifteen_sec">%d วินาที</string>
+    <string name="cfnry_time_five_sec">%d วินาที</string>
     <string name="cfnry_time_setting_title">ตั้งเวลารอ</string>
-    <string name="cfnry_time_ten_sec">10 วินาที</string>
-    <string name="cfnry_time_thirty_sec">30 วินาที</string>
-    <string name="cfnry_time_twenty_five_sec">25 วินาที</string>
-    <string name="cfnry_time_twenty_sec">20 วินาที</string>
+    <string name="cfnry_time_ten_sec">%d วินาที</string>
+    <string name="cfnry_time_thirty_sec">%d วินาที</string>
+    <string name="cfnry_time_twenty_five_sec">%d วินาที</string>
+    <string name="cfnry_time_twenty_sec">%d วินาที</string>
     <string name="cfnry_title">โอนสายเมื่อไม่มีการตอบรับ</string>
     <string name="cfu_title">โอนสายเสมอ</string>
     <string name="change_data_preference_4g_only_prompt">ดูเหมือนคุณจะมีซิมการ์ดเฉพาะ 4G เท่านั้น เพื่อให้แน่ใจว่าทำงานได้ตามปกติ ให้กำหนดเป็นค่าเริ่มต้นสำหรับข้อมูลมือถือ ตั้งตอนนี้?</string>
@@ -609,16 +626,16 @@
     <string name="dialog_cancel">ยกเลิก</string>
     <string name="dialog_network_priority_title">ลำดับความสำคัญ</string>
     <string name="dialog_report">รายงาน</string>
-    <string name="dialpad_eight">8</string>
-    <string name="dialpad_five">5</string>
-    <string name="dialpad_four">4</string>
-    <string name="dialpad_nine">9</string>
-    <string name="dialpad_one">1</string>
-    <string name="dialpad_seven">7</string>
-    <string name="dialpad_six">6</string>
-    <string name="dialpad_three">3</string>
-    <string name="dialpad_two">2</string>
-    <string name="dialpad_zero">0</string>
+    <string name="dialpad_eight">%d</string>
+    <string name="dialpad_five">%d</string>
+    <string name="dialpad_four">%d</string>
+    <string name="dialpad_nine">%d</string>
+    <string name="dialpad_one">%d</string>
+    <string name="dialpad_seven">%d</string>
+    <string name="dialpad_six">%d</string>
+    <string name="dialpad_three">%d</string>
+    <string name="dialpad_two">%d</string>
+    <string name="dialpad_zero">%d</string>
     <string name="direct_boot_unaware_dialog_message">หมายเหตุ: หลังจากเริ่มต้นใหม่ แอปนี้จะไม่สามารถเริ่มการทำงานได้จนกว่าคุณจะปลดล็อกโทรศัพท์</string>
     <string name="disable">ปิด</string>
     <string name="disable_all_cf">ปิดใช้งานการโอนสายทั้งหมด</string>
@@ -676,7 +693,7 @@
     <string name="enable_disable_international">ระหว่างประเทศ</string>
     <string name="enable_disable_lafs">ตารางเที่ยวบินในสนามบินท้องถิ่น</string>
     <string name="enable_disable_local">ท้องถิ่น</string>
-    <string name="enable_disable_local_weather">สภาพอากาศในพื้นที่</string>
+    <string name="enable_disable_local_weather">สภาพอากาศท้องถิ่น</string>
     <string name="enable_disable_lodgings">ที่พัก</string>
     <string name="enable_disable_maintenance">การดูแลรักษา</string>
     <string name="enable_disable_mhh">การแพทย์ สุขภาพและโรงพยาบาล</string>
@@ -715,7 +732,7 @@
     <string name="enhanced_4g_lte_mode_summary">ใช้บริการ LTE เพื่อปรับปรุงคุณภาพเสียงและการสื่อสารอื่นๆ (แนะนำ)</string>
     <string name="enhanced_4g_lte_mode_summary_o2">ใช้บริการ 4G เพื่อปรับปรุงเสียงและการติดต่อสื่อสารด้วยวิธีอื่นๆ (แนะนำ)</string>
     <string name="enhanced_4g_lte_mode_title">โหมด 4G LTE เพิ่มประสิทธิภาพ</string>
-    <string name="enter_callbarring_password">ป้อนรหัสผ่านสำหรับจำกัดการโทร (4 หลัก)</string>
+    <string name="enter_callbarring_password">ป้อนรหัสผ่านสำหรับจำกัดการโทร (%d หลัก)</string>
     <string name="enter_input" formatted="false">ข้อความ USSD ต้องมีจำนวนอักขระระหว่าง %d และ %d ตัว ลองอีกครั้ง</string>
     <string name="enter_pin2_text">รหัส PIN2</string>
     <string name="enter_pin_text">PIN ของซิม:</string>
@@ -747,6 +764,10 @@
 หรือกลุ่มหมายเลขที่ขึ้นต้นด้วยเลขหมายที่กำหนด"</string>
     <string name="fdn_with_label">จำกัดเลขหมายโทรออก (FDN) (%s)</string>
     <string name="fire_type_description">อัคคีภัย</string>
+    <string name="fiveg_sa_switch_open_dialog_content">การเชื่อมต่อ 5G อาจไม่เสถียรในโหมดสแตนด์อโลนซึ่งอาจส่งผลต่อบริการโทรศัพท์ ยืนยันเปิดโหมดสแตนด์อโลนหรือไม่?</string>
+    <string name="fiveg_sa_switch_open_dialog_title">คำเตือน</string>
+    <string name="fiveg_sa_switch_summary">อนุญาตให้เชื่อมต่อกับเครือข่าย 5G ในโหมดสแตนด์อโลน</string>
+    <string name="fiveg_sa_switch_title">โหมด SA</string>
     <string name="fiveg_switch_title">เครือข่าย 5G</string>
     <string name="flash_when_ring_summary">ใช้ไฟแฟลชเพื่อแจ้งเตือนสายเรียกเข้า</string>
     <string name="flash_when_ring_title">กระพริบไฟเมื่อมีสายเรียกเข้า</string>
@@ -802,6 +823,7 @@
     <string name="incall_error_no_phone_number_supplied">หากต้องการโทรไป กรุณาป้อนเลขหมายที่ถูกต้อง</string>
     <string name="incall_error_out_of_service">ไม่พบสัญญาณเครือข่ายข้อมูล</string>
     <string name="incall_error_out_of_service_wfc">เครือข่ายมือถือไม่พร้อมใช้งาน เชื่อมต่อเครือข่ายไร้สายเพื่อทำการโทร</string>
+    <string name="incall_error_outgoing_call_failed">ไม่สามารถโทรออกได้</string>
     <string name="incall_error_power_off">ปิดใช้งานโหมดเครื่องบินเพื่อทำการโทร</string>
     <string name="incall_error_power_off_wfc">ปิดใช้งานโหมดเครื่องบินหรือเชื่อมต่อเครือข่ายไร้สายเพื่อทำการโทร</string>
     <string name="incall_error_promote_wfc">เปิดใช้การโทร Wi-Fi เพื่อโทรออก</string>
@@ -824,11 +846,11 @@
     <string name="invalidPin">ป้อนรหัส PIN ด้วยตัวเลขระหว่าง 4-8 หลัก</string>
     <string name="invalidPin2">ป้อนรหัส PIN2 ที่เป็นตัวเลขความยาว 4-8 ตัว</string>
     <string name="invalidPuk2">ป้อนรหัส PUK2 ที่เป็นตัวเลขความยาว 8 ตัว</string>
-    <string name="invalid_password">ป้อนรหัสผ่านที่มีความยาว 4 หลัก</string>
-    <string name="invalid_pin">ป้อนรหัส PIN ระหว่าง 4-8 ตัวเลข</string>
-    <string name="invalid_pin2">ป้อนรหัส PIN2 ระหว่าง 4 ถึง 8 ตัวเลข</string>
-    <string name="invalid_puk">ป้อนรหัส PUK ระหว่าง 4 ถึง 8 ตัวเลข</string>
-    <string name="invalid_puk2">กรุณาป้อนรหัส PUK2 จำนวน 8 ตัวเลข</string>
+    <string name="invalid_password">ป้อนรหัสผ่านที่มีความยาว %d หลัก</string>
+    <string name="invalid_pin">ป้อนรหัส PIN ด้วยตัวเลขระหว่าง %1$d ถึง %2$d หลัก</string>
+    <string name="invalid_pin2">ป้อนรหัส PIN2 ด้วยตัวเลขระหว่าง %1$d ถึง %2$d หลัก</string>
+    <string name="invalid_puk">ป้อนรหัส PUK ด้วยตัวเลขระหว่าง %1$d ถึง %2$d หลัก</string>
+    <string name="invalid_puk2">ป้อนรหัส PUK2 ด้วยตัวเลข %d หลัก</string>
     <string name="ivr_mo_area_code_settings">รหัสพื้นที่ปัจจุบัน</string>
     <string name="ivr_mo_area_code_settings_hint">ป้อนรหัสพื้นที่ปัจจุบัน</string>
     <string name="ivr_parameter_settings">การตั้งค่าตัวแปร IVR</string>
@@ -876,6 +898,8 @@
     <string name="lable_network_not_supported">เครือข่ายไม่รองรับ</string>
     <string name="lafs_disable">ตารางเที่ยวบินในพื้นที่ปิดใช้งาน</string>
     <string name="lafs_enable">ตารางเที่ยวบินในพื้นที่เปิดใช้งาน</string>
+    <string name="last_sim_callback_summary">เมื่อโทรออกจากประวัติการโทร ให้ใช้ซิมการ์ดที่ใช้ระหว่างการโทรครั้งก่อนกับผู้ติดต่อนี้</string>
+    <string name="last_sim_callback_title">จำการตั้งค่าซิม</string>
     <string name="launch_defaults_none">ไม่ได้ตั้งค่าเริ่มต้น</string>
     <string name="launch_defaults_some">ตั้งค่าเริ่มต้นไว้บางส่วน</string>
     <string name="list_language_dtitle">ภาษา</string>
@@ -891,11 +915,12 @@
     <string name="local_backup_password_toast_validation_failure">ไม่สามารถตั้งรหัสผ่านสำหรับการสำรองข้อมูล</string>
     <string name="local_disable">ข่าวท้องถิ่นปิดใช้งาน</string>
     <string name="local_enable">ข่าวท้องถิ่นเปิดใช้งาน</string>
-    <string name="local_weather_disable">พยากรณ์อากาศท้องถิ่นปิดใช้งาน</string>
-    <string name="local_weather_enable">พยากรณ์อากาศท้องถิ่นเปิดใช้งาน</string>
+    <string name="local_weather_disable">สภาพอากาศท้องถิ่นปิดใช้งาน</string>
+    <string name="local_weather_enable">สภาพอากาศท้องถิ่นเปิดใช้งาน</string>
     <string name="location">พื้นที่</string>
     <string name="lodgings_disable">ข้อมูลที่พักปิดใช้งาน</string>
     <string name="lodgings_enable">ข้อมูลที่พักเปิดใช้งาน</string>
+    <string name="main_netcheck_summary">ทดสอบการเชื่อมต่อสำหรับปัญหาเครือข่าย</string>
     <string name="maintenance_disable">การบำรุงรักษาปิดใช้งาน</string>
     <string name="maintenance_enable">การบำรุงรักษาเปิดใช้งาน</string>
     <string name="make_and_receive_calls">โทรออกและรับสาย</string>
@@ -924,19 +949,22 @@
     <string name="mismatch_password">รหัสผ่านที่คุณป้อนไม่ตรงกัน</string>
     <string name="mismatch_pin">รหัส PIN ไม่ตรงกัน</string>
     <string name="mismatch_pin2">รหัส PIN2 ไม่ตรงกัน ลองอีกครั้ง</string>
-    <string name="missed_call_notify_five_times">5 ครั้ง</string>
+    <string name="missed_call_notify_five_times">%d ครั้ง</string>
     <string name="missed_call_notify_none">ไม่ต้องแจ้งเตือน</string>
-    <string name="missed_call_notify_once">1 ครั้ง</string>
-    <string name="missed_call_notify_ten_times">10 ครั้ง</string>
-    <string name="missed_call_notify_thrice">3 ครั้ง</string>
-    <string name="missed_call_notify_times_summary">การแจ้งเตือนจะแบ่งทุกช่วงเวลา 5 นาที</string>
+    <string name="missed_call_notify_once">%d ครั้ง</string>
+    <string name="missed_call_notify_ten_times">%d ครั้ง</string>
+    <string name="missed_call_notify_thrice">%d ครั้ง</string>
+    <string name="missed_call_notify_times_summary">การเตือนความจำถูกแบ่งเป็น %d นาทีต่อช่วงเวลา</string>
     <string name="missed_call_notify_times_title">การแจ้งเตือนสายไม่ได้รับ</string>
-    <string name="missed_call_notify_twice">2 ครั้ง</string>
+    <string name="missed_call_notify_twice">%d ครั้ง</string>
     <string name="miui_network_selection_reset_text">รีเซ็ต</string>
     <string name="miui_notification_network_selection_title">ซิม: ไม่มีบริการ</string>
     <string name="miui_notification_network_selection_title_by_sim">ซิม %s: ไม่มีบริการ</string>
     <string name="mmiCancelled">รหัส MMI ถูกยกเลิก</string>
     <string name="mmiStarted">เริ่มรหัส MMI แล้ว</string>
+    <string name="mobile_advanced_dns_server_title">ที่อยู่เซิร์ฟเวอร์ DNS</string>
+    <string name="mobile_advanced_ip_address_title">ที่อยู่ IP</string>
+    <string name="mobile_connection_management">จัดการการเชื่อมต่อเครือข่ายมือถือ</string>
     <string name="mobile_data_activate_button">เพิ่มแพ็คเกจข้อมูล</string>
     <string name="mobile_data_activate_cancel_button">ยกเลิก</string>
     <string name="mobile_data_activate_diag_message">คุณอาจต้องเพิ่มแพ็คเกจข้อมูลมือถือผ่าน %s</string>
@@ -957,6 +985,7 @@
     <string name="mobile_data_status_roaming_without_plan_subtext">ตอนนี้กำลังใช้โรมมิ่ง จำเป็นต้องเพิ่มแพ็คเกจข้อมูล</string>
     <string name="mobile_network_settings_not_available">การตั้งค่าเครือข่ายมือถือไม่พร้อมใช้งานสำหรับผู้ใช้นี้</string>
     <string name="mobile_networks">การตั้งค่าเครือข่ายมือถือ</string>
+    <string name="mobile_property">คุณสมบัติเครือข่ายมือถือ</string>
     <string name="mock_location_app">เลือกแอปจำลองสถานที่</string>
     <string name="mock_location_app_not_set">ไม่ได้ตั้งค่าแอปจำลองสถานที่</string>
     <string name="mock_location_app_set">แอปจำลองสถานที่: %1$s</string>
@@ -1023,6 +1052,7 @@
     <string name="name">ชื่อ</string>
     <string name="national_disable">ข่าวในประเทศปิดใช้งาน</string>
     <string name="national_enable">ข่าวในประเทศเปิดใช้งาน</string>
+    <string name="netcheck_title">การวินิจฉัยเครือข่ายมือถือ</string>
     <string name="network_4G">4G (แนะนำ)</string>
     <string name="network_connected">เชื่อมต่อแล้ว</string>
     <string name="network_connecting">กำลังเชื่อมต่อ...</string>
@@ -1058,7 +1088,7 @@
     <string name="networks_title">เครือข่ายมือถือ</string>
     <string name="newPin2Label">รหัส PIN2 ใหม่</string>
     <string name="newPinLabel">รหัส PIN ใหม่</string>
-    <string name="new_password_label">รหัสผ่านใหม่ 4 หลัก</string>
+    <string name="new_password_label">รหัสผ่านใหม่ %d-หลัก</string>
     <string name="new_pin2_label">รหัส PIN2 ใหม่</string>
     <string name="new_pin_label">รหัส PIN ใหม่</string>
     <string name="no_application">ไม่มี</string>
@@ -1068,12 +1098,12 @@
     <string name="no_vm_number">ไม่มีเลขหมายข้อความเสียง</string>
     <string name="no_vm_number_msg">ไม่พบเลขหมายบริการรับฝากข้อความเสียงในซิมการ์ด</string>
     <string name="no_voip">ไม่รองรับการโทร SIP</string>
-    <string name="no_wifi_available">คุณต้องเชื่อมต่อกับเครือข่าย Wi-Fi ก่อน เพื่อที่จะใช้การโทร SIP (ดูเมนูการตั้งค่าเครือข่าย &amp; เครือข่ายไร้สาย)</string>
+    <string name="no_wifi_available">คุณต้องเชื่อมต่อกับเครือข่าย Wi-Fi ก่อน เพื่อที่จะใช้การโทร SIP (ดูเมนูการตั้งค่าเครือข่ายและเครือข่ายไร้สาย)</string>
     <string name="not_a_valid_port">หมายเลขพอร์ตต้องอยู่ระหว่าง 1000 ถึง 65534</string>
     <string name="not_allowed">ซิมการ์ดของคุณไม่อนุญาตให้เชื่อมต่อกับเครือข่ายนี้</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="not_voice_capable">ไม่รองรับการโทรออกด้วยเสียง</string>
-    <string name="notification_network_selection_text">เครือข่ายที่เลือกไว้ (%s) ใช้งานไม่ได้</string>
+    <string name="notification_network_selection_text">เครือข่ายที่เลือกไว้ %s ใช้งานไม่ได้</string>
     <string name="notification_network_selection_title">ไม่มีสัญญาณ</string>
     <string name="notification_voicemail_no_vm_number">ไม่ทราบเลขหมายข้อความเสียง</string>
     <string name="notification_voicemail_text_format">หมุนเลขหมาย %s</string>
@@ -1087,7 +1117,7 @@
     <string name="okay">ตกลง</string>
     <string name="oldPin2Label">รหัส PIN2 เดิม</string>
     <string name="oldPinLabel">รหัส PIN เก่า</string>
-    <string name="old_password_label">รหัสผ่านปัจจุบัน 4 หลัก</string>
+    <string name="old_password_label">รหัสผ่านปัจจุบัน %d-หลัก</string>
     <string name="old_pin2_label">รหัส PIN2</string>
     <string name="old_pin_label">รหัส PIN เก่า</string>
     <string name="onHold">พักสายอยู่</string>
@@ -1248,7 +1278,7 @@
     <string name="power_suggestion_extend_battery">ยืดอายุการใช้งานแบตเตอรี่หลังเวลา %1$s</string>
     <string name="prefered_network_type_3g_promp">คุณควรปิดใช้งาน VoLTE ก่อนที่จะเลือกใช้เครือข่าย 3G ที่ต้องการ ปิดเดี๋ยวนี้หรือไม่?</string>
     <string name="preference_auto_ip_summary_disable">ปิด</string>
-    <string name="preference_category_ringtone">เสียงเรียกเข้า &amp; การสั่น</string>
+    <string name="preference_category_ringtone">เสียงเรียกเข้าและการสั่น</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="preference_data_usage_summary">ตั้งการใช้ข้อมูลของคุณเพื่อควบคุมการใช้งานข้อมูลมือถือ</string>
     <string name="preference_data_usage_title">ตั้งการใช้ข้อมูล</string>
@@ -1309,7 +1339,6 @@
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">WCDMA เท่านั้น</string>
     <string name="preferred_network_type_title">ประเภทเครือข่ายที่เลือกใช้ก่อน</string>
     <string name="preferred_phone_account">บัญชีโทรศัพท์ที่เลือกใช้ก่อน</string>
-    <string name="preferred_wificall_roaming_title">การตั้งค่าโรมมิ่ง</string>
     <string name="preferred_wificall_title">รูปแบบเครือข่าย</string>
     <string name="privacy_policy_title">นโยบายความเป็นส่วนตัว</string>
     <string name="private_dns_mode_off">ปิด</string>
@@ -1318,6 +1347,7 @@
     <string name="private_dns_mode_provider_failure">เชื่อมต่อไม่ได้</string>
     <string name="private_dns_mode_provider_hostname_hint">ป้อนชื่อโฮสต์ของผู้ให้บริการ DNS</string>
     <string name="private_num">เลขหมายส่วนตัว</string>
+    <string name="process_kernel_label">ระบบปฏิบัติการ Android</string>
     <string name="progress_dialog_exiting_ecm">กำลังออกจากโหมดติดต่อกลับฉุกเฉิน</string>
     <string name="prompt_to_turnoff_volte_when_failed">ไม่มีบริการ VoLTE ปิด VoLTE เพื่อโทรออก</string>
     <string name="prompt_to_turnoff_volte_when_supp_service">ไม่สามารถให้บริการได้ ปิด VoLTE ในการตั้งค่า</string>
@@ -1410,10 +1440,41 @@
     <string name="screen_zoom_summary_large">ใหญ่</string>
     <string name="screen_zoom_summary_small">เล็ก</string>
     <string name="screen_zoom_summary_very_large">ใหญ่ขึ้น</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
     <string name="search_antispam_setting">รายการบล็อก</string>
     <string name="search_app_name">โทรศัพท์;บันทึกการโทร;การโอนสาย;โอนสาย;กำลังรอสาย;รายการบล็อก;รหัสประเทศ;รหัสพื้นที่;รหัสประเทศ;บันทึกการโทร;บันทึกการโทร;แป้นโทร;โทร;โทร;โทรศัพท์;VoIP;VoLTE;สายที่ไม่ได้รับ;สายที่ไม่ได้รับ;SIP;T9;โทรศัพท์บนเครือข่าย;FDN</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
     <string name="search_menu">ค้นหาการตั้งค่า</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="selectContact">เลือกรายชื่อผู้ติดต่อ</string>
     <string name="select_application">เลือกแอปพลิเคชัน</string>
     <string name="select_automatically">เลือกเครือข่ายอัตโนมัติ</string>
@@ -1503,6 +1564,7 @@
     <string name="smart_divert_title">โอนสาย-อัจฉริยะ</string>
     <string name="smart_forwarding_settings_menu">การโอนสายอัจฉริยะ</string>
     <string name="smart_forwarding_settings_menu_summary">เมื่อหมายเลขหนึ่งติดต่อไม่ได้ ให้โอนสายไปยังหมายเลขอื่นทุกครั้ง</string>
+    <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">ตรวจสอบให้แน่ใจว่าหมายเลขที่คุณป้อนนั้นถูกต้อง มิฉะนั้นคุณจะไม่สามารถส่งหรือรับ SMS ได้ ติดต่อผู้ให้บริการของคุณเพื่อยืนยันหมายเลข SMSC ของคุณ</string>
     <string name="speed_label_fast">เร็ว</string>
     <string name="speed_label_medium">ปานกลาง</string>
@@ -1639,6 +1701,7 @@
     <string name="time_end_minute">นาทีสิ้นสุด</string>
     <string name="time_formate_am">AM</string>
     <string name="time_formate_pm">PM</string>
+    <string name="time_interval_char">:</string>
     <string name="time_next_day">" วันถัดไป "</string>
     <string name="time_start">" จาก "</string>
     <string name="time_start_hour">ชั่วโมงเริ่มต้น</string>
@@ -1681,6 +1744,7 @@
     <string name="tty_mode_entries_hco">โหมดพิมพ์สนทนา-ผู้พิการทางการพูด (TTY HCO)</string>
     <string name="tty_mode_entries_off">ปิดโหมดพิมพ์สนทนา (TTY Off)</string>
     <string name="tty_mode_entries_vco">โหมดพิมพ์สนทนา-ผู้พิการทางการได้ยิน (TTY VCO)</string>
+    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="tty_mode_not_allowed_video_call">การเปลี่ยนแปลงโหมด TTY ไม่ได้รับอนุญาตในระหว่างใช้วิดีโอคอล</string>
     <string name="tty_mode_option_summary">ตั้งค่าโหมด TTY</string>
     <string name="tty_mode_option_title">โหมด TTY</string>
@@ -1747,6 +1811,7 @@
     <string name="voicemail">ฝากข้อความเสียง</string>
     <string name="voicemail_abbreviated">VM:</string>
     <string name="voicemail_change_pin_dialog_title">เปลี่ยนรหัส PIN</string>
+    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_default">ผู้ให้บริการของคุณ</string>
     <string name="voicemail_notification_vibrate_when_title">สั่นเตือน</string>
     <string name="voicemail_notifications_preference_title">การแจ้งเตือน</string>
@@ -1759,6 +1824,7 @@
     <string name="voicemail_settings_number_label">เลขหมายข้อความเสียง</string>
     <string name="voicemail_settings_number_title">หมายเลขข้อความเสียง</string>
     <string name="voicemail_settings_with_label">ข้อความเสียง (%s)</string>
+    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="voicemail_visual_voicemail_switch_title">ข้อความเสียงพร้อมภาพ</string>
     <string name="voip_setting">การตั้งค่าโทรผ่านเน็ต</string>
     <string name="volte_provision_notification_activate">เปิดใช้งาน</string>
@@ -1771,7 +1837,6 @@
     <string name="volte_switch_title">ใช้ VoLTE</string>
     <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">บริการ China Telecom VoLTE มีเฉพาะในพื้นที่ที่มีเครือข่าย VoLTE เท่านั้น บริการ VoLTE มาจากผู้ให้บริการ</string>
-    <string name="vowifi_emergency_notification_channel">การเตือนฉุกเฉินการโทร WiFi</string>
     <string name="vowifi_emergency_notification_content">การโทรฉุกเฉินในพื้นที่ที่มีสัญญาณโทรศัพท์เคลื่อนที่เท่านั้น</string>
     <string name="vowifi_emergency_notification_title">การโทร Vodafone Wi-Fi</string>
     <string name="vowifi_emergency_warning_check">ไม่ต้องแสดงอีก</string>
@@ -1791,16 +1856,30 @@
     <string name="wfcmode_wifi_only">Wi-Fi เท่านั้น</string>
     <string name="wfcmode_wifi_preferred">เลือกใช้ Wi-Fi ก่อน</string>
     <string name="wifi_ap_unable_to_handle_new_sta">จุดเข้าใช้งานเต็มชั่วคราว</string>
-    <string name="wifi_call_accept">ตกลง</string>
+    <string name="wifi_call_accept">ข้าม</string>
     <string name="wifi_call_available_message">คุณสามารถโทรโดยใช้ Wi-Fi ได้ทันที หากคุณเชื่อมต่อกับเครือข่าย Wi-Fi คุณจะสามารถพูดคุยได้แม้ในพื้นที่ที่ไม่มีเครือข่ายโทรศัพท์เคลื่อนที่</string>
     <string name="wifi_call_available_title">กำลังเปิดการโทร Wi-Fi</string>
-    <string name="wifi_call_cancel">ยกเลิก </string>
+    <string name="wifi_call_cancel">ข้อมูลเพิ่มเติม</string>
     <string name="wifi_call_help">ช่วยเหลือ</string>
-    <string name="wifi_call_help_message">หากคุณเลือกที่จะใช้เครือข่ายมือถือก่อน เครือข่ายมือถือจะถูกใช้สำหรับการโทรโดยค่าเริ่มต้น ในกรณีที่ไม่มีสัญญาณเครือข่ายมือถือหรือสัญญาณแย่มาก จะใช้เครือข่าย Wi-Fi แทน</string>
+    <string name="wifi_call_help_message_1">"โทร Wi-Fi เป็นบริการที่ Orange ให้คุณโทรออกและรับสายผ่าน Wi-Fi คุณสมบัตินี้สามารถใช้ได้ในพื้นที่ที่มีเครือข่ายโทรศัพท์มือถือไม่ครอบคลุม
+
+หากต้องการใช้การโทร Wi-Fi ให้เปิดการตั้งค่า > โทร Wi-Fi
+
+ในการเปิดใช้บริการออเรนจ์จะส่งข้อความยืนยันให้คุณทันทีที่มีการให้บริการ หลังจากนี้คุณจะสามารถเชื่อมต่อกับเครือข่าย Wi-Fi และโทรออกได้
+
+การโทรผ่าน Wi-Fi จะถูกเรียกเก็บเงินตามเงื่อนไขของแพ็คเกจของคุณ
+
+เมื่อใดก็ตามที่มีคุณสมบัตินี้ ไอคอนต่อไปนี้จะปรากฏที่ด้านบนของหน้าจอ"</string>
+    <string name="wifi_call_help_message_2">"หากคุณเลือกที่จะใช้เครือข่าย Wi-Fi ก่อน มันจะถูกใช้เป็นค่าเริ่มต้นในการโทร ในกรณีที่คุณไม่ได้เชื่อมต่อกับ Wi-Fi หรือสัญญาณไม่ดีเครือข่ายมือถือจะถูกใช้เพื่อโทรออก
+
+หากคุณเลือกที่จะใช้เครือข่ายมือถือก่อน มันจะถูกใช้เป็นค่าเริ่มต้นในการโทร ในกรณีที่ไม่มีสัญญาณเครือข่ายมือถือหรือสัญญาณไม่ดี จะใช้เครือข่าย Wi-Fi แทน"</string>
     <string name="wifi_call_help_title">ช่วยเหลือการโทร Wi-Fi</string>
     <string name="wifi_call_notification_message">บริการนี้ให้บริการโดย Orange อาจใช้เวลาหลายชั่วโมงในการเปิดใช้งานบริการนี้ คุณจะได้รับ SMS ยืนยันทันทีที่พร้อมใช้งาน</string>
+    <string name="wifi_call_preferred_summary">หากคุณเลือกที่จะใช้เครือข่ายมือถือก่อน เครือข่ายมือถือจะถูกใช้สำหรับการโทรโดยค่าเริ่มต้น ในกรณีที่ไม่มีสัญญาณเครือข่ายมือถือหรือสัญญาณแย่มาก จะใช้เครือข่าย Wi-Fi แทน</string>
     <string name="wifi_call_setting">โทร Wi-Fi</string>
+    <string name="wifi_call_welcome_settings">โทร Wi-Fi</string>
     <string name="wifi_calling">โทร Wi-Fi</string>
+    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">โทร Wi-Fi</string>
     <string name="wifi_cant_connect">ไม่สามารถเชื่อมต่อ</string>
     <string name="wifi_cant_connect_to_ap">ไม่สามารถเชื่อมต่อกับ \"%1$s\"</string>

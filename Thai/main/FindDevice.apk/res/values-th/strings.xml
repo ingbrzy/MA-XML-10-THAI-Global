@@ -22,12 +22,13 @@
     <string name="find_device_error_access_denied">เข้าสู่ระบบไม่ได้</string>
     <string name="find_device_error_account_sys_timeout">"เชื่อมต่อกับบัญชี Mi ไม่สำเร็จ "</string>
     <string name="find_device_error_account_unknown_error">ข้อผิดพลาดบัญชี Mi (%s)</string>
+    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">ข้อผิดพลาดเครือข่าย</string>
     <string name="find_device_error_password_changed">เพิ่งมีการเปลี่ยนรหัสผ่านบัญชีเร็วๆนี้</string>
     <string name="find_device_error_server">ข้อผิดพลาดเซิร์ฟเวอร์ (%s)</string>
     <string name="find_device_error_unknown">ข้อผิดพลาดที่ไม่รู้จัก (%s)</string>
     <string name="find_device_noise_title">ค้นหาอุปกรณ์ที่เตือนภัย</string>
-    <string name="find_device_notice">ไปยัง&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />เพื่อค้นหาตำแหน่ง ล็อก หรือเรียกคืนอุปกรณ์ของคุณ</string>
+    <string name="find_device_notice">ไปยัง &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> เพื่อค้นหา ล็อค หรือกู้คืนอุปกรณ์ของคุณ</string>
     <string name="find_device_notice_sms_alert">หากคุณเปลี่ยนซิมการ์ด ระบบจะส่งข้อความอีกครั้งเพื่อเปิดใช้งานบริการดังกล่าวโดยอัตโนมัติ</string>
     <string name="find_device_stop_noise">แตะปุ่มตกลงเพื่อปิดเสียง</string>
     <string name="find_device_storage_corrupted">ค้นหาที่จัดเก็บอุปกรณ์เสียหาย อุปกรณ์ของคุณไม่ปลอดภัยในขณะนี้</string>

@@ -4,10 +4,10 @@
     <string name="accessibility_ai_scene_off">กล้อง AI ปิดอยู่</string>
     <string name="accessibility_ai_scene_on">กล้อง AI เปิดอยู่</string>
     <string name="accessibility_back_preview_status">ตัวอย่างกล้องหลัง</string>
-    <string name="accessibility_beauty_panel_closed">เมนูบิวตี้ไฟถูกซ่อน</string>
-    <string name="accessibility_beauty_panel_open">เมนูบิวตี้ไฟเปิดอยู่</string>
-    <string name="accessibility_beauty_switch_closed">บิวตี้ไฟปิดอยู่</string>
-    <string name="accessibility_beauty_switch_open">บิวตี้ไฟเปิดอยู่</string>
+    <string name="accessibility_beauty_panel_closed">เมนูโหมดฟรุ๊งฟริ๊งถูกซ่อน</string>
+    <string name="accessibility_beauty_panel_open">เมนูโหมดฟรุ๊งฟริ๊งเปิดอยู่</string>
+    <string name="accessibility_beauty_switch_closed">โหมดฟรุ๊งฟริ๊งปิดอยู่</string>
+    <string name="accessibility_beauty_switch_open">โหมดฟรุ๊งฟริ๊งเปิดอยู่</string>
     <string name="accessibility_bokeh_adjust">ปรับการเบลอพื้นหลัง</string>
     <string name="accessibility_bokeh_level">F%1$s ช่องรับแสง</string>
     <string name="accessibility_bokeh_normal">กล้องหน้าเบลอพื้นหลังปิดอยู่</string>
@@ -76,6 +76,7 @@
 และปรับการตั้งค่าโดยอัตโนมัติ"</string>
     <string name="ai_scene_top_moon_off">โหมดแสงน้อย</string>
     <string name="ai_scene_top_tip">โหมดพระจันทร์</string>
+    <string name="ai_watermark_title">ลายน้ำ AI</string>
     <string name="audio_focus_exit_button_text">ปิดใช้งานโฟกัสภาพด้วยเสียง</string>
     <string name="autozoom_click_hint">แตะวัตถุเพื่อให้วัตถุอยู่ในโฟกัสในขณะที่เคลื่อนไหว อยู่ห่างอย่างน้อย 3 เมตรเพื่อผลลัพธ์ที่ดีที่สุด</string>
     <string name="autozoom_disabled_hint">หยุดการติดตามสิ่งของที่กำลังเคลื่อนที่</string>
@@ -109,6 +110,7 @@
     <string name="button_fisheye_camera_title">ฟิชอาย</string>
     <string name="button_front_camera_title">ถ่ายเซลฟี่</string>
     <string name="button_normal_video_title">บันทึกวิดีโอ</string>
+    <string name="camcorder_tip_8k_max_video_duration">คุณสามารถบันทึกได้นานถึง 6 นาทีใน 8K</string>
     <string name="camera_disabled">ปิดการใช้งานกล้องแล้ว</string>
     <string name="camera_error_title">กล้องเกิดข้อผิดพลาด</string>
     <string name="camera_label">กล้อง</string>
@@ -122,13 +124,14 @@
     <string name="camera_snap_mode_title_detail">แตะเพื่อดูรายละเอียด</string>
     <string name="cannot_connect_camera_once">ไม่สามารถเชื่อมต่อกล้องได้</string>
     <string name="cannot_connect_camera_twice">ยังคงไม่สามารถเชื่อมต่อกับกล้อง ลองปิด-เปิดเครื่องของคุณใหม่</string>
-    <string name="cannot_connect_camera_volte_call">กำลังวิดีโอคอลอยู่ ลองอีกครั้งในภายหลัง</string>
     <string name="cannot_move_warning_message">กำลังบันทึกภาพ ดูให้แน่ใจว่าอุปกรณ์อยู่นิ่ง</string>
     <string name="capture_back_pressed_hint">แตะอีกครั้งเพื่อออก</string>
+    <string name="ccc_temperature_warning_msg">อุปกรณ์ของคุณร้อนเกินไป กล้องจะปิดลงใน %d วินาที รูปภาพหรือวิดีโอของคุณจะถูกบันทึกโดยอัตโนมัติ</string>
+    <string name="ccc_temperature_warning_title">อุปกรณ์ร้อนเกินไป</string>
     <string name="close_back_flash_toast">อุปกรณ์ของคุณร้อนเกินไป ไม่สามารถใช้แฟลชได้ขณะนี้</string>
     <string name="close_front_flash_toast">อุปกรณ์ของคุณร้อนเกินไป ไม่สามารถใช้แฟลชได้ขณะนี้</string>
     <string name="color_effect_entry_berry">เบอร์รี่</string>
-    <string name="color_effect_entry_blackwhite">ดำ&amp;ขาว</string>
+    <string name="color_effect_entry_blackwhite">ขาวดำ</string>
     <string name="color_effect_entry_classic">คลาสสิค</string>
     <string name="color_effect_entry_cookie">คุกกี้</string>
     <string name="color_effect_entry_delicacy">กูร์เมต์</string>
@@ -143,13 +146,14 @@
     <string name="color_effect_entry_warm">อุ่น</string>
     <string name="color_effect_live_blue">ออร์คิด</string>
     <string name="color_effect_live_contrast">X-pro</string>
-    <string name="color_effect_live_deepblack">ดำ&amp;ขาว</string>
+    <string name="color_effect_live_deepblack">ขาวดำ</string>
     <string name="color_effect_live_fair">ซีด</string>
     <string name="color_effect_live_hongkong">บัวฮิเนีย</string>
     <string name="color_effect_live_mousse">มูสส์</string>
     <string name="color_effect_live_none">ปกติ</string>
     <string name="color_effect_live_solar">สีน้ำเงินท้องฟ้า</string>
     <string name="color_effect_live_years">ซีเปีย</string>
+    <string name="color_enhance_mode">เพิ่มสีสัน</string>
     <string name="config_name_group">เซลฟี่กลุ่ม</string>
     <string name="config_name_hht">HHT</string>
     <string name="config_name_magic">เมจิค</string>
@@ -160,7 +164,7 @@
     <string name="config_name_straighten">ปรับให้ตรง</string>
     <string name="config_name_super_resolution">ความละเอียดสุดยอด</string>
     <string name="config_name_tilt">ปรับเบลอ</string>
-    <string name="config_name_timer">นับถอยหลัง</string>
+    <string name="config_name_timer">ตัวจับเวลา</string>
     <string name="confirm_install_scanner_message">ตัวสแกนช่วยให้คุณสแกนรหัส QR, บาร์โค้ดและอื่นๆได้ คุณไม่จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อติดตั้ง</string>
     <string name="confirm_install_scanner_title">ติดตั้งตัวสแกน</string>
     <string name="confirm_location_alert">จดจำตำแหน่งพิกัดที่ถ่ายภาพไว้</string>
@@ -183,6 +187,12 @@
     <string name="dialog_ok_time">ตกลง (%dวิ)</string>
     <string name="dirty_tip_toast">เลนส์สกปรก โปรดเช็ดทำความสะอาด</string>
     <string name="do_not_remind_me">ไม่ต้องแสดงอีก</string>
+    <string name="document_blackwhite">ขาวดำ</string>
+    <string name="document_mode_use_hint_text_body">"จัดเรียงและเพิ่มประสิทธิภาพ
+สแกนเอกสารโดยอัตโนมัติ"</string>
+    <string name="document_mode_use_hint_text_title">สแกนเอกสาร</string>
+    <string name="document_origin">ต้นฉบับ</string>
+    <string name="document_strengthen">เพิ่มประสิทธิภาพ</string>
     <string name="dual_camera_lens_covered_toast">เลนส์ถูกบดบัง</string>
     <string name="dual_camera_lowlight_toast">แสงสว่างไม่เพียงพอ</string>
     <string name="dual_camera_too_close_toast">กล้องอยู่ใกล้กับวัตถุมากเกินไป</string>
@@ -193,6 +203,7 @@
     <string name="edit_eyebrow_dye">คิ้ว</string>
     <string name="edit_face_ruddy">อมชมพู</string>
     <string name="edit_face_slender">หน้าเรียว</string>
+    <string name="edit_hairline">ไรผม</string>
     <string name="edit_jelly_lips">ลิปมัน</string>
     <string name="edit_lips">ลิปส์</string>
     <string name="edit_neck">คอ</string>
@@ -237,11 +248,12 @@
     <string name="face_beauty_intelligent_level_3">สูง</string>
     <string name="face_beauty_smart">อัจฉริยะ</string>
     <string name="face_score_info">คะแนนe: %.1f</string>
-    <string name="fps960_toast">ถ่ายภาพแบบเคลื่อนไหวช้าจะเริ่มที่ควอเตอร์สุดท้ายของการบันทึก</string>
+    <string name="fps960_toast">ถ่ายภาพสโลโมชั่นจะเริ่มที่ควอเตอร์สุดท้ายของการบันทึก</string>
+    <string name="fragment_tab_name_bokeh">โบเก้</string>
     <string name="front_camera_hint_text_place">"ถ่ายเซลฟี่ง่ายขึ้น
 ถ้าคุณหมุนโทรศัพท์ของคุณ"</string>
     <string name="front_camera_hint_text_rotate">หมุนโทรศัพท์ของคุณ</string>
-    <string name="hand_gesture_open_tip">แสดงฝ่ามือของคุณไปที่กล้องเพื่อเริ่มจับเวลา</string>
+    <string name="hand_gesture_open_tip">แสดงฝ่ามือของคุณไปที่กล้องเพื่อเริ่มตัวจับเวลา</string>
     <string name="hand_gesture_tip">ชัตเตอร์ด้วยฝ่ามือ</string>
     <string name="hibernate_hint">แตะที่หน้าจอเพื่อใช้กล้อง</string>
     <string name="hine_hht">"ในที่ที่มีแสงน้อยกล้องจะถ่ายภาพหลายภาพ
@@ -253,11 +265,19 @@
     <string name="hint_fast_motion">วีดีโอที่คุณถ่ายจะเล่นได้เร็วขึ้น</string>
     <string name="hint_groupshot">"กล้องจะถ่ายหลายภาพ
 และสร้างชอตที่ทุกคนดูดีที่สุด"</string>
-    <string name="hint_groupshot_beauty">ไม่สามารถใช้บิวตี้ไฟในภาพกลุ่มได้</string>
+    <string name="hint_groupshot_beauty">ไม่สามารถใช้โหมดฟรุ๊งฟริ๊งในภาพกลุ่มได้</string>
     <string name="hint_mimovie">ถ่ายภาพในโหมดแนวนอนเพื่อให้ได้ผลที่ดีที่สุด</string>
     <string name="hint_slow_motion">วีดีโอที่คุณถ่ายจะเล่นได้ช้าลง</string>
+    <string name="hint_subtitle">กำหนดคำบรรยายขณะที่คุณกำลังถ่ายวิดีโอ</string>
+    <string name="hint_subtitle_prompt">คุณสามารถกำหนดคำบรรยายตอนนี้ได้</string>
     <string name="hunt_dual_water_mark">ลายน้ำของกล้องถ่ายรูปคู่จะถูกเพิ่มโดยอัตโนมัติ</string>
+    <string name="id_card_mode_hint_back">สแกนด้านหลัง ID ของคุณ</string>
+    <string name="id_card_mode_hint_front">สแกนด้านหน้า ID ของคุณ</string>
+    <string name="id_card_mode_use_hint_text_body">"รวม ID ทั้งสองด้านไว้ในภาพเดียว
+พิมพ์สำเนาแบบไร้สายบนกระดาษ A4"</string>
+    <string name="id_card_mode_use_hint_text_title">สแกน ID</string>
     <string name="install_confirmed">ติดตั้ง</string>
+    <string name="kaleidoscope_fragment_tab_name">ภาพลานตา</string>
     <string name="lens_dirty_detected_content">"ดูเหมือนว่าเลนส์กล้องของคุณจะสกปรก
 ทำความสะอาดเลนส์เพื่อให้ถ่ายได้ดีขึ้น"</string>
     <string name="lens_dirty_detected_title_back">เลนส์กล้องหลังสกปรก</string>
@@ -382,7 +402,7 @@
     <string name="module_name_fun">วิดีโอสั้น</string>
     <string name="module_name_fun_ar">Mimoji</string>
     <string name="module_name_manual">ด้วยตนเอง</string>
-    <string name="module_name_new_slow_motion">เคลื่อนไหวช้า</string>
+    <string name="module_name_new_slow_motion">สโลโมชั่น</string>
     <string name="module_name_panorama">พานอรามา</string>
     <string name="module_name_portrait">ภาพบุคคล</string>
     <string name="module_name_professional">โปร</string>
@@ -391,9 +411,10 @@
     <string name="moive_frame">กรอบภาพยนตร์</string>
     <string name="multi_window_mode_not_supported">กล้องไม่สามารถทำงานในหน้าจอแยกได้</string>
     <string name="network_access_user_notice_agree">ยอมรับ</string>
-    <string name="network_access_user_notice_message_live_video">&lt;Data>กล้องจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้เอฟเฟ็กต์เพลงและคุณสมบัติอื่นๆ สำหรับวิดีโอสั้นๆ&lt;br/>&lt;br/>โดยการแตะ ยอมรับ ด้านล่าง คุณเห็นด้วยกับ &lt;a href =%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href =%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของเรา และอนุญาตให้กล้องเชื่อมต่ออินเทอร์เน็ต&lt;/Data></string>
-    <string name="network_access_user_notice_message_sticker">&lt;Data>กล้องจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อจัดหาสติ๊กเกอร์สำหรับคุณสมบัตินี้&lt;br/>&lt;br/>โดยการแตะ ยอมรับ ด้านล่าง คุณเห็นด้วยกับ &lt;a href =%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href =%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของเรา และอนุญาตให้กล้องเชื่อมต่ออินเทอร์เน็ต&lt;/Data></string>
-    <string name="network_access_user_notice_message_voice_caption">&lt;Data>กล้องจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้ฟังก์ชั่นแสดงผลคำพูดเป็นข้อความ&lt;br/>&lt;br/>โดยการแตะ ยอมรับ ด้านล่าง คุณเห็นด้วยกับ &lt;a href =%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href =%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของเรา และอนุญาตให้กล้องเชื่อมต่ออินเทอร์เน็ต&lt;/Data></string>
+    <string name="network_access_user_notice_message_live_video">&lt;Data>กล้องจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้เอฟเฟ็กต์เพลงและคุณสมบัติอื่นๆ สำหรับวิดีโอสั้นๆ&lt;br/>&lt;br/>โดยการแตะ \"ยอมรับ\" ด้านล่าง คุณเห็นด้วยกับ &lt;a href =%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href =%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของเรา และอนุญาตให้กล้องเชื่อมต่ออินเทอร์เน็ต&lt;/Data></string>
+    <string name="network_access_user_notice_message_mi_live_video">&lt;Data>ยินดีต้อนรับสู่วิดีโอสั้น! บริการของเราต้องเชื่อมต่อกับเครือข่ายเพื่อมอบเพลงและคุณสมบัติอื่นๆ ให้กับคุณ&lt;br/>&lt;br/>ก่อนที่จะใช้บริการของเราคุณต้องอ่านและยอมรับ &lt;a href =%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href =%2$s>ความเป็นส่วนตัว&lt;/a>ของเรา รวมถึงอนุญาตให้แอปเชื่อมต่ออินเทอร์เน็ต&lt;/Data></string>
+    <string name="network_access_user_notice_message_sticker">&lt;Data>กล้องจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อจัดหาสติ๊กเกอร์สำหรับคุณสมบัตินี้&lt;br/>&lt;br/>โดยการแตะ \"ยอมรับ\" ด้านล่าง คุณเห็นด้วยกับ &lt;a href =%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href =%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของเรา และอนุญาตให้กล้องเชื่อมต่ออินเทอร์เน็ต&lt;/Data></string>
+    <string name="network_access_user_notice_message_voice_caption">&lt;Data>กล้องจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้ฟังก์ชั่นแสดงผลคำพูดเป็นข้อความ&lt;br/>&lt;br/>โดยการแตะ \"ยอมรับ\" ด้านล่าง คุณเห็นด้วยกับ &lt;a href =%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href =%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของเรา และอนุญาตให้กล้องเชื่อมต่ออินเทอร์เน็ต&lt;/Data></string>
     <string name="network_access_user_notice_title">กำลังเชื่อมต่อกับอินเตอร์เน็ต</string>
     <string name="no_storage">ใส่ SD การ์ดก่อนใช้งานกล้อง</string>
     <string name="not_enough_space">SD การ์ดเต็ม</string>
@@ -409,6 +430,7 @@
     <string name="parameter_ef_split_description">คุณสามารถลากวงแหวนปรับระดับแสงออกจากวงแหวนปรับโฟกัสและปรับพารามิเตอร์ทั้งสองแยกกัน</string>
     <string name="parameter_ef_split_title">แยกการโฟกัสและการวัดแสง</string>
     <string name="parameter_et_description">วามเร็วชัตเตอร์อัตโนมัติถูกกำหนดโดยตัววัดแสงของกล้อง เมื่อคุณเลือกความเร็วชัตเตอร์ด้วยตนเองโปรดจำไว้ว่ายิ่งชัตเตอร์เปิดนานเท่าใดแสงที่ส่องเข้ามาในเซ็นเซอร์ก็ยิ่งมีมากขึ้นเท่านั้น</string>
+    <string name="parameter_et_title">ความเร็วชัตเตอร์</string>
     <string name="parameter_exposure_description">คุณสมบัตินี้ช่วยให้คุณชดเชยแสงเมื่อคุณต้องการให้ภาพสว่างหรือมืดกว่าที่มาตรวัดแนะนำ</string>
     <string name="parameter_exposure_feecback_description">ไฮไลต์บริเวณแสงน้อยในสีน้ำเงินและพื้นที่สว่างมากเกินไปเป็นสีแดงเพื่อให้สามารถปรับระดับแสงได้อย่างถูกต้อง</string>
     <string name="parameter_exposure_feecback_title">การตรวจสอบการเปิดรับแสง</string>
@@ -418,7 +440,8 @@
     <string name="parameter_histogram_description">ฮิสโตแกรมเป็นการแสดงการเปิดรับแสงแบบเรียลไทม์ซึ่งแสดงส่วนที่มืดที่สุดของฉากทางด้านซ้ายของคุณไปยังส่วนที่สว่างที่สุดทางด้านขวา ส่วนแนวตั้งของสเกลแสดงให้เห็นว่าฉากมีความสว่างหรือมืดเท่าใด</string>
     <string name="parameter_histogram_title">ฮิสโตแกรม</string>
     <string name="parameter_iso_description">ค่า ISO สามารถกำหนดได้โดยอัตโนมัติโดยเครื่องวัดแสง นอกจากนี้คุณยังสามารถเปลี่ยนค่าได้ด้วยตนเอง โปรดจำไว้ว่า ISO ที่สูงขึ้นทำให้กล้องของคุณไวต่อแสงมากขึ้น</string>
-    <string name="parameter_lens_description">คุณสามารถสลับเลนส์ได้หลายแบบ:</string>
+    <string name="parameter_iso_title">ความไว ISO</string>
+    <string name="parameter_lens_description">"คุณสามารถสลับเลนส์ได้หลายแบบ: "</string>
     <string name="parameter_lens_marco">, MACRO (เลนส์มาโคร)</string>
     <string name="parameter_lens_st">, S-TELE (เลนส์ซูม)</string>
     <string name="parameter_lens_t">, TELE (เลนส์เทเลโฟโต้)</string>
@@ -445,7 +468,7 @@
     <string name="pic_flaw_blink_one">ดูเหมือนว่าบุคคนในกรอบภาพจะหลับตา</string>
     <string name="pic_flaw_cover">ดูเหมือนเลนส์จะถูกบังบางส่วน</string>
     <string name="popup_tip_3d_beauty_intro_text">3D บิวตี้</string>
-    <string name="portait_effect_entry_blackwhite">ดำ&amp;ขาว</string>
+    <string name="portait_effect_entry_blackwhite">ขาวดำ</string>
     <string name="portait_effect_entry_cool">มิ้นท์</string>
     <string name="portait_effect_entry_dusk">พลบค่ำ</string>
     <string name="portait_effect_entry_fairytale">วัยเด็ก</string>
@@ -512,11 +535,12 @@
     <string name="pref_camera_auxiliary_close">ปิด</string>
     <string name="pref_camera_auxiliary_exposure_feedback">การตรวจสอบการเปิดรับแสง</string>
     <string name="pref_camera_auxiliary_focus_peak">จุดสูงสุดโฟกัส</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
     <string name="pref_camera_beauty">ฟรุ๊งฟริ๊ง</string>
-    <string name="pref_camera_beauty_deep">บิวตี้ไฟโปร</string>
+    <string name="pref_camera_beauty_deep">โหมดฟรุ๊งฟริ๊งโปร</string>
     <string name="pref_camera_coloreffect_entry_big_face">ขยายออก</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">ขาวดำ</string>
     <string name="pref_camera_coloreffect_entry_fisheye">ฟิชอาย</string>
@@ -542,24 +566,10 @@
     <string name="pref_camera_delay_capture_entry_3s">3 วิ</string>
     <string name="pref_camera_delay_capture_entry_5s">5 วิ</string>
     <string name="pref_camera_delay_capture_entry_audio">เสียง</string>
-    <string name="pref_camera_delay_capture_title">นับถอยหลัง</string>
+    <string name="pref_camera_delay_capture_title">ตัวจับเวลา</string>
     <string name="pref_camera_device_watermark_title">ลายน้ำอุปกรณ์</string>
-    <string name="pref_camera_exposuretime_entry_0_5">2วิ</string>
-    <string name="pref_camera_exposuretime_entry_1000">1/1000วิ</string>
-    <string name="pref_camera_exposuretime_entry_125">1/125วิ</string>
-    <string name="pref_camera_exposuretime_entry_15">1/15วิ</string>
-    <string name="pref_camera_exposuretime_entry_16s">16 วิ</string>
-    <string name="pref_camera_exposuretime_entry_250">1/250วิ</string>
-    <string name="pref_camera_exposuretime_entry_30">1/30วิ</string>
-    <string name="pref_camera_exposuretime_entry_32s">32 วิ</string>
-    <string name="pref_camera_exposuretime_entry_4">1/4วิ</string>
-    <string name="pref_camera_exposuretime_entry_4s">4 วิ</string>
-    <string name="pref_camera_exposuretime_entry_500">1/500วิ</string>
-    <string name="pref_camera_exposuretime_entry_60">1/60วิ</string>
-    <string name="pref_camera_exposuretime_entry_8">1/8วิ</string>
-    <string name="pref_camera_exposuretime_entry_8s">8 วิ</string>
-    <string name="pref_camera_exposuretime_entry_auto">อัตโนมัติ</string>
     <string name="pref_camera_face_info_watermark_title">แสดงอายุบนรูปภาพ</string>
+    <string name="pref_camera_first_tag_tips">ทำเครื่องหมายเรียบร้อยแล้ว</string>
     <string name="pref_camera_flashmode_entry_auto">อัตโนมัติ</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">แสงอ่อน</string>
     <string name="pref_camera_flashmode_entry_off">ปิด</string>
@@ -567,7 +577,7 @@
     <string name="pref_camera_flashmode_entry_torch">ไฟฉาย</string>
     <string name="pref_camera_flashmode_title">โหมดแฟลช</string>
     <string name="pref_camera_focus_shoot_summary">แตะเพื่อโฟกัสแล้วแตะอีกครั้งเพื่อถ่ายภาพ</string>
-    <string name="pref_camera_focus_shoot_title">โฟกัส &amp; ถ่าย</string>
+    <string name="pref_camera_focus_shoot_title">โฟกัสและถ่าย</string>
     <string name="pref_camera_focusmode_entry_auto">อัตโนมัติ</string>
     <string name="pref_camera_focusmode_entry_infinity">อนันต์</string>
     <string name="pref_camera_focusmode_entry_macro">มาโคร</string>
@@ -638,7 +648,7 @@
     <string name="pref_camera_recordlocation_entry_on">เปิด</string>
     <string name="pref_camera_recordlocation_title">จัดเก็บข้อมูลตำแหน่งพิกัด</string>
     <string name="pref_camera_referenceline_title">แสดงตาราง</string>
-    <string name="pref_camera_saturation_title">ความอิ่มตัวของสี</string>
+    <string name="pref_camera_saturation_title">ความอิ่มสี</string>
     <string name="pref_camera_scenemode_entry_auto">อัตโนมัติ</string>
     <string name="pref_camera_scenemode_entry_backlight">ย้อนแสง</string>
     <string name="pref_camera_scenemode_entry_beach">ชายหาด</string>
@@ -657,13 +667,13 @@
     <string name="pref_camera_settings_category">การตั้งค่ากล้อง</string>
     <string name="pref_camera_settings_title">การตั้งค่า</string>
     <string name="pref_camera_sharpness_title">ความคม</string>
-    <string name="pref_camera_show_gender_age_config_title">อายุ &amp; เพศ</string>
+    <string name="pref_camera_show_gender_age_config_title">อายุและเพศ</string>
     <string name="pref_camera_show_gender_age_entry_alias">แสดงอายุเมื่อใช้งานโหมดฟรุ๊งฟริ๊ง</string>
     <string name="pref_camera_show_gender_age_entry_off">ปิด</string>
     <string name="pref_camera_show_gender_age_entry_on">แสดงอายุและเพศเมื่อใช้งานโหมดฟรุ๊งฟริ๊ง</string>
     <string name="pref_camera_show_gender_age_label_alias">อายุ</string>
-    <string name="pref_camera_show_gender_age_label_on">อายุ &amp; เพศ</string>
-    <string name="pref_camera_show_gender_age_title">อายุ &amp; เพศ</string>
+    <string name="pref_camera_show_gender_age_label_on">อายุและเพศ</string>
+    <string name="pref_camera_show_gender_age_title">อายุและเพศ</string>
     <string name="pref_camera_snap_enable_title">โหมดถ่ายเร็วแบบเร่งด่วน</string>
     <string name="pref_camera_snap_entry_off">ปิด</string>
     <string name="pref_camera_snap_entry_summary">กดปุ่มลดระดับเสียงค้างไว้เมื่อปิดหน้าจอเพื่อถ่ายรูป</string>
@@ -690,6 +700,8 @@
     <string name="pref_camera_video_duration_entry_120">ไม่จำกัด</string>
     <string name="pref_camera_video_duration_entry_30">30 นาที</string>
     <string name="pref_camera_video_duration_entry_mms">30 วินาที (MMS)</string>
+    <string name="pref_camera_video_tag">อนุญาตให้ทำเครื่องหมายวิดีโอ</string>
+    <string name="pref_camera_video_tag_description">แตะ \"ทำเครื่องหมาย\" ในขณะที่ถ่ายวิดีโอเพื่อให้สามารถย้อนกลับไปยังช่วงเวลาที่ทำเครื่องหมายไว้ระหว่างการเล่น</string>
     <string name="pref_camera_volumekey_function_entry_shutter">ชัตเตอร์</string>
     <string name="pref_camera_volumekey_function_entry_timer">นับถอยหลังชัตเตอร์</string>
     <string name="pref_camera_volumekey_function_entry_volume">ระดับเสียง</string>
@@ -708,8 +720,8 @@
     <string name="pref_camera_zoom_mode_entry_macro">มาโคร</string>
     <string name="pref_camera_zoom_mode_entry_standard">ปกติ</string>
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-    <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
-    <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
+    <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
+    <string name="pref_camera_zoom_mode_entry_tele_standalone">TELE 5X</string>
     <string name="pref_camera_zoom_mode_entry_ultra">กว้างพิเศษ</string>
     <string name="pref_camera_zoom_mode_entry_wide">WIDE</string>
     <string name="pref_camera_zoom_mode_title">เลนส์</string>
@@ -717,6 +729,7 @@
     <string name="pref_camera_zsl_entry_off">ปิด</string>
     <string name="pref_camera_zsl_entry_on">เปิด</string>
     <string name="pref_capture_settings">กล้อง</string>
+    <string name="pref_document_mode">เอกสาร</string>
     <string name="pref_face_beauty_title">โหมดฟรุ๊งฟริ๊ง</string>
     <string name="pref_fingerprint_capture_title">ชัตเตอร์ลายนิ้วมือ</string>
     <string name="pref_front_mirror_entry_auto">เมื่อตรวจจับใบหน้าแล้ว</string>
@@ -777,14 +790,15 @@
     <string name="pref_video_speed_entry_normal">มาตรฐาน</string>
     <string name="pref_video_speed_entry_slow">ช้า</string>
     <string name="pref_video_speed_fast_title">วิดีโอเคลื่อนไหวเร็ว</string>
-    <string name="pref_video_speed_slow_title">วิดีโอเคลื่อนไหวช้า</string>
+    <string name="pref_video_speed_slow_title">สโลโมชั่น</string>
+    <string name="pref_video_subtitle">คำบรรยาย</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">10X (ช่วงเวลา 0.3-วินาที)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">120X (ช่วงเวลา 4-วินาที)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_150">150X (ช่วงเวลา 5-วินาที)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_1800">1800X (ช่วงเวลา 60-วินาที)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">2X (ช่วงเวลา 0.06-วินาที)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_240">240X (ช่วงเวลา 8-วินาที)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_30">30X (1 วินาที)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_30">30X (ช่วงเวลา 1-วินาที)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_300">300X (ช่วงเวลา 10-วินาที)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">4X (ช่วงเวลา 0.12-วินาที)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_450">450X (ช่วงเวลา 15-วินาที)</string>
@@ -796,6 +810,7 @@
     <string name="pref_watermark_on">เปิด</string>
     <string name="pref_watermark_title">ลายน้ำ</string>
     <string name="preparing_sd">กำลังตรวจสอบ SD การ์ด…</string>
+    <string name="pro_color_mode">สีแบบโปร</string>
     <string name="recommend_macro_mode">ลองใช้โหมดมาโคร</string>
     <string name="recommend_portrait">ลองใช้โหมดพอร์ทเทรต</string>
     <string name="recommend_soft_light_tip">เปิดแฟลช</string>
@@ -811,9 +826,9 @@
     <string name="simple_mode_button_asd_hdr">ปิดใช้งาน HDR</string>
     <string name="simple_mode_button_text_audio_capture">ปิดใช้งานโหมดสั่งถ่ายภาพด้วยเสียง</string>
     <string name="simple_mode_button_text_color_effect">ปิดใช้งานฟิลเตอร์</string>
-    <string name="simple_mode_button_text_delay_capture">ปิดโหมดนับถอยหลัง</string>
+    <string name="simple_mode_button_text_delay_capture">ปิดตัวจับเวลา</string>
     <string name="simple_mode_button_text_face_beauty">ปิดโหมดฟรุ๊งฟริ๊ง</string>
-    <string name="simple_mode_button_text_fast_video">ปิดใช้งานเคลื่อนไหวช้า</string>
+    <string name="simple_mode_button_text_fast_video">ปิดใช้งานสโลโมชั่น</string>
     <string name="simple_mode_button_text_gradienter">ปิดใช้การปรับให้ตรง</string>
     <string name="simple_mode_button_text_groupshot">ปิดใช้งานเซลฟี่กลุ่ม</string>
     <string name="simple_mode_button_text_hand_night">ปิดใช้งาน HHT</string>
@@ -834,6 +849,10 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sticker_tab1">น่ารัก</string>
     <string name="sticker_tab2">ตลก</string>
+    <string name="subtitle_network_exception_tips">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ไม่สามารถถอดเสียงได้ในขณะนี้</string>
+    <string name="super_eis">ป้องกันภาพสั่นไหวสูงสุด</string>
+    <string name="super_eis_disabled_hint">ป้องกันภาพสั่นไหวสูงสุดปิดอยู่</string>
+    <string name="super_night_hint">ปรับภาพให้เหมาะสม… รักษาอุปกรณ์ของคุณให้มั่นคง</string>
     <string name="super_night_toast">รักษาโทรศัพท์ของคุณให้มั่นคงในขณะที่ถ่ายรูป</string>
     <string name="tap_to_exposure">แตะเพื่อปรับการเปิดรับแสงด้วยตนเอง</string>
     <string name="tap_to_focus">แตะเพื่อโฟกัสภาพ</string>
@@ -846,13 +865,17 @@
     <string name="toast_start_audio_capture">กรุณาเปล่งเสียงเพื่อถ่ายภาพ</string>
     <string name="ubi_focus_capture_fail">ไม่สามารถถ่ายภาพได้</string>
     <string name="ubifocus_capture_warning_message">เพื่อผลลัพธ์ที่ดีที่สุด องค์ประกอบภาพของคุณควรมีทั้งวัตถุที่อยู่ใกล้ (ระยะห่างจากเลนส์กล้องไม่เกิน 1 เมตร) และวัตถุที่อยู่ไกล</string>
+    <string name="ultra_pixel_108mp">108MP</string>
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
     <string name="ultra_pixel_64mp">64MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD ถูกปิด</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD ถูกเปิด</string>
-    <string name="ultra_pixel_portrait_hint">พอร์ทเทรต HD</string>
+    <string name="ultra_pixel_portrait_hint">พอร์ทเทรตแสงน้อย</string>
     <string name="ultra_pixel_zoom_no_support_tip">การซูมใช้ไม่ได้ใน %s โหมด Ultra HD</string>
+    <string name="ultra_tele_use_hint_text_body">"ใช้การซูม 50 เท่าเพื่อจับภาพวัตถุที่อยู่ไกล
+ในรายละเอียดที่มากขึ้น"</string>
+    <string name="ultra_tele_use_hint_text_title">ซูม 50X</string>
     <string name="ultra_wide_bokeh_close_tip">โหมดตัวเต็มถูกปิดอยู่</string>
     <string name="ultra_wide_bokeh_open_tip">โหมดตัวเต็ม</string>
     <string name="ultra_wide_close_tip">โหมดมุมกว้างพิเศษถูกปิด</string>
@@ -871,14 +894,27 @@
     <string name="user_notice_identify_summary_format">ก่อนใช้กล้อง คุณจำเป็นต้องยอมรับใน <a href="http://www.miui.com/res/doc/eula.html?lang=th_TH">ข้อตกลงการใช้งาน</a>และ<a href="http://www.miui.com/res/doc/privacy.html?lang=th_TH">นโยบายความเป็นส่วนตัว</a>ของเรา และกล้องจำเป็นต้องเชื่อมต่อกับอินเตอร์เน็ตเพื่อทำงานอย่างปกติ ยอมรับหรือไม่?</string>
     <string name="user_notice_title">ข้อตกลงและเงื่อนไข</string>
     <string name="video_beauty_tip">ฟรุ๊งฟริ๊งสำหรับวิดีโอ</string>
+    <string name="video_beauty_tip_beautification">ฟรุ๊งฟริ๊ง</string>
+    <string name="video_beauty_tip_filter">ฟิลเตอร์</string>
+    <string name="video_beauty_tip_portrait_bokeh">โบเก้</string>
     <string name="video_camera_label">อัดวิดีโอ</string>
-    <string name="video_effect_entry_blackwhite">ดำ&amp;ขาว</string>
+    <string name="video_effect_entry_blackwhite">ขาวดำ</string>
     <string name="video_effect_entry_bygone">ผ่านไปแล้ว</string>
+    <string name="video_effect_entry_central">ศูนย์กลาง</string>
+    <string name="video_effect_entry_color_retention">สดใส</string>
+    <string name="video_effect_entry_fantasy">จินตนาการ</string>
     <string name="video_effect_entry_film">ฟิล์ม</string>
     <string name="video_effect_entry_forest">โกรฟ</string>
     <string name="video_effect_entry_holiday">สะท้อน</string>
+    <string name="video_effect_entry_lost">แพ้</string>
+    <string name="video_effect_entry_meet">ประสบปัญหา</string>
+    <string name="video_effect_entry_northern_europe">นอร์ดิก</string>
     <string name="video_effect_entry_polaroid">โพลารอยด์</string>
+    <string name="video_effect_entry_rome">โรม</string>
+    <string name="video_effect_entry_summer_day">ฤดูร้อน</string>
+    <string name="video_effect_entry_wind_sing">ลมโชย</string>
     <string name="video_reach_size_limit">ไฟล์วิดีโอมีขนาดถึงที่กำหนดไว้แล้ว</string>
+    <string name="video_tag_flag_title">ทำเครื่องหมาย</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">ดูนโยบายความเป็นส่วนตัว</string>
@@ -890,6 +926,11 @@
 บันทึกและแก้ไขวิดีโอได้ทุกที่"</string>
     <string name="vv_use_hint_text_title">VLOG</string>
     <string name="wait">รอสักครู่…</string>
+    <string name="watermark_tab_city">เมือง</string>
+    <string name="watermark_tab_festival">วันหยุด</string>
+    <string name="watermark_tab_general">ทั่วไป</string>
+    <string name="watermark_tab_scene">ฉาก</string>
+    <string name="watermark_tab_spots">ไซต์</string>
     <string name="wideselfie_press_shoot_key_to_start">แตะปุ่มชัตเตอร์</string>
     <string name="wideselfie_result_image_lossless">ไม่สามารถจับภาพพาโนรามา</string>
     <string name="wideselfie_rotate_slowly">หมุนโทรศัพท์ไปด้านข้าง</string>

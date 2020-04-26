@@ -23,7 +23,7 @@
     <string name="autofill">กรอกอัตโนมัติ</string>
     <string name="autofill_save_message">อนุญาตให้ MIUI บันทึกบัญชีและรหัสผ่านของคุณหรือไม่?</string>
     <string name="autofill_save_ok">อนุญาต</string>
-    <string name="autofill_save_sub_message">คุณจะสามารถจัดการรหัสผ่านที่บันทึกไว้ได้ใน การตั้งค่า > รหัสผ่าน &amp; ความปลอดภัย > %s</string>
+    <string name="autofill_save_sub_message">คุณจะสามารถจัดการรหัสผ่านที่บันทึกไว้ได้ใน การตั้งค่า > รหัสผ่านและความปลอดภัย > %s</string>
     <string name="autofill_save_title">บันทึกรหัสผ่านโดยอัตโนมัติ</string>
     <string name="autofill_service_name">จัดการรหัสผ่าน</string>
     <string name="btn_cancel">ยกเลิก </string>
@@ -47,9 +47,10 @@
     <string name="content_description_web_url">เรียกดู</string>
     <string name="copy">คัดลอก</string>
     <string name="cut">ตัด</string>
+    <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="default_device_name">อุปกรณ์ไม่รู้จัก</string>
     <string name="default_name">ค่าเริ่มต้น</string>
-    <string name="description_title">โหมดเงียบ</string>
+    <string name="description_title">โหมดปิดเสียง</string>
     <string name="device_name_with_ellipsize">%1$s…</string>
     <string name="device_type_pc">คอมพิวเตอร์</string>
     <string name="eighthours">8 ชั่วโมง</string>
@@ -61,7 +62,7 @@
     <string name="file_cannot_print">ไม่สามารถพิมพ์รายการนี้ได้</string>
     <string name="file_cannot_screen_throw">ไม่สามารถฉายรายการนี้ได้</string>
     <string name="file_sending">กำลังโอนไฟล์…</string>
-    <string name="first_back_long_press_message">ในการตั้งค่าแบบกำหนดเอง &amp; กดปุ่มลัดค้างไว้ ไปที่ เมนูการตั้งค่า > การตั้งค่าเพิ่มเติม > ปุ่ม</string>
+    <string name="first_back_long_press_message">ในการตั้งค่าแบบกำหนดเองและกดปุ่มลัดค้างไว้ ไปที่ เมนูการตั้งค่า > การตั้งค่าเพิ่มเติม > ปุ่ม</string>
     <string name="flip_screen_camera_tip">หมุนกลับอุปกรณ์เพื่อใช้กล้อง</string>
     <string name="fm_record_smaple_prefix_miui">บันทึกวิทยุ FM</string>
     <string name="force_exit_message">บังคับปิด %1$s</string>
@@ -71,7 +72,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">ในภายหลัง</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">เปิดใช้งาน</string>
     <string name="fp_nav_center_action_choose_dlg_title">เปิดใช้งานปุ่มแตะลัด</string>
-    <string name="frequent_email">อีเมลประจำ</string>
+    <string name="frequent_email">อีเมลที่ใช้บ่อย</string>
     <string name="frequent_phrases">คำที่ถูกใช้บ่อย</string>
     <string name="functions_are_being_developed">คุณสมบัตินี้จะสามารถใช้ได้เร็วๆ นี้ คอยติดตาม!</string>
     <string name="global_actions_airplane_mode">โหมดเครื่องบิน</string>
@@ -111,7 +112,7 @@
     <string name="miui_screen_ratio_hint">แจ้งอัตราหน้าจอ</string>
     <string name="miui_screen_ratio_hint_dont_show_again">ไม่ต้องแสดงอีก</string>
     <string name="miui_screen_ratio_hint_go_to_settings">ไปที่เมนูการตั้งค่า</string>
-    <string name="miui_screen_ratio_hint_message">แอปนี้ได้รับอนุญาตให้ทำงานในโหมดเต็มหน้าจอ ซึ่งอาจทำให้ไม่สามารถแสดงผลได้ไม่ถูกต้อง คุณสามารถเปลี่ยนแปลงได้ในการตั้งค่า > การแสดงผลแบบเต็มจอ</string>
+    <string name="miui_screen_ratio_hint_message">แอปนี้ได้รับอนุญาตให้ทำงานในโหมดเต็มจอ ซึ่งอาจทำให้ไม่สามารถแสดงผลได้ไม่ถูกต้อง คุณสามารถเปลี่ยนแปลงได้ในการตั้งค่า > การแสดงผลแบบเต็มจอ</string>
     <string name="miui_screen_ratio_hint_ok">ตกลง</string>
     <string name="miui_upgrading_notification_title">ระบบกำลังโหลด คุณลักษณะบางอย่างอาจไม่สามารถใช้งานได้</string>
     <string name="miui_warning_button_cancel">ยกเลิก </string>
@@ -183,7 +184,7 @@
     <string name="screenshot_gesture_detect_alert_title">จับภาพหน้าจอด้วยสามนิ้ว</string>
     <string name="security_permission_denied_text">เข้าสู่ระบบไม่ได้</string>
     <string name="security_permission_failed_text">เกิดข้อผิดพลาด ลองอีกครั้งในภายหลัง</string>
-    <string name="security_permission_network_failed_text">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
+    <string name="security_permission_network_failed_text">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
     <string name="security_permission_open_wifi_settings">เปิดการตั้งค่า Wi-Fi</string>
     <string name="security_permission_validate_warning">ขอบคุณที่มีส่วนช่วยพัฒนา MIUI ให้ดียิ่งขึ้น!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi และข้อมูลมือถือเปิดใช้งานแล้ว</string>
@@ -197,16 +198,17 @@
     <string name="set_password_title">ตั้งรหัสผ่าน</string>
     <string name="shutdown_confirm_title">ปิดเครื่องตอนนี้?</string>
     <string name="shutdown_progress">กำลังปิดเครื่อง…</string>
-    <string name="silence_mode">โหมดเงียบ</string>
+    <string name="silence_mode">โหมดปิดเสียง</string>
     <string name="sim_added_reboot_confirm">รีบูต</string>
     <string name="sim_added_reboot_title">การเปิดใช้งานซิมการ์ดจะเริ่มหลังจากที่คุณรีบูตเครื่อง</string>
     <string name="sim_lock_non_ais_msg">"ซิมการ์ดไม่รองรับการทำงานในทุกฟังก์ชั่น
 ร่วมกับโทรศัพท์เครื่องนี้เนื่องจากมิได้เป็น
-ไปตามเงื่อนไขและข้อตกลง หากมีข้อสงสัย
+ไปตามข้อตกลงและเงื่อนไข หากมีข้อสงสัย
 หรือต้องการสอบถามข้อมูลเพิ่มเติม กรุณา
 ติดต่อศูนย์บริการของ Xiaomi หรือร้านค้าที่
 จำหน่ายสินค้าให้กับท่าน"</string>
     <string name="sim_lock_now_ais_title">ซิม%1$d</string>
+    <string name="slatoast">Using mobile data to boost speed, may consume mobile data</string>
     <string name="slavewifi">Wi-Fi คู่</string>
     <string name="slavewifi_disconnect">ตัดการเชื่อมต่อ</string>
     <string name="slavewifi_notification_title">ใช้ Wi-Fi คู่</string>
@@ -273,7 +275,7 @@
     <string name="voice_begin">คุณกำลังมองหาอะไร?</string>
     <string name="voice_button_action_down">ปล่อยเพื่อค้นหา</string>
     <string name="voice_button_action_up">กดเพื่อพูด</string>
-    <string name="voice_input_error_network">ไม่สามารถเชื่อมต่อเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
+    <string name="voice_input_error_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
     <string name="voice_input_error_other">เกิดข้อผิดพลาด รอประมาณ1-2นาทีแล้วลองอีกครั้ง</string>
     <string name="wifi_assistant_wifi_no_internet">เครือข่าย Wi-Fi นี้ไม่มีอินเตอร์เน็ต</string>
     <string name="wifi_assistant_wifi_no_internet_detail">แตะเพื่อดูรายละเอียด</string>

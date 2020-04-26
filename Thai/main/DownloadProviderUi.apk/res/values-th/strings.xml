@@ -129,8 +129,8 @@
     <string name="downloads_operating">กำลังดำเนินการ…</string>
     <string name="durationDayHour">%1$d วัน %2$d ชม.</string>
     <string name="durationDayHours">%1$d วัน %2$d ชม.</string>
-    <string name="durationHourMinute">%1$d ชม. %2$d นาที</string>
-    <string name="durationHourMinutes">%1$d ชม. %2$d นาที</string>
+    <string name="durationHourMinute">%1$d ชั่วโมง %2$d นาที</string>
+    <string name="durationHourMinutes">%1$d ชั่วโมง %2$d นาที</string>
     <string name="durationMinute">%1$d นาที</string>
     <string name="durationMinuteSecond">%1$d นาที %2$d วินาที</string>
     <string name="durationMinuteSeconds">%1$d นาที %2$d วินาที</string>
@@ -145,7 +145,7 @@
     <string name="get_data_failed">ไม่สามารถรับข้อมูลได้ รอประมาณ 1-2 นาทีแล้วลองอีกครั้ง</string>
     <string name="gigabyteShort_per_seconds">GB/วิ</string>
     <string name="guess_like">คุณอาจจะชอบ</string>
-    <string name="hint">คำเตือน</string>
+    <string name="hint">โปรดทราบ</string>
     <string name="info_download_details">รายละเอียด</string>
     <string name="info_download_progress">แสดงความคืบหน้าในการดาวน์โหลด</string>
     <string name="info_flow_only_load_wifi">โหลดเนื้อหาได้เมื่อใช้ Wi-Fi เท่านั้น</string>
@@ -155,7 +155,7 @@
     <string name="installing">กำลังติดตั้ง…</string>
     <string name="insufficient_space">พื้นที่จัดเก็บไม่เพียงพอ</string>
     <string name="kilobyteShort_per_seconds">kB/วิ</string>
-    <string name="korean_all_choose_item_title">ฉันยอมรับข้อกำหนดและเงื่อนไขทั้งหมดด้านล่าง</string>
+    <string name="korean_all_choose_item_title">ฉันยอมรับข้อตกลงและเงื่อนไขทั้งหมดด้านล่าง</string>
     <string name="korean_permission_group_phone_describe">เข้าถึงอุปกรณ์ IMEI และสถานะครือข่าย รวบรวมข้อมูลเกี่ยวกับการดาวน์โหลดที่ล้มเหลวเพื่อปรับปรุงบริการ</string>
     <string name="korean_permission_group_phone_title">โทรศัพท์</string>
     <string name="korean_permission_group_storage_describe">เข้าถึงที่เก็บข้อมูลของอุปกรณ์เพื่อจัดการการดาวน์โหลด</string>
@@ -205,7 +205,7 @@
     <string name="pref_download_settings_title">จำกัดขนาดการดาวน์โหลด</string>
     <string name="pref_summary_any_bytes_popup">รอดาวน์โหลดไฟล์ผ่าน Wi-Fi เท่านั้น</string>
     <string name="pref_summary_enable_max_bytes_popup">แสดงหน้าต่างแจ้งเตือนหากใช้การดาวน์โหลดผ่านเครือข่ายข้อมูลมือถือ</string>
-    <string name="pref_summary_max_bytes_limit_format">รอดาวน์โหลดผ่าน Wi-Fi หากขนาดไฟล์เกินกว่า %s</string>
+    <string name="pref_summary_max_bytes_limit_format">ใส่ในคิวรอดาวน์โหลดผ่าน Wi-Fi เมื่อไฟล์มีขนาดเกิน %s</string>
     <string name="pref_summary_no_limit_popup">ไม่จำกัด</string>
     <string name="pref_title_enable_max_bytes_popup">แจ้งเตือนการใช้ข้อมูล</string>
     <string name="preferences_title">การตั้งค่า</string>
@@ -223,7 +223,7 @@
     <string name="recommend_prepare">กำลังรอ…</string>
     <string name="restart_download">รีสตาร์ท</string>
     <string name="resume_download">ทำต่อ</string>
-    <string name="retry_after_network_available">ไม่สามารถเชื่อมต่อกับเครือข่าย ตรวจสอบการเชื่อมต่อข้อมูลและลองอีกครั้ง</string>
+    <string name="retry_after_network_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการเชื่อมต่อข้อมูลและลองอีกครั้ง</string>
     <string name="revert_default">การตั้งค่าเรียกคืนค่าค่าเริ่มต้น</string>
     <string name="revert_download_path">ใช้ตำแหน่งโฟลเดอร์ดาวน์โหลดเริ่มต้น?</string>
     <string name="save_path">"จัดเก็บไฟล์ดาวน์โหลดไปยัง: "</string>
@@ -249,4 +249,5 @@
     <string name="toast_only_wifi_download">เชื่อมต่อกับ Wi-Fi เพื่อดาวน์โหลดรายการนี้</string>
     <string name="total_speedup">เพิ่มความเร็ว (ทั้งหมด)</string>
     <string name="version">เวอร์ชั่น %s</string>
+    <string name="security_ui_title">โฆษณาความปลอดภัย</string>
 </resources>

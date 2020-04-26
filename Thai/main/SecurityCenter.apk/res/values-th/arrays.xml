@@ -13,6 +13,11 @@
         <item>ทุกวันธรรมดา</item>
         <item>กำหนดเอง</item>
     </string-array>
+    <string-array name="applock_password_types">
+        <item>รูปแบบ</item>
+        <item>PIN</item>
+        <item>รหัสผ่าน</item>
+    </string-array>
     <string-array name="date_of_app_all">
         <item>"เมื่อวานนี้ (ข้อมูลมือถือ) "</item>
         <item>"วันนี้ (ข้อมูลมือถือ) "</item>
@@ -44,6 +49,12 @@
         <item>"สัปดาห์นี้: "</item>
         <item>"วันนี้: "</item>
         <item>"เดือนนี้: "</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
     </string-array>
     <string-array name="lock_mode">
         <item>เมื่ออุปกรณ์ถูกล็อก</item>

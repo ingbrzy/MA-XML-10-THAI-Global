@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">โปรดทราบ</string>
     <string name="VideoView_error_text_invalid_progressive_playback">วิดีโอนี้ไม่สามารถสตรีมไปยังอุปกรณ์นี้</string>
     <string name="selectTextMode">เลือกข้อความ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">ไอคอนลายนิ้วมือ</string>
     <string name="paste_as_plain_text">วางเป็นข้อความธรรมดา</string>
     <string name="autofill">ป้อนอัตโนมัติ</string>
@@ -461,6 +462,7 @@
     <string name="fast_scroll_numeric_alphabet">" กขฃคฅฆงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรลวศษสหฬอฮ"</string>
     <string name="fcComplete">รหัสฟีเจอร์เสร็จสมบูรณ์</string>
     <string name="fcError">พบปัญหาในการเชื่อมต่อหรือรหัสฟีเจอร์ไม่ถูกต้อง</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">ค้นหา</string>
     <string name="find_next">ค้นหาถัดไป</string>
     <string name="find_on_page">ค้นหาบนหน้า</string>
@@ -662,6 +664,7 @@
     <string name="kg_reordering_delete_drop_target_text">ลบ</string>
     <string name="kg_sim_pin_instructions">ป้อน PIN ของซิม</string>
     <string name="kg_sim_unlock_progress_dialog_message">กำลังปลดล็อกซิมการ์ด…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"คุณพิมพ์รหัสผ่านไม่ถูกต้องไป %1$d ครั้งแล้ว 
 
 โปรดลองอีกครั้งใน %2$d วินาที"</string>
@@ -975,6 +978,7 @@
     <string name="notification_channel_wfc">การโทรผ่าน Wi-Fi</string>
     <string name="notification_hidden_text">การแจ้งเตือนใหม่</string>
     <string name="notification_listener_binding_label">ตัวฟังการแจ้งเตือน</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">บริการตัวจัดอันดับการแจ้งเตือน</string>
     <string name="notification_reply_button_accessibility">ตอบ</string>
     <string name="notification_title">ข้อผิดพลาดในการลงชื่อเข้าใช้ %1$s</string>
@@ -1755,6 +1759,7 @@
     <string name="zen_mode_feature_name">ห้ามรบกวน</string>
     <string name="zen_mode_forever">จนกว่าคุณจะปิด</string>
     <string name="zen_mode_forever_dnd">จนกว่าคุณจะปิดห้ามรบกวน</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">จนถึงเวลา %1$s</string>
     <string name="zen_upgrade_notification_content">แตะเพื่อดูรายการที่ถูกบล็อก</string>
     <string name="zen_upgrade_notification_title">เปลี่ยน \"ห้ามรบกวน\" แล้ว</string>

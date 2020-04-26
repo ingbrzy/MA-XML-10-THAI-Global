@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_extreme_mode">เครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="about_extreme_mode">ตัวประหยัดแบตเตอรี่ขั้นสูง</string>
     <string name="about_hide_mode">เกี่ยวกับตัวประหยัดแบตเตอรี่แอป</string>
     <string name="active_classify">จัดเรียงตามสถานะของกิจกรรม</string>
     <string name="adaptive_battery_summary">จำกัดแบตเตอรี่สำหรับแอปที่คุณไม่ค่อยได้ใช้</string>
@@ -40,13 +40,13 @@
     <string name="extreme_add_white_list_summary">เพิ่มมากถึง 4 แอป</string>
     <string name="extreme_add_white_list_title">รายการยกเว้นในพื้นหลัง</string>
     <string name="extreme_mode_max_item_alert">คุณสามารถเลือกได้สูงสุด 4 แอปเพื่อให้ทำงานในพื้นหลังเมื่อเปิดใช้งานตัวประหยัดแบตเตอรี่ขั้นสูง</string>
-    <string name="extreme_power_config_mode_category">เครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="extreme_power_config_mode_category">ตัวประหยัดแบตเตอรี่ขั้นสูง</string>
     <string name="extreme_power_config_mode_desc"><li>เครื่องมือประหยัดแบตเตอรี่ขั้นสูงจะหยุดกิจกรรมพื้นหลังทั้งหมดของแอปหลังจากคุณออกจากแอปและกลับไปยังหน้าจอหลัก แอปนี้จะไม่ส่งการแจ้งเตือนให้กับคุณหรือรับอัปเดต</li>"
 "<li>หากคุณต้องการให้แอปทำงานในพื้นหลัง ให้ล็อกมันไว้ในส่วน ล่าสุด หรือเพิ่มไปยังรายการยกเว้นพื้นหลังด้านล่าง จะอนุญาตให้มีแอปมากถึง 4 แอปทำงานในพื้นหลังระหว่างเปิดเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</li>"
 "<li>ตามค่าเริ่มต้นแล้ว เครื่องมือประหยัดแบตเตอรี่ขั้นสูงจะปิดใช้งาน NFC คุณสามารถเปลี่ยนค่านี้ได้ในส่วนการตั้งค่า</li>"
 "<li>เพื่อตรวจสอบให้แน่ใจว่าคุณจะสามารถใช้คุณลักษณะทั้งหมดของอุปกรณ์ของคุณได้ตามปกติ เครื่องมือประหยัดแบตเตอรี่ขั้นสูงจะปิดใช้งานโดยอัตโนมัติเมื่อแบตเตอรี่ของคุณชาร์จถึง 30%</li></string>
-    <string name="extreme_power_config_mode_summary">โหมดประหยัดแบตเตอรี่ขั้นสูงจะจำกัดการทำงานของกิจกรรมเบื้อหลังและหยุดการซิงค์</string>
-    <string name="extreme_power_config_mode_title">เครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="extreme_power_config_mode_summary">ตัวประหยัดแบตเตอรี่ขั้นสูงจะจำกัดการทำงานของกิจกรรมเบื้อหลังและหยุดการซิงค์</string>
+    <string name="extreme_power_config_mode_title">ตัวประหยัดแบตเตอรี่ขั้นสูง</string>
     <string name="extreme_power_settings_title">การตั้งค่า</string>
     <string name="failure">ผิดพลาด</string>
     <string name="hide_mode_desc">เมื่อแอปดำเนินการในพื้นหลัง กิจกรรมของแอปจะได้รับการตรวจดูเพื่อลดการใช้แบตเตอรี่ ฟังก์ชันนี้จะรับข้อมูลผู้ใช้และใช้ตาม %s</string>
@@ -61,9 +61,11 @@
     <string name="nonui_mode_config_description">ห้ามเปิดหน้าจอสำหรับการแจ้งเตือน, ปิดไฟ LED, เซ็นเซอร์ลายนิ้วมือและระบบควบคุมแบบสัมผัสเพื่อประหยัดแบตเตอรี่เมื่อ MIUI ตรวจพบว่าคุณไม่ได้ใช้อุปกรณ์</string>
     <string name="nonui_mode_config_title">โหมดไม่เป็นแบบโต้ตอบ</string>
     <string name="notification_exit_extreme_mode_text">แบตเตอรี่ชาร์จมากกว่า %s</string>
-    <string name="notification_exit_extreme_mode_title">ปิดใช้งานเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
-    <string name="notification_open_extreme_mode_text">เปิดใช้งานเครื่องมือประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="notification_exit_extreme_mode_title">ปิดใช้งานตัวประหยัดแบตเตอรี่ขั้นสูง</string>
+    <string name="notification_open_extreme_mode_text">เปิดใช้งานตัวประหยัดแบตเตอรี่ขั้นสูง</string>
     <string name="performance_category">โหมดประสิทธิภาพสูง</string>
+    <string name="permstep_description">Allow this app to access your step count</string>
+    <string name="permstep_label">Access step count</string>
     <string name="power_center">การเพิ่มประสิทธิภาพแบตเตอรี่</string>
     <string name="power_checker_background_cpu_multi_apps_title">%1$s ทำงานผิดปกติ</string>
     <string name="power_checker_background_cpu_title">%1$s ทำงานผิดปกติ</string>
@@ -84,7 +86,7 @@
     <string name="power_config_select_apps_title">แอป</string>
     <string name="power_consume_abnormal_night">แบตเตอรี่หมดในเวลากลางคืน</string>
     <string name="power_hide_mode_app_list_summary">ช่วยประหยัดแบตตัวเครื่องขณะทำงานในพื้นหลัง</string>
-    <string name="power_hide_mode_title">แบตเตอรี่ &amp; ประสิทธิภาพ</string>
+    <string name="power_hide_mode_title">แบตเตอรี่และประสิทธิภาพ</string>
     <string name="power_mode">การตั้งค่าพลังงาน</string>
     <string name="power_usage">การใช้พลังงาน</string>
     <string name="pref_config_title">การเพิ่มประสิทธิภาพ</string>
