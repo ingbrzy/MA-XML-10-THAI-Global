@@ -213,5 +213,4 @@
     <string name="passport_wrong_phone_number_format">รูปแบบของหมายเลขโทรศัพท์ที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_wrong_vcode">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_yes">ใช่</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
