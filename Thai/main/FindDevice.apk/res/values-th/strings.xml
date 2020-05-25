@@ -83,6 +83,7 @@
 เหตุผลอื่นๆ
 ลงชื่อเข้าสู่ระบบที่ i.mi.com และลองปลดล็อกเครื่องจากหน้าเพจดังกล่าว"</string>
     <string name="unlock_help_title">คำแนะนำปลดล็อก:</string>
+    <string name="unlock_number">รหัสปลดล็อก: %s</string>
     <string name="unlock_wrong_captcha">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="unlocking">กำลังเปิดใช้งาน…</string>
     <string name="verifing_account">กำลังยืนยันรหัสผ่าน…</string>

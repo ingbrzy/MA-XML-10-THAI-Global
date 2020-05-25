@@ -83,6 +83,9 @@
         <item quantity="other">เหลืออีก %d วัน</item>
         <item quantity="one">เหลืออีก %d วัน</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d อุปกรณ์ที่พบ</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d อุปกรณ์</item>
     </plurals>
@@ -286,6 +289,9 @@
     <plurals name="runtime_permissions_summary">
         <item quantity="other">อนุญาต %1$d จาก %2$d รายการแล้ว</item>
         <item quantity="one">อนุญาต %1$d จาก %2$d รายการแล้ว</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s วินาที</item>

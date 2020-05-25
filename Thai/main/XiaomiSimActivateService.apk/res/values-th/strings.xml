@@ -18,8 +18,8 @@
     <string name="activate_feature_verify_mx_token">การยืนยันบัญชี Mi</string>
     <string name="activate_feature_voip">ข้อความ VoIP Mi</string>
     <string name="activate_history_canceled_overview">ยกเลิกการเปิดใช้งานซิมการ์ดแล้ว การเปิดใช้งานถูกเรียกใช้งานโดย \"%1$s\".</string>
-    <string name="activate_history_multisim_canceled_overview">ยกเลิกเปิดใช้งานซิมการ์ด %2$d แล้ว การเปิดใช้งานถูกเรียกใช้งานโดย %1$s\".</string>
-    <string name="activate_history_multisim_success_overview">เปิดใช้งานซิมการ์ด %2$d เรียบร้อบ การเปิดใช้งานถูกเรียกใช้งานโดย %1$s\".</string>
+    <string name="activate_history_multisim_canceled_overview">ยกเลิกเปิดใช้งานซิมการ์ด %2$d แล้ว การเปิดใช้งานถูกเรียกใช้งานโดย \"%1$s\".</string>
+    <string name="activate_history_multisim_success_overview">เปิดใช้งานซิมการ์ด %2$d เรียบร้อบ การเปิดใช้งานถูกเรียกใช้งานโดย \"%1$s\".</string>
     <string name="activate_history_sms">ข้อความ SMS ถูกส่งไประหว่างการเปิดใช้งาน</string>
     <string name="activate_history_success_overview">เปิดใช้งานซิมการ์ดเรียบร้อยแล้ว การเปิดใช้งานถูกเรียกใช้งานโดย\"%1$s\".</string>
     <string name="activate_history_title">การเปิดใช้งานซิมการ์ด</string>

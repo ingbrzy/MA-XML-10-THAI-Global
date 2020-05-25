@@ -51,8 +51,10 @@
     <string name="cannot_get_location">--</string>
     <string name="compass_settings">การตั้งค่า</string>
     <string name="copy">คัดลอก</string>
+    <string name="cta_agree_desc">อนุญาตให้แอปนี้เชื่อมต่อกับอินเทอร์เน็ตและให้สิทธิ์ตัวเลือกเพื่อให้สามารถใช้คุณลักษณะทั้งหมดได้</string>
     <string name="cta_v2_app_purpose">แสดง ทิศทาง พิกัด ความดันบรรยากาศ และระดับความสูงปัจจุบัน</string>
     <string name="dialog_body_no_network">เชื่อมต่อกับ Wi-fi หรือเปิดข้อมูลมือถือ</string>
+    <string name="dialog_body_no_network_china">เชื่อมต่อกับ WLAN หรือเปิดข้อมูลมือถือ</string>
     <string name="dialog_calibrat_altitude">กำลังปรับเทียบ…</string>
     <string name="dialog_title_no_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="direction_east">ตะวันออก</string>
@@ -86,8 +88,8 @@
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="open_perm_msg">เข็มทิศต้องการเข้าถึงข้อมูลตำแหน่งและกล้องถ่ายรูป นี่เป็นสิ่งจำเป็นในการกำหนดพิกัดและแสดงตัวอย่างสด อนุญาตหรือไม่?</string>
     <string name="open_perm_title">สิทธิ์ที่จำเป็น</string>
-    <string name="permission_camera_desc">ใช้ตัววัดระดับน้ำ</string>
-    <string name="permission_location_desc">แสดงพิกัดและความดันบรรยากาศ</string>
+    <string name="permission_camera_desc">สำหรับการแสดงมุมแอซิมัทในการแสดงตัวอย่างสด</string>
+    <string name="permission_location_desc">สำหรับการแสดงพิกัด</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="preference_other">อื่นๆ</string>
     <string name="preference_privacy_title">นโยบายความเป็นส่วนตัว</string>

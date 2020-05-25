@@ -12,6 +12,18 @@
     <plurals name="data_item_count">
         <item quantity="other">%d รายการ</item>
     </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d รายการ</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s สำรองข้อมูล (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">สำรองข้อมูลสำเร็จแล้ว ไม่สามารถสำรองข้อมูลได้ %d รายการ</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">กู้คืนสำเร็จแล้ว ไม่สามารถกู้คืนได้ %d รายการ</item>
+    </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"นำเข้าแล้ว %d รายการ "</item>
     </plurals>

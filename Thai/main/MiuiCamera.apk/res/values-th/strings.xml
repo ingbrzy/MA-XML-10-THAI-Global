@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">กลับ</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_query">คำค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="access_sd_fail">ไม่สามารถอ่าน SD การ์ดได้</string>
     <string name="accessibility_ai_scene_off">กล้อง AI ปิดอยู่</string>
     <string name="accessibility_ai_scene_on">กล้อง AI เปิดอยู่</string>
@@ -50,8 +77,8 @@
     <string name="accessibility_intent_done_retry">ลองใหม่</string>
     <string name="accessibility_lighting_panel_off">แถบแสงของสตูดิโอถูกซ่อน</string>
     <string name="accessibility_lighting_panel_on">แสดงแถบแสงสตูดิโอ</string>
-    <string name="accessibility_mimovie_off">โหมดภาพยนตร์ถูกปิด</string>
-    <string name="accessibility_mimovie_on">โหมดภาพยนตร์ถูกเปิด</string>
+    <string name="accessibility_mimovie_off">ไม่ใช้กรอบภาพยนตร์</string>
+    <string name="accessibility_mimovie_on">ใช้กรอบภาพยนตร์</string>
     <string name="accessibility_more">เพิ่มเติม</string>
     <string name="accessibility_open">เปิดใช้งาน</string>
     <string name="accessibility_portrait_button">โหมดถ่ายภาพคน</string>
@@ -85,6 +112,7 @@
     <string name="auxiliary_exposure_feedback_status">การตรวจสอบการเปิดรับแสงเปิดอยู่</string>
     <string name="auxiliary_focus_peak_status">การโฟกัสจุดสูงสุดเปิดอยู่</string>
     <string name="back_bokeh_use_hint">รักษาระยะบุคคลภายใน1.5 เมตร เพื่อเอฟเฟกต์ที่ดีที่สุุด</string>
+    <string name="background">พื้นหลัง</string>
     <string name="beauty_body">รูปร่าง</string>
     <string name="beauty_body_body">หน้าเรียว</string>
     <string name="beauty_body_head">หัว</string>
@@ -128,6 +156,17 @@
     <string name="capture_back_pressed_hint">แตะอีกครั้งเพื่อออก</string>
     <string name="ccc_temperature_warning_msg">อุปกรณ์ของคุณร้อนเกินไป กล้องจะปิดลงใน %d วินาที รูปภาพหรือวิดีโอของคุณจะถูกบันทึกโดยอัตโนมัติ</string>
     <string name="ccc_temperature_warning_title">อุปกรณ์ร้อนเกินไป</string>
+    <string name="clone_don_not_move_phone">请不要移动手机</string>
+    <string name="clone_landscape_hint">分身模式仅支持横屏拍摄</string>
+    <string name="clone_no_person_found_in_viewfinder">取景区域未识别到人</string>
+    <string name="clone_offset_is_too_large">手机偏移过大，请重新拍摄</string>
+    <string name="clone_photo_mode">拍照模式</string>
+    <string name="clone_photo_mode_start_hint">请点击快门键开始拍照</string>
+    <string name="clone_preview_no_person">未识别到人,可能拍摄失败</string>
+    <string name="clone_put_phone_back_in_place">请把手机恢复原位</string>
+    <string name="clone_start_capture">开始拍摄</string>
+    <string name="clone_video_mode">视频模式</string>
+    <string name="clone_video_mode_start_hint">请点击快门键开始录制</string>
     <string name="close_back_flash_toast">อุปกรณ์ของคุณร้อนเกินไป ไม่สามารถใช้แฟลชได้ขณะนี้</string>
     <string name="close_front_flash_toast">อุปกรณ์ของคุณร้อนเกินไป ไม่สามารถใช้แฟลชได้ขณะนี้</string>
     <string name="color_effect_entry_berry">เบอร์รี่</string>
@@ -157,7 +196,7 @@
     <string name="config_name_group">เซลฟี่กลุ่ม</string>
     <string name="config_name_hht">HHT</string>
     <string name="config_name_magic">เมจิค</string>
-    <string name="config_name_mimovie">โหมดภาพยนตร์</string>
+    <string name="config_name_mimovie">กรอบภาพยนตร์</string>
     <string name="config_name_scene">รูปแบบ</string>
     <string name="config_name_setting">การตั้งค่า</string>
     <string name="config_name_sound">เสียง</string>
@@ -214,6 +253,7 @@
     <string name="edit_skin_white">โทน</string>
     <string name="edit_slim_nose">จมูก</string>
     <string name="edit_smile">ยิ้ม</string>
+    <string name="emoticon">แพ็กสติ๊กเกอร์</string>
     <string name="error_fail_to_start_audio_capture">ไม่สามารถเริ่มการถ่ายภาพด้วยเสียงได้</string>
     <string name="eye_light">ประกายตา</string>
     <string name="eye_light_angel">นางฟ้า</string>
@@ -348,6 +388,9 @@
     <string name="mimoji_check_no_face">ไม่สามารถตรวจจับใบหน้าได้</string>
     <string name="mimoji_check_normal">แตะปุ่มชัตเตอร์</string>
     <string name="mimoji_confirm">ตกลง</string>
+    <string name="mimoji_create_emoticon">Create sticker pack</string>
+    <string name="mimoji_create_emoticon_error">"Couldn't create sticker pack"</string>
+    <string name="mimoji_create_emoticon_progress">Creating sticker pack…</string>
     <string name="mimoji_create_tips">มองตรงไปที่กล้องเพื่อสร้าง Mimoji ของคุณ</string>
     <string name="mimoji_delete"><font fgcolor="#ffff0000">ลบ</font></string>
     <string name="mimoji_delete_dialog_title">ลบ Mimoji?</string>
@@ -371,6 +414,8 @@
     <string name="mimoji_edit_cancel_alert">การเปลี่ยนแปลงทั้งหมดจะถูกยกเลิก ยกเลิกหรือไม่?</string>
     <string name="mimoji_edit_mimoji">แก้ไข Mimoji</string>
     <string name="mimoji_editor">แก้ไข</string>
+    <string name="mimoji_emoticon_save">Save sticker pack</string>
+    <string name="mimoji_emoticon_with_jpeg_save">Save images as well</string>
     <string name="mimoji_eye">ตา</string>
     <string name="mimoji_eye_shape">รูปร่างหู</string>
     <string name="mimoji_eyebrow">คิ้ว</string>
@@ -380,6 +425,12 @@
     <string name="mimoji_featured_face">ใบหน้า</string>
     <string name="mimoji_fragment_tab_name">Mimoji</string>
     <string name="mimoji_freckle">กระ</string>
+    <string name="mimoji_gif_accelerate">ความเร็ว</string>
+    <string name="mimoji_gif_clear_bg">ลบพื้นหลัง</string>
+    <string name="mimoji_gif_edit_hint">แตะเพื่อเพิ่มข้อความ</string>
+    <string name="mimoji_gif_edit_title">แก้ไข GIF</string>
+    <string name="mimoji_gif_record_time_short">วิดีโอที่บันทึกสั้นเกินไป</string>
+    <string name="mimoji_gif_reverse">ย้อนกลับ</string>
     <string name="mimoji_hairstyle">ผม</string>
     <string name="mimoji_headwear">หมวก</string>
     <string name="mimoji_mole">ไฝ</string>
@@ -393,7 +444,9 @@
     <string name="mimoji_recapture_alert">การเปลี่ยนแปลงทั้งหมดจะถูกยกเลิกเมื่อคุณเริ่มต้นใหม่ เริ่มใหม่หรือไม่?</string>
     <string name="mimoji_reset">รีเซ็ต</string>
     <string name="mimoji_save">บันทึก</string>
+    <string name="mimoji_save_finish">เสร็จสิ้น</string>
     <string name="mimoji_save_success">บันทึกเรียบร้อยแล้ว</string>
+    <string name="mimoji_select_number_error">Select at least 1 item</string>
     <string name="mimoji_selected">เลือก</string>
     <string name="mimoji_start_create">กำลังสร้าง Mimoji…</string>
     <string name="mimoji_tips">แตะเพื่อถ่ายภาพ กดค้างไว้เพื่อบันทึกวิดีโอ</string>
@@ -409,7 +462,7 @@
     <string name="module_name_square">สี่เหลี่ยม</string>
     <string name="module_name_video">วิดีโอ</string>
     <string name="moive_frame">กรอบภาพยนตร์</string>
-    <string name="multi_window_mode_not_supported">กล้องไม่สามารถทำงานในหน้าจอแยกได้</string>
+    <string name="multi_window_mode_not_supported">กล้องไม่สามารถใช้ได้ในโหมดหลายหน้าต่าง</string>
     <string name="network_access_user_notice_agree">ยอมรับ</string>
     <string name="network_access_user_notice_message_live_video">&lt;Data>กล้องจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้เอฟเฟ็กต์เพลงและคุณสมบัติอื่นๆ สำหรับวิดีโอสั้นๆ&lt;br/>&lt;br/>โดยการแตะ \"ยอมรับ\" ด้านล่าง คุณเห็นด้วยกับ &lt;a href =%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href =%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของเรา และอนุญาตให้กล้องเชื่อมต่ออินเทอร์เน็ต&lt;/Data></string>
     <string name="network_access_user_notice_message_mi_live_video">&lt;Data>ยินดีต้อนรับสู่วิดีโอสั้น! บริการของเราต้องเชื่อมต่อกับเครือข่ายเพื่อมอบเพลงและคุณสมบัติอื่นๆ ให้กับคุณ&lt;br/>&lt;br/>ก่อนที่จะใช้บริการของเราคุณต้องอ่านและยอมรับ &lt;a href =%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href =%2$s>ความเป็นส่วนตัว&lt;/a>ของเรา รวมถึงอนุญาตให้แอปเชื่อมต่ออินเทอร์เน็ต&lt;/Data></string>
@@ -419,6 +472,7 @@
     <string name="no_storage">ใส่ SD การ์ดก่อนใช้งานกล้อง</string>
     <string name="not_enough_space">SD การ์ดเต็ม</string>
     <string name="object_track_enable_toast">ในการเลือกวัตถุ แตะพร้อมกันที่สองจุดตามแนวทแยงมุมรอบกรอบ</string>
+    <string name="only_mimoji_multi_window_mode_not_supported">ไม่สามารถใช้คุณสมบัตินี้ได้ในโหมดหลายหน้าต่าง</string>
     <string name="pano_how_to_use_prompt_align_reference_line">วางลูกศรให้ตรงกับเส้นอ้างอิง</string>
     <string name="pano_how_to_use_prompt_go_on_moving">ดำเนินการต่อ…</string>
     <string name="pano_how_to_use_prompt_slow_down">ช้าลง…</string>
@@ -508,6 +562,7 @@
     <string name="portrait_mode_use_hint_for_bokeh">"ลองโหมดภาพบุคคล
 ทำให้หน้าชัดหลังเบลอ"</string>
     <string name="pref_960_watermark_title">ลายน้ำ 960FPS</string>
+    <string name="pref_advance_settings">การตั้งค่าเพิ่มเติม</string>
     <string name="pref_ai_detect">การตรวจจับ AI</string>
     <string name="pref_audio_focus_entry_front">ด้านหน้า</string>
     <string name="pref_audio_focus_entry_general">ปกติ</string>
@@ -535,6 +590,7 @@
     <string name="pref_camera_auxiliary_close">ปิด</string>
     <string name="pref_camera_auxiliary_exposure_feedback">การตรวจสอบการเปิดรับแสง</string>
     <string name="pref_camera_auxiliary_focus_peak">จุดสูงสุดโฟกัส</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
@@ -543,7 +599,7 @@
     <string name="pref_camera_coloreffect_entry_big_face">ขยายออก</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">ขาวดำ</string>
     <string name="pref_camera_coloreffect_entry_fisheye">ฟิชอาย</string>
-    <string name="pref_camera_coloreffect_entry_instagram_clarendon">เน้นสี</string>
+    <string name="pref_camera_coloreffect_entry_instagram_clarendon">โฟกัสสี</string>
     <string name="pref_camera_coloreffect_entry_instagram_crema">รัสติค</string>
     <string name="pref_camera_coloreffect_entry_instagram_hudson">โทนเย็น</string>
     <string name="pref_camera_coloreffect_entry_instagram_rise">โลโม่</string>
@@ -568,7 +624,7 @@
     <string name="pref_camera_delay_capture_title">ตัวจับเวลา</string>
     <string name="pref_camera_device_watermark_title">ลายน้ำอุปกรณ์</string>
     <string name="pref_camera_face_info_watermark_title">แสดงอายุบนรูปภาพ</string>
-    <string name="pref_camera_first_tag_tips">ทำเครื่องหมายเรียบร้อยแล้ว</string>
+    <string name="pref_camera_first_tag_tips">แท็กเรียบร้อย</string>
     <string name="pref_camera_flashmode_entry_auto">อัตโนมัติ</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">แสงอ่อน</string>
     <string name="pref_camera_flashmode_entry_off">ปิด</string>
@@ -635,6 +691,7 @@
     <string name="pref_camera_peak_entry_off">ปิด</string>
     <string name="pref_camera_peak_entry_on">เปิด</string>
     <string name="pref_camera_peak_title">จุดสูงสุดโฟกัส</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">เต็มจอ</string>
     <string name="pref_camera_picturesize_entry_standard">มาตรฐาน 4:3</string>
     <string name="pref_camera_picturesize_title_simple_mode">อัตราส่วนภาพ</string>
     <string name="pref_camera_portrait_mode_entry_off">โหมดถ่ายภาพคนปิดอยู่</string>
@@ -699,8 +756,8 @@
     <string name="pref_camera_video_duration_entry_120">ไม่จำกัด</string>
     <string name="pref_camera_video_duration_entry_30">30 นาที</string>
     <string name="pref_camera_video_duration_entry_mms">30 วินาที (MMS)</string>
-    <string name="pref_camera_video_tag">อนุญาตให้ทำเครื่องหมายวิดีโอ</string>
-    <string name="pref_camera_video_tag_description">แตะ \"ทำเครื่องหมาย\" ในขณะที่ถ่ายวิดีโอเพื่อให้สามารถย้อนกลับไปยังช่วงเวลาที่ทำเครื่องหมายไว้ระหว่างการเล่น</string>
+    <string name="pref_camera_video_tag">อนุญาตให้แท็กวิดีโอ</string>
+    <string name="pref_camera_video_tag_description">แตะ \"แท็ก\" ในขณะที่ถ่ายวิดีโอเพื่อให้สามารถย้อนกลับไปยังช่วงเวลาที่ทำเครื่องหมายไว้ระหว่างการเล่น</string>
     <string name="pref_camera_volumekey_function_entry_shutter">ชัตเตอร์</string>
     <string name="pref_camera_volumekey_function_entry_timer">นับถอยหลังชัตเตอร์</string>
     <string name="pref_camera_volumekey_function_entry_volume">ระดับเสียง</string>
@@ -783,6 +840,7 @@
     <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
     <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
     <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
+    <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
     <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
     <string name="pref_video_quality_title">คุณภาพของวิดีโอ</string>
     <string name="pref_video_speed_entry_fast">เร็ว</string>
@@ -809,6 +867,7 @@
     <string name="pref_watermark_on">เปิด</string>
     <string name="pref_watermark_title">ลายน้ำ</string>
     <string name="preparing_sd">กำลังตรวจสอบ SD การ์ด…</string>
+    <string name="preview_back_pressed_hint">Tap again to go back to preview</string>
     <string name="pro_color_mode">สีแบบโปร</string>
     <string name="recommend_macro_mode">ลองใช้โหมดมาโคร</string>
     <string name="recommend_portrait">ลองใช้โหมดพอร์ทเทรต</string>
@@ -819,8 +878,10 @@
     <string name="reset_manually_parameter_hint">รีเซ็ต</string>
     <string name="screen_on_proximity_sensor_hint">หากต้องการปิดการใช้งานนี้ กดปุ่มเพิ่มเสียงและปุ่มย้อนกลับพร้อมกัน</string>
     <string name="screen_on_proximity_sensor_summary">กรุณาอย่าบังบริเวณใกล้หูฟัง</string>
+    <string name="search_menu_title">ค้นหา</string>
     <string name="search_settings">การตั้งค่ากล้อง;คุณภาพ;คุณภาพรูปถ่าย;ตำแหน่งรูป;ตำแหน่งรูปภาพ;การตรวจจับใบหน้า;เสียงกล้อง</string>
     <string name="see_qrcode_detals">เรียกดูรายละเอียดรหัส QR</string>
+    <string name="share">แชร์</string>
     <string name="simple_mode_button_asd_flash">ปิดใช้งานแฟลช</string>
     <string name="simple_mode_button_asd_hdr">ปิดใช้งาน HDR</string>
     <string name="simple_mode_button_text_audio_capture">ปิดใช้งานโหมดสั่งถ่ายภาพด้วยเสียง</string>
@@ -849,14 +910,22 @@
     <string name="sticker_tab1">น่ารัก</string>
     <string name="sticker_tab2">ตลก</string>
     <string name="subtitle_network_exception_tips">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ไม่สามารถถอดเสียงได้ในขณะนี้</string>
-    <string name="super_eis">ป้องกันภาพสั่นไหวสูงสุด</string>
-    <string name="super_eis_disabled_hint">ป้องกันภาพสั่นไหวสูงสุดปิดอยู่</string>
+    <string name="super_eis">วิดีโอนิ่ง</string>
+    <string name="super_eis_disabled_hint">วิดีโอนิ่งถูกปิด</string>
     <string name="super_night_hint">ปรับภาพให้เหมาะสม… รักษาอุปกรณ์ของคุณให้มั่นคง</string>
+    <string name="super_night_se_tip">โหมดกลางคืน</string>
     <string name="super_night_toast">รักษาโทรศัพท์ของคุณให้มั่นคงในขณะที่ถ่ายรูป</string>
     <string name="tap_to_exposure">แตะเพื่อปรับการเปิดรับแสงด้วยตนเอง</string>
     <string name="tap_to_focus">แตะเพื่อโฟกัสภาพ</string>
     <string name="text_ai_scene_selector_text_off">ไฟพื้นหลัง</string>
     <string name="text_ai_scene_selector_text_on">ภาพเงา</string>
+    <string name="timbre">เสียงพูด</string>
+    <string name="timbre_baby">เด็ก</string>
+    <string name="timbre_gentlemen">สุภาพบุรุษ</string>
+    <string name="timbre_girl">เด็กหญิง</string>
+    <string name="timbre_lady">สุภาพสตรี</string>
+    <string name="timbre_normal">ต้นฉบับ</string>
+    <string name="timbre_robot">หุ่นยนต์</string>
     <string name="time_lapse_error">ขนาดวิดีโอที่คุณเลือกใช้ในการถ่ายวิดีโอเคลื่อนไหวเร็วไม่ได้</string>
     <string name="title_snap_double_confirm">ยืนยันอีกครั้ง</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">ไม่สามารถถ่ายภาพต่อเนื่องขณะที่เปิดการถ่ายภาพด้วยเสียงอยู่</string>
@@ -887,6 +956,7 @@
     <string name="ultra_wide_open_tip_sat">มุมกว้างพิเศษ 0.6X</string>
     <string name="ultra_wide_recommend_tip_hint">ลองโหมดมุมกว้างพิเศษ</string>
     <string name="ultra_wide_recommend_tip_hint_sat">เปลี่ยนเป็นมุมกว้างพิเศษ 0.6X</string>
+    <string name="unknow_error">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="user_agree">ยอมรับ</string>
     <string name="user_define_watermark_cancel">ยกเลิก </string>
     <string name="user_define_watermark_save">บันทึก</string>
@@ -900,7 +970,7 @@
     <string name="video_effect_entry_blackwhite">ขาวดำ</string>
     <string name="video_effect_entry_bygone">ผ่านไปแล้ว</string>
     <string name="video_effect_entry_central">ศูนย์กลาง</string>
-    <string name="video_effect_entry_color_retention">สดใส</string>
+    <string name="video_effect_entry_color_retention">โฟกัสสี</string>
     <string name="video_effect_entry_fantasy">จินตนาการ</string>
     <string name="video_effect_entry_film">ฟิล์ม</string>
     <string name="video_effect_entry_forest">โกรฟ</string>
@@ -913,7 +983,7 @@
     <string name="video_effect_entry_summer_day">ฤดูร้อน</string>
     <string name="video_effect_entry_wind_sing">ลมโชย</string>
     <string name="video_reach_size_limit">ไฟล์วิดีโอมีขนาดถึงที่กำหนดไว้แล้ว</string>
-    <string name="video_tag_flag_title">ทำเครื่องหมาย</string>
+    <string name="video_tag_flag_title">แท็ก</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">ดูนโยบายความเป็นส่วนตัว</string>

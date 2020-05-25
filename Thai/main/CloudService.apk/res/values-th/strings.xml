@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">กลับ</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_query">คำค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="access_denied">เข้าสู่ระบบไม่ได้</string>
     <string name="account_related">อุปกรณ์ของคุณผูกอยู่กับบัญชีอื่นอยู่ก่อนแล้ว (%s) เชื่อมต่อเครือข่ายเพื่อยืนยันอุปกรณ์</string>
     <string name="activate_find_device_success">พบอุปกรณ์ที่เปิดใช้งานแล้ว</string>
@@ -8,7 +35,7 @@
     <string name="add_short_cut">เพิ่ม</string>
     <string name="added_successfully">เพิ่มเรียบร้อย</string>
     <string name="antispam_sync">การตั้งค่าห้ามรบกวน</string>
-    <string name="app_name">คลาวด์</string>
+    <string name="app_name">Xiaomi คลาวด์</string>
     <string name="bad_authentication">ชื่อบัญชีหรือรหัสผ่านไม่ถูกต้อง</string>
     <string name="btn_return">ย้อนกลับ</string>
     <string name="button_cancel">ยกเลิก</string>
@@ -24,6 +51,7 @@
     <string name="cloud_storage_default_title">ที่จัดเก็บข้อมูลคลาวด์</string>
     <string name="cloud_storage_info_type_drive">Mi ไดรฟ์</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
+    <string name="cloud_storage_info_type_family">ครอบครัว</string>
     <string name="cloud_storage_info_type_others">อื่นๆ</string>
     <string name="cloud_storage_info_type_pdc">การตั้งค่าระบบ</string>
     <string name="cloud_storage_loading_data">รอสักครู่…</string>
@@ -34,20 +62,22 @@
     <string name="confirm_save">เก็บไว้</string>
     <string name="connect_network">เชื่อมต่อกับ Wi-Fi หรือใส่ซิมการ์ด</string>
     <string name="connect_wlan">เชื่อมต่อกับ Wi-Fi</string>
+    <string name="copy">คัดลอก</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">บัญชีนี้ถูกใช้กับอุปกรณ์อื่นด้วย รวมรายการจากหลายแอป (รวมไปถึง %1$s และ %2$s) กับรายการในอุปกรณ์นี้?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">บัญชีนี้ถูกใช้กับอุปกรณ์อื่นด้วย รวมรายการจาก %s กับรายการในอุปกรณ์นี้?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">บัญชีนี้ถูกใช้กับอุปกรณ์อื่นด้วย รวมรายการจาก %1$s และ %2$s กับรายการในอุปกรณ์นี้?</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two">รายการจากหลายแอป (รวมไปถึง%1$s และ %2$s) บนอุปกรณ์นี้ จะถูกรวมเข้ากับรายการในคลาวด์ ควบรวมรายการเดี๋ยวนี้?</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two_pad">รายการจากหลายแอป (รวมไปถึง%1$s และ %2$s) บนอุปกรณ์นี้ จะถูกรวมเข้ากับรายการในคลาวด์ ควบรวมรายการเดี๋ยวนี้?</string>
-    <string name="data_merge_dialog_alert_msg_one">รายการจาก %s บนอุปกรณ์นี้ จะถูกรวมเข้ากับรายการในคลาวด์ ควบรวมรายการเดี๋ยวนี้?</string>
-    <string name="data_merge_dialog_alert_msg_one_pad">รายการจาก %s บนอุปกรณ์นี้ จะถูกรวมเข้ากับรายการในคลาวด์ ควบรวมรายการเดี๋ยวนี้?</string>
-    <string name="data_merge_dialog_alert_msg_two">รายการจาก %1$s และ %2$s บนอุปกรณ์นี้ จะถูกรวมเข้ากับรายการในคลาวด์ ควบรวมรายการเดี๋ยวนี้?</string>
-    <string name="data_merge_dialog_alert_msg_two_pad">รายการจาก %1$s และ %2$s บนอุปกรณ์นี้ จะถูกรวมเข้ากับรายการในคลาวด์ ควบรวมรายการเดี๋ยวนี้?</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two">รายการจากหลายแหล่งรวมถึง %1$s และ %2$s จะถูกเก็บไว้ใน Xiaomi คลาวด์ ซิงค์และรวมเข้ากับรายการในอุปกรณ์นี้หรือไม่?</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two_pad">รายการจากหลายแหล่งรวมถึง %1$s และ %2$s จะถูกเก็บไว้ใน Xiaomi คลาวด์ ซิงค์และรวมเข้ากับรายการในอุปกรณ์นี้หรือไม่?</string>
+    <string name="data_merge_dialog_alert_msg_one">รายการจาก %s จะถูกเก็บไว้ใน Xiaomi คลาวด์ ซิงค์และรวมเข้ากับรายการในอุปกรณ์นี้หรือไม่?</string>
+    <string name="data_merge_dialog_alert_msg_one_pad">รายการจาก %s จะถูกเก็บไว้ใน Xiaomi คลาวด์ ซิงค์และรวมเข้ากับรายการในอุปกรณ์นี้หรือไม่?</string>
+    <string name="data_merge_dialog_alert_msg_two">รายการจาก %1$s และ %2$s จะถูกเก็บไว้ใน Xiaomi คลาวด์ ซิงค์และรวมเข้ากับรายการในอุปกรณ์นี้หรือไม่?</string>
+    <string name="data_merge_dialog_alert_msg_two_pad">รายการจาก %1$s และ %2$s จะถูกเก็บไว้ใน Xiaomi คลาวด์ ซิงค์และรวมเข้ากับรายการในอุปกรณ์นี้หรือไม่?</string>
     <string name="data_merge_dialog_loading">ตรวจสอบข้อมูล…</string>
+    <string name="data_merge_dialog_title">ควบรวมรายการ</string>
     <string name="data_protection_title">ป้องกันข้อมูล</string>
     <string name="detect_sim_card">ค้นหาซิมการ์ด</string>
     <string name="disable_find_device_error">\"ไม่สามารถปิดใช้การค้นหาอุปกรณ์ \"%1$s</string>
-    <string name="do_not_merge">ไม่ควบรวม</string>
+    <string name="do_not_merge">ยกเลิก </string>
     <string name="enable_find_device_error">\"ไม่สามารถเปิดใช้การค้นหาอุปกรณ์ \"%1$s</string>
     <string name="enable_find_device_success">ค้นหาอุปกรณ์เปิดอยู่</string>
     <string name="enable_micloud">ลงชื่อเข้าใช้เพื่อใช้ Xiaomi คลาวด์</string>
@@ -57,8 +87,12 @@
     <string name="error_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="error_server">พบข้อผิดพลาดจากเซิร์ฟเวอร์</string>
     <string name="error_unknown">ไม่สามารถเข้าใช้งาน</string>
+    <string name="expand_button_title">ขั้นสูง</string>
+    <string name="feedback_custom_hint">อธิบายปัญหาที่คุณพบที่นี่ หากคุณจะให้คำแนะนำเรา เรายินดีที่จะรับรายละเอียดเพิ่มเติม!</string>
     <string name="find_device">ค้นหาอุปกรณ์</string>
     <string name="find_device_dspt_provision">ในกรณีที่เครื่องโทรศัพท์ของคุณหาย คุณสามารถเข้าไปที่ &lt;font color=#0097FF>%s&lt;/font> เพื่อค้นหาพิกัดเครื่อง ทำการล็อกหรือรีเซ็ต โดยคุณสามารถเปิด-ปิดคุณลักษณะนี้ได้ตลอดเวลาในเมนูการตั้งค่า</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">ตรวจสอบการเชื่อมต่อข้อมูลและลองอีกครั้ง</string>
     <string name="find_device_error_server">ข้อผิดพลาดจากเซิร์ฟเวอร์</string>
     <string name="find_device_gdpr_prompt">โดยการเปิดใช้งานค้นหาอุปกรณ์นี้ คุณยอมรับใน <a href="app://com.miui.cloudservice.gdpr.license"><u> นโยบายความเป็นส่วนตัว</u></a>ของเรา หากคุณต้องการถอนการให้สิทธิ์ กรุณาปิดใช้งานคุณลักษณะนี้</string>
@@ -117,6 +151,9 @@
     <string name="menu_add_feedback">ข้อเสนอแนะ</string>
     <string name="menu_add_short_cut">สร้างปุ่มลัดหน้าจอหลัก</string>
     <string name="merge">ควบรวม</string>
+    <string name="mi_drive_not_publish_toast">Mi ไดรฟ์ จะพร้อมใช้งานเร็วๆนี้</string>
+    <string name="mi_drive_summary">เข้าถึงเอกสารจาก Xiaomi คลาวด์ บนอุปกรณ์หลายเครื่อง</string>
+    <string name="mi_drive_title">Mi ไดรฟ์</string>
     <string name="micloud_alert_dialog_positive">ตกลง</string>
     <string name="micloud_all_sub_1_intl_sms">ระบบจะส่งข้อความ SMS ระหว่างประเทศเพื่อเปิดใช้งานซิมการ์ด คุณจะเสียค่าบริการให้แก่ผู้ให้บริการเครือข่าย</string>
     <string name="micloud_all_sub_1_sms">ระบบจะส่งข้อความ SMS เพื่อเปิดใช้งานซิมการ์ด คุณจะเสียค่าบริการให้แก่ผู้ให้บริการเครือข่าย</string>
@@ -145,7 +182,7 @@
     <string name="micloud_confusion_cancel">ยกเลิก</string>
     <string name="micloud_confusion_check_account_title">กำลังลงชื่อเข้าใช้บัญชี Mi ของคุณเพื่อใช้งาน Xiaomi คลาวด์ใหม่</string>
     <string name="micloud_confusion_entrance_hint">อย่าลงชื่อเข้าใช้บัญชี Mi ของคุณบนอุปกรณ์สาธารณะ</string>
-    <string name="micloud_confusion_entrance_notify_text">แตะเพื่อดูข้อมูล</string>
+    <string name="micloud_confusion_entrance_notify_text">แตะเพื่อดูรายละเอียด</string>
     <string name="micloud_confusion_entrance_notify_title">มีอุปกรณ์อื่นที่กำลังแก้ไขบัญชีของคุณอยู่</string>
     <string name="micloud_confusion_entrance_question">คุณเพิ่งแก้ไขบัญชี Mi ของคุณผ่าน %s?</string>
     <string name="micloud_confusion_entrance_title">มีการแก้ไขข้อมูล</string>
@@ -197,15 +234,18 @@
     <string name="micloud_find_device_open_fail">ไม่สามารถปิดใช้การค้นหาอุปกรณ์ได้</string>
     <string name="micloud_find_device_opened">การค้นหาอุปกรณ์เปิดใช้งาน</string>
     <string name="micloud_find_device_opened_content">ค้นหาอุปกรณ์ของคุณใน %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">อาจมีข้อความ SMS ขาออกเพื่อเปิดใช้งานบริการนี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ เมื่อคุณเปลี่ยนซิมการ์ดข้อความจะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานคุณลักษณะนี้อีกครั้ง</string>
     <string name="micloud_find_device_verify_button">เปิดใช้งานค้นหาอุปกรณ์อีกครั้ง</string>
     <string name="micloud_find_device_verify_close">ปิดใช้การค้นหาอุปกรณ์</string>
     <string name="micloud_find_device_verify_fail">ไม่สามารถเปิดใช้งานค้นหาอุปกรณ์อีกครั้งได้</string>
     <string name="micloud_find_device_verify_progress">กำลังเปิดใช้งานค้นหาอุปกรณ์อีกครั้ง…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">การซิงค์ถูกยกเลิก ลองอีกครั้ง</string>
     <string name="micloud_main_head_menu_cloud_backup">ข้อมูลสำรองหน้าจอหลัก</string>
-    <string name="micloud_main_head_menu_cloud_backup_summary">เค้าโครงหน้าจอหลัก แอป และการตั้งค่าระบบ</string>
-    <string name="micloud_main_head_menu_finddevice_summary">หาตำแหน่งและล็อกอุปกรณ์ของคุณหากหายไป</string>
+    <string name="micloud_main_head_menu_cloud_backup_summary">การตั้งค่าระบบและรูปแบบหน้าจอหลัก</string>
+    <string name="micloud_main_head_menu_finddevice_summary">ค้นหาและล็อคอุปกรณ์ของคุณ</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">ค้นหาอุปกรณ์ไม่พร้อมใช้งานในพื้นที่ทับซ้อน คุณสามารถใช้งานได้ในพื้นที่ปกติ</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">คืนค่ารายการที่ลบ</string>
     <string name="micloud_main_head_menu_recycle_bin_title">ลบรายการ</string>
@@ -289,7 +329,7 @@
     <string name="micloud_request_permission_content">Xiaomi คลาวด์จำเป็นต้องขออนุญาตเพื่อซิงค์ข้อมูล อนุญาต Xiaomi คลาวด์เพื่อเข้าถึงปฏิทิน, รายชื่อ, บัญชี Mi, สถานะซิมการ์ด, ประวัติการโทร และข้อความ</string>
     <string name="micloud_request_permission_title">Xiaomi คลาวด์จำเป็นต้องขออนุญาต</string>
     <string name="micloud_request_sync_too_frequent">ร้องขอมากเกินไป กรุณารอสักครู่และลองใหม่อีกครั้ง</string>
-    <string name="micloud_setting_antispam_summary">เลขหมายที่ถูกบล็อกและที่ได้รับการยกเว้น</string>
+    <string name="micloud_setting_antispam_summary">เลขหมายที่ถูกบล็อกและรายการยกเว้น</string>
     <string name="micloud_setting_browser_summary">ที่คั่นหน้า, ประวัติการใช้และแท็บต่างๆ</string>
     <string name="micloud_setting_calendar_summary">กำหนดการ</string>
     <string name="micloud_setting_calllog_summary">ประวัติการโทร</string>
@@ -366,6 +406,7 @@
     <string name="mx_sub_dspt_provision_with_voip">การโทรทางอินเทอร์เน็ต</string>
     <string name="mx_voip_dspt">Mi Voice</string>
     <string name="no_sim">ไม่พบซิมการ์ด</string>
+    <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="pay_info_dialog_confirm_to_pay">จ่าย %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">ใช้เครดิต Mi ที่เหลือ: %s</string>
     <string name="pay_info_dialog_title">เลือกวิธีการชำระเงิน</string>
@@ -375,6 +416,7 @@
     <string name="pref_summary_sync_display_photo_on_wifi_only">ซิงค์รูปภาพของรายชื่อผู้ติดต่อผ่าน Wi-Fi เท่านั้น</string>
     <string name="pref_title_sync_contacts_title">ซิงค์รายชื่อ</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">ซิงค์รูปภาพผ่าน Wi-Fi เท่านั้น</string>
+    <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacy_and_agreement">ข้อตกลงและเงื่อนไข</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหา ล็อค หรือลบข้อมูลในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหา ล็อค หรือลบข้อมูลในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย</string>
@@ -396,6 +438,7 @@
     <string name="search_finddevice_pref_desc">เปิด-ปิดใช้งานค้นหาอุปกรณ์</string>
     <string name="search_finddevice_pref_key_words">ค้นหาอุปกรณ์</string>
     <string name="search_finddevice_pref_path">บัญชี Mi/Xiaomi คลาวด์/ค้นหาอุปกรณ์</string>
+    <string name="search_menu_title">ค้นหา</string>
     <string name="share_cancel">ยกเลิกการแชร์แล้ว</string>
     <string name="share_failed">ไม่สามารถแชร์ได้</string>
     <string name="share_miliao_not_installed">ยังไม่ได้ติดตั้ง Mi Talk</string>
@@ -406,16 +449,21 @@
     <string name="soundrecorder_sync_only_in_wifi">ซิงค์ผ่าน Wi-Fi เท่านั้น</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">ระบบจะไม่ใช้เครือข่ายข้อมูลมือถือในการรับส่งไฟล์บันทึกเสียง</string>
     <string name="soundrecorder_sync_records">ซิงค์ด้วย Xiaomi คลาวด์</string>
+    <string name="special_func_title">คุณลักษณะพิเศษ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_expansion">เพิ่มเติม</string>
     <string name="storage_manage_list_title">ข้อมูลคลาวด์</string>
     <string name="storage_manage_list_title_action">ดูเพิ่มเติม</string>
     <string name="storage_manage_renewal">ต่ออายุ</string>
     <string name="storage_manage_title">เปลี่ยนแผนที่จัดเก็บข้อมูลคลาวด์</string>
     <string name="storage_manage_upgrade">อัพเกรด</string>
+    <string name="storage_upgrade_card_summary">ขอรับพื้นที่จัดเก็บข้อมูลคลาวด์เพิ่ม</string>
+    <string name="storage_upgrade_card_title">อัปเกรดแผนของคุณ</string>
     <string name="sub_alert_notif_content">เปิดใช้งาน Xiaomi คลาวด์</string>
     <string name="sub_alert_notif_title">ซิงค์ด้วย Xiaomi คลาวด์</string>
     <string name="sub_sync_item_sms_summary">ซิงค์ข้อความที่มีรูปภาพ เสียงหรือสื่อมีเดียอื่นๆในเครื่อง เฉพาะเมื่อเชื่อมต่อกับ Wi-Fi แล้วเท่านั้น</string>
     <string name="sub_sync_item_sms_title_wifi_only">ซิงค์ข้อความ MMS ผ่าน Wi-Fi เท่านั้น</string>
+    <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sync_detail_summary_master_sync_off">ซิงค์ถูกปิด</string>
     <string name="sync_detail_summary_off">ซิงค์ถูกปิด</string>
     <string name="sync_detail_text">รายละเอียดการซิงค์</string>
@@ -428,6 +476,8 @@
     <string name="sync_dspt_entrance_provision_network">แอปนี้ต้องการเชื่อมต่อกับอินเทอร์เน็ตเพื่อทำงานได้ตามปกติ การซิงค์ข้อมูลอาจต้องใช้การเชื่อมต่อข้อมูลมือถือและเปิด Wi-Fi</string>
     <string name="sync_dspt_entrance_provision_skip">ข้ามขั้นตอนนี้</string>
     <string name="sync_dspt_provision">"ซิงค์รูปภาพ เบอร์โทรติดต่อ บันทึกย่อ และอื่นๆระหว่างอุปกรณ์ต่างๆของคุณได้ที่ "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"คุณสามารถเปิด-ปิดการการใช้งานนี้จากเมนูการตั้งค่าได้ตลอดเวลา
 "</string>
     <string name="sync_item_calllog_summary">ซิงค์บันทึกเสียงสนทนาในโทรศัพท์นี้</string>
@@ -457,6 +507,8 @@
 "</string>
     <string name="user_agreement_title">เงื่อนไขการให้บริการ Xiaomi คลาวด์</string>
     <string name="user_storage_info_available_text_prefix">ใช้งานได้ %s</string>
+    <string name="v7_preference_off">ปิด</string>
+    <string name="v7_preference_on">เปิด</string>
     <string name="waiting_for_sync">กำลังรอ…</string>
     <string name="warning_bar_action_add_short_cut">เพิ่ม</string>
     <string name="warning_bar_action_close">ปิด</string>
@@ -477,6 +529,6 @@
     <string name="wipe_data_dialog_title">รายการยังไม่ถูกซิงค์</string>
     <string name="wipe_data_query_progress_title">กำลังตรวจหา…</string>
     <string name="wipe_secret_photo_dialog_title">รูปภาพที่ซ่อนยังไม่ได้ซิงค์</string>
-    <string name="xiaomi_cloud_service">คลาวด์</string>
+    <string name="xiaomi_cloud_service">Xiaomi คลาวด์</string>
     <string name="xiaomi_cloud_service_subtitle">ทุกสิ่งสำคัญในที่เดียว</string>
 </resources>

@@ -6,16 +6,16 @@
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s สำรองข้อมูล (%2$s)</item>
     </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other">กำลังเรียกคืนค่า %d ไฟล์</item>
-    </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">สำคัญมาก: %d แอป</item>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d แอปในอุปกรณ์นี้</item>
     </plurals>
     <plurals name="restore_app_order_normal">
         <item quantity="other">สำคัญทั่วไป: %d แอป</item>
     </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">%d แอปในอุปกรณ์นี้</item>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">สำคัญมาก: %d แอป</item>
+    </plurals>
+    <plurals name="restoring_file_tile">
+        <item quantity="other">กำลังเรียกคืนค่า %d ไฟล์</item>
     </plurals>
 </resources>

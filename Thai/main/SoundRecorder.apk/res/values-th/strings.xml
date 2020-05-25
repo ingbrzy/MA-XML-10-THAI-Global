@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="agree_description">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตเพื่อให้สามารถใช้คุณสมบัติทั้งหมดได้</string>
     <string name="alert_message_clear_records">ลบไฟล์บันทึกที่เลือกไว้?</string>
     <string name="alert_message_delete_local_record">ลบบันทึกนี้?</string>
     <string name="alert_message_delete_record">การลบบันทึกเสียงออกจากอุปกรณ์ของคุณจะทำให้บันทึกเสียงใน Xiaomi คลาวด์ถูกลบออกเช่นกัน ต้องการลบหรือไม่?</string>
@@ -48,6 +49,7 @@
     <string name="cloud_status_full_dialog_msg">พื้นที่บนคลาวด์ของคุณเต็มแล้ว ไม่สามารถซิงค์บันทึกเสียง อัพเกรดบัญชีของคุณเพื่อรับพื้นที่จัดเก็บเพิ่มเติม</string>
     <string name="cloud_status_full_dialog_ok">อัพเกรด</string>
     <string name="cloud_status_full_dialog_title">พื้นที่ใน Xiaomi คลาวด์เต็ม</string>
+    <string name="copy">คัดลอก</string>
     <string name="data_connection_body">การดาวน์โหลดไฟล์นี้ผ่านเครือข่ายมือถือต้องใช้ปริมาณการถ่ายโอนข้อมูลสูง ซึ่งหากใช้ไปเกินแพ็คเกจที่กำหนดแล้ว อาจทำให้คุณต้องเสียค่าบริการที่เพิ่มขึ้นให้แก่ผู้ให้บริการเครือข่าย</string>
     <string name="data_connection_button_text">ตกลง</string>
     <string name="data_connection_title">คำเตือนการใช้งานข้อมูล</string>
@@ -88,6 +90,7 @@
     <string name="error_filename_too_long">ชื่อไฟล์ยาวเกินกำหนด</string>
     <string name="error_sdcard_access">ไม่สามารถอ่าน SD การ์ดได้</string>
     <string name="error_sdcard_unmounted">กรุณาใส่ SD การ์ดตอนนี้</string>
+    <string name="expand_button_title">ขั้นสูง</string>
     <string name="export_to_note">ส่งออก</string>
     <string name="head_set_tip_dialog_msg">ถอดหูฟังเพื่อให้สามารถบันทึกเสียงได้ด้วยที่ตั้งไว้ที่เฉพาะเจาะจง (e.g., เพลง, เสียง).</string>
     <string name="head_set_tip_dialog_ok">รับทราบ</string>
@@ -122,6 +125,7 @@
     <string name="network_unavailable_tip">เชื่อมต่อเครือข่ายและลองอีกครั้ง</string>
     <string name="new_record_name">บันทึกใหม่</string>
     <string name="no_file">ว่าง</string>
+    <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="notification_message_all_paused">กำลังรอการเชื่อมต่อกับ Wi-Fi</string>
     <string name="notification_playback">กำลังเล่น…</string>
     <string name="notification_recording">กำลังบันทึก…</string>
@@ -164,6 +168,7 @@
     <string name="pay_error_unknown">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="playback_delete_records">ลบบันทึก</string>
     <string name="playback_share_records">แชร์บันทึก</string>
+    <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="preference_enable_earpiece_summary">ใช้หูฟังภายในเครื่องสำหรับการเปิดฟังเสียง</string>
     <string name="preference_enable_earpiece_title">ใช้หูฟังภายในเครื่องเพื่อฟังเสียงที่บันทึก</string>
     <string name="preference_led_indicator">การแจ้งเตือนบนหน้าจอล็อก</string>
@@ -293,6 +298,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">กำลังบันทึก…</string>
     <string name="status_bar_recording_pause">พักการบันทึกเสียงไว้</string>
+    <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="text_btn_backward_3_seconds">ย้อนกลับ 3 วินาที</string>
     <string name="text_btn_complete">หยุด</string>
     <string name="text_btn_forward_3_seconds">ไปข้างหน้า 3 วินาที</string>
@@ -315,6 +321,8 @@
     <string name="toast_max_record_time">%1$s สามารถบันทึกเสียงได้ประมาณ %2$s</string>
     <string name="toast_uninstall_fileexplorer">ไม่ได้ติดตั้งตัวจัดการไฟล์</string>
     <string name="usage_description">กำลังทำสำเนารายการเสียงและซิงค์กับคลาวด์</string>
+    <string name="v7_preference_off">ปิด</string>
+    <string name="v7_preference_on">เปิด</string>
     <string name="webview_check_network">การตั้งค่าเครือข่าย</string>
     <string name="webview_data_error">เกิดข้อผิดพลาด</string>
     <string name="webview_locating_fail">ไม่พบตำแหน่งพิกัดของคุณ</string>

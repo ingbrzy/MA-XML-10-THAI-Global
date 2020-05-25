@@ -21,6 +21,9 @@
     <plurals name="notice_user_banned">
         <item quantity="other">เนื้อหาของคุณมีรายการ (%1$s) ที่ละเมิดมาตรฐานชุมชนของเรา บัญชีของคุณถูกระงับ %2$d วัน จนถึง %3$s.</item>
     </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">คุณลักษณะนี้จะถูกปิดเป็นเวลา %s วัน</item>
+    </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d วิดีโอ</item>
     </plurals>

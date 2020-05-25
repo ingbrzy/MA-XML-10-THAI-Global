@@ -21,6 +21,9 @@
     <plurals name="minute">
         <item quantity="other">%d นาที</item>
     </plurals>
+    <plurals name="minute_text">
+        <item quantity="other">" นาที"</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%d วินาที</item>
     </plurals>
@@ -54,6 +57,12 @@
     <plurals name="snooze_message">
         <item quantity="other">เลื่อนปลุกในอีก %d นาที</item>
     </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">นาฬิกาจับเวลาทำงานมาแล้ว %s วัน แตะเพื่อดู</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">นาฬิกาจับเวลาทำงานมาแล้ว %s ชั่วโมง แตะเพื่อดู</item>
+    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d ชั่วโมง "</item>
     </plurals>
@@ -62,5 +71,11 @@
     </plurals>
     <plurals name="timer_message_second">
         <item quantity="other">%1$d วินาที</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">เร็วกว่า %s ชม.</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">ช้ากว่า %s ชม.</item>
     </plurals>
 </resources>

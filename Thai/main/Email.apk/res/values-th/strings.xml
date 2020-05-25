@@ -28,7 +28,7 @@
     <string name="account_settings_action">ตั้งค่าบัญชี</string>
     <string name="account_settings_background_attachments_label">ดาวน์โหลดไฟล์แนบ</string>
     <string name="account_settings_background_attachments_summary">ดาวน์โหลดไฟล์แนบผ่านเครือข่าย WLAN</string>
-    <string name="account_settings_background_attachments_summary_inter">ดาวน์โหลดไฟล์แนบผ่านเครือข่าย Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary_inter">ดาวน์โหลดไฟล์แนบผ่านเครือข่าย WLAN</string>
     <string name="account_settings_data_usage">ตั้งค่าการซิงค์</string>
     <string name="account_settings_description_label">ชื่อบัญชี</string>
     <string name="account_settings_edit_quick_responses_label">ตอบด่วน</string>
@@ -241,6 +241,7 @@
     <string name="battery_saver">ตัวประหยัดแบตเตอรี่</string>
     <string name="battery_saver_keywords">ตัวประหยัดแบตเตอรี่;แบตเตอรี่อีเมล</string>
     <string name="bcc">สำเนาลับถึง</string>
+    <string name="bcc_heading">"สำเนาลับถึง: "</string>
     <string name="bill_center_setting">การตั้งค่าการเรียกเก็บเงิน</string>
     <string name="bill_center_setting_head">นำเข้าข้อมูลจากบัญชีเหล่านี้</string>
     <string name="bill_cycle_text">รอบบิล</string>
@@ -261,6 +262,7 @@
     <string name="cancel_pop3_attchemt_downloading">บัญชี POP3 ไม่สามารถยกเลิกการดาวน์โหลดไฟล์แนบได้</string>
     <string name="cant_move_or_change_labels">ไม่สามารถย้ายรายการจากต่างบัญชีได้</string>
     <string name="cc">สำเนาถึง</string>
+    <string name="cc_attribution">สำเนาถึง: %1$s&lt;br></string>
     <string name="cc_bcc">สำเนา/สำเนาลับ</string>
     <string name="cc_heading">"สำเนาถึง: "</string>
     <string name="certificate_add_failed">"Couldn't add \"%s\" certificate"</string>
@@ -287,6 +289,7 @@
     <string name="click_download_all_content">[ แตะเพื่อดาวน์โหลดเนื้อหา ]</string>
     <string name="click_to_reload">แตะหน้าจอเพื่อรีเฟรช</string>
     <string name="collapse_recipient_details">ซ่อนรายละเอียดผู้รับ</string>
+    <string name="colon">:</string>
     <string name="compose">เขียน</string>
     <string name="compose_attachment_number_limit">ไม่สามารถเพิ่มไฟล์แนบมากกว่า 10 รายการ</string>
     <string name="compose_paste_address_oob">อักขระมากเกินไป</string>
@@ -520,6 +523,7 @@
     <string name="gmail_web_login_required_message">ลงชื่อเข้าใช้งาน Gmail</string>
     <string name="have_auth_code">ฉันมีรหัส</string>
     <string name="header_category_account">บัญชี</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">ข้อเสนอแนะ</string>
     <string name="header_label_general_preferences">ทั่วไป</string>
     <string name="help_and_info">วิธีใช้</string>
@@ -543,6 +547,7 @@
     <string name="invalid_recipient">ที่อยู่บัญชี %s ไม่ถูกต้อง</string>
     <string name="invalid_recipient_title">ชื่อผู้รับไม่ถูกต้อง</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">ยังไม่มีอีเมล</string>
     <string name="load_from_remote">ค้นหาในกล่องข้อความบนเซิร์ฟเวอร์</string>
     <string name="load_more">โหลดเพิ่มเติม</string>
@@ -838,7 +843,7 @@
     <string name="policy_dont_allow_unsigned_apps">ไม่อนุญาตให้ติดตั้งแอปที่ไม่มีการรับรอง</string>
     <string name="policy_dont_allow_unsigned_installers">ไม่อนุญาตให้ติดตั้งผ่านแอปที่ไม่มีการรับรอง</string>
     <string name="policy_dont_allow_wifi">ไม่อนุญาตให้ใช้ WLAN</string>
-    <string name="policy_dont_allow_wifi_inter">ไม่อนุญาตให้ใช้ Wi-Fi</string>
+    <string name="policy_dont_allow_wifi_inter">ไม่อนุญาตให้ใช้ WLAN</string>
     <string name="policy_email_age">จำกัดจำนวนอีเมลที่จะซิงค์ได้</string>
     <string name="policy_html_truncation">จำกัดขนาดของอีเมลในรูปแบบ HTML</string>
     <string name="policy_password_expiration">ตั้งค่าวันหมดอายุของรหัสผ่าน</string>
@@ -1057,8 +1062,10 @@
     <string name="silent_ringtone">ปิดเสียง</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">รหัสผ่านสำหรับเซิร์ฟเวอร์อีเมลขาออกไม่ถูกต้อง</string>
     <string name="sort_attachment">เรียงตาม</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">พื้นที่</string>
     <string name="str_select_all">เลือกทั้งหมด</string>
     <string name="str_select_none">ยกเลิกที่เลือกทั้งหมด</string>

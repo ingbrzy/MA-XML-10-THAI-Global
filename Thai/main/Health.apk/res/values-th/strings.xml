@@ -42,9 +42,10 @@ to add cards"</string>
     <string name="add_record">Add</string>
     <string name="all_records">บันทึกทั้งหมด</string>
     <string name="altitude">Altitude</string>
-    <string name="audio_permission_dialog_desc">Audio record permission has been closed, please open it.</string>
-    <string name="audio_permission_dialog_title">Grant audio record permission</string>
-    <string name="audio_record_perm_description">Record your snoring and dreams during sleep</string>
+    <string name="altitude_range">ความสูง</string>
+    <string name="audio_permission_dialog_desc">ในการวิเคราะห์รอบการนอนหลับของคุณและบันทึกการพูดคุยและกรน Xiaomi Health จำเป็นต้องได้รับอนุญาตในการบันทึกเสียง</string>
+    <string name="audio_permission_dialog_title">อนุญาตการบันทึกเสียง</string>
+    <string name="audio_record_perm_description">สำหรับการบันทึกเสียงกรนและพูดคุยขณะวิเคราะห์รอบการนอนหลับ</string>
     <string name="audio_record_permission_description">For recording talking and snoring while analyzing your sleep cycle</string>
     <string name="auto_start_fail">ไม่สามารถให้สิทธิ์ได้</string>
     <string name="auto_start_success">อนุมัติการให้สิทธิ์เรียบร้อยแล้ว</string>
@@ -101,6 +102,7 @@ to add cards"</string>
     <string name="copy">คัดลอก</string>
     <string name="copy_done">คัดลอกเรียบร้อยแล้ว</string>
     <string name="copyright_statement">ลิขสิทธิ์ © บริษัท Xiaomi สงวนลิขสิทธิ์ทั้งหมด.</string>
+    <string name="cousume_unit_float_format">%1$.2f แคล</string>
     <string name="cross_hiking">Hiking</string>
     <string name="cumulative_decline">Elevation loss</string>
     <string name="cumulative_rise">Elevation gain</string>
@@ -123,6 +125,7 @@ to add cards"</string>
     <string name="date_format_y_m_d_h_m_3">MM/dd/yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_4">MM/dd/yyyy HH:mm:ss</string>
     <string name="date_format_y_m_d_h_m_s">dd/MM/yyyy HH:mm:ss</string>
+    <string name="date_format_yyyy_m_d_h_m">MM/dd/yyyy HH:mm</string>
     <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">วัน</string>
     <string name="deep_light_detection_open_prompt">Your sleep cycle will be analyzed next time you go to bed</string>
@@ -172,14 +175,14 @@ Xiaomi Health จะแจ้งเตือนคุณเกี่ยวกั
     <string name="dialog_privacy_policy_statement">คำชี้แจงนโยบายความเป็นส่วนตัว</string>
     <string name="dialog_privacy_title">ข้อตกลงและเงื่อนไข</string>
     <string name="dialog_read_phone_perm_desc">สำหรับการระบุคุณสมบัติของอุปกรณ์โดยใช้ OAID หรือ Android ID</string>
-    <string name="dialog_request_network">Please agree to the Application Networking.</string>
+    <string name="dialog_request_network">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ต</string>
     <string name="dialog_sleep_goal_setting">Set sleep duration goal</string>
     <string name="dialog_sleep_goal_subtitle">Get 7–9 hours of sleep every day</string>
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>
     <string name="dialog_sleep_record_auto_start">หากต้องการติดตามการนอนหลับที่แม่นยำยิ่งขึ้น โปรดอนุญาตให้ Xiaomi Health ทำการเริ่มอัตโนมัติ</string>
     <string name="dialog_sure">ตกลง</string>
     <string name="dialog_user_agreement_purpose">ยินดีต้อนรับสู่ Xiaomi Health! คุณสามารถใช้แอปนี้เพื่อ นับก้าว ติดตามการนอนหลับ ประจำเดือน และน้ำหนัก รวมถึงซิงค์สถิติของคุณกับคลาวด์</string>
-    <string name="dialog_user_agreement_purpose2">Welcome to Xiaomi Health, you can use this application for sports pedometer, sleep, menstrual recording, weight tracking, Xiaomi Health Cloud service and other functions.</string>
+    <string name="dialog_user_agreement_purpose2">ยินดีต้อนรับสู่ Xiaomi Health คุณสามารถใช้แอปนี้เพื่อนับขั้นตอนวิเคราะห์การนอนช่วงเวลาติดตามน้ำหนักการบันทึกและอื่นๆ</string>
     <string name="disable">ปิด</string>
     <string name="dream_talk">ละเมอ %1$s</string>
     <string name="dream_talk_record">คุณถูกบันทึกในตอนที่คุณละเมอระหว่างที่คุณหลับ</string>
@@ -189,28 +192,30 @@ Xiaomi Health จะแจ้งเตือนคุณเกี่ยวกั
     <string name="edit_basic_info_desc">ข้อมูลพื้นฐาน</string>
     <string name="edit_sleep_record_button">Edit</string>
     <string name="enable">เปิด</string>
-    <string name="enable_go_now">On</string>
-    <string name="enable_not_now">Off</string>
-    <string name="enable_right_now">On</string>
+    <string name="enable_go_now">Turn on</string>
+    <string name="enable_not_now">Not now</string>
+    <string name="enable_right_now">Turn on</string>
     <string name="enough">Enough</string>
     <string name="excessive">มากเกินไป</string>
     <string name="exercise">Workouts</string>
     <string name="exercise_consume">Burnt %1$d Cal</string>
     <string name="exercise_consume_description">According to Dietary Guidelines for Chinese Residents, daily physical activity should consume more than 15% of total energy expenditure. The energy spent on your daily physical activity is summarized here, but does not include basal metabolic expenditure. If you have weight management concerns, you need to focus on energy intake as well.</string>
-    <string name="exercise_consume_exercise_description">Exercise duration is the time spent on medium and high intensity activities. According to the Chinese health authorities, weekly exercise duration should be at least 150 minutes. The time spent on high-intensity activities such as brisk walking (cadence greater than 100 steps per minute), running, and climbing stairs will be added to your exercise duration.</string>
+    <string name="exercise_consume_exercise_description">This is the time you spend on moderate and high intensity activities. According to the Chinese health authorities, weekly exercise duration should be at least 150 minutes (at least 30 minutes per session). Activities such as brisk walking (cadence greater than 100 steps per minute), running, and climbing stairs will be viewed as moderate to high intensity workouts.</string>
     <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
     <string name="exercise_detail_no_consume_hint">"Selected data source (%1$s) doesn't provide Calorie count info.
 You can select a different data source in More > Data sources."</string>
-    <string name="exercise_detail_no_exercise_hint">"Selected data source (%1$s) doesn't provide exercise duration info.
-You can select a different data source in More > Data sources."</string>
+    <string name="exercise_detail_no_exercise_hint">"Your current data source (%1$s) doesn't provide detailed workout stats.
+You can select another source in More > Data sources."</string>
     <string name="exercise_detail_no_steps_hint">"Selected data source (%1$s) doesn't provide step count info.
 You can select a different data source in More > Data sources."</string>
-    <string name="exercise_duration">Exercise duration</string>
+    <string name="exercise_duration">Moderate to high intensity</string>
     <string name="exercise_duration_consume">Duration: %1$s | Burned: %2$s</string>
     <string name="exercise_goal">Activity goal</string>
     <string name="exercise_goal_accomplished">บรรลุเป้าหมายแล้ว</string>
     <string name="exercise_goal_lack_exercise">กิจกรรมไม่เพียงพอ</string>
     <string name="exercise_goal_not_accomplished">ไม่บรรลุเป้าหมาย</string>
+    <string name="exercise_heart_rate">心率</string>
+    <string name="exercise_heart_rate_range">心率范围</string>
     <string name="exercise_info_tool_bar_title">กิจกรรม</string>
     <string name="exercise_information_label">Provide your info to make stats more accurate</string>
     <string name="exercise_intensity">Intensity</string>
@@ -231,6 +236,7 @@ You can select a different data source in More > Data sources."</string>
     <string name="exercise_reminder_unaccomplished">ยังไม่ถึงเป้าหมายที่ตั้งใจไว้ พยายามต่อไป!</string>
     <string name="exercise_setting_label_reach_standard_remind">Activity alert</string>
     <string name="exercise_setting_page_title">Activity settings</string>
+    <string name="exercise_speed">速度</string>
     <string name="exercise_strokes">Number of strokes</string>
     <string name="exercise_sum">Exercise report</string>
     <string name="exercise_walk_description">According to the Dietary Guidelines for Chinese Residents, active physical activity should last at least 40 minutes a day, which is equivalent to walking 6000 steps. The steps you take each day to walk, run, and go upstairs are summarized here.</string>
@@ -260,6 +266,9 @@ You can select a different data source in More > Data sources."</string>
     <string name="go_open_sleep_detector">Start</string>
     <string name="go_setting">การตั้งค่า</string>
     <string name="goto_setting_auto_start">การตั้งค่า</string>
+    <string name="guide_exit">Exit Xiaomi Health</string>
+    <string name="guide_exit_description">เราไม่สามารถให้บริการแก่ผู้ที่ยังไม่ครบอายุ 14 ปี ตรวจสอบให้แน่ใจว่าคุณใช้อุปกรณ์นี้โดยได้รับอนุญาตจากผู้ปกครองตามกฎหมายของคุณ แตะปุ่มด้านล่างเพื่อออกจากแอป</string>
+    <string name="guide_exit_title">You can start using Xiaomi Health after you turn 14</string>
     <string name="guide_setting">ระบุข้อมูลต่อไปนี้เพื่อรับสถิติรอบประจำเดือนที่ถูกต้อง</string>
     <string name="harm_learn_more">เรียนรู้เพิ่มเติม</string>
     <string name="health_app_name">Health</string>
@@ -311,6 +320,7 @@ You can select a different data source in More > Data sources."</string>
     <string name="light_sleep_time_decrease_description">Your light sleep is too short</string>
     <string name="light_sleep_time_increase_description">Your light sleep is too long</string>
     <string name="light_sleep_time_normal_description">You have a sufficient amount of light sleep</string>
+    <string name="load_failed">加载失败，请稍后重试</string>
     <string name="low_intensity">Low</string>
     <string name="manage_home">Manage start page</string>
     <string name="manual_add">Add manually</string>
@@ -356,11 +366,12 @@ You can select a different data source in More > Data sources."</string>
     <string name="name_title_menstruation_today_end">ประจำเดือนคาดว่าจะสิ้นสุดในวันนี้</string>
     <string name="need_auto_start_permission">หากต้องการรับสถิติที่แม่นยำยิ่งขึ้น โปรดอนุญาตให้ Xiaomi Health ทำการเริ่มอัตโนมัติ</string>
     <string name="need_unrestricted_permission">หากต้องการรับสถิติที่แม่นยำยิ่งขึ้น โปรดอนุญาตให้ Xiaomi Health ทำงานในพื้นหลังเสมอ</string>
+    <string name="network_not_available">网络不可用，请联网后重试</string>
     <string name="next_step">ถัดไป</string>
     <string name="no_data">No data</string>
     <string name="no_records">ยังไม่มีรายการ</string>
     <string name="no_snore">คุณไม่ได้กรนหรือละเมอในช่วงที่นอนหลับ</string>
-    <string name="no_snore_1">"You didn't snore or talk in your sleep"</string>
+    <string name="no_snore_1">No items here yet</string>
     <string name="normal">Normal</string>
     <string name="not_added">Not added</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
@@ -375,6 +386,7 @@ You can select a different data source in More > Data sources."</string>
     <string name="page">%1$d/%2$d</string>
     <string name="passable">ตกลง</string>
     <string name="per_time_minutes">%d per minute</string>
+    <string name="per_time_minutes1">" per minute"</string>
     <string name="permission_check_result">ตั้งค่าสำเร็จแล้ว</string>
     <string name="permission_check_result_failed">ตั้งไม่ได้</string>
     <string name="permission_manage">จัดการสิทธิ์</string>
@@ -419,8 +431,10 @@ You can select a different data source in More > Data sources."</string>
     <string name="remind_subtitle_record">แจ้งเตือนเมื่อคุณจำเป็นต้องบันทึกวันที่เริ่มและสิ้นสุดการมีประจำเดือนของคุณ</string>
     <string name="remind_title_menstruation_start">แจ้งเตือนเมื่อเริ่มมีประจำเดือน</string>
     <string name="remind_title_record">แจ้งเตือนให้บันทึก</string>
+    <string name="retry">重试</string>
     <string name="revert_to_default">เรียกคืนค่าเริ่มต้น</string>
     <string name="run">Running</string>
+    <string name="save">Save</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="sedentary_detail_title">การนั่งนานเกินไปไม่ดีต่อสุขภาพ</string>
     <string name="sedentary_enhance_remind">สั่นด้วย</string>
@@ -449,6 +463,8 @@ You can select a different data source in More > Data sources."</string>
     <string name="sleep_deep">Deep sleep</string>
     <string name="sleep_deep_light_analysis">หลับตื้นและหลับลึก</string>
     <string name="sleep_deep_light_close_tip">ปิดการวิเคราะห์การหลับลึก</string>
+    <string name="sleep_deep_light_no_data">No data here yet</string>
+    <string name="sleep_deep_light_no_data_improvement">"Couldn't detect sleep phases. We're improving our algorithms. Stay tuned!"</string>
     <string name="sleep_detection_enable">วิเคราะห์วงจรการนอนหลับ</string>
     <string name="sleep_detection_feedback">Feedback</string>
     <string name="sleep_detection_guide_four_description">การติดตามการนอนจะใช้ประมาณ 1% ของแบตเตอรี่ของคุณทุกวัน</string>
@@ -469,7 +485,11 @@ You can select a different data source in More > Data sources."</string>
     <string name="sleep_detection_question_four_title">ทำไมอุปกรณ์ต่างๆ ใช้พลังงานในการติดตามการนอนหลับไม่เท่ากัน?</string>
     <string name="sleep_detection_question_one_answer">"เมื่ออุปกรณ์ของคุณถูกปิด รีบูตเครื่อง หรือแบตเตอรี่เหลือน้อย การติดตามการนอนหลับจะถูกขัดจังหวะเนื่องจากเซ็นเซอร์ไม่สามารถรวบรวมและวิเคราะห์ข้อมูลได้ ในกรณีเช่นนี้ สถิติการนอนหลับจะไม่สมบูรณ์
 หากปัญหานี้เกิดขึ้นบ่อยครั้ง ให้ตรวจสอบอุปกรณ์ของคุณเพื่อดูว่ามีการปิดระบบตามกำหนดเวลาหรืออัปเดตระบบข้ามคืนหรือไม่"</string>
+    <string name="sleep_detection_question_one_answer_1">"Deep and light sleep phases are detected based on body movement data collected by the sensors of your device. Here's why you might not be able to see the stats:
+1. Xiaomi Health couldn't collect data. This might happen when your device powers off while you're sleeping, its battery is too low, or the app isn't allowed to work in the background. Allow Xiaomi Health to autostart, add it to Battery saver exceptions, and lock it in the background to prevent this from happening.
+2. Xiaomi Health couldn't analyze the collected data. This might happen when your phone is placed too far from your body when you sleep. Alternatively, your body movement might be too subtle to make any assumptions about your sleep cycle changes. We're constantly improving our algorithms to make Xiaomi Health analyze your sleep better."</string>
     <string name="sleep_detection_question_one_title">ทำไมสถิติของฉันไม่สมบูรณ์?</string>
+    <string name="sleep_detection_question_one_title_1">"Why don't I see sleep cycle stats?"</string>
     <string name="sleep_detection_question_three_answer">อุปกรณ์ของคุณติดตามการเคลื่อนไหวร่างกายของคุณระหว่างการนอนหลับโดยใช้เซ็นเซอร์ในตัว เพื่อให้สถิติแม่นยำยิ่งขึ้นให้วางอุปกรณ์บนพื้นผิวที่อ่อนนุ่มใกล้กับร่างกายของคุณ หลีกเลี่ยงการวางไว้บนโต๊ะข้างเตียงหรือห่างจากที่นอนมากเกินไป</string>
     <string name="sleep_detection_question_three_title">ฉันจะทำให้สถิติของฉันแม่นยำยิ่งขึ้นได้อย่างไร?</string>
     <string name="sleep_detection_question_two_answer">รอบการนอนหลับของคุณจะถูกวิเคราะห์ภายในตัวอุปกรณ์ การติดตามการนอนหลับจะทำงานแม้ว่าคุณจะไม่ได้เชื่อมต่อกับเครือข่ายหรือการเชื่อมต่อปัจจุบันของคุณถูกขัดจังหวะ</string>
@@ -517,14 +537,18 @@ You can select a different data source in More > Data sources."</string>
     <string name="sleep_service">บริการติดตามการนอนหลับ</string>
     <string name="sleep_service_background_running">บริการติดตามการนอนหลับกำลังทำงานในพื้นหลัง</string>
     <string name="sleep_setting_title">Sleep settings</string>
-    <string name="sleep_snore_audio_auto">Track your audio</string>
-    <string name="sleep_snore_audio_auto_desc">Records your talk when you are sleeping and store the file in your phone to protect your privacy safely.</string>
-    <string name="sleep_snore_audio_close_desc">You can disable it in sleep settings.</string>
-    <string name="sleep_snore_audio_enable">The detections is enable</string>
-    <string name="sleep_snore_audio_enable_desc">Tonight, your sleep will be tracked automatically.</string>
-    <string name="sleep_snore_audio_hight_power_desc">Make sure your device is sufficiently charged before you go to bed.</string>
+    <string name="sleep_snore_audio_auto">Record snoring and talking automatically</string>
+    <string name="sleep_snore_audio_auto_desc">Xiaomi Health can record snoring and talking automatically based on your bedtime schedule. The recording will stop when you get up.</string>
+    <string name="sleep_snore_audio_close_desc">You can turn this feature off in the Settings anytime.</string>
+    <string name="sleep_snore_audio_enable">Automatic detection is on</string>
+    <string name="sleep_snore_audio_enable_desc">Your snoring and talking will be recorded automatically when you go to sleep.</string>
+    <string name="sleep_snore_audio_file_mamagement_desc">建议开启。保留最新100MB的鼾声梦话音频，自动清理较旧音频，避免占用过多存储空间。</string>
+    <string name="sleep_snore_audio_file_mamagement_title">自动清理音频文件</string>
+    <string name="sleep_snore_audio_file_saved">音频文件保存在本地</string>
+    <string name="sleep_snore_audio_file_saved_desc">检测采用离线算法，音频文件保存在手机，个人隐私安全有保障。</string>
+    <string name="sleep_snore_audio_hight_power_desc">"Remember that using this feature consumes a substantial amount of power. It's a good idea to keep your charger connected while you sleep to avoid unexpected interruptions."</string>
     <string name="sleep_snore_detection">ตรวจจับการนอนกรนและละเมอ</string>
-    <string name="sleep_snore_detection_desc">Track your sleep</string>
+    <string name="sleep_snore_detection_desc">Detect snoring and talking to learn more about your sleep</string>
     <string name="sleep_sober">ตื่น</string>
     <string name="sleep_sober_times_title">ตื่นนอน</string>
     <string name="sleep_status">สถานะการนอน</string>
@@ -554,11 +578,13 @@ You can select a different data source in More > Data sources."</string>
     <string name="snore_detection_model_hint">อัลกอริทึมการตรวจจับการนอนกรนและละเมอออกแบบโดย Snail Sleep</string>
     <string name="snore_detection_running_state">Detecting…</string>
     <string name="snore_detection_running_state_description">Microphone is on. It will keep working in the background.</string>
+    <string name="snore_detection_sotp_opt_1">Stop and delete results</string>
+    <string name="snore_detection_sotp_opt_2">Stop and save results</string>
     <string name="snore_detection_stop_pop_content">"You won't be able to resume this session if you end it now. Next session will start when you go to bed next time."</string>
-    <string name="snore_detection_stop_pop_title">End session now?</string>
+    <string name="snore_detection_stop_pop_title">Stop the current session of snore detection?</string>
     <string name="snore_dream_talk">นอนกรนและละเมอ</string>
-    <string name="snore_duration_label">Snore duration</string>
-    <string name="snore_label">Snore</string>
+    <string name="snore_duration_label">Duration of snoring</string>
+    <string name="snore_label">Snoring</string>
     <string name="snore_record_audio_delete_message">การบันทึกนี้จะถูกเก็บไว้ในอุปกรณ์ของคุณเท่านั้น คุณจะไม่สามารถกู้คืนได้หากคุณลบออก ยืนยันลบออกหรือไม่?</string>
     <string name="snore_record_audio_delete_title">ลบบันทึกเสียงหรือไม่?</string>
     <string name="snore_section">นอนกรน %1$s</string>
@@ -603,9 +629,13 @@ You can select a different data source in More > Data sources."</string>
     <string name="title_no_record_menstruation">คุณยังไม่ได้บันทึกรอบประจำเดือนของคุณ</string>
     <string name="title_run_in_background">ทำงานในพื้นหลัง</string>
     <string name="title_select_birthday">Select birthday</string>
+    <string name="title_select_birthday_description">เราจะปรับบริการของเราให้เหมาะกับอายุของคุณ</string>
     <string name="title_select_gender">Select gender</string>
+    <string name="title_select_gender_description">เราจะปรับบริการของเราให้เหมาะกับเพศของคุณ</string>
     <string name="title_select_height">Set height</string>
+    <string name="title_select_height_description">สิ่งนี้จะทำให้สถิติของเราแม่นยำยิ่งขึ้น</string>
     <string name="title_select_weight">Set weight</string>
+    <string name="title_select_weight_description">สิ่งนี้จะทำให้สถิติของเราแม่นยำยิ่งขึ้น</string>
     <string name="title_start_use">Start</string>
     <string name="title_start_use_menstruation_assistant">บันทึกรอบประจำเดือนของคุณ</string>
     <string name="title_today_exercise_detail">กิจกรรมวันนี้</string>
@@ -644,8 +674,15 @@ You can select a different data source in More > Data sources."</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="walk">Walking</string>
+    <string name="welcome_exercise">ติดตามการออกกำลังกาย</string>
+    <string name="welcome_exercise_description">Carry your device with you to track workouts automatically</string>
+    <string name="welcome_sedentary">Keep moving</string>
+    <string name="welcome_sedentary_description">Xiaomi Health สามารถเตือนให้คุณลุกขึ้นยืนเมื่อคุณนั่งเป็นเวลานาน</string>
+    <string name="welcome_sleep">วิเคราะห์วงจรการนอนหลับ</string>
+    <string name="welcome_sleep_description">Put your phone next to you to learn about your sleep cycle in the morning</string>
+    <string name="welcome_start_use">เริ่ม</string>
     <string name="well">Good</string>
-    <string name="write_strorage_perm_description">Record the problems you encountered in use</string>
+    <string name="write_strorage_perm_description">สำหรับการบันทึกข้อมูลเกี่ยวกับปัญหาที่คุณพบ</string>
     <string name="year">ปี</string>
     <string name="yesterday">Yesterday</string>
 </resources>

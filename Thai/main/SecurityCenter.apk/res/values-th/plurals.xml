@@ -3,6 +3,45 @@
     <plurals name="add_game_notification_title">
         <item quantity="other">เพิ่ม %d เกมแล้ว</item>
     </plurals>
+    <plurals name="app_behavior_desc_allow">
+        <item quantity="other">อนุญาต %3$d ครั้ง ระหว่าง %1$s และ %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_allow_minute">
+        <item quantity="other">อนุญาตแล้ว %2$d ครั้ง เมื่อ %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+        <item quantity="other">จำกัด %3$d ครั้ง ระหว่าง %1$s และ %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny_minute">
+        <item quantity="other">ปฏิเสธแล้ว %2$d ครั้ง เมื่อ %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual">
+        <item quantity="other">ส่งกลับ %3$d ข้อความเปล่าระหว่าง %1$s และ %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual_minute">
+        <item quantity="other">ส่งกลับ %2$d ข้อความเปล่า เมื่อ %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_notification_audio_more">
+        <item quantity="other">แอป %2$d รวมถึง %1$1s กำลังบันทึกเสียง</item>
+    </plurals>
+    <plurals name="app_behavior_notification_camera_more">
+        <item quantity="other">แอป %2$d รวมถึง %1$1s กำลังถ่ายรูป</item>
+    </plurals>
+    <plurals name="app_behavior_notification_location_more">
+        <item quantity="other">แอป %2$d รวมถึง %1$1s กำลังเข้าถึงตำแหน่งของคุณ</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+        <item quantity="other">คุณจะไม่ได้รับแจ้งเกี่ยวกับการกระทำที่ละเอียดอ่อนที่ดำเนินการโดย %1$d แอป</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+        <item quantity="other">คุณจะได้รับแจ้งเกี่ยวกับการกระทำที่ละเอียดอ่อนที่ดำเนินการโดย %1$d แอป</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple">
+        <item quantity="other">%1$1s เปิดใช้ %2$d แอป</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple_single">
+        <item quantity="other">แอปนี้เปิดใช้ %1$d แอปอื่นๆ</item>
+    </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">อนุญาต %d การอนุญาต</item>
     </plurals>
@@ -131,6 +170,12 @@
     <plurals name="install_game_count_title">
         <item quantity="other">เพิ่ม %d เกมแล้ว</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s ชั่วโมง</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s นาที</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">เชื่อมต่ออย่างน้อย %d จุด</item>
     </plurals>
@@ -199,6 +244,12 @@
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d แอปกำลังกินแบต</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" ชม."</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" นาที"</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s วัน</item>
@@ -275,11 +326,23 @@
     <plurals name="power_main_battery_last_minute">
         <item quantity="other">ใช้ได้อีก %s นาที</item>
     </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">รับทราบ (%dวิ)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">อุปกรณ์ของคุณจะปิดตัวภายใน %d วินาที โปรดเชื่อมต่อที่ชาร์จ</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d ไอคอนแอปถูกซ่อน</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
         <item quantity="other">%d ไอคอนแอปไม่ได้ถูกซ่อน</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s แอปมีการเข้าถึงแบบถาวร</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s ครั้ง</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d ปัญหาแบตเตอรี่</item>

@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">กลับ</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_query">คำค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="about_extreme_mode">ตัวประหยัดแบตเตอรี่ขั้นสูง</string>
     <string name="about_hide_mode">เกี่ยวกับตัวประหยัดแบตเตอรี่แอป</string>
     <string name="active_classify">จัดเรียงตามสถานะของกิจกรรม</string>
@@ -15,9 +42,6 @@
     <string name="atrace_start">กำลังบันทึกการใช้ atrace…</string>
     <string name="base_info">ข้อมูลพื้นฐาน</string>
     <string name="cloud_addr_info">ข้อมูลคลาวด์</string>
-    <string name="cloud_china_addr">อัปเดตข้อมูลเซิร์ฟเวอร์จีน</string>
-    <string name="cloud_international_addr">อัปเดตเซิร์ฟเวอร์ข้อมูลนานาชาติ</string>
-    <string name="cloud_staging_addr">อัปเดตข้อมูลเซิร์ฟเวอร์ staging</string>
     <string name="config_classify">จัดเรียงตามการตั้งค่าแอป</string>
     <string name="config_description">MIUI สามารถระบุแอปที่ทำงานบนพื้นหลัง (เช่น แอปส่งข้อความ, แอปนำทาง, ตัวเล่นสื่อมีเดีย) และใช้การประหยัดแบตเตอรี่ที่ไม่ส่งผลต่อการทำงานบนพื้นหลังที่สำคัญ</string>
     <string name="config_mode_title">การตั้งค่าพื้นหลัง</string>
@@ -33,10 +57,11 @@
 ตัวประหยัดแบตเตอรี่จะเลือกแอปที่สำคัญเอาไว้"</string>
     <string name="config_suggest_suffix_title">ตัวประหยัดแบตเตอรี่ (แนะนำ)</string>
     <string name="confirm">ตกลง</string>
-    <string name="current_cloud_addr_is">ที่อยู่เซิร์ฟเวอร์คลาวด์ควบคุมคือ:</string>
+    <string name="copy">คัดลอก</string>
     <string name="empty_title_apps_container_list">ไม่มีแอป</string>
-    <string name="enable_sleep_mode">เปิดโหมดสลีปเพื่อเพิ่มประสิทธิภาพการใช้แบตเตอรี่เวลากลางคืน</string>
+    <string name="enable_sleep_mode">เปิดโหมดพักหน้าจอเพื่อเพิ่มประสิทธิภาพการใช้แบตเตอรี่เวลากลางคืน</string>
     <string name="error_filename_too_long">ชื่อไฟล์ที่คุณป้อนยาวเกินไป</string>
+    <string name="expand_button_title">ขั้นสูง</string>
     <string name="extreme_add_white_list_summary">เพิ่มมากถึง 4 แอป</string>
     <string name="extreme_add_white_list_title">รายการยกเว้นในพื้นหลัง</string>
     <string name="extreme_mode_max_item_alert">คุณสามารถเลือกได้สูงสุด 4 แอปเพื่อให้ทำงานในพื้นหลังเมื่อเปิดใช้งานตัวประหยัดแบตเตอรี่ขั้นสูง</string>
@@ -54,12 +79,13 @@
     <string name="high_temp_state">ร้อนเกิน</string>
     <string name="high_temp_state_message">อุปกรณ์ของคุณร้อนเกินไป ข้อมูลมือถือ ฮอตสปอต Wi-Fi GPS และกล้อง จะถูกจำกัด</string>
     <string name="hints_loading_text">รอสักครู่…</string>
-    <string name="important_warning">คำเตือน</string>
+    <string name="important_warning">โปรดทราบ</string>
     <string name="lasttime_applist_cloud">อัปเดตแอป:</string>
     <string name="lasttime_feature_cloud">อัปเดตคุณลักษณะ:</string>
     <string name="message_i_know">รับทราบ</string>
     <string name="nonui_mode_config_description">ห้ามเปิดหน้าจอสำหรับการแจ้งเตือน, ปิดไฟ LED, เซ็นเซอร์ลายนิ้วมือและระบบควบคุมแบบสัมผัสเพื่อประหยัดแบตเตอรี่เมื่อ MIUI ตรวจพบว่าคุณไม่ได้ใช้อุปกรณ์</string>
     <string name="nonui_mode_config_title">โหมดไม่เป็นแบบโต้ตอบ</string>
+    <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="notification_exit_extreme_mode_text">แบตเตอรี่ชาร์จมากกว่า %s</string>
     <string name="notification_exit_extreme_mode_title">ปิดใช้งานตัวประหยัดแบตเตอรี่ขั้นสูง</string>
     <string name="notification_open_extreme_mode_text">เปิดใช้งานตัวประหยัดแบตเตอรี่ขั้นสูง</string>
@@ -90,11 +116,13 @@
     <string name="power_mode">การตั้งค่าพลังงาน</string>
     <string name="power_usage">การใช้พลังงาน</string>
     <string name="pref_config_title">การเพิ่มประสิทธิภาพ</string>
+    <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacy">นโยบายความเป็นส่วนตัว</string>
     <string name="scenario_policies_summary">ใช้กลยุทธ์การประหยัดพลังงานที่แตกต่างกันตามสถานการณ์</string>
     <string name="scenario_policies_title">รูปแบบอัจฉริยะ</string>
     <string name="scenario_policies_warmcontrol">ควบคุมอุณหภูมิ</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_menu_title">ค้นหา</string>
     <string name="search_result_text">ไม่พบแอปไดๆ</string>
     <string name="show_system_app">แสดงแอประบบ</string>
     <string name="sleep_config_enhance_description">เมื่อใดก็ตามที่ MIUI ตรวจพบว่าคุณกำลังนอนหลับอยู่จะปิดแอปพื้นหลัง จำกัด NFC บลูทูธ GPS ข้อมูลมือถือและการใช้ Wi-Fi และจะไม่เปิดหน้าจอสำหรับการแจ้งเตือน</string>
@@ -102,12 +130,14 @@
     <string name="sleep_config_enhance_title">โหมดพักหน้าจอ</string>
     <string name="sleepmode_disclaimer_agree">ยอมรับ</string>
     <string name="sleepmode_disclaimer_cancel">ยกเลิก </string>
-    <string name="sleepmode_privacy_content">คุณลักษณะนี้จะใช้ข้อมูลของระบบโทรศัพท์และอุปกรณ์ของคุณ นั่นจะไม่สามารถอัพโหลดไปยังเซิร์ฟเวอร์ได้</string>
+    <string name="sleepmode_privacy_content">คุณลักษณะนี้จะใช้ข้อมูลของระบบโทรศัพท์และอุปกรณ์ของคุณ นั่นจะไม่สามารถอัปโหลดไปยังเซิร์ฟเวอร์ได้</string>
     <string name="sleepmode_privacy_link">เรียนรู้เพิ่มเติมเกี่ยวกับความเป็นส่วนตัวและความปลอดภัย</string>
     <string name="sleepmode_privacy_title">โหมดพักหน้าจอ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sucess">เสร็จสิ้น</string>
-    <string name="update_profile_failture_not_connect_wifi">ไม่สามารถอัปเดตได้ กรุณาเชื่อมต่อกับ Wi-Fi แล้วลองอีกครั้ง</string>
-    <string name="update_profile_sucess">อัปเดตฟอร์มเซิร์ฟเวอร์เรียบร้อย</string>
+    <string name="summary_collapsed_preference_list">%1$s %2$s</string>
+    <string name="v7_preference_off">ปิด</string>
+    <string name="v7_preference_on">เปิด</string>
     <string name="vip_feedback">ข้อเสนอแนะ VIP</string>
     <string name="vip_feedback_enable">เปิดใช้งานข้อเสนอแนะ VIP</string>
     <string name="warm_configure">การตั้งค่าควบคุมอุณหภูมิ</string>

@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="extra_photo_common_save_fail">บันทึกล้มเหลว</string>
     <string name="extra_photo_common_saving">กำลังบันทึก…</string>
-    <string name="motion_photo_re_pick_title">เลือกรูปภาพที่ดีที่สุด</string>
+    <string name="motion_photo_cancel">ยกเลิก </string>
+    <string name="motion_photo_re_pick_title">รูปเคลื่อนไหว</string>
+    <string name="motion_photo_save_fail">บันทึกล้มเหลว</string>
+    <string name="motion_photo_save_gif">บันทึกเป็น GIF</string>
+    <string name="motion_photo_save_gif_ing">กำลังบันทึก GIF…</string>
+    <string name="motion_photo_save_image">บันทึกรูปภาพที่ดีที่สุด</string>
+    <string name="motion_photo_save_image_ing">กำลังบันทึกรูปภาพที่ดีที่สุด…</string>
+    <string name="motion_photo_save_video">บันทึกเป็นวิดีโอ</string>
+    <string name="motion_photo_save_video_ing">กำลังบันทึกวิดีโอ…</string>
     <string name="motion_photo_toast_default">ค่าเริ่มต้น</string>
+    <string name="motion_photo_toast_long_press_play">กดภาพถ่ายค้างไว้เพื่อเล่น</string>
     <string name="motion_photo_toast_suggest">แนะนำ</string>
     <string name="refocus_discard_confirm_message">บันทึกการเปลี่ยนแปลง?</string>
     <string name="refocus_discard_negative_btn">ละทิ้ง</string>

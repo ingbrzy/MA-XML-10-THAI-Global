@@ -3,6 +3,9 @@
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d times</item>
     </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d แคล</item>
+    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Walk at least %1$d steps every day</item>
     </plurals>
@@ -22,7 +25,16 @@
         <item quantity="other">%1$d การบันทึก</item>
     </plurals>
     <plurals name="dream_talk_segment_unit">
-        <item quantity="other">recordings</item>
+        <item quantity="other">" instances"</item>
+    </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d ชม.</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d นาที</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d วินาที</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">เป้าหมาย: %1$d ก้าว</item>
@@ -35,6 +47,9 @@
     </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d hrs</item>
+    </plurals>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d เมตร</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">ประจำเดือน %1$d-วัน</item>

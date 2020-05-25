@@ -18,6 +18,7 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ad_downloading">ดาวน์โหลด…</string>
     <string name="app_name">ปลั๊กอินบริการระบบ</string>
     <string name="app_select_title">เพิ่มแอปที่ใช้บ่อย</string>
@@ -36,6 +37,7 @@
     <string name="dialog_market_score_title_step2">ขอบคุณสำหรับข้อเสนอแนะของคุณ!</string>
     <string name="dual_app_title">แอปโคลน</string>
     <string name="dual_app_words">ทุกบัญชีสมควรมีแอปของมันเอง</string>
+    <string name="empty">" "</string>
     <string name="ew_detail_earthquake_center_title">Epicenter</string>
     <string name="ew_detail_earthquake_feel_little">Slight shaking</string>
     <string name="ew_detail_earthquake_feel_max">Very strong</string>
@@ -110,7 +112,7 @@
     <string name="superpower_battery_dangerous">เชื่อมต่อเครื่องชาร์จโดยเร็วที่สุด</string>
     <string name="superpower_date">EEEE dd MMMM</string>
     <string name="superpower_dialog_app_select_content">โดยทั่วไปแอปภายนอกจะใช้พลังงานมากกว่าแอพของระบบ ยืนยันเพิ่มหรือไม่</string>
-    <string name="superpower_dialog_app_select_title">คำเตือน</string>
+    <string name="superpower_dialog_app_select_title">โปรดทราบ</string>
     <string name="superpower_exit_hint">ปิดใช้งานตัวประหยัดแบตเตอรี่อัลตร้า…</string>
     <string name="superpower_incharging">กำลังชาร์จ</string>
     <string name="superpower_progress_battery_last">คงเหลือ %s</string>

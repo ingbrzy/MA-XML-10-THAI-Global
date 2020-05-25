@@ -19,6 +19,7 @@
     <string name="poco_privacy_policy">นโยบายความเป็นส่วนตัว POCO Launcherและข้อตกลงการใช้งาน POCO Launcher</string>
     <string name="policy_name">ชื่อสัญญา: %s</string>
     <string name="pre_installed_apps">แอปที่ติดตั้งไว้ล่วงหน้า</string>
+    <string name="privacy_station_title">ความเป็นส่วนตัวที่ Xiaomi</string>
     <string name="settings_ad_loading">รอสักครู่…</string>
     <string name="settings_ad_loading_unavailable">ไม่สามารถโหลดข้อมูลได้</string>
     <string name="settings_license_activity_loading">รอสักครู่…</string>
@@ -28,4 +29,5 @@
     <string name="settings_safetylegal_activity_title">ความปลอดภัยข้อมูล</string>
     <string name="settings_safetylegal_activity_unreachable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ เพื่อเรียกดูข้อมูลตอนนี้ กรุณาใช้คอมพิวเตอร์อื่นที่เชื่อมต่อเน็ตอยู่ในการเปิด%s</string>
     <string name="settings_safetylegal_title">ความปลอดภัยข้อมูล</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

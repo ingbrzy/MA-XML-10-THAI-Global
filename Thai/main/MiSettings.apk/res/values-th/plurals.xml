@@ -3,6 +3,12 @@
     <plurals name="last_several_days">
         <item quantity="other">%d วัน</item>
     </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">คุณใช้อุปกรณ์ของคุณเป็นเวลา %d นาทีอย่างต่อเนื่อง</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d นาที</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">เวลาหน้าจอวันนี้เท่ากับค่าเฉลี่ย %d-วัน ของคุณ</item>
     </plurals>
@@ -17,6 +23,21 @@
     </plurals>
     <plurals name="usage_days">
         <item quantity="other">%d วัน</item>
+    </plurals>
+    <plurals name="usage_new_home_avg_unlockc">
+        <item quantity="other">%.2f ครั้งต่อวันโดยเฉลี่ย</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks">
+        <item quantity="other">ปลดล็อกแล้ว %d ครั้ง</item>
+    </plurals>
+    <plurals name="usage_new_home_total_week_unlocks">
+        <item quantity="other">ปลดล็อกแล้ว %d ครั้ง</item>
+    </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s ชั่วโมง</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s นาที</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">ปลดล็อกแล้ว %d ครั้ง</item>
@@ -65,6 +86,12 @@
     </plurals>
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">วันธรรมดา: %d นาที</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s ชั่วโมง</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s นาที</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" ชม."</item>

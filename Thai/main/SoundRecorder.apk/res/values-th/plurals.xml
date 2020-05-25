@@ -21,6 +21,12 @@
     <plurals name="record_downloading_complete_count">
         <item quantity="other">ดาวน์โหลดไฟล์เสียง %d ไฟล์แล้ว</item>
     </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">ค้นหาใน %d การบันทึก</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">ค้นหาใน %d บันทึกการโทร</item>
+    </plurals>
     <plurals name="search_result">
         <item quantity="other">พบ %d การบันทึก</item>
     </plurals>

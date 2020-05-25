@@ -6,6 +6,33 @@
 ข้อความจะแสดงเฉพาะในพื้นที่ทับซ้อน"</string>
     <string name="PrivacyContactDes2">"หากคุณใช้ข้อความส่วนตัวในพื้นที่ปกติ
 คุณลักษณะนี้จะถูกเพิ่มลงในพื้นที่ทับซ้อนโดยอัตโนมัติ"</string>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">กลับ</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_query">คำค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="about_ent_mode">เกี่ยวกับโหมดบริษัท</string>
     <string name="activate_ent_mode">เปิดใช้งานโหมดบริษัท</string>
     <string name="add_finger_print">เพิ่มลายนิ้วมือ</string>
@@ -61,6 +88,7 @@
 เพื่อให้สามารถเรียกดูได้ตลอดเวลา"</string>
     <string name="contact_us">ติดต่อเรา</string>
     <string name="continueButton">ดำเนินการต่อ</string>
+    <string name="copy">คัดลอก</string>
     <string name="createANewSpace">แบ่งพื้นที่ในเครื่องของคุณเป็นสองส่วน</string>
     <string name="createUserFail">ไม่สามารถสร้างได้</string>
     <string name="create_app_icon_failed">ไม่สามารถสร้างไอคอนได้</string>
@@ -85,7 +113,7 @@
     <string name="delete_src_photo">ลบรูปภาพ</string>
     <string name="dialog_message_service_error">ไม่สามารถถอนสิทธิ์และทำการคืนค่าข้อมูลโรงงาน ลองอีกครั้ง</string>
     <string name="dialog_tip_need_network">อุปกรณ์ของคุณจำเป็นต้องเชื่อมต่ออินเตอร์เน็ตเพื่อถอนสิทธิ์</string>
-    <string name="dialog_title">คำเตือน</string>
+    <string name="dialog_title">โปรดทราบ</string>
     <string name="dialog_title_service_error">พบข้อผิดพลาดจากเซิร์ฟเวอร์</string>
     <string name="dialog_undo_negative">ไม่เพิกถอน</string>
     <string name="dialog_verify">ยืนยันลายนิ้วมือของคุณ</string>
@@ -149,6 +177,7 @@
     <string name="err_unknown">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="err_volume_not_enough">พื้นที่จัดเก็บไม่เพียงพอ</string>
     <string name="exit_private_space">สลับ</string>
+    <string name="expand_button_title">ขั้นสูง</string>
     <string name="experience_more_features">เพิ่มอุปกรณ์เพื่อดูคุณลักษณะทั้งหมด</string>
     <string name="facebook_login">ลงชื่อเข้าใช้โดยใช้ Facebook</string>
     <string name="facebook_send">แชร์ไปยัง Facebook</string>
@@ -223,6 +252,7 @@
     <string name="master_clear_apply_step_2">ตรวจสอบว่าได้สำรองข้อมูลสำคัญทั้งหมดไว้ในคอมพิวเตอร์แล้ว หลังจากที่คุณแตะ \"ตกลง\" การรีเซ็ตข้อมูลเป็นค่าเริ่มต้นจะดำเนินการในอุปกรณ์ลบไฟล์และข้อมูลทั้งหมดอย่างถาวรรวมถึงบัญชีสมุดติดต่อรูปภาพและแอป</string>
     <string name="master_clear_apply_title">โปรดทราบ</string>
     <string name="master_clear_not_available">การรีเซ็ตเป็นค่าเริ่มต้นจากโรงงานถูกจำกัดโดยบริษัทของคุณ</string>
+    <string name="master_clear_not_available_ep">คุณไม่ได้รับอนุญาตให้ทำการรีเซ็ตเป็นค่าเริ่มต้นจากโรงงานหรือเพิกถอนการให้สิทธิ์ของคุณตอนนี้ โปรดติดต่อหัวหน้างานของคุณ</string>
     <string name="menu_item_about_privacy_title">นโยบายความเป็นส่วนตัว</string>
     <string name="messageData">ข้อความ</string>
     <string name="more_settings">เพิ่มเติม</string>
@@ -240,6 +270,7 @@
     <string name="next_setp">ถัดไป</string>
     <string name="no_match_repate_scanner">ไม่พบลายนิ้วมือที่ตรงกัน สแกนอีกครั้ง</string>
     <string name="normal_app">พื้นที่ปกติ</string>
+    <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="not_support_air_space">โทรศัพท์ของคุณยังไม่รองรับคุณลักษณะนี้</string>
     <string name="not_support_multiple_users">ไม่รองรับผู้ใช้หลายคน</string>
     <string name="notificationSetPassword">ตั้งรหัสผ่าน</string>
@@ -262,6 +293,7 @@
     <string name="passwordProtect">รหัสผ่าน</string>
     <string name="please_diff_finger_print">"ตรวจสอบให้แน่ใจว่าลายนิ้วมือในพื้นที่ปกติและพื้นที่ทับซ้อนแตกต่างกัน
 มิฉะนั้นคุณจะไม่สามารถเข้าไปในพื้นที่ทับซ้อนจากหน้าจอล็อกได้"</string>
+    <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacyContactsSummary">แสดงรายการส่วนตัวในพื้นที่ทับซ้อน</string>
     <string name="privacyContactsTitle">ข้อความและรายชื่อส่วนตัว</string>
     <string name="privacy_password_fingerprint_dialog_message">วางนิ้วมือของคุณลงบนเซ็นเซอร์</string>
@@ -312,6 +344,7 @@
 หากคุณไม่อัปเดตแอปโคลนอาจทำงานไม่ปกติเช่นกัน"</string>
     <string name="sdcradfs_dialog_in_sec_title">อัปเดตที่สำคัญ</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_menu_title">ค้นหา</string>
     <string name="search_result_text">ไม่พบแอปไดๆ</string>
     <string name="secondSpace">พื้นที่ทับซ้อน</string>
     <string name="second_owner_finger_print">ลายนิ้วมือพื้นที่ทับซ้อน</string>
@@ -392,6 +425,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_xspace_alert_content">ลบแอปโคลนทั้งหมดพร้อมกับบัญชีและข้อมูลแอปหรือไม่? อุปกรณ์ของคุณจะถูกรีบูตเพื่อใช้การเปลี่ยนแปลงนี้</string>
     <string name="stop_xspace_alert_title">ลบบัญชีแอปโคลน</string>
+    <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="summary_switch_apps_settings">เลือกแอปที่ใช้ในพื้นที่ปัจจุบัน</string>
     <string name="support_desc">บริการรักษาความปลอดภัยโดย Spaces Mobile</string>
     <string name="sure_to_use">ยืนยัน</string>
@@ -441,6 +475,8 @@
     <string name="undo_success">เพิกถอนเรียบร้อยแล้ว</string>
     <string name="use_google_open">ปลุกโดยใช้ตัวช่วย Google</string>
     <string name="use_xiaoai_open">ปลุกโดยใช้ Mi AI</string>
+    <string name="v7_preference_off">ปิด</string>
+    <string name="v7_preference_on">เปิด</string>
     <string name="wating">รอสักครู่…</string>
     <string name="weibo_send">ส่งไปที่ Weibo</string>
     <string name="weixin_pay">WeChat Pay</string>
@@ -460,6 +496,8 @@
     <string name="xspace_description">"แอปโคลนคือการทำสำเนาแอปเพื่อให้คุณสามารถใช้งานได้สองบัญชีพร้อมกัน 
 
 แอปโคลนบางแอปต้องใช้งานร่วมกับ Google Services Framework ในกรณีนี้ระบบจะสร้าง Google Services Framework เพื่อทำงานคู่ขนานกันไป"</string>
+    <string name="xspace_disable">ยังไม่ได้สร้าง</string>
+    <string name="xspace_enable">สร้างแล้ว</string>
     <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_des">ใช้ 2 บัญชีโดยไม่ต้องเปลี่ยน</string>
     <string name="xspace_guide_title">สร้างแอปโคลน</string>
@@ -472,9 +510,12 @@
     <string name="xspace_introduce">แนะนำ</string>
     <string name="xspace_label">แอปโคลน</string>
     <string name="xspace_loading_msg">กำลังโหลดแอป…</string>
+    <string name="xspace_notification">การแจ้งเตือนแอปคู่</string>
+    <string name="xspace_notification_error">ลงชื่อเข้าใช้ WeChat คู่แล้วลองอีกครั้ง</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">ลบบัญชีแอปโคลน</string>
     <string name="xspace_setting_label">การตั้งค่าแอปโคลน</string>
+    <string name="xspace_settins">ตั้งค่า</string>
     <string name="xspace_uninstall_completed">ถอนการติดตั้งแอปโคลนเรียบร้อยแล้ว</string>
     <string name="xspace_uninstall_dialog_content">เมื่อถอนการติดตั้งแอปที่โคลนไว้ ข้อมูลแอปทั้งหมดจะถูกลบออก</string>
     <string name="xspace_uninstall_dialog_title">ถอนการติดตั้งแอปโคลน</string>

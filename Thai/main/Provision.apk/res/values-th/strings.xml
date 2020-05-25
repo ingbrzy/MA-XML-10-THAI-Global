@@ -6,7 +6,7 @@
     <string name="agree_terms">ฉันได้อ่านและยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวแล้ว</string>
     <string name="agree_terms_input_method_facemoji">ฉันได้อ่านและเห็นด้วยกับนโยบายความเป็นส่วนตัว Facemoji</string>
     <string name="agree_terms_input_method_kika">ฉันได้อ่านและเห็นด้วยกับนโยบายความเป็นส่วนตัว Kika</string>
-    <string name="ai_button_desc">ปุ่ม AI ช่วยให้คุณสามารถเรียกใช้ Mi AI และใช้ทางลัด Mi AI</string>
+    <string name="ai_button_desc">ปุ่ม AI ช่วยให้คุณสามารถเรียกใช้ Mi AI และใช้ปุ่มลัด Mi AI</string>
     <string name="ai_button_double_press">กดสองครั้ง</string>
     <string name="ai_button_double_press_desc">กดปุ่ม AI สองครั้งเพื่อเสร็จสิ้นงานที่กำหนดเอง</string>
     <string name="ai_button_long_press">กดค้าง</string>
@@ -31,7 +31,7 @@
     <string name="congratulation_swipe">ปัดขึ้นเพื่อเข้าสู่ระบบ</string>
     <string name="congratulation_title">ตั้งค่าเสร็จสิ้น</string>
     <string name="content_description_complete">เสร็จสมบูรณ์</string>
-    <string name="content_description_miui_version">MIUI 11</string>
+    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_start">เริ่มต้น</string>
     <string name="content_introduction">ศูนย์เนื้อหาจะรวมเนื้อหาและบริการจากหลายช่องทาง ที่นี่คุณสามารถ อ่านบทความ ดูวิดีโอ ดูรายการเด่นประจำวัน และรับคำแนะนำเนื้อหา</string>
     <string name="continue_to_enable_accessibility">แตะสองนิ้วค้างเพื่อเปิดใช้งานสิ่งอำนวยความสะดวก</string>
@@ -41,16 +41,16 @@
     <string name="desc_fingerprint">ใช้ลายนิ้วมือของคุณในการปลดล็อกเครื่อง ชำระเงินผ่าน Mi Pay หรือใช้เพื่อเข้าสู่ระบบของแอปหรือบริการต่างๆ</string>
     <string name="desc_international_fingerprint">ใช้ลายนิ้วมือของคุณในการปลดล็อกเครื่อง ลงชื่อเข้าสู่แอปหรือบริการต่างๆ</string>
     <string name="diagnose_report">ส่งข้อมูลการวินิจฉัยเพื่อค้นหาและวิเคราะห์ปัญหาของระบบและปรับปรุงประสบการณ์ผู้ใช้ ข้อมูลดังกล่าวอาจรวมถึงข้อมูลส่วนบุคคล (เช่น IP ที่ตั้ง ฯลฯ)</string>
-    <string name="disageement_abnormal_download">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัพโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้บริการนี้ได้</string>
+    <string name="disageement_abnormal_download">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้บริการนี้ได้</string>
     <string name="disagree">ยกเลิก</string>
-    <string name="disagreement_abnormal_running">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัพโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะไม่ใช้แอปนี้หรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว</string>
-    <string name="disagreement_donnot_use_application">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัพโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะไม่ใช้แอปนี้ในกรณีดังกล่าว</string>
-    <string name="disagreement_donnot_use_product">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัพโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้ผลิตภัณฑ์นี้ได้ คุณสามารถเลือกที่จะไม่ใช้ผลิตภัณฑ์นี้ในกรณีดังกล่าว</string>
-    <string name="disagreement_donnot_use_service">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัพโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้บริการนี้ได้ คุณสามารถเลือกที่จะไม่ใช้บริการนี้ในกรณีดังกล่าว</string>
-    <string name="disagreement_exit_app">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัพโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะลงชื่อออกหรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว</string>
-    <string name="disagreement_function">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัพโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้คุณลักษณะนี้ได้ คุณสามารถเลือกที่จะไม่ใช้คุณลักษณะนี้ในกรณีดังกล่าว</string>
-    <string name="disagreement_location_service">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัพโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้บริการนี้ได้</string>
-    <string name="disagreement_terminate_service">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัพโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะถอนการติดตั้ง ลงชื่อออก หรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว</string>
+    <string name="disagreement_abnormal_running">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะไม่ใช้แอปนี้หรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว</string>
+    <string name="disagreement_donnot_use_application">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะไม่ใช้แอปนี้ในกรณีดังกล่าว</string>
+    <string name="disagreement_donnot_use_product">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้ผลิตภัณฑ์นี้ได้ คุณสามารถเลือกที่จะไม่ใช้ผลิตภัณฑ์นี้ในกรณีดังกล่าว</string>
+    <string name="disagreement_donnot_use_service">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้บริการนี้ได้ คุณสามารถเลือกที่จะไม่ใช้บริการนี้ในกรณีดังกล่าว</string>
+    <string name="disagreement_exit_app">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะลงชื่อออกหรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว</string>
+    <string name="disagreement_function">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้คุณลักษณะนี้ได้ คุณสามารถเลือกที่จะไม่ใช้คุณลักษณะนี้ในกรณีดังกล่าว</string>
+    <string name="disagreement_location_service">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้บริการนี้ได้</string>
+    <string name="disagreement_terminate_service">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะถอนการติดตั้ง ลงชื่อออก หรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว</string>
     <string name="download_introduction">แอปนี้จัดการการดาวน์โหลดทั้งหมดของคุณรวมถึงสิ่งที่ทำใน GetApps, Mi วิดีโอ, ตัวอัพเดท, ธีม และ เบราว์เซอร์</string>
     <string name="enable_accessibility_canceled">ยกเลิกสิ่งอำนวยความสะดวกแล้ว</string>
     <string name="enable_accessibility_dialog_message">แตะสองนิ้วบนหน้าจอค้างไว้ 10 วิ เพื่อเปิด TalkBack, TalkBack ให้การตอบรับด้วยเสียงสำหรับผู้ที่มีความบกพร่องทางสายตา ถ้าคุณเปิดใช้งานโดยไม่ได้ตั้งใจให้แตะปุ่มยกเลิกแล้วแตะสองครั้งที่หน้าจอ</string>
@@ -76,6 +76,8 @@
     <string name="locale_picker_title">เลือกพื้นที่ของคุณ</string>
     <string name="location_introduction">บริการตามพื้นที่จะค้นหาผลิตภัณฑ์และบริการใกล้บ้านคุณ</string>
     <string name="lockscreen_introduction">ภาพพื้นหลังรายวันช่วยให้คุณได้รับภาพพื้นหลังใหม่ส่งมอบไปยังหน้าจอล็อคของคุณทุกวัน</string>
+    <string name="mint_keyboard_oobe_checkbox">ฉันได้อ่านและเห็นด้วยกับนโยบายความเป็นส่วนตัว แป้นพิมพ์ Mint</string>
+    <string name="mint_keyboard_oobe_terms">นโยบายความเป็นส่วนตัวของ แป้นพิมพ์ Mint</string>
     <string name="miui_privacy_policy_no_network">คุณไม่ได้เชื่อมกับต่ออินเตอร์เน็ต กรุณาอ่านนโยบายความเป็นส่วนตัวได้ที่ %s</string>
     <string name="miui_terms_no_network">คุณไม่ได้เชื่อมกับต่ออินเตอร์เน็ต กรุณาอ่านข้อตกลงและข้อตกลงการใช้งานได้ที่ %s</string>
     <string name="multisim_settings_category">ตั้งค่าซิมการ์ด</string>
@@ -128,7 +130,7 @@
     <string name="permission_login_introduction">สำหรับการลงชื่อเข้าใช้และจัดการบัญชีระบบ</string>
     <string name="permission_message_introduction">สำหรับส่งข้อความไปยังผู้ติดต่อที่ถูกบล็อก</string>
     <string name="permission_phone_imei_device">สำหรับการเข้าถึง IMEI เพื่อระบุอุปกรณ์</string>
-    <string name="permission_phone_network">สำหรับการเข้าถึงประเภทเครือข่ายเพื่อปรับแต่งและปรับรายการที่ดาวน์โหลดได้</string>
+    <string name="permission_phone_network">สำหรับการเข้าถึงประเภทเครือข่ายเพื่อเพิ่มประสิทธิภาพและปรับรายการที่ดาวน์โหลดได้</string>
     <string name="permission_phone_service">เข้าถึงหมายเลขโทรศัพท์, IMEI และ IMSI:</string>
     <string name="permission_photo_introduction">สำหรับการบันทึกภาพลงในคลังภาพและสถานะการเผยแพร่</string>
     <string name="permission_photo_video">ถ่ายภาพและบันทึกวิดีโอ:</string>
@@ -203,7 +205,7 @@
     <string name="skip_gesture_guide_dialog_positive_btn">ตกลง</string>
     <string name="skip_gesture_guide_dialog_title">ท่าทางสัมผัสแบบเต็มหน้าจอ</string>
     <string name="skip_underline">ข้ามขั้นตอนนี้</string>
-    <string name="start_up_slogan">ชีวิตง่ายขึ้น</string>
+    <string name="start_up_slogan">แค่คุณโดยเฉพาะ</string>
     <string name="summary_not_set">ไม่ตั้งค่า</string>
     <string name="system_navigation_mode">โหมดนำทางระบบ</string>
     <string name="terms_of_use">ข้อตกลงและเงื่อนไข</string>
@@ -224,6 +226,9 @@
     <string name="terms_of_use_lable_default_input_method_kika">"
 
 คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ Kika ก่อนที่จะใช้คุณลักษณะนี้"</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
+คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ แป้นพิมพ์ Mint ก่อนที่จะใช้คุณลักษณะนี้"</string>
     <string name="terms_of_use_lable_gms">, Google Play services</string>
     <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
@@ -231,7 +236,7 @@
     <string name="terms_privacy_policy_input_method_kika">นโยบายความเป็นส่วนตัว Kika</string>
     <string name="title_fingerprint">ตั้งรหัสผ่าน</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
-    <string name="user_agreement_declare">ก่อนที่จะใช้ MIUI คุณต้องอ่านและยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเรา ในขณะที่อุปกรณ์ของคุณกำลังเปิดใช้งาน การเปิดใช้งานบริการ Mi SIM, Xiaomi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, วลีที่ใช้บ่อย, บริการแปลภาษา, MIUI Daemon, ตัวเรียกดู HTML, ผู้ช่วย AI, แบตเตอรี่และประสิทธิภาพ, ตัวตรวจจับพลังงาน, Joyose, การตั้งค่า OS AI และ ตัวอัพเดท จะเชื่อมต่อกับเครือข่าย บริการอัจฉริยะ จะเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณ</string>
+    <string name="user_agreement_declare">ก่อนที่จะใช้ MIUI คุณต้องอ่านและยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเรา ในขณะที่อุปกรณ์ของคุณกำลังเปิดใช้งาน การเปิดใช้งานบริการ Mi SIM, Xiaomi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, วลีที่ใช้บ่อย, บริการแปลภาษา, MIUI Daemon, ตัวเรียกดู HTML, ผู้ช่วย AI, แบตเตอรี่และประสิทธิภาพ, ตัวตรวจจับพลังงาน, Joyose, การตั้งค่า OS AI, ตัวจัดการการอนุญาต และ ตัวอัปเดต จะเชื่อมต่อกับเครือข่าย บริการอัจฉริยะ จะเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณ</string>
     <string name="voice_assist_advice">Mi AI อณุญาตให้คุณใช้การควบคุมด้วยเสียง แต่จะใช้พลังงานมากกว่าเดิม (+1% ทุกชั่วโมง)</string>
     <string name="voice_assist_condition">"คุณจะสามารถใช้งาน Mi AI ได้ในกรณี:r
 1. เมื่อหน้าจอเปิดอยู่r

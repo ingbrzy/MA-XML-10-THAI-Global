@@ -7,7 +7,7 @@
     <string name="casting_tips">กำลังฉายภาพ…</string>
     <string name="console_guide_btn_got_it">รับทราบ</string>
     <string name="console_guide_subtitle_hang_up">คุณสามารถฉายภายต่อได้เมื่อหน้าจออุปกรณ์ปิดอยู่ คุณสมบัตินี้จะลดการใช้พลังงาน</string>
-    <string name="console_guide_subtitle_private">ไม่แสดง การแจ้งเตือนหน้าต่างลอย สายเรียกเข้า และรายการส่วนตัวอื่นๆ บนจอภาพภายนอก</string>
+    <string name="console_guide_subtitle_private">ไม่แสดง การแจ้งเตือนแบบลอย สายเรียกเข้า และรายการส่วนตัวอื่นๆ บนจอภาพภายนอก</string>
     <string name="console_guide_subtitle_small_window">ย่อหน้าต่างที่กำลังใช้งานเพื่อให้สามารถใช้คุณสมบัติอื่นๆ ของโทรศัพท์ของคุณได้</string>
     <string name="dialog_can_not_find_device">ไม่พบอุปกรณ์ใกล้ๆ</string>
     <string name="dialog_cancle">ยกเลิก </string>
@@ -17,6 +17,7 @@
     <string name="dialog_connect_verify_perssion_fail">ไม่สามารถอนุญาตการส่งทางทีวีของคุณ รอสักครู่หรือสองนาทีแล้วลองอีกครั้ง</string>
     <string name="dialog_connected">เชื่อมต่อแล้ว</string>
     <string name="dialog_connecting">กำลังเชื่อมต่อ…</string>
+    <string name="dialog_nfc_cast_wifi_off">เปิด Wi-Fi เพื่อให้สามารถฉายภาพโดยใช้ NFC ได้ เปิดใช้ตอนนี้หรือไม่?</string>
     <string name="dialog_ok">ตกลง</string>
     <string name="dialog_only_suport_content">สตรีมรูปภาพ วิดีโอ หรือเพลง</string>
     <string name="dialog_open_wifi_bt">เปิดใช้งาน</string>
@@ -41,6 +42,11 @@
     <string name="help_page_text_05">ขั้นตอนที่ 1: ตรวจสอบอุปกรณ์และสภาพแวดล้อมเครือข่ายของคุณ</string>
     <string name="help_page_text_06">"1. คุณไม่จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตหากคุณต้องการส่งบางอย่างจากโทรศัพท์ Mi ไปยัง Mi TV
 2. หากคุณไม่สามารถสร้างการเชื่อมต่อระหว่างอุปกรณ์ทั้งสองให้ลองเชื่อมต่อทั้งสองอุปกรณ์เข้ากับเครือข่าย Wi-Fi เดียวกัน"</string>
+    <string name="help_page_text_06_global">"1. Mi ทีวี, Mi Box และ Mi Projector:
+เชื่อมต่อทั้งโทรศัพท์และจอภาพภายนอกของคุณเข้ากับเครือข่าย Wi-Fi เดียวกันเพื่อประสิทธิภาพที่ดีที่สุด หากพวกเขาเชื่อมต่อกับเครือข่ายที่แตกต่างกันอาจต้องใช้เวลามากขึ้นในการค้นหาจอภาพภายนอกและเชื่อมต่อ
+หมายเหตุ: ทีวี Mi รุ่นเก่าอาจไม่รองรับการส่งสัญญาณข้ามเครือข่ายที่แตกต่างกัน
+2. หากคุณใช้ทีวี กล่องรับสัญญาณ หรือโปรเจคเตอร์ของแบรนด์อื่นๆ ให้เชื่อมต่อทั้งโทรศัพท์และจอภาพภายนอกของคุณเข้ากับเครือข่าย Wi-Fi เดียวกัน
+หากอุปกรณ์ทั้งสองไม่สามารถเชื่อมต่อกับเครือข่ายเดียวกันให้เปิด Miracast บนจอภาพภายนอกของคุณ ชื่อฟังก์ชั่น Miracast อาจแตกต่างกันไป"</string>
     <string name="help_page_text_08">ขั้นตอนที่ 2: เปิดการฉายภาพ</string>
     <string name="help_page_text_09">แตะ \"ส่ง\" ในแถบแจ้งเตือนของโทรศัพท์ เปิด Wi-Fi และบลูทูธเพื่อการเชื่อมต่อที่เสถียรยิ่งขึ้น</string>
     <string name="help_page_text_10">หากคุณต้องการส่งรายการจากคลังภาพหรือวิดีโอ Mi คุณสามารถใช้ฟีเจอร์การฉายภาพในตัวในแอปเหล่านี้</string>
@@ -87,7 +93,7 @@
     <string name="help_page_text_40">ขั้นแรกตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณรองรับ Miracast บางรุ่นสามารถเลือกได้โดยเลือก แอป > Screen Mirroring</string>
     <string name="help_page_text_41">ฝ่ายรองรับลูกค้า Panasonic: 400-881-1315</string>
     <string name="help_page_text_42">Changhong</string>
-    <string name="help_page_text_43">ขั้นแรกตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณรองรับ Miracast บางรุ่นสามารถเลือกได้โดยเลือก ระบบ > เครื่องมือระบบ > หลายหน้าจอ > Screen Mirroring</string>
+    <string name="help_page_text_43">ตรวจสอบการตั้งค่าทีวีของคุณเพื่อให้แน่ใจว่าจอภาพภายนอกของคุณรองรับฟังก์ชั่น Miracast</string>
     <string name="help_page_text_44">ฝ่ายรองรับลูกค้า Changhong: 400-811-1666</string>
     <string name="help_page_text_45">TCL</string>
     <string name="help_page_text_46">ขั้นแรกตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณรองรับ Miracast บางรุ่นสามารถเลือกได้โดยเลือก แอป > จอแสดงผลแบบไร้สาย</string>
@@ -103,13 +109,14 @@
     <string name="help_page_text_55_global">"หากคุณไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบให้แน่ใจว่าจอภาพภายนอกของคุณรองรับฟังก์ชั่น Miracast และเปิดอยู่ ในบางรุ่นคุณสมบัตินี้เรียกว่า จอแสดงผลแบบไร้สาย, Screen Mirroring หรือหลายหน้าจอ
 4. หากคุณพบปัญหาใดๆ คุณสามารถรายงานปัญหาโดยใช้แอป \"บริการและข้อเสนอแนะ\" ของเรา"</string>
     <string name="help_page_text_end">หากแบรนด์ของอุปกรณ์ของคุณไม่อยู่ในรายการที่นี่ ติดต่อผู้ผลิตเพื่อเรียนรู้เพิ่มเติมเกี่ยวกับฟังก์ชั่นการส่งสัญญาณ</string>
+    <string name="nfc_connect_failed_toast">ไม่สามารถฉายภาพได้ โปรดลองอีกครั้ง</string>
     <string name="notification_rc_title">ผู้ช่วย XiaoMi TV</string>
     <string name="notification_show_more">แตะเพื่อดูคุณสมบัติเพิ่มเติม</string>
     <string name="privacy_agree">ยอมรับ</string>
     <string name="privacy_text_1">"&lt;Data>ยินดีต้อนรับสู่การฉายภาพ! การฉายภาพช่วยให้ฉายรายการจากหน้าจอโทรศัพท์ของคุณไปบนจอภาพภายนอกที่ใหญ่กว่า
 เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง คุณลักษณะบางอย่างจัดทำโดยผู้ให้บริการบุคคลที่สาม HappyCast ก่อนที่จะใช้คุณสมบัตินี้ให้อ่านและยอมรับ &lt;a href=%2$s>คำชี้แจงทางกฎหมาย HappyCast&lt;/a> และ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว HappyCast&lt;/a>
 เพื่อให้สามารถทำงานได้ตามปกติ แอปนี้ต้องเชื่อมต่ออินเทอร์เน็ตและต้องได้รับการอนุญาตดังต่อไปนี้พื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;/Data>"</string>
-    <string name="privacy_text_2">"&lt;Data>หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัพโหลดข้อมูลส่วนตัวของคุณคุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว
+    <string name="privacy_text_2">"&lt;Data>หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณคุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว
 อ่านและยอมรับ &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ก่อนที่จะใช้คุณสมบัตินี้&lt;/Data>"</string>
     <string name="privacy_text_pemission">"　　•เข้าถึงและบันทึกรูปภาพบนอุปกรณ์ของคุณเพื่อฉายรายการเหล่านี้บนจอภาพภายนอก
 　　•บันทึกการโทรและเสียงเพื่อส่งสัญญาณเสียงไปยังอุปกรณ์ภายนอก
@@ -121,13 +128,15 @@
     <string name="san_wait_msg_3">ค้นหาอุปกรณ์ภายนอกได้ง่ายกว่าเมื่อเชื่อมต่อกับเครือข่ายเดียวกันกับโทรศัพท์ของคุณ</string>
     <string name="san_wait_msg_4">ดู \"ช่วยเหลือ\" หากคุณไม่พบอุปกรณ์</string>
     <string name="small_window">ย่อหน้าต่าง</string>
+    <string name="small_window_not_supported">ไม่สามารถย่อขนาดแอปนี้ได้ในขณะที่กำลังฉายภาพ</string>
     <string name="status_bar_in_casting">กำลังฉายภาพ…</string>
     <string name="status_bar_in_casting_long">แตะเพื่อดูคุณสมบัติการฉายภาพเพิ่มเติม</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tile_label">ฉายภาพ</string>
     <string name="toast_guide_show_more">เรียนรู้เพิ่มเติม</string>
     <string name="toast_guide_title">สำรวจคุณสมบัติใหม่ของเราที่นี่</string>
     <string name="toast_msg_for_multi_window">ไม่สามารถใช้คุณลักษณะนี้กับหน้าจอแยก</string>
     <string name="toast_msg_for_small_window">คุณสามารถย่อขนาดหน้าต่างที่กำลังฉายภาพเพื่อให้สามารถใช้คุณสมบัติอื่นๆ ของโทรศัพท์ของคุณได้โดยไม่รบกวนกระบวนการส่งสัญญาณ</string>
+    <string name="toast_nfc_dont_move">ห้ามขยับโทรศัพท์ออก</string>
     <string name="toast_title_for_small_window">เลือก \"ย่อขนาดหน้าต่าง\" ในแอป</string>
+    <string name="toast_turn_off_hotspot_before_cast">ปิดฮอตสปอตแบบพกพาก่อนที่จะฉายภาพ</string>
 </resources>
