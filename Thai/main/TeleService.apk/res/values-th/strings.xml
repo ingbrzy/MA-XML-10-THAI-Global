@@ -937,7 +937,6 @@
     <string name="private_dns_mode_provider_failure">เชื่อมต่อไม่ได้</string>
     <string name="private_dns_mode_provider_hostname_hint">ป้อนชื่อโฮสต์ของผู้ให้บริการ DNS</string>
     <string name="private_num">เลขหมายส่วนตัว</string>
-    <string name="process_kernel_label">ระบบปฏิบัติการ Android</string>
     <string name="progress_dialog_exiting_ecm">กำลังออกจากโหมดติดต่อกลับฉุกเฉิน</string>
     <string name="proxy_address_title">ที่อยู่พร็อกซีขาออก</string>
     <string name="pstn_connection_service_label">ซิมการ์ดในตัว</string>
@@ -1173,7 +1172,6 @@
     <string name="time_end_minute">นาทีสิ้นสุด</string>
     <string name="time_formate_am">AM</string>
     <string name="time_formate_pm">PM</string>
-    <string name="time_interval_char">:</string>
     <string name="time_next_day">" วันถัดไป "</string>
     <string name="time_start">" จาก "</string>
     <string name="time_start_hour">ชั่วโมงเริ่มต้น</string>
@@ -1211,7 +1209,6 @@
     <string name="tts_status_ok">สนับสนุน%1$sอย่างสมบูรณ์</string>
     <string name="tts_status_requires_network">ต้องมีการเชื่อมต่อเครือข่ายสำหรับ%1$s</string>
     <string name="tts_status_title">สถานะของภาษาเริ่มต้น</string>
-    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="tty_mode_not_allowed_video_call">การเปลี่ยนแปลงโหมด TTY ไม่ได้รับอนุญาตในระหว่างใช้วิดีโอคอล</string>
     <string name="tty_mode_option_summary">ตั้งค่าโหมด TTY</string>
     <string name="tty_mode_option_title">โหมด TTY</string>
@@ -1251,7 +1248,6 @@
     <string name="voicemail">ฝากข้อความเสียง</string>
     <string name="voicemail_abbreviated">VM:</string>
     <string name="voicemail_change_pin_dialog_title">เปลี่ยนรหัส PIN</string>
-    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_default">ผู้ให้บริการของคุณ</string>
     <string name="voicemail_notifications_preference_title">การแจ้งเตือน</string>
     <string name="voicemail_number_not_set">&lt;ไม่ได้ตั้งค่า></string>
@@ -1260,7 +1256,6 @@
     <string name="voicemail_settings">ติดตั้ง</string>
     <string name="voicemail_settings_number_label">เลขหมายข้อความเสียง</string>
     <string name="voicemail_settings_with_label">ข้อความเสียง (%s)</string>
-    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="voicemail_visual_voicemail_switch_title">ข้อความเสียงพร้อมภาพ</string>
     <string name="vpn_settings_not_available">การตั้งค่า VPN ไม่สามารถใช้ได้สำหรับผู้ใช้รายนี้</string>
     <string name="vvm_unsupported_message_format">ไม่รองรับประเภทของข้อความนี้ กรุณาโทร %s เพื่อฟัง</string>
@@ -1270,7 +1265,6 @@
 "</string>
     <string name="wifi_ap_unable_to_handle_new_sta">จุดเข้าใช้งานเต็มชั่วคราว</string>
     <string name="wifi_calling">โทร Wi-Fi</string>
-    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">โทร Wi-Fi</string>
     <string name="wifi_cant_connect">ไม่สามารถเชื่อมต่อ</string>
     <string name="wifi_cant_connect_to_ap">ไม่สามารถเชื่อมต่อกับ \"%1$s\"</string>

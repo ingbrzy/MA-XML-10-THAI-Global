@@ -17,7 +17,6 @@
     <string name="connectio_delay_content">คุณอาจต้องยืนยันการเชื่อมต่อบนเครื่องพิมพ์ของคุณ</string>
     <string name="connectio_help_title">กำลังเชื่อมต่อกับเครื่องพิมพ์</string>
     <string name="could_not_create_file">ไม่สามารถสร้างไฟล์ได้</string>
-    <string name="current_page_template">%1$d/%2$d</string>
     <string name="delete_saved_printer_content">ลบเครื่องพิมพ์ที่เลือกไว้?</string>
     <string name="destination_default_text">เลือกเครื่องพิมพ์</string>
     <string name="disabled_services_title">บริการที่ปิดใช้</string>
@@ -86,7 +85,6 @@
     <string name="printer_busy">เครื่องพิมพ์ไม่ว่าง</string>
     <string name="printer_error">เครื่องพิมพ์เกิดข้อผิดพลาด</string>
     <string name="printer_error_msg">เครื่องพิมพ์เกิดข้อผิดพลาด: %1$s</string>
-    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">ข้อมูลเพิ่มเติมเกี่ยวกับเครื่องพิมพ์นี้</string>
     <string name="printer_notification_error_title">ไม่สามารถพิมพ์ได้ %1$s</string>
     <string name="printer_unavailable">เครื่องพิมพ์ไม่สามารถใช้งานได้</string>
