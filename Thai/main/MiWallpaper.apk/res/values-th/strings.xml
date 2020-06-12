@@ -29,14 +29,20 @@
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="actionbar_button_up_description">ย้อนกลับ</string>
     <string name="afternoon">บ่าย</string>
+    <string name="already_newest_version">เวอร์ชั่นปัจจุบันเป็นเวอร์ชั่นล่าสุดแล้ว</string>
     <string name="am">AM</string>
+    <string name="cancel_download">ยกเลิกดาวน์โหลดแล้ว</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="copy">คัดลอก</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
+    <string name="download_failed">ไม่สามารถดาวน์โหลดได้</string>
     <string name="early_morning">เช้า</string>
+    <string name="earth_summary">โลกเป็นแหล่งกำเนิดของอารยธรรมมนุษย์</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">หน้าแรก</string>
     <string name="empty" />
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
@@ -81,6 +87,24 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="install_failed">ไม่สามารถติดตั้งได้</string>
+    <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_title_0">"เขต Nilosyrtis
+Mensae"</string>
+    <string name="mars_position_title_1">Gale Crater</string>
+    <string name="mars_position_title_2">"Crater in
+Mawrth Vallis"</string>
+    <string name="mars_summary">ทะเลทรายอันกว้างใหญ่ของดาวอังคารทำให้มนุษยชาติตกตะลึงอยู่เสมอ</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">ดาวเคราะห์สีแดง</string>
     <string name="midnight">กลางคืน</string>
     <string name="miuix_appcompat_cloud_state_disabled">การซิงค์กับคลาวด์ถูกปิด</string>
     <string name="miuix_appcompat_cloud_state_finished">ซิงค์กับคลาวด์เรียบร้อยแล้ว</string>
@@ -127,6 +151,8 @@
     <string name="more">เพิ่มเติม</string>
     <string name="morning">เช้า</string>
     <string name="night">เย็น</string>
+    <string name="no_cta_agreed">GetApps ไม่มีสิทธิ์ CTA</string>
+    <string name="no_install_permission">คุณไม่ได้รับอนุญาตให้ติดตั้งรายการนี้</string>
     <string name="noon">เที่ยงวัน</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="pm">PM</string>
@@ -134,12 +160,22 @@
     <string name="saturday">วันเสาร์</string>
     <string name="saturday_short">เสาร์</string>
     <string name="saturday_shortest">เสาร์</string>
+    <string name="saturn_summary">วงแหวนของดาวเสาร์สร้างปรากฏการณ์ที่น่าทึ่งที่สุดในระบบสุริยะ</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">วงแหวนที่ห่างไกล</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
+    <string name="super_wallpaper_list_label">ภาพพื้นหลังความละเอียดสูง</string>
+    <string name="super_wallpaper_setting_apply_success_toast">ใช้งานเรียบร้อยแล้ว</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">ใช้งาน</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">เลือกตำแหน่ง</string>
+    <string name="super_wallpaper_setting_coordinate_title">พิกัด</string>
+    <string name="super_wallpaper_setting_view_height_title">ความสูง</string>
+    <string name="task_already_exist">งานนี้มีอยู่แล้ว</string>
     <string name="the_anniversary_of_lifting_martial_law">วันฉลองยกเลิกอัยการศึก</string>
     <string name="the_anti_aggression_day">วันต่อต้านการกระทำรุนแรง</string>
     <string name="the_arbor_day">วันอาร์เบอร์</string>
@@ -191,8 +227,19 @@
     <string name="tuesday">วันอังคาร</string>
     <string name="tuesday_short">อังคาร</string>
     <string name="tuesday_shortest">อังคาร</string>
+    <string name="update">อัปเดต</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+    <string name="wallpaper_setting_find_more_text">ภาพพื้นหลังออนไลน์เพิ่มเติม</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">หน้าจอหลัก</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">หน้าจอล็อก</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">ภาพพื้นหลังออนไลน์</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">ค้นหาภาพพื้นหลัง</string>
+    <string name="wallpaper_setting_online_wallpaper_title">ภาพพื้นหลังออนไลน์</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">ภาพพื้นหลังความละเอียดสูง</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">เพิ่มเติม</string>
+    <string name="wallpaper_setting_title">ภาพพื้นหลัง</string>
     <string name="wednesday">วันพุธ</string>
     <string name="wednesday_short">พุธ</string>
     <string name="wednesday_shortest">พุธ</string>

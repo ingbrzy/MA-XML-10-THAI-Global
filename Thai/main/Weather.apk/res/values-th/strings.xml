@@ -61,6 +61,14 @@
     <string name="exo_track_surround_7_point_1">7.1 เสียงเซอร์ราวด์</string>
     <string name="exo_track_unknown">ไม่ทราบ</string>
     <string name="expand_button_title">ขั้นสูง</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ปล่อยเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">รอสักครู่…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ไม่สามารถโหลดรายการได้</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="search_menu_title">ค้นหา</string>

@@ -97,6 +97,7 @@
     <string name="cancel">ยกเลิก</string>
     <string name="channel_name_alarm">การปลุก</string>
     <string name="channel_name_sleep">นอนหลับ</string>
+    <string name="channel_name_stopwatch">นาฬิกาจับเวลา</string>
     <string name="channel_name_timer">ตัวจับเวลา</string>
     <string name="check_theme_app_install">ตรวจสอบว่ามีการติดตั้งแอปธีมในอุปกรณ์ของคุณแล้ว</string>
     <string name="check_voice_assist_app_version">อัปเดต Mi AI เป็นเวอร์ชั่นล่าสุด</string>
@@ -296,7 +297,7 @@
     <string name="ringtone_all">เสียงเรียกเข้าทั้งหมด</string>
     <string name="ringtone_dew">น้ำค้างยามเช้า</string>
     <string name="ringtone_digital_timer">นับถอยหลัง</string>
-    <string name="ringtone_dream">เดย์ดรีม</string>
+    <string name="ringtone_dream">ฝันกลางวัน</string>
     <string name="ringtone_firefly">หิ่งห้อย</string>
     <string name="ringtone_other">เสียงเรียกเข้าเพิ่มเติม</string>
     <string name="ringtone_weather">เตือนสภาพอากาศ</string>
@@ -325,6 +326,7 @@
     <string name="shutdown_alarm_enable_summary">เสียงปลุกจะดังหากตั้งไว้อย่างน้อย 10 นาทีหลังจากที่คุณปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="sleep_analysis">สถิติ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -367,11 +369,13 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_reset_notification">รีเซ็ตนาฬิกาจับเวลาแล้ว</string>
     <string name="stopwatch_running_notification">นาฬิกาจับเวลา</string>
     <string name="stopwatch_title">นาฬิกาจับเวลา</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตเพื่อเข้าถึงคุณสมบัติทั้งหมดได้</string>
     <string name="system_permission_main_purpose">ดูเวลา ตั้งค่าการเตือนและตัวจับเวลา โดยใช้นาฬิกาจับเวลา</string>
     <string name="system_permission_purpose">การสร้างการเตือนวันทำงานและการตั้งค่าเสียงเรียกเข้าที่กำหนดเอง</string>

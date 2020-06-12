@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ในครึ่งชั่วโมง</item>
+    </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">ทันที</item>
     </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">ใน %d นาที</item>
+    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ขณะนี้</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">ลบ %1$d รายชื่อ?</item>
@@ -51,6 +72,9 @@
     <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d เลขหมาย</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">Found %1$d รายการ</item>
     </plurals>
@@ -63,8 +87,23 @@
     <plurals name="hint_search_phone_numbers">
         <item quantity="other">%1$d เลขหมาย</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ในครึ่งชั่วโมง</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ทันที</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">ใน%d นาที</item>
+    </plurals>
     <plurals name="label_duplicate_count_plurals">
         <item quantity="other">(%1$d)</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">เมื่อสักครู่</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d รายชื่อ</item>
@@ -83,6 +122,9 @@
     </plurals>
     <plurals name="num_groups_in_account">
         <item quantity="other">%d กลุ่ม</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">คงเหลือ %1$d รายการ</item>

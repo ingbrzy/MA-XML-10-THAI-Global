@@ -140,8 +140,11 @@
     <string name="first_enter_custom_folder_hint">คุณสามารถเปลี่ยนชื่อ หรือลบโฟลเดอร์ต่อไปนี้</string>
     <string name="float_todo_guide_cancel">ยกเลิก</string>
     <string name="float_todo_guide_message">ปุ่มลัดหน้าจอหลักช่วยให้คุณปัดจากขอบหน้าจอเพื่อดูและสร้างงาน สร้างทางลัดตอนนี้?</string>
+    <string name="float_todo_guide_message_v2">ท่าทางลัดช่วยให้คุณสามารถดูและสร้างงานโดยปัดจากขอบของหน้าจอ คุณสามารถเปิดและปิดคุณสมบัตินี้ได้ในการตั้งค่า</string>
     <string name="float_todo_guide_ok">สร้าง</string>
+    <string name="float_todo_guide_ok_v2">เปิดใช้งาน</string>
     <string name="float_todo_guide_title">ปุ่มลัดหน้าจอหลัก</string>
+    <string name="float_todo_guide_title_v2">ท่าทางทางลัด</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -294,6 +297,7 @@
     <string name="note_sort_way">เลือกเรียงลำดับบันทึกย่อของคุณที่ต้องการ</string>
     <string name="notealert_enter">เปิดบันทึก</string>
     <string name="notealert_ok">เลิกแสดง</string>
+    <string name="notelist_string_info">…</string>
     <string name="notification_content_add_todo_from_other_app">คุณได้เพิ่มงานใหม่ แตะเพื่อดู</string>
     <string name="notify_alarm_title">การเตือนของบันทึกย่อ</string>
     <string name="permdesc_accessNote">แอปต้องสงสัยอาจใช้วิธีนี้ในการเข้าถึงข้อมูลส่วนบุคคลของคุณ</string>
@@ -313,7 +317,9 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">เลื่อนนิ้ว 2 นิ้วขึ้นเพื่อลบบันทึกย่อโดยไม่ต้องมีการยืนยัน</string>
     <string name="pref_desc_todo_float_mode">เลื่อนจากขอบของหน้าจอเพื่อเปิดกล่องเครื่องมืองาน</string>
     <string name="pref_remind_type_summary">เล่นเสียงเตือนในโหมดปิดเสียง</string>
+    <string name="pref_remind_type_summary_new">เพิกเฉยโหมดเงียบและเล่นเสียงต่อไปจนกว่าสัญญาณเตือนจะปิด</string>
     <string name="pref_remind_type_title">เพิกเฉยโหมดปิดเสียง</string>
+    <string name="pref_remind_type_title_new">การแจ้งเตือนที่มีลำดับความสำคัญสูง</string>
     <string name="pref_title_cloud_trash_bin">ลบบันทึกย่อในคลาวด์แล้ว</string>
     <string name="pref_title_common">การตั้งค่าเพิ่มเติม</string>
     <string name="pref_title_font_size">ขนาดอักษร</string>
@@ -473,6 +479,7 @@
     <string name="toast_reach_text_limit_truncate">บันทึกย่อนี้ยาวเกินไป ข้อความบางส่วนได้ถูกตัดออก</string>
     <string name="toast_refuse_to_record_when_in_call">ไม่สามารถใช้คุณลักษณะนี้ในระหว่างการโทรได้</string>
     <string name="toast_refuse_to_record_when_in_multi_window">ไม่สามารถใช้คุณลักษณะนี้กับหน้าจอแยก</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">ไม่สามารถใช้คุณสมบัตินี้ได้ในหน้าจอแยกหรือหน้าต่างลอย</string>
     <string name="toast_refuse_to_use_contact">"สิทธิ์ในการติดต่อถูกจำกัด
 อนุญาตให้ บันทึกย่อ อ่านผู้ติดต่อของคุณและค้นหาบัญชีในอุปกรณ์"</string>
     <string name="toast_refuse_to_use_external_storage">"สิทธิ์ในการจัดเก็บข้อมูลถูกจำกัด
@@ -556,6 +563,7 @@
     <string name="toolbar_voice_description">เสียง</string>
     <string name="trash_folder_name">ขยะ</string>
     <string name="trash_folder_reminder">บันทึกย่อที่คุณลบจะลบอย่างถาวรใน 30 วัน</string>
+    <string name="trash_folder_reminder_new">Notes are kept in the trash for 30 days before being permanently deleted</string>
     <string name="tuesday">วันอังคาร</string>
     <string name="tuesday_short">อังคาร</string>
     <string name="tuesday_shortest">อังคาร</string>

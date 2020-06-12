@@ -24,6 +24,9 @@
     <plurals name="search_alll_records_hint">
         <item quantity="other">ค้นหาใน %d การบันทึก</item>
     </plurals>
+    <plurals name="search_app_records_hint">
+        <item quantity="other">Search among %d recordings</item>
+    </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">ค้นหาใน %d บันทึกการโทร</item>
     </plurals>

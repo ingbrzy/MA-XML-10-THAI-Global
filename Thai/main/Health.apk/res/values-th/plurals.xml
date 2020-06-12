@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ในครึ่งชั่วโมง</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ทันที</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">ใน %d นาที</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">เมื่อสักครู่</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+    </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d times</item>
     </plurals>
@@ -45,11 +72,29 @@
     <plurals name="goal_unit_with_number">
         <item quantity="other">%1$d steps</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d hrs</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ในครึ่งชั่วโมง</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ทันที</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">ใน%d นาที</item>
+    </plurals>
     <plurals name="length_unit_meter_format">
         <item quantity="other">%1$d เมตร</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">เมื่อสักครู่</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">ประจำเดือน %1$d-วัน</item>
@@ -68,6 +113,9 @@
     </plurals>
     <plurals name="minutes_ago">
         <item quantity="other">%1$d mins ago</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="sleep_goal_by_hour">
         <item quantity="other">Goal: %1$d hours</item>

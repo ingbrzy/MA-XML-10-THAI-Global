@@ -128,6 +128,7 @@
     <string name="button_sort_by_date">เรียงตามวันที่</string>
     <string name="button_sort_by_size">เรียงตามขนาด</string>
     <string name="button_wait_for_wifi">รอ</string>
+    <string name="buy_vip_skip_ad">ลบโฆษณา</string>
     <string name="cancel">ยกเลิก</string>
     <string name="cancel_running_download">ยกเลิก</string>
     <string name="cannot_download_to_sdcard_hint">ไม่สามารถดาวน์โหลดรายการไปยังการ์ด SD ได้เนื่องจากข้อจำกัดทางลิขสิทธิ์ รายการจะถูกดาวน์โหลดไปยังที่เก็บข้อมูลภายในแทน</string>
@@ -271,7 +272,9 @@
     <string name="download_method">ดาวน์โหลด</string>
     <string name="download_no_application_title">ไม่สามารถเปิดไฟล์ได้</string>
     <string name="download_paused_in_power_save_mode">การดาวน์โหลดจะถูกหยุดขณะอยู่ในโหมดประหยัดแบตเตอรี่</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">กำลังดาวน์โหลด…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">คุณภาพการดาวน์โหลด</string>
     <string name="download_quality_summary">การตั้งค่าเพิ่มเติมสำหรับเพลงที่ดาวน์โหลด</string>
     <string name="download_queued">อยู่ในคิวแล้ว</string>
@@ -352,7 +355,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -457,6 +462,46 @@
     <string name="is_scanning">กำลังตรวจสอบพื้นที่จัดเก็บ</string>
     <string name="is_scanning_support_online">"กำลังตรวจสอบที่จัดเก็บ…
 (ระหว่างรอคุณสามารถฟังเพลงออนไลน์ได้)"</string>
+    <string name="joox_account_bind_mi_account">เพิ่มบัญชี Mi</string>
+    <string name="joox_account_cancel_login">ยกเลิก</string>
+    <string name="joox_account_continue_login">ลงชื่อเข้าใช้</string>
+    <string name="joox_account_fans_center">ศูนย์แฟน</string>
+    <string name="joox_account_login_conflict_message">ดูเหมือนว่าคุณลงชื่อเข้าใช้ในอุปกรณ์อื่น เข้าสู่ระบบที่นี่?</string>
+    <string name="joox_account_login_exception">ลงชื่อเข้าใช้อีกครั้ง</string>
+    <string name="joox_account_multi_device_login">หลายอุปกรณ์</string>
+    <string name="joox_area_check_failed">ดูเหมือนว่าคุณอยู่ในพื้นที่ที่ไม่มีบริการของเรา เชื่อมต่อกับเครือข่ายอื่นและเปิดใช้แอปอีกครั้ง</string>
+    <string name="joox_auth_button_acquire_vip_instantly">รับสมาชิก VIP</string>
+    <string name="joox_auth_button_login_to_acquire_vip">เข้าสู่ระบบเพื่อรับสมาชิก VIP</string>
+    <string name="joox_auth_dialog_message">เราแนะนำเพลงให้คุณ รับสมาชิก VIP เพื่อยกเลิกข้อจำกัด</string>
+    <string name="joox_auth_message_connect_network">ไม่ได้เชื่อมต่อกับเซิร์ฟเวอร์มาซักพัก เชื่อมต่อกับเครือข่ายเพื่อให้สามารถเล่นเพลงที่ดาวน์โหลดได้</string>
+    <string name="joox_auth_message_content_for_vip_only">รายการนี้ใช้ได้เฉพาะกับสมาชิก VIP เท่านั้น</string>
+    <string name="joox_auth_message_content_offline">บริการออนไลน์ไม่พร้อมให้บริการในขณะนี้ เราจะปรับปรุงสองสามสิ่งและเปิดการเข้าถึงอีกครั้งในไม่ช้า คอยติดตาม!</string>
+    <string name="joox_auth_message_login_status_expired">เซสชันการลงชื่อเข้าใช้หมดอายุแล้ว ลงชื่อเข้าใช้อีกครั้ง</string>
+    <string name="joox_auth_message_one_hour_limit_for_one_company">คุณสามารถเล่นเพลงได้สูงสุดหกเพลงจากค่ายเพลงเดียวกันทุกชั่วโมง ฟังเพลงที่แนะนำสำหรับตอนนี้</string>
+    <string name="joox_auth_message_recommend_for_you">แนะนำ</string>
+    <string name="joox_auth_message_update_vip_to_change_playlist">รับสมาชิก VIP เพื่อแก้ไขเพลย์ลิสต์</string>
+    <string name="joox_auth_message_update_vip_to_download">รับสมาชิก VIP เพื่อดาวน์โหลด</string>
+    <string name="joox_auth_message_update_vip_to_listen_offline">สมาชิก VIP ของคุณหมดอายุแล้ว คุณสามารถฟังเพลงออนไลน์ได้ในขณะนี้ รับสมาชิกวีไอพีเพื่อดาวน์โหลดเพลง</string>
+    <string name="joox_auth_message_update_vip_to_play_on_demand">ไม่สามารถเล่นเพลงนี้เนื่องจากข้อจำกัดทางลิขสิทธิ์ ลองเล่นแบบสลับเพื่อฟังเพลงอื่นหรือรับสมาชิก VIP เพื่อเล่นเพลงนี้</string>
+    <string name="joox_auth_message_update_vip_to_seek_progress">ไม่สามารถปรับความคืบหน้าการเล่นได้เนื่องจากข้อจำกัดทางลิขสิทธิ์ รับสมาชิก VIP เพื่อยกเลิกข้อจำกัด</string>
+    <string name="joox_auth_message_update_vip_to_switch_songs">รับสมาชิก VIP เพื่อสลับระหว่างเพลง</string>
+    <string name="joox_auth_message_update_vip_to_use_function">รับสมาชิก VIP เพื่อใช้คุณสมบัตินี้</string>
+    <string name="joox_auth_title_download_song">ดาวน์โหลดเพลง</string>
+    <string name="joox_auth_title_login_again">ลงชื่อเข้าใช้</string>
+    <string name="joox_auth_title_long_time_no_network">ดูเหมือนว่าคุณไม่ได้เชื่อมต่อกับเครือข่ายมาซักพัก</string>
+    <string name="joox_auth_title_shuffle_play">สลับ</string>
+    <string name="joox_auth_title_vip_content">เนื้อหา VIP</string>
+    <string name="joox_auth_title_vip_expired">สมาชิกหมดอายุแล้ว</string>
+    <string name="joox_auth_title_vip_function">คุณลักษณะ VIP</string>
+    <string name="joox_download_title">ดาวน์โหลด JOOX</string>
+    <string name="joox_privacy_desc">นโยบายความเป็นส่วนตัว JOOX (ตัวเลือก)</string>
+    <string name="joox_privacy_tips_content">อ่านและยอมรับ <a href="/link/click">นโยบายความเป็นส่วนตัวของ JOOX</a> ก่อนใช้บริการออนไลน์</string>
+    <string name="joox_privacy_tips_title">นโยบายความเป็นส่วนตัวของ JOOX</string>
+    <string name="joox_recommend_artist_title">ศิลปินแนะนำ</string>
+    <string name="joox_recommend_playlist_title">เพลย์ลิสต์ที่แนะนำ</string>
+    <string name="joox_search_result_more">เพิ่มเติม</string>
+    <string name="joox_vip_check_to_pay">ซื้อ</string>
+    <string name="joox_vip_expired_hint">สมาชิก VIP ของคุณหมดอายุแล้ว เพลงที่ดาวน์โหลดจาก JOOX จะแสดงในการดาวน์โหลดของคุณเท่านั้น</string>
     <string name="keep_queued_download">เก็บไว้</string>
     <string name="ktv_playlist">รายการเพลง KTV</string>
     <string name="language_page_confirm">ยืนยัน</string>
@@ -673,6 +718,7 @@
     <string name="priority_storage_summary">ดาวน์โหลดเก็บไว้ใน SD การ์ดภายนอกโดยอัตโนมัติถ้ามี</string>
     <string name="privacy_desc">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=th_TH</string>
     <string name="pro_member">สมาชิก PRO</string>
     <string name="project_device">โทรศัพท์ Mi</string>
     <string name="prompt_grant_write_settings_permission">อนุญาตให้มีการเปลี่ยนแปลงการตั้งค่าระบบ</string>
@@ -801,12 +847,14 @@
     <string name="start_to_check_new_version">กำลังตรวจสอบเพื่ออัปเดต…</string>
     <string name="start_to_download">กำลังดาวน์โหลด…</string>
     <string name="start_to_play">เล่น</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">ที่จัดเก็บข้อมูลแอปโคลน</string>
     <string name="storage_internal">ที่จัดเก็บภายใน</string>
     <string name="storage_sd_card">SD การ์ด</string>
     <string name="storage_usb">ที่จัดเก็บข้อมูล USB</string>
     <string name="streamloadingtext">กำลังเชื่อมต่อกับ %s</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
+    <string name="supplementary_songs">เพลงเพิ่มเติม</string>
     <string name="switch_success">สลับเรียบร้อยแล้ว</string>
     <string name="tab_album">อัลบั้ม</string>
     <string name="tab_album_list">อัลบั้ม</string>
@@ -877,6 +925,7 @@
     <string name="upgrade_music_message">ไฟล์อัปเดตพร้อมแล้ว รีสตาร์ทเพื่ออัปเดต</string>
     <string name="upgrading_in_backstage">กำลังอัปเดตในพื้นหลัง…</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=th_TH</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="version_info">เวอร์ชั่น</string>

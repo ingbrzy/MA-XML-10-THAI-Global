@@ -33,6 +33,8 @@
     <string name="alert_message_delete_record">การลบบันทึกเสียงออกจากอุปกรณ์ของคุณจะทำให้บันทึกเสียงใน Xiaomi คลาวด์ถูกลบออกเช่นกัน ต้องการลบหรือไม่?</string>
     <string name="alert_message_delete_record_title">ลบบันทึกเสียงหรือไม่?</string>
     <string name="app_name">บันทึกเสียง</string>
+    <string name="app_record">App recordings</string>
+    <string name="app_record_preference_title">App recordings</string>
     <string name="back">ย้อนกลับ</string>
     <string name="button_queue_for_wifi">คอย</string>
     <string name="button_start_now">ดาวน์โหลด</string>
@@ -237,6 +239,7 @@
     <string name="record_downloading_notification_count">กำลังดาวน์โหลด %d</string>
     <string name="record_format_preference_title">รูปแบบการบันทึก</string>
     <string name="record_list">ไฟล์เสียงที่บันทึกไว้</string>
+    <string name="record_list_app">App recordings</string>
     <string name="record_list_call">สายสนทนาที่บันทึกไว้</string>
     <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">บันทึกเสียงสนทนาที่ซิงค์ไว้</string>
