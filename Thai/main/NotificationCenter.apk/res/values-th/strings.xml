@@ -90,7 +90,6 @@
     <string name="search_menu_title">ค้นหา</string>
     <string name="settings_guide_title">ต้องการการตั้งค่าอื่นๆ?</string>
     <string name="show_badge_notifications">สัญลักษณ์แจ้งเตือน</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">แถบสถานะ</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="summary_disable_float_notification">ไม่อนุญาตให้ใช้การแจ้งเตือนแบบลอย</string>

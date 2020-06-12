@@ -118,7 +118,6 @@ dd/MM"</string>
 กำลังจะเกิดขึ้น"</string>
     <string name="standard_clock_panel">มาตรฐาน</string>
     <string name="standard_style">มาตรฐาน</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary">เพื่อลดการใช้พลังงาน รายการจะไม่ปรากฏขึ้นเมื่ออุปกรณ์ของคุณอยู่ในที่มืดเป็นเวลานาน</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="temporary_style">เป็นเวลา 10 วินาทีหลังจากแตะ</string>

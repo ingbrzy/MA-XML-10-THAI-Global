@@ -10,7 +10,6 @@
     <string name="download_queued">อยู่ในคิวแล้ว</string>
     <string name="download_remaining">เหลืออีก %s</string>
     <string name="download_running">กำลังดาวน์โหลด</string>
-    <string name="download_running_percent">กำลังดาวน์โหลด %s</string>
     <string name="download_unknown_title">&lt;ไม่มีชื่อ></string>
     <string name="notif_title_file_size">ทั้งหมด %1$d</string>
     <string name="notif_title_single_downloading">กำลังดาวน์โหลด %1$s</string>
