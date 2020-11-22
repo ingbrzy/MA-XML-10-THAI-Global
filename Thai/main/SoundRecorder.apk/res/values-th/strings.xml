@@ -33,8 +33,8 @@
     <string name="alert_message_delete_record">การลบบันทึกเสียงออกจากอุปกรณ์ของคุณจะทำให้บันทึกเสียงใน Xiaomi คลาวด์ถูกลบออกเช่นกัน ต้องการลบหรือไม่?</string>
     <string name="alert_message_delete_record_title">ลบบันทึกเสียงหรือไม่?</string>
     <string name="app_name">บันทึกเสียง</string>
-    <string name="app_record">App recordings</string>
-    <string name="app_record_preference_title">App recordings</string>
+    <string name="app_record">บันทึกแอป</string>
+    <string name="app_record_preference_title">บันทึกแอป</string>
     <string name="back">ย้อนกลับ</string>
     <string name="button_queue_for_wifi">คอย</string>
     <string name="button_start_now">ดาวน์โหลด</string>
@@ -127,6 +127,7 @@
     <string name="network_unavailable_tip">เชื่อมต่อเครือข่ายและลองอีกครั้ง</string>
     <string name="new_record_name">บันทึกใหม่</string>
     <string name="no_file">ว่าง</string>
+    <string name="no_network">"Couldn't connect to the network"</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="notification_message_all_paused">กำลังรอการเชื่อมต่อกับ Wi-Fi</string>
     <string name="notification_playback">กำลังเล่น…</string>
@@ -239,7 +240,7 @@
     <string name="record_downloading_notification_count">กำลังดาวน์โหลด %d</string>
     <string name="record_format_preference_title">รูปแบบการบันทึก</string>
     <string name="record_list">ไฟล์เสียงที่บันทึกไว้</string>
-    <string name="record_list_app">App recordings</string>
+    <string name="record_list_app">บันทึกแอป</string>
     <string name="record_list_call">สายสนทนาที่บันทึกไว้</string>
     <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">บันทึกเสียงสนทนาที่ซิงค์ไว้</string>
@@ -257,6 +258,9 @@
     <string name="recording_quality_low">คุณภาพต่ำ</string>
     <string name="recording_quality_standard">คุณภาพมาตรฐาน</string>
     <string name="recording_stopped">ขัดข้อง</string>
+    <string name="recovery">กู้คืน</string>
+    <string name="recovery_failed_dialog_button">รับทราบ</string>
+    <string name="recovery_failed_dialog_title">โปรดทราบ</string>
     <string name="reg_error_audio_exist">มีไฟล์นี้อยู่แล้ว</string>
     <string name="reg_error_audio_large">ไฟล์เสียงไม่สามารถใหญ่กว่า 500MB</string>
     <string name="reg_error_audio_short">ไฟล์เสียงมีขนาดเล็กไป</string>
@@ -275,6 +279,7 @@
     <string name="rename_no_more_tip">ไม่ต้องแสดงอีก</string>
     <string name="retry">ลองใหม่</string>
     <string name="runtime_permission_ungranted">ไม่สามารถใช้ตัวบันทึกเสียงได้เนื่องจากไม่ได้รับอนุญาต</string>
+    <string name="save_record_dialog_title">บันทึกไฟล์เสียง</string>
     <string name="search_app">บันทึกเสียง</string>
     <string name="search_empty">ไม่พบผลลัพธ์การค้นหา</string>
     <string name="search_enable_earpiece_title">ฟังเสียงที่บันทึกจากเครื่อง</string>
@@ -319,11 +324,14 @@
     <string name="text_play_speed_1_5">ความเร็วในการเล่น 1.5X</string>
     <string name="text_play_speed_2_0">ความเร็วในการเล่น 2X</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s สามารถบันทึกเสียงได้ประมาณ %2$s</string>
     <string name="toast_uninstall_fileexplorer">ไม่ได้ติดตั้งตัวจัดการไฟล์</string>
+    <string name="trash_box">รายการที่ถูกลบล่าสุด</string>
+    <string name="trash_box_close_tip">ปิดการสอบถามก่อน</string>
+    <string name="trash_box_delete_all">ลบรายการทั้งหมดจากถังขยะอย่างถาวรหรือไม่?</string>
     <string name="usage_description">กำลังทำสำเนารายการเสียงและซิงค์กับคลาวด์</string>
+    <string name="user_feedback">ข้อเสนอแนะ</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="webview_check_network">การตั้งค่าเครือข่าย</string>

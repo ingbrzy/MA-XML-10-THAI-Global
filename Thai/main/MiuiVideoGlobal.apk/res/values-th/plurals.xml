@@ -6,6 +6,9 @@
     <plurals name="feed_back_home">
         <item quantity="other">กำลังกลับไปที่หน้าหลักภายใน %1$d วินาที…</item>
     </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d ผู้ติดตาม</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">คำบรรยายจะแสดงก่อน %.1f วินาที</item>
     </plurals>
@@ -17,6 +20,9 @@
     </plurals>
     <plurals name="lv_video_count">
         <item quantity="other">%d วิดีโอ</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">เหลืออีก %s วินาที</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">เนื้อหาของคุณมีรายการ (%1$s) ที่ละเมิดมาตรฐานชุมชนของเรา บัญชีของคุณถูกระงับ %2$d วัน จนถึง %3$s.</item>
@@ -47,6 +53,15 @@
     </plurals>
     <plurals name="plus_serval_videos">
         <item quantity="other">%d วิดีโอ</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">แตะสองครั้งเพื่อย้อนกลับ %d วินาที</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">แตะสองครั้งเพื่อกรอไปข้างหน้า %d วินาที</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s วินาที</item>
     </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s ผู้สมัคร</item>

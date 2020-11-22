@@ -97,6 +97,14 @@ ID:%s
     <string name="just_a_second">รอสักครู่…</string>
     <string name="loading">รอสักครู่…</string>
     <string name="logout_account">ออกจากระบบ</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ปล่อยเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">รอสักครู่…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ไม่สามารถโหลดรายการได้</string>
     <string name="nick_name">ชื่อเล่น</string>
     <string name="no_account">ไม่ได้เข้าสู่ระบบ</string>
     <string name="no_phone">ไม่มีหมายเลขโทรศัพท์</string>
@@ -218,6 +226,7 @@ ID:%s
     <string name="sns_access_token_expired_warning">เซสชันสิ้นสุดลง กรุณาลงชื่อเข้าสู่ระบบอีกครั้งเพื่อเข้าสู่บัญชีนี้</string>
     <string name="sns_bind_limit">มีความพยายามมากเกินไป ลองวิธีอื่นๆ ในการลงชื่อเข้าใช้</string>
     <string name="sns_sign_in">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="temporary_not_available">คุณลักษณะนี้ยังไม่เปิดให้บริการ</string>
     <string name="ticket_hint">รหัสยืนยัน</string>
     <string name="ticket_invalid">รหัสที่คุณป้อนไม่ถูกต้อง</string>

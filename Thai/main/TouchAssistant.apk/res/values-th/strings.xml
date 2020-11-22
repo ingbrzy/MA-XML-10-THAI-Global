@@ -35,6 +35,11 @@
     <string name="close_panel">ปิดใช้งานเมนูลัด</string>
     <string name="copy">คัดลอก</string>
     <string name="customize_entries">เลือกปุ่มลัด</string>
+    <string name="edge_distance_pref_summary">แตะบริเวณที่ปลุกใกล้ขอบหน้าจอเพื่อให้ลูกบอลปรากฏอย่างรวดเร็ว</string>
+    <string name="edge_distance_pref_title">พื้นที่ตื่นนอน</string>
+    <string name="edge_mode_custom_summary">ปรับขนาดของพื้นที่ปลุกใกล้ขอบหน้าจอ</string>
+    <string name="edge_mode_custom_title">กำหนดเอง</string>
+    <string name="edge_mode_default_title">ค่าเริ่มต้น</string>
     <string name="enable_touch_assistant">เปิดใช้งานเมนูลัด</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="function_settings">การตั้งค่าปุ่มลัด</string>
@@ -67,6 +72,7 @@
     <string name="name_trans_cards">บัตรโดยสาร</string>
     <string name="name_wechat_payment_code">การชำระเงิน WeChat</string>
     <string name="name_wechat_scan">ตัวสแกน WeChat</string>
+    <string name="name_xiao_ai">Mi AI</string>
     <string name="nfc_all_mipay_card_not_in_use">ไม่สามารถเปิดใช้งาน Mi Pay</string>
     <string name="nfc_trans_card_not_in_use">ไม่สามารถเปิดใช้งานบัตรโดยสารได้</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>

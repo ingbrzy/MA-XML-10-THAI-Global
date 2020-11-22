@@ -83,6 +83,14 @@
     <string name="lasttime_applist_cloud">อัปเดตแอป:</string>
     <string name="lasttime_feature_cloud">อัปเดตคุณลักษณะ:</string>
     <string name="message_i_know">รับทราบ</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ปล่อยเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">รอสักครู่…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ไม่สามารถโหลดรายการได้</string>
     <string name="nonui_mode_config_description">ห้ามเปิดหน้าจอสำหรับการแจ้งเตือน, ปิดไฟ LED, เซ็นเซอร์ลายนิ้วมือและระบบควบคุมแบบสัมผัสเพื่อประหยัดแบตเตอรี่เมื่อ MIUI ตรวจพบว่าคุณไม่ได้ใช้อุปกรณ์</string>
     <string name="nonui_mode_config_title">โหมดไม่เป็นแบบโต้ตอบ</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>

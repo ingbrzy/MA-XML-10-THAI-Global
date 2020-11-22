@@ -36,6 +36,12 @@
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">เสียงเรียกเข้า %1$d ครั้ง</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d หมายเลขโทรศัพท์</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">ลบ %d หมายเลขโทรศัพท์?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d รายชื่อหรือรูปภาพซิงค์ไม่ได้</item>
     </plurals>
@@ -75,9 +81,6 @@
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">Found %1$d รายการ</item>
-    </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d รายชื่อ</item>
     </plurals>
@@ -111,23 +114,14 @@
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d รายชื่อที่มีข้อมูลเหมือนกันบางส่วน</item>
     </plurals>
-    <plurals name="merge_info">
-        <item quantity="other">รวมจาก %0$d แหล่ง</item>
-    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">ถูกเลือก %1$d รายการ</item>
     </plurals>
     <plurals name="num_contacts_in_group">
         <item quantity="other">%1$d คนจาก %2$s</item>
     </plurals>
-    <plurals name="num_groups_in_account">
-        <item quantity="other">%d กลุ่ม</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
-    </plurals>
-    <plurals name="number_of_items_available">
-        <item quantity="other">คงเหลือ %1$d รายการ</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">" %1$d ถูกเลือก"</item>
@@ -146,6 +140,9 @@
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">พบ %d</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s ผลลัพธ์</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">เลือกได้ไม่เกิน %1$d ไม่สามารถเลือกทั้งหมดได้</item>

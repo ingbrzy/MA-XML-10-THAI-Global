@@ -46,8 +46,8 @@
     <string name="passport_trust_device">เชื่อถืออุปกรณ์นี้</string>
     <string name="passport_vcode_prompt_long">ป้อนรหัสยืนยัน</string>
     <string name="passport_verify">ยืนยัน</string>
-    <string name="password">รหัสผ่าน</string>
-    <string name="phone_locked">อุปกรณ์นี้ผูกไว้กับบัญชี Mi (%s) กรุณาลงชื่อเข้าสู่ระบบเพื่อเปิดใช้งานอุปกรณ์นี้</string>
+    <string name="password">ป้อนรหัสผ่าน</string>
+    <string name="phone_locked">อุปกรณ์นี้เชื่อมโยงกับบัญชี Mi (%s) ป้อนรหัสผ่านเพื่อเปิดใช้งานอุปกรณ์</string>
     <string name="phone_locked_account_email">, อีเมลที่เกี่ยวข้อง: %s</string>
     <string name="phone_locked_account_phone">, หมายเลขโทรศัพท์ที่เกี่ยวข้อง: %s</string>
     <string name="return_to_call">กลับไปยังการโทร</string>
@@ -74,14 +74,14 @@
     <string name="unlock_error_unknown">ไม่สามารถลงชื่อเข้าใช้งานได้</string>
     <string name="unlock_error_user_name">ชื่อผู้ใช้ไม่ถูกต้อง</string>
     <string name="unlock_error_wrong_vcode">รหัสที่คุณป้อนไม่ถูกต้อง</string>
-    <string name="unlock_help">"เชื่อมต่อเครือข่ายไว้ตลอดเวลา
-ตรวจสอบให้แน่ใจว่าใส่ซิมการ์ดที่ใช้งานได้(หากอุปกรณ์ของคุณรองรับ) และเครื่องไม่ได้เชื่อมต่อกับ Wi-Fi ที่ช้าหรือใช้งานไม่ได้
+    <string name="unlock_help">"เชื่อมต่อกับเครือข่าย
+ใส่ซิมการ์ดที่ใช้งานได้และอย่าเชื่อมต่อกับเครือข่าย Wi-Fi ที่ไม่ถูกต้อง
 
-กรณีที่ลืมรหัสผ่าน
-เข้าไปที่ id.mi.com เพื่อตั้งรหัสผ่านใหม่
+ลืมรหัสผ่าน?
+ไปที่ id.mi.com เลือก \"ลืมรหัสผ่าน?\", และปฏิบัติตามคำแนะนำ
 
-เหตุผลอื่นๆ
-ลงชื่อเข้าสู่ระบบที่ i.mi.com และลองปลดล็อกเครื่องจากหน้าเพจดังกล่าว"</string>
+ไม่สามารถเปิดใช้งานอุปกรณ์?
+ไปที่ i.mi.com/ss และส่งแอปพลิเคชันของคุณเพื่อปลดล็อคอุปกรณ์"</string>
     <string name="unlock_help_title">คำแนะนำปลดล็อก:</string>
     <string name="unlock_number">รหัสปลดล็อก: %s</string>
     <string name="unlock_wrong_captcha">รหัสที่คุณป้อนไม่ถูกต้อง</string>

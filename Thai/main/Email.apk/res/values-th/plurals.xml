@@ -19,7 +19,7 @@
         <item quantity="other">ลบ %1$d แบบร่าง?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d เลือกไว้</item>
+        <item quantity="other">เพิ่มแล้ว %d รายชื่อ</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> ถูกจัดเก็บแล้ว</item>
@@ -86,6 +86,36 @@
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d เลือกไว้</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d วันหลัง</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d วันก่อน</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d ชั่วโมงหลัง</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d ชั่วโมงก่อน</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d นาทีหลัง</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d นาทีก่อน</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d วินาทีหลัง</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d วินาทีก่อน</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d สัปดาห์หลัง</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d สัปดาห์ก่อน</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">ตอบกลับไปทั้ง %1$d คน</item>

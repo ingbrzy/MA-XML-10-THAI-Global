@@ -53,7 +53,7 @@
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>ทั้งหมด</item>
-        <item>Only senders</item>
+        <item>ผู้ส่งเท่านั้น</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>ที่อยู่:</item>

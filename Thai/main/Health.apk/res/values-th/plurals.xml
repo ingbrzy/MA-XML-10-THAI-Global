@@ -39,6 +39,12 @@
     <plurals name="day_index">
         <item quantity="other">%1$d วัน</item>
     </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Period duration: %1$d days</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Cycle duration: %1$d days</item>
+    </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">Selected %1$d items</item>
     </plurals>
@@ -72,6 +78,9 @@
     <plurals name="goal_unit_with_number">
         <item quantity="other">%1$d steps</item>
     </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d cycles</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
@@ -95,6 +104,9 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">เมื่อสักครู่</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Period will likely start in %1$d days</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">ประจำเดือน %1$d-วัน</item>
@@ -179,6 +191,24 @@
     </plurals>
     <plurals name="unit_days">
         <item quantity="other">" วัน"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" cycles"</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">" hrs "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" hours "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" mins "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" minutes "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" secs "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" times"</item>

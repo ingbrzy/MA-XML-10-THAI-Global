@@ -158,6 +158,7 @@
     <string name="confirm_unbundled_phone_dialog_message">หมายเลขโทรศัพท์ %1$s ไม่ได้ผูกกับบัญชี Mi %2$s หากดำเนินการต่อหมายเลขโทรศัพท์จะผูกกับบัญชี Mi %3$s ดำเนินการต่อหรือไม่?</string>
     <string name="continue_action">ดำเนินการต่อ</string>
     <string name="copy">คัดลอก</string>
+    <string name="copy_to_clipboard_successful">คัดลอกเรียบร้อยแล้ว</string>
     <string name="delete_action">ลบ</string>
     <string name="delete_bank_card_message">Mi Pay การ์ดและ NFC การ์ดจะถูกลบออกหลังจากที่คุณออกจากระบบ</string>
     <string name="delete_bank_card_title">โปรดทราบ</string>
@@ -358,6 +359,10 @@ ID:%s
     <string name="passport_get_verify_code">ขอรับรหัส</string>
     <string name="passport_getting_activator_phone">กำลังรับข้อมูลซิม SMS…</string>
     <string name="passport_getting_verify_code">กำลังรับ</string>
+    <string name="passport_google_login">ลงชื่อเข้าใช้ด้วยบัญชี Google ที่ใช้ก่อนหน้านี้?</string>
+    <string name="passport_google_login_agree">บัญชี Google</string>
+    <string name="passport_google_login_disagree">บัญชี Mi</string>
+    <string name="passport_google_login_failed">ไม่สามารถลงชื่อเข้าใช้ด้วย Google ลงชื่อเข้าใช้บัญชี Mi ของคุณโดยตรง</string>
     <string name="passport_i_know">รับทราบ</string>
     <string name="passport_identification_expired">รหัสยืนยันหมดอายุ เริ่มต้นใหม่</string>
     <string name="passport_imei_permission_denied_message">เรากำลังขออนุญาตสิทธิ์การใช้งาน IMEI อุปกรณ์ของคุณ บัญชี Mi ใช้ IMEI ในการระบุตัวตนอุปกรณ์ที่คุณได้ลงชื่อเข้าใช้หรือลงทะเบียน เพื่อความปลอดภัยบัญชี Mi ของคุณ</string>

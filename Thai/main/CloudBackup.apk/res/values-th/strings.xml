@@ -37,7 +37,6 @@
     <string name="back_up_task_in_process">กำลังสำรองข้อมูล…</string>
     <string name="back_up_task_unfinished">ไม่สามารถสำรองข้อมูลได้</string>
     <string name="backing_up_to_micloud">กำลังสำรองข้อมูล…</string>
-    <string name="backup_fail_wifi_needed">ไม่สามารถสำรองข้อมูลได้ จำเป็นต้องต่อ Wi-Fi</string>
     <string name="backup_failed_reason_cloud_space_not_enough">พื้นที่จัดเก็บข้อมูลไม่เพียงพอใน Xiaomi คลาวด์ อัพเกรดแผนของคุณหรือเพิ่มพื้นที่จัดเก็บข้อมูล</string>
     <string name="backup_failed_reason_disk_space_not_enough">พื้นที่จัดเก็บข้อมูลไม่เพียงพอ เพิ่มที่จัดเก็บข้อมูลก่อน</string>
     <string name="backup_failed_reason_network_error">เครือข่ายเกิดข้อผิดพลาด รอประมาณ 1-2 นาทีแล้วลองอีกครั้ง</string>
@@ -58,6 +57,7 @@
     <string name="btn_restore_resume">ทำต่อ</string>
     <string name="btn_restore_retry">ลองอีกครั้ง</string>
     <string name="btn_restore_wait">รอเครือข่าย Wi-Fi</string>
+    <string name="btn_restore_wait_china">Wait for WLAN</string>
     <string name="btn_retry">ตรวจสอบอีกครั้ง</string>
     <string name="btn_skip">ข้ามขั้นตอนนี้</string>
     <string name="button_cancel">ยกเลิก</string>
@@ -87,10 +87,15 @@
 *  ตั้งค่าการแจ้งเตือน 
 *  การตั้งค่า Miui และระบบ 
 \"หมายเหตุ: ข้อมูลสำหรับแอปที่คุณติดตั้งจะไม่ได้รับการสำรองข้อมูลไปยัง Xiaomi คลาวด์"</string>
+    <string name="cloud_back_up_detail_discription_china">"These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
+*  Apps, Home screen layout, and wallpapers 
+*  Alarm, clock, and time settings 
+*  Notification settings 
+*  MIUI and system settings 
+Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">ตารางเวลาการสำรองข้อมูล</string>
     <string name="cloud_back_up_frequence_long">ทุก 7 วัน</string>
     <string name="cloud_back_up_frequence_short">ทุกวัน</string>
-    <string name="cloud_back_up_no_network_warn">ไม่สามารถเชื่อมต่อกับ Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">ตกลง</string>
     <string name="cloud_back_up_opening">รอสักครู่…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">อัพเกรด</string>
@@ -103,6 +108,7 @@
     <string name="cloud_backup_detail_manage">จัดการสำรองข้อมูล</string>
     <string name="cloud_backup_detail_state">สำรองข้อมูลอัตโนมัติ</string>
     <string name="cloud_backup_detail_state_summary">สร้างการสำรองข้อมูล Xiaomi คลาวด์ โดยอัตโนมัติเมื่อเชื่อมต่อกับ Wi-Fi</string>
+    <string name="cloud_backup_detail_state_summary_china">Create Xiaomi Cloud backups automatically when connected to WLAN.</string>
     <string name="cloud_backup_detail_time">สำรองข้อมูลครั้งสุดท้าย: %1$s</string>
     <string name="cloud_backup_detail_title">หน้าจอหลัก แอป และการตั้งค่า</string>
     <string name="cloud_backup_have_data">พบข้อมูลสำรองใน Xiaomi คลาวด์</string>
@@ -138,7 +144,9 @@
     <string name="dialog_cancel_backup_title">ยกเลิกการสำรองข้อมูลที่กำลังดำเนินการอยู่หรือไม่?</string>
     <string name="dialog_msg_overwrite_backup">การสำรองข้อมูลภายในเครื่องแตกต่างจากระบบใน Xiaomi คลาวด์ หากคุณดำเนินการต่อ การสำรองข้อมูลปัจจุบันจะแทนที่ไฟล์ก่อนหน้านี้</string>
     <string name="dialog_msg_restore_require_wlan">การเรียกคืนข้อมูลสำรองจำเป็นต้องเชื่อมต่อกับ Wi-Fi</string>
+    <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
     <string name="dialog_title_require_wlan">เชื่อมต่อ​ Wi-Fi</string>
+    <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="doing_calc_backup_data_size">กำลังคำนวณขนาด…</string>
     <string name="doing_restore_home">เรียกคืนหน้าจอหลักและการตั้งค่า…</string>
@@ -153,6 +161,7 @@
     <string name="error_unknown">การทำงานผิดพลาด</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="get_device_id_error">ไม่สามารถรับรหัสอุปกรณ์ได้</string>
+    <string name="help_and_feedback">ช่วยเหลือและข้อเสนอแนะ</string>
     <string name="hint_restore_cross_space">การจัดเรียงหน้าจอหลักอาจไม่แสดงผลอย่างถูกต้องหากคุณถ่ายโอนรายการระหว่างพื้นที่</string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">ชุดเรียกใช้ระบบอื่นๆ</string>
@@ -179,11 +188,10 @@
     <string name="notification_channel_remind">เตือนความจำ</string>
     <string name="notification_channel_service">บริการ</string>
     <string name="open_backup_switch">สลับสวิตช์สำรอง</string>
-    <string name="open_wifi">กรุณาเปิดใช้งาน Wi-Fi ตอนนี้</string>
-    <string name="open_wifi_description">กรุณาเชื่อมต่อเครือข่าย Wi-Fi เพื่อดำเนินการเรียกคืนค่าแอป</string>
-    <string name="open_wifi_setting">การตั้งค่า Wi-Fi</string>
     <string name="other_device_main_space">พื้นที่ปกติ</string>
     <string name="other_device_second_space">พื้นที่ทับซ้อน</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="process_whole_recovery">กำลังเรียกคืนค่า \"%s\"</string>
     <string name="provision_background_restore_more_data">เรียกคืนค่ารายการเพิ่มเติมในพื้นหลัง</string>
@@ -211,7 +219,6 @@
     <string name="restore_app_order_search_prior">แอปที่สำคัญมาก</string>
     <string name="restore_app_order_title">จัดลำดับความสำคัญของรายการที่คืนค่า</string>
     <string name="restore_cloud_backup_to_phone">เรียกคืนรายการจากคลาวด์</string>
-    <string name="restore_data_summary">คุณลักษณะนี้จำเป็นต้องเชื่อมต่ออินเทอร์เน็ต</string>
     <string name="restore_data_title">คืนค่าข้อมูล</string>
     <string name="restore_detail_category_apps">การจัดเรียงหน้าจอหลักและแอป</string>
     <string name="restore_detail_category_settings">การตั้งค่า</string>

@@ -40,6 +40,8 @@
     <string name="btn_return">ย้อนกลับ</string>
     <string name="button_cancel">ยกเลิก</string>
     <string name="calendar_sync">ปฏิทิน</string>
+    <string name="check_contact">เพิ่ม</string>
+    <string name="choose_contact_title">รายชื่อ</string>
     <string name="click_to_enabled">แตะเพื่อซิงค์</string>
     <string name="close_shortcut">ปิด</string>
     <string name="cloud_find_device">ค้นหาอุปกรณ์</string>
@@ -61,7 +63,9 @@
     <string name="confirm_delete">ลบ</string>
     <string name="confirm_save">เก็บไว้</string>
     <string name="connect_network">เชื่อมต่อกับ Wi-Fi หรือใส่ซิมการ์ด</string>
+    <string name="connect_network_china">เชื่อมต่อกับ WLAN หรือใส่ซิมการ์ด</string>
     <string name="connect_wlan">เชื่อมต่อกับ Wi-Fi</string>
+    <string name="connect_wlan_china">เชื่อมต่อ WLAN</string>
     <string name="copy">คัดลอก</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">บัญชีนี้ถูกใช้กับอุปกรณ์อื่นด้วย รวมรายการจากหลายแอป (รวมไปถึง %1$s และ %2$s) กับรายการในอุปกรณ์นี้?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">บัญชีนี้ถูกใช้กับอุปกรณ์อื่นด้วย รวมรายการจาก %s กับรายการในอุปกรณ์นี้?</string>
@@ -91,6 +95,8 @@
     <string name="feedback_custom_hint">อธิบายปัญหาที่คุณพบที่นี่ หากคุณจะให้คำแนะนำเรา เรายินดีที่จะรับรายละเอียดเพิ่มเติม!</string>
     <string name="find_device">ค้นหาอุปกรณ์</string>
     <string name="find_device_dspt_provision">ในกรณีที่เครื่องโทรศัพท์ของคุณหาย คุณสามารถเข้าไปที่ &lt;font color=#0097FF>%s&lt;/font> เพื่อค้นหาพิกัดเครื่อง ทำการล็อกหรือรีเซ็ต โดยคุณสามารถเปิด-ปิดคุณลักษณะนี้ได้ตลอดเวลาในเมนูการตั้งค่า</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">ตรวจสอบการเชื่อมต่อข้อมูลและลองอีกครั้ง</string>
     <string name="find_device_error_server">ข้อผิดพลาดจากเซิร์ฟเวอร์</string>
     <string name="find_device_gdpr_prompt">โดยการเปิดใช้งานค้นหาอุปกรณ์นี้ คุณยอมรับใน <a href="app://com.miui.cloudservice.gdpr.license"><u> นโยบายความเป็นส่วนตัว</u></a>ของเรา หากคุณต้องการถอนการให้สิทธิ์ กรุณาปิดใช้งานคุณลักษณะนี้</string>
@@ -102,6 +108,7 @@
     <string name="finddevice_miservice_notification_content">ล็อกอุปกรณ์จากระยะไกลหากอุปกรณ์สูญหาย</string>
     <string name="finddevice_miservice_notification_title">เปิดใช้การค้นหาอุปกรณ์</string>
     <string name="forget_password"><u>ลืมรหัสผ่าน</u></string>
+    <string name="help_and_feedback">ช่วยเหลือและข้อเสนอแนะ</string>
     <string name="i_know">ตกลง</string>
     <string name="input_password_hint">ป้อนรหัสผ่าน</string>
     <string name="internet_access_dspt">การใช้งานแอปนี้ต้องเชื่อมต่อกับอินเตอร์เน็ตเพื่อให้ทำงานได้ตามปกติ</string>
@@ -202,7 +209,9 @@
     <string name="micloud_dspt">"ซิงค์รายชื่อ ข้อความ ประวัติการโทร และรายการอื่นๆ ของคุณบนทุกอุปกรณ์
 ค้นหาและล็อคอุปกรณ์ของคุณในกรณีที่อุปกรณ์สูญหาย"</string>
     <string name="micloud_dspt_provision">ใช้งาน Xiaomi คลาวด์ ในการซิงค์ข้อมูล ค้นหาพิกัดเครื่อง และแชร์สิ่งต่างๆกับเพื่อน</string>
+    <string name="micloud_dspt_provision_china">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_xms">ใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อมูล</string>
+    <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
     <string name="micloud_find_device_close_alert_content">หากคุณปิดใช้งานค้นหาอุปกรณ์ คุณจะไม่สามารถระบุตำแหน่งของโทรศัพท์เมื่อใช้คุณลักณะนี้ หากโทรศัพท์ของคุณรองรับการใช้งาน NFC บัตรธนาคารและคีย์การ์ดทั้งหมดของคุณจะถูกลบออกจาก Mi Pay</string>
     <string name="micloud_find_device_close_alert_negtive">ปิดใช้งาน</string>
     <string name="micloud_find_device_close_alert_positive">เปิดไว้</string>
@@ -216,6 +225,8 @@
     <string name="micloud_find_device_guide_alert_positive">ตกลง</string>
     <string name="micloud_find_device_guide_alert_title">กรุณาจดจำรหัสผ่านของคุณ</string>
     <string name="micloud_find_device_guide_button">เปิดใช้การค้นหาอุปกรณ์</string>
+    <string name="micloud_find_device_guide_desc_pad">หากอุปกรณ์ของคุณสูญหายให้ลงชื่อเข้าใช้ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> บนอุปกรณ์อื่นๆ เพื่อค้นหาล็อคระยะไกลหรือลบข้อมูลบนอุปกรณ์ที่สูญหาย &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>ดูรายละเอียด&lt;/a></string>
+    <string name="micloud_find_device_guide_desc_phone">หากอุปกรณ์ของคุณสูญหายให้ลงชื่อเข้าใช้ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> บนอุปกรณ์อื่นๆ เพื่อค้นหาล็อคระยะไกลหรือลบข้อมูลบนอุปกรณ์ที่สูญหาย &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>ดูรายละเอียด&lt;/a></string>
     <string name="micloud_find_device_guide_fail_reopen">คุณสามารถเปิดใช้งานค้นหาอุปกรณ์ใน บัญชี Mi - Xiaomi คลาวด์</string>
     <string name="micloud_find_device_guide_fail_sub_net">กรุณาตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</string>
     <string name="micloud_find_device_guide_micloud_sub_content">ซิงค์รายชื่อ, รูปภาพ, บันทึกย่อ และอื่นๆ กับ Xiaomi คลาวด์</string>
@@ -228,15 +239,17 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat แนะนำให้คุณเปิดใช้การค้นหาอุปกรณ์</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay แนะนำให้คุณเปิดใช้การค้นหาอุปกรณ์</string>
     <string name="micloud_find_device_guide_progress">กำลังเปิดการค้นหาอุปกรณ์…</string>
-    <string name="micloud_find_device_guide_title">ลงชื่อเข้าใช้ที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> เพื่อค้นหา ล็อค หรือลบอุปกรณ์ของคุณ วิธีนี้อาจช่วยให้คุณเจออุปกรณ์ของคุณในกรณีที่อุปกรณ์สูญหาย</string>
     <string name="micloud_find_device_open_fail">ไม่สามารถปิดใช้การค้นหาอุปกรณ์ได้</string>
     <string name="micloud_find_device_opened">การค้นหาอุปกรณ์เปิดใช้งาน</string>
     <string name="micloud_find_device_opened_content">ค้นหาอุปกรณ์ของคุณใน %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">อาจมีข้อความ SMS ขาออกเพื่อเปิดใช้งานบริการนี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ เมื่อคุณเปลี่ยนซิมการ์ดข้อความจะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานคุณลักษณะนี้อีกครั้ง</string>
     <string name="micloud_find_device_verify_button">เปิดใช้งานค้นหาอุปกรณ์อีกครั้ง</string>
     <string name="micloud_find_device_verify_close">ปิดใช้การค้นหาอุปกรณ์</string>
     <string name="micloud_find_device_verify_fail">ไม่สามารถเปิดใช้งานค้นหาอุปกรณ์อีกครั้งได้</string>
     <string name="micloud_find_device_verify_progress">กำลังเปิดใช้งานค้นหาอุปกรณ์อีกครั้ง…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">การซิงค์ถูกยกเลิก ลองอีกครั้ง</string>
     <string name="micloud_main_head_menu_cloud_backup">ข้อมูลสำรองหน้าจอหลัก</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">การตั้งค่าระบบและรูปแบบหน้าจอหลัก</string>
@@ -254,9 +267,6 @@
     <string name="micloud_main_sync_mode_title">ซิงค์ด่วน</string>
     <string name="micloud_main_wait_charge">ชาร์จอุปกรณ์ให้เต็มเพื่อดำเนินการซิงค์ต่อ</string>
     <string name="micloud_main_wait_charge_sleep">ปิดหน้าจอและชาร์จอุปกรณ์ให้เต็มเพื่อดำเนินการซิงค์ต่อ</string>
-    <string name="micloud_main_wait_wlan">กำลังรอ Wi-Fi</string>
-    <string name="micloud_main_wait_wlan_charge">เชื่อมต่อ Wi-Fi และชาร์จอุปกรณ์ให้เต็มเพื่อดำเนินการซิงค์ต่อ</string>
-    <string name="micloud_main_wait_wlan_charge_sleep">เชื่อมต่อ Wi-Fi ปิดหน้าจอและชาร์จอุปกรณ์ให้เต็มเพื่อดำเนินการซิงค์ต่อ</string>
     <string name="micloud_manage_space_data">จัดการข้อมูลคลาวด์</string>
     <string name="micloud_manaul_sync_success_button_text">ดูรายละเอียด</string>
     <string name="micloud_manaul_sync_success_time_prefix">ซิงค์ล่าสุด: %s</string>
@@ -295,8 +305,10 @@
     <string name="micloud_member_pay_order_error_toast">ข้อมูลผิดพลาด</string>
     <string name="micloud_notif_content_battery_low">แบตเตอรี่ต่ำเกินไป</string>
     <string name="micloud_notif_content_depend_wifi">เชื่อมต่อกับ Wi-Fi เพื่อทำการซิงค์</string>
+    <string name="micloud_notif_content_depend_wifi_china">Connect to WLAN to sync.</string>
     <string name="micloud_notif_content_dirty_data">รายละเอียด</string>
     <string name="micloud_notif_content_master_depend_wifi">เชื่อมต่อกับ Wi-Fi หรือเปลี่ยนการตั้งค่าการซิงค์ แตะเพื่อเปลี่ยน</string>
+    <string name="micloud_notif_content_master_depend_wifi_china">เชื่อมต่อกับ WLAN หรือเปลี่ยนการตั้งค่าการซิงค์ แตะเพื่อเปลี่ยน</string>
     <string name="micloud_notif_content_memory_low">พื้นที่ในเครื่องไม่พอ</string>
     <string name="micloud_notif_content_multi_user_error">คุณลงชื่อเข้าใช้ด้วยบัญชีเดียวกันกับพื้นที่ปกติ</string>
     <string name="micloud_notif_content_privacy_reopen_failed">เรียกดูรายละเอียด</string>
@@ -338,6 +350,7 @@
     <string name="micloud_setting_sms_summary">ข้อความ SMS และ MMS</string>
     <string name="micloud_setting_sms_summary_for_google_csp">ข้อความปกติ</string>
     <string name="micloud_setting_wifi_summary">การตั้งค่า Wi-Fi</string>
+    <string name="micloud_setting_wifi_summary_china">WLAN settings</string>
     <string name="micloud_space_applist_detail">จัดการแอปบนหน้าจอหลักของคุณ</string>
     <string name="micloud_space_applist_title">จัดการแอป</string>
     <string name="micloud_space_duokan_detail">ดาวน์โหลดและจัดการอีบุ๊คด้วยแอป Duokan</string>
@@ -371,6 +384,7 @@
     <string name="micloud_sync_result_secure_space_limit">อย่าซิงค์รายการจากพื้นที่ทับซ้อน</string>
     <string name="micloud_sync_result_sim_activated_error">ไม่สามารถเปิดใช้งานซิมการ์ดได้</string>
     <string name="micloud_sync_result_wifi_only">ไฟล์มีขนาดใหญ่เกินไป ซิงค์เมื่อต่อ Wi-Fi</string>
+    <string name="micloud_sync_result_wifi_only_china">This item is too big. Sync it when connected to WLAN.</string>
     <string name="micloud_upgrade_member">เพิ่มที่จัดเก็บข้อมูล</string>
     <string name="micloud_user_space_title">พื้นที่จัดเก็บ</string>
     <string name="micloud_warn_full_sum">ไฟล์ใหม่จะไม่ได้รับการซิงค์เข้าสู่ Xiaomi คลาวด์</string>
@@ -378,8 +392,8 @@
     <string name="micloud_warn_low_sum">คุณใช้พื้นที่ Xiaomi คลาวด์ไปแล้ว 90%</string>
     <string name="micloud_warn_low_title">พื้นที่ใกล้เต็มแล้ว</string>
     <string name="micloud_web_discription_place_holder">เยี่ยมชม %1$s เปิดคอมพิวเตอร์ของคุณเพื่อจัดการข้อมูลของคุณ</string>
-    <string name="micloud_wipe_data_confirm_label">ลบข้อมูลจากคลาวด์</string>
-    <string name="micloud_wipe_data_confirm_title">ลบรายการซิงค์กับ Xiaomi คลาวด์จากโทรศัพท์หลังจากคุณลงชื่อออก?</string>
+    <string name="micloud_wipe_data_confirm_label">ลบรายการที่ซิงค์จากอุปกรณ์นี้หรือไม่?</string>
+    <string name="micloud_wipe_data_confirm_title">บางรายการจากแอปต่อไปนี้จะซิงค์กับ Xiaomi Cloud คุณสามารถลบออกจากอุปกรณ์นี้โดยยังคงเก็บไว้ในระบบคลาวด์</string>
     <string name="micloud_wipe_data_remove">ลบออก</string>
     <string name="micloud_wipe_data_retain">เก็บไว้</string>
     <string name="mx_dspt">ข้อความ Mi</string>
@@ -406,17 +420,23 @@
     <string name="pay_info_dialog_mibi_balance_prefix">ใช้เครดิต Mi ที่เหลือ: %s</string>
     <string name="pay_info_dialog_title">เลือกวิธีการชำระเงิน</string>
     <string name="phone_number_required_dspt_provision">"การใช้งานบริการนี้ต้องระบุหมายเลขโทรศัพท์ของคุณ "</string>
+    <string name="picker_list_empty">ไม่มีรายชื่อที่นี่</string>
+    <string name="picker_search_empty">ไม่พบรายชื่อ</string>
+    <string name="picker_search_hint">ค้นหา</string>
     <string name="pre_privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="pre_user_agreement">ข้อตกลงการใช้งาน</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">ซิงค์รูปภาพของรายชื่อผู้ติดต่อผ่าน Wi-Fi เท่านั้น</string>
     <string name="pref_title_sync_contacts_title">ซิงค์รายชื่อ</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">ซิงค์รูปภาพผ่าน Wi-Fi เท่านั้น</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacy_and_agreement">ข้อตกลงและเงื่อนไข</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหา ล็อค หรือลบข้อมูลในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหา ล็อค หรือลบข้อมูลในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย</string>
     <string name="privacy_dialog_sync_all_purpose">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อความ, ประวัติการโทร, รายชื่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, เพลง, รูปภาพและวิดีโอ, การตั้งค่า Wi-Fi, บันทึกเสียง, Hการจัดเรียงหน้าจอหลัก, แอป, กำหนดการปฏิทิน, รายการบล็อก, และ แอป vault ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
+    <string name="privacy_dialog_sync_all_purpose_china">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อความ, ประวัติการโทร, รายชื่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, เพลง, รูปภาพและวิดีโอ, การตั้งค่า WLAN, บันทึกเสียง, Hการจัดเรียงหน้าจอหลัก, แอป, กำหนดการปฏิทิน, รายการบล็อก, และ แอป vault ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
     <string name="privacy_doc_cloudservice">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ ข้อความ ประวัติการโทร ผู้ติดต่อ บันทึกย่อ การตั้งค่าเบราว์เซอร์ เพลง ภาพถ่าย และวิดีโอการตั้งค่า Wi-Fi การบันทึก เค้าโครงหน้าจอหลัก แอป กิจกรรมในปฏิทิน รายการบล็อก และแอป vault ระหว่างอุปกรณ์ที่เชื่อมต่อทั้งหมด เข้าถึงสิ่งที่คุณซิงค์จากเบราว์เซอร์ใดๆ ที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>&lt;br />&lt;br />อาจต้องใช้ข้อความ SMS ขาออกเพื่อเปิดใช้งานบริการนี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ เมื่อคุณเปลี่ยนซิมการ์ด ข้อความอาจถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานคุณสมบัตินี้อีกครั้ง&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติ Xiaomi คลาวด์ จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;br />• ปฏิทิน:&lt;br />สำหรับซิงค์กิจกรรม&lt;br />• เข้าถึงข้อความ SMS:&lt;br />สำหรับซิงค์ข้อความ&lt;br />• เข้าถึงข้อความ MMS:&lt;br />สำหรับซิงค์ข้อความ&lt;br />• เข้าถึงรายชื่อ:&lt;br />สำหรับซิงค์รายชื่อ&lt;br />• แก้ไขรายชื่อ:&lt;br />สำหรับซิงค์รายชื่อ&lt;br />• ที่จัดเก็บข้อมูล:&lt;br />สำหรับบันทึกรายการบนอุปกรณ์ของคุณ (เช่น รูปภาพ, วิดีโอ, เพลง)&lt;br />หากคุณไม่เห็นด้วยที่จะให้การอนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ ออกจากระบบ หรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเราก่อนใช้งาน Xiaomi คลาวด์&lt;br /></string>
+    <string name="privacy_doc_cloudservice_china">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi Cloud เพื่อซิงค์ ข้อความ ประวัติการโทร ผู้ติดต่อ บันทึกย่อ การตั้งค่าเบราว์เซอร์ เพลง ภาพถ่ายและวิดีโอ การตั้งค่า WLAN การบันทึกเค้าโครงหน้าจอหลัก แอป กิจกรรมในปฏิทิน รายการบล็อก และแอปของอุปกรณ์ที่เชื่อมต่อทั้งหมด เข้าถึงสิ่งที่คุณซิงค์จากเบราว์เซอร์ใดๆ ได้ที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>&lt;br />&lt;br />อาจต้องใช้ข้อความ SMS ขาออกเพื่อเปิดใช้งานบริการเหล่านี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ เมื่อคุณเปลี่ยนซิมการ์ดของคุณ ข้อความอาจถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานบริการเหล่านี้อีกครั้ง&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติบริการเหล่านี้จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องได้รับการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนบุคคลของคุณ:&lt;br />• ปฏิทิน:&lt;br />สำหรับการซิงค์กิจกรรม&lt;br />• การเข้าถึง SMS:&lt;br />สำหรับการซิงค์ข้อความ&lt;br />• การเข้าถึง MMS:&lt;br />สำหรับการซิงค์ข้อความ&lt;br />• การเข้าถึงรายชื่อ:&lt;br />สำหรับการซิงค์รายชื่อ&lt;br />• การแก้ไขผู้ติดต่อ:&lt;br />สำหรับการซิงค์ผู้ติดต่อ&lt;br />• ที่จัดเก็บข้อมูล:&lt;br />สำหรับบันทึกรายการบนอุปกรณ์ของคุณ (เช่น รูปภาพ วิดีโอ เพลง)&lt;br />หากคุณไม่ยินยอมให้อนุญาตหรือแบ่งปันและอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />โปรดอ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเรา ก่อนใช้งาน Xiaomi คลาวด์&lt;br /></string>
     <string name="privacy_doc_finddevice_pad">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อ ค้นหา ล็อค หรือลบข้อมูล ในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย คุณสามารถไปที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> เพื่อค้นหา ล็อค หรือรีเซ็ต&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติ ค้นหาอุปกรณ์ จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;br />• เข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการค้นหาอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่เห็นด้วยที่จะให้การอนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ ออกจากระบบ หรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเราก่อนใช้งาน ค้นหาอุปกรณ์&lt;br /></string>
     <string name="privacy_doc_finddevice_phone">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อ ค้นหา ล็อค หรือลบข้อมูล ในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย คุณสามารถไปที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> เพื่อค้นหา ล็อค หรือรีเซ็ต&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติ ค้นหาอุปกรณ์ จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;br />• เข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการค้นหาอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่เห็นด้วยที่จะให้การอนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ ออกจากระบบ หรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเราก่อนใช้งาน ค้นหาอุปกรณ์&lt;br /></string>
     <string name="privacy_doc_finddevice_with_telephony_feature_pad">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อ ค้นหา ล็อค หรือลบข้อมูล ในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย คุณสามารถไปที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> เพื่อค้นหา ล็อค หรือรีเซ็ต&lt;br />&lt;br />อาจมีข้อความ SMS ขาออกเพื่อเปิดใช้งานบริการนี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ เมื่อคุณเปลี่ยนซิมการ์ดข้อความจะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานคุณลักษณะนี้อีกครั้ง&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติ ค้นหาอุปกรณ์ จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;br />• เข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการค้นหาอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่เห็นด้วยที่จะให้การอนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ ออกจากระบบ หรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเราก่อนใช้งาน ค้นหาอุปกรณ์&lt;br /></string>
@@ -425,14 +445,6 @@
     <string name="provision_sync_items_loading">กำลังเตรียมการเพื่อซิงค์รายการ</string>
     <string name="reading_status">กำลังโหลดสถานะ…</string>
     <string name="reading_status_failure">ไม่สามารถโหลดสถานะได้</string>
-    <string name="search_cloudbackup_pref">สำรองข้อมูลคลาวด์</string>
-    <string name="search_cloudbackup_pref_desc">เปิด-ปิดสำรองข้อมูลคลาวด์</string>
-    <string name="search_cloudbackup_pref_key_words">สำรองข้อมูล สำรองข้อมูลคลาวด์</string>
-    <string name="search_cloudbackup_pref_path">บัญชี Mi/Xiaomi คลาวด์/อุปกรณ์สำรองข้อมูล</string>
-    <string name="search_finddevice_pref">ค้นหาอุปกรณ์</string>
-    <string name="search_finddevice_pref_desc">เปิด-ปิดใช้งานค้นหาอุปกรณ์</string>
-    <string name="search_finddevice_pref_key_words">ค้นหาอุปกรณ์</string>
-    <string name="search_finddevice_pref_path">บัญชี Mi/Xiaomi คลาวด์/ค้นหาอุปกรณ์</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="share_cancel">ยกเลิกการแชร์แล้ว</string>
     <string name="share_failed">ไม่สามารถแชร์ได้</string>
@@ -442,9 +454,12 @@
     <string name="share_weixin_not_installed">ยังไม่ได้ติดตั้ง WeChat.</string>
     <string name="short_cut_desc">เพิ่มไอคอน Xiaomi คลาวด์ไปยังหน้าจอหลัก?</string>
     <string name="soundrecorder_sync_only_in_wifi">ซิงค์ผ่าน Wi-Fi เท่านั้น</string>
+    <string name="soundrecorder_sync_only_in_wifi_china">Only use WLAN to sync</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">ระบบจะไม่ใช้เครือข่ายข้อมูลมือถือในการรับส่งไฟล์บันทึกเสียง</string>
+    <string name="soundrecorder_sync_only_in_wifi_summary_china">Recorder will not use mobile data to download or upload recordings</string>
     <string name="soundrecorder_sync_records">ซิงค์ด้วย Xiaomi คลาวด์</string>
     <string name="special_func_title">คุณลักษณะพิเศษ</string>
+    <string name="starred_contact">รายการโปรด</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_expansion">เพิ่มเติม</string>
     <string name="storage_manage_list_title">ข้อมูลคลาวด์</string>
@@ -458,6 +473,7 @@
     <string name="sub_alert_notif_title">ซิงค์ด้วย Xiaomi คลาวด์</string>
     <string name="sub_sync_item_sms_summary">ซิงค์ข้อความที่มีรูปภาพ เสียงหรือสื่อมีเดียอื่นๆในเครื่อง เฉพาะเมื่อเชื่อมต่อกับ Wi-Fi แล้วเท่านั้น</string>
     <string name="sub_sync_item_sms_title_wifi_only">ซิงค์ข้อความ MMS ผ่าน Wi-Fi เท่านั้น</string>
+    <string name="sub_sync_item_sms_title_wifi_only_china">Only use WLAN to sync MMS</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sync_detail_summary_master_sync_off">ซิงค์ถูกปิด</string>
     <string name="sync_detail_summary_off">ซิงค์ถูกปิด</string>
@@ -469,8 +485,11 @@
     <string name="sync_dspt_entrance_provision_confirm_open">ใช้ Xiaomi คลาวด์</string>
     <string name="sync_dspt_entrance_provision_confirm_title">ไม่ต้องการใช้ Xiaomi คลาวด์?</string>
     <string name="sync_dspt_entrance_provision_network">แอปนี้ต้องการเชื่อมต่อกับอินเทอร์เน็ตเพื่อทำงานได้ตามปกติ การซิงค์ข้อมูลอาจต้องใช้การเชื่อมต่อข้อมูลมือถือและเปิด Wi-Fi</string>
+    <string name="sync_dspt_entrance_provision_network_china">This app needs to connect to the internet to work normally. Syncing data may require mobile data connection and turning on WLAN.</string>
     <string name="sync_dspt_entrance_provision_skip">ข้ามขั้นตอนนี้</string>
     <string name="sync_dspt_provision">"ซิงค์รูปภาพ เบอร์โทรติดต่อ บันทึกย่อ และอื่นๆระหว่างอุปกรณ์ต่างๆของคุณได้ที่ "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"คุณสามารถเปิด-ปิดการการใช้งานนี้จากเมนูการตั้งค่าได้ตลอดเวลา
 "</string>
     <string name="sync_item_calllog_summary">ซิงค์บันทึกเสียงสนทนาในโทรศัพท์นี้</string>

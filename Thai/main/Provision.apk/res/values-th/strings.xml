@@ -19,6 +19,7 @@
     <string name="application_package_introduction">แอปนี้ให้คุณติดตั้งแอปของบุคคลที่สาม สแกนแอปก่อนการติดตั้ง และให้คำแนะนำหลังจากนั้น</string>
     <string name="application_permissions">การอนุญาตแอป</string>
     <string name="back">ย้อนกลับ</string>
+    <string name="backup_introduction">คุณสามารถใช้แอปนี้เพื่อสำรองและกู้คืนรายการในอุปกรณ์ของคุณ</string>
     <string name="calculator_introduction">คุณสามารถใช้แอปนี้ในการคำนวณ แปลงหน่วย และสกุลเงิน และประเมินการชำระเงินกู้ของคุณ</string>
     <string name="camera_introduction">คุณสามารถใช้กล้องเพื่อถ่ายภาพและถ่ายวิดีโอ</string>
     <string name="carrier_introduction">เพื่อให้บริการที่ดีกว่าแก่คุณ อุปกรณ์ของคุณอาจส่งข้อมูลรุ่นอุปกรณ์ของคุณเป็นระยะ ๆ ข้อมูลระบุอุปกรณ์ (รวมถึง IMEI/IMSI/MSISDN/MAC address, MEID/ICCID) และข้อมูลตำแหน่งโดยประมาณ (รวมถึงรหัสสถานีฐาน) ผู้ให้บริการผ่าน Wi-Fi เครือข่ายข้อมูลมือถือหรือ SMS ฟรี ผู้ให้บริการสัญญาว่าจะวิเคราะห์ข้อมูลที่เกี่ยวข้องเพื่อปรับปรุงคุณภาพการบริการหรือเพื่อให้บริการหรือเทคโนโลยีที่กำหนดเองเท่านั้นและจะไม่เปิดเผยข้อมูลที่เกี่ยวข้องกับบุคคลที่สามในรูปแบบใดๆ ที่ระบุตัวตนของคุณ ข้อความของผู้ให้บริการเฉพาะจะชัดเจนกว่า ปรึกษาผู้ให้บริการของคุณเกี่ยวกับค่าใช้จ่ายในการใช้บริการนี้</string>
@@ -44,6 +45,7 @@
     <string name="disageement_abnormal_download">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้บริการนี้ได้</string>
     <string name="disagree">ยกเลิก</string>
     <string name="disagreement_abnormal_running">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะไม่ใช้แอปนี้หรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว</string>
+    <string name="disagreement_abnormal_running_fast_pairing">หากคุณไม่เห็นด้วยที่จะให้การอนุญาตคุณจะไม่สามารถใช้แอพนี้ได้ คุณสามารถเลือกที่จะจำกัด การอนุญาตและปิดคุณสมบัตินี้ในการตั้งค่าในกรณีดังกล่าว</string>
     <string name="disagreement_donnot_use_application">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะไม่ใช้แอปนี้ในกรณีดังกล่าว</string>
     <string name="disagreement_donnot_use_product">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้ผลิตภัณฑ์นี้ได้ คุณสามารถเลือกที่จะไม่ใช้ผลิตภัณฑ์นี้ในกรณีดังกล่าว</string>
     <string name="disagreement_donnot_use_service">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้บริการนี้ได้ คุณสามารถเลือกที่จะไม่ใช้บริการนี้ในกรณีดังกล่าว</string>
@@ -51,18 +53,22 @@
     <string name="disagreement_function">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้คุณลักษณะนี้ได้ คุณสามารถเลือกที่จะไม่ใช้คุณลักษณะนี้ในกรณีดังกล่าว</string>
     <string name="disagreement_location_service">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้บริการนี้ได้</string>
     <string name="disagreement_terminate_service">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะถอนการติดตั้ง ลงชื่อออก หรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว</string>
-    <string name="download_introduction">แอปนี้จัดการการดาวน์โหลดทั้งหมดของคุณรวมถึงสิ่งที่ทำใน GetApps, Mi วิดีโอ, ตัวอัพเดท, ธีม และ เบราว์เซอร์</string>
+    <string name="download_introduction">\"ดาวน์โหลด\" ใช้ Xunlei เพื่อดาวน์โหลดรายการบนอุปกรณ์ของคุณ เครื่องมือนี้ใช้งานได้กับ GetApps อัปเดตระบบธีมวิดีโอและการดาวน์โหลดเบราว์เซอร์</string>
     <string name="enable_accessibility_canceled">ยกเลิกสิ่งอำนวยความสะดวกแล้ว</string>
     <string name="enable_accessibility_dialog_message">แตะสองนิ้วบนหน้าจอค้างไว้ 10 วิ เพื่อเปิด TalkBack, TalkBack ให้การตอบรับด้วยเสียงสำหรับผู้ที่มีความบกพร่องทางสายตา ถ้าคุณเปิดใช้งานโดยไม่ได้ตั้งใจให้แตะปุ่มยกเลิกแล้วแตะสองครั้งที่หน้าจอ</string>
     <string name="enable_accessibility_dialog_negative_btn">ยกเลิก</string>
     <string name="enable_accessibility_dialog_positive_btn">ตกลง</string>
     <string name="fast_application_introduction">Framework แอปด่วน ช่วยให้คุณสร้างและให้บริการในแอปด่วน</string>
+    <string name="fast_pairing_introduction">Mi Link อนุญาตให้อุปกรณ์ของคุณเชื่อมต่อกับอุปกรณ์บลูทูธใกล้เคียงโดยใช้ MIUI Bluetooth Service เพื่อให้สามารถค้นหาอุปกรณ์ในบริเวณใกล้เคียงอนุญาตให้ MIUI Bluetooth Service เชื่อมต่อกับอินเทอร์เน็ต</string>
     <string name="font_hint_large">ค่าเริ่มต้นขนาดข้อความ</string>
     <string name="font_hint_normal">เพิ่มขนาดข้อความ</string>
     <string name="framework_introduction">ขอบข่ายการบริการ Mi อนุญาตให้คุณใช้บัญชี Mi, Mi Push, Mi Stats และ MIUI BI</string>
     <string name="framwork_base_service">เพื่อให้บริการเหล่านี้ ขอบข่ายการบริการ Mi (บัญชี Mi, Mi Push, สถิติ Mi, MIUI BI) จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเข้าถึง ตำแหน่งพิกัด, หมายเลขโทรศัพท์ IMEI และ IMSI ของคุณและอนุญาตให้อุปกรณ์ของคุณรับการแจ้งเตือนแบบ Push</string>
     <string name="game_introduction">ปลั๊กอินเกมส์อนุญาตให้คุณ ลงชื่อเข้าใช้ สร้างคำสั่งซื้อ ชำระเงินให้เสร็จสมบูรณ์ ใช้คูปอง และเข้าร่วมกิจกรรมโปรโมชั่น</string>
     <string name="google_service_introduction">เพื่อให้สามารถทำงานได้ตามปกติ Google Play ต้องเชื่อมต่ออินเทอร์เน็ต เข้าถึงตำแหน่งของคุณ สามารถบันทึกเสียง โทรออก เข้าถึงกิจกรรมในปฏิทิน ประวัติการโทร เซ็นเซอร์ ที่จัดเก็บข้อมูล กล้อง ข้อมูลอุปกรณ์ และบัญชี</string>
+    <string name="home_settings_miui_home">คลาสสิค</string>
+    <string name="home_settings_poco_launcher">ลิ้นชักแอป</string>
+    <string name="home_settings_title">เลือกชุดเรียกใช้ระบบเริ่มต้น</string>
     <string name="ime_privacy_policy">นโยบายความเป็นส่วนตัวสำหรับแป้นพิมพ์ที่เลือก</string>
     <string name="ime_privacy_policy_no_network">ไม่พบการเชื่อมต่อเครือข่าย กรุณาอ่านนโยบายความเป็นส่วนตัวของแป้นพิมพ์นี้ได้จาก %s</string>
     <string name="input_method_category">กรุณาเลือกแป้นพิมพ์ที่คุณต้องการใช้เป็นค่าเริ่มต้นในการเขียนข้อความ, บันทึกย่อหรืออื่นๆ คุณสามารถเลือกติดตั้งแป้นพิมพ์ภายนอกเพิ่มได้ในภายหลัง</string>
@@ -70,16 +76,27 @@
     <string name="install_preinstall_app">กำลังโหลดแอปต่างๆ…</string>
     <string name="item_fingerprint">ลายนิ้วมือ</string>
     <string name="item_lock_screen_password">เฉพาะล็อกหน้าจอ</string>
+    <string name="ktlocation_U">(KT Service Agent)</string>
+    <string name="ktposition_header">การแชร์ข้อมูลตำแหน่งกับหน่วยงานกู้ภัยฉุกเฉิน</string>
     <string name="language_picker_other_languages_title">ภาษาเพิ่มเติม</string>
     <string name="language_settings">เลือกภาษา</string>
     <string name="locale_picker_other_locale_title">พื้นที่อื่นๆ</string>
     <string name="locale_picker_title">เลือกพื้นที่ของคุณ</string>
+    <string name="location_U">U+ GPSnWPS</string>
+    <string name="location_content">ตามกฎหมายผู้ให้บริการโทรศัพท์มือถือสามารถรับข้อมูลตำแหน่งของอุปกรณ์มือถือเพื่อให้สอดคล้องกับข้อกำหนดของหน่วยงานกู้ภัยฉุกเฉิน (แผนกดับเพลิงและตำรวจ) ซึ่งดำเนินการเพื่อความปลอดภัยและการช่วยเหลือฉุกเฉิน</string>
     <string name="location_introduction">บริการตามพื้นที่จะค้นหาผลิตภัณฑ์และบริการใกล้บ้านคุณ</string>
+    <string name="location_location">หน่วยงานกู้ภัยฉุกเฉินสามารถขอรับตำแหน่งปัจจุบันของคุณได้เมื่อมีการร้องขอ</string>
     <string name="lockscreen_introduction">ภาพพื้นหลังรายวันช่วยให้คุณได้รับภาพพื้นหลังใหม่ส่งมอบไปยังหน้าจอล็อคของคุณทุกวัน</string>
     <string name="mint_keyboard_oobe_checkbox">ฉันได้อ่านและเห็นด้วยกับนโยบายความเป็นส่วนตัว แป้นพิมพ์ Mint</string>
     <string name="mint_keyboard_oobe_terms">นโยบายความเป็นส่วนตัวของ แป้นพิมพ์ Mint</string>
     <string name="miui_privacy_policy_no_network">คุณไม่ได้เชื่อมกับต่ออินเตอร์เน็ต กรุณาอ่านนโยบายความเป็นส่วนตัวได้ที่ %s</string>
     <string name="miui_terms_no_network">คุณไม่ได้เชื่อมกับต่ออินเตอร์เน็ต กรุณาอ่านข้อตกลงและข้อตกลงการใช้งานได้ที่ %s</string>
+    <string name="mobile_network">ใช้ข้อมูลมือถือ</string>
+    <string name="move_data_dialog_box_le">อนุญาตให้ใช้ข้อมูลมือถือและการเชื่อมต่อ GPS ตามคำขอของผู้ใช้ การซิงค์บัญชีและรายการอื่นๆ อาจต้องใช้ข้อมูลมือถือขึ้นอยู่กับข้อกำหนดของ สมาร์ทโฟน</string>
+    <string name="move_data_dialog_box_title">หากคุณไม่มีแผนที่มีข้อมูลไม่จำกัดการใช้ข้อมูลมือถืออาจสร้างค่าธรรมเนียมผู้ให้บริการเพิ่มเติม ใช้ข้อมูลมือถือหรือไม่?</string>
+    <string name="move_data_dialog_cancel">ยกเลิก </string>
+    <string name="move_data_dialog_title">คุณสามารถจำกัดการเชื่อมต่อข้อมูลมือถือในการตั้งค่าในภายหลัง</string>
+    <string name="move_data_dialog_use">ใช้</string>
     <string name="multisim_settings_category">ตั้งค่าซิมการ์ด</string>
     <string name="multisim_settings_title">ระบบพบซิมการ์ดจำนวน 2 ซิม</string>
     <string name="navigation_picker_gesture_guide">แนะนำท่าทาง</string>
@@ -111,6 +128,8 @@
     <string name="permission_account">เข้าถึงบัญชีผ่านอุปกรณ์ของคุณ:</string>
     <string name="permission_account_introduction">สำหรับลงชื่อเข้าใช้ด้วยบัญชี Mi</string>
     <string name="permission_application_package_introduction">สำหรับการเข้าถึงที่เก็บข้อมูลเพื่อวิเคราะห์และสแกนแพ็คเกจการติดตั้ง</string>
+    <string name="permission_backup">เข้าถึงที่เก็บข้อมูลอุปกรณ์</string>
+    <string name="permission_backup_introduction">สำหรับการเข้าถึงและบันทึกข้อมูลสำรองบนอุปกรณ์ของคุณ</string>
     <string name="permission_call_records">เข้าถึงประวัติการโทร:</string>
     <string name="permission_call_records_introduction">สำหรับการเข้าถึงประวัติการโทรเพื่อแสดงรายการที่ถูกบล็อก</string>
     <string name="permission_call_state_introduction">สำหรับการเข้าถึงสถานะโทรศัพท์การบันทึกการโทรและการหยุดการบันทึกชั่วคราวระหว่างการโทรเข้า</string>
@@ -152,6 +171,8 @@
     <string name="poco_agree_terms_other">(รวมถึงนโยบายความเป็นส่วนตัวและข้อตกลงการใช้งานของ POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">นโยบายความเป็นส่วนตัวของ POCO launcher</string>
     <string name="poco_launcher_user_agreement">ข้อตกลงการใช้งานของ POCO Launcher</string>
+    <string name="position_header">การแชร์ข้อมูลตำแหน่ง</string>
+    <string name="position_subheading">ข้อมูลตำแหน่งพิกัด</string>
     <string name="pref_title_data_slot">ซิมที่ใช้งานข้อมูลเป็นหลัก</string>
     <string name="pref_title_voice_slot">ซิมที่ใช้โทรออกเป็นหลัก</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
@@ -168,6 +189,7 @@
     <string name="service_agreement">ฉันได้อ่านแล้วและยอมรับข้อตกลงและเงื่อนไข</string>
     <string name="service_name_album">คลังภาพ</string>
     <string name="service_name_application_package">ตัวติดตั้งแพ็คเกจ</string>
+    <string name="service_name_backup">ข้อมูลสำรอง</string>
     <string name="service_name_calculator">เครื่องคิดเลข</string>
     <string name="service_name_camera">กล้อง</string>
     <string name="service_name_carrier">คำชี้แจงบริการของผู้ให้บริการ</string>
@@ -176,6 +198,7 @@
     <string name="service_name_content_center">ศูนย์เนื้อหา</string>
     <string name="service_name_download">ดาวน์โหลด</string>
     <string name="service_name_fast_application">Framework แอปด่วน</string>
+    <string name="service_name_fast_pairing">Mi Link</string>
     <string name="service_name_game">ปลั๊กอินเกมส์</string>
     <string name="service_name_google_service">คำชี้แจงบริการ Google</string>
     <string name="service_name_location">บริการตามพื้นที่</string>
@@ -186,6 +209,7 @@
     <string name="service_name_security">ความปลอดภัย</string>
     <string name="service_name_service_framework">ขอบข่ายการบริการ Mi</string>
     <string name="service_policy">&lt;Data>อ่านและยอมรับ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a >&lt;/Data></string>
+    <string name="service_policy_download">&lt;Data>ก่อนที่จะใช้บริการของเรา โปรดอ่านและยอมรับ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว Xunlei&lt;/a >&lt;/Data></string>
     <string name="service_privacy_index">นโยบายความเป็นส่วนตัว</string>
     <string name="servicestate_title">คำชี้แจงบริการพื้นฐาน</string>
     <string name="setting_locale">การตั้งค่าพื้นที่…</string>
@@ -219,7 +243,7 @@
     <string name="terms_of_use_label_phrase">, คำที่ถูกใช้บ่อย</string>
     <string name="terms_of_use_label_systemhelper">, บริการลงทะเบียนด้วยตนเอง</string>
     <string name="terms_of_use_label_updater">, ตัวอัปเดต</string>
-    <string name="terms_of_use_lable_apps">บริการ Mi, การเปิดใช้งานบริการ Mi SIM, Xiaomi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, ศูนย์เกมส์, MIUI Daemon และ ระบบส่วนประกอบ MSA, บริการการแปล, แอปด่วน, App vault, สถิติ, Mi Link</string>
+    <string name="terms_of_use_lable_apps">บริการ Mi, การเปิดใช้งานบริการ Mi SIM, Xiaomi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, ศูนย์เกมส์, MIUI Daemon และ ระบบส่วนประกอบ MSA, บริการการแปล, แอปด่วน, MIUI SDK, App vault, สถิติ, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ Facemoji ก่อนที่จะใช้คุณลักษณะนี้"</string>
@@ -236,7 +260,7 @@
     <string name="terms_privacy_policy_input_method_kika">นโยบายความเป็นส่วนตัว Kika</string>
     <string name="title_fingerprint">ตั้งรหัสผ่าน</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
-    <string name="user_agreement_declare">ก่อนที่จะใช้ MIUI คุณต้องอ่านและยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเรา ในขณะที่อุปกรณ์ของคุณกำลังเปิดใช้งาน การเปิดใช้งานบริการ Mi SIM, Xiaomi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, วลีที่ใช้บ่อย, บริการแปลภาษา, MIUI Daemon, ตัวเรียกดู HTML, ผู้ช่วย AI, แบตเตอรี่และประสิทธิภาพ, ตัวตรวจจับพลังงาน, Joyose, การตั้งค่า OS AI, ตัวจัดการการอนุญาต และ ตัวอัปเดต จะเชื่อมต่อกับเครือข่าย บริการอัจฉริยะ จะเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณ</string>
+    <string name="user_agreement_declare">ก่อนที่จะใช้ MIUI คุณต้องอ่านและยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเรา ในขณะที่อุปกรณ์ของคุณกำลังเปิดใช้งาน การเปิดใช้งานบริการ Mi SIM, Xiaomi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, วลีที่ใช้บ่อย, บริการแปลภาษา, MIUI Daemon, ตัวเรียกดู HTML, MIUI SDK, ผู้ช่วย AI, แบตเตอรี่และประสิทธิภาพ, ตัวตรวจจับพลังงาน, Joyose, การตั้งค่า OS AI, ตัวจัดการการอนุญาต และ ตัวอัปเดต จะเชื่อมต่อกับเครือข่าย บริการอัจฉริยะ จะเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณ</string>
     <string name="voice_assist_advice">Mi AI อณุญาตให้คุณใช้การควบคุมด้วยเสียง แต่จะใช้พลังงานมากกว่าเดิม (+1% ทุกชั่วโมง)</string>
     <string name="voice_assist_condition">"คุณจะสามารถใช้งาน Mi AI ได้ในกรณี:r
 1. เมื่อหน้าจอเปิดอยู่r

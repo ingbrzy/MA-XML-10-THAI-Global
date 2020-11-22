@@ -30,7 +30,7 @@
     <string name="advanced_mode">การตั้งค่าขั้นสูง</string>
     <string name="anti_flicker_mode">ป้องกันภาพสั่นไหว</string>
     <string name="anti_flicker_mode_categroy">โหมด</string>
-    <string name="anti_flicker_mode_summary">ลดการสั่นไหวในสภาวะแสงน้อยเพื่อลดอาการปวดตา องค์ประกอบบางอย่างอาจแสดงไม่ถูกต้อง</string>
+    <string name="anti_flicker_mode_summary">ป้องกันการกะพริบเป็นวงกว้างและลดอาการปวดตาในสภาวะแสงน้อย</string>
     <string name="anti_flicker_title">โหมดป้องกันภาพสั่นไหว</string>
     <string name="app_name">การตั้งค่า</string>
     <string name="application_sound">การแจ้งเตือนของแอป</string>
@@ -51,9 +51,13 @@
     <string name="created">สร้างแล้ว</string>
     <string name="created_successfully">สร้างสำเร็จแล้ว</string>
     <string name="cu_confirm">ตั้งค่า</string>
+    <string name="dc_light_hint_enable_title">การแจ้งเตือน</string>
+    <string name="dc_light_hint_normal">การลดแสง DC อาจส่งผลกระทบต่อวิธีการแสดงบางรายการ</string>
+    <string name="dc_light_hint_other">การหรี่แสง DC อาจส่งผลต่ออัตราการรีเฟรชและวิธีการแสดงบางรายการ</string>
+    <string name="dc_lignt_enable_hint">โหมดป้องกันการสั่นไหวจะตั้งค่าอัตราการรีเฟรชหน้าจอเป็น 60 Hz เปลี่ยนเป็นโหมดต่อต้านการสั่นไหวหรือไม่?</string>
     <string name="display_description">ไอคอนที่ใหญ่กว่า ข้อความขนาดใหญ่ รกตาน้อยลง</string>
     <string name="display_title">รายการที่ใหญ่กว่า</string>
-    <string name="exit_easymode">ปิดโหมด Lite</string>
+    <string name="exit_easymode">ปิดโหมดง่าย</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="first_unlock_time">"ปลดล็อคครั้งแรก: "</string>
     <string name="focus_mode_custom_time">ระยะเวลาที่กำหนดเอง</string>
@@ -66,6 +70,7 @@
     <string name="follow_sim1">ใช้การตั้งค่าใช้ซิม 1</string>
     <string name="gamma">แกมมา</string>
     <string name="healthy_use_phone">จัดการเวลาหน้าจอ</string>
+    <string name="high_fps_description">อัตราการรีเฟรชหน้าจอสูง การใช้พลังงานที่สูงขึ้น</string>
     <string name="hsv_space_color">พื้นที่สี HSV</string>
     <string name="hsv_space_color_hue">โทนสี</string>
     <string name="hsv_space_color_saturation">ความอิ่มสี</string>
@@ -74,6 +79,7 @@
     <string name="intelligent_recognition_item_title">ระบุบริการ</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="lock_summary">ป้องกันข้อมูลส่วนตัวของคุณ</string>
+    <string name="low_fps_description">อัตราการรีเฟรชหน้าจอต่ำ ลดการใช้พลังงาน</string>
     <string name="low_light_preview">ภาพตัวอย่างที่มีแสงน้อย</string>
     <string name="mms">การส่งข้อความ</string>
     <string name="more_ringtone">เสียงเรียกเข้าทั้งหมด</string>
@@ -119,13 +125,14 @@
     <string name="search_menu_title">ค้นหา</string>
     <string name="several_days_use_time">เวลาหน้าจอ: %2$s</string>
     <string name="shortcut_created">ปุ่มลัดนี้มีอยู่แล้ว</string>
+    <string name="silent_ringtone_hint">ขณะนี้เสียงเงียบไปแล้ว เพิ่มระดับเสียงแล้วลองอีกครั้ง</string>
     <string name="sim_slot_1">" (ซิม 1)"</string>
     <string name="sim_slot_2">" (ซิม 2)"</string>
     <string name="sms_delivered_sound_title">ข้อความที่ส่งแล้ว</string>
     <string name="sms_received_sound_title">ข้อความที่ได้รับ</string>
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">แสดงเนื้อหาหน้าจอทั้งหมดในช่วงสี sRGB</string>
-    <string name="start_easymode">เปิดโหมด Lite</string>
+    <string name="start_easymode">เปิดโหมดง่าย</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="steady_on_screen_notification_title">วางโทรศัพท์ของคุณและหยุดพัก</string>
     <string name="steady_on_screen_notify">แจ้งเตือนเกี่ยวกับการใช้งานอย่างต่อเนื่อง</string>
@@ -139,7 +146,7 @@
     <string name="suggestion">ข้อเสนอแนะ</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="thememanager_not_found">ไม่สามารถเปิดธีมได้ กรุณาตรวจสอบให้แน่ใจว่านี้แอปได้ติดตั้งบนเครื่องของคุณแล้ว</string>
-    <string name="title_activity_easy_mode">โหมด Lite</string>
+    <string name="title_activity_easy_mode">โหมดง่าย</string>
     <string name="to_authorize">ให้สิทธิ์การใช้งาน</string>
     <string name="today_usage_title">วันนี้</string>
     <string name="today_use_time">เวลาหน้าจอ: %1$s</string>
@@ -158,7 +165,9 @@
     <string name="usage_app_limit_alter_title">ตรวจสอบขีดจำกัดเวลาหน้าจอ</string>
     <string name="usage_app_limit_prelong">ขยายเวลา</string>
     <string name="usage_app_limit_reach_summay">คงเหลือ %s</string>
+    <string name="usage_app_limit_reach_summay_new">แตะเพื่อเพิ่ม %d mins</string>
     <string name="usage_app_limit_reach_title">%s ใกล้ถึงเวลาที่จำกัดการใช้หน้าจอแล้ว</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">เวลาหน้าจอที่เหลือสำหรับ %1s: %2s</string>
     <string name="usage_app_limit_summary">แอปที่เลือกจะไม่สามารถใช้ได้เมื่อถึงขีดจำกัด</string>
     <string name="usage_app_limit_title">จำกัดเวลาหน้าจอ</string>
     <string name="usage_app_other_settings">การตั้งค่าเพิ่มเติม</string>
@@ -210,8 +219,12 @@
     <string name="usage_home_premission_second_summary_double_link_prefix">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้องหากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเพิกถอนการอนุญาตได้ใน เวลาหน้าจอ > การตั้งค่า > ปิดเวลาหน้าจอ</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>ก่อนใช้งานแอปนี้ อ่านและยอมรับใน &lt;a href='%1s'>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href='%2s'>นโยบายความเป็นส่วนตัว&lt;/a>.&lt;/Data> ของเรา"</string>
     <string name="usage_home_premission_second_summary_new">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้องหากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเพิกถอนการอนุญาตได้ใน เวลาหน้าจอ > การตั้งค่า > ปิดเวลาหน้าจอ หากคุณมีข้อสงสัยเกี่ยวกับความเป็นส่วนตัว คุณสามารถติดต่อเราได้ที่ privacy@xiaomi.com.</string>
+    <string name="usage_new_home_app_limit_summary">ตั้งค่า จำกัด เวลาหน้าจอรายวันสำหรับแอปนี้</string>
+    <string name="usage_new_home_app_limit_title">จำกัดเวลาหน้าจอ</string>
     <string name="usage_new_home_average">"เฉลี่ย "</string>
+    <string name="usage_new_home_avg_usage_day">ค่าเฉลี่ย %s รายวัน</string>
     <string name="usage_new_home_category">หมวดหมู่</string>
+    <string name="usage_new_home_classify_manage">จัดการหมวดหมู่แอป</string>
     <string name="usage_new_home_compare_text1">%.2f มากกว่าวันก่อนหน้า</string>
     <string name="usage_new_home_compare_text2">%.2f น้อยกว่าวันก่อนหน้า</string>
     <string name="usage_new_home_compare_text3">เหมือนกับวันก่อนหน้า</string>
@@ -219,15 +232,19 @@
     <string name="usage_new_home_dashboard">แผงหน้าปัด</string>
     <string name="usage_new_home_date_day_title">%s | ระยะเวลาการใช้งาน</string>
     <string name="usage_new_home_day_category_title">หมวดหมู่แอป</string>
+    <string name="usage_new_home_day_category_title_new">เวลาหน้าจอของหมวดหมู่แอปเมื่อ %s</string>
     <string name="usage_new_home_day_title">วัน</string>
     <string name="usage_new_home_day_usage_title">แอปส่วนบุคคล</string>
+    <string name="usage_new_home_day_usage_title_new">เวลาหน้าจอเมื่อ %s</string>
     <string name="usage_new_home_first_unlock">ปลดล็อคครั้งแรก: %s</string>
     <string name="usage_new_home_name">ชื่อ</string>
     <string name="usage_new_home_show_more_data_summary">คุณสามารถจำกัดเวลาหน้าจอสำหรับแต่ละแอป</string>
     <string name="usage_new_home_show_more_data_title">เรียกดูสถิติเพิ่มเติม</string>
+    <string name="usage_new_home_sys_no_limit_summary">ไม่สามารถจำกัดเวลาหน้าจอสำหรับแอประบบ</string>
     <string name="usage_new_home_unlock_equals_text">เหมือนกับวันก่อนหน้า</string>
     <string name="usage_new_home_unused">ไม่ได้ใช้</string>
     <string name="usage_new_home_update">เปลี่ยน</string>
+    <string name="usage_new_home_usage_detail">รายละเอียดการใช้งาน</string>
     <string name="usage_new_home_week_category_title">หมวดหมู่แอป</string>
     <string name="usage_new_home_week_compare_text1">%.2f มากกว่าสัปดาห์ก่อนหน้า</string>
     <string name="usage_new_home_week_compare_text2">%.2f น้อยกว่าสัปดาห์ก่อนหน้า</string>
@@ -249,7 +266,7 @@
     <string name="usage_reach_device_limit_warning_text">วันนี้คุณถึงขีดจำกัดเวลาหน้าจอแล้ว</string>
     <string name="usage_refresh">ลองอีกครั้ง</string>
     <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
-    <string name="usage_remain_hour_miunte">%1$s%2$s</string>
+    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="usage_request_error_summary">เกิดข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="usage_request_timeout_summary">การร้องขอเกินเวลาที่กำหนด</string>
     <string name="usage_runtime_per_des_summary">สำหรับการบันทึกสถิติเวลาหน้าจอของคุณ</string>
@@ -363,6 +380,8 @@
     <string name="usage_stats_week_day">สุดสัปดาห์</string>
     <string name="usage_total_days">จำนวนวัน</string>
     <string name="usage_total_times">เซสชันทั้งหมด</string>
+    <string name="usage_week_avg_usage_title">เฉลี่ยสัปดาห์นี้</string>
+    <string name="usage_week_avg_usage_title2">เวลาเฉลี่ย</string>
     <string name="usage_weekly_report_summary">เรียนรู้วิธีการใช้เวลากับอุปกรณ์ของคุณ</string>
     <string name="usage_weekly_report_title">รายงานประจำสัปดาห์</string>
     <string name="usagestats_app_category_miui_education">การศึกษา</string>

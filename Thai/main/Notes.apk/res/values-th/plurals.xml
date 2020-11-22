@@ -90,6 +90,9 @@
     <plurals name="todo_event_description_days_later">
         <item quantity="other">ใน %1$d วัน</item>
     </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s งาน</item>
+    </plurals>
     <plurals name="word_count">
         <item quantity="other">%d ตัวอักษร</item>
     </plurals>

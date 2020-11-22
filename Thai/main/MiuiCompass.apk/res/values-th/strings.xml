@@ -79,6 +79,7 @@
     <string name="location_enabled">คุณสามารถปิดการระบุตำแหน่งพิกัดได้ตลอดเวลาจากเมนูการตั้งค่า</string>
     <string name="location_north">ละติจูดเหนือ</string>
     <string name="location_not_enabled_summary">เข็มทิศต้องการเข้าถึงตำแหน่งพิกัดของคุณเพื่อที่จะแสดงพิกัดและความสูง</string>
+    <string name="location_not_enabled_summary_no_pressure_sensor">เข็มทิศ จำเป็นต้องเข้าถึงตำแหน่งของคุณเพื่อแสดงพิกัดปัจจุบันของคุณ</string>
     <string name="location_not_enabled_title">การระบุตำแหน่งพิกัด</string>
     <string name="location_south">ละติจูดใต้</string>
     <string name="location_west">ลองติจูดตะวันตก</string>

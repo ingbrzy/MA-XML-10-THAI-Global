@@ -5,16 +5,16 @@
     <string name="Today">วันนี้</string>
     <string name="Yesterday">เมื่อวาน</string>
     <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
-    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_bar_up_description">กลับ</string>
     <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
-    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
     <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
     <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
     <string name="abc_capital_off">ปิด</string>
     <string name="abc_capital_on">เปิด</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -23,10 +23,10 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">เมนู+</string>
     <string name="abc_search_hint">ค้นหา…</string>
-    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
-    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_query">คำค้นหา</string>
     <string name="abc_searchview_description_search">ค้นหา</string>
-    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
     <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
     <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
@@ -66,8 +66,17 @@
     <string name="action_update_phone">เปลี่ยนหมายเลขโทรศัพท์</string>
     <string name="activate_email_notice">กรุณายืนยันบัญชีให้เรียบร้อยภายใน 24 ชั่วโมง</string>
     <string name="activity_not_found_notice">ไม่พบแอป</string>
+    <string name="ad_buy">ซื้อ</string>
+    <string name="ad_download">ดาวน์โหลด</string>
+    <string name="ad_join">เข้าร่วมคอมมูนิตี้</string>
+    <string name="ad_more">เพิ่มเติม</string>
+    <string name="add_search_channel_link">URL</string>
+    <string name="add_search_channel_name">ชื่อ</string>
+    <string name="add_search_channel_tip">ค้นหา \"%s\" บนเว็บไซต์เป้าหมาย จากนั้นคัดลอกและวาง URL ที่นี่</string>
     <string name="add_to_trust_device">นี้คืออุปกรณ์ที่ฉันเชื่อถือ</string>
+    <string name="add_website">เพิ่มเว็บไซต์</string>
     <string name="agree">ยอมรับ</string>
+    <string name="agree_and_continue">เห็นด้วย</string>
     <string name="ai_animation_music_text">เพลงประกอบ AI</string>
     <string name="ai_music_save_cancel">ยกเลิก </string>
     <string name="ai_music_save_dialog_title">บันทึก</string>
@@ -86,9 +95,11 @@
     <string name="alert_dialog_download_progress">"กำลังดาวน์โหลดแอป: "</string>
     <string name="all">แสดงทั้งหมด</string>
     <string name="app_name">Mi วิดีโอ</string>
+    <string name="auth_again">ตกลง</string>
     <string name="auth_fail_warning">เซสชันหมดอายุ เข้าสู่ระบบอีกครั้ง</string>
     <string name="auto_play_next_off">การเล่นอัตโนมัติปิดอยู่</string>
     <string name="auto_play_next_on">การเล่นอัตโนมัติเปิดอยู่</string>
+    <string name="back_to_mainpage">ค้นหา</string>
     <string name="before_yestoday">2 วันก่อน</string>
     <string name="bind_sign_in_title">เพิ่มบัญชี Mi</string>
     <string name="cancel">ยกเลิก </string>
@@ -104,6 +115,7 @@
     <string name="cast_expanded_controller_ad_image_description">ภาพที่แสดงขณะที่เครื่องรับการแคสต์กำลังเล่นโฆษณา</string>
     <string name="cast_expanded_controller_ad_in_progress">โฆษณาอยู่ระหว่างดำเนินการ...</string>
     <string name="cast_expanded_controller_background_image">ปกอัลบั้ม</string>
+    <string name="cast_expanded_controller_live_head_description">ตำแหน่งปัจจุบันอยู่ที่ส่วนบนของสตรีมแบบสด</string>
     <string name="cast_expanded_controller_live_stream_indicator">การสตรีมแบบสด</string>
     <string name="cast_expanded_controller_loading">กำลังโหลด…</string>
     <string name="cast_expanded_controller_skip_ad_label">ข้ามโฆษณา</string>
@@ -111,6 +123,8 @@
     <string name="cast_forward">กรอไปข้างหน้า</string>
     <string name="cast_forward_10">กรอไปข้างหน้า 10 วินาที</string>
     <string name="cast_forward_30">กรอไปข้างหน้า 30 วินาที</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
+    <string name="cast_live_label">สด</string>
     <string name="cast_mute">ปิดเสียง</string>
     <string name="cast_notification_connected_message">เชื่อมต่อ %1$s แล้ว</string>
     <string name="cast_notification_connecting_message">กำลังเชื่อมต่อ %1$s</string>
@@ -142,6 +156,8 @@
     <string name="choose_to_signup">ไม่ ฉันต้องการสร้างบัญชี</string>
     <string name="click_to_reload_more">แตะเพื่อโหลดเพิ่มเติม</string>
     <string name="click_to_retry">ลองใหม่</string>
+    <string name="cloud_auto_pip_play_switch">ใช้ภาพซ้อนภาพโดยอัตโนมัติ</string>
+    <string name="cloud_online_player">เครื่องเล่น</string>
     <string name="cloud_online_switch">การแนะนำส่วนบุคคล</string>
     <string name="cloud_online_switch_close_time">คุณสามารถเปิดการแนะนำเนื้อหาในแบบของคุณได้ %s</string>
     <string name="cloud_online_switch_open_time">แสดงคำแนะนำเนื้อหาส่วนบุคคล</string>
@@ -218,19 +234,23 @@
     <string name="confirm_unbundled_phone_dialog_message">หมายเลขโทรศัพท์นี้ไม่ได้ผูกกับบัญชี Mi %2$s เมื่อ %1$s หากดำเนินการต่อหมายเลขโทรศัพท์จะไม่ผูกกับบัญชี Mi %3$s อีกต่อไป ดำเนินการต่อหรือไม่?</string>
     <string name="content">เนื้อหา</string>
     <string name="content_can_not_null">ไม่สามารถส่งข้อเสนอแนะโดยไม่มีคำอธิบายได้</string>
+    <string name="continue_play">เริ่มต่อ</string>
     <string name="data_empty">ไม่มีรายการ</string>
     <string name="description">รายละเอียด</string>
+    <string name="detail_select_source">เลือกแหล่งที่มาของการเล่น</string>
     <string name="diagnosis_log_send_failed">ไม่สามารถส่งบันทึกได้ ลองอีกครั้ง.</string>
     <string name="diagnosis_log_sent_format">"ส่งบันทึกการใช้สำเร็จแล้ว
 ID:%s
 ส่งรหัสนี้ไปยังที่ปรึกษา"</string>
-    <string name="dialog_privacy_info_new2">เพื่อให้สามารถใช้บริการได้ คุณต้องตกลงว่า %1$s จะรวบรวม ดำเนินการ และใช้ข้อมูลส่วนตัวของคุณ คุณจะถือว่าได้อ่านและตกลง &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> เมื่อคุณกด \"ตกลง\" ด้านล่างนี้</string>
+    <string name="dialog_privacy_info_new2">เพื่อให้สามารถใช้บริการได้ คุณต้องตกลงว่า %1$s จะรวบรวม ดำเนินการ และใช้ข้อมูลส่วนตัวของคุณ คุณจะถือว่าได้อ่านและตกลง &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> เมื่อคุณกด \"ตกลง\" ด้านล่างนี้</string>
+    <string name="dialog_privacy_info_new3">ในการใช้บริการนี้คุณต้องอนุญาตให้ %1$s รวบรวมประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณตามนโยบายความเป็นส่วนตัว การแตะ ยอมรับ ด้านล่าง แสดงว่าคุณยอมรับ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a> &lt;br/>&lt;br/>การแตะ ยอมรับ ยังช่วยให้ Mi วีดีโอ เข้าถึงรายการแอพที่ติดตั้งบนอุปกรณ์ของคุณ ด้วยการอนุญาตนี้ Mi วิดีโอ จะสามารถแชร์รายการต่างๆทำความเข้าใจว่ามีการติดตั้งแอปในอุปกรณ์ของคุณแล้วหรือไม่ ติดตั้งแอปเวอร์ชันใดไว้ และแอปนั้นปลอดภัยหรือไม่</string>
     <string name="dialog_privacy_title">การให้สิทธิ์</string>
     <string name="dialog_revoke_privacy_info_new2">หลังจากที่คุณถอนการอนุญาต แอปนี้จะหยุดรวบรวมข้อมูล ข้อมูลที่เกี่ยวข้องจะถูกลบออกจากเซิฟเวอร์ การกระทำนี้อาจทำให้ไม่สามารถใช้งานแอปได้ ต้องการถอนคำอนุญาตหรือไม่？</string>
     <string name="dialog_revoke_privacy_title">กำลังเพิกถอนการให้สิทธิ์</string>
     <string name="diy_channels_tips">คุณสามารถปรับแต่งรายการช่องของคุณได้ทันที</string>
     <string name="do_not_show_again">ไม่ต้องแสดงอีก</string>
     <string name="download">ดาวน์โหลด</string>
+    <string name="download_checking_tip">กำลังเตรียมดาวน์โหลด…</string>
     <string name="download_complete">ดาวน์โหลดแล้ว</string>
     <string name="download_delete_tip">ลบรายการที่เลือกไว้?</string>
     <string name="download_delete_title">ลบ</string>
@@ -239,6 +259,7 @@ ID:%s
     <string name="download_power_off_tips">คุณลักษณะนี้ไม่สามารถใช้งานได้ในขณะนี้</string>
     <string name="download_progress">%d%%</string>
     <string name="download_retry">ลองอีกครั้ง</string>
+    <string name="download_unable_tip">ไม่สามารถดาวน์โหลดรายการนี้</string>
     <string name="download_video">กำลังดาวน์โหลดวิดีโอ</string>
     <string name="downloading">กำลังดาวน์โหลด…</string>
     <string name="empty_channels">จัดการช่องสัญญาณ</string>
@@ -279,6 +300,7 @@ ID:%s
     <string name="exo_track_surround_5_point_1">ระบบเสียง 5.1 เซอร์ราวด์</string>
     <string name="exo_track_surround_7_point_1">7.1 เสียงเซอร์ราวด์</string>
     <string name="exo_track_unknown">ไม่ทราบ</string>
+    <string name="explore">ค้นหา</string>
     <string name="explore_on_mi_video">ค้นหาเพิ่มเติมใน Mi วิดีโอ</string>
     <string name="failed_dup_secure_phone_number">หมายเลขโทรศัพท์นี้ได้ถูกผูกไว้กับบัญชี Mi อื่นอยู่ก่อนแล้ว</string>
     <string name="failed_to_fetch_data">ไม่สามารถโหลดข้อมูลได้</string>
@@ -291,6 +313,7 @@ ID:%s
     <string name="favorite_fail">ไม่สามารถเพิ่มรายการโปรดได้ ลองใหม่อีกครั้ง.</string>
     <string name="favorite_success">เพิ่มไปยังรายการโปรดเรียบร้อยแล้ว</string>
     <string name="fcm_fallback_notification_channel_label">เบ็ดเตล็ด</string>
+    <string name="fcm_push_title">วิดีโอยอดนิยม</string>
     <string name="feedback">ข้อเสนอแนะ</string>
     <string name="feedback_activity_title">ข้อเสนอแนะ</string>
     <string name="feedback_contact_empty">ป้อนข้อมูลการติดต่อของคุณ</string>
@@ -306,8 +329,11 @@ ID:%s
     <string name="feedback_success_toast">ส่งเรียบร้อยแล้ว ขอขอบคุณสำหรับข้อเสนอแนะของคุณ!</string>
     <string name="feedback_tag_title">หมวดหมู่</string>
     <string name="feedback_text_empty_toast">เขียนข้อเสนอแนะของคุณก่อน</string>
+    <string name="file_cant_rename">File with %1$s name already exists. Please rename</string>
+    <string name="file_space_not_enough_tip">พื้นที่จัดเก็บไม่เพียงพอ เพิ่มพื้นที่ว่างอย่างน้อย %d MB และเปิดแอปอีกครั้ง</string>
     <string name="find_psw">ลืมรหัสผ่าน</string>
     <string name="finish">เสร็จสิ้น</string>
+    <string name="firework_privacy">นโยบายความเป็นส่วนตัว Firework</string>
     <string name="for_diagnosis_usage_only">บันทึกใช้สำหรับการวินิจฉัยเท่านั้น</string>
     <string name="for_you">สำหรับคุณ</string>
     <string name="friday">วันศุกร์</string>
@@ -332,11 +358,17 @@ ID:%s
     <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">ทั้งหมด</string>
     <string name="gallery_tab_videos">วิดีโอ</string>
+    <string name="galleryplus_already_cloud_member">Using VIP membership to play</string>
+    <string name="galleryplus_check_network">การตั้งค่า</string>
     <string name="galleryplus_chose_play_speed">เล่นที่ความเร็ว %1$.1fX</string>
+    <string name="galleryplus_chose_play_speed_2">เล่นที่ความเร็ว %1$.2fX</string>
     <string name="galleryplus_chose_play_speed_failure">ไม่สามารถปรับความเร็วในการเล่นได้</string>
     <string name="galleryplus_click_to_higher_definition">แตะสองครั้งเพื่อเปิดดูตัวอย่าง HD</string>
+    <string name="galleryplus_copyright_unsported_audio">ไม่สามารถเล่นวิดีโอแทร็กเสียงได้เนื่องจากข้อจำกัดทางลิขสิทธิ์</string>
+    <string name="galleryplus_copyright_unsported_video">ไม่สามารถเล่นวิดีโอนี้ได้เนื่องจากข้อจำกัดทางลิขสิทธิ์</string>
     <string name="galleryplus_cta_tips">คุณสามารถช่วยเราปรับปรุงบริการของเราโดยลงทะเบียนในโปรแกรมประสบการณ์ผู้ใช้และอนุญาตให้ Mi วิดีโอ เชื่อมต่อกับอินเทอร์เน็ต ตกลง?</string>
     <string name="galleryplus_double_tap_to_higher_definition">แตะสองครั้งอีกทีเพื่อเปิดดูตัวอย่าง HD</string>
+    <string name="galleryplus_fr_unsupport_restore_speed">อัตราเฟรมที่ไม่รองรับ เปลี่ยนกลับเป็นความเร็วปกติ</string>
     <string name="galleryplus_gallery_fold_tags">ซ่อนเครื่องหมาย</string>
     <string name="galleryplus_gallery_video_adjust_hint">รองรับเฉพาะวิดีโอ 960fps</string>
     <string name="galleryplus_gallery_video_adjust_text">ปรับแต่ง</string>
@@ -353,7 +385,16 @@ ID:%s
     <string name="galleryplus_gallery_video_save_video">กำลังสร้างวิดีโอ…</string>
     <string name="galleryplus_gallery_video_slow_edit">สโลโมชั่น</string>
     <string name="galleryplus_gallery_view_tags">แสดงเครื่องหมาย</string>
-    <string name="galleryplus_is_higher_definition">เปิดดูตัวอย่าง HD</string>
+    <string name="galleryplus_is_higher_definition">ตัวอย่าง HD</string>
+    <string name="galleryplus_network_connect_check">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
+    <string name="galleryplus_network_connect_confirm">เชื่อมต่อกับ Wi-Fi หรือเปิดข้อมูลมือถือในการตั้งค่าเครือข่าย</string>
+    <string name="galleryplus_network_error">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
+    <string name="galleryplus_network_not_wifi">การใช้ข้อมูลมือถือเพื่อสตรีมวิดีโออาจสร้างค่าธรรมเนียมผู้ให้บริการเพิ่มเติม</string>
+    <string name="galleryplus_online_cta">Mi Video ต้องเชื่อมต่ออินเทอร์เน็ตเพื่อทำงานตามปกติ เห็นด้วยหรือไม่?</string>
+    <string name="galleryplus_online_cta_agree">เห็นด้วย</string>
+    <string name="galleryplus_online_cta_disagree">ไม่เห็นด้วย</string>
+    <string name="galleryplus_online_cta_title">ข้อตกลงและเงื่อนไข</string>
+    <string name="galleryplus_online_video_loading">รอสักครู่…</string>
     <string name="galleryplus_permission_content">ให้สิทธิ์ Mi วีดีโอ ที่จำเป็นเพื่อให้สามารถใช้คุณสมบัตินี้</string>
     <string name="galleryplus_permission_content2">"เพื่อให้สามารถใช้คุณสมบัตินี้ได้ ให้ไปที่ การตั้งค่า > แอป > Mi วีดีโอ > การอนุญาตแอป และอนุญาตให้ Mi วีดีโอ ทำสิ่งต่อไปนี้:
 
@@ -375,6 +416,7 @@ ID:%s
     <string name="galleryplus_subtitle_edit_edit">แก้ไขคำบรรยาย</string>
     <string name="galleryplus_subtitle_edit_hide">ซ่อนคำบรรยาย</string>
     <string name="galleryplus_subtitle_edit_literal_edit">แก้ไขข้อความ</string>
+    <string name="galleryplus_subtitle_edit_reminder">ข้อความที่คุณป้อนยาวเกินไป</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">ไม่สามารถตรวจจับคำพูดในขณะที่คุณกำลังบันทึกได้</string>
     <string name="galleryplus_v_agree">ตกลง</string>
     <string name="galleryplus_v_cancel">ยกเลิก</string>
@@ -397,6 +439,7 @@ ID:%s
     <string name="get_ph_ticket">รับรหัส</string>
     <string name="get_phone_bind_exceed_limit">คุณสามารถผูกหมายเลขโทรศัพท์กับบัญชี Mi ได้เกิน 3 บัญชี ไม่สามารถเพิ่มบัญชีใหม่ได้</string>
     <string name="get_phone_verifycode_exceed_limit">มีการส่งรหัสยืนยันมายังหมายเลขโทรศัพท์นี้เกินจำนวนครั้งที่กำหนด กรุณารอ 24 ชั่วโมงแล้วลองใหม่อีกครั้ง</string>
+    <string name="got_it">รับทราบ</string>
     <string name="goto_sign_up">สร้างบัญชี</string>
     <string name="have_learned">รับทราบ</string>
     <string name="hidden_channels">ช่องต่อไปนี้จะไม่ปรากฏในหน้าแรก</string>
@@ -404,6 +447,7 @@ ID:%s
     <string name="history">ประวัติ</string>
     <string name="history_local_video">ในเครื่อง</string>
     <string name="history_online_video">ออนไลน์</string>
+    <string name="hot">ยอดนิยม</string>
     <string name="identity">เลขประจำตัว</string>
     <string name="inconsistent_pwd">รหัสผ่านไม่ตรงกัน</string>
     <string name="init_channels">เรียกคืนค่าเริ่มต้น</string>
@@ -412,6 +456,12 @@ ID:%s
     <string name="input_size_tips">คุณสามารถป้อนได้มากสุด 1000 ตัวอักษร</string>
     <string name="isornot_your_mi_account">นี่คือบัญชี Mi ของคุณ?</string>
     <string name="issue">ปัญหา</string>
+    <string name="item_card_all_replies">การตอบทั้งหมด</string>
+    <string name="item_card_continue_play">เล่นอัตโนมัติ</string>
+    <string name="item_card_more_trailers">ตัวอย่างเพิ่มเติม</string>
+    <string name="item_card_open_in">"เปิดใน "</string>
+    <string name="item_card_related">ที่เกี่ยวข้อง</string>
+    <string name="item_setting_go_back">การเพิกถอนความยินยอม</string>
     <string name="just_a_second">รอสักครู่…</string>
     <string name="language_later_setting_tips">คุณสามารถเปลี่ยนการตั้งค่าภาษาในโปรไฟล์ > ภาษา</string>
     <string name="language_select_tips">"เลือกภาษาที่คุณต้องการ
@@ -532,7 +582,7 @@ ID:%s
     <string name="lv_subtitle_onlinesub_loading">กำลังโหลดคำบรรยาย…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">กำลังโหลดคำบรรยาย…</string>
     <string name="lv_subtitle_onlinesub_right_declare">ข้อสงวนสิทธิ์</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">รับคำบรรยาย &lt;br/>&lt;br/> จาก &lt;a href=\"http://www.opensubtitles.org\"> opensubtitles.org&lt;/a> &lt;br/>&lt;br/> คำบรรยายออนไลน์ทั้งหมดมีให้โดย &lt;a href=\"http://www.opensubtitles.org\"> opensubtitles.org&lt;/a></string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">รับคำบรรยาย &lt;br/>&lt;br/> จาก &lt;a href=http://www.opensubtitles.org> opensubtitles.org&lt;/a> &lt;br/>&lt;br/> คำบรรยายออนไลน์ทั้งหมดมีให้โดย &lt;a href=http://www.opensubtitles.org> opensubtitles.org&lt;/a></string>
     <string name="lv_subtitle_onlinesub_save_failed">ไม่สามารถเพิ่มคำบรรยายได้</string>
     <string name="lv_subtitle_onlinesub_save_success">เพิ่มคำบรรยายเรียบร้อย</string>
     <string name="lv_subtitle_onlinesub_search_keyword">ป้อนคำค้นที่จะใช้ค้นหา</string>
@@ -554,6 +604,7 @@ ID:%s
     <string name="lv_video_null">ไม่มีวิดีโอ</string>
     <string name="lv_volume">ระดับเสียง</string>
     <string name="manage">จัดการ</string>
+    <string name="mediation_ad_can_not_share">ไม่สามารถแชร์วิดีโอนี้</string>
     <string name="mi_video">Mi วิดีโอ</string>
     <string name="mnc_live_tv">Live TV</string>
     <string name="moment_guide_desc">ใช้ท่าทางสัมผัสเพื่อซูมเข้าและออก</string>
@@ -595,7 +646,9 @@ ID:%s
     <string name="need_update_app">อัพเดท Mi วิดีโอ เพื่อใช้คุณลักษณะทั้งหมด</string>
     <string name="network_connect_info">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง</string>
     <string name="network_failed">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
+    <string name="new_channel_tip">ดูช่องใหม่!</string>
     <string name="next">ถัดไป</string>
+    <string name="next_step">ถัดไป</string>
     <string name="nick_name">ชื่อเล่น</string>
     <string name="no_account">ไม่ได้เข้าสู่ระบบ</string>
     <string name="no_longer_prompt">ไม่ต้องแสดงอีก</string>
@@ -614,9 +667,17 @@ ID:%s
     <string name="notice_message_title">การแจ้งเตือน</string>
     <string name="notice_title">ข้อความ</string>
     <string name="notification_bar">แถบการแจ้งเตือน</string>
+    <string name="notification_bar_player_subtitle">แสดงเครื่องเล่นย่อขนาดในแถบแจ้งเตือน</string>
+    <string name="notification_bar_player_title">ย่อขนาดเครื่องเล่น</string>
     <string name="notification_open_tip">เปิดใช้งานเพิ่อรับการแจ้งเตือน</string>
+    <string name="notification_recall_action">เปิดใช้งาน</string>
+    <string name="notification_recall_desc">Mi วิดีโอ สามารถแจ้งเตือนคุณเกี่ยวกับวิดีโอยอดนิยมและการสมัครรับข้อมูลของคุณ</string>
+    <string name="notification_recall_title">เปิดการแจ้งเตือน</string>
     <string name="notify_apk_installed">ดาวน์โหลดเรียบร้อย</string>
+    <string name="off_tip_firework_recommend">คุณจะไม่ได้รับคำแนะนำเนื้อหาในแบบของคุณจาก Firework</string>
     <string name="ok">ตกลง</string>
+    <string name="on_tip_firework_recommend">คุณจะได้รับคำแนะนำเนื้อหาในแบบของคุณจาก Firework</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">การติดตามล่าสุด</string>
     <string name="order_recently_updated">อัปเดตล่าสุด</string>
     <string name="ovp_alert_dialog_download_install_task">กำลังดาวน์โหลด HD ปลั๊กอิน…</string>
@@ -624,7 +685,7 @@ ID:%s
     <string name="ovp_category">ประเภท</string>
     <string name="ovp_confirm_delete_favor">ลบรายการที่เลือกจากรายการโปรด?</string>
     <string name="ovp_default_plugin_name">HD ปลั๊กอิน</string>
-    <string name="ovp_detail_back_to_watch_more">ค้นพบรายการเพิ่มเติมในหน้าแรก</string>
+    <string name="ovp_detail_back_to_watch_more">Discover more brilliant videos</string>
     <string name="ovp_detail_collapse_summary">ซ่อน</string>
     <string name="ovp_detail_collect">เพิ่มไปยังรายการโปรด</string>
     <string name="ovp_detail_comment">ข้อคิดเห็น</string>
@@ -785,8 +846,8 @@ ID:%s
     <string name="passport_unknow_error">เกิดข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="passport_unknow_host_network_error">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองใหม่อีกครั้ง</string>
     <string name="passport_unknow_network_error">เครือข่ายขัดข้อง</string>
-    <string name="passport_user_agreement_link">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a>ของ Xiaomi แล้ว&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>ฉันได้อ่านและยอมรับเอกสารดังกล่าวแล้ว: &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%4$s\">นโยบายความเป็นส่วนตัว&lt;/a>ของ Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของ Xiaomi แล้ว&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>ฉันได้อ่านและยอมรับเอกสารดังกล่าวแล้ว: &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของ Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">ป้อนรหัสผ่านสำหรับ %1$s</string>
     <string name="passport_v_code_error">รหัสยืนยันไม่ถูกต้อง</string>
     <string name="passport_vcode_notification_title">การตรวจสอบการเข้าสู่ระบบของคุณไม่สมบูรณ์</string>
@@ -812,16 +873,23 @@ ID:%s
     <string name="permission_storage">พื้นที่จัดเก็บข้อมูล</string>
     <string name="permission_storage_desc">สำหรับการเข้าถึงรายการ ไฟล์ที่บันทึก การแสดง และเล่นวิดีโอในเครื่อง</string>
     <string name="permission_title">สิทธิ์ที่จำเป็น</string>
+    <string name="pgc_push_title">การติดตาม</string>
     <string name="phone_bind_too_many">โทรศัพท์เครื่องนี้ถูกผูกกับบัญชี Mi หลายบัญชีในช่วงระยะเวลาห่างกันไม่นาน กรุณาใช้หมายเลขโทรศัพท์อื่น</string>
     <string name="phone_hint">หมายเลขโทรศัพท์</string>
     <string name="phone_num_use_for">หมายเลขโทรศัพท์ใช้สำหรับ:</string>
     <string name="phone_number">หมายเลขโทรศัพท์</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพที่พร้อมใช้งาน</string>
+    <string name="pip">PiP</string>
+    <string name="playlist_create">สร้าง</string>
     <string name="playlist_detail_recomm_title">เพลย์ลิสต์ที่แนะนำ</string>
+    <string name="playlist_finish">เสร็จสิ้น</string>
     <string name="playlist_hot">ยอดนิยม</string>
+    <string name="playlist_name">ป้อนชื่อเพลย์ลิสต์</string>
     <string name="playlist_new">ใหม่</string>
     <string name="playlist_no_more">ไม่มีวีดีโอเพิ่มเติม</string>
+    <string name="playlist_no_videos">ไม่มีวิดีโอ</string>
     <string name="playlist_offline">รายการเพลงนี้ไม่สามารถใช้งานได้อีกต่อไป</string>
+    <string name="playlist_remove">ลบออก</string>
     <string name="playlist_title">รายการที่เล่น</string>
     <string name="playlist_view_more">เพลย์ลิสต์เพิ่มเติม</string>
     <string name="plus_add_shortcut">สร้างปุ่มลัดหน้าจอหลัก</string>
@@ -889,7 +957,7 @@ ID:%s
     <string name="plus_player_subtitle_local_add_success">เพิ่มคำบรรยายเรียบร้อย</string>
     <string name="plus_player_subtitle_no_file">ไม่มีคำบรรยายที่นี่</string>
     <string name="plus_player_subtitle_online">คำบรรยายออนไลน์</string>
-    <string name="plus_player_subtitle_online_declare_content">คุณกำลังค้นหาคำบรรยาย &lt;br/> ในฐานข้อมูล &lt;a href=\"http://www.opensubtitles.org\"> opensubtitles.org &lt;/a> &lt;br/> คำบรรยายทั้งหมดจัดทำโดย &lt;a href=\"http://www.opensubtitles.org\"> opensubtitles.org &lt;/a></string>
+    <string name="plus_player_subtitle_online_declare_content">คุณกำลังค้นหาคำบรรยาย &lt;br/> ในฐานข้อมูล &lt;a href=http://www.opensubtitles.org> opensubtitles.org &lt;/a> &lt;br/> คำบรรยายทั้งหมดจัดทำโดย &lt;a href=http://www.opensubtitles.org> opensubtitles.org &lt;/a></string>
     <string name="plus_player_subtitle_online_declare_title">ข้อสงวนสิทธิ์</string>
     <string name="plus_player_subtitle_online_download_fail">ไม่สามารถดาวน์โหลดคำบรรยายได้</string>
     <string name="plus_player_subtitle_online_download_start">กำลังโหลดคำบรรยาย…</string>
@@ -968,6 +1036,7 @@ ID:%s
     <string name="remaining_space">ใช้งานได้: %s</string>
     <string name="remaining_space_not_enough">ไม่สามารถดาวน์โหลดได้เนื่องจากพื้นที่เก็บข้อมูลไม่เพียงพอ</string>
     <string name="reminder">โปรดทราบ</string>
+    <string name="rename">เปลี่ยนชื่อ</string>
     <string name="report">รายงาน</string>
     <string name="report_content_dislike">ความรุนแรงหรือพฤติกรรมที่ไม่เหมาะสม</string>
     <string name="report_content_fakement">สแปมหรือฉ้อโกง</string>
@@ -989,6 +1058,8 @@ ID:%s
     <string name="restart_phone_bind_title">เปลี่ยนโทรศัพท์ที่ใช้กู้คืนบัญชี</string>
     <string name="restore_channel_list">เรียกคืนค่าเริ่มต้นตอนนี้?</string>
     <string name="retry">ลองอีกครั้ง</string>
+    <string name="reveal">หมุน</string>
+    <string name="reveal_tip">หมุนอุปกรณ์ของคุณเพื่อประสบการณ์การรับชมที่ดียิ่งขึ้น</string>
     <string name="revoke">เพิกถอน</string>
     <string name="s1">บันทึกรูปภาพ</string>
     <string name="s2">อนุญาตให้โฆษณาจัดเก็บรูปภาพในแกลเลอรีภาพไหม</string>
@@ -1009,6 +1080,8 @@ ID:%s
     <string name="search_hot_words">ยอดนิยม</string>
     <string name="search_key_not_null">คำขอการค้นหาต้องไม่ว่าง</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="search_result_download_error">ไม่สามารถดาวน์โหลดได้</string>
+    <string name="search_result_startdownload">กำลังดาวน์โหลด…</string>
     <string name="selectall">เลือกทั้งหมด</string>
     <string name="selectnull">ยกเลิกการเลือกทั้งหมด</string>
     <string name="send_diagnosis_log">ส่งบันทึกการใช้</string>
@@ -1032,6 +1105,7 @@ ID:%s
     <string name="sns_sign_in">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
     <string name="source">"แหล่งที่มา: "</string>
     <string name="start_download_tip">เพิ่มลงในคิวแล้ว ตรวจสอบความคืบหน้าในโปรไฟล์ > ดาวน์โหลด</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD การ์ด</string>
     <string name="storage_internal_sdcard">พื้นที่จัดเก็บข้อมูลในเครื่อง</string>
     <string name="submit">ส่ง</string>
@@ -1080,11 +1154,19 @@ ID:%s
     <string name="ticket_hint">รหัสยืนยัน</string>
     <string name="ticket_invalid">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="ticket_sign_in">ลงชื่อเข้าใช้โดยข้อความ SMS</string>
+    <string name="tip_auth_again">เนื่องจากก่อนหน้านี้คุณไม่ได้ยอมรับข้อกำหนดของนโยบายความเป็นส่วนตัวที่เกี่ยวข้องของผู้ให้บริการเนื้อหาบุคคลที่สาม เราจึงไม่สามารถแสดงเนื้อหาวิดีโอใน Moments ได้ แตะปุ่มด้านล่างเพื่อยอมรับนโยบายความเป็นส่วนตัวและเข้าถึงคุณสมบัตินี้</string>
+    <string name="tip_author_click">แตะเพื่อดูวิดีโอเพิ่มเติมจากบัญชีนี้</string>
+    <string name="tip_pop">&lt;Data>เนื้อหาจาก Moments จัดทำโดย Firework เพื่อปรับปรุงประสบการณ์การรับชมของคุณและรับคำแนะนำเนื้อหาที่เกี่ยวข้องมากขึ้นอนุญาตให้ Firework รวบรวมประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณตามนโยบายความเป็นส่วนตัว อ่านและยอมรับ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัวของ Firework&lt;/a> ก่อนใช้บริการ&lt;/Data></string>
+    <string name="tip_topic_click">แตะเพื่อค้นหาวิดีโอเพิ่มเติมในหัวข้อนี้</string>
+    <string name="title_firework_recommend">คำแนะนำ Firework</string>
     <string name="title_publisher">ผู้สร้าง</string>
     <string name="title_subscribe">การติดตาม</string>
+    <string name="toast_no_data">รายการนี้ไม่สามารถใช้ได้ในขณะนี้ โปรดกลับมาในภายหลัง</string>
     <string name="toast_request_too_frequently">ช้าหน่อย!</string>
     <string name="toast_share_failed">แชร์ไม่ได้ รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="today">วันนี้</string>
+    <string name="tool_bar_notification_setting_sub_title">แสดงแถบเครื่องมือในแถบการแจ้งเตือน</string>
+    <string name="tool_bar_notification_setting_title">แถบเครื่องมือแถบการแจ้งเตือน</string>
     <string name="top_bar_game_desc">พบกับเกมสดใหม่มากมายที่นี่</string>
     <string name="top_bar_game_title">ช่องเกม</string>
     <string name="tuesday">วันอังคาร</string>
@@ -1140,10 +1222,13 @@ ID:%s
     <string name="video_resolution_kb_size_suffix">%.2f KB</string>
     <string name="video_resolution_mb_size_suffix">%.2f MB</string>
     <string name="video_resolution_tag_suffix">%dP</string>
+    <string name="view">เรียกดู</string>
     <string name="vp_VideoView_error_button">ตกลง</string>
     <string name="vp_VideoView_error_text_unknown">เกิดข้อผิดพลาด</string>
     <string name="vp_VideoView_error_title">ข้อผิดพลาดไม่รู้จัก</string>
     <string name="vp_app_name">เครื่องเล่นวิดีโอ</string>
+    <string name="vp_copyright_unsported_audio">ไม่สามารถเล่นวิดีโอแทร็กเสียงได้เนื่องจากข้อจำกัดทางลิขสิทธิ์</string>
+    <string name="vp_copyright_unsported_video">ไม่สามารถเล่นวิดีโอนี้ได้เนื่องจากข้อจำกัดทางลิขสิทธิ์</string>
     <string name="vp_hardware_unsported">วิดีโอนี้ไม่สามารถเล่นบนอุปกรณ์ของคุณได้</string>
     <string name="vp_notify_apk_installed">ดาวน์โหลดเรียบร้อย</string>
     <string name="vp_replay">เล่นใหม่</string>

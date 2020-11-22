@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="app_name">การแจ้งเตือน</string>
+    <string name="back">ย้อนกลับ</string>
     <string name="cancel">ยกเลิก</string>
     <string name="category_other">อื่นๆ</string>
     <string name="confirm">ตกลง</string>
@@ -46,6 +47,7 @@
     <string name="feedback_tip_msg">เพื่อจัดกลุ่มการแจ้งเตือนที่แม่นยำยิ่งขึ้น เราต้องรวบรวม ชื่อแอป ชื่อและคำอธิบายของการแจ้งเตือน และเวลาที่ส่งการแจ้งเตือน ส่งข้อเสนอแนะของคุณ?</string>
     <string name="feedback_tip_title">ข้อเสนอแนะเกี่ยวกับหมวดหมู่การแจ้งเตือน</string>
     <string name="float_notifications">การแจ้งเตือนแบบลอย</string>
+    <string name="float_notifications_short">ลอยตัว</string>
     <string name="function_description">เกี่ยวกับคุณลักษณะนี้</string>
     <string name="hint_search_all">ค้นหาแอป</string>
     <string name="hint_search_in_disabled_apps">ค้นหาแอปที่ไม่สามารถแสดงการแจ้งเตือน</string>
@@ -56,20 +58,14 @@
     <string name="lock_screen_display_rules">ฟอร์แมต</string>
     <string name="lock_screen_tip_toast">อนุญาตการแจ้งเตือนในหน้าจอล็อคใน \"Format\"</string>
     <string name="lockscreen_notifications">การแจ้งเตือนบนหน้าจอล็อก</string>
-    <string name="menu_setting_recommend_to_minus">แสดงการแจ้งเตือนน้อยลง</string>
-    <string name="menu_setting_recommend_to_normal">ไม่ลดการแจ้งเตือน</string>
+    <string name="lockscreen_notifications_short">หน้าจอล็อก</string>
     <string name="menu_setting_show_in_home">ไม่จัดกลุ่ม</string>
-    <string name="menu_setting_tip_recommend_minus">คุณจะได้รับการแจ้งเตือนจาก %s น้อยลง</string>
-    <string name="menu_setting_tip_recommend_normal">การแจ้งเตือนจาก %s จะไม่ถูกลด</string>
     <string name="menu_setting_tip_show_in_home">การแจ้งเตือนจาก %s จะไม่ถูกจัดกลุ่ม</string>
     <string name="menu_setting_tip_unfold">การแจ้งเตือนทั้งหมดจากแอปนี้จะถือว่าสำคัญ</string>
-    <string name="menu_setting_toast_recommend_minus">คุณจะได้รับการแจ้งเตือนจาก %s น้อยลง</string>
-    <string name="menu_setting_toast_recommend_normal">การแจ้งเตือนจาก %s จะไม่ถูกลด</string>
-    <string name="menu_setting_toast_show_in_home">การแจ้งเตือนจาก %s จะไม่ถูกจัดกลุ่ม</string>
     <string name="menu_setting_unfold">สำคัญ</string>
     <string name="not_sent_recently">ไม่ใช่เร็วๆนี้</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
-    <string name="notch_and_status_bar_setting">รอยบากและแถบสถานะ</string>
+    <string name="notch_and_status_bar_setting">ศูนย์ควบคุมและแถบสถานะ</string>
     <string name="notification_aggregate_description1">MIUI สามารถจัดกลุ่มการแจ้งเตือนแบบพุชและโปรโมชันโดยอัตโนมัติทำให้แถบการแจ้งเตือนของคุณแออัดน้อยลง</string>
     <string name="notification_aggregate_description2">อัลกอริทึมของเราวิเคราะห์เนื้อหาการแจ้งเตือนและไม่ใช้คุณสมบัตินี้กับการเตือนและการแจ้งเตือนที่สำคัญจากข้อความด้วน หากคุณพบว่าการแจ้งเตือนที่สำคัญจัดกลุ่มโดยไม่ได้ตั้งใจให้รายงานปัญหาที่คุณพบโดยใช้ \"คำติชม\" ของเรา</string>
     <string name="notification_aggregate_summary">อนุญาตให้ MIUI จัดกลุ่มการแจ้งเตือนโดยอัตโนมัติ</string>
@@ -80,8 +76,6 @@
     <string name="notification_fold_summary">จัดกลุ่มการแจ้งเตือนที่ไม่สำคัญโดยอัตโนมัติ</string>
     <string name="notification_fold_title">จัดกลุ่มการแจ้งเตือน</string>
     <string name="notification_manager">การแจ้งเตือนของแอป</string>
-    <string name="notification_setting_menu_feedback_text">"การแจ้งเตือนนี้ไม่ควรอยู่ที่นี่?
-รายงานปัญหานี้ >"</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">ปิด</string>
@@ -90,6 +84,8 @@
     <string name="search_menu_title">ค้นหา</string>
     <string name="settings_guide_title">ต้องการการตั้งค่าอื่นๆ?</string>
     <string name="show_badge_notifications">สัญลักษณ์แจ้งเตือน</string>
+    <string name="show_badge_notifications_short">ติดเครื่องหมาย</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">แถบสถานะ</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="summary_disable_float_notification">ไม่อนุญาตให้ใช้การแจ้งเตือนแบบลอย</string>
@@ -102,8 +98,6 @@
     <string name="summary_lock_screen_enable_notification_first">อนุญาตให้การแจ้งเตือนสามารถเปิดการแจ้งเตือนหน้าจอล็อก</string>
     <string name="summary_show_badge_enable_notification_first">อนุญาตให้การแจ้งเตือนสามารถเปิดสัญลักษณ์แจ้งเตือน</string>
     <string name="swipe_to_delete">ปัดไปทางซ้ายหรือขวาเพื่อลบ</string>
-    <string name="tip_feedback_success">ส่งเรียบร้อยแล้ว</string>
-    <string name="tip_select_category">เลือกหมวดหมู่การแจ้งเตือน</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
 </resources>

@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -37,24 +55,24 @@
         <item>ไม่ต้องแสดงไอคอนนี้</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>ใช้ค่ากำหนดของระบบ (ค่าเริ่มต้น)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>ใช้ค่ากำหนดของระบบ (ค่าเริ่มต้น)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>ใช้ค่ากำหนดของระบบ (ค่าเริ่มต้น)</item>
         <item>โมโน</item>
         <item>สเตอริโอ</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>ใช้ค่ากำหนดของระบบ (ค่าเริ่มต้น)</item>
         <item>โมโน</item>
         <item>สเตอริโอ</item>
     </string-array>
@@ -62,30 +80,30 @@
         <item>เพิ่มประสิทธิภาพคุณภาพเสียง</item>
         <item>สมดุลคุณภาพเสียงและการเชื่อมต่อ</item>
         <item>เพิ่มประสิทธิภาพคุณภาพการเชื่อมต่อ</item>
-        <item>ความพยายามที่ดีที่สุด (ปรับเปลี่ยนอัตราบิต)</item>
+        <item>ความพยายามที่ดีที่สุด (อัตราบิตอัตโนมัติ)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>เพิ่มประสิทธิภาพคุณภาพเสียง (990kbps/909kbps)</item>
         <item>สมดุลคุณภาพเสียงและการเชื่อมต่อ (660kbps/606kbps)</item>
         <item>เพิ่มประสิทธิภาพคุณภาพการเชื่อมต่อ (330kbps/303kbps)</item>
-        <item>ความพยายามที่ดีที่สุด (ปรับเปลี่ยนอัตราบิต)</item>
+        <item>ความพยายามที่ดีที่สุด (อัตราบิตอัตโนมัติ)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>ใช้ค่ากำหนดของระบบ (ค่าเริ่มต้น)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>ใช้ค่ากำหนดของระบบ (ค่าเริ่มต้น)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>ใช้ค่ากำหนดของระบบ (ค่าเริ่มต้น)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>เสียง Qualcomm® aptX™</item>
@@ -96,11 +114,9 @@
         <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
-        <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
+        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>เสียง Qualcomm® aptX™</item>
@@ -111,7 +127,7 @@
         <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
+        <item>ใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
@@ -132,12 +148,22 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_map_version_values">
+        <item>map12</item>
+        <item>map13</item>
+        <item>map14</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (ค่าเริ่มต้น)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>ปิดใช้อยู่</item>
-        <item>เปิดใช้งานตัวกรอง</item>
+        <item>ตัวกรอง</item>
         <item>เปิดใช้งาน</item>
-        <item>เปิดใช้งาน \"ตัวกรองส่วนหัว\"</item>
-        <item>เปิดใช้งาน \"ตัวกรองแพ็คเก็ตสื่อมีเดีย\"</item>
+        <item>ตัวกรองส่วนหัว</item>
+        <item>ตัวกรองแพ็คเก็ตสื่อมีเดีย</item>
     </string-array>
     <string-array name="clock_options">
         <item>แสดงชั่วโมง นาที และวินาที</item>
@@ -213,25 +239,25 @@
     <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>ปิด</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>ปิด</item>
-        <item>64K ต่อแต่ละบันทึกบัฟเฟอร์</item>
-        <item>256K ต่อแต่ละบันทึกบัฟเฟอร์</item>
-        <item>1M ต่อแต่ละบันทึกบัฟเฟอร์</item>
-        <item>4M ต่อแต่ละบันทึกบัฟเฟอร์</item>
-        <item>16M ต่อแต่ละบันทึกบัฟเฟอร์</item>
+        <item>64 KB ต่อแต่ละบันทึกบัฟเฟอร์</item>
+        <item>256 KB ต่อแต่ละบันทึกบัฟเฟอร์</item>
+        <item>1 MB ต่อแต่ละบันทึกบัฟเฟอร์</item>
+        <item>4 MB ต่อแต่ละบันทึกบัฟเฟอร์</item>
+        <item>16 MB ต่อแต่ละบันทึกบัฟเฟอร์</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>ปิด</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>ปิด</item>

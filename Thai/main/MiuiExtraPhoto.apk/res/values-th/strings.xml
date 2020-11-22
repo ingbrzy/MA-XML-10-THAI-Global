@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="doc_photo_adjust_section_title">ลากเพื่อปรับ</string>
+    <string name="doc_photo_cancel">ยกเลิก </string>
+    <string name="doc_photo_confirm">ออก</string>
+    <string name="doc_photo_doc_photo_title">แก้ไขเอกสาร</string>
+    <string name="doc_photo_enhance_bin">ขาวดำ</string>
+    <string name="doc_photo_enhance_color">ขั้นสูง</string>
+    <string name="doc_photo_enhance_none">ต้นฉบับ</string>
+    <string name="doc_photo_idcard_alert_msg">ยกเลิกการเปลี่ยนแปลงทั้งหมดและออกจากตัวแก้ไขหรือไม่?</string>
+    <string name="doc_photo_idcard_emblem">ด้านหลัง</string>
+    <string name="doc_photo_idcard_mode_title">บัตรประชาชน</string>
+    <string name="doc_photo_idcard_portrait">ด้านหน้า</string>
+    <string name="doc_photo_not_support">ไม่สามารถแก้ไขภาพนี้เป็นเอกสารได้</string>
+    <string name="doc_photo_view_effect">ตัวอย่าง</string>
     <string name="extra_photo_common_save_fail">บันทึกล้มเหลว</string>
     <string name="extra_photo_common_saving">กำลังบันทึก…</string>
     <string name="motion_photo_cancel">ยกเลิก </string>
@@ -25,6 +38,7 @@
     <string name="refocus_save_to_video">บันทึกเป็นวิดีโอ</string>
     <string name="refocus_saving">กำลังบันทึก…</string>
     <string name="refocus_title">เบลอ</string>
+    <string name="refocus_type_movie_relighting">ภาพยนตร์</string>
     <string name="refocus_type_relighting">แสงสตูดิโอ</string>
     <string name="refocus_type_relighting_no_face">ไม่พบใบหน้า</string>
     <string name="refocus_type_relighting_small_face">ใบหน้ามีขนาดเล็กเกินไปที่จะใช้เอฟเฟ็กซ์สตูดิโอ</string>

@@ -20,6 +20,12 @@
         <item>สำรองข้อมูลการตั้งค่าที่สำคัญ รวมไปถึง Wi-Fi และการแสดงผล</item>
         <item>ล็อกอุปกรณ์จากระยะไกลหากอุปกรณ์สูญหาย</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>ซิงค์รายชื่อ ข้อความ บันทึกย่อ ปฏิทิน และอื่นๆของคุณ</item>
+        <item>สำรองข้อมูลแอป การจัดเรียงหน้าจอหลัก และภาพพื้นหลัง</item>
+        <item>สำรองข้อมูลการตั้งค่าที่สำคัญ รวมไปถึง WLAN และการแสดงผล</item>
+        <item>ล็อกอุปกรณ์จากระยะไกลหากอุปกรณ์สูญหาย</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>ซิงค์ข้อมูลแอป</item>
         <item>สำรองข้อมูลการจัดวางหน้าจอหลัก</item>
@@ -98,6 +104,11 @@
         <item>เปิดใช้งานซิงค์</item>
         <item>App vault;บัตร;คลาวด์;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>ซิงค์ตอบกลับด่วน</item>
+        <item>เปิดใช้งานซิงค์</item>
+        <item>ตอบกลับด่วน;คลิปบอร์ด;ตัวแก้ไข;คลาวด์;ซิงค์;บริการคลาวด์</item>
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>ซิงค์บันทึกเสียงกับ Xiaomi คลาวด์</item>
         <item>เปิดใช้งาน/ติดตั้งซิงค์</item>
@@ -114,9 +125,9 @@
         <item>คลาวด์;สำรองข้อมูล;ข้อมูลสำรอง;เรียกคืนค่า;บริการคลาวด์;Xiaomi คลาวด์</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>ซิงค์ความปลอดภัยด้วย Xiaomi คลาวด์</item>
+        <item>ความปลอดภัยของคลาวด์ซิงค์</item>
         <item>เปิดใช้งานซิงค์</item>
-        <item>ความปลอดภัย;คลาวด์;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์</item>
+        <item>ความปลอดภัย;คลาวด์;Xiaomi คลาวด์;ซิงค์;บริการคลาวด์</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>ซิงค์ข้อความด้วย Xiaomi คลาวด์</item>
@@ -137,6 +148,11 @@
         <item>ซิงค์ซิงค์การตั้งค่า Wi-Fi ด้วย Xiaomi คลาวด์</item>
         <item>เปิดใช้งานซิงค์</item>
         <item>Wi-Fi;wifi;Wi-Fi;คลาวด์;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>ซิงค์ซิงค์การตั้งค่า WLAN ด้วย Xiaomi คลาวด์</item>
+        <item>เปิดใช้งานซิงค์</item>
+        <item>WLAN;wifi;Wi-Fi;คลาวด์;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>เรียกดูรายการที่ซิงค์แล้ว</item>

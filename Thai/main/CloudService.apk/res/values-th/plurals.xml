@@ -42,6 +42,9 @@
     <plurals name="dirty_wlan_count">
         <item quantity="other">%d เครือข่าย Wi-Fi</item>
     </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d เครือข่าย WLAN</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">รายการที่กำลังรอการซิงค์: %d</item>
     </plurals>
@@ -56,5 +59,8 @@
     </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s บริการจะถูกซิงค์กับ Xiaomi คลาวด์</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">ไม่สามารถเลือกเกินกว่า %d รายการ</item>
     </plurals>
 </resources>

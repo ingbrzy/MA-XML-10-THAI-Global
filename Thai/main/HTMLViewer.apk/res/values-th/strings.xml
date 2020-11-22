@@ -10,6 +10,14 @@
 เปิด%sเพื่อเรียกดูข้อมูลนี้"</string>
     <string name="loading">รอสักครู่…</string>
     <string name="mibi_license">ข้อตกลงการใช้งาน Mi เครดิต</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ปล่อยเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">รอสักครู่…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ไม่สามารถโหลดรายการได้</string>
     <string name="open_wifi_connect_and_use_data_summary">ใช้ข้อมูลมือถือ แตะเพื่อเปลี่ยนเป็น Wi-Fi</string>
     <string name="open_wifi_connect_summary">แตะเพื่อดูรายละเอียด</string>
     <string name="open_wifi_connect_title">เชื่อมต่อไปยัง %1$s</string>

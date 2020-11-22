@@ -83,6 +83,8 @@
     <string name="HIPS_Perm_get_tasks_Desc">รับงาน</string>
     <string name="HIPS_Perm_install_shortcut">ปุ่มลัดบนหน้าจอหลัก</string>
     <string name="HIPS_Perm_install_shortcut_Desc">เพิ่มปุ่มลัดบนหน้าจอหลัก</string>
+    <string name="HIPS_Perm_mediaVolume">ปรับระดับเสียงสื่อมีเดีย</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">อนุญาตให้แอปปรับระดับเสียงสื่อมีเดีย</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">เข้าถึงฮาร์ดแวร์สื่อสารไร้สายระยะสั้น (NFC)</string>
     <string name="HIPS_Perm_process_outgoing_calls">เข้าถึงแอปโทรศัพท์</string>
@@ -117,6 +119,10 @@
     <string name="location_warning">%1$s เป็นผู้ให้บริการการระบุตำแหน่งพิกัดสำหรับอุปกรณ์นี้ การเข้าถึงสถานที่ตั้งสามารถแก้ไขได้จากการตั้งค่าตำแหน่งพิกัด</string>
     <string name="never_ask_again">ไม่ต้องถามอีกหลังจากจำกัด</string>
     <string name="ok">ตกลง</string>
+    <string name="perm_action_allow">อนุญาต</string>
+    <string name="perm_action_deny">ไม่อนุญาต</string>
+    <string name="perm_modem_location">เข้าถึงตำแหน่งของคุณ</string>
+    <string name="perm_modem_location_desc">ผู้ให้บริการของคุณพยายามเข้าถึงข้อมูลตำแหน่งของคุณ แชร์ข้อมูลตำแหน่งกับผู้ให้บริการหรือไม่?</string>
     <string name="permdesc_camera">ถ่ายภาพและบันทึกวิดีโอ</string>
     <string name="permdesc_in_calls">มอนิเตอร์สายเรียกเข้า</string>
     <string name="permdesc_location">เข้าถึงข้อมูลตำแหน่งพิกัด</string>
