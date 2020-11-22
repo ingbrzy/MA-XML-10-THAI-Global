@@ -190,6 +190,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">สลับสวิตช์สำรอง</string>
     <string name="other_device_main_space">พื้นที่ปกติ</string>
     <string name="other_device_second_space">พื้นที่ทับซ้อน</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="process_whole_recovery">กำลังเรียกคืนค่า \"%s\"</string>
     <string name="provision_background_restore_more_data">เรียกคืนค่ารายการเพิ่มเติมในพื้นหลัง</string>
