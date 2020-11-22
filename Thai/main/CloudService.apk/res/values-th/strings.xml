@@ -95,8 +95,6 @@
     <string name="feedback_custom_hint">อธิบายปัญหาที่คุณพบที่นี่ หากคุณจะให้คำแนะนำเรา เรายินดีที่จะรับรายละเอียดเพิ่มเติม!</string>
     <string name="find_device">ค้นหาอุปกรณ์</string>
     <string name="find_device_dspt_provision">ในกรณีที่เครื่องโทรศัพท์ของคุณหาย คุณสามารถเข้าไปที่ &lt;font color=#0097FF>%s&lt;/font> เพื่อค้นหาพิกัดเครื่อง ทำการล็อกหรือรีเซ็ต โดยคุณสามารถเปิด-ปิดคุณลักษณะนี้ได้ตลอดเวลาในเมนูการตั้งค่า</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">ตรวจสอบการเชื่อมต่อข้อมูลและลองอีกครั้ง</string>
     <string name="find_device_error_server">ข้อผิดพลาดจากเซิร์ฟเวอร์</string>
     <string name="find_device_gdpr_prompt">โดยการเปิดใช้งานค้นหาอุปกรณ์นี้ คุณยอมรับใน <a href="app://com.miui.cloudservice.gdpr.license"><u> นโยบายความเป็นส่วนตัว</u></a>ของเรา หากคุณต้องการถอนการให้สิทธิ์ กรุณาปิดใช้งานคุณลักษณะนี้</string>
@@ -242,14 +240,11 @@
     <string name="micloud_find_device_open_fail">ไม่สามารถปิดใช้การค้นหาอุปกรณ์ได้</string>
     <string name="micloud_find_device_opened">การค้นหาอุปกรณ์เปิดใช้งาน</string>
     <string name="micloud_find_device_opened_content">ค้นหาอุปกรณ์ของคุณใน %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">อาจมีข้อความ SMS ขาออกเพื่อเปิดใช้งานบริการนี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ เมื่อคุณเปลี่ยนซิมการ์ดข้อความจะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานคุณลักษณะนี้อีกครั้ง</string>
     <string name="micloud_find_device_verify_button">เปิดใช้งานค้นหาอุปกรณ์อีกครั้ง</string>
     <string name="micloud_find_device_verify_close">ปิดใช้การค้นหาอุปกรณ์</string>
     <string name="micloud_find_device_verify_fail">ไม่สามารถเปิดใช้งานค้นหาอุปกรณ์อีกครั้งได้</string>
     <string name="micloud_find_device_verify_progress">กำลังเปิดใช้งานค้นหาอุปกรณ์อีกครั้ง…</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">การซิงค์ถูกยกเลิก ลองอีกครั้ง</string>
     <string name="micloud_main_head_menu_cloud_backup">ข้อมูลสำรองหน้าจอหลัก</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">การตั้งค่าระบบและรูปแบบหน้าจอหลัก</string>
@@ -488,8 +483,6 @@
     <string name="sync_dspt_entrance_provision_network_china">This app needs to connect to the internet to work normally. Syncing data may require mobile data connection and turning on WLAN.</string>
     <string name="sync_dspt_entrance_provision_skip">ข้ามขั้นตอนนี้</string>
     <string name="sync_dspt_provision">"ซิงค์รูปภาพ เบอร์โทรติดต่อ บันทึกย่อ และอื่นๆระหว่างอุปกรณ์ต่างๆของคุณได้ที่ "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"คุณสามารถเปิด-ปิดการการใช้งานนี้จากเมนูการตั้งค่าได้ตลอดเวลา
 "</string>
     <string name="sync_item_calllog_summary">ซิงค์บันทึกเสียงสนทนาในโทรศัพท์นี้</string>
