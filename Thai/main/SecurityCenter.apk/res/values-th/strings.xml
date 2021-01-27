@@ -604,7 +604,7 @@
     <string name="banner_optimizemanage_summary">เพิ่มพื้นที่หน่วยความจำ</string>
     <string name="banner_red_money_assist_button">เปิดใช้งาน</string>
     <string name="banner_red_money_assist_summary">เปิดอั่งเปาเร็วขึ้น</string>
-    <string name="battery_and_property">แบตเตอรี่และประสิทธิภาพ</string>
+    <string name="battery_and_property">แบตเตอรี่</string>
     <string name="battery_can_use_time">คงเหลือ %s</string>
     <string name="battery_capacity_title">ความจุแบตเตอรี่</string>
     <string name="battery_charge_estimating">การคำนวณ</string>
@@ -766,6 +766,7 @@
     <string name="card_main_private_space_summary">การใช้พื้นที่ทับซ้อนเปรียบได้กับการมีมือถือสองเครื่อง</string>
     <string name="card_main_private_space_title">พื้นที่ทับซ้อน</string>
     <string name="card_main_sectool_title">เครื่องมือ</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">สร้าง</string>
     <string name="card_main_xspace_summary">สร้างบัญชีโคลนสำหรับแอปต่างๆ</string>
     <string name="card_main_xspace_title">แอปโคลน</string>
@@ -777,6 +778,15 @@
     <string name="choose">เลือก</string>
     <string name="choose_gs_show_way">เลือกทิศทางของหน้าจอ</string>
     <string name="clean_immediately">ล้าง</string>
+    <string name="clean_master_icon_recall_button_text">เพิ่ม</string>
+    <string name="clean_master_icon_recall_dialog_button_negative">ไม่ ขอบคุณ</string>
+    <string name="clean_master_icon_recall_dialog_button_positive">เพิ่ม</string>
+    <string name="clean_master_icon_recall_dialog_summary">เพิ่มปุ่มลัดบนหน้าจอหลักเพื่อล้างถังขยะทุกเวลาที่คุณต้องการ</string>
+    <string name="clean_master_icon_recall_dialog_title">ล้างขยะเร็วขึ้น</string>
+    <string name="clean_master_icon_recall_hint">เพิ่มปุ่มลัดหน้าจอหลัก</string>
+    <string name="clean_master_icon_recall_summary">เพิ่มปุ่มลัดบนหน้าจอหลักเพื่อล้างถังขยะทุกเวลาที่คุณต้องการ</string>
+    <string name="clean_master_icon_recall_title">ล้างขยะเร็วขึ้น</string>
+    <string name="clean_master_icon_recall_toast_text">เพิ่มปุ่มลัดหน้าจอหลักสำหรับ ตัวทำความสะอาด เรียบร้อยแล้ว</string>
     <string name="cleaned">ล้างแล้ว</string>
     <string name="clear_garbage">ล้างขยะเพื่อเพิ่มพื้นที่ว่าง</string>
     <string name="clear_immediately">ทำความสะอาดทันที</string>
@@ -968,6 +978,7 @@
     <string name="doze_optimization_title">เพิ่มประสิทธิภาพควบคุมการสัมผัส</string>
     <string name="dual_setting_simcard1">ซิม 1</string>
     <string name="dual_setting_simcard2">ซิม 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">อีเมล</string>
     <string name="empty_app">ไม่พบแอป</string>
     <string name="empty_title_auto_start_list">ไม่มีแอปที่สามารถเริ่มต้นทำงานอัตโนมัติ.</string>
@@ -1019,7 +1030,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -1156,6 +1169,11 @@
     <string name="free_time_traffic_settings">เพดานข้อมูลนอกช่วงปกติ</string>
     <string name="free_time_traffic_title">ป้อนเพดานข้อมูลนอกช่วงปกติ</string>
     <string name="free_traffic_settings">การตั้งค่าเพดานการใช้ข้อมูลนอกช่วงปกติ</string>
+    <string name="function_auto_reject_detail">"เกี่ยวกับคุณลักษณะนี้:
+1. ในขณะที่คุณกำลังเล่นเกม การโทรเข้าทั้งหมดไปยังซิมการ์ดที่ไม่ใช้บริการข้อมูลมือถือจะถูกปฏิเสธโดยอัตโนมัติ
+2. คุณจะเห็นการแจ้งเตือนเกี่ยวกับสายที่ไม่ได้รับและอีกฝ่ายจะได้ยินข้อความเสียงแจ้งว่าคุณกำลังยุ่งอยู่ในขณะนี้
+3. ฟีเจอร์นี้รองรับเฉพาะผู้ให้บริการมือถือในประเทศจีนเท่านั้น"</string>
+    <string name="function_auto_reject_title">ปฏิเสธการโทร VoLTE ไปยังซิมการ์ดโดยไม่มีบริการข้อมูล</string>
     <string name="function_close">ปิด</string>
     <string name="function_gwsd_detail">"เกี่ยวกับคุณสมบัตินี้:
 1. เมื่อคุณใช้ข้อมูลมือถือใน data SIM หรือ SIM การ์ดปกติที่เชื่อมต่อกับเครือข่าย VoLTE การเชื่อมต่อจะไม่ถูกขัดจังหวะโดยสายเรียกเข้าจนกว่าคุณจะรับ
@@ -1269,6 +1287,11 @@
     <string name="gb_description_image_button_answer">รับสาย</string>
     <string name="gb_description_image_button_reject">ปฏิเสธ</string>
     <string name="gb_description_image_button_video_answer">วิดีโอคอล</string>
+    <string name="gb_dialog_game_uninstall_deleting">กำลังถอนการติดตั้ง…</string>
+    <string name="gb_dialog_game_uninstall_loading">กำลังโหลดเกม…</string>
+    <string name="gb_dialog_game_uninstall_tips_message">ข้อมูลแอปทั้งหมดจะถูกลบ</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">ข้อมูลแอปและแอปคู่ที่เกี่ยวข้องทั้งหมดจะถูกลบ</string>
+    <string name="gb_dialog_game_uninstall_tips_title">ถอนการติดตั้ง %s</string>
     <string name="gb_dialog_record_way_ai">บันทึก AI จะถูกบันทึกไว้ในกล่องเกมและเก็บไว้ที่นั่นเป็นเวลา 7 วัน</string>
     <string name="gb_dialog_record_way_finish">เสร็จสิ้น</string>
     <string name="gb_dialog_record_way_manual">บันทึกวิดีโอนานถึง 30 วินาทีด้วยตนเอง</string>
@@ -1300,6 +1323,10 @@
     <string name="gb_game_video_type_manual">ด้วยตนเอง</string>
     <string name="gb_get_gift_right_now">เช็คอินทันที</string>
     <string name="gb_global_settings">การตั้งค่าทั่วไป</string>
+    <string name="gb_gpu_driver_btn_update">ตรวจสอบการอัพเดท</string>
+    <string name="gb_gpu_driver_update">อัปเดตไดร์เวอร์ GPU</string>
+    <string name="gb_gpu_driver_update_app">อัปเดต</string>
+    <string name="gb_gpu_driver_update_app_tips">เวอร์ชั่นปัจจุบันเป็นเวอร์ชั่นล่าสุดแล้ว</string>
     <string name="gb_have_signed">วันนี้เช็คอินแล้ว</string>
     <string name="gb_manual_record_dialog_del_video_message">ลบไฟล์ที่เลือกไว้อย่างถาวร?</string>
     <string name="gb_msg_completely_shielded">ซ่อนข้อความ</string>
@@ -1321,6 +1348,9 @@
     <string name="gb_signed_gift_loading_summary">รอสักครู่…</string>
     <string name="gb_signed_title">เช็คอินในเดือนนี้</string>
     <string name="gb_sound_audition">ลอง</string>
+    <string name="gb_storage_game_uninstall">ถอนการติดตั้งเกม</string>
+    <string name="gb_storage_summary">ไม่แสดงเกมที่เพิ่มเข้ามาในกล่องเกมบนหน้าจอหลัก</string>
+    <string name="gb_storage_title">ลบเกมที่เพิ่มเข้ามาจากหน้าจอหลัก</string>
     <string name="gb_voice_change_settinged">โปรแกรมเปลี่ยนเสียงเปิดอยู่</string>
     <string name="gb_voice_changer_cartoon">การ์ตูน</string>
     <string name="gb_voice_changer_dlg_button_agree">อนุญาต</string>
@@ -1685,9 +1715,11 @@
     <string name="menu_text_antispam">รายการบล็อก</string>
     <string name="menu_text_antivirus">สแกนด้านความปลอดภัย</string>
     <string name="menu_text_garbage_cleanup">ตัวทำความสะอาด</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">การอนุญาต</string>
     <string name="menu_text_networkassistants">การใช้ข้อมูล</string>
     <string name="menu_text_networkassistants_danger">ใช้เกินไป %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">คงเหลือ %s</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1695,7 +1727,8 @@
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">เพิ่มความเร็ว</string>
     <string name="menu_text_optimize_manage_1">เพิ่มความเร็ว</string>
-    <string name="menu_text_power_manager">แบตเตอรี่และประสิทธิภาพ</string>
+    <string name="menu_text_power_manager">แบตเตอรี่</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">ลบออกจากรายการยกเว้น</string>
     <string name="menu_white">เพิ่มไปยังรายการยกเว้น</string>
     <string name="mi_service_app_detail">รายละเอียดการใช้ข้อมูล</string>
@@ -1810,6 +1843,9 @@
     <string name="notification_channel_battery">แบตเตอรี่</string>
     <string name="notification_exit_power_save_mode">ปิดโหมดประหยัดแบตเตอรี่?</string>
     <string name="notification_exit_power_save_mode_subtitle">แบตเต็มชาร์จถึง %s</string>
+    <string name="notification_garbage_clean_botton_text">ล้าง</string>
+    <string name="notification_garbage_clean_hint">ล้างพื้นที่เก็บข้อมูล</string>
+    <string name="notification_garbage_clean_size">เพิ่มพื้นที่ %s</string>
     <string name="notification_garbage_cleanup_summary">ล้างขยะ (%s) เพื่อเพิ่มความเร็วอุปกรณ์ของคุณ</string>
     <string name="notification_garbage_cleanup_title">ล้างไฟล์ขยะ</string>
     <string name="notification_low_battery_action_btn">เปิดใช้งาน</string>
@@ -1821,6 +1857,8 @@
     <string name="notification_masked_item">ซ่อนเนื้อหาการแจ้งเตือนอย่างไร?</string>
     <string name="notification_masked_subtitle">ใช้ ล็อกแอป เพื่อซ่อนเนื้อหาการแจ้งเตือนสำหรับแอปที่เลือก</string>
     <string name="notification_summary_cmcc_app_check">แตะเพื่อดูรายละเอียด</string>
+    <string name="notification_whatsapp_clean_button_text">ล้าง</string>
+    <string name="notification_whatsapp_clean_size">แคชของ WhatsApp ถึง %s แล้ว</string>
     <string name="notify_channel_mipush">ความปลอดภัยข้อความ push message</string>
     <string name="notify_channel_name_behavior">ประวัติพฤติกรรม</string>
     <string name="notify_channel_name_security">ความปลอดภัยของระบบ</string>
@@ -1985,7 +2023,7 @@
     <string name="pc_search_keywords_battery_use">การใช้แบตเตอรี่</string>
     <string name="pc_search_keywords_capacity">ความจุแบตเตอรี่</string>
     <string name="pc_search_keywords_property">ประสิทธิภาพ</string>
-    <string name="pc_settings_title">การตั้งค่าแบตเตอรี่และประสิทธิภาพ</string>
+    <string name="pc_settings_title">แบตเตอรี่</string>
     <string name="pc_statistics_battery_last_hour_minute">เหลืออีก %1$dชม. %2$dนาที</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dชม. %2$dนาที ตั้งแต่การชาร์จล่าสุด</string>
     <string name="pc_statistics_battery_use_summary">%s ตั้งแต่การชาร์จล่าสุด</string>
@@ -2084,6 +2122,11 @@
     <string name="power_center_dialog_msg_top">เมื่อตัวประหยัดแบตเตอรี่เปิดอยู่ MIUI จะดำเนินการเพิ่มประสิทธิภาพดังนี้:</string>
     <string name="power_center_hints_scan_danger_result">คุณสามารถแก้ไขปัญหาแบตเตอรี่ได้ตอนนี้</string>
     <string name="power_center_list_item_auto_brightness">ปรับความสว่างหน้าจอโดยอัตโนมัติ</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ชม.</string>
     <string name="power_center_list_item_close_bluetooth">ปิดใช้งานบลูทูธ</string>
     <string name="power_center_list_item_deep_save_title">การตั้งค่าขั้นสูง</string>
@@ -2118,7 +2161,7 @@
     <string name="power_center_super_save_title_text">ตัวประหยัดแบตเตอรี่อัลตร้า</string>
     <string name="power_center_time_to_boot">เวลาเปิดเครื่อง</string>
     <string name="power_center_time_to_shutdown">เวลาปิดเครื่อง</string>
-    <string name="power_center_title">แบตเตอรี่และประสิทธิภาพ</string>
+    <string name="power_center_title">แบตเตอรี่</string>
     <string name="power_consume_hardware_total_format">ฮาร์ดแวร์: %s</string>
     <string name="power_consume_other">อื่นๆ</string>
     <string name="power_consume_rank_hardware">ฮาร์ดแวร์</string>
@@ -2212,7 +2255,7 @@
     <string name="power_settings_number">เปอร์เซ็นต์</string>
     <string name="power_settings_saver_title">ตัวช่วยประหยัดพลังงาน</string>
     <string name="power_settings_shape">กราฟิก</string>
-    <string name="power_settings_title">ตั้งค่า</string>
+    <string name="power_settings_title">การตั้งค่า</string>
     <string name="power_settings_top">แถบด้านบน</string>
     <string name="power_superpower_title_systemui_highpower">เวลาที่เหลือ</string>
     <string name="power_superpower_title_systemui_lowpower">เสียบที่ชาร์จ</string>
@@ -2260,6 +2303,7 @@
     <string name="pref_normal_traffic_limit">ดำเนินการเมื่อมีการใช้แพ็คเกจข้อมูลเกิน</string>
     <string name="pref_open_adjust_traffic">ดึงสถิติการใช้เครือข่ายข้อมูลมือถือทุกวันจากผู้ให้บริการของคุณ</string>
     <string name="pref_operator_not_set">ไม่ได้ตั้งผู้ให้บริการ</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">เมื่อคุณใช้เกินแพ็คเกจข้อมูลของคุณ</string>
     <string name="pref_package_traffic_settings">แพ็คเกจข้อมูล</string>
     <string name="pref_pkg_begin_date">วันที่รีเซ็ตรอบการใช้</string>
@@ -2423,6 +2467,7 @@
     <string name="privacy_using_record">บันทึกเสียง</string>
     <string name="privacyapp_number_masked_text">เนื้อหาการแจ้งเตือนถูกซ่อน</string>
     <string name="privacyapp_number_unmasked_text">เนื้อหาการแจ้งเตือนสามารถซ่อนได้</string>
+    <string name="process_kernel_label">แอนดรอยด์</string>
     <string name="process_mediaserver_label">เซิร์ฟเวอร์สื่อมีเดีย</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">โฆษณา</string>
@@ -3260,6 +3305,9 @@
     <string name="vb_advanced_settings_after_open">หลัง</string>
     <string name="vb_advanced_settings_before_open">ก่อน</string>
     <string name="vb_advanced_settings_pic_stronger_desc">สร้างวัตถุที่เคลื่อนไหวให้คมชัดขึ้น คุณสมบัตินี้ต้องการการใช้พลังงานสูงขึ้น</string>
+    <string name="vb_fps_settings">อัตราการรีเฟรชอัตโนมัติ</string>
+    <string name="vb_fps_settings_tips">คุณสมบัตินี้จะปรับอัตราการรีเฟรชหน้าจอเป็นอัตราเฟรมวิดีโอ ซึ่งช่วยประหยัดแบตเตอรี่และทำให้การเล่นราบรื่น การเปิดความคิดเห็นแบบลอยจะเป็นการปิดอัตราการรีเฟรชอัตโนมัติ</string>
+    <string name="vb_quick_func_auto_bgm">จำแนกเพลงพื้นหลัง</string>
     <string name="vb_quick_func_hangup_listening">เล่นเสียงวิดีโอโดยปิดหน้าจอ</string>
     <string name="vb_quick_func_screen_capture">จับภาพหน้าจอ</string>
     <string name="vb_quick_func_screen_record">บันทึก</string>
@@ -3271,9 +3319,19 @@
     <string name="vb_video_effects_display_style">รูปแบบ</string>
     <string name="vb_video_effects_setting_black_white">ขาวดำ</string>
     <string name="vb_video_effects_setting_cinema">โรงภาพยนตร์</string>
+    <string name="vb_video_effects_setting_girl">หวานฉ่ำ</string>
+    <string name="vb_video_effects_setting_gorgeous">สดใส</string>
+    <string name="vb_video_effects_setting_green_orange">ส้ม</string>
+    <string name="vb_video_effects_setting_grim">เย็น</string>
+    <string name="vb_video_effects_setting_hdr">HDR</string>
+    <string name="vb_video_effects_setting_knight">เมทัล</string>
+    <string name="vb_video_effects_setting_mecha">หุ่นยนต์</string>
+    <string name="vb_video_effects_setting_nostalgia">ความคิดถึง</string>
     <string name="vb_video_effects_setting_old_movie">ย้อนยุค</string>
     <string name="vb_video_effects_setting_outside">กลางแจ้ง</string>
     <string name="vb_video_effects_setting_raw">ต้นฉบับ</string>
+    <string name="vb_video_effects_setting_solar">จาง</string>
+    <string name="vb_video_effects_setting_warmth">อบอุ่น</string>
     <string name="vb_video_effects_settings_liquid">ความชัดเจน</string>
     <string name="vb_video_effects_settings_stereo">ระดับเสียง</string>
     <string name="vb_video_effects_srs_premium_sound">เสียง</string>

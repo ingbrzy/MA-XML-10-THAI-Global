@@ -160,6 +160,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="dialog_backup_password_change_machine_tips">คุณจะไม่สามารถถ่ายโอนข้อมูลสำรองที่ป้องกันด้วยรหัสผ่าน ปิดรหัสผ่านการสำรองข้อมูลก่อนใช้ Mi Mover</string>
     <string name="dialog_backup_password_restore_tips">ไม่สามารถคืนค่ารายการเมื่อเปิดใช้รหัสผ่านข้อมูลสำรอง ปิดใช้งานรหัสผ่านข้อมูลสำรองก่อน</string>
     <string name="dialog_backup_password_to_settings">การตั้งค่า</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">ไม่ได้เข้ารหัส</string>
     <string name="disable_encrypt_title">ปิดใช้การเข้ารหัสข้อมูล</string>
@@ -237,8 +238,8 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="iCloud_ID_verification_tip">แตะ \"อนุญาต\" บนอุปกรณ์ Apple ของคุณเพื่อให้รหัสยืนยันปรากฏขึ้น ป้อนรหัสยืนยันที่นี่</string>
     <string name="icloud_backup_tip">ลงชื่อเข้าใช้บัญชี iCloud ของอุปกรณ์ iOS เก่าของคุณ</string>
     <string name="icloud_how_to_backup_tip_steps">"1. เปิดการตั้งค่าบนอุปกรณ์ iOS เก่าของคุณ และเลือก iCloud.r
-2. เปิด-ปิดสลับสำหรับรายชื่อและอื่นๆr
-3. เลือกรูปภาพ และเปิด-ปิดสลับคลังรูปภาพ iCloud"</string>
+2. สับสวิทช์สำหรับรายชื่อและอื่นๆr
+3. เลือกรูปภาพ และสับสวิทช์คลังรูปภาพ iCloud"</string>
     <string name="icloud_how_to_backup_tip_summary">เพื่อนำเข้าข้อมูลจาก iOS, คุณต้องสำรอง iCloud</string>
     <string name="icloud_how_to_backup_tip_title">เคล็ดลับ:</string>
     <string name="icloud_login_title">ลงชื่อเข้าใช้ iCloud</string>
@@ -254,6 +255,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 2.\u0009ไปที่การตั้งค่า Mi Talk และเลือก \"สำรองข้อมูลรายชื่อไปยังบัญชี Mi\""</string>
     <string name="import_from_xiaomi_account_hint2">หากคุณสำรองข้อมูลแล้ว ให้แตะ\"ถัดไป\"</string>
     <string name="import_from_xiaomi_account_hint_title">ใช้ Mi Talk เพื่อสำรองข้อมูลรายชื่อระหว่างอุปกรณ์หลายเครื่อง</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">ข้อกำหนดปัญหาความเข้ากันได้ สำหรับอุปกรณ์ iOS คุณสามารถถ่ายโอนได้เฉเพาะข้อมูลบางส่วนเท่านั้น ตรวจสอบให้แน่ใจว่าคุณได้สำรองข้อมูลก่อนการเริ่มการถ่ายโอน</string>
     <string name="lack_perm_msg">Mi Mover จำเป็นต้องได้รับการอนุญาตต่อไปนี้: &lt;b>%s&lt;/b></string>
     <string name="lack_perm_title">สิทธิ์ที่จำเป็น</string>
@@ -346,7 +348,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="new_pc_backup_restore_link">อุปกรณ์มือถือ</string>
     <string name="new_pc_backup_summary1">เลือกรายการและแตะ \"สำรอง\"</string>
     <string name="new_pc_backup_summary2">เชื่อมต่ออุปกรณ์มือถือของคุณเข้ากับคอมพิวเตอร์ผ่านสาย USB</string>
-    <string name="new_pc_backup_summary4">หมายเหตุ: คุณสามารถคัดลอกรูปภาพและวิดีโอจาก MIUI-DCIM</string>
+    <string name="new_pc_backup_summary4">หมายเหตุ: คุณสามารถคัดลอกรูปภาพและวิดีโอจาก DCIM</string>
     <string name="new_pc_restore_content1">%d เชื่อมต่ออุปกรณ์มือถือของคุณเข้ากับคอมพิวเตอร์ผ่านสาย USB</string>
     <string name="new_pc_restore_content2">%d คัดลอกข้อมูลสำรองจากคอมพิวเตอร์ของคุณไปยัง MIUI-Backup-AllBackup</string>
     <string name="new_pc_restore_content3">%1$d เปิด \"%2$s\" และเลือกรายการที่จะเรียกคืน</string>
@@ -765,8 +767,11 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 อย่าปิดหน้านี้ก่อนการเชื่อมต่อจะเสร็จสิ้น"</string>
     <string name="waiting">รอสักครู่…</string>
     <string name="wifi_title">การตั้งค่า Wi-Fi</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">ไม่สามารถเริ่มการดาวน์โหลดได้ ตรวจสอบให้แน่ใจว่าตัวจัดการการดาวน์โหลดทำงานปกติ</string>
     <string name="xiaomi_external_storage_unavailable">ที่จัดเก็บข้อมูลไม่พร้อมใช้งาน ตรวจสอบ SD การ์ดของคุณ</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">เราเตอร์ Mi</string>
     <string name="xiaomi_router_location">เราเตอร์ Mi %s</string>
     <string name="xiaomi_update_dialog_message">"เวอร์ชั่นแนะนำ %1$s

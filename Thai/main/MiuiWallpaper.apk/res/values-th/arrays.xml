@@ -5,14 +5,29 @@
         <item>ภาพพื้นหลัง/ภาพพื้นหลังความละเอียดสูง/บ้าน</item>
         <item>โลก;ภาพพื้นหลังความละเอียดสูง;รุ่น โลก;ภาพพื้นหลัง</item>
     </string-array>
+    <string-array name="settings_search_geometry">
+        <item>เรขาคณิต</item>
+        <item>ภาพพื้นหลัง/ภาพพื้นหลังความละเอียดสูง/เรขาคณิต</item>
+        <item>เรขาคณิต;นามธรรม;สุดยอดภาพพื้นหลัง;ภาพพื้นหลัง</item>
+    </string-array>
     <string-array name="settings_search_mars">
         <item>ดาวเคราะห์สีแดง</item>
         <item>ภาพพื้นหลัง/ภาพพื้นหลังความละเอียดสูง/ดาวเคราะห์สีแดง</item>
         <item>ดาวอังคาร;รุ่น ดาวอังคาร;ภาพพื้นหลังความละเอียดสูง;ภาพพื้นหลัง</item>
     </string-array>
+    <string-array name="settings_search_saturn">
+        <item>วงแหวนดาวเสาร์</item>
+        <item>ภาพพื้นหลัง/สุดยอดภาพพื้นหลัง/วงแหวนดาวเสาร์</item>
+        <item>ดาวเคราะห์;ดาวเสาร์;สุดยอดภาพพื้นหลัง;ภาพพื้นหลัง</item>
+    </string-array>
     <string-array name="settings_search_superwp">
         <item>ภาพพื้นหลังความละเอียดสูง</item>
         <item>ภาพพื้นหลัง/ภาพพื้นหลังความละเอียดสูง</item>
         <item>ภาพพื้นหลังความละเอียดสูง;ภาพพื้นหลัง;ภาพพื้นหลังไดนามิก;ภาพพื้นหลัง 3D</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>สภาพอากาศ</item>
+        <item>ภาพพื้นหลัง/ภาพพื้นหลังความละเอียดสูง/สภาพอากาศ</item>
+        <item>สภาพอากาศ;ข้อมูลสภาพอากาศ;สุดยอดภาพพื้นหลังr;ภาพพื้นหลัง</item>
     </string-array>
 </resources>

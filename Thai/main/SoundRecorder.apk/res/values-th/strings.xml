@@ -43,6 +43,8 @@
     <string name="call_record_list_group_connected">เชื่อมต่อแล้ว</string>
     <string name="call_record_list_group_unconnected">ไม่ได้เชื่อมต่อ</string>
     <string name="cancel_rename">ยกเลิก </string>
+    <string name="clear_data_dialog_content">รายการแคชข้อมูลแอปและการตั้งค่าที่กำหนดเองจะถูกลบออก แต่การบันทึกของคุณจะยังคงอยู่</string>
+    <string name="clear_data_dialog_title">ล้างข้อมูลตอนนี้?</string>
     <string name="clear_records">ลบไฟล์บันทึกที่ซิงค์ไว้?</string>
     <string name="cloud_record_open">ซิงค์บันทึกเสียง</string>
     <string name="cloud_record_tip">ซิงค์บันทึกเสียงกับ Xiaomi คลาวด์</string>
@@ -127,7 +129,7 @@
     <string name="network_unavailable_tip">เชื่อมต่อเครือข่ายและลองอีกครั้ง</string>
     <string name="new_record_name">บันทึกใหม่</string>
     <string name="no_file">ว่าง</string>
-    <string name="no_network">"Couldn't connect to the network"</string>
+    <string name="no_network">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="notification_message_all_paused">กำลังรอการเชื่อมต่อกับ Wi-Fi</string>
     <string name="notification_playback">กำลังเล่น…</string>
@@ -171,6 +173,7 @@
     <string name="pay_error_unknown">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="playback_delete_records">ลบบันทึก</string>
     <string name="playback_share_records">แชร์บันทึก</string>
+    <string name="preference_clear_data">ล้างข้อมูล</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="preference_enable_earpiece_summary">ใช้หูฟังภายในเครื่องสำหรับการเปิดฟังเสียง</string>
     <string name="preference_enable_earpiece_title">ใช้หูฟังภายในเครื่องเพื่อฟังเสียงที่บันทึก</string>
@@ -330,6 +333,8 @@
     <string name="trash_box">รายการที่ถูกลบล่าสุด</string>
     <string name="trash_box_close_tip">ปิดการสอบถามก่อน</string>
     <string name="trash_box_delete_all">ลบรายการทั้งหมดจากถังขยะอย่างถาวรหรือไม่?</string>
+    <string name="uninstall_warning_content">บันทึกเสียง เป็นแอประบบ คุณจะไม่สามารถบันทึกและถอดเสียงและสายสนทนาได้หลังจากที่คุณถอนการติดตั้ง</string>
+    <string name="uninstall_warning_title">ถอนการติดตั้งบันทึกเสียง?</string>
     <string name="usage_description">กำลังทำสำเนารายการเสียงและซิงค์กับคลาวด์</string>
     <string name="user_feedback">ข้อเสนอแนะ</string>
     <string name="v7_preference_off">ปิด</string>

@@ -116,6 +116,9 @@
     <plurals name="gb_ad_ten_thousand_people_play">
         <item quantity="other">%1$d คนกำลังเล่น</item>
     </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">ถอนการติดตั้ง %2$d เกม (รวมถึง %1$s)</item>
+    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d วินาที</item>
     </plurals>

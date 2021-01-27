@@ -47,22 +47,17 @@
     <string name="account_security_title">ความปลอดภัยของอุปกรณ์</string>
     <string name="account_security_verification">การตรวจสอบบัญชี</string>
     <string name="account_set_up_change_type_note">หากคุณต้องการเปลี่ยนการตั้งค่าระหว่าง POP3 และ IMAP กรุณาลบบัญชีดังกล่าวแล้วสร้างบัญชีใหม่ด้วยการกำหนดค่าที่ต้องการ</string>
-    <string name="account_setting">บัญชี</string>
-    <string name="account_setting_keywords">บัญชี;บัญชีอีเมล</string>
     <string name="account_setting_message_body_load_complete">ข้อความเต็ม</string>
     <string name="account_setting_message_body_load_head_abstract">อีเมลย่อ</string>
     <string name="account_setting_message_body_load_head_only">หัวข้อเท่านั้น</string>
     <string name="account_setting_message_body_load_text">เนื้อหาเท่านั้น</string>
     <string name="account_settings_action">ตั้งค่าบัญชี</string>
-    <string name="account_settings_background_attachments_label">ดาวน์โหลดไฟล์แนบ</string>
     <string name="account_settings_background_attachments_summary">ดาวน์โหลดไฟล์แนบผ่านเครือข่าย WLAN</string>
     <string name="account_settings_background_attachments_summary_inter">ดาวน์โหลดไฟล์แนบผ่านเครือข่าย WLAN</string>
     <string name="account_settings_data_usage">ตั้งค่าการซิงค์</string>
     <string name="account_settings_description_label">ชื่อบัญชี</string>
     <string name="account_settings_edit_quick_responses_label">ตอบด่วน</string>
     <string name="account_settings_edit_quick_responses_summary">แก้ไขข้อความตัวอย่างเพื่อวางลงในอีเมล</string>
-    <string name="account_settings_enforced_label">นโยบาย</string>
-    <string name="account_settings_enforced_summary">ไม่มี</string>
     <string name="account_settings_incoming_summary">ชื่อผู้ใช้ รหัสผ่านและการตั้งค่าต่างๆของเซิร์ฟเวอร์</string>
     <string name="account_settings_login_dialog_content_fmt">"ชื่อบัญชีผู้ใช้หรือรหัสผ่าน %s ไม่ถูกต้อง
  คุณต้องการแก้ไขตอนนี้หรือไม่?"</string>
@@ -77,12 +72,9 @@
     <string name="account_settings_notify_label">การแจ้งเตือนอีเมล</string>
     <string name="account_settings_notify_summary">แจ้งเตือนเมื่อได้รับอีเมลใหม่</string>
     <string name="account_settings_param">ตั้งค่าบัญชี</string>
-    <string name="account_settings_policies">นโยบายความปลอดภัย</string>
     <string name="account_settings_preference_att_save_path">ตำแหน่งพิกัดค่าเริ่มต้นสำหรับไฟล์แนบ</string>
     <string name="account_settings_preference_head_icon">รูปโปรไฟล์</string>
     <string name="account_settings_preference_notify">แจ้งให้ทราบ</string>
-    <string name="account_settings_retry_label">ลองซิงค์</string>
-    <string name="account_settings_retry_summary">แตะเพื่อซิงค์บัญชี</string>
     <string name="account_settings_ringtone">เสียงแจ้งเตือน</string>
     <string name="account_settings_servers">การตั้งค่าเซิร์ฟเวอร์</string>
     <string name="account_settings_smime_title">S /MIME (ปลอดภัย/ส่วนขยายจดหมายอินเทอร์เน็ตอเนกประสงค์)</string>
@@ -93,13 +85,9 @@
     <string name="account_settings_sync_contacts_summary">ซิงค์รายชื่อผู้ติดต่อจากบัญชีนี้</string>
     <string name="account_settings_sync_email_enable">ซิงค์อีเมล</string>
     <string name="account_settings_sync_email_summary">ซิงค์อีเมลจากบัญชีนี้</string>
-    <string name="account_settings_unsupported_label">นโยบายที่ไม่รองรับ</string>
-    <string name="account_settings_unsupported_summary">ไม่มี</string>
     <string name="account_settings_user_usage">ตั้งค่าบัญชี</string>
     <string name="account_settings_using_ringtone">เสียงเรียกเข้า</string>
     <string name="account_settings_vibrate_when_label">สั่น</string>
-    <string name="account_setup_account_type_instructions">บัญชีนี้เป็นบัญชีผู้ใช้แบบใด?</string>
-    <string name="account_setup_account_type_title">ตั้งค่าบัญชี</string>
     <string name="account_setup_address_label">อีเมล</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">กรุณายืนยันความถูกต้องชื่อผู้ใช้ รหัสผ่านและการตั้งค่าบัญชี</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">การตั้งค่าบัญชีไม่สำเร็จ</string>
@@ -117,7 +105,6 @@
     <string name="account_setup_creating_account_msg">"        กำลังสร้างบัญชีผู้ใช้…"</string>
     <string name="account_setup_deleting_account_msg">"    กำลังลบบัญชีออก…"</string>
     <string name="account_setup_exchange_certificate_title">ใบรับรองของเครื่องลูกข่าย</string>
-    <string name="account_setup_exchange_device_id_label">ชื่ออุปกรณ์เคลื่อนที่</string>
     <string name="account_setup_exchange_no_certificate">ไม่มี</string>
     <string name="account_setup_failed_auth_required">เครื่องเซิร์ฟเวอร์ไม่รองรับวิธีการตรวจสอบบัญชีผู้ใช้</string>
     <string name="account_setup_failed_certificate_inaccessible">ใบรับรองนี้ใช้งานไม่ได้หรือไม่สามารถเข้าถึงได้</string>
@@ -135,7 +122,6 @@
     <string name="account_setup_failed_dlg_server_message_fmt">"ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ 
 (%s)"</string>
     <string name="account_setup_failed_dlg_title">การตั้งค่าบัญชีไม่สำเร็จ</string>
-    <string name="account_setup_failed_dlg_todo1">ตั้งเป็นบัญชีที่แสดงด้านล่างหรือลองลงชื่อเข้าใช้ด้วย EXCHANGE</string>
     <string name="account_setup_failed_dlg_todo2">ตั้งบัญชีตามที่แสดงด้านล่าง</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="account_setup_failed_ioerror">ไม่สามารถเปิดการเชื่อมต่อกับเซิร์ฟเวอร์</string>
@@ -183,8 +169,6 @@
     <string name="account_setup_outgoing_port_label">พอร์ต</string>
     <string name="account_setup_outgoing_require_login_label">คุณจำเป็นต้องลงชื่อเข้าใช้</string>
     <string name="account_setup_outgoing_smtp_server_label">เซิร์ฟเวอร์ SMTP</string>
-    <string name="account_setup_security_policies_required_fmt">เครื่องเซิร์ฟเวอร์ %s กำหนดให้คุณต้องอนุญาตให้เซิร์ฟเวอร์เข้าถึงคุณลักษณะด้านความปลอดภัยบางประการบนอุปกรณ์ของคุณ คุณต้องการติดตั้งบัญชีผู้ใช้นี้ต่อไปหรือไม่?</string>
-    <string name="account_setup_security_required_title">การจัดการด้านความปลอดภัยระยะไกล</string>
     <string name="account_setup_server_acc_manager_title">บัญชี</string>
     <string name="account_setup_username_password_toast">กรุณาป้อนที่อยู่อีเมลและรหัสผ่านที่ถูกต้อง</string>
     <string name="account_smime">S/MIME</string>
@@ -196,17 +180,13 @@
     <string name="account_sync_settings_settings">ซิงค์รายชื่อและปฏิทิน</string>
     <string name="account_sync_settingstip_description">ซิงค์</string>
     <string name="account_waiting_for_folders_msg">กำลังโหลดโฟลเดอร์…</string>
-    <string name="actionbar_more_option">ตัวเลือกเพิ่มเติม</string>
     <string name="activity_folder_selection">เลือกโฟลเดอร์</string>
     <string name="activity_mailbox_selection">เลือกบัญชี</string>
     <string name="ad_merge">โฆษณาและการแจ้งเตือน</string>
     <string name="add_account">เพิ่มบัญชี</string>
-    <string name="add_account_keywords">เพิ่มบัญชี;เพิ่มบัญชีอีเมล</string>
-    <string name="add_account_search">เพิ่มบัญชี</string>
     <string name="add_attachment">เพิ่มไฟล์แนบ</string>
     <string name="add_calendar">แจ้งเตือน</string>
     <string name="add_file_exception">ไม่สามารถเพิ่มได้ ลองเพิ่มไฟล์แนบนี้จากที่อื่น</string>
-    <string name="add_label">เพิ่มโฟลเดอร์</string>
     <string name="add_pre_message_attachments">แนบไฟล์ของข้อความก่อนหน้า?</string>
     <string name="add_pre_message_attachments_no">ไม่ต้องใส่</string>
     <string name="add_pre_message_attachments_yes">แนบ</string>
@@ -214,7 +194,6 @@
     <string name="all_purpose">ยินดีต้อนรับสู่ Mail ไคลเอนต์อีเมลที่สร้างขึ้นสำหรับ Xiaomi โดย Kingsoft คุณสามารถใช้แอปนี้ในการเขียนส่งและรับอีเมล</string>
     <string name="allread">อ่านทั้งหมด</string>
     <string name="always_bcc_myself">ส่งสำเนาลับถึงตนเองเสมอ</string>
-    <string name="always_show_images">แสดงรูปภาพจากผู้ส่งรายนี้เสมอ</string>
     <string name="app_name">อีเมล</string>
     <string name="appraise_des">คุณชอบแอปของเราหรือไม่?</string>
     <string name="appraise_good">ใช่</string>
@@ -223,7 +202,6 @@
     <string name="archive">จัดเก็บไว้</string>
     <string name="archived">จัดเก็บแล้ว</string>
     <string name="att_download_failed_content">ไม่สามารถดาวน์โหลดไฟล์แนบสำหรับอีเมลนี้ได้</string>
-    <string name="att_download_failed_network_slow">ความเร็วการเชื่อมต่อช้าเกินไป ลองใหม่ในภายหลัง</string>
     <string name="att_download_failed_permission_denied">ไม่ได้รับอนุญาตให้เข้าถึงที่จัดเก็บข้อมูลภายนอก</string>
     <string name="att_download_failed_title">ไม่สามารถดาวน์โหลดไฟล์แนบได้</string>
     <string name="att_file_not_exists">ไม่พบ %s</string>
@@ -274,9 +252,8 @@
     <string name="b_contacts_remove_tips">ลบที่อยู่นี้ออกจากรายการบล็อก?</string>
     <string name="back">ย้อนกลับ</string>
     <string name="bank_card_detail">รายละเอียดบัตรเครดิต</string>
-    <string name="battery_saver">ตัวประหยัดแบตเตอรี่</string>
-    <string name="battery_saver_keywords">ตัวประหยัดแบตเตอรี่;แบตเตอรี่อีเมล</string>
     <string name="bcc">สำเนาลับถึง</string>
+    <string name="bcc_heading">"สำเนาลับถึง: "</string>
     <string name="bill_center_setting">การตั้งค่าการเรียกเก็บเงิน</string>
     <string name="bill_center_setting_head">นำเข้าข้อมูลจากบัญชีเหล่านี้</string>
     <string name="bill_cycle_text">รอบบิล</string>
@@ -298,6 +275,7 @@
     <string name="cancel_pop3_attchemt_downloading">บัญชี POP3 ไม่สามารถยกเลิกการดาวน์โหลดไฟล์แนบได้</string>
     <string name="cant_move_or_change_labels">ไม่สามารถย้ายรายการจากต่างบัญชีได้</string>
     <string name="cc">สำเนาถึง</string>
+    <string name="cc_attribution">สำเนาถึง: %1$s&lt;br></string>
     <string name="cc_bcc">สำเนา/สำเนาลับ</string>
     <string name="cc_heading">"สำเนาถึง: "</string>
     <string name="certificate_add_failed">ไม่สามารถเพิ่มใบรับรอง \"%s\" ได้</string>
@@ -314,7 +292,6 @@
     <string name="change_sync_settings">แก้ไขตั้งค่าการซิงค์</string>
     <string name="changepw_dialog_auth_tips">ป้อนรหัสสำหรับ %s อีกครั้ง</string>
     <string name="changepw_dialog_tips">ป้อนรหัสผ่านของ %s อีกครั้ง</string>
-    <string name="changepw_dialog_tips_please_clikc_btn">เรียกดูรหัสยืนยัน %s และลงชื่อเข้าใช้อีกครั้ง</string>
     <string name="chat_item_msg_people_unit">บุคคล</string>
     <string name="chat_item_msg_user_etc">ฯลฯ</string>
     <string name="check_setup_data">"        ตรวจสอบการตั้งค่าบนเซิร์ฟเวอร์…"</string>
@@ -326,8 +303,8 @@
     <string name="click_download_all_content">[ แตะเพื่อดาวน์โหลดเนื้อหา ]</string>
     <string name="click_to_reload">แตะหน้าจอเพื่อรีเฟรช</string>
     <string name="collapse_recipient_details">ซ่อนรายละเอียดผู้รับ</string>
+    <string name="colon">:</string>
     <string name="compose">เขียน</string>
-    <string name="compose_attachment_number_limit">ไม่สามารถเพิ่มไฟล์แนบมากกว่า 10 รายการ</string>
     <string name="compose_event">คำเชิญ</string>
     <string name="compose_paste_address_oob">อักขระมากเกินไป</string>
     <string name="compose_picturesexceedlimits">คุณสามารถแนบรูปภาพเพิ่มได้</string>
@@ -336,10 +313,6 @@
     <string name="confirm">ตกลง</string>
     <string name="confirm_add_to_calendar">กำลังเพิ่มลงในปฏิทิน…</string>
     <string name="confirm_age">ยืนยันอายุ</string>
-    <string name="confirm_before_delete">ยืนยันก่อนลบ</string>
-    <string name="confirm_before_delete_keywords">ยืนยันก่อนลบ;ยืนยันการลบ</string>
-    <string name="confirm_before_send">ยืนยันก่อนส่ง</string>
-    <string name="confirm_before_send_keywords">ยืนยันก่อนลบ;ยืนยันการส่ง</string>
     <string name="confirm_delete_attachment">ลบสิ่งที่แนบ?</string>
     <string name="confirm_delete_conversation_title">ลบ</string>
     <string name="confirm_discard_text">ละทิ้งข้อความนี้?</string>
@@ -360,8 +333,6 @@
     <string name="contact_edit_set_phone_contact">แก้ไขรายชื่อผู้ติดต่อ</string>
     <string name="contact_edit_title_phone_contact">รายชื่อผู้ติดต่อโทรศัพท์</string>
     <string name="contact_in_filter_title">ผู้ส่ง</string>
-    <string name="contact_info_string">แสดงข้อมูลการติดต่อของ%1$s</string>
-    <string name="contact_info_string_default">แสดงข้อมูลการติดต่อ</string>
     <string name="contact_list_add_btn">เพิ่ม</string>
     <string name="contact_list_search_hint">ค้นหารายชื่อ</string>
     <string name="contact_list_title">รายชื่อ</string>
@@ -397,21 +368,17 @@
     <string name="conversation_message_encrypt_tips">นี่คืออีเมลที่เข้ารหัส เพิ่มใบรับรองที่จำเป็นสำหรับการถอดรหัส</string>
     <string name="conversation_msg_header_collapsed_sent_to">"ส่งไปยัง "</string>
     <string name="conversation_photo_welcome_text">แตะที่รูปผู้ส่งเพื่อเลือกอีเมลต่อเนื่อง</string>
-    <string name="conversation_pull_ad_content">จัดการอีเมลของคุณได้อย่างง่ายดาย</string>
     <string name="conversation_quick_button_approve">ตกลง</string>
     <string name="conversation_quick_button_disapprove">ยกเลิก</string>
     <string name="conversation_quick_button_received">ได้รับแล้ว</string>
     <string name="conversation_report_spam">รายงานสแปม</string>
     <string name="conversation_spam_dig_msg">ทำเครื่องหมายข้อความนี้ว่าเป็นสแปม? ข้อความจะถูกย้ายไปที่โฟลเดอร์ \"จดหมายขยะ\" และผู้ส่งจะถูกเพิ่มในรายการบล็อก</string>
     <string name="conversation_spam_tips">ทำเครื่องหมายข้อความนี้ว่าเป็นสแปม?</string>
-    <string name="conversation_view">มุมมองแบบสนทนา</string>
-    <string name="conversation_view_keywords">มุมมองแบบสนทนา;การสนทนาอีเมล</string>
     <string name="copied">คัดลอกแล้ว</string>
     <string name="copy">คัดลอก</string>
     <string name="copy_email">คัดลอกที่อยู่อีเมล</string>
     <string name="copy_number">คัดลอกหมายเลขโทรศัพท์</string>
     <string name="create_action">ใหม่</string>
-    <string name="credit_limit_text">วงเงินสินเชื่อ</string>
     <string name="cur_debt">ยอดเงินในบัญชี</string>
     <string name="custom_from_account_label">ส่งเมลในชื่อ:</string>
     <string name="database_exception">เกิดข้อผิดพลาด กรุณาลงชื่อเข้าใช้อีกครั้ง</string>
@@ -430,8 +397,6 @@
     <string name="delete">ลบ</string>
     <string name="delete_contact_content">ลบรายชื่อนี้ทันที?</string>
     <string name="delete_message_event">ลบคำเชิญนี้หรือไม่?</string>
-    <string name="delete_message_flow">ลบเส้นทางในการส่งข้อความ</string>
-    <string name="delete_message_flow_keywords">ลบเส้นทางในการส่งข้อความ;ลบการเปลี่ยนเส้นทาง</string>
     <string name="deleted">ลบแล้ว</string>
     <string name="device_activity_btn_str">เปิดใช้</string>
     <string name="device_activity_lint_str">เปิดใช้งานอีเมลเสร็จสมบูณณ์ และใช้การตั้งค่าความปลอดภัย</string>
@@ -439,7 +404,6 @@
     <string name="device_admin_label">อีเมล</string>
     <string name="device_not_activiey_lint1">ตัวจัดการอุปกรณ์ไม่ได้เปิดใช้</string>
     <string name="device_not_activiey_lint2">อีเมลไม่รองรับการทำงานร่วมกับ Exchange</string>
-    <string name="dialog_account_auto_sync_setting_no_open">คุณเลือกที่จะซิงค์อีเมลด้วยตนเอง รีเฟรชการซิงค์</string>
     <string name="dialog_agree">ยอมรับ</string>
     <string name="dialog_change_sync_lookback">อีเมลที่ได้รับเมื่อ %s ที่ผ่านมาจะถูกลบโดยอัตโนมัติ แตะเพื่อแก้ไข</string>
     <string name="dialog_disagree">ไม่เห็นด้วย</string>
@@ -448,7 +412,6 @@
     <string name="dialog_system_auto_sync_account_no_open">เปิดการซิงค์บัญชีเพื่อรับอีเมล์โดยอัตโนมัติ</string>
     <string name="dialog_system_auto_sync_master_no_open">เปิดการซิงค์เพื่อรับอีเมล์โดยอัตโนมัติ</string>
     <string name="disable_admin_warning">คำเตือน: หากคุณยกเลิกสิทธิการเข้าถึงของแอปอีเมล อุปกรณ์ของคุณจะลบบัญชีผู้ใช้งานทั้งหมด รวมถึงเนื้อหาอีเมล, รายชื่อผู้ติดต่อ, กำหนดการปฏิทิน และข้อมูลอื่นๆ</string>
-    <string name="discard">ละทิ้ง</string>
     <string name="discard_drafts">ยกเลิกแบบร่าง</string>
     <string name="dismiss_tip_hover_text">ไม่ต้องแสดงข้อความช่วยเหลือ</string>
     <string name="disturb_switch">ห้ามรบกวน</string>
@@ -463,7 +426,6 @@
     <string name="downlaod_confirm_download">ดาวน์โหลด</string>
     <string name="downlaod_nonWifi_confirm_message">ใช้เครือข่ายข้อมูลมือถือในการดาวน์โหลดไฟล์แนบนี้?</string>
     <string name="downlaod_nonWifi_confirm_title">ดาวน์โหลดไฟล์แนบนี้?</string>
-    <string name="download_again">ดาวน์โหลดอีกครั้ง</string>
     <string name="download_before_sharing">" ยังดาวน์โหลดไม่เสร็จ"</string>
     <string name="download_cancel_confirm_message">กำลังยุติการดาวน์โหลด</string>
     <string name="download_cancel_confirm_title">ดาวน์โหลดไฟล์แนบนี้?</string>
@@ -473,7 +435,6 @@
     <string name="download_message_failed_for_too_large">ดาวน์โหลดข้อความไม่ได้เนื่องจากมีขนาดใหญ่เกินกำหนด</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_bank_bill">บัญชีธนาคาร</string>
-    <string name="drawer_classification">หมวดหมู่</string>
     <string name="drawer_close">ปิดตัวนำทาง</string>
     <string name="drawer_contacts">รายชื่อ</string>
     <string name="drawer_open">เปิดใช้ตัวนำทาง</string>
@@ -486,8 +447,6 @@
     <string name="editor_max_length_limit_hint">ข้อความที่คุณป้อนยาวเกินไป</string>
     <string name="email_netease">อีเมล NetEase</string>
     <string name="email_qq">อีเมล QQ</string>
-    <string name="email_setting">อีเมล</string>
-    <string name="email_setting_keywords">บัญชี;เพิ่มบัญชี;บัญชีอีเมล;เพิ่มบัญชีอีเมล;ยืนยันก่อนลบ;ยืนยันการลบ;ยืนยันก่อนส่ง;ยืนยันการส่งยืน;ลบไหลข้อความ;ลบเส้นทางในการส่งข้อความ;มุมมองแบบสนทนา;การสนทนาอีเมล;ตัวประหยัดแบตเตอรี่;แบตเตอรี่อีเมล;ส่งข้อเสนอแนะ;อัพโหลดบันทึกการใช้</string>
     <string name="email_sina">อีเมล Sina</string>
     <string name="email_sync_failed">ซิงค์อีเมลไม่สำเร็จ</string>
     <string name="eml_parse_message">กำลังเปิดไฟล์ EML...</string>
@@ -513,7 +472,6 @@
     <string name="fail_get_email_message">ไม่ได้รับข้อความ</string>
     <string name="failed">ไม่สามารถโหลดภาพได้</string>
     <string name="failed_parse_eml_file">ไม่สามารถเปิดไฟล์ EML ได้ลองอีกครั้ง</string>
-    <string name="failed_read_phone_state_permission">อนุญาตการเข้าถึงสถานะของอุปกรณ์</string>
     <string name="failed_read_write_calendar_permission">การเข้าถึงปฏิทินถูกจำกัด</string>
     <string name="failed_read_write_contacts_permission">การเข้าถึงรายชื่อติดต่อถูกจำกัด</string>
     <string name="feedback">ส่งข้อเสนอแนะ</string>
@@ -594,19 +552,16 @@
     <string name="gmail_login_confirm_to_use_proxy">คุณต้องการใช้พร็อกซี่เซิร์ฟเวอร์เพื่อเข้าใช้งานบัญชี Gmail ของคุณ?</string>
     <string name="gmail_login_failed_non_proxy_title">ไม่สามารถติดต่อกับเซิร์ฟเวอร์ Gmail ได้</string>
     <string name="gmail_server_authorization_deleted">ไม่สามารถยืนยันสิทธิ์การใช้บัญชี ลองเพิ่มบัญชีนี้ใหม่อีกครั้ง</string>
-    <string name="gmail_web_login_go">ตกลง</string>
-    <string name="gmail_web_login_required_message">ลงชื่อเข้าใช้งาน Gmail</string>
     <string name="go_to_mail_content">เรียกดูอีเมล</string>
     <string name="have_auth_code">ฉันมีรหัส</string>
     <string name="header_category_account">บัญชี</string>
-    <string name="header_category_other">ข้อเสนอแนะ</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">ทั่วไป</string>
     <string name="help_and_info">วิธีใช้</string>
     <string name="help_me_get_qq_auth">ขอรับรหัส</string>
     <string name="help_weixin_title">"หากคุณมีคำถามใดๆ โปรดส่งข้อเสนอแนะในบัญชี WeChat อย่างเป็นทางการของเรา: "</string>
     <string name="hide_elided">▼ ซ่อนข้อความอ้างอิง</string>
     <string name="hide_password">ซ่อนรหัสผ่าน</string>
-    <string name="hint_quick_reply_all">ตอบกลับทั้งหมด</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">รหัสผ่านสำหรับเซิร์ฟเวอร์อีเมลขาเข้าไม่ถูกต้อง</string>
@@ -614,14 +569,13 @@
     <string name="import_from_other_account">นำเข้าจากบัญชีอื่น</string>
     <string name="info_actionbar_normal_detail">โปรโมชั่น</string>
     <string name="info_item_hide">ลบ</string>
-    <string name="info_switch_summary">แสดงโปรโมชั่นไว้ด้านบนของกล่องขาเข้า</string>
-    <string name="info_switch_title">โปรโมชั่น</string>
     <string name="inline_picture_deleted">กำลังดาวน์โหลดรูปภาพที่เหลือ…</string>
     <string name="input_password_prompt">ป้อนรหัสผ่านของคุณ</string>
     <string name="interact_with_server_error">ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้</string>
     <string name="invalid_recipient">ที่อยู่บัญชี %s ไม่ถูกต้อง</string>
     <string name="invalid_recipient_title">ชื่อผู้รับไม่ถูกต้อง</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">ยังไม่มีอีเมล</string>
     <string name="load_from_remote">ค้นหาในกล่องข้อความบนเซิร์ฟเวอร์</string>
     <string name="load_more">โหลดเพิ่มเติม</string>
@@ -633,7 +587,6 @@
     <string name="log_save_path">แพตบันทึกการใช้</string>
     <string name="login">เข้าสู่ระบบ</string>
     <string name="login_des_126">ลงชื่อเข้าใช้อีเมล 126</string>
-    <string name="login_des_139">ลงชื่อเข้าใช้อีเมล 139</string>
     <string name="login_des_163">ลงชื่อเข้าใช้อีเมล 163</string>
     <string name="login_des_exchange">ลงชื่อเข้าใช้ Exchange</string>
     <string name="login_des_gmail">ลงชื่อเข้าใช้งาน Gmail</string>
@@ -653,7 +606,6 @@
     <string name="login_failed_title">ไม่สามารถเข้าใช้งาน</string>
     <string name="login_mail">ลงชื่อเข้าใช้</string>
     <string name="login_qq_psw">ป้อนรหัสด้วยตนเอง</string>
-    <string name="login_support_tip_text">สนับสนุนบัญชีอีเมลปกติทั้งหมด</string>
     <string name="long_press_to_select_tip">แตะค้างไว้เพื่อเลือกอีเมลต่อเนื่อง แตะเพิ่มเพื่อเลือกรายการอื่นต่อไป</string>
     <string name="mail">อีเมล</string>
     <string name="mail_body_turncated">อีเมลนี้มีขนาดใหญ่เกินกำหนด ระบบจึงแสดงเพียงบางส่วนเท่านั้น กรุณาเรียกดูทั้งหมดได้จากเครื่องพีซีในภายหลัง</string>
@@ -696,16 +648,6 @@
         ยอมรับแล้ว:
         %s
     "</string>
-    <string name="meeting_allday">"
-        เมื่อใด:
-        %s
-        (ตลอดทั้งวัน)
-    "</string>
-    <string name="meeting_allday_recurring">"
-        เมื่อใด:
-        %s
-        (ตลอดทั้งวัน วันเวลาเดิมไปตลอด)
-    "</string>
     <string name="meeting_canceled">"
         ยกเลิกแล้ว:
         %s
@@ -714,11 +656,6 @@
         ปฏิเสธแล้ว:
         %s
     "</string>
-    <string name="meeting_recurring">"
-        เมื่อใด:
-        %s
-        (วันเวลาเดิมไปตลอด)
-    "</string>
     <string name="meeting_responded_failed">ไม่ตอบสนอง</string>
     <string name="meeting_tentative">"
         รอพิจารณา:
@@ -726,14 +663,6 @@
     "</string>
     <string name="meeting_updated">"
         มีการแก้ไข:
-        %s
-    "</string>
-    <string name="meeting_when">"
-        เมื่อใด:
-        %s
-    "</string>
-    <string name="meeting_where">"
-        ที่ไหน:
         %s
     "</string>
     <string name="megabytes">%s MB</string>
@@ -750,9 +679,6 @@
     <string name="menu_folder_options">ตัวเลือกการซิงค์ข้อมูล</string>
     <string name="menu_move_to">ย้ายไปยัง</string>
     <string name="menu_move_to_inbox">ย้ายไปยังกล่องขาเข้า</string>
-    <string name="menu_photo_save_all">บันทึกทั้งหมด</string>
-    <string name="menu_photo_share">แชร์</string>
-    <string name="menu_photo_share_all">แชร์ทั้งหมด</string>
     <string name="menu_resend_all">ส่งใหม่ทั้งหมด</string>
     <string name="menu_search">ค้นหา</string>
     <string name="menu_settings">การตั้งค่า</string>
@@ -760,7 +686,6 @@
     <string name="message_body_load_set_description">โหลดอีเมลเมื่อมีการใช้ข้อมูลมือถือ</string>
     <string name="message_compose_insert_quick_response_list_title">ป้อนข้อความตอบกลับด่วน</string>
     <string name="message_decode_error">ไม่สามารถถอดรหัสข้อความได้</string>
-    <string name="message_details_title">รายละเอียดข้อความ</string>
     <string name="message_discarded">ละทิ้งแบบร่างแล้ว</string>
     <string name="message_invite_accept">เข้าร่วม</string>
     <string name="message_invite_calendar_view">เปิดดูในปฏิทิน</string>
@@ -771,7 +696,6 @@
     <string name="message_invite_state_decline">ปฏิเสธ</string>
     <string name="message_invite_state_tentative">กำลังรอ</string>
     <string name="message_invite_tentative">อาจจะ</string>
-    <string name="message_invite_title">คำชวนในปฏิทิน</string>
     <string name="message_saved">บันทึกข้อความเป็นฉบับร่างแล้ว</string>
     <string name="message_view_attachment_background_load">ไฟล์แนบในอีเมลที่ถูกส่งต่อจะถูกดาวน์โหลดก่อนที่จะทำการส่งต่อ</string>
     <string name="mi_sync_erroe_toast">"เครือข่ายผิดพลาด "</string>
@@ -783,12 +707,10 @@
     <string name="mibill_privacy_policy_title">ชำระบิลค่าใช้จ่ายอัตโนมัติ</string>
     <string name="min_payment_text">ชำระเงินต่ำสุด</string>
     <string name="modify_contact_address">แก้ไขที่อยู่อีเมลของผู้ติดต่อ</string>
-    <string name="more_context">เพิ่มเติม</string>
     <string name="move_to_selection_dialog_title">ย้ายไปยังโฟลเดอร์อื่น</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">ปิดไมค์</string>
     <string name="navigation_menu">เมนูนำทาง</string>
-    <string name="need_get_qq_mail">ต้องใช้ QQ Mail</string>
     <string name="network_error">ไม่มีการเชื่อมต่อ</string>
     <string name="network_invaild">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="network_not_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
@@ -805,15 +727,12 @@
     <string name="no_contacts">ไม่มีรายชื่อ</string>
     <string name="no_content_in_body">[No Body]</string>
     <string name="no_conversations">ไม่พบอีเมล</string>
-    <string name="no_filtrable_email_account">บัญชีไม่มีการกรองข้อมูล</string>
     <string name="no_img_application_found">ไม่พบแอปที่จะเปิดภาพนี้</string>
     <string name="no_img_application_found_title">ไม่สามารถเปิดภาพนี้ได้</string>
     <string name="no_mails">ไม่มีอีเมล</string>
     <string name="no_matched_attachment">ไม่มีผลลัพธ์</string>
     <string name="no_more_mail">ไม่มีข้อความเพิ่มเติม</string>
     <string name="no_open_smime_toast">เพิ่มใบรับรอง S/MIME ก่อน</string>
-    <string name="no_recognize_describe">"ไม่พบอีเมลที่มีตั๋วหรือการจอง
-ลองดูในกล่องจดหมายอื่น"</string>
     <string name="no_search_results">ค้นหาบนเซิร์ฟเวอร์</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="not_subject">(ไม่มีชื่อเรื่อง)</string>
@@ -826,7 +745,6 @@
     <string name="notification_action_undo_archive">จัดเก็บแล้ว</string>
     <string name="notification_action_undo_delete">ลบแล้ว</string>
     <string name="notification_action_undo_remove_label">ลบป้ายกำกับแล้ว</string>
-    <string name="notification_exchange_calendar_added">เพิ่มปฏิทิน Exchange แล้ว</string>
     <string name="notify_channel_new_mail">แจ้งเตือนเกี่ยวกับข้อความใหม่</string>
     <string name="notify_channel_no_disterb">โหมดห้ามรบกวน</string>
     <string name="notify_channel_permission_notice">จำเป็นต้องขออนุญาต</string>
@@ -847,7 +765,6 @@
     <string name="oauth_gmail_login_notify">กรุณาป้อนชื่อผู้ใช้งานและรหัสผ่านของบัญชี Google ในหน้าเข้าสู่ระบบถัดจากนี้</string>
     <string name="oauth_login_continue">ดำเนินการต่อ</string>
     <string name="oauth_login_continue_qq">รับรหัสผ่าน และลงชื่อเข้าใช้ ></string>
-    <string name="oauth_login_usr_proxy">ลงชื่อเข้าใช้พร็อกซี่</string>
     <string name="obtain_new_auth_code">รับรหัสใหม่</string>
     <string name="ok">ตกลง</string>
     <string name="okay_action">ตกลง</string>
@@ -893,7 +810,6 @@
     <string name="over_sixteen">ฉันอายุ 16 ปีขึ้นไป</string>
     <string name="parase_setup_data">กำลังรับข้อมูล…</string>
     <string name="parse_bill_discribe">การประมวลค่าใช้จ่ายผลบัตรเครดิต…</string>
-    <string name="parse_recognize_describe">กำลังวิเคราะห์อีเมล...</string>
     <string name="password_expire_warning_content_title">รหัสผ่านสำหรับปลดล็อกหน้าจอใกล้หมดอายุ</string>
     <string name="password_expire_warning_dialog_content_fmt">คุณจำเป็นต้องเปลี่ยนรหัส PIN หรือรหัสผ่านปลดล็อกหน้าจอโดยเร็ว มิฉะนั้นบัญชีผู้ใช้%s จะถูกลบออก คุณต้องการเปลี่ยนรหัสผ่านตอนนี้?</string>
     <string name="password_expire_warning_dialog_title">รหัสผ่านสำหรับปลดล็อกหน้าจอใกล้หมดอายุ</string>
@@ -904,16 +820,6 @@
 คุณสามารถเรียกคืนข้อมูลดังกล่าวได้โดยการเปลี่ยนรหัส PIN หรือรหัสผ่านปลดล็อกหน้าจอ คุณต้องการเปลี่ยนตอนนี้หรือไม่?"</string>
     <string name="password_expired_dialog_title">รหัสผ่านสำหรับปลดล็อกหน้าจอหมดอายุแล้ว</string>
     <string name="password_expired_ticker">รหัส PIN หรือรหัสผ่านสำหรับปลดล็อกหน้าจอของคุณหมดอายุแล้ว</string>
-    <string name="path_about_account_setting">อีเมล/การตั้งค่า/บัญชี</string>
-    <string name="path_about_add_account">อีเมล/การตั้งค่า/เพิ่มบัญชี</string>
-    <string name="path_about_battery_saver">อีเมล/การตั้งค่า/ตัวประหยัดแบตเตอรี่</string>
-    <string name="path_about_confirm_before_delete">อีเมล/การตั้งค่า/ยืนยันก่อนลบ</string>
-    <string name="path_about_confirm_before_send">อีเมล/การตั้งค่า/ยืนยันก่อนส่ง</string>
-    <string name="path_about_conversation_view">อีเมล/การตั้งค่า/มุมมองแบบสนทนา</string>
-    <string name="path_about_delete_message_flow">อีเมล/การตั้งค่า/ลบเส้นทางในการส่งข้อความ</string>
-    <string name="path_about_email_setting">อีเมล/การตั้งค่า</string>
-    <string name="path_about_send_feed_back">อีเมล/การตั้งค่า/ส่งข้อเสนอแนะ</string>
-    <string name="path_about_upload_logs">อีเมล/การตั้งค่า/อัพโหลดบันทึกการใช้</string>
     <string name="perference_change_pw_notnull_tips">ป้อนรหัสผ่านของคุณ</string>
     <string name="perference_change_pw_ok_tips">เปลี่ยนรหัสผ่านแล้ว</string>
     <string name="perference_setup_pop_del">ลบอีเมลออกจากเซิร์ฟเวอร์</string>
@@ -929,19 +835,15 @@
     <string name="personal_data_collection_summary">เมื่อสวิตช์เปิดใช้งาน คุณยอมรับว่าเราอาจรวบรวมข้อมูลส่วนบุคคลของคุณ คุณสามารถสลับปิดการเพิกถอนการอนุญาตและลบข้อมูลของคุณจากเซิร์ฟเวอร์ของเราได้ตลอดเวลา</string>
     <string name="personal_data_collection_title">อนุญาตให้รวบรวมข้อมูลส่วนตัว</string>
     <string name="phone">โทรศัพท์</string>
-    <string name="photo_load_failed">ไม่สามารถโหลดภาพได้</string>
     <string name="photo_view_count">%1$d/%2$d</string>
     <string name="pl_select_age">เลือกอายุ</string>
-    <string name="please_fill_in_your_mailbox_information2">ป้อนข้อมูลบัญชีอีเมลของคุณ</string>
     <string name="pls_parse_bill_discribe">"วิเคราะห์รายการ และข้อมูลท่องเที่ยวในอีเมล
 เพื่อรับการแจ้งเตือนเกี่ยวกับการชำระเงินและการเดินทางของคุณ"</string>
     <string name="policy_app_blacklist">ไม่อนุญาตให้ใช้แอปที่กำหนด</string>
     <string name="policy_app_whitelist">กำหนดให้ใช้เฉพาะแอปที่ระบุไว้</string>
     <string name="policy_bluetooth_restricted">จำกัดการใช้บลูทูธ</string>
-    <string name="policy_calendar_age">จำกัดจำนวนกำหนดการในปฏิทินที่จะซิงค์ได้</string>
     <string name="policy_dont_allow_attachments">ห้ามแนบไฟล์</string>
     <string name="policy_dont_allow_browser">ไม่อนุญาตให้ใช้เบราว์เซอร์</string>
-    <string name="policy_dont_allow_camera">บล็อกการใช้กล้องในเครื่องนี้</string>
     <string name="policy_dont_allow_consumer_email">ไม่อนุญาตให้รับเมลที่ไม่ระบุชื่อ</string>
     <string name="policy_dont_allow_html">ไม่อนุญาตให้รับส่งอีเมลในรูปแบบ HTML</string>
     <string name="policy_dont_allow_internet_sharing">ไม่อนุญาตให้แชร์อินเตอร์เน็ต</string>
@@ -953,28 +855,19 @@
     <string name="policy_dont_allow_unsigned_installers">ไม่อนุญาตให้ติดตั้งผ่านแอปที่ไม่มีการรับรอง</string>
     <string name="policy_dont_allow_wifi">ไม่อนุญาตให้ใช้ WLAN</string>
     <string name="policy_dont_allow_wifi_inter">ไม่อนุญาตให้ใช้ WLAN</string>
-    <string name="policy_email_age">จำกัดจำนวนอีเมลที่จะซิงค์ได้</string>
     <string name="policy_html_truncation">จำกัดขนาดของอีเมลในรูปแบบ HTML</string>
-    <string name="policy_password_expiration">ตั้งค่าวันหมดอายุของรหัสผ่าน</string>
-    <string name="policy_password_history">ไม่สามารถใช้รหัสผ่านเดิมได้</string>
     <string name="policy_require_encryption">อุปกรณ์ต้องมีการเข้ารหัส</string>
     <string name="policy_require_manual_sync_roaming">อนุญาตเฉพาะการซิงค์แบบกำหนดเองเท่านั้นขณะโรมมิ่ง</string>
-    <string name="policy_require_password">ต้องใส่รหัสผ่านของอุปกรณ์</string>
     <string name="policy_require_sd_encryption">ต้องเข้ารหัส SD การ์ด</string>
     <string name="policy_require_smime">กำหนดให้ใช้ข้อความแบบ SMIME</string>
-    <string name="policy_screen_timeout">กำหนดเวลาล็อกหน้าจอเมื่อไม่ใช้งาน</string>
     <string name="policy_text_truncation">จำกัดขนาดของอีเมลที่เป็นข้อความ</string>
     <string name="pop3_name">POP3</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="preference_eas_tips">แตะ “เปิดใช้งาน” เพื่อตั้งค่าอีเมลเซิร์ฟเวอร์</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">การใช้งานกล่องจดหมายแบบ POP3 ไฟล์แนบถูกกำหนดให้ดาวน์โหลดมาพร้อมกันกับอีเมล อาจเพิ่มปริมาณการใช้งานข้อมูลมือถือได้</string>
-    <string name="preference_sender_image_description">แสดงรูปประจำตัวไว้ข้างชื่อผู้ส่งในกล่องข้อความขาเข้าของคุณ</string>
-    <string name="preference_sender_image_title">แสดงรูปโปรไฟล์ในกล่องขาเข้า</string>
     <string name="preferences_signature_dialog_title">ลายเซ็นต์</string>
-    <string name="preferences_signature_summary_not_set">ไม่ได้ตั้ง</string>
     <string name="preferences_signature_title">ลายเซ็นต์</string>
-    <string name="preview_attachment">ดูตัวอย่าง</string>
     <string name="previous_action">ย้อนกลับ</string>
     <string name="print">พิมพ์</string>
     <string name="print_scheduler_title">พิมพ์ตัวกำหนดเวลาทั้งหมด</string>
@@ -983,7 +876,6 @@
     <string name="privacy_setting_agree">ยอมรับ</string>
     <string name="prompt_title">สอบถามก่อน</string>
     <string name="protocol_setting_toast">แตะมุมขวาบนเพื่อไปยังการตั้งค่าหลังจากที่คุณตกลง</string>
-    <string name="pull_load_more">ลากขึ้นเพื่อโหลดเพิ่มเติม</string>
     <string name="pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
     <string name="push_wps_better_confirm_download">ดาวน์โหลด</string>
     <string name="push_wps_better_confirm_exit">แอปอื่นๆ</string>
@@ -1004,26 +896,17 @@
     <string name="qq_bar_open_imap">ช่วยเหลือ</string>
     <string name="qq_bar_send_message">ส่ง SMS</string>
     <string name="qq_changepw_dialog_tips">รับรหัสใหม่จาก %s เพื่อลงชื่อเข้าใช้</string>
-    <string name="qq_login_basecode">กำลังลงชื่อเข้าใช้เว็บ QQ Mail ป้อนการตรวจสอบของคุณ</string>
-    <string name="qq_login_get_auth">เปิดใช้งานการป้องกันด้วยรหัสผ่านหากคุณไม่สามารถรับข้อความ SMS ได้</string>
     <string name="qq_login_help_bottom_tip">"หากคุณลืมรหัสผ่านหรือต้องการตรวจสอบสถานะบัญชีของคุณให้ ใช้ QQ Mail เวอร์ชันเว็บ คุณยังสามารถรับความช่วยเหลือได้ใน WeChat: "</string>
     <string name="qq_login_help_details1">1. รหัสผ่าน QQ สามารถใช้งานได้เมื่อไม่มีรหัสผ่านอิสระหรือรหัสอนุญาตถูกตั้งค่าด้วยโปรโตคอล IMAP/Exchange</string>
     <string name="qq_login_help_details2">2. รหัสผ่านอิสระสามารถใช้ได้เมื่อไม่มีการตั้งค่ารหัสอนุญาตด้วยโปรโตคอล IMAP/Exchange</string>
     <string name="qq_login_help_details3">"3. รหัสการอนุญาตที่สร้างขึ้นสำหรับไคลเอนต์อีเมลบุคคลที่สามยังสามารถใช้สำหรับการลงชื่อเข้าใช้ หากคุณลืมรหัสของคุณ โปรดดูที่ลิงค์นี้: "</string>
     <string name="qq_login_help_title">QQ/รหัสผ่านอิสระ/รหัสการอนุมัติ:</string>
     <string name="qq_login_notice">หมายเหตุ: หากคุณได้ตั้งรหัสผ่านแล้ว คุณจะต้องยืนยันรหัสผ่านเมื่อคุณลงชื่อเข้าใช้</string>
-    <string name="qq_login_open_imap">แตะ \"ช่วยเหลือ\" เพื่อเปิด IMAP/SMTP</string>
-    <string name="qq_login_origin_setting">ป้อนชื่อผู้ใช้และรหัสผ่านเพื่อลงชื่อเข้าใช้ ></string>
-    <string name="qq_login_send_message">แตะ \"ส่ง SMS\" เพื่อรับรหัสยืนยัน</string>
     <string name="qq_login_sent_setting">ซิงค์ข้อความที่ถูกส่ง</string>
-    <string name="qq_login_webview">ลงชื่อเข้าใช้ไคลเอ็นต์เว็บ QQ, แตะลงชื่อเข้าใช้ด้วยรหัสผ่าน</string>
-    <string name="qq_next_generation_auth_toast">เปิดการป้องกันด้วยรหัสผ่านในเบราว์เซอร์ของคุณ</string>
     <string name="qq_pwd_or_qq_auth_code">ป้อนรหัส</string>
     <string name="qq_sent_no_message">ไม่พบอีเมลที่คุณส่ง? แตะที่นี่เพื่อเรียนรู้สิ่งที่คุณทำได้</string>
     <string name="qq_sent_no_message_setting">ซิงค์ข้อความที่ส่งจาก QQ Mail</string>
     <string name="qq_uthentication_failed">ไม่สามารถตรวจสอบบัญชีได้ ลงชื่อเข้าใช้อีกครั้ง</string>
-    <string name="qq_verify_code">(ต้องใช้รหัสยืนยันจาก QQ)</string>
-    <string name="qq_webview_loading">รอสักครู่…</string>
     <string name="questionnair_body_invisibility">ข้อความไม่แสดง</string>
     <string name="questionnair_confirm_delete">ลบบัญชีออก?</string>
     <string name="questionnair_instability">เกิดปัญหาบ่อยครั้ง</string>
@@ -1039,9 +922,6 @@
     <string name="quick_4">เราควรจะนัดพบกันเพื่อคุยกันถึงรายละเอียด</string>
     <string name="quick_reply_dialog_title">เลือกข้อความตอบกลับ</string>
     <string name="quick_reply_expend">เพิ่มเติม</string>
-    <string name="quick_reply_hint_bcc">(สำเนาลับ)</string>
-    <string name="quick_reply_hint_cc">(สำเนา)</string>
-    <string name="quick_reply_hint_reply_only_from">ตอบกลับด่วน (ผู้ส่งเท่านั้น)</string>
     <string name="quick_responses_empty_view">ไม่มีข้อความตอบด่วน</string>
     <string name="quoted_text">แสดงข้อความอ้างอิงก่อนหน้า</string>
     <string name="quoted_text_label">ข้อความอ้างอิง</string>
@@ -1050,38 +930,11 @@
     <string name="read_string">อ่านเนื้อหาแล้ว</string>
     <string name="recipient_needed">ต้องใส่ชื่อผู้รับ</string>
     <string name="recipient_needed_title">คำเตือน</string>
-    <string name="recognize_hotel_check_in_date">เวลาเช็คอิน</string>
-    <string name="recognize_hotel_hotel_money">ราคา %1$s</string>
-    <string name="recognize_hotel_notification_content">ขอให้มีความสุขไปกับการพักผ่อนของคุณ!</string>
-    <string name="recognize_hotel_notification_title">คุณสามารถจองห้องพักที่ %1$s เริ่มต้นที่ %2$s/%3$s ตรวจสอบการจองอีกครั้งก่อนเดินทาง</string>
-    <string name="recognize_hotel_order_money">ทั้งหมด</string>
-    <string name="recognize_hotel_other_money">ค่าใช้จ่ายอื่นๆ %1$s</string>
-    <string name="recognize_hotel_reverse_date">เช็คอินก่อน %1$s:%2$s %3$s</string>
-    <string name="recognize_hotel_room_type">ห้อง</string>
-    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
-    <string name="recognize_hotel_title">จองห้องพัก</string>
-    <string name="recognize_hotel_user_names">ผู้เยี่ยมชม</string>
-    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
-    <string name="recognize_setting_title">การตั้งค่าการเดินทาง</string>
-    <string name="recognize_ticket_air_notification_content">ขอให้มีความสุขกับการเดินทาง!</string>
-    <string name="recognize_ticket_air_notification_title">เที่ยวบิน %3$s (วันที่ %2$s/%1$s) กำลังจะขึ้นบิน กรุณาตรวจสอบข้อมูลเที่ยวบินของคุณ</string>
-    <string name="recognize_ticket_air_state_stopover">หยุดพักชั่วคราว</string>
-    <string name="recognize_ticket_air_state_transfer">โอนย้าย</string>
-    <string name="recognize_ticket_air_user_name">ผู้โดยสาร: %1$s</string>
-    <string name="recognize_ticket_title">ตั๋วเครื่องบินและรถไฟ</string>
-    <string name="recognize_ticket_train_alter">แก้ไขแล้ว</string>
-    <string name="recognize_ticket_train_depart_date">ออกเดินทางวันที่ %2$s/%1$s เวลา %3$s:%4$s</string>
-    <string name="recognize_ticket_train_notification_content">ขอให้เดินทางโดยสวัสดิภาพ!</string>
-    <string name="recognize_ticket_train_notification_title">รถออกเดินทางวันที่ %2$s/%1$s เวลา %3$s กรุณาตรวจสอบตั๋วของคุณ</string>
-    <string name="recognize_ticket_train_return">ย้อนกลับ</string>
-    <string name="recognize_ticket_train_user_name">ผู้โดยสาร: %1$s</string>
-    <string name="recognize_title">ข้อมูลการเดินทาง</string>
     <string name="recommend_protocal">โปรโตคอลการใช้งานที่แนะนำ</string>
     <string name="reduce_the_receiving_frequencye_summary">ลดความถี่ในการซิงค์อีเมลในโหมดห้ามรบกวน</string>
     <string name="reduce_the_receiving_frequencye_title">ลดความถี่ในการซิงค์อีเมล</string>
     <string name="refresh">รีเฟรช</string>
     <string name="refreshing">กำลังรีเฟรช…</string>
-    <string name="refreshing_done">เสร็จสิ้น</string>
     <string name="release_to_refresh">ปล่อยเพื่อรีเฟรชข้อมูล</string>
     <string name="remind_attachment_size_limit">อีเมลของคุณควรจะน้อยกว่า %sMB</string>
     <string name="reminder">การแจ้งเตือน</string>
@@ -1104,14 +957,10 @@
     <string name="respond_inline">"   ตอบเมลแทรกระหว่างบรรทัด"</string>
     <string name="retry_login">ลงชื่อเข้าสู่ระบบอีกครั้ง</string>
     <string name="save_action">บันทึก</string>
-    <string name="save_attachment">บันทึก</string>
     <string name="save_draft_failed">บันทึกแบบร่างล้มเหลว</string>
     <string name="save_power_summary">ตั้งเวลาประหยัดพลังงาน</string>
     <string name="save_power_title">ตัวประหยัดแบตเตอรี่</string>
-    <string name="save_this_new_signature">บันทึกลายเซ็นต์ใหม่?</string>
     <string name="saved">บันทึกแล้ว, %s</string>
-    <string name="saving">กำลังบันทึก…</string>
-    <string name="sdcard_cannot_use">ไม่สามารถอ่าน SD การ์ดได้</string>
     <string name="search_bar_text">ค้นหาผู้ส่งหรือผู้ติดต่อ</string>
     <string name="search_hint">ค้นหาอีเมล</string>
     <string name="search_menu_title">ค้นหา</string>
@@ -1122,10 +971,7 @@
     <string name="search_tabs_name_sender">ผู้ส่ง</string>
     <string name="search_tabs_name_subject">เรื่อง</string>
     <string name="search_txt_size_limit_prompt">คำค้นต้องไม่น้อยกว่า 3 ตัวอักษร</string>
-    <string name="security_changed_ticker_fmt">บัญชีผู้ใช้งาน \"%s\" ได้แก้ไขการตั้งค่าด้านความปลอดภัยแล้ว ท่านไม่ต้องดำเนินการใดๆเพิ่มเติม</string>
     <string name="security_needed_ticker_fmt">บัญชีผู้ใช้ \"%s\" จำเป็นต้องแก้ไขการตั้งค่าความปลอดภัย</string>
-    <string name="security_notification_content_change_title">"ระบบมีการแก้ไขนโยบาย
-         ด้านความปลอดภัย"</string>
     <string name="security_notification_content_unsupported_title">"ไม่สอดคล้องกับนโยบาย
          ด้านความปลอดภัย"</string>
     <string name="security_notification_content_update_title">จำเป็นต้องอัพเดทความปลอดภัย</string>
@@ -1138,9 +984,6 @@
     <string name="send_encrypt_dialog_fail_content">ดูเหมือนว่าผู้รับไม่มีใบรับรองที่เชื่อถือได้ซึ่งจำเป็นสำหรับการเข้ารหัสอีเมลนี้ ส่งอีเมลปกติแทนไหม?</string>
     <string name="send_encrypt_dialog_fail_title">ไม่สามารถส่งอีเมลที่เข้ารหัสได้</string>
     <string name="send_failed">ข้อความยังไม่ได้ส่ง</string>
-    <string name="send_feed_back">ส่งข้อเสนอแนะ</string>
-    <string name="send_feed_back_keywords">ส่งข้อเสนอแนะ</string>
-    <string name="send_mail">ส่ง</string>
     <string name="sender_whitelist_cleared">ภาพถ่ายจะไม่แสดงโดยอัตโนมัติอีกต่อไป</string>
     <string name="senders_split_token">, </string>
     <string name="sending">กำลังส่ง…</string>
@@ -1165,7 +1008,6 @@
     <string name="server_cet_cert_issuer">"ผู้ออกใบรับรอง: "</string>
     <string name="server_cet_data">"ระยะเวลาที่ใช้ได้: "</string>
     <string name="server_cet_data_exp">ใบรับรองของเซิร์ฟเวอร์นี้หมดอายุ</string>
-    <string name="server_cet_data_to" formatted="false">%s - %s</string>
     <string name="server_cet_domain">"ชื่อโดเมน: "</string>
     <string name="server_cet_error_sug">"ลองทำดังต่อไปนี้:
 1. เชื่อมต่อกับเครือข่ายอื่นหรือรีบูตเราเตอร์ Wi-Fi ของคุณ
@@ -1198,11 +1040,12 @@
 
 
 %s"</string>
-    <string name="silent_ringtone">ปิดเสียง</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">รหัสผ่านสำหรับเซิร์ฟเวอร์อีเมลขาออกไม่ถูกต้อง</string>
     <string name="sort_attachment">เรียงตาม</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">พื้นที่</string>
     <string name="str_select_all">เลือกทั้งหมด</string>
     <string name="str_select_none">ยกเลิกที่เลือกทั้งหมด</string>
@@ -1215,23 +1058,14 @@
     <string name="sync_calendra_fail_permission">ไม่สามารถซิงค์กิจกรรมในปฏิทินได้ อนุญาตให้ จดหมาย เข้าถึงปฏิทินก่อน</string>
     <string name="sync_contacts_fail_per_content">แตะเพื่ออนุญาตให้เข้าถึงผู้ติดต่อ</string>
     <string name="sync_contacts_fail_per_title">ไม่สามารถซิงค์รายชื่อได้</string>
-    <string name="sync_contacts_fail_permission">ไม่สามารถซิงค์ผู้ติดต่อได้ อนุญาตให้จดหมายเข้าถึงผู้ติดต่อของคุณในการตั้งค่า</string>
     <string name="sync_contacts_req_per_ignored">อนุญาตให้จดหมายเข้าถึงผู้ติดต่อของคุณเพื่อซิงค์</string>
     <string name="sync_error">ซิงค์ผิดพลาด</string>
     <string name="sync_error_message">พื้นที่ภายในเครื่องคุณไม่เพียงพอสำหรับการซิงค์</string>
-    <string name="sync_failed_mi_authority_view_detail">เรียกดูรายละเอียด</string>
     <string name="sync_question_feed">รายงานปัญหาการซิงค์</string>
     <string name="sync_upload_question">ข้อเสนอแนะ</string>
     <string name="syncing_wait_restart">ลองอีกครั้ง</string>
     <string name="syncing_wait_restart_title">ขาดการเชื่อมต่อกับเซิร์ฟเวอร์ภายในเวลาที่กำหนด</string>
     <string name="system_account_create_failed">ไม่สามารถสร้างบัญชีผู้ใช้นี้ได้ กรุณาลองใหม่</string>
-    <string name="system_folders_sent_dlg">กรุณาเลือกโฟลเดอร์จดหมายที่ส่งออกของเซิร์ฟเวอร์</string>
-    <string name="system_folders_sent_summary">กรุณาเลือกโฟลเดอร์จดหมายที่ส่งออกของเซิร์ฟเวอร์</string>
-    <string name="system_folders_sent_title">โฟลเดอร์จดหมายที่ส่งออก</string>
-    <string name="system_folders_title">โฟลเดอร์ระบบ</string>
-    <string name="system_folders_trash_dlg">กรุณาระบุโฟลเดอร์ขยะของเครื่องเซิร์ฟเวอร์</string>
-    <string name="system_folders_trash_summary">กรุณาระบุโฟลเดอร์ขยะของเครื่องเซิร์ฟเวอร์</string>
-    <string name="system_folders_trash_title">โฟลเดอร์ขยะ</string>
     <string name="system_root_path">การตั้งค่าที่จัดเก็บภายใน</string>
     <string name="system_security_open_error">เพื่อปรับการตั้งค่าความปลอดภัย จำเป็นต้องอนุญาตสิทธิ์จดหมายในการตั้งค่า</string>
     <string name="system_setup_open_error">เปิดการซิงค์สำหรับการตั้งค่าจดหมาย</string>
@@ -1292,18 +1126,14 @@
     <string name="unknow">ไม่รู้จัก</string>
     <string name="unread_string">ยังไม่ได้อ่านเนื้อหา</string>
     <string name="unzip_file_failed">แตกไฟล์ไม่สำเร็จ</string>
-    <string name="update_date_format_templete">dd MMMM HH:mm aa</string>
     <string name="update_domain_summary">อัปเดตรายการโดเมนและการกำหนดค่าที่มี</string>
     <string name="update_domain_title">อัปเดตการตั้งค่าโดเมน</string>
-    <string name="updated_at">อัพเดทล่าสุด %1$s</string>
     <string name="upload_log">ส่ง</string>
     <string name="upload_log_failed">ไม่สามารถส่งบันทึกการใช้ได้</string>
     <string name="upload_log_no">ไม่ต้องอัปโหลด</string>
     <string name="upload_log_success">ส่งเรียบร้อยแล้ว เราจะติดต่อกลับไปหาคุณเร็วๆนี้</string>
     <string name="upload_log_title">ส่งบันทึกข้อผิดพลาดเพื่อช่วยเราปรับปรุงอีเมล</string>
     <string name="upload_log_yes">ส่ง</string>
-    <string name="upload_logs">อัพโหลดบันทึกการใช้</string>
-    <string name="upload_logs_keywords">อัพโหลดบันทึกการใช้</string>
     <string name="uploading_logs">รอสักครู่…</string>
     <string name="user_new_auth_code">ใช้รหัสใหม่เพื่อลงชื่อเข้าใช้</string>
     <string name="user_privacy_settings">การตั้งค่าความเป็นส่วนตัว</string>
@@ -1313,14 +1143,12 @@
     <string name="user_privacy_settings_title">คำชี้แจงสิทธิส่วนบุคคลของจดหมาย</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
-    <string name="validation_failed_prompt">การตรวจสอบบัญชีไม่สำเร็จ กรุณาตรวจสอบการตั้งค่าเซิร์ฟเวอร์ของ %s</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
     <string name="veiled_alternate_text_unknown_person" />
     <string name="veiled_summary_unknown_person" />
     <string name="verify_code">รหัสยืนยัน</string>
     <string name="version_string">เวอร์ชั่น: %s</string>
-    <string name="via_domain">ผ่านทาง %1$s</string>
     <string name="view_more_conversations">อ่านอีเมลต่อเนื่อง</string>
     <string name="wait_for_manual_sync_body">"บัญชีผู้ใช้นี้ไม่ได้ตั้งค่าให้ซิงค์อัตโนมัติ
 แตะที่ปุ่ม "<b>ซิงค์ทันที</b> เพื่อซิงค์เมลครั้งเดียวหรือแตะที่ <b>แก้ไขการตั้งค่าซิงค์</b> เพื่อตั้งค่าการซิงค์เมลในบัญชีนี้โดยอัตโนมัติ</string>
@@ -1336,13 +1164,9 @@
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">อื่นๆ</string>
     <string name="wipe_account_fail_description">อนุญาต</string>
-    <string name="wipe_account_fail_description_remind">เนื่องจากข้อจำกัดการใช้ข้อมูล อาจมีข้อมูลที่เหลืออยู่ในปฏิทินและผู้ติดต่อหลังจากที่คุณลบบัญชี โปรดลบรายการเหล่านี้ด้วยตนเอง</string>
     <string name="wipe_account_fail_title">ไม่สามารถลบข้อมูลส่วนตัวได้</string>
-    <string name="wps_title">WPS Mail</string>
     <string name="wrong_password">รหัสผ่านไม่ถูกต้อง</string>
-    <string name="xiaomi_auth_toastbar">ลงชื่อเข้าใช้เพื่ออนุญาตอุปกรณ์ของคุณ</string>
     <string name="xiaomi_email">อีเมล</string>
-    <string name="xiaomi_under_certification">ดำเนินการอนุญาต…</string>
     <string name="yes">ใช่</string>
     <string name="you_are_in_mobile_network">ใช้ข้อมูลมือถือเพื่ออัปโหลดบันทึกหรือไม่?</string>
     <string name="youfuli">โปรโมชั่น</string>

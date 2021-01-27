@@ -430,7 +430,7 @@
         <item quantity="other">วันธรรมดา: %d นาที</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" ชั่วโมง"</item>
+        <item quantity="other">" ชม."</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_min">
         <item quantity="other">" นาที"</item>

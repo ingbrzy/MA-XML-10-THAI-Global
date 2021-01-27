@@ -87,6 +87,9 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="geometry_summary">รูปร่าง แสง และสี</string>
+    <string name="geometry_super_wallpaper_label">เรขาคณิต</string>
+    <string name="geometry_title">เรขาคณิต</string>
     <string name="install_failed">ไม่สามารถติดตั้งได้</string>
     <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
 
@@ -106,9 +109,25 @@ Mawrth Vallis"</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">ดาวเคราะห์สีแดง</string>
     <string name="midnight">กลางคืน</string>
-    <string name="miuix_appcompat_cloud_state_disabled">การซิงค์กับคลาวด์ถูกปิด</string>
-    <string name="miuix_appcompat_cloud_state_finished">ซิงค์กับคลาวด์เรียบร้อยแล้ว</string>
-    <string name="miuix_appcompat_cloud_state_syncing">กำลังซิงค์กับคลาวด์…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
+    <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
+    <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
+    <string name="miuix_appcompat_delete_description">ลบ</string>
+    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
+    <string name="miuix_appcompat_search_input_description">ค้นหา</string>
+    <string name="miuix_appcompat_select_all_description">เลือกทั้งหมด</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ปล่อยเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">รอสักครู่…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ไม่สามารถโหลดรายการได้</string>
     <string name="monday">วันจันทร์</string>
     <string name="monday_short">จันทร์</string>
     <string name="monday_shortest">จันทร์</string>
@@ -222,6 +241,7 @@ Mawrth Vallis"</string>
     <string name="time_picker_dialog_title">ตั้งเวลา</string>
     <string name="time_picker_label_hour">ชม.</string>
     <string name="time_picker_label_minute">น.</string>
+    <string name="title_system_wallpaper_resource">ภาพพื้นหลังระบบ</string>
     <string name="today">วันนี้</string>
     <string name="tomorrow">พรุ่งนี้</string>
     <string name="tuesday">วันอังคาร</string>
@@ -240,6 +260,9 @@ Mawrth Vallis"</string>
     <string name="wallpaper_setting_super_wallpaper_banner_title">ภาพพื้นหลังความละเอียดสูง</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">เพิ่มเติม</string>
     <string name="wallpaper_setting_title">ภาพพื้นหลัง</string>
+    <string name="weather_summary">ข้อมูลสภาพอากาศท้องถิ่น</string>
+    <string name="weather_super_wallpaper_label">สภาพอากาศ</string>
+    <string name="weather_title">สภาพอากาศ</string>
     <string name="wednesday">วันพุธ</string>
     <string name="wednesday_short">พุธ</string>
     <string name="wednesday_shortest">พุธ</string>

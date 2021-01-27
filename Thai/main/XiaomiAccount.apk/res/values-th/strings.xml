@@ -47,7 +47,7 @@
     <string name="account_has_been_set">แก้ไข</string>
     <string name="account_invalid_user_avatar">รูปภาพไม่ถูกต้อง กรุณาลองใช้ภาพอื่น</string>
     <string name="account_limit_update_birthday">ไม่สามารถอัปเดตวันเกิดได้ในตอนนี้</string>
-    <string name="account_mibi_center">Mi เครดิต</string>
+    <string name="account_mibi_center">Mi Coins</string>
     <string name="account_mibi_charge">เติม Mi เครดิต</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_no_set">ไม่มี</string>
@@ -83,7 +83,7 @@
     <string name="activate_email_notice">กรุณายืนยันบัญชีให้เรียบร้อยภายใน 24 ชั่วโมง</string>
     <string name="activity_not_found_notice">ไม่พบแอป</string>
     <string name="add_account">เชื่อมต่อบัญชี</string>
-    <string name="agreement_and_privacy">นโยบายความเป็นส่วนตัวและข้อตกลงการใช้งาน</string>
+    <string name="agreement_and_privacy">ข้อตกลงและเงื่อนไข</string>
     <string name="app_name">บัญชี Mi</string>
     <string name="auth_fail_warning">การเข้าสู่ระบบหมดเวลา ลงชื่อเข้าใช้อีกครั้ง</string>
     <string name="authorize_title">การอนุมัติ</string>
@@ -227,6 +227,7 @@ ID:%s
     <string name="health_state_not_activated">ยังไม่เปิดใช้งาน</string>
     <string name="health_state_not_installed">ไม่ได้ติดตั้ง</string>
     <string name="health_state_not_support">ไม่รองรับในเวอร์ชั่นนี้</string>
+    <string name="help_center">ช่วยเหลือ</string>
     <string name="i_agree">ตกลง</string>
     <string name="i_agree_continue">ยอมรับ</string>
     <string name="identity">เลขประจำตัว</string>
@@ -310,7 +311,7 @@ ID:%s
     <string name="passport_checking_input">กำลังตรวจสอบการป้อนข้อมูล…</string>
     <string name="passport_click_email_to_valid">เพื่อเปิดใช้งานบัญชีของคุณ ทำตามลิงก์ที่เราได้ส่งไปยังกล่องจดหมายของคุณ</string>
     <string name="passport_completed">เสร็จสิ้น</string>
-    <string name="passport_confirm_login">ดำเนินการต่อ</string>
+    <string name="passport_confirm_login">ลงชื่อเข้าใช้</string>
     <string name="passport_confirm_recycle_account">ใช่</string>
     <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>ดุเหมือน&lt;/font> หมายเลข %s ถูกรีไซเคิลโดยผู้ให้บริการของคุณแล้ว และหมายเลขนี้ถูกใช้ผูกกับบัญชี Mi แล้ว บัญชีนี้ใช่ของคุณหรือไม่?</string>
     <string name="passport_continue">ดำเนินการต่อ</string>
@@ -348,7 +349,7 @@ ID:%s
     <string name="passport_error_verify_activator_phone_title">ไม่สามารถยืนยันหมายเลขโทรศัพท์ได้</string>
     <string name="passport_failed_to_send_activate_email">ไม่สามารถส่งอีเมลเปิดใช้งานได้</string>
     <string name="passport_find_password_on_web_msg">เข้าไปที่เว็บไซต์ account.mi.com เพื่อตั้งค่ารหัสผ่านของคุณใหม่</string>
-    <string name="passport_first_login_prompt">บัญชี Mi จะถูกสร้างโดยอัตโนมัติเมื่อคุณลงชื่อเข้าใช้เป็นครั้งแรก</string>
+    <string name="passport_first_login_prompt">บัญชี Mi จะถูกสร้างขึ้นโดยอัตโนมัติเมื่อคุณใช้หมายเลขโทรศัพท์เป็นครั้งแรก</string>
     <string name="passport_forget_password"><u>ลืมรหัสผ่าน</u></string>
     <string name="passport_forget_password_no_underline">ลืมรหัสผ่าน</string>
     <string name="passport_get_back_pwd">กู้คืนรหัสผ่านของบัญชี</string>
@@ -462,8 +463,8 @@ ID:%s
     <string name="passport_setting">กำลังตั้งค่า…</string>
     <string name="passport_skip_login">ข้าม</string>
     <string name="passport_skip_register">ข้ามการลงทะเบียน</string>
-    <string name="passport_skip_setup_account_msg">คุณสามารถตั้งค่าบัญชี Mi ภายหลังในเมนูการตั้งค่า</string>
-    <string name="passport_skip_setup_account_title">ไม่ต้องการใช้ Xiaomi คลาวด์?</string>
+    <string name="passport_skip_setup_account_msg">การลงชื่อเข้าใช้บัญชี Mi ทำให้คุณสามารถใช้บริการ Xiaomi คลาวด์ ได้ ข้ามขั้นตอนนี้ไปเลยไหม?</string>
+    <string name="passport_skip_setup_account_title">บัญชี Mi และ Xiaomi คลาวด์</string>
     <string name="passport_sms_send_success">ส่งแล้ว</string>
     <string name="passport_sms_verification_code_login">เข้าสู่ระบบโดยใช้ข้อความ SMS</string>
     <string name="passport_sms_verification_code_login_or_register">ลงชื่อเข้าใช้หรือสร้างบัญชีโดยข้อความ SMS</string>
@@ -589,7 +590,7 @@ ID:%s
     <string name="update_email_address_dialog_title">อัปเดตอีเมล</string>
     <string name="update_phone_notice">เปลี่ยนการตั้งค่าความปลอดภัย</string>
     <string name="update_phone_number_notice_message">คุณต้องยืนยันตัวตนก่อนจึงจะสามารถอัปเดตหมายเลขโทรศัพท์ได้</string>
-    <string name="used_cloud_storage_info">พื้นที่จัดเก็บข้อมูลที่ใช้ %s</string>
+    <string name="used_cloud_storage_info">ใช้ไป %s</string>
     <string name="user_avatar_update_title">เปลี่ยนรูปประจำตัว</string>
     <string name="user_avatar_uploading">รอสักครู่…</string>
     <string name="v7_preference_off">ปิด</string>

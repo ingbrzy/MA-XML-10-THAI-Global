@@ -69,14 +69,8 @@
     <plurals name="local_search_result">
         <item quantity="other">พบ %s รายการในข้อความที่ซิงค์ไว้</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d เดือน</item>
-    </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">สิ่งที่แนบเหลืออีก %1$d ไฟล์</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">ย้าย %1$d ข้อความต่อเนื่อง</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">แสดง %1$d ข้อความใหม่</item>
@@ -116,9 +110,6 @@
     </plurals>
     <plurals name="number_of_week_before">
         <item quantity="other">%1$d สัปดาห์ก่อน</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">ตอบกลับไปทั้ง %1$d คน</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s ผลลัพธ์ในบัญชีทั้งหมด</item>

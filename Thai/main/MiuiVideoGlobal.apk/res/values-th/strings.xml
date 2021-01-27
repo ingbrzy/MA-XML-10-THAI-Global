@@ -31,6 +31,7 @@
     <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="access_denied_info">มีความพยายามมากเกินไป รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="account_bind_secure_email_title">เพิ่มอีเมลที่ใช้กู้คืนบัญชี</string>
     <string name="account_bind_secure_phone_title">เพิ่มหมายเลขโทรศัพท์ที่ใช้กู้คืนบัญชี</string>
     <string name="account_crop_user_avatar">ตัดกรอบภาพ</string>
@@ -66,6 +67,8 @@
     <string name="action_update_phone">เปลี่ยนหมายเลขโทรศัพท์</string>
     <string name="activate_email_notice">กรุณายืนยันบัญชีให้เรียบร้อยภายใน 24 ชั่วโมง</string>
     <string name="activity_not_found_notice">ไม่พบแอป</string>
+    <string name="ad_bar_notification_setting_sub_title">แสดงกำหนดการในแถบการแจ้งเตือน</string>
+    <string name="ad_bar_notification_setting_title">กำหนดการ</string>
     <string name="ad_buy">ซื้อ</string>
     <string name="ad_download">ดาวน์โหลด</string>
     <string name="ad_join">เข้าร่วมคอมมูนิตี้</string>
@@ -123,6 +126,7 @@
     <string name="cast_forward">กรอไปข้างหน้า</string>
     <string name="cast_forward_10">กรอไปข้างหน้า 10 วินาที</string>
     <string name="cast_forward_30">กรอไปข้างหน้า 30 วินาที</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">สด</string>
     <string name="cast_mute">ปิดเสียง</string>
     <string name="cast_notification_connected_message">เชื่อมต่อ %1$s แล้ว</string>
@@ -394,6 +398,8 @@ ID:%s
     <string name="galleryplus_online_cta_disagree">ไม่เห็นด้วย</string>
     <string name="galleryplus_online_cta_title">ข้อตกลงและเงื่อนไข</string>
     <string name="galleryplus_online_video_loading">รอสักครู่…</string>
+    <string name="galleryplus_orientation_lock">ล็อคการวางแนวสำเร็จ</string>
+    <string name="galleryplus_orientation_unlock">ปลดล็อกการวางแนวหน้าจอแล้ว</string>
     <string name="galleryplus_permission_content">ให้สิทธิ์ Mi วีดีโอ ที่จำเป็นเพื่อให้สามารถใช้คุณสมบัตินี้</string>
     <string name="galleryplus_permission_content2">"เพื่อให้สามารถใช้คุณสมบัตินี้ได้ ให้ไปที่ การตั้งค่า > แอป > Mi วีดีโอ > การอนุญาตแอป และอนุญาตให้ Mi วีดีโอ ทำสิ่งต่อไปนี้:
 
@@ -447,6 +453,7 @@ ID:%s
     <string name="history_local_video">ในเครื่อง</string>
     <string name="history_online_video">ออนไลน์</string>
     <string name="hot">ยอดนิยม</string>
+    <string name="i_know">รับทราบ</string>
     <string name="identity">เลขประจำตัว</string>
     <string name="inconsistent_pwd">รหัสผ่านไม่ตรงกัน</string>
     <string name="init_channels">เรียกคืนค่าเริ่มต้น</string>
@@ -643,8 +650,10 @@ ID:%s
     <string name="my_favorite_channels">ช่องโปรดของฉัน</string>
     <string name="my_feedback_title">ข้อเสนอแนะของฉัน</string>
     <string name="need_update_app">อัพเดท Mi วิดีโอ เพื่อใช้คุณลักษณะทั้งหมด</string>
-    <string name="network_connect_info">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง</string>
+    <string name="network_connect_info">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
+    <string name="network_error_info">เครือข่ายเกิดข้อผิดพลาด ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
     <string name="network_failed">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
+    <string name="network_timeout_info">ไม่สามารถเชื่อมต่อกับเครือข่าย ลองอีกครั้ง</string>
     <string name="new_channel_tip">ดูช่องใหม่!</string>
     <string name="next">ถัดไป</string>
     <string name="next_step">ถัดไป</string>
@@ -676,6 +685,8 @@ ID:%s
     <string name="off_tip_firework_recommend">คุณจะไม่ได้รับคำแนะนำเนื้อหาในแบบของคุณจาก Firework</string>
     <string name="ok">ตกลง</string>
     <string name="on_tip_firework_recommend">คุณจะได้รับคำแนะนำเนื้อหาในแบบของคุณจาก Firework</string>
+    <string name="open_settings">การตั้งค่า</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">การติดตามล่าสุด</string>
     <string name="order_recently_updated">อัปเดตล่าสุด</string>
     <string name="ovp_alert_dialog_download_install_task">กำลังดาวน์โหลด HD ปลั๊กอิน…</string>
@@ -776,6 +787,7 @@ ID:%s
     <string name="passport_area_code_title">รหัสพื้นที่</string>
     <string name="passport_bad_authentication">ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</string>
     <string name="passport_barcode_add_account_prompt">ในการเพิ่มบัญชี กรุณาสแกนรหัส QR อีกครั้งหนึ่งหลังจากลงชื่อใช้งานแล้ว</string>
+    <string name="passport_can_not_receive_verification_code">ไม่ได้รับรหัสยืนยัน?</string>
     <string name="passport_captcha_title">ป้อนรหัสที่เห็น</string>
     <string name="passport_checking_account">กำลังตรวจสอบรหัสผ่าน…</string>
     <string name="passport_close">ปิด</string>
@@ -915,6 +927,7 @@ ID:%s
     <string name="plus_menu_delete_popup_text">ลบทันที?</string>
     <string name="plus_menu_properties">คุณสมบัติ</string>
     <string name="plus_menu_rename">เปลี่ยนชื่อ</string>
+    <string name="plus_menu_rename_cant_empty">ชื่อไฟล์ต้องไม่ว่างเปล่า</string>
     <string name="plus_menu_rename_fail">ชื่อไฟล์ไม่สามารถประกอบด้วย \"/\"</string>
     <string name="plus_menu_share">แชร์</string>
     <string name="plus_mine_gallery">อัลบั้มของฉัน</string>
@@ -1010,6 +1023,7 @@ ID:%s
     <string name="plus_sort_type_time">เวลา</string>
     <string name="plus_tab_gallery">โฟลเดอร์</string>
     <string name="plus_tab_time">ไทม์ไลน์</string>
+    <string name="progressbar_title">กำลังตรวจสอบปัญหาด้านความปลอดภัย…</string>
     <string name="psw_hint">รหัสผ่าน</string>
     <string name="psw_sign_in">ลงชื่อเข้าใช้โดยใช้รหัสผ่าน</string>
     <string name="pull_to_refresh_from_bottom_pull_label">ลากขึ้นเพื่อรีเฟรช…</string>
@@ -1047,6 +1061,7 @@ ID:%s
     <string name="report_content_violence">คำพูดแสดงความเกลียดชัง</string>
     <string name="report_fail">ไม่สามารถรายงานได้ กรุณาลองอีกครั้ง.</string>
     <string name="report_success">รายงานเรียบร้อยแล้ว</string>
+    <string name="request_camera_permission_message">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายและข้อบังคับที่เกี่ยวข้อง แอปนี้ต้องการการอนุญาตต่อไปนี้เพื่อให้ทำงานได้ตามปกติ:&lt;br>&lt;br>&lt;b>การใช้กล้องถ่ายรูป (สำหรับตั้งค่ารูปโปรไฟล์ของคุณ)&lt;/b>&lt;br>&lt;br>หากคุณไม่ยินยอมที่จะให้สิทธิ์ดังกล่าว คุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอพนี้ได้ อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ คุณสามารถจำกัดสิทธิ์หรือเพิกถอนการอนุญาตได้ตลอดเวลาในการตั้งค่า</string>
     <string name="resend_active_email">ส่งใหม่</string>
     <string name="resend_email_reach_limit_message">คุณได้ร้องขอให้ส่งอีเมลเกินจำนวนครั้งที่กำหนด ตรวจสอบดูให้แน่ใจว่าอีเมลที่จะใช้ยืนยันตัวตนไม่ถูกจัดเก็บไว้ในกล่องข้อความขยะ</string>
     <string name="resend_email_reach_limit_title">เกินจำนวนครั้งที่กำหนดแล้ว</string>
@@ -1103,6 +1118,7 @@ ID:%s
     <string name="sns_sign_in">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
     <string name="source">"แหล่งที่มา: "</string>
     <string name="start_download_tip">เพิ่มลงในคิวแล้ว ตรวจสอบความคืบหน้าในโปรไฟล์ > ดาวน์โหลด</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD การ์ด</string>
     <string name="storage_internal_sdcard">พื้นที่จัดเก็บข้อมูลในเครื่อง</string>
     <string name="submit">ส่ง</string>
@@ -1121,6 +1137,7 @@ ID:%s
     <string name="sync_favorites_limit">มีวิดีโอมากกว่า 500 รายการในรายการโปรดของคุณ เราจะต้องลบวิดีโอก่อนหน้านี้บางส่วนเพื่อทำการซิงค์ต่อไป</string>
     <string name="sync_favorites_message">ซิงค์รายการโปรดจากอุปกรณ์นี้ไปยังบัญชีของคุณ? รายการที่ไม่สามารถใช้ได้จะถูกลบออก</string>
     <string name="sync_favorites_title">ซิงค์รายการโปรด</string>
+    <string name="system_error_info">ระบบไม่ว่าง รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="t_check_hide_file">เลือกไอเทมเพื่อซ่อน</string>
     <string name="t_check_unhide_file">เลือกไอเทมเพื่อเลิกซ่อน</string>
     <string name="t_downloading">กำลังดาวน์โหลด:</string>
@@ -1173,6 +1190,7 @@ ID:%s
     <string name="ugc_no_net">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง</string>
     <string name="ui_log_tip">แตะที่นี่เพื่อซ่อน กดค้างเพื่อล้างล็อกเก่า ลากล็อกด้วยตนเอง</string>
     <string name="unknow">ไม่ทราบ</string>
+    <string name="unknown_error_info">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="update">อัพเดต</string>
     <string name="update_email_address_dialog_message">คุณต้องยืนยันตัวตนของคุณก่อนที่จะอัปเดตอีเมลกู้คืน</string>
     <string name="update_email_address_dialog_title">อัปเดตอีเมลที่ใช้กู้คืนบัญชี</string>

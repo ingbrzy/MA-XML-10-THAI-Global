@@ -15,6 +15,15 @@
     <plurals name="clone_guide_tip2">
         <item quantity="other">คุณสามารถสร้างได้ถึง %d การโคลนในแต่ละครั้ง</item>
     </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d นาที</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d วินาที</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">ลบ %1$d ฉบับร่าง?</item>
+    </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s นาที</item>
     </plurals>

@@ -22,11 +22,6 @@
         <item>เดือนหน้า</item>
         <item>เลือกวัน</item>
     </string-array>
-    <string-array name="compose_modes">
-        <item>ตอบกลับ</item>
-        <item>ตอบกลับทั้งหมด</item>
-        <item>ส่งต่อ</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>เล็กมาก</item>
         <item>เล็ก</item>

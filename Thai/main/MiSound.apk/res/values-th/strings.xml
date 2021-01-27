@@ -82,8 +82,8 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">นั่นคือทั้งหมดตอนนี้</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">รอสักครู่…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ไม่สามารถโหลดรายการได้</string>
-    <string name="multi_music_coexistence_summary">เมื่อเสียงการแจ้งเตือนปรากฏขึ้น ปริมาณสื่อยังคงไม่เปลี่ยนแปลงและเสียงสื่อหลายรายการจะไม่ได้รับผลกระทบจากกันและกัน</string>
-    <string name="multi_music_coexistence_title">อนุญาตให้มีหลายเสียง</string>
+    <string name="multi_music_coexistence_summary">ไม่ปรับระดับเสียงสื่อในระหว่างการแจ้งเตือนที่เข้ามาหรือในขณะที่เล่นเสียงจากแหล่งอื่น</string>
+    <string name="multi_music_coexistence_title">แหล่งกำเนิดเสียงหลายแหล่ง</string>
     <string name="music_add_my_sound">เพิ่มค่าที่กำหนดเอง</string>
     <string name="music_app_unavailable">ตรวจสอบว่าแอป Mi เพลง พร้อมใช้งาน</string>
     <string name="music_audio_effect_optimize">ตั้งค่าเสียง</string>
@@ -99,6 +99,8 @@
     <string name="music_delete">ลบ</string>
     <string name="music_delete_sound_title">ลบค่าที่ตั้งไว้</string>
     <string name="music_dirac_control">เพิ่มคุณภาพเสียง</string>
+    <string name="music_dirac_mode_bluetooth_collar">หูฟัง Mi Bluetooth Neckband</string>
+    <string name="music_dirac_mode_bluetooth_linefree">หูฟัง Mi Bluetooth (เวอร์ชั่นไม่มีสาย)</string>
     <string name="music_dirac_mode_cancelling">Mi ลดเสียงรบกวน 3.5mm</string>
     <string name="music_dirac_mode_capsule">แคปซูล Mi</string>
     <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
@@ -193,6 +195,8 @@
     <string name="personal_sound">เล่นกับการตั้งค่าล่วงหน้าที่ใช้</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="retry_test">เริ่มต้นใหม่</string>
+    <string name="ringtone_output_device_summary">อนุญาตเสียงสำหรับการโทรเข้าและการแจ้งเตือนเมื่อเชื่อมต่ออุปกรณ์เสริม (หูฟังแบบมีสายหรืออุปกรณ์บลูทูธ)</string>
+    <string name="ringtone_output_device_title">อนุญาตเสียงลำโพง</string>
     <string name="save_and_apply">บันทึกและนำไปใช้</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="second_note">ใส่หูฟังของคุณ.</string>

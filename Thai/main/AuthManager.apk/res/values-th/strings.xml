@@ -91,6 +91,8 @@
     <string name="HIPS_Perm_process_outgoing_calls_Desc">มอนิเตอร์สายเรียกเข้า</string>
     <string name="HIPS_Perm_read_notification_sms">ข้อความ SMS บริการ</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">อ่านข้อความ SMS บริการ</string>
+    <string name="HIPS_Perm_recognition">เข้าถึงข้อมูลกิจกรรม</string>
+    <string name="HIPS_Perm_recognition_Desc">อนุญาตให้แอปเข้าถึงข้อมูลกิจกรรมของคุณ</string>
     <string name="HIPS_Perm_service_foreground">บริการเบื้องหน้า</string>
     <string name="HIPS_Perm_service_foreground_Desc">บริการเบื้องหน้า</string>
     <string name="HIPS_Perm_show_when_locked">แสดงบนหน้าจอล็อก</string>

@@ -54,6 +54,15 @@
     <plurals name="plus_serval_videos">
         <item quantity="other">%d วิดีโอ</item>
     </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">แตะสองครั้งเพื่อย้อนกลับ %d วินาที</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">แตะสองครั้งเพื่อกรอไปข้างหน้า %d วินาที</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s วินาที</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s ผู้สมัคร</item>
     </plurals>

@@ -65,6 +65,10 @@
     <string name="about">เกี่ยวกับ</string>
     <string name="action_settings">การตั้งค่า</string>
     <string name="ad_install">ติดตั้ง</string>
+    <string name="add_download_download">ดาวน์โหลด</string>
+    <string name="add_download_error_not_support">ระบบไม่รองรับลิงก์นี้</string>
+    <string name="add_download_text_hint">ป้อนลิงก์ HTTP/HTTPS</string>
+    <string name="add_download_title">เพิ่มลิงก์ URL</string>
     <string name="all_downloads">การดาวน์โหลดทั้งหมด</string>
     <string name="all_fileter">ทั้งหมด</string>
     <string name="all_share_files_content">ไฟล์ที่คุณเลือกถูกลบไปแล้ว</string>
@@ -89,6 +93,8 @@
     <string name="dialog_btn_cancel">ยกเลิก </string>
     <string name="dialog_btn_ok">ตกลง</string>
     <string name="dialog_btn_ok_disabled_net">การตั้งค่าเครือข่าย</string>
+    <string name="dialog_clipboard_permission_message">อนุญาตให้ดาวน์โหลดเข้าถึงรายการในคลิปบอร์ดเพื่อเพิ่ม URL ที่คัดลอกโดยอัตโนมัติหรือไม่?</string>
+    <string name="dialog_clipboard_permission_title">ต้องการคำร้องขออนุญาต</string>
     <string name="dialog_confirm_delete_checkbox_message">ลบไฟล์ในเครื่องด้วย</string>
     <string name="dialog_confirm_delete_the_download_item_message">ลบการดำเนินงานเหล่านี้</string>
     <string name="dialog_file_missing_title">ไม่สามารถเปิดไฟล์ได้</string>
@@ -124,19 +130,13 @@
     <string name="download_when_network_connected">ดาวน์โหลดโดยใช้เครือข่ายข้อมูลมือถือ</string>
     <string name="downloaded">การดาวน์โหลดเสร็จสิ้น</string>
     <string name="downloaded_empty">ไม่มี</string>
+    <string name="downloaded_tab_hint">คุณสามารถดูรายการที่ดาวน์โหลดได้ในตัวจัดการไฟล์</string>
     <string name="downloading">กำลังดาวน์โหลด…</string>
     <string name="downloading_empty">ไม่มี</string>
     <string name="downloads_operating">กำลังดำเนินการ…</string>
-    <string name="durationDayHour">%1$d วัน %2$d ชม.</string>
-    <string name="durationDayHours">%1$d วัน %2$d ชม.</string>
-    <string name="durationHourMinute">%1$d ชั่วโมง %2$d นาที</string>
-    <string name="durationHourMinutes">%1$d ชั่วโมง %2$d นาที</string>
-    <string name="durationMinute">%1$d นาที</string>
-    <string name="durationMinuteSecond">%1$d นาที %2$d วินาที</string>
-    <string name="durationMinuteSeconds">%1$d นาที %2$d วินาที</string>
-    <string name="durationMinutes">%1$d นาที</string>
-    <string name="durationSecond">%1$d วินาที</string>
-    <string name="durationSeconds">%1$d วินาที</string>
+    <string name="durationDayHours">%1$s %2$s</string>
+    <string name="durationHourMinutes">%1$s %2$s</string>
+    <string name="durationMinuteSeconds">%1$s %2$s</string>
     <string name="editmode_menu_delete">ลบ</string>
     <string name="editmode_menu_share">แชร์</string>
     <string name="extend">เพิ่มเติม</string>
@@ -205,10 +205,20 @@
     <string name="pref_download_settings_title">จำกัดขนาดการดาวน์โหลด</string>
     <string name="pref_summary_any_bytes_popup">รอดาวน์โหลดไฟล์ผ่าน Wi-Fi เท่านั้น</string>
     <string name="pref_summary_enable_max_bytes_popup">แสดงหน้าต่างแจ้งเตือนหากใช้การดาวน์โหลดผ่านเครือข่ายข้อมูลมือถือ</string>
-    <string name="pref_summary_max_bytes_limit_format">ใส่ในคิวรอดาวน์โหลดผ่าน Wi-Fi เมื่อไฟล์มีขนาดเกิน %s</string>
     <string name="pref_summary_no_limit_popup">ไม่จำกัด</string>
     <string name="pref_title_enable_max_bytes_popup">แจ้งเตือนการใช้ข้อมูล</string>
     <string name="preferences_title">การตั้งค่า</string>
+    <string name="privacy_agree_dialog_msg">&lt;Data>ยินดีต้อนรับสู่ ดาวน์โหลด! คุณสามารถใช้แอปนี้เพื่อดาวน์โหลดไฟล์&lt;BR>ดาวน์โหลด จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการที่สร้างสถิติการดาวน์โหลดแก่คุณ คุณสามารถเรียนรู้วิธีจัดการข้อมูลที่เรารวบรวมได้ใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา&lt;BR>อ่านและยอมรับ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเราก่อนใช้งาน ดาวน์โหลด&lt;BR>คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของการดาวน์โหลดในการตั้งค่าได้ทุกเมื่อ หากคุณไม่ยอมรับนโยบายความเป็นส่วนตัวของเราคุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอปนี้ได้ อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ&lt;/Data></string>
+    <string name="privacy_agree_dialog_title">ข้อตกลงและเงื่อนไข</string>
+    <string name="privacy_revoke_dialog_later">ยกเลิก </string>
+    <string name="privacy_revoke_dialog_msg">การสับสวิตช์จะเป็นการเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ ดาวน์โหลด เราจะหยุดรวบรวมข้อมูลส่วนบุคคลของคุณ ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้แล้วจะถูกลบภายในช่วงเวลาที่กำหนดตามที่กฎหมายบังคับ ดาวน์โหลด จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการที่สร้างสถิติการดาวน์โหลด การถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวจะถือเป็นการปฏิเสธที่จะยอมรับบริการตามข้อมูลส่วนบุคคลที่รวบรวม</string>
+    <string name="privacy_revoke_dialog_ok">เพิกถอน</string>
+    <string name="privacy_revoke_dialog_title">การเพิกถอนความยินยอม</string>
+    <string name="privacy_revoke_label">การเพิกถอนความยินยอม</string>
+    <string name="privacy_revoke_msg">การสับสวิตช์จะเป็นการเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ ดาวน์โหลด</string>
+    <string name="privacy_revoke_nonetwork_msg">อุปกรณ์ของคุณจำเป็นต้องเชื่อมต่อกับเครือข่ายเพื่อให้คุณสามารถเพิกถอนความยินยอมได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
+    <string name="privacy_revoke_nonetwork_ok">รับทราบ</string>
+    <string name="privacy_revoke_nonetwork_title">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="privacy_tip_cancel">ยกเลิก </string>
     <string name="privacy_tip_ok">ตกลง</string>
     <string name="rank">จัดอันดับ</string>
@@ -249,5 +259,4 @@
     <string name="toast_only_wifi_download">เชื่อมต่อกับ Wi-Fi เพื่อดาวน์โหลดรายการนี้</string>
     <string name="total_speedup">เพิ่มความเร็ว (ทั้งหมด)</string>
     <string name="version">เวอร์ชั่น %s</string>
-    <string name="security_ui_title">โฆษณาความปลอดภัย</string>
 </resources>

@@ -31,6 +31,9 @@
     <string name="back">ย้อนกลับ</string>
     <string name="cancel">ยกเลิก</string>
     <string name="category_other">อื่นๆ</string>
+    <string name="channel_name_aggregation">การแจ้งเตือนที่ถูกจัดกลุ่ม</string>
+    <string name="channel_name_notification">การแจ้งเตือนของแอป</string>
+    <string name="channel_name_recovered">การแจ้งเตือนที่เรียกคืนค่า</string>
     <string name="confirm">ตกลง</string>
     <string name="copy">คัดลอก</string>
     <string name="default_list_type">เรียงตามเวลาที่ได้รับ</string>
@@ -59,10 +62,14 @@
     <string name="lock_screen_tip_toast">อนุญาตการแจ้งเตือนในหน้าจอล็อคใน \"Format\"</string>
     <string name="lockscreen_notifications">การแจ้งเตือนบนหน้าจอล็อก</string>
     <string name="lockscreen_notifications_short">หน้าจอล็อก</string>
+    <string name="menu_setting_aggregatation_feedback">ตัวเลือกการจัดกลุ่ม</string>
+    <string name="menu_setting_feedback_donot_classify">ไม่จัดกลุ่ม</string>
+    <string name="menu_setting_more_settings">การตั้งค่าเพิ่มเติม</string>
     <string name="menu_setting_show_in_home">ไม่จัดกลุ่ม</string>
     <string name="menu_setting_tip_show_in_home">การแจ้งเตือนจาก %s จะไม่ถูกจัดกลุ่ม</string>
     <string name="menu_setting_tip_unfold">การแจ้งเตือนทั้งหมดจากแอปนี้จะถือว่าสำคัญ</string>
     <string name="menu_setting_unfold">สำคัญ</string>
+    <string name="mune_setting_prefix_category">"จัดกลุ่มกับ "</string>
     <string name="not_sent_recently">ไม่ใช่เร็วๆนี้</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="notch_and_status_bar_setting">ศูนย์ควบคุมและแถบสถานะ</string>
@@ -82,9 +89,11 @@
     <string name="on">เปิด</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="setting_menu_success">ตั้งค่าสำเร็จแล้ว</string>
     <string name="settings_guide_title">ต้องการการตั้งค่าอื่นๆ?</string>
     <string name="show_badge_notifications">สัญลักษณ์แจ้งเตือน</string>
     <string name="show_badge_notifications_short">ติดเครื่องหมาย</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">แถบสถานะ</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="summary_disable_float_notification">ไม่อนุญาตให้ใช้การแจ้งเตือนแบบลอย</string>
@@ -97,6 +106,7 @@
     <string name="summary_lock_screen_enable_notification_first">อนุญาตให้การแจ้งเตือนสามารถเปิดการแจ้งเตือนหน้าจอล็อก</string>
     <string name="summary_show_badge_enable_notification_first">อนุญาตให้การแจ้งเตือนสามารถเปิดสัญลักษณ์แจ้งเตือน</string>
     <string name="swipe_to_delete">ปัดไปทางซ้ายหรือขวาเพื่อลบ</string>
+    <string name="tip_feedback_thanks">ขอบคุณสำหรับข้อเสนอแนะ!</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
 </resources>

@@ -4,4 +4,74 @@
         <item>ผู้ชาย</item>
         <item>ผู้หญิง</item>
     </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>บัญชี</item>
+        <item>เพิ่มและจัดการบัญชีบุคคลที่สาม</item>
+        <item>การให้สิทธิ์;บัญชี;บัญชี Mi;เพิ่ม;จับคู่;Xiaomi;เรียกดู;SNS;Facebook;Google;</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>บัญชี</item>
+        <item>เพิ่มและจัดการบัญชีบุคคลที่สาม</item>
+        <item>การให้สิทธิ์;บัญชี;บัญชี Mi;เพิ่ม;จับคู่;Xiaomi;เรียกดู;SNS;WeChat;QQ;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>เปลี่ยนรหัสผ่าน</item>
+        <item>เปลี่ยนรหัสผ่านบัญชี Mi</item>
+        <item>แก้ไข;รหัสผ่าน;Xiaomi;บัญชี Mi;บัญชี</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>ช่วยเหลือ</item>
+        <item>รับความช่วยเหลือและการสนับสนุนบัญชี Mi</item>
+        <item>Xiaomi;บัญชี;บัญชี Mi;ช่วยเหลือ;บริการลูกค้า;เรียกดู</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>การตรวจสอบแบบสองชั้น</item>
+        <item>ตั้งค่าการตรวจสอบแบบสองชั้นสำหรับบัญชี Mi ของคุณ</item>
+        <item>ลงชื่อเข้าใช้;เข้าสู่ระบบ;สองชั้น;การตรวจสอบ;Xiaomi;บัญชี;บัญชี Mi;การตั้งค่า</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>การลงชื่อเข้าใช้และความปลอดภัย</item>
+        <item>โทรศัพท์และอีเมลสำรอง การจัดการรหัสผ่าน</item>
+        <item>บัญชี;ความปลอดภัย;ลงชื่อเข้าใช้;เข้าสู่ระบบ;Xiaomi;บัญชี Mi;หมายเลขโทรศัพท์;อีเมล;แก้ไข;รหัสผ่าน;เพิ่ม;จับคู่</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>อุปกรณ์</item>
+        <item>จัดการอุปกรณ์ที่เกี่ยวข้องกับบัญชี Mi ของคุณ</item>
+        <item>อุปกรณ์;จัดการ;ลงชื่อเข้าใช้;เข้าสู่ระบบ;รายชื่ออุปกรณ์;Xiaomi;บัญชี Mi;บัญชี</item>
+    </string-array>
+    <string-array name="settings_search_payment_information">
+        <item>ข้อมูลการชำระเงิน</item>
+        <item>ดูและจัดการข้อมูลการชำระเงิน</item>
+        <item>ชำระเงิน;ข้อมูล;Xiaomi;บัญชี Mi;บัญชี</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>นโยบายความเป็นส่วนตัว</item>
+        <item>ดูนโยบายความเป็นส่วนตัวของบัญชี Mi</item>
+        <item>Xiaomi;บัญชี;บัญชี Mi;ความเป็นส่วนตัว;นโยบาย;เรียกดู</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>อีเมลที่ใช้กู้คืนบัญชี</item>
+        <item>เพิ่มอีเมลที่ใช้กู้คืนบัญชี</item>
+        <item>ความปลอดภัย;อีเมล;Xiaomi;บัญชี;บัญชี Mi;เพิ่ม;จับคู่</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>โทรศัพท์ที่ใช้กู้คืนบัญชี</item>
+        <item>เพิ่มโทรศัพท์ที่ใช้กู้คืนบัญชี</item>
+        <item>ความปลอดภัย;บัญชี;บัญชี Mi;โทรศัพท์;Xiaomi;หมายเลขโทรศัพท์;เพิ่ม;จับคู่</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>โฆษณา</item>
+        <item>จัดการโฆษณาระบบ</item>
+        <item>ระบบ;โฆษณา;Xiaomi;บัญชี;บัญชี Mi;การตั้งค่า</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>ข้อมูลบัญชี</item>
+        <item>ดูรูปโปรไฟล์ของคุณและจัดการข้อมูลบัญชี</item>
+        <item>บัญชี;ข้อมูล;ส่วนบุคคล;รูปโปรไฟล์;ชื่อ;Xiaomi;ID;บัญชี Mi;เรียกดู;การตั้งค่า</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>ข้อตกลงการใช้งาน</item>
+        <item>ดูข้อตกลงการใช้งานบัญชี Mi</item>
+        <item>Xiaomi;บัญชี;บัญชี Mi;ผู้ใช้;ข้อตกลง;เรียกดู</item>
+    </string-array>
 </resources>

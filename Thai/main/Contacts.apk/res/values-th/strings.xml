@@ -123,6 +123,10 @@
     <string name="call_record_text_auto_delete_half_year">หลังจาก %d เดือน</string>
     <string name="call_record_text_auto_delete_never">ไม่เลย</string>
     <string name="call_record_text_auto_delete_one_month">หลังจาก %d เดือน</string>
+    <string name="call_record_user_notice_all_purpose">ค้นหาการโทรที่มีการพูดถึงคำบางคำ</string>
+    <string name="call_record_user_notice_permission_desc_microphone">สำหรับบันทึกการโทร</string>
+    <string name="call_record_user_notice_permission_desc_storage">สำหรับการจัดเก็บบันทึก</string>
+    <string name="call_record_user_notice_title">ค้นหาการโทรด้วยเสียง</string>
     <string name="call_record_whitelist_custom">สายที่เลือก</string>
     <string name="call_recording_notification_summary">รับการแจ้งเตือนหลังจากบันทึกการโทร</string>
     <string name="call_recording_notification_title">แจ้งเกี่ยวกับการโทรที่บันทึกไว้</string>
@@ -173,6 +177,7 @@
     <string name="callrecordview_menu_show_missed">สายไม่ได้รับ</string>
     <string name="callrecordview_menu_show_sim">สายของซิม %s</string>
     <string name="callrecordview_menu_show_stranger">สายเรียกเข้าจากหมายเลขที่ไม่รู้จัก</string>
+    <string name="cancel">ยกเลิก </string>
     <string name="cancel_confirmation_dialog_message">ยกเลิกการเปลี่ยนแปลงหรือไม่</string>
     <string name="cancel_confirmation_dialog_title">ยกเลิก</string>
     <string name="cancel_export_confirmation_message">ยกเลิกส่งออก %s?</string>
@@ -251,6 +256,15 @@
     <string name="contactsList">รายชื่อ</string>
     <string name="contacts_default_notification_channel">การแจ้งเตือน</string>
     <string name="contacts_hybrid_activity_label">กู้คืนรายชื่อผู้ติดต่อ</string>
+    <string name="contacts_trash_activity_hint">เลือกข้อมูลผู้ติดต่อที่จะกู้คืน</string>
+    <string name="contacts_trash_activity_title">รายชื่อที่ถูกลบล่าสุด</string>
+    <string name="contacts_trash_delete">ลบ</string>
+    <string name="contacts_trash_delete_dialog_continue">ลบ</string>
+    <string name="contacts_trash_delete_dialog_hint">คุณจะไม่สามารถเปลี่ยนกลับได้</string>
+    <string name="contacts_trash_delete_dialog_loading">กำลังลบ…</string>
+    <string name="contacts_trash_delete_dialog_title">ลบรายชื่อที่เลือก?</string>
+    <string name="contacts_trash_restore">กู้คืน</string>
+    <string name="contacts_trash_restore_loading">กำลังกู้คืน…</string>
     <string name="contacts_unavailable_add_account">ลงชื่อเข้าใช้บัญชี</string>
     <string name="contacts_unavailable_create_contact">สร้างรายชื่อใหม่</string>
     <string name="contacts_unavailable_import_contacts">นำเข้าจากไฟล์</string>
@@ -389,6 +403,7 @@
     <string name="email_work">ส่งอีเมลที่ทำงาน</string>
     <string name="emergency_number_label">เลขหมายฉุกเฉิน</string>
     <string name="empty" />
+    <string name="ensure">ตกลง</string>
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="evening">บ่าย</string>
@@ -468,6 +483,7 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">ชื่อ</string>
     <string name="gallery">คลังภาพ</string>
     <string name="ghostData_company">บริษัท</string>
@@ -488,6 +504,8 @@
     <string name="group_sms_progress_msg">กำลังจัดกลุ่ม…</string>
     <string name="groupsLabel">กลุ่ม</string>
     <string name="groups_list_empty">ไม่มีกลุ่ม</string>
+    <string name="hide_app_description_content">รายชื่อผู้ติดต่อ เป็นแอประบบ คุณจะยังใช้งานได้ผ่านแอปโทรศัพท์หลังจากที่คุณลบทางลัดบนหน้าจอหลัก</string>
+    <string name="hide_app_description_title">ลบ \"รายชื่อผู้ติดต่อ\" ออกจากหน้าจอหลัก?</string>
     <string name="hint_distance" />
     <string name="hint_findContacts">ค้นหารายชื่อ</string>
     <string name="hint_more_contact">ควบรวมรายชื่อซ้ำเข้าด้วยกัน</string>
@@ -589,6 +607,7 @@
     <string name="menu_sync_remove">ลบกลุ่มที่ซิงค์</string>
     <string name="midnight">กลางคืน</string>
     <string name="miprofile_account_type">นามบัตร</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">แก้ไขข้อมูลส่วนตัว</string>
     <string name="miprofile_name">โปรไฟล์ของฉัน</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -717,6 +736,7 @@
     <string name="payphone">โทรศัพท์สาธารณะ</string>
     <string name="people">รายชื่อ</string>
     <string name="phoneLabelsGroup">โทรศัพท์</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">หมายเลขยาวเกินไป</string>
     <string name="phone_primary">หลัก</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพในเครื่อง</string>
@@ -829,6 +849,10 @@
     <string name="remove_duplicate">"MIUI จะช่วยคุณค้นหาและควบรวมรายชื่อที่ซ้ำ
 
  เพื่อเริ่มต้น แตะไอคอนควบรวมที่ด้านล่างของหน้าจอ"</string>
+    <string name="restore_app_btn_cancel">ยกเลิก</string>
+    <string name="restore_app_btn_restore">ตกลง</string>
+    <string name="restore_app_description_content">เพิ่มทางลัดบนหน้าจอหลักเพื่อให้สามารถเข้าถึงรายชื่อของคุณได้เร็วขึ้น</string>
+    <string name="restore_app_description_title">เพิ่ม \"รายชื่อผู้ติดต่อ\" ไปยังหน้าจอหลัก?</string>
     <string name="restore_nickname">คืนค่า</string>
     <string name="return_call">แตะเพื่อกลับไปยังการโทร</string>
     <string name="return_call_calling">กำลังใช้สาย</string>
@@ -916,6 +940,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">ไม่มีสมาชิกกลุ่ม</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">บริษัท</string>
     <string name="smart_group_company_unavailable">ไม่มีข้อมูลบริษัท</string>
     <string name="smart_group_frequency_1">ภายในเดือนที่ผ่านมา</string>
@@ -957,6 +982,7 @@
     <string name="starred_contacts">รายการชื่นชอบ</string>
     <string name="status_available">ว่าง</string>
     <string name="status_away">ไม่อยู่</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">ไม่ว่าง</string>
     <string name="strequentList">รายการโปรด</string>
     <string name="success_message_import_from_account">นำเข้ารายชื่อแล้ว</string>

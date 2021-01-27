@@ -69,6 +69,8 @@
     <string name="all_app_category_tools">เครื่องมือ</string>
     <string name="all_app_category_work">ที่ทำงาน</string>
     <string name="all_apps">แอปทั้งหมด</string>
+    <string name="all_apps_install_contentcenter_msg">ดูเหมือนว่าศูนย์เนื้อหาถูกถอนการติดตั้ง ติดตั้งอีกครั้งไหม?</string>
+    <string name="all_apps_install_contentcenter_title">ติดตั้งศูนย์เนื้อหา</string>
     <string name="all_apps_no_search_results">ไม่พบผลลัพธ์การค้นหา</string>
     <string name="all_apps_search_app">ค้นหาแอป</string>
     <string name="all_apps_search_market_message">ค้นหาออนไลน์</string>
@@ -180,6 +182,7 @@
     <string name="change_wallpaper">เปลี่ยน</string>
     <string name="choose_wallpaper">เลือกภาพพื้นหลัง</string>
     <string name="chooser_wallpaper">เลือกภาพพื้นหลังใหม่</string>
+    <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="cloud_app_restore_title">รอดำเนินการ</string>
     <string name="common_home_search_delete">กำลังลบแถบค้นหา</string>
     <string name="common_home_search_delete_cancle">ยกเลิก</string>
@@ -321,14 +324,18 @@
     <string name="home_screen">หน้าจอหลัก</string>
     <string name="home_slide_up_action">เลื่อนขึ้นบนหน้าจอหลัก</string>
     <string name="home_switch_personal_assistant">หน้าจอ -1</string>
+    <string name="icon_customize_summary">เลือกสไตล์และปรับขนาด</string>
+    <string name="icon_form">ไอคอน</string>
     <string name="icon_reorganize_channel">จัดเรียงไอคอน</string>
     <string name="icon_size">ขนาดไอคอน</string>
+    <string name="icon_style">รูปแบบ</string>
     <string name="image_too_small_message">รูปภาพต้นฉบับขนาดเล็กเกินไป</string>
     <string name="install">ติดตั้ง</string>
     <string name="invalid_contact_shortcut">รายชื่อไม่ถูกต้อง</string>
     <string name="is_setting_wallpaper_message">กำลังตั้งค่าภาพพื้นหลัง…</string>
     <string name="is_system_wallpaper_message">ไม่สามารถลบไฟล์ของระบบได้</string>
     <string name="key_shortcut_settings_title">ปุ่มทางลัด</string>
+    <string name="launcher_icon_management">จัดการทางลัดบนหน้าจอหลัก</string>
     <string name="launcher_not_exist">เกิดข้อผิดพลาด ย้อนกลับหน้าจอหลักและลองอีกครั้ง</string>
     <string name="launcher_pull_down_title">เลื่อนลงบนหน้าจอหลัก</string>
     <string name="launcher_search_bar_title">แถบค้นหาหน้าจอหลัก</string>
@@ -509,6 +516,8 @@
     <string name="recommend_loading">กำลังโหลด</string>
     <string name="recommend_refresh">รีเฟรช</string>
     <string name="recommend_xout">ไม่ต้องแสดง</string>
+    <string name="remove_dialog_message">แอปที่เลือกมีคุณสมบัติของระบบที่จำเป็น คุณสามารถลบทางลัดบนหน้าจอหลักได้เท่านั้น</string>
+    <string name="remove_dialog_title_format">ลบ \"%s\" ออกจากหน้าจอหลัก?</string>
     <string name="remove_invalidate_gadget_tips">หนึ่งในวิดเจ็ตที่คุณใช้ไม่สามารถใช้ได้อีกต่อไป คุณสามารถเพิ่มอันอื่นๆได้</string>
     <string name="reset_cate_tip_content">หากคุณดำเนินการต่อ ค่าเริ่มต้นของกลุ่มแอปจะถูกคืนค่า ดำเนินการต่อหรือไม่?</string>
     <string name="reset_cate_tip_title">เรียกคืนค่ากลุ่มเริ่มต้น</string>
@@ -517,6 +526,7 @@
     <string name="reset_fail">ไม่สามารถกู้คืนไฟล์ได้</string>
     <string name="reset_scene_prompt">หน้าจอจะรีเซ็ตการจัดหน้าเป็นค่าเริ่มต้น</string>
     <string name="reset_title">เรียกคืนค่า</string>
+    <string name="restore_icon_successful">เพิ่มเรียบร้อย</string>
     <string name="screen_cells_config_title">รูปแบบหน้าจอหลัก</string>
     <string name="screen_locked_toast">การจัดเรียงหน้าจอหลักล็อกอยู่</string>
     <string name="screen_number">หน้าจอที่ %d</string>
@@ -553,6 +563,7 @@
     <string name="sort_by_not_defined">เรียงอัตโนมัติ</string>
     <string name="start_activity_failed">ชุดเรียกใช้ระบบไม่ทำงาน</string>
     <string name="starting_preset_app">กำลังเริ่ม…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">ใช้ได้ %1$s จากทั้งหมด %2$s</string>
     <string name="status_bar_recent_memory_info2" />

@@ -41,13 +41,6 @@
         <item>มลพิษรุนแรง</item>
         <item>เกินดัชนี</item>
     </string-array>
-    <string-array name="breeze">
-        <item>&lt;ระดับ 2</item>
-        <item>&lt; 6.0 กม./ชม.</item>
-        <item>&lt; 1.7 กม./ชม.</item>
-        <item>&lt; 3.7 ไมล์/ชม.</item>
-        <item>&lt;3.2kn</item>
-    </string-array>
     <string-array name="hot_city">
         <item>ปักกิ่ง</item>
         <item>เซี่ยงไฮ้</item>
@@ -76,6 +69,13 @@
         <item>หนักมาก</item>
         <item>ปานกลาง</item>
         <item>เบา</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
     </string-array>
     <string-array name="weather_type">
         <item>แจ่มใส</item>

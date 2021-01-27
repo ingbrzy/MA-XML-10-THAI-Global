@@ -106,8 +106,9 @@
     <string name="next_fingerprint">ถัดไป</string>
     <string name="note_introduction">แอปนี้ให้คุณ สร้าง ดู และแก้ไขบันทึกย่อ</string>
     <string name="other_settings">ตั้งค่าเพิ่มเติม</string>
-    <string name="other_settings_ad_dialog_content">"หลังจากปิดคุณสมบัตินี้ คุณจะไม่ได้รับโฆษณาในแบบของคุณอีกต่อไป อย่างไรก็ตามคุณจะยังคงได้รับโฆษณาที่ไม่เกี่ยวข้องกับความสนใจของคุณ คุณสามารถเรียนรู้เพิ่มเติมเกี่ยวกับโฆษณาส่วนบุคคลในนโยบายความเป็นส่วนตัวของ Xiaomi
-ปิดโฆษณาส่วนบุคคลหรือไม่?"</string>
+    <string name="other_settings_ad_dialog_agree">เปิดใช้งาน</string>
+    <string name="other_settings_ad_dialog_content">เมื่อปิดคำแนะนำโฆษณาในแบบของคุณ คุณจะยังคงเห็นโฆษณาในปริมาณเท่าเดิมเหมือนตอนที่คุณลักษณะนี้เปิดอยู่ อย่างไรก็ตามโฆษณาจะไม่เกี่ยวข้องอีกต่อไปเนื่องจากจะไม่อิงตามความชอบส่วนบุคคลของคุณ</string>
+    <string name="other_settings_ad_dialog_disagree">ปิดใช้งาน</string>
     <string name="other_settings_ad_disable_summary">เปิดใช้งานเพื่อปรับแต่งโฆษณา</string>
     <string name="other_settings_ad_enable">โฆษณาส่วนบุคคล</string>
     <string name="other_settings_ad_enable_summary">ปรับแต่งโฆษณาตามความสนใจของคุณ</string>

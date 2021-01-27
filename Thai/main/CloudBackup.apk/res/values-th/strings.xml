@@ -37,18 +37,32 @@
     <string name="back_up_task_in_process">กำลังสำรองข้อมูล…</string>
     <string name="back_up_task_unfinished">ไม่สามารถสำรองข้อมูลได้</string>
     <string name="backing_up_to_micloud">กำลังสำรองข้อมูล…</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">พื้นที่จัดเก็บข้อมูลไม่เพียงพอใน Xiaomi คลาวด์ อัพเกรดแผนของคุณหรือเพิ่มพื้นที่จัดเก็บข้อมูล</string>
+    <string name="backup_action_buy_cloud_space">ซื้อพื้นที่จัดเก็บเพิ่ม</string>
+    <string name="backup_action_check_network">ตรวจสอบการตั้งค่าเครือข่าย</string>
+    <string name="backup_action_clean_disk_space">เพิ่มพื้นที่</string>
+    <string name="backup_action_retry_now">ลองอีกครั้ง</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">พื้นที่เก็บข้อมูลบนคลาวด์ไม่เพียงพอที่จะบันทึกข้อมูลสำรองนี้ อัปเกรดแผนของคุณหรือเพิ่มพื้นที่เก็บข้อมูลบนคลาวด์</string>
     <string name="backup_failed_reason_disk_space_not_enough">พื้นที่จัดเก็บข้อมูลไม่เพียงพอ เพิ่มที่จัดเก็บข้อมูลก่อน</string>
-    <string name="backup_failed_reason_network_error">เครือข่ายเกิดข้อผิดพลาด รอประมาณ 1-2 นาทีแล้วลองอีกครั้ง</string>
+    <string name="backup_failed_reason_network_error">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
     <string name="backup_finished_notification_content">สำรองแอปบนหน้าจอหลัก, การตั้งค่าระบบ ฯลฯ เรียบร้อย</string>
     <string name="backup_now">สำรองข้อมูลเดี๋ยวนี้</string>
     <string name="backup_progress_percent_unit">%</string>
+    <string name="backup_remind_buy_cloud_space">อัปเกรดแผนพื้นที่เก็บข้อมูลบนคลาวด์ของคุณ</string>
+    <string name="backup_remind_clean_disk_space">เพิ่มพื้นที่ที่จัดเก็บข้อมูล</string>
+    <string name="backup_remind_cloud_space_cost">ขนาดสำรอง: %s</string>
     <string name="backup_size">ขนาด: %s</string>
     <string name="backup_stopped_msg">ข้อมูลสำรองปัจจุบันจะแทนที่ของก่อนหน้านี้ แตะเพื่อดู</string>
     <string name="backup_stopped_title">ข้อมูลสำรองถูกหยุด</string>
     <string name="backup_success">การสำรองข้อมูลเสร็จสิ้นแล้ว</string>
     <string name="backup_successfully">การสำรองข้อมูลเสร็จสิ้นแล้ว</string>
     <string name="backup_to_cloud">สำรองข้อมูลแอป</string>
+    <string name="backup_warning_reason_cloud_space_not_enough">สำรองข้อมูลไม่ได้</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"พื้นที่จัดเก็บข้อมูลไม่เพียงพอ
+สำรองข้อมูลไม่ได้"</string>
+    <string name="backup_warning_reason_network_error">"ข้อผิดพลาดของเครือข่าย
+สำรองข้อมูลไม่ได้"</string>
+    <string name="backup_warning_reason_no_server_response">"ถูกตัดการเชื่อมต่อ
+ลองอีกครั้ง"</string>
     <string name="btn_back">ย้อนกลับ</string>
     <string name="btn_continue">ดำเนินการต่อ</string>
     <string name="btn_restore_abort">ยกเลิก </string>
@@ -94,7 +108,7 @@
 *  MIUI and system settings 
 Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">ตารางเวลาการสำรองข้อมูล</string>
-    <string name="cloud_back_up_frequence_long">ทุก 7 วัน</string>
+    <string name="cloud_back_up_frequence_long">ทุก %d วัน</string>
     <string name="cloud_back_up_frequence_short">ทุกวัน</string>
     <string name="cloud_back_up_ok_btn">ตกลง</string>
     <string name="cloud_back_up_opening">รอสักครู่…</string>
@@ -105,6 +119,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup">สำรองข้อมูลคลาวด์</string>
     <string name="cloud_backup_derail_size_summary">ขนาด: %s</string>
     <string name="cloud_backup_detail_frequence">ตารางเวลาการสำรองข้อมูล</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">สำรองข้อมูลทุก %d วัน</string>
+    <string name="cloud_backup_detail_frequence_every_day">สำรองข้อมูลทุกวัน</string>
     <string name="cloud_backup_detail_manage">จัดการสำรองข้อมูล</string>
     <string name="cloud_backup_detail_state">สำรองข้อมูลอัตโนมัติ</string>
     <string name="cloud_backup_detail_state_summary">สร้างการสำรองข้อมูล Xiaomi คลาวด์ โดยอัตโนมัติเมื่อเชื่อมต่อกับ Wi-Fi</string>
@@ -187,9 +203,11 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="notification_channel_remind">เตือนความจำ</string>
     <string name="notification_channel_service">บริการ</string>
-    <string name="open_backup_switch">สลับสวิตช์สำรอง</string>
+    <string name="open_backup_switch">สับสวิทช์สำรอง</string>
     <string name="other_device_main_space">พื้นที่ปกติ</string>
     <string name="other_device_second_space">พื้นที่ทับซ้อน</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="process_whole_recovery">กำลังเรียกคืนค่า \"%s\"</string>
     <string name="provision_background_restore_more_data">เรียกคืนค่ารายการเพิ่มเติมในพื้นหลัง</string>

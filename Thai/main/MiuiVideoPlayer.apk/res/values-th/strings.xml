@@ -94,6 +94,7 @@
     <string name="auth_fail_warning">เซสชันหมดอายุ เข้าสู่ระบบอีกครั้ง</string>
     <string name="auto_play_next_off">การเล่นอัตโนมัติปิดอยู่</string>
     <string name="auto_play_next_on">การเล่นอัตโนมัติเปิดอยู่</string>
+    <string name="back_to_mainpage">ค้นหา</string>
     <string name="before_yestoday">2 วันก่อน</string>
     <string name="bind_sign_in_title">เพิ่มบัญชี Mi</string>
     <string name="cancel">ยกเลิก </string>
@@ -117,6 +118,7 @@
     <string name="cast_forward">กรอไปข้างหน้า</string>
     <string name="cast_forward_10">กรอไปข้างหน้า 10 วินาที</string>
     <string name="cast_forward_30">กรอไปข้างหน้า 30 วินาที</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">สด</string>
     <string name="cast_mute">ปิดเสียง</string>
     <string name="cast_notification_connected_message">เชื่อมต่อ %1$s แล้ว</string>
@@ -233,7 +235,7 @@
 ID:%s
 ส่งรหัสนี้ไปยังที่ปรึกษา"</string>
     <string name="dialog_privacy_info_new2">เพื่อให้สามารถใช้บริการได้ คุณต้องตกลงว่า %1$s จะรวบรวม ดำเนินการ และใช้ข้อมูลส่วนตัวของคุณ คุณจะถือว่าได้อ่านและตกลง &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> เมื่อคุณกด \"ตกลง\" ด้านล่างนี้</string>
-    <string name="dialog_privacy_info_new3">เพื่อให้สามารถใช้บริการนี้คุณต้องอนุญาตให้ %1$s รวบรวมประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณตามนโยบายความเป็นส่วนตัว ด้วยการแตะที่ \"เห็นด้วย\" ด้านล่างคุณยินยอม &lt;a href=%2$s>นโยบายส่วนบุคคล&lt;/a> ของ Xiaomi และ &lt;a href=%3$s>ข้อตกลงผู้ใช้&lt;/a></string>
+    <string name="dialog_privacy_info_new3">ในการใช้บริการนี้คุณต้องอนุญาตให้ %1$s รวบรวมประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณตามนโยบายความเป็นส่วนตัว การแตะ ยอมรับ ด้านล่าง แสดงว่าคุณยอมรับ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a> &lt;br/>&lt;br/>การแตะ ยอมรับ ยังช่วยให้ Mi วีดีโอ เข้าถึงรายการแอพที่ติดตั้งบนอุปกรณ์ของคุณ ด้วยการอนุญาตนี้ Mi วิดีโอ จะสามารถแชร์รายการต่างๆทำความเข้าใจว่ามีการติดตั้งแอปในอุปกรณ์ของคุณแล้วหรือไม่ ติดตั้งแอปเวอร์ชันใดไว้ และแอปนั้นปลอดภัยหรือไม่</string>
     <string name="dialog_privacy_title">การให้สิทธิ์</string>
     <string name="dialog_revoke_privacy_info_new2">หลังจากที่คุณถอนการอนุญาต แอปนี้จะหยุดรวบรวมข้อมูล ข้อมูลที่เกี่ยวข้องจะถูกลบออกจากเซิฟเวอร์ การกระทำนี้อาจทำให้ไม่สามารถใช้งานแอปได้ ต้องการถอนคำอนุญาตหรือไม่？</string>
     <string name="dialog_revoke_privacy_title">กำลังเพิกถอนการให้สิทธิ์</string>
@@ -303,6 +305,7 @@ ID:%s
     <string name="favorite_fail">ไม่สามารถเพิ่มรายการโปรดได้ ลองใหม่อีกครั้ง.</string>
     <string name="favorite_success">เพิ่มไปยังรายการโปรดเรียบร้อยแล้ว</string>
     <string name="fcm_fallback_notification_channel_label">เบ็ดเตล็ด</string>
+    <string name="fcm_push_title">วิดีโอยอดนิยม</string>
     <string name="feedback">ข้อเสนอแนะ</string>
     <string name="feedback_activity_title">ข้อเสนอแนะ</string>
     <string name="feedback_contact_empty">ป้อนข้อมูลการติดต่อของคุณ</string>
@@ -649,6 +652,9 @@ ID:%s
     <string name="notification_bar_player_subtitle">แสดงเครื่องเล่นย่อขนาดในแถบแจ้งเตือน</string>
     <string name="notification_bar_player_title">ย่อขนาดเครื่องเล่น</string>
     <string name="notification_open_tip">เปิดใช้งานเพิ่อรับการแจ้งเตือน</string>
+    <string name="notification_recall_action">เปิดใช้งาน</string>
+    <string name="notification_recall_desc">Mi วิดีโอ สามารถแจ้งเตือนคุณเกี่ยวกับวิดีโอยอดนิยมและการสมัครรับข้อมูลของคุณ</string>
+    <string name="notification_recall_title">เปิดการแจ้งเตือน</string>
     <string name="notify_apk_installed">ดาวน์โหลดเรียบร้อย</string>
     <string name="ok">ตกลง</string>
     <string name="order_alphabet">A-Z</string>
@@ -847,6 +853,7 @@ ID:%s
     <string name="permission_storage">พื้นที่จัดเก็บข้อมูล</string>
     <string name="permission_storage_desc">สำหรับการเข้าถึงรายการ ไฟล์ที่บันทึก การแสดง และเล่นวิดีโอในเครื่อง</string>
     <string name="permission_title">สิทธิ์ที่จำเป็น</string>
+    <string name="pgc_push_title">การติดตาม</string>
     <string name="phone_bind_too_many">โทรศัพท์เครื่องนี้ถูกผูกกับบัญชี Mi หลายบัญชีในช่วงระยะเวลาห่างกันไม่นาน กรุณาใช้หมายเลขโทรศัพท์อื่น</string>
     <string name="phone_hint">หมายเลขโทรศัพท์</string>
     <string name="phone_num_use_for">หมายเลขโทรศัพท์ใช้สำหรับ:</string>

@@ -65,6 +65,7 @@
     <string name="ad_setting">การตั้งค่าเพิ่มเติม</string>
     <string name="add_music">เพิ่มเพลง</string>
     <string name="add_to_last_of_playlist">เพิ่มไว้ท้ายสุดของรายการเพลง</string>
+    <string name="add_to_playlist">เพิ่มลงในคิว</string>
     <string name="add_to_playlist_successful">เพิ่มเรียบร้อย</string>
     <string name="added_next_play">เพิ่มไปยังเล่นถัดไปแล้ว</string>
     <string name="agreement_desc">ข้อตกลงการใช้งาน (จำเป็น)</string>
@@ -123,6 +124,7 @@
     <string name="back">ย้อนกลับ</string>
     <string name="back_confirm">แตะอีกครั้งเพื่อเล่นแอปบนพื้นหลังแทน</string>
     <string name="bluetooth_device">อุปกรณ์เสียงบลูทูธ</string>
+    <string name="btn_text_edit">แก้ไข</string>
     <string name="buffering">กำลังบัฟเฟอร์…</string>
     <string name="button_cancel_download">ยกเลิก</string>
     <string name="button_download_now">ดาวน์โหลดเดี๋ยวนี้</string>
@@ -208,6 +210,7 @@
     <string name="dialog_insufficient_space_on_cache">ไม่สามารถทำการดาวน์โหลดได้ ที่จัดเก็บข้อมูลไม่เพียงพอ</string>
     <string name="dialog_insufficient_space_on_external">ไม่สามารถเสร็จสิ้นการดาวน์โหลดได้ ไม่มีพื้นที่เพียงพอใน SD การ์ด</string>
     <string name="dialog_media_not_found">ไม่สามารถดาวน์โหลดได้ SD การ์ดไม่พร้อมใช้งาน</string>
+    <string name="dialog_message_unfollow">เลิกติดตามคนนี้?</string>
     <string name="dialog_my_playlist_online_changed_merge">เก็บ</string>
     <string name="dialog_my_playlist_online_changed_message">ดูเหมือนว่าเพลย์ลิสต์นี้จะเปลี่ยนไป คุณสามารถแทนที่ด้วยเวอร์ชันใหม่หรือเก็บเวอร์ชันเก่าไว้</string>
     <string name="dialog_my_playlist_online_changed_replace">แทนที่</string>
@@ -235,6 +238,7 @@
     <string name="dialog_song_view_type_artist">โดยศิลปิน</string>
     <string name="dialog_song_view_type_folder">โดยโฟลเดอร์</string>
     <string name="dialog_song_view_type_song">โดยเพลง</string>
+    <string name="dialog_subtitle_make_playlist_public">คนอื่นๆ สามารถใช้เพลย์ลิสต์สาธารณะได้ เพลย์ลิสต์ส่วนตัวจะปรากฏให้คุณเห็นเฉพาะในอุปกรณ์ที่ซิงค์ทั้งหมด</string>
     <string name="dialog_title_clearlist_tracks">ลบออกจากคิว</string>
     <string name="dialog_title_delete_tracks">ลบ</string>
     <string name="dialog_title_name_playlist">ชื่อรายการเพลง</string>
@@ -280,7 +284,9 @@
     <string name="download_method">ดาวน์โหลด</string>
     <string name="download_no_application_title">ไม่สามารถเปิดไฟล์ได้</string>
     <string name="download_paused_in_power_save_mode">การดาวน์โหลดจะถูกหยุดขณะอยู่ในโหมดประหยัดแบตเตอรี่</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">กำลังดาวน์โหลด…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">คุณภาพการดาวน์โหลด</string>
     <string name="download_quality_summary">การตั้งค่าเพิ่มเติมสำหรับเพลงที่ดาวน์โหลด</string>
     <string name="download_queued">อยู่ในคิวแล้ว</string>
@@ -368,7 +374,9 @@
     <string name="exo_media_action_repeat_all_description">เล่นซ้ำทั้งหมด</string>
     <string name="exo_media_action_repeat_off_description">ไม่เล่นซ้ำ</string>
     <string name="exo_media_action_repeat_one_description">เล่นซ้ำเพลงเดียว</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">อื่นๆ</string>
     <string name="exo_track_role_closed_captions">คำบรรยาย</string>
     <string name="exo_track_role_commentary">ความคิดเห็น</string>
@@ -390,11 +398,13 @@
     <string name="fail_to_play">ไม่สามารถเล่นเพลงได้</string>
     <string name="failed_not_access_sd_card">อนุญาตการเข้าถึง SD การ์ดก่อน</string>
     <string name="failed_obtain_permissions">ไม่สามารถรับสิทธิ์ได้</string>
+    <string name="fans">ผู้ติดตาม</string>
     <string name="fav_login_msg">ลงชื่อเข้าสู่ระบบบัญชี Mi เพื่อดาวน์โหลดเพลง</string>
     <string name="favorite_canceled">ลบจากรายการโปรดแล้ว</string>
     <string name="favorite_playlist">รายการโปรด</string>
     <string name="favorite_singer">ศิลปินโปรด</string>
     <string name="favorite_succeed">เพิ่มไปยังรายการโปรดแล้ว</string>
+    <string name="favorite_to_playlist">เพิ่มในเพลย์ลิสต์</string>
     <string name="favorite_tracks">รายการโปรด</string>
     <string name="favorites">รายการชื่นชอบ</string>
     <string name="fcm_fallback_notification_channel_label">เบ็ดเตล็ด</string>
@@ -615,8 +625,10 @@
     <string name="no_album_info">ไม่มีข้อมูลอัลบั้ม</string>
     <string name="no_artist_info">ไม่มีข้อมูลศิลปิน</string>
     <string name="no_downloads">ไม่พบดาวน์โหลด</string>
+    <string name="no_fans_empty_title">ยังไม่มีผู้ใดติดตามคุณ</string>
     <string name="no_favorites_songs">ว่าง</string>
     <string name="no_file_picker_find">ไม่ได้ติดตั้งตัวจัดการไฟล์</string>
+    <string name="no_follow_empty_title">คุณยังไม่ได้ติดตามใคร</string>
     <string name="no_local_songs">ว่าง</string>
     <string name="no_local_songs_selected">ไม่สามารถส่งเพลงได้เพราะยังไม่ได้ดาวน์โหลด</string>
     <string name="no_local_source_find">ไม่พบเพลง</string>
@@ -740,6 +752,7 @@
     <string name="privacy_authorize_revoking">กำลังยกเลิกการให้สิทธิ์</string>
     <string name="privacy_desc">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=th_TH</string>
     <string name="privacy_request_desc">"&lt;Data>Mi เพลง จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการสตรีมมิ่งออนไลน์แก่คุณ คุณสามารถเรียนรู้วิธีจัดการข้อมูลที่เรารวบรวมใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ Mi เพลง ในการตั้งค่าได้ทุกเมื่อ
 อ่านและยอมรับ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ก่อนใช้ Mi เพลง
 หากคุณไม่ยินยอมที่จะใช้บริการข้างต้นคุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอปนี้ได้; อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ&lt;/Data>"</string>
@@ -848,6 +861,7 @@
     <string name="share_end_note">จาก Mi เพลง</string>
     <string name="share_failed">ไม่สามารถแชร์ได้</string>
     <string name="share_image_error">ไม่สามารถแชร์รูปภาพได้เนื่องจากการดาวน์โหลดผิดพลาด</string>
+    <string name="share_song">แชร์</string>
     <string name="share_text_list">"รายการเพลงจาก Mi เพลง: "</string>
     <string name="share_text_song">"เพลงจาก Mi เพลง: "</string>
     <string name="show_float_first_hint">ย่อขนาดเครื่องเล่น</string>
@@ -885,6 +899,7 @@
     <string name="start_to_download">กำลังดาวน์โหลด…</string>
     <string name="start_to_play">เล่น</string>
     <string name="start_update">กำลังติดตั้งเวอร์ชันใหม่…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">ที่จัดเก็บข้อมูลแอปโคลน</string>
     <string name="storage_internal">ที่จัดเก็บภายใน</string>
     <string name="storage_sd_card">SD การ์ด</string>
@@ -933,11 +948,14 @@
     <string name="title_online_recommend">รายการเพลงเด่น</string>
     <string name="title_search_history">ประวัติการค้นหา</string>
     <string name="title_search_hot">ยอดนิยม</string>
+    <string name="toast_cant_collect_mine_playlist">ไม่สามารถเพิ่มรายการเพลงของคุณเองในรายการโปรดได้</string>
     <string name="toast_cant_commit_without_title">ป้อนชื่อเพลง</string>
     <string name="toast_download_error_by_count_limit">คุณได้ดาวน์โหลดเต็มโควต้าของเดือนนี้แล้ว</string>
     <string name="toast_download_error_by_not_login">ลงชื่อเข้าสู่ระบบบัญชี Mi และลองอีกครั้ง</string>
     <string name="toast_download_error_by_vip_required">รับแพ็คเพลงระดับพรีเมี่ยมเพื่อดาวน์โหลดเพลงนี้</string>
     <string name="toast_download_in_process">กำลังดำเนินการดาวน์โหลด</string>
+    <string name="toast_favorite_has_been_added">เพิ่มลงในเพลย์ลิสต์เรียบร้อยแล้ว</string>
+    <string name="toast_follow_success">ติดตามเรียบร้อย</string>
     <string name="toast_is_pro">คุณได้เป็นสมาชิก PRO แล้ว</string>
     <string name="toast_my_playlist_illegal_name">ชื่อของเพลย์ลิสต์นี้ไม่ถูกต้อง เปลี่ยนชื่อเพลย์ลิสต์นี้</string>
     <string name="toast_my_playlist_set_to_private">เพลย์ลิสต์นี้เป็นแบบส่วนตัว คนอื่นมองไม่เห็น</string>
@@ -948,6 +966,9 @@
     <string name="toast_normal_songs_for_download">ตั้งเป็นดาวน์โหลดคุณภาพมาตรฐาน</string>
     <string name="toast_normal_songs_for_stream">ตั้งเป็นสตรีมคุณภาพมาตรฐาน</string>
     <string name="toast_not_pro">คุณลักษณะนี้พร้อมใช้งานเฉพาะสมาชิก PRO เท่านั้น</string>
+    <string name="toast_playlist_has_been_added">เพิ่มลงในคิวเรียบร้อยแล้ว</string>
+    <string name="toast_playlist_has_been_private">เพลย์ลิสต์นี้เป็นแบบส่วนตัว</string>
+    <string name="toast_playlist_has_been_public">เพลย์ลิสต์นี้เป็นแบบสาธารณะ</string>
     <string name="toast_playmode_loop_playback">เพลย์ลิสต์ปัจจุบันวนซ้ำ</string>
     <string name="toast_playmode_shuffle_play">การเล่นจะถูกสับ</string>
     <string name="toast_playmode_single_cycle">เพลงปัจจุบันวนซ้ำ</string>
@@ -975,11 +996,16 @@
     <string name="upload_playlist_to_hungama_title">ซิงค์เพลงออนไลน์กับ Hungama เพื่อให้สามารถเข้าถึงได้บนอุปกรณ์อื่นๆ ที่คุณใช้บัญชี Mi ของคุณ</string>
     <string name="upload_playlist_to_hungama_toast">เพลงออนไลน์จะถูกซิงค์กับ Hungama</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=th_TH</string>
+    <string name="user_playlist_plaza">เพลย์ลิสต์</string>
     <string name="user_privacy_dialog_negative_text">ยกเลิก</string>
     <string name="user_privacy_dialog_positive_count_down_text">เพิกถอน (%ss)</string>
     <string name="user_privacy_dialog_positive_text">เพิกถอน</string>
     <string name="user_privacy_setting_group_title">การเพิกถอนความยินยอม</string>
     <string name="user_privacy_setting_title">การสับสวิตช์จะเป็นการเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ Mi เพลง</string>
+    <string name="user_profile_created_playlist_title">เพลย์ลิสต์ที่กำหนดเอง</string>
+    <string name="user_profile_fans_count">ผู้ติดตาม: %s</string>
+    <string name="user_profile_follow_count">ติดตามอยู่: %s</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="version_info">เวอร์ชั่น</string>

@@ -41,6 +41,7 @@
     <string name="account_unactivated">บัญชียังไม่ได้เปิดใช้</string>
     <string name="ad_app_download_start">กำลังดาวน์โหลด…</string>
     <string name="ad_app_is_downloading">กำลังดาวน์โหลด…</string>
+    <string name="ad_service">แสดงโฆษณา</string>
     <string name="add_resource_detail_fail">ไม่สามารถเพิ่มข้อมูลได้</string>
     <string name="agreement_desc">ข้อตกลงการใช้งาน (จำเป็น)</string>
     <string name="alarm_sound">การแจ้งเตือน</string>
@@ -163,7 +164,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -181,6 +184,7 @@
     <string name="fail_to_add_account">ไม่สามารถเพิ่มบัญชีได้</string>
     <string name="favorite_list">รายการโปรด</string>
     <string name="favorite_list_format">%1$s รายการโปรด</string>
+    <string name="fcm_fallback_notification_channel_label">เบ็ดเตล็ด</string>
     <string name="find_more">ค้นหาเพิ่มเติม</string>
     <string name="find_more_theme">ค้นหาเพิ่มเติม</string>
     <string name="find_more_wallpapers">ค้นหาเพิ่มเติม</string>
@@ -230,6 +234,7 @@
     <string name="incompatible_dialog_ok">รับทราบ</string>
     <string name="incompatible_dialog_title">ปัญหาความเข้ากันได้</string>
     <string name="is_setting_wallpaper_message">กำลังตั้งค่าภาพพื้นหลัง…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">การปลุก</string>
     <string name="item_resource_audio_optional_color_ring">เสียงเรียกกลับ</string>
     <string name="item_resource_audio_optional_notification_ring">การแจ้งเตือน</string>
@@ -252,7 +257,8 @@
     <string name="lockscreen_magazine_title">ภาพพื้นหลังรายวัน</string>
     <string name="lockscreen_wallpaper">หน้าจอล็อก</string>
     <string name="lockstyle_personal_settings">ปรับแต่ง</string>
-    <string name="login_invalid">เกินเวลาที่กำหนด</string>
+    <string name="login_invalid">เซสชันหมดอายุ เข้าสู่ระบบอีกครั้ง</string>
+    <string name="match_theme">ธีมที่ตรงกัน</string>
     <string name="max_usable_themes">99+</string>
     <string name="message">ข้อความ</string>
     <string name="message_sim_one">ข้อความซิม 1</string>
@@ -274,6 +280,7 @@
     <string name="my_gifts">ของขวัญ</string>
     <string name="my_gifts_purchased">ซื้อแล้ว</string>
     <string name="my_gifts_received">ได้รับมา</string>
+    <string name="need_permission">สิทธิ์บังคับ (ใช้สำหรับคุณสมบัติพื้นฐานและบริการของแอปนี้)</string>
     <string name="no_data">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="no_related_font">ไม่พบผลลัพธ์การค้นหา</string>
     <string name="no_related_ringtone">ไม่พบผลลัพธ์การค้นหา</string>
@@ -296,13 +303,19 @@
     <string name="online_search_hint">ค้นหาจากแหล่งข้อมูลออนไลน์</string>
     <string name="online_themes">ธีมออนไลน์</string>
     <string name="online_wallpapers">ภาพพื้นหลังออนไลน์</string>
+    <string name="ota_theme_default_push_content">ลองสิ่งใหม่</string>
+    <string name="ota_theme_default_push_title">เบื่อกับธีมเริ่มต้นแล้ว?</string>
+    <string name="ota_theme_new_push_content">ให้ลุคใหม่แก่อุปกรณ์ของคุณ</string>
+    <string name="ota_theme_new_push_title">ลองธีม MIUI 12 ใหม่ทั้งหมด</string>
+    <string name="personal_recommend_desc">รับการแนะนำเนื้อหาตามความต้องการของคุณ</string>
+    <string name="personal_recommend_title">การแนะนำส่วนบุคคล</string>
     <string name="phone_ringtone">เสียงเรียกเข้า</string>
     <string name="popular_themes">ธีมยอดนิยม</string>
     <string name="popular_wallpapers">ภาพพื้นหลังยอดนิยม</string>
     <string name="pref_animation_preview">ตัวอย่างภาพเคลื่อนไหว</string>
     <string name="pref_animation_preview_switch">แสดงการเปลี่ยนแปลงจากหน้าจอล็อคเป็นหน้าจอหลักบนหน้าปกของธีม</string>
     <string name="pref_privacy_policy">นโยบายความเป็นส่วนตัว</string>
-    <string name="preference_authorization_summary">สลับสวิตซ์เปิดและปิดเพื่อให้หรือเพิกถอนการกำหนดสิทธิ์ของคุณ</string>
+    <string name="preference_authorization_summary">สับสวิตซ์เปิดและปิดเพื่อให้หรือเพิกถอนการกำหนดสิทธิ์ของคุณ</string>
     <string name="preference_authorization_title">การให้สิทธิ์</string>
     <string name="premium">พรีเมี่ยม</string>
     <string name="present_local_themes">ธีมของฉัน</string>
@@ -322,6 +335,7 @@
     <string name="rank_one">1.%s</string>
     <string name="rank_three">3.%s</string>
     <string name="rank_two">2.%s</string>
+    <string name="read_write_file">เข้าถึงและบันทึกไฟล์บนอุปกรณ์นี้</string>
     <string name="recently_used">ที่ใช้ล่าสุด</string>
     <string name="refresh_footer_all_loaded">นั่นคือทั้งหมดตอนนี้</string>
     <string name="refresh_footer_failed">ไม่สามารถโหลดข้อมูลได้</string>
@@ -473,6 +487,7 @@
     <string name="resource_pack_price_info">ราคาปกติ: %1$s</string>
     <string name="resource_pack_warning">คุณได้ซื้อส่วนประกอบ %1$d ส่วนในธีมนี้ไปแล้ว แนะนำให้ซื้อแต่ละส่วนที่เหลือแยกกันจะถูกกว่าซื้อทั้งธีม</string>
     <string name="resource_present">ของขวัญ</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">ฟรี</string>
     <string name="resource_price_unit"> Mi เครดิต</string>
     <string name="resource_purchase_common_error">เกิดข้อผิดพลาด ลองอีกครั้ง</string>
@@ -573,6 +588,7 @@
     <string name="s5">สร้างกิจกรรมในปฏิทิน</string>
     <string name="s6">อนุญาตให้โฆษณาสร้างกิจกรรมในปฏิทินไหม</string>
     <string name="s7">โฆษณาทดสอบ</string>
+    <string name="scroll_switch">เลื่อนซ้ายขวาเพื่อสลับรายการ</string>
     <string name="sdcard_not_mounted_dialog_message">"กรุณาใส่ SD การ์ด
 "</string>
     <string name="sdcard_not_mounted_dialog_title">ไม่พบการ์ด SD</string>
@@ -594,6 +610,8 @@
     <string name="sim_one">ซิม 1</string>
     <string name="sim_two">ซิม 2</string>
     <string name="similar_theme">ธีมที่คล้ายกัน</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_file">สำหรับบันทึกรายการที่ดาวน์โหลด</string>
     <string name="swipe_find_more">เลื่อนขึ้นเพื่อดูเพิ่มเติม</string>
     <string name="system_phone">การโทร</string>
     <string name="system_precust">ติตตั้งไว้ก่อนหน้าแล้ว</string>
@@ -604,6 +622,7 @@
     <string name="theme_apply_audio_dialog_item_notification">การแจ้งเตือน</string>
     <string name="theme_apply_audio_dialog_item_ringtone">เสียงเรียกเข้า</string>
     <string name="theme_apply_failured">ใช้ไม่ได้</string>
+    <string name="theme_apply_fully">ใช้ธีมสำเร็จแล้ว ภาพพื้นหลังรายวัน ปิดอยู่</string>
     <string name="theme_apply_success">ใช้งานเรียบร้อยแล้ว</string>
     <string name="theme_applying">กำลังเรียกใช้งาน…</string>
     <string name="theme_batch_update_all">อัปเดตทั้งหมด</string>
@@ -657,6 +676,7 @@
     <string name="theme_is_external_priority_storage">บันทึกไปยังSD การ์ด</string>
     <string name="theme_is_external_priority_storage_summary">แอปธีมจะรีสตาร์ทตัวเองใหม่ทันทีเพื่อให้การตั้งค่ามีผลใช้งาน</string>
     <string name="theme_multiple_button_title_customize">ปรับแต่ง</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">ไม่</string>
     <string name="theme_select_others">เรียกดู</string>
     <string name="theme_setting">การตั้งค่า</string>
@@ -694,7 +714,7 @@
     <string name="uid_change_dialog_ok">รับทราบ</string>
     <string name="uid_change_dialog_title">รีบูตอุปกรณ์</string>
     <string name="unsupport_tip">รูปแบบไฟล์นี้ไม่รองรับ ลองเลือกไฟล์อื่น</string>
-    <string name="up_to_the_end">นั่นคือทั้งหมดสำหรับตอนนี้ กลับมาในภายหลัง</string>
+    <string name="up_to_the_end">ไม่มีรายการแสดงเพิ่มเติม</string>
     <string name="update_btn">อัปเดตเดี๋ยวนี้</string>
     <string name="update_check">ตรวจสอบการอัปเดต</string>
     <string name="update_checking">กำลังตรวจสอบอัปเดต…</string>
@@ -709,7 +729,7 @@
     <string name="user_agree">ยอมรับ</string>
     <string name="user_authorization_dialog_agree">ยอมรับ</string>
     <string name="user_authorization_dialog_disagree">ออก</string>
-    <string name="user_authorization_dialog_message">ก่อนใช้างาน ธีม โปรดอ่านและยอมรับ &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา</string>
+    <string name="user_authorization_dialog_message">อ่านและยอมรับ &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ก่อนดำเนินการต่อ</string>
     <string name="user_authorization_dialog_title">กำลังอนุญาตสิทธิ์</string>
     <string name="user_know">รับทราบ</string>
     <string name="using_theme_has_update_tips">อัปเดตสำหรับธีมนี้</string>

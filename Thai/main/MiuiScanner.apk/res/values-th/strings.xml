@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="copy">คัดลอก</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>

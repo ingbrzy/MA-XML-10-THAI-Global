@@ -153,7 +153,7 @@
     <string name="miui_feedback_edit_submit_directly">ส่ง</string>
     <string name="miui_feedback_edit_title_occurrence_time">เลือกเวลา</string>
     <string name="miui_feedback_edit_title_reproductivity">เลือกการทำสำเนา</string>
-    <string name="miui_feedback_edit_toast_description_required">กรุณาอธิบายรายละเอียดของปัญหา</string>
+    <string name="miui_feedback_edit_toast_description_required">อธิบายปัญหาก่อน</string>
     <string name="miui_feedback_edit_toast_module_required">เลือกรายการ</string>
     <string name="miui_feedback_edit_toast_more_desc_required">คำอธิบายของคุณควรจะยาวกว่านี้</string>
     <string name="miui_feedback_edit_toast_problem_class_required">เลือกหมวดหมู่</string>
@@ -186,6 +186,7 @@
     <string name="miui_main_next_page">ถัดไป</string>
     <string name="miui_main_pre_page">ย้อนกลับ</string>
     <string name="miui_main_shortcut_label_submit_feedback">ส่งข้อเสนอแนะ</string>
+    <string name="miui_main_update_back_to_home">กำลังเตรียมการหน้าจอหลัก…</string>
     <string name="miui_main_update_continue">ถัดไป</string>
     <string name="miui_main_update_learn_more">เรียนรู้เพิ่มเติม</string>
     <string name="miui_main_update_start">อัปเดตตอนนี้</string>

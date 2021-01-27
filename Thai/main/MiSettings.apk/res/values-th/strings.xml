@@ -68,6 +68,13 @@
     <string name="focus_mode_timer_pick_dialog_title">ป้อนระยะเวลา</string>
     <string name="focus_time_exception_tip">ดูเหมือนว่าเวลาของระบบเปลี่ยนไป ปิดโหมดโฟกัสแล้ว</string>
     <string name="follow_sim1">ใช้การตั้งค่าใช้ซิม 1</string>
+    <string name="fps_nature_summary">อัตราการรีเฟรชที่สูงช่วยให้ทุกอย่างคมชัดและชัดเจน</string>
+    <string name="fps_nature_title">สูง</string>
+    <string name="fps_smooth_summary">อัตราการรีเฟรชปานกลางเพิ่มความชัดเจนให้กับรายละเอียดมากขึ้น</string>
+    <string name="fps_smooth_title">ปานกลาง</string>
+    <string name="fps_standard_summary">อัตราการรีเฟรชมาตรฐานช่วยประหยัดแบตเตอรี่</string>
+    <string name="fps_standard_title">มาตรฐาน</string>
+    <string name="fps_user_tip">ภาพเคลื่อนไหวสาธิตเหล่านี้เล่นด้วยความเร็วต่ำสำหรับการอ้างอิงของคุณ ประสิทธิภาพจริงอาจแตกต่างกันไปตามปัจจัยที่แตกต่างกัน</string>
     <string name="gamma">แกมมา</string>
     <string name="healthy_use_phone">จัดการเวลาหน้าจอ</string>
     <string name="high_fps_description">อัตราการรีเฟรชหน้าจอสูง การใช้พลังงานที่สูงขึ้น</string>
@@ -114,6 +121,7 @@
     <string name="screen_fps_summary_power_save">การใช้อัตราตายตัวจะสิ้นเปลืองพลังงานน้อยลง</string>
     <string name="screen_fps_summary_smooth">แอปบางตัวจะเพิ่มอัตราการรีเฟรชโดยอัตโนมัติเพื่อปรับปรุงคุณภาพของภาพ</string>
     <string name="screen_fps_title">อัตราการรีเฟรช</string>
+    <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_fps_unit_power_save">%dHz (ประหยัดแบตเตอรี่)</string>
     <string name="screen_fps_unit_smooth">%dHz (คุณภาพที่ดีกว่า)</string>
     <string name="screen_original_gamut">ขั้นสูง</string>
@@ -186,6 +194,7 @@
     <string name="usage_device_limit_app_prolong_time2">เพิ่ม 40 นาที</string>
     <string name="usage_device_limit_app_prolong_time3">เพิ่ม 60 นาที</string>
     <string name="usage_device_limit_app_prolong_time4">ไม่ต้องจำกัดวันนี้</string>
+    <string name="usage_device_limit_app_prolong_time5">เพิ่มเวลาครั้งเดียว</string>
     <string name="usage_device_limit_notifation_summary_start">คุณจะถึงขีดจำกัดใน %1$s</string>
     <string name="usage_device_limit_notifation_title">เวลาที่เหลืออยู่วันนี้</string>
     <string name="usage_device_limit_time_over">คุณถึงขีดจำกัดของวันนี้แล้ว (%1$s)</string>

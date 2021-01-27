@@ -81,6 +81,7 @@
     <string name="apn_settings_not_available">ผู้ใช้นี้ไม่มีสิทธิ์ในการตั้งค่า APN</string>
     <string name="app_name">บลูทูธ MIUI</string>
     <string name="app_process_limit_title">กำหนดการดำเนินการในพื้นหลัง</string>
+    <string name="audio_relay_default_device_name">ลำโพง Mi AI</string>
     <string name="auto_connect_disable">การเชื่อมต่ออัตโนมัติปิดอยู่</string>
     <string name="available_via_app">ใช้งานได้ผ่านทาง %1$s</string>
     <string name="available_via_carrier">พร้อมใช้งานผ่าน %1$s</string>
@@ -362,6 +363,11 @@
     <string name="media_transfer_this_device_name">อุปกรณ์นี้</string>
     <string name="media_transfer_wired_device_name">อุปกรณ์เครื่องเสียงแบบมีสาย</string>
     <string name="media_transfer_wired_usb_device_name">หูฟังแบบมีสาย</string>
+    <string name="mi_audio_relay_cancel">ตกลง</string>
+    <string name="mi_audio_relay_connect_failed">ลองอีกครั้ง</string>
+    <string name="mi_audio_relay_localphone">อุปกรณ์นี้</string>
+    <string name="mi_audio_relay_phone_name">โทรศัพท์ของฉัน</string>
+    <string name="mi_audio_relay_title">เลือกอุปกรณ์</string>
     <string name="mi_band_vibrate_alarm">สั่นเมื่อมีเสียงปลุก</string>
     <string name="mi_band_vibrate_incall">สั่นเมื่อมีสายเรียกเข้า</string>
     <string name="mi_band_vibrate_incall_in_contacts">สายเรียกเข้าจากผู้ที่อยู่ในรายชื่อ</string>
@@ -607,7 +613,7 @@
     <string name="user_guest">ผู้เยี่ยมชม</string>
     <string name="user_info_settings_title">ข้อมูลผู้ใช้งาน</string>
     <string name="user_need_lock_message">ก่อนที่คุณจะสามารถสร้างโปรไฟล์ที่จำกัด คุณจะต้องตั้งค่าการล็อคหน้าจอเพื่อปกป้องแอปและข้อมูลส่วนตัวของคุณ</string>
-    <string name="user_new_profile_name">เพิ่มโปรไฟล์</string>
+    <string name="user_new_profile_name">โปรไฟล์ใหม่</string>
     <string name="user_new_user_name">ผู้ใช้ใหม่</string>
     <string name="user_set_lock_button">ตั้งค่าล็อก</string>
     <string name="user_setup_button_setup_later">ไม่ใช่ตอนนี้</string>

@@ -66,6 +66,12 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">พบ %1$s บันทึกย่อ</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">พบ %1$s งาน</item>
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">เหลือ %d วินาที</item>
     </plurals>

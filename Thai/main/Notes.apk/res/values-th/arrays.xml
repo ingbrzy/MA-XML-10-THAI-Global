@@ -4,6 +4,11 @@
         <item>กล้อง</item>
         <item>คลังภาพ</item>
     </string-array>
+    <string-array name="common_folder_operations">
+        <item>新建</item>
+        <item>重命名</item>
+        <item>删除</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>ชื่อ</item>
         <item>ชื่อเล่น</item>
@@ -48,5 +53,8 @@
     <string-array name="second_guide_contents_pad_or_inter">
         <item>บันทึกเสียง</item>
         <item>คุณสามารถสร้างบันทึกเสียงได้ตอนนี้ เพียงแตะไอคอน บันเสียงของคุณ และบันทึกไฟล์เสียงในบันทึก</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>新建</item>
     </string-array>
 </resources>

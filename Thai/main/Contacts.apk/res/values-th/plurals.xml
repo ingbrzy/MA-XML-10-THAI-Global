@@ -51,6 +51,12 @@
     <plurals name="contacts_count">
         <item quantity="other">%1$dรายชื่อ</item>
     </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">ลบ %d รายชื่ออย่างถาวร</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">กู้คืน %d รายชื่อเรียบร้อยแล้ว</item>
+    </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">นำเข้า%1$dรายการ</item>
     </plurals>
@@ -80,6 +86,9 @@
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d รายการ</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d รายชื่อ</item>
