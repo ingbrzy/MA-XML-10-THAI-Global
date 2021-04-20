@@ -45,6 +45,7 @@
     <string name="bluetooth_enable_notification_content">%sเปิดใช้งานบลูทูธ</string>
     <string name="bluetooth_enable_notification_title">บลูทูธเปิด</string>
     <string name="bluetooth_open">แอปนี้เปิดบลูทูธ</string>
+    <string name="bottom_bar_smallwindow_text">ปล่อยเพื่อปักหมุด</string>
     <string name="btn_cancel">ยกเลิก </string>
     <string name="btn_sure">ตกลง</string>
     <string name="button_text_cancel">ยกเลิก</string>
@@ -78,10 +79,14 @@
     <string name="device_status_success">ส่งเรียบร้อยแล้ว</string>
     <string name="device_status_waiting">กำลังรอ…</string>
     <string name="device_type_pc">คอมพิวเตอร์</string>
+    <string name="disable_nfc">ปิด NFC สำหรับการชาร์จแบบไร้สาย</string>
+    <string name="disable_nfc_reverse">ปิดการชาร์จแบบไร้สายย้อนกลับปิด NFC สำหรับการชาร์จแบบไร้สายย้อนกลับ</string>
     <string name="eighthours">8 ชั่วโมง</string>
     <string name="enable_livetalk_summary">ประหยัดค่าโทร 70%</string>
     <string name="enable_livetalk_title">เปิดใช้แพ็คเกจเสริม</string>
     <string name="enable_midrop">เปิดใช้งาน</string>
+    <string name="enable_nfc">ไม่ชาร์จอีกต่อไป NFC เปิดอีกครั้ง</string>
+    <string name="enable_nfc_reverse">ไม่ชาร์จย้อนกลับอีกต่อไป NFC เปิดอีกครั้ง</string>
     <string name="fc_dialog_body">ต้องการส่งรายงานข้อบกพร่องนี้ไปยัง Mi เพื่อวิเคราะห์? รายงานนี้อาจมีข้อมูลส่วนบุคคล การรายงานจะช่วยแก้ไขข้อบกพร่องนี้ได้และจะไม่ถูกใช้ในทางการค้าแต่อย่างใด</string>
     <string name="fc_dialog_jump_to_preview">ดูข้อมูลสรุป</string>
     <string name="file_cannot_print">ไม่สามารถพิมพ์รายการนี้ได้</string>

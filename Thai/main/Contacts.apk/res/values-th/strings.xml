@@ -483,6 +483,7 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">ชื่อ</string>
     <string name="gallery">คลังภาพ</string>
     <string name="ghostData_company">บริษัท</string>
@@ -606,6 +607,7 @@
     <string name="menu_sync_remove">ลบกลุ่มที่ซิงค์</string>
     <string name="midnight">กลางคืน</string>
     <string name="miprofile_account_type">นามบัตร</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">แก้ไขข้อมูลส่วนตัว</string>
     <string name="miprofile_name">โปรไฟล์ของฉัน</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -734,6 +736,7 @@
     <string name="payphone">โทรศัพท์สาธารณะ</string>
     <string name="people">รายชื่อ</string>
     <string name="phoneLabelsGroup">โทรศัพท์</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">หมายเลขยาวเกินไป</string>
     <string name="phone_primary">หลัก</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพในเครื่อง</string>
@@ -742,7 +745,7 @@
     <string name="pickerNewContactHeader">สร้างรายชื่อใหม่</string>
     <string name="picker_all_list_empty">ไม่มีรายชื่อ</string>
     <string name="picker_contact_title">เลือกรายชื่อ</string>
-    <string name="picker_email_title">เลือกอีเมล</string>
+    <string name="picker_email_title">เลือกที่อยู่อีเมล</string>
     <string name="picker_groups_list_empty">ไม่มีกลุ่ม</string>
     <string name="picker_join_title">ควบรวมกับ %s</string>
     <string name="picker_number_title">เลือกหมายเลข</string>
@@ -836,7 +839,7 @@
     <string name="recentCallsIconLabel">รายการโทรเข้าออก</string>
     <string name="recent_contacts_label">ล่าสุด</string>
     <string name="recent_number">ล่าสุด</string>
-    <string name="redirect_calls_to_vm_confirm_message">ก่อนการตั้งค่าใช้ระบบรับฝากข้อความของคุณ กรุณาตรวจสอบข้อตกลงและเงื่อนไขของสัญญาของคุณกับผู้ให้บริการเครือข่ายมือถือก่อน</string>
+    <string name="redirect_calls_to_vm_confirm_message">ก่อนการตั้งค่าใช้ระบบรับฝากข้อความของคุณ กรุณาตรวจสอบข้อกำหนดและเงื่อนไขของสัญญาของคุณกับผู้ให้บริการเครือข่ายมือถือก่อน</string>
     <string name="redirect_calls_to_vm_confirm_text">ตกลง</string>
     <string name="relationLabelsGroup">ความสัมพันธ์</string>
     <string name="removePhoto">ลบรูปภาพ</string>
@@ -937,6 +940,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">ไม่มีสมาชิกกลุ่ม</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">บริษัท</string>
     <string name="smart_group_company_unavailable">ไม่มีข้อมูลบริษัท</string>
     <string name="smart_group_frequency_1">ภายในเดือนที่ผ่านมา</string>
@@ -978,6 +982,7 @@
     <string name="starred_contacts">รายการชื่นชอบ</string>
     <string name="status_available">ว่าง</string>
     <string name="status_away">ไม่อยู่</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">ไม่ว่าง</string>
     <string name="strequentList">รายการโปรด</string>
     <string name="success_message_import_from_account">นำเข้ารายชื่อแล้ว</string>

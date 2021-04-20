@@ -71,6 +71,7 @@
     <string name="error_ap_or_screen_already_hosting">ไม่สามารถส่งรายการไปยังอุปกรณ์อื่นในขณะที่ฉายภาพหรือใช้ฮอตสปอตแบบพกพา</string>
     <string name="error_device_lost">ดูเหมือนว่าอุปกรณ์อื่นจะไม่สามารถเข้าถึงได้ รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="error_has_occurred">เกิดข้อผิดพลาด</string>
+    <string name="error_mirror_working">ไม่สามารถแชร์รายการขณะแชร์หน้าจอได้</string>
     <string name="error_msg_network_error">เครือข่ายผิดพลาด ลองอีกครั้ง</string>
     <string name="error_receive_file_cannot_read">ไม่สามารถรับไฟล์ได้</string>
     <string name="error_receive_file_changed">ไม่สามารถรับได้ รายการมีการเปลี่ยนแปลง</string>
@@ -81,6 +82,7 @@
     <string name="error_receive_user_interrupted">อีกฝ่ายยกเลิกการโอน</string>
     <string name="error_refuse_receive">ยกเลิกการโอนแล้ว</string>
     <string name="error_remote_busy">ดูเหมือนว่าอุปกรณ์อื่นจะไม่ว่าง รอสักครู่แล้วลองอีกครั้ง</string>
+    <string name="error_remote_mirror_working">อุปกรณ์อีกเครื่องไม่สามารถรับรายการขณะแชร์หน้าจอได้</string>
     <string name="error_self_busy">อุปกรณ์ไม่ว่าง กรุณารอสักครู่แล้วลองใหม่</string>
     <string name="error_send_file_cannot_read">ไม่สามารถส่งไฟล์ได้ ลองอีกครั้ง.</string>
     <string name="error_send_file_no_enough_space">ไม่สามารถส่งได้ พื้นที่เก็บข้อมูลไม่เพียงพอในอุปกรณ์อื่น</string>
@@ -106,6 +108,10 @@
     <string name="file_transfer_progress_title">ความคืบหน้า</string>
     <string name="functions_are_being_developed">คุณสมบัตินี้จะสามารถใช้ได้เร็วๆ นี้ คอยติดตาม!</string>
     <string name="go_to_settings">การตั้งค่า</string>
+    <string name="guide_summary_1">บุคคลอื่นสามารถแตะสลับในแถบการแจ้งเตือน</string>
+    <string name="guide_summary_2">เลือกอุปกรณ์ที่คุณต้องการส่งรายการและแตะที่ไอคอน</string>
+    <string name="guide_title_1">เปิด Mi แชร์ บนอุปกรณ์ทั้งสอง</string>
+    <string name="guide_title_2">เลือกอุปกรณ์ที่จะแบ่งปัน</string>
     <string name="help">ไม่พบอุปกรณ์?</string>
     <string name="help_content">หากคุณไม่พบอุปกรณ์ที่ต้องการ ให้ขอให้บุคคลอื่นเปิด Mi แชร์</string>
     <string name="hide">ซ่อน</string>
@@ -113,6 +119,7 @@
     <string name="location_enabled">Mi แชร์ เปิดใช้งานบริการตำแหน่งที่ตั้งเพื่อค้นหาอุปกรณ์ใกล้เคียงแล้ว</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
+    <string name="menu_item_privacy_title">นโยบายความเป็นส่วนตัว</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
@@ -120,13 +127,20 @@
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mishare_folder_in_file_explorer">ตัวจัดการไฟล์ > MiShare</string>
     <string name="mishare_service_channel_desc">การแจ้งเตือนเกี่ยวกับกระบวนการของ Mi แชร์</string>
-    <string name="mishare_settings_summary_international">"คุณสามารถใช้ Mi แชร์ เพื่อส่งรายการไปยังอุปกรณ์ใกล้เคียง
-Mi แชร์ เข้ากันได้กับโทรศัพท์ Mi และ Redmi
-OPPO, vivo, realme และแบรนด์อื่นๆ จะเข้ากันได้กับ Mi แชร์ เช่นกัน คุณสามารถตรวจสอบรายการอุปกรณ์ที่ใช้งานร่วมกันได้บนเว็บไซต์ของเรา"</string>
+    <string name="mishare_settings_summary_international">"Mi แชร์ ช่วยให้คุณสามารถส่งรายการแบบไร้สายไปยังอุปกรณ์อื่นๆ ที่อยู่ใกล้เคียงได้
+คุณสมบัตินี้รองรับโดย OPPO, vivo, realme และผู้ผลิตสมาร์ทโฟนรายอื่น คุณสามารถตรวจสอบรายชื่ออุปกรณ์ที่รองรับได้จากเว็บไซต์ทางการของแบรนด์ที่เลือก"</string>
     <string name="mishare_state_protection">เปิด Mi แชร์ โดยอัตโนมัติ</string>
     <string name="mishare_state_protection_summary">เปิด Mi แชร์ กลับมาโดยอัตโนมัติเมื่อเปิด บลูทูธ หรือ Wi-Fi</string>
     <string name="mishare_state_protection_summary_china">เปิด Mi แชร์ กลับมาโดยอัตโนมัติเมื่อเปิด บลูทูธ หรือ WLAN</string>
     <string name="mishare_transefer_channel_desc">การแจ้งเตือนเกี่ยวกับรายการที่ส่งและรับโดย Mi แชร์</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ปล่อยเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">รอสักครู่…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ไม่สามารถโหลดรายการได้</string>
     <string name="multi_file_name">%1$s, %2$s</string>
     <string name="name_with_ellipsize">%1$s … %2$s</string>
     <string name="no_longer_prompt">บล็อค</string>
@@ -180,8 +194,9 @@ OPPO, vivo, realme และแบรนด์อื่นๆ จะเข้า
     <string name="refuse_file">ปฏิเสธ</string>
     <string name="retry_task">ส่งอีกครั้ง</string>
     <string name="scanning_device_tips">ค้นหาอุปกรณ์บริเวณใกล้เคียง…ตรวจสอบให้แน่ใจว่าอุปกรณ์อื่นๆอยู่ในโหมดเปิดการมองเห็น</string>
-    <string name="scanning_only_xiaomi_device">This item can only be transferred to Xiaomi or Black Shark devices</string>
+    <string name="scanning_only_xiaomi_device">รายการนี้สามารถโอนไปยังอุปกรณ์ Xiaomi หรือ Black Shark เท่านั้น</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="send_files_by">แชร์ไฟล์ผ่าน</string>
     <string name="send_files_to">ส่งรายการไปยัง</string>
     <string name="send_files_to_remote_success">ส่งรายการไปยัง %1$s เรียบร้อยแล้ว</string>
     <string name="send_files_to_remote_success_title">ส่งเรียบร้อยแล้ว</string>
@@ -197,7 +212,10 @@ OPPO, vivo, realme และแบรนด์อื่นๆ จะเข้า
     <string name="support_device_type">อุปกรณ์ที่สนับสนุน</string>
     <string name="throwing_print">ปริ้นต์</string>
     <string name="throwing_screen">ฉายภาพ</string>
-    <string name="tips_prompt_enable_midrop">แชร์ไฟล์ด้วยอุปกรณ์บริเวณใกล้เคียง</string>
+    <string name="tile_state_active">เปิด</string>
+    <string name="tile_state_inactive">ปิด</string>
+    <string name="tile_state_unavailable">ไม่พร้อมใช้งาน</string>
+    <string name="tips_prompt_enable_midrop">Mi แชร์</string>
     <string name="to_feedback">รายงาน</string>
     <string name="transfer_intercept_to_remote">ส่งไม่ได้: %1$s</string>
     <string name="transfer_to_pc_summary">เวอร์ชันล่าสุดของซอฟต์แวร์ AIoT ที่ติดตั้งบน โน๊ตบุ๊ค Mi เข้ากันได้กับ Mi แชร์ คุณสามารถตรวจสอบรายการรุ่นแล็ปท็อปที่รองรับได้ในเว็บไซต์ MIUI หากแล็ปท็อปของคุณอยู่ในรายการ แต่ไม่ได้ติดตั้ง AIoT ไว้ให้อัปเดต BIOS และไดรเวอร์อะแดปเตอร์เครือข่ายของแล็ปท็อปของคุณแล้วดาวน์โหลด AIoT</string>

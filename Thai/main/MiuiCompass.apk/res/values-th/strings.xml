@@ -125,6 +125,7 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="gradienter_title">ระดับ</string>
     <string name="guide_toast">กรุณาขยับอุปกรณ์ตามรูปเพื่อปรับเทียบ</string>
     <string name="latitude">ละติจูด</string>
     <string name="location_east">ลองติจูดตะวันออก</string>
@@ -218,6 +219,8 @@
     <string name="pressure">%.1f</string>
     <string name="pressure_title">ความกดอากาศ</string>
     <string name="pressure_unit">hPa</string>
+    <string name="remove_icon_description_content">เข็มทิศเป็นแอประบบ คุณจะไม่สามารถใช้เพื่อตรวจสอบทิศทางพิกัดความดันบรรยากาศและระดับความสูงปัจจุบันได้หลังจากที่คุณลบปุ่มลัดหน้าจอหลักออก</string>
+    <string name="remove_icon_description_title">ลบ \"เข็มทิศ\" ออกจากหน้าจอหลัก?</string>
     <string name="saturday">วันเสาร์</string>
     <string name="saturday_short">เสาร์</string>
     <string name="saturday_shortest">เสาร์</string>

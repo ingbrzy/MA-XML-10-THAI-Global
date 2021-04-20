@@ -154,6 +154,7 @@ to add cards"</string>
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
+    <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">วัน</string>
     <string name="deep_light_detection_open_prompt">Your sleep cycle will be analyzed next time you go to bed</string>
@@ -206,7 +207,7 @@ Xiaomi Health จะแจ้งเตือนคุณเกี่ยวกั
     <string name="dialog_keep">Keep</string>
     <string name="dialog_known">รับทราบ</string>
     <string name="dialog_menstruation_purpose">ยินดีต้อนรับสู่ Xiaomi Health! \"การมีประจำเดือน\" ช่วยให้คุณสามารถบันทึกรอบประจำเดือน กำหนดวันที่ประมาณของรอบประจำเดือนที่จะมาถึง และรับการแจ้งเตือน ข้อมูลที่เกี่ยวข้องทั้งหมดจะถูกเก็บไว้ในอุปกรณ์ของคุณซึ่งช่วยให้คุณจัดการได้อย่างง่ายดาย</string>
-    <string name="dialog_new_version_title">An update is available</string>
+    <string name="dialog_new_version_title">อัปเดตพร้อมใช้งาน</string>
     <string name="dialog_no_more_prompt">ไม่ต้องแสดงอีก</string>
     <string name="dialog_ok">ตกลง</string>
     <string name="dialog_open">อนุญาต</string>
@@ -225,7 +226,7 @@ Xiaomi Health จะแจ้งเตือนคุณเกี่ยวกั
     <string name="dialog_user_agreement_purpose">ยินดีต้อนรับสู่ Xiaomi Health! คุณสามารถใช้แอปนี้เพื่อ นับก้าว ติดตามการนอนหลับ ประจำเดือน และน้ำหนัก รวมถึงซิงค์สถิติของคุณกับคลาวด์</string>
     <string name="dialog_user_agreement_purpose2">ยินดีต้อนรับสู่ Xiaomi Health คุณสามารถใช้แอปนี้เพื่อนับขั้นตอนวิเคราะห์การนอนช่วงเวลาติดตามน้ำหนักการบันทึกและอื่นๆ</string>
     <string name="disable">ปิด</string>
-    <string name="discard_update">No thanks</string>
+    <string name="discard_update">ไม่ ขอบคุณ</string>
     <string name="dream_talk">ละเมอ %1$s</string>
     <string name="dream_talk_record">คุณถูกบันทึกในตอนที่คุณละเมอระหว่างที่คุณหลับ</string>
     <string name="dream_talk_title">ละเมอ</string>
@@ -325,7 +326,7 @@ You can select a different data source in More > Data sources."</string>
     <string name="feedback_need_permission_msg">อนุญาตให้ Xiaomi Health เขียนลงในที่จัดเก็บข้อมูลภายนอกเพื่อให้สามารถสร้างบันทึกที่ใช้สำหรับข้อเสนอแนะได้</string>
     <string name="feedback_permission_denied_msg">Xiaomi Health ไม่สามารถบันทึกบันทึกลงในที่จัดเก็บข้อมูลภายนอกได้ ให้สิทธิ์ Xiaomi Health ในการตั้งค่า</string>
     <string name="fewer">Little</string>
-    <string name="find_new_verision">Version %s is available now</string>
+    <string name="find_new_verision">เวอร์ชัน %s พร้อมใช้งานแล้ว</string>
     <string name="finish">เสร็จสิ้น</string>
     <string name="finished_rate">Completed %1$d%%</string>
     <string name="fmt_date_day">dd</string>
@@ -406,7 +407,7 @@ You can select a different data source in More > Data sources."</string>
     <string name="hour">H</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
-    <string name="immediately_experience">Update</string>
+    <string name="immediately_experience">อัปเดต</string>
     <string name="improve_step_target">คุณบรรลุเป้าหมายบ่อยเกินไป ลองตั้งเป้าหมายที่สูงขึ้น</string>
     <string name="improve_your_health_default_tips">ออกกำลังกายและนอนหลับให้เพียงพอเพื่อสุขภาพที่ดี</string>
     <string name="inactivated">Not activated</string>
@@ -452,6 +453,7 @@ You can select a different data source in More > Data sources."</string>
     <string name="light_sleep_time_normal_description">You have a sufficient amount of light sleep</string>
     <string name="load_failed">"Couldn't load items. Wait a minute or two and try again."</string>
     <string name="loading">รอสักครู่…</string>
+    <string name="location_perm_description">สำหรับติดตามการออกกำลังกายกลางแจ้งและบันทึกเส้นทาง</string>
     <string name="low">ต่ำ</string>
     <string name="low_intensity">Low</string>
     <string name="low_intensity_description">อัตราการหายใจปกติที่ให้คุณรักษาการสนทนาได้</string>
@@ -545,10 +547,13 @@ You can select a different data source in More > Data sources."</string>
     <string name="miuix_appcompat_cloud_state_syncing">กำลังซิงค์กับคลาวด์…</string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
+    <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_select_all_description">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_select_item">เลือกรายการ</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
@@ -730,6 +735,7 @@ You can select a different data source in More > Data sources."</string>
     <string name="select_null">ไม่ได้เลือก</string>
     <string name="select_recog_question">เลือกการดำเนินการ</string>
     <string name="select_swim_posture">เลือกสไตล์</string>
+    <string name="send">ส่ง</string>
     <string name="setting">การตั้งค่า</string>
     <string name="setting_sedentary_off">ปิด</string>
     <string name="setting_sedentary_on">เปิด</string>

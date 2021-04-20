@@ -48,6 +48,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
+    <string name="device_desc_trust">อุปกรณ์ที่เชื่อถือได้</string>
     <string name="dialog_can_not_find_device">ไม่พบอุปกรณ์ใกล้ๆ</string>
     <string name="dialog_cancle">ยกเลิก </string>
     <string name="dialog_connect_fail">เชื่อมต่อไม่ได้</string>
@@ -254,10 +255,23 @@
     <string name="nfc_connect_failed_toast">ไม่สามารถฉายภาพได้ โปรดลองอีกครั้ง</string>
     <string name="night">เย็น</string>
     <string name="noon">เที่ยงวัน</string>
+    <string name="normal_device_desc">อุปกรณ์ที่คุณเชื่อมต่อ แต่ไม่ได้ทำเครื่องหมายว่าเชื่อถือได้</string>
+    <string name="normal_device_desc_limit">อุปกรณ์ที่คุณเชื่อมต่อ แต่ไม่ได้ทำเครื่องหมายว่าเชื่อถือได้</string>
+    <string name="normal_device_none">ไม่มีอุปกรณ์ที่เชื่อมต่อไว้ก่อนหน้านี้ที่นี่</string>
+    <string name="normal_device_title">ไม่ใช่อุปกรณ์ที่เชื่อถือได้</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
+    <string name="notification_cast_desc">กำลังฉายภาพ…</string>
+    <string name="notification_desc_scanning">กำลังค้นหาอุปกรณ์ใกล้เคียง…</string>
     <string name="notification_rc_title">ผู้ช่วย XiaoMi TV</string>
     <string name="notification_show_more">แตะเพื่อดูคุณสมบัติเพิ่มเติม</string>
     <string name="open_game_accelerate">เปิดใช้งาน Game Turbo</string>
+    <string name="path_setting_cast">การเชื่อมต่อและแชร์/ฉายภาพ</string>
+    <string name="path_setting_cast_demo">การเชื่อมต่อและแชร์/ฉายภาพ/การสาธิต</string>
+    <string name="path_setting_cast_demo_document">การเชื่อมต่อและแชร์/ฉายภาพ/การสาธิต/เอกสาร</string>
+    <string name="path_setting_cast_demo_gallery">การเชื่อมต่อและแชร์/ฉายภาพ/การสาธิต/รูปภาพและวีดีโอ</string>
+    <string name="path_setting_cast_demo_game">การเชื่อมต่อและแชร์/ฉายภาพ/การสาธิต/เกมส์</string>
+    <string name="path_setting_cast_feature">การเชื่อมต่อและแชร์/ฉายภาพ/คุณลักษณะพิเศษ</string>
+    <string name="path_setting_cast_help">การเชื่อมต่อและแชร์/ฉายภาพ/ช่วยเหลือ</string>
     <string name="pm">PM</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacy_agree">ยอมรับ</string>
@@ -383,6 +397,13 @@
     <string name="toast_turn_off_hotspot_before_cast">ปิดฮอตสปอตแบบพกพาก่อนที่จะฉายภาพ</string>
     <string name="today">วันนี้</string>
     <string name="tomorrow">พรุ่งนี้</string>
+    <string name="trust_device_desc">อุปกรณ์เหล่านี้จะปรากฏที่นี่ก่อนเมื่ออยู่ใกล้ๆ</string>
+    <string name="trust_device_dialog_desc">&lt;Data>%s จะปรากฏขึ้นในอุปกรณ์ที่มีก่อนเมื่ออยู่ใกล้ๆ หากคุณทำเครื่องหมายว่าเชื่อถือได้&lt;br>&lt;br>คุณสามารถ &lt;a href=milink://com.milink.service/trust>จัดการอุปกรณ์ที่เชื่อถือได้&lt;/a> ในการตั้งค่า&lt;/Data></string>
+    <string name="trust_device_dialog_pos">เชื่อถือ</string>
+    <string name="trust_device_dialog_title">เชื่อถืออุปกรณ์นี้?</string>
+    <string name="trust_device_manager">จัดการอุปกรณ์ที่เชื่อถือได้</string>
+    <string name="trust_device_none">ไม่มีอุปกรณ์ที่เชื่อถือได้ที่นี่</string>
+    <string name="trust_device_title">อุปกรณ์ที่เชื่อถือได้</string>
     <string name="tuesday">วันอังคาร</string>
     <string name="tuesday_short">อังคาร</string>
     <string name="tuesday_shortest">อังคาร</string>

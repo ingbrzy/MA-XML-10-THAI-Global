@@ -78,6 +78,9 @@
     <plurals name="usage_state_unlock_count">
         <item quantity="other">%d ครั้ง</item>
     </plurals>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">เฉลี่ย %.2f ครั้ง</item>
+    </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">วันหยุดสุดสัปดาห์: %d ชั่วโมง</item>
     </plurals>

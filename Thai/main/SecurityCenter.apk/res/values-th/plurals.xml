@@ -60,8 +60,14 @@
     <plurals name="app_usage_year">
         <item quantity="other">ใช้เมื่อ %d ปีก่อน</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">คุณสามารถใช้การล็อกแอปกับแอป %1$s ได้</item>
+    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">คุณสามารถป้องกันได้อย่างน้อย %s แอป</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s แอปจะได้รับการป้องกันด้วย ล็อกแอป</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d แอป สามารถเชื่อมต่อกับเครือข่ายในพื้นหลังได้</item>
@@ -218,6 +224,12 @@
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d แอป รวมถึง %1$s กำลังกินแบต</item>
     </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d ปัญหาการใช้งานแบตเตอรี่</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">เพิ่มประสิทธิภาพ %d รายการเพื่อประหยัดแบตเตอรี่</item>
+    </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">ตรวจเช็คครั้งล่าสุดเมื่อ %d วันก่อน</item>
     </plurals>
@@ -302,14 +314,44 @@
     <plurals name="people_million">
         <item quantity="other">ดาวน์โหลดไปแล้ว %1$d คน</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">ครั้ง</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d ปัญหาการใช้งานแบตเตอรี่</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d วัน "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" ชม."</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" นาที"</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">ชาร์จอุปกรณ์ของคุณให้เต็มอย่างน้อย %2$d ครั้งเพื่อรับสถิติที่แม่นยำ</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ชม. "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d นาที "</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">แก้ไข %d ปัญหาการใช้แบตเตอรี่</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">คุณสามารถแก้ไข %d ปัญหาการใช้งานแบตเตอรี่ได้</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d รายการที่สามารถเพิ่มประสิทธิภาพได้"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">เพิ่มประสิทธิภาพ %d รายการเพื่อประหยัดแบตเตอรี่</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">คุณสามารถเพิ่มประสิทธิภาพ %d รายการเพื่อประหยัดแบตเตอรี่ได้</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d ℃</item>
@@ -337,6 +379,12 @@
     </plurals>
     <plurals name="power_off_warning_notification_message">
         <item quantity="other">อุปกรณ์ของคุณจะปิดตัวภายใน %d วินาที โปรดเชื่อมต่อที่ชาร์จ</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d แอปเริ่มอัตโนมัติบ่อย</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d แอปสูบพลังงานจากแบตเตอรี่</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d ไอคอนแอปถูกซ่อน</item>

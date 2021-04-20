@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">กล้อง</string>
     <string name="accessibility_carrier_network_change_mode">แก้ไขผู้ให้บริการเครือข่าย</string>
     <string name="accessibility_cast_name">เชื่อมต่อไปยัง %s แล้ว</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">หยุดการฉายภาพหน้าจอ</string>
     <string name="accessibility_cell_data">ข้อมูลมือถือ</string>
     <string name="accessibility_cell_data_off">ข้อมูลมือถือปิด</string>
@@ -114,6 +115,7 @@
     <string name="accessibility_ethernet_connected">เชื่อมต่ออีเธอร์เน็ตแล้ว</string>
     <string name="accessibility_ethernet_disconnected">ตัดการเชื่อมต่ออีเธอร์เน็ตแล้ว</string>
     <string name="accessibility_expand_button">แสดงเพิ่มเติม</string>
+    <string name="accessibility_face_dialog_face_icon">ไอคอนใบหน้า</string>
     <string name="accessibility_fingerprint_dialog_app_icon">ไอคอนแอปพลิเคชัน</string>
     <string name="accessibility_fingerprint_dialog_fingerprint_icon">ไอคอนลายนิ้วมือ</string>
     <string name="accessibility_fingerprint_dialog_help_area">พื้นที่ข้อความช่วยเหลือ</string>
@@ -387,6 +389,38 @@
     <string name="battery_saver_notification_text">ลดประสิทธิภาพและข้อมูลพื้นหลัง</string>
     <string name="battery_saver_notification_title">ตัวประหยัดแบตเตอรี่เปิดใช้งาน</string>
     <string name="battery_saver_start_action">เปิดใช้งานตัวประหยัดแบตเตอรี่</string>
+    <string name="biometric_dialog_authenticated">ตรวจสอบสิทธิ์แล้ว</string>
+    <string name="biometric_dialog_confirm">ยืนยัน</string>
+    <string name="biometric_dialog_credential_attempts_before_wipe">ลองอีกครั้ง ความพยายามครั้งที่ %1$d จาก %2$d</string>
+    <string name="biometric_dialog_credential_too_many_attempts">"ดำเนินการไม่ถูกต้องหลายครั้งเกินไป
+ลองอีกครั้งใน %d วินาที"</string>
+    <string name="biometric_dialog_empty_space_description">แตะเพื่อยกเลิกการตรวจสอบสิทธิ์</string>
+    <string name="biometric_dialog_face_icon_description_authenticated">ตรวจสอบสิทธิ์ใบหน้าแล้ว</string>
+    <string name="biometric_dialog_face_icon_description_authenticating">กำลังมองหาใบหน้าของคุณ</string>
+    <string name="biometric_dialog_face_icon_description_confirmed">ยืนยันแล้ว</string>
+    <string name="biometric_dialog_face_icon_description_idle">โปรดลองอีกครั้ง</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_device">ใช้ความพยายามหลายครั้งเกินไป ระบบจะลบข้อมูลในอุปกรณ์เครื่องนี้</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_profile">ใช้ความพยายามหลายครั้งเกินไป ระบบจะลบโปรไฟล์งานนี้และข้อมูลในโปรไฟล์</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_user">ใช้ความพยายามหลายครั้งเกินไป ระบบจะลบผู้ใช้รายนี้</string>
+    <string name="biometric_dialog_last_attempt_before_wipe_dialog_title">ระบบจะลบข้อมูลของคุณ</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_device">หากคุณป้อนรหัสผ่านไม่ถูกต้องในความพยายามครั้งถัดไป ระบบจะลบข้อมูลในอุปกรณ์เครื่องนี้</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_profile">หากคุณป้อนรหัสผ่านไม่ถูกต้องในความพยายามครั้งถัดไป ระบบจะลบโปรไฟล์งานและข้อมูลในโปรไฟล์</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_user">หากคุณป้อนรหัสผ่านไม่ถูกต้องในความพยายามครั้งถัดไป ระบบจะลบผู้ใช้รายนี้</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_device">หากคุณป้อนรูปแบบไม่ถูกต้องในความพยายามครั้งถัดไป ระบบจะลบข้อมูลในอุปกรณ์เครื่องนี้</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_profile">หากคุณป้อนรูปแบบไม่ถูกต้องในความพยายามครั้งถัดไป ระบบจะลบโปรไฟล์งานและข้อมูลในโปรไฟล์</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_user">หากคุณป้อนรูปแบบไม่ถูกต้องในความพยายามครั้งถัดไป ระบบจะลบผู้ใช้รายนี้</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_device">หากคุณป้อน PIN ไม่ถูกต้องในความพยายามครั้งถัดไป ระบบจะลบข้อมูลในอุปกรณ์เครื่องนี้</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_profile">หากคุณป้อน PIN ไม่ถูกต้องในความพยายามครั้งถัดไป ระบบจะลบโปรไฟล์งานและข้อมูลในโปรไฟล์</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_user">หากคุณป้อน PIN ไม่ถูกต้องในความพยายามครั้งถัดไป ระบบจะลบผู้ใช้รายนี้</string>
+    <string name="biometric_dialog_now_wiping_dialog_dismiss">ปิด</string>
+    <string name="biometric_dialog_tap_confirm">แตะยืนยันเพื่อดำเนินการให้เสร็จสมบูรณ์</string>
+    <string name="biometric_dialog_try_again">ลองอีกครั้ง</string>
+    <string name="biometric_dialog_use_password">ใช้รหัสผ่าน</string>
+    <string name="biometric_dialog_use_pattern">ใช้รูปแบบ</string>
+    <string name="biometric_dialog_use_pin">ใช้ PIN</string>
+    <string name="biometric_dialog_wrong_password">รหัสผ่านไม่ถูกต้อง</string>
+    <string name="biometric_dialog_wrong_pattern">รูปแบบไม่ถูกต้อง</string>
+    <string name="biometric_dialog_wrong_pin">PIN ไม่ถูกต้อง</string>
     <string name="blob_expires_text">หมดอายุเมื่อ %s</string>
     <string name="blob_id_text">ID ข้อมูลที่แชร์: %d</string>
     <string name="block">บล็อกการแจ้งเตือนทั้งหมด</string>
@@ -704,6 +738,7 @@
     <string name="ext_media_unmountable_notification_title">ที่เก็บข้อมูล USB ชำรุด</string>
     <string name="external_source_trusted">อนุญาตแล้ว</string>
     <string name="external_source_untrusted">ไม่ได้รับอนุญาต</string>
+    <string name="face_dialog_looking_for_face">กำลังหาใบหน้าคุณ…</string>
     <string name="face_unlock_be_on_the_screen">ถืออุปกรณ์ไว้ข้างหน้าใบหน้าของคุณ</string>
     <string name="face_unlock_check_failed">ใบหน้าไม่ตรงกัน</string>
     <string name="face_unlock_fail">ไม่สามารถยืนยันใบหน้า</string>
@@ -711,8 +746,11 @@
     <string name="face_unlock_fail_retry_global">แตะด้านบนเพื่อใช้การปลดล็อกด้วยใบหน้า</string>
     <string name="face_unlock_not_found">ใบหน้าไม่ตรงกัน</string>
     <string name="face_unlock_open_eye">เปิดตาให้กว้างขึ้น</string>
+    <string name="face_unlock_password_and_fingerprint">ป้อนรหัสผ่านหรือใช้ลายนิ้วมือเพื่อปลดล็อก</string>
     <string name="face_unlock_passwork">ใช้รหัสผ่าน</string>
     <string name="face_unlock_passwork_and_fingerprint">ใช้รหัสผ่านหรือลายนิ้วมือ</string>
+    <string name="face_unlock_pattern_and_fingerprint">วาดรูปแบบหรือใช้ลายนิ้วมือเพื่อปลดล็อก</string>
+    <string name="face_unlock_pin_and_fingerprint">ป้อน PIN หรือใช้ลายนิ้วมือเพื่อปลดล็อก</string>
     <string name="face_unlock_reveal_eye">กรุณาเปิดตาให้มองเห็น</string>
     <string name="face_unlock_reveal_mouth">กรุณาหันให้เห็นปากของคุณ</string>
     <string name="failed_to_open_app_settings_toast">เปิดการตั้งค่า %1$s ไม่ได้</string>
@@ -838,6 +876,9 @@
     <string name="inactive_apps_title">แอปแสตนด์บาย</string>
     <string name="incorrect_pincode">รหัส PIN ไม่ถูกต้อง</string>
     <string name="incorrect_pukcode">รหัส PUK ไม่ถูกต้อง</string>
+    <string name="input_lockscreen_password_hint_text">ป้อนรหัสผ่าน</string>
+    <string name="input_lockscreen_pattern_hint_text">วาดรูปแบบ</string>
+    <string name="input_lockscreen_pin_hint_text">ป้อนรหัส PIN</string>
     <string name="input_password_after_boot_msg">เพื่อปลดล็อกอุปกรณ์ กรุณาป้อนรหัสผ่าน</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ไม่สามารถสลับระหว่างพื้นที่ขณะโทรได้</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">ไม่สามารถสลับระหว่างพื้นที่เมื่อการควบคุมโดยผู้ปกครองเปิดอยู่</string>
@@ -923,6 +964,10 @@
     <string name="keyguard_charging_back_to_lockscreen">กลับไปที่หน้าจอล็อก</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">ใช้แบตเตอรี่</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">สัดส่วนการใช้แบต</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">วันนี้ %s</string>
@@ -950,6 +995,7 @@
     <string name="keyguard_missing_sim_instructions_long">ไม่พบซิมการ์ดหรืออ่านซิมการ์ดไม่ได้ กรุณาใส่ซิมการ์ด</string>
     <string name="keyguard_missing_sim_message">ไม่พบซิมการ์ดในเครื่อง</string>
     <string name="keyguard_missing_sim_message_short">ไม่พบซิมการ์ด</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">เครือข่ายถูกล็อกไว้</string>
     <string name="keyguard_password_enter_password_code">ป้อนรหัสผ่านเพื่อปลดล็อก</string>
     <string name="keyguard_password_enter_pin_code">ป้อนรหัส PIN</string>
@@ -966,6 +1012,7 @@
     <string name="keyguard_plugged_in_charging_fast">กำลังชาร์จเร็ว</string>
     <string name="keyguard_plugged_in_charging_slowly">กำลังชาร์จช้า</string>
     <string name="keyguard_quick_charging_info_click_to_detail">กำลังชาร์จแบบเร็ว แตะเพื่อดูรายละเอียด</string>
+    <string name="keyguard_retry">เลื่อนขึ้นเพื่อลองอีกครั้ง</string>
     <string name="keyguard_sim_locked_message">ซิมการ์ดถูกล็อกแล้ว</string>
     <string name="keyguard_sim_puk_locked_message">ซิมการ์ดถูกล็อกแบบ PUK</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">กำลังปลดล็อกซิมการ์ด…</string>
@@ -1034,6 +1081,7 @@
     <string name="left_keycode">คีย์โค๊ดซ้าย</string>
     <string name="left_nav_bar_button_type">ประเภทปุ่มซ้ายพิเศษ</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="loading_injected_setting_summary">รอสักครู่…</string>
     <string name="local_backup_password_summary_change">แตะเพื่อแก้ไขหรือลบรหัสผ่านสำหรับการสำรองข้อมูลหน้าจอหลักเต็มรูปแบบ</string>
     <string name="local_backup_password_summary_none">การสำรองข้อมูลเต็มหน้าจอหลักยังไม่ได้รับการปกป้อง</string>
@@ -1113,6 +1161,7 @@ d MMMM"</string>
     <string name="miui_guide_dialog_message">เสียงสื่อ (เพลง วิดีโอ ฯลฯ) จะยังคงเล่นในโหมดปิดเสียง คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ปลดล็อกโดยใช้อุปกรณ์บลูทูธ</string>
     <string name="miui_ringer_count_down">นับถอยหลัง</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">ปิดเสียง</string>
     <string name="miui_ringer_standard_description">ปิดเสียงเรียกเข้าสำหรับสายเรียกเข้าและการแจ้งเตือน</string>
     <string name="miui_ringer_total">ห้ามรบกวน</string>
@@ -1148,12 +1197,14 @@ d MMMM"</string>
 
 สำหรับข้อมูลเพิ่มเติมโปรดติดต่อผู้ดูแลระบบของคุณ"</string>
     <string name="monitoring_description_ca_cert_settings">เปิดหนังสือรับรองที่เชื่อถือได้</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">ผู้ให้บริการออกใบรับรองถูกติดตั้งบนอุปกรณ์นี้ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_do_body">ผู้ดูแลระบบของคุณสามารถตรวจสอบและจัดการการตั้งค่า การเข้าถึงองค์กร แอป ข้อมูลที่เกี่ยวข้องกับอุปกรณ์และข้อมูลตำแหน่งของอุปกรณ์ของคุณได้</string>
     <string name="monitoring_description_do_body_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ของคุณได้</string>
     <string name="monitoring_description_do_header_generic">อุปกรณ์ของคุณมีการจัดการโดย %1$s</string>
     <string name="monitoring_description_do_header_with_name">%1$s ใช้ %2$s เพื่อจัดการอุปกรณ์ของคุณ</string>
     <string name="monitoring_description_do_learn_more">เรียนรู้เพิ่มเติม</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">องค์กรของคุณได้ติดตั้งผู้ออกใบรับรองในโปรไฟล์งานของคุณ การเข้าชมเครือข่ายที่ปลอดภัยของคุณอาจได้รับการตรวจสอบหรือแก้ไข</string>
     <string name="monitoring_description_managed_profile_named_vpn">โปรไฟล์งานของคุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายรวมถึงอีเมล แอป และเว็บไซต์ได้</string>
     <string name="monitoring_description_management">"อุปกรณ์ของคุณมีการจัดการโดยองค์กรของคุณ 
@@ -1185,6 +1236,7 @@ d MMMM"</string>
 
  คุณเชื่อมต่อกับ VPN ซึ่งสามารถตรวจสอบกิจกรรมเครือข่ายของคุณได้"</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">ใบรับรอง CA</string>
     <string name="monitoring_subtitle_network_logging">บันทึกข้อมูลระบบเครือข่าย</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1223,6 +1275,7 @@ d MMMM"</string>
     <string name="nav_guide_message">ใช้ท่าทางเพื่อซ่อน/แสดงปุ่มซอฟท์</string>
     <string name="nav_guide_ok">ติดตั้ง</string>
     <string name="nav_guide_title">ซ่อนปุ่มซอฟท์</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">ไม่มี</string>
     <string name="no_multi_window_app">ไม่มีแอปซึ่งรองรับการแบ่งหน้าจอ</string>
     <string name="no_notification_tips">ไม่มีการแจ้งเตือน</string>
@@ -1394,6 +1447,7 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">ชื่อผู้ให้บริการ DNS ส่วนตัว</string>
     <string name="private_dns_mode_provider_failure">ไม่สามารถเชื่อมต่อได้</string>
     <string name="private_dns_mode_provider_hostname_hint">ป้อนผู้ให้บริการ DNS ส่วนตัว</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">ปัญหาการเชื่อมต่อ ปิดและเปิดอุปกรณ์</string>
     <string name="profile_info_settings_title">ข้อมูลโปรไฟล์</string>
     <string name="profile_owned_footer">โปรไฟล์อาจได้รับการตรวจสอบ</string>
@@ -1540,7 +1594,6 @@ d MMMM"</string>
     <string name="quick_settings_wifi_not_connected">ไม่ได้เชื่อมต่อ</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi ปิดอยู่</string>
     <string name="quick_settings_wifi_on_label">Wi-Fi เปิดอยู่</string>
-    <string name="quick_settings_wireless_label">ย้อนกลับการชาร์จแบบไร้สาย</string>
     <string name="quick_settings_work_mode_label">โหมดทำงาน</string>
     <string name="rapid_charge_mode_tip">ชาร์จด่วน</string>
     <string name="recent_cannot_dock">ไม่สามารถใช้หน้าจอแยกในพื้นที่ทับซ้อนได้</string>
@@ -1997,6 +2050,7 @@ d MMM"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimal</string>
     <string name="wapi_yes">ใช่</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">อัปเดตล่าสุด %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">จุดเข้าใช้งานชั่วคราวเต็มรูปแบบ</string>
     <string name="wifi_auto_sel_wapi_cert">เลือกโดยอัตโนมัติ</string>
@@ -2073,15 +2127,6 @@ d MMM"</string>
     <string name="wireless_charge_reset_device">ชาร์จช้า ปรับอุปกรณ์ของคุณ</string>
     <string name="wireless_charge_reset_device_detail">ตรวจสอบให้แน่ใจว่าตำแหน่งของอุปกรณ์ของคุณอยู่บนที่แท่นชาร์จอย่างถูกต้อง</string>
     <string name="wireless_charge_stop">หยุดการชาร์จไร้สาย</string>
-    <string name="wireless_charging_connected_message">ไม่สามารถใช้การชาร์จแบบไร้สายย้อนกลับเมื่ออุปกรณ์ของคุณกำลังชาร์จแบบไร้สาย</string>
-    <string name="wireless_charging_low_battery_level_message">ไม่สามารถใช้การชาร์จแบบไร้สายย้อนกลับได้เมื่อแบตเตอรี่ชาร์จน้อยกว่า 30%</string>
-    <string name="wireless_charging_ok">เข้าใจแล้ว</string>
-    <string name="wireless_charging_saver_cancel">ปิดใช้งาน</string>
-    <string name="wireless_charging_saver_message">เปิดใช้งานตัวประหยัดแบตเตอรี่แล้ว รักษาการชาร์จแบบไร้สายกลับใช้ได้หรือไม่?</string>
-    <string name="wireless_charging_saver_ok">เก็บไว้</string>
-    <string name="wireless_charging_tips_disable">ไม่ต้องแสดงอีก</string>
-    <string name="wireless_charging_tips_message">วางอุปกรณ์ที่รองรับการชาร์จแบบไร้สาย Qi (โทรศัพท์อุปกรณ์เสริม ฯลฯ) ที่ด้านหลังของอุปกรณ์นี้</string>
-    <string name="wireless_charging_tips_title">ย้อนกลับการชาร์จแบบไร้สาย</string>
     <string name="wrong_password">รหัสผ่านไม่ถูกต้อง</string>
     <string name="zen_alarm_warning">คุณจะไม่ได้ยินเสียงปลุก %1$s</string>
     <string name="zen_alarm_warning_indef">คุณจะไม่ได้ยินเสียงปลุก %1$s จนกว่าคุณจะปิดการทำงานนี้ก่อน</string>

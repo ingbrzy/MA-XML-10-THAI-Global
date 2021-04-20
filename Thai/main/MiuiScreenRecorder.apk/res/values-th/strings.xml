@@ -31,7 +31,10 @@
     <string name="afternoon">บ่าย</string>
     <string name="am">AM</string>
     <string name="app_name">บันทึกวิดีโอหน้าจอ</string>
+    <string name="app_notification_channel_record_complete">Notifications about finished recordings</string>
     <string name="app_notification_info">เครื่องบันทึกหน้าจอทำงานอยู่ด้านหลัง</string>
+    <string name="app_notification_record_complete">"Saved screen recording to Gallery
+Tap to view"</string>
     <string name="app_notification_title">บันทึกวิดีโอหน้าจอ</string>
     <string name="auto_stop_title">บันทึกวิดีโอเรียบร้อย</string>
     <string name="battery_not_allowed" formatted="false">ไม่สามารถบันทึกได้เมื่อแบตเตอรี่ต่ำกว่า 3% ตรวจสอบให้แน่ใจว่าแบตเตอรี่เหลืออย่างน้อย 20%</string>
@@ -313,7 +316,7 @@
     <string name="using_record_confirm_ok">อนุญาต</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
-    <string name="warning_recording_when_a2dp_connect">อุปกรณ์ของคุณไม่รอบรับกับระบบบันทึกเสียงขณะที่กำลังใช้ชุดหูฟังบลูทูธ</string>
+    <string name="warning_recording_when_a2dp_connect">อุปกรณ์ของคุณไม่รอบรับกับระบบบันทึกเสียงขณะที่กำลังใช้หูฟัง Headset บลูทูธ</string>
     <string name="wednesday">วันพุธ</string>
     <string name="wednesday_short">พุธ</string>
     <string name="wednesday_shortest">พุธ</string>

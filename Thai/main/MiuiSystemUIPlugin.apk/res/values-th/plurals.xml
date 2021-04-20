@@ -27,6 +27,9 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">เพิ่มแล้ว %s การควบคุม</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>

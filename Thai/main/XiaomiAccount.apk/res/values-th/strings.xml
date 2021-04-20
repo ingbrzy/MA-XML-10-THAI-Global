@@ -183,6 +183,7 @@ ID:%s
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_app_id">2263965750590514</string>
+    <string name="facebook_login">ลงชื่อเข้าใช้ด้วย Facebook</string>
     <string name="failed_dup_secure_phone_number">หมายเลขโทรศัพท์นี้ได้ถูกผูกไว้กับบัญชี Mi อื่นอยู่ก่อนแล้ว</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">ค้นหาอุปกรณ์</string>
@@ -219,6 +220,7 @@ ID:%s
     <string name="get_phone_bind_exceed_limit">คุณสามารถผูกหมายเลขโทรศัพท์กับบัญชี Mi ได้เกิน 3 บัญชี ไม่สามารถเพิ่มบัญชีใหม่ได้</string>
     <string name="get_phone_verifycode_exceed_limit">มีการส่งรหัสยืนยันมายังหมายเลขโทรศัพท์นี้เกินจำนวนครั้งที่กำหนด กรุณารอ 24 ชั่วโมงแล้วลองใหม่อีกครั้ง</string>
     <string name="google">Google</string>
+    <string name="google_login">ลงชื่อเข้าใช้ด้วย Google</string>
     <string name="guest_account_label">บัญชีโหมดเยี่ยมชม Mi</string>
     <string name="health_action_activate">เปิดใช้งาน</string>
     <string name="health_action_install">ติดตั้ง</string>
@@ -384,6 +386,7 @@ ID:%s
     <string name="passport_login_instead_reg">ใช้เลขหมายนี้</string>
     <string name="passport_login_instead_reg_with_email">ใช้อีเมลนี้</string>
     <string name="passport_login_other_account">บัญชีอื่น</string>
+    <string name="passport_login_other_way">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
     <string name="passport_login_prompt">บริการ Mi ทั้งหมด หนึ่งบัญชี Mi</string>
     <string name="passport_login_recycle_account_no">ไม่ใช่</string>
     <string name="passport_login_recycle_account_yes">ใช่</string>
@@ -401,6 +404,10 @@ ID:%s
     <string name="passport_prev">ย้อนกลับ</string>
     <string name="passport_privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="passport_privacy_policy_required">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">ซิม <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">ซิม <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_input_email_register_prompt">ข้อมูลส่วนบุคคลของคุณจะถูกจัดเก็บตามกฎหมายและข้อบังคับของภูมิภาคที่คุณเลือก</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> อักขระอย่างน้อย <xliff id="min_pwd_type" refersto="2">%3$d</xliff> ประเภทต่อไปนี้: ตัวอักษรตัวเลขสัญลักษณ์พิเศษ</string>
     <string name="passport_pwd_generate_failure">ไม่สามารถสร้างรหัสผ่านได้</string>
     <string name="passport_pwd_generating">กำลังสร้าง…</string>
     <string name="passport_querying_phone_info">กำลังขอข้อมูลบัญชี…</string>
@@ -436,6 +443,7 @@ ID:%s
     <string name="passport_register_restricted_title">ไม่สามารถใช้หมายเลขโทรศัพท์นี้ได้</string>
     <string name="passport_register_using_other_ways">สร้างบัญชีด้วยวิธีอื่น</string>
     <string name="passport_registered_phone_num">โทรศัพท์: %s</string>
+    <string name="passport_registered_phone_num_v2">หมายเลขโทรศัพท์</string>
     <string name="passport_registered_phone_user_ID">ID ผู้ใช้: %s</string>
     <string name="passport_registered_phone_user_name">ชื่อผู้ใช้: %s</string>
     <string name="passport_reject_recycle_account">ไม่ใช่</string>
@@ -512,6 +520,9 @@ ID:%s
     <string name="phone_num_use_for">หมายเลขโทรศัพท์ใช้สำหรับ:</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพที่พร้อมใช้งาน</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
+    <string name="provision_back">ย้อนกลับ</string>
+    <string name="provision_next">ถัดไป</string>
+    <string name="provision_skip_underline">ข้าม</string>
     <string name="push_notification_content">รับรหัสยืนยัน</string>
     <string name="push_notification_title">คุณได้ลงชื่อเข้าใช้บัญชี Mi ของคุณบนอุปกรณ์ที่ไม่รู้จัก</string>
     <string name="push_notify_dialog_message">มีอุปกรณ์ที่ไม่รู้จักได้ลงชื่อเข้าใช้บัญชี Mi ของคุณ ป้อนรหัสยืนยันกับอุปกรณ์ หากไม่ใช่คุณ กรุณาแก้ไขรหัสผ่านบัญชี Mi ของคุณ และไม่ควรบอกรหัสยืนยันกับบุคคลอื่นๆ</string>

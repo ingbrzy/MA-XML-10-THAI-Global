@@ -20,6 +20,11 @@
         <item>ภาพพื้นหลัง/สุดยอดภาพพื้นหลัง/วงแหวนดาวเสาร์</item>
         <item>ดาวเคราะห์;ดาวเสาร์;สุดยอดภาพพื้นหลัง;ภาพพื้นหลัง</item>
     </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>ยอดเขาหิมะ</item>
+        <item>ภาพพื้นหลัง/ภาพพื้นหลังความละเอียดสูง/ยอดเขาหิมะ</item>
+        <item>โลก;ภูเขา;สุดยอดภาพพื้นหลัง;ภาพพื้นหลัง</item>
+    </string-array>
     <string-array name="settings_search_superwp">
         <item>ภาพพื้นหลังความละเอียดสูง</item>
         <item>ภาพพื้นหลัง/ภาพพื้นหลังความละเอียดสูง</item>

@@ -26,6 +26,18 @@
         <item>สำรองข้อมูลการตั้งค่าที่สำคัญ รวมไปถึง WLAN และการแสดงผล</item>
         <item>ล็อกอุปกรณ์จากระยะไกลหากอุปกรณ์สูญหาย</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>ซิงค์รายชื่อ ข้อความ บันทึกย่อ ปฏิทิน และอื่นๆของคุณ</item>
+        <item>สำรองข้อมูลแอป การจัดเรียงหน้าจอหลัก และภาพพื้นหลัง</item>
+        <item>สำรองข้อมูลการตั้งค่าที่สำคัญ รวมไปถึง Wi-Fi และการแสดงผล</item>
+        <item>ล็อกอุปกรณ์จากระยะไกลหากอุปกรณ์สูญหาย</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>ซิงค์ข้อมูลแอป</item>
         <item>สำรองข้อมูลการจัดวางหน้าจอหลัก</item>
@@ -95,6 +107,11 @@
         <item>เพลง;คลาวด์;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์</item>
     </string-array>
     <string-array name="settings_search_notes">
+        <item>ซิงค์บันทึกย่อด้วย Xiaomi คลาวด์</item>
+        <item>เปิดใช้งานซิงค์</item>
+        <item>บันทึกย่อ;คลาวด์;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
         <item>ซิงค์บันทึกย่อด้วย Xiaomi คลาวด์</item>
         <item>เปิดใช้งานซิงค์</item>
         <item>บันทึกย่อ;คลาวด์;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์</item>

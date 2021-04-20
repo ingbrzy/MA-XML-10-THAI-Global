@@ -75,6 +75,7 @@
     <string name="btn_retry">ตรวจสอบอีกครั้ง</string>
     <string name="btn_skip">ข้ามขั้นตอนนี้</string>
     <string name="button_cancel">ยกเลิก</string>
+    <string name="button_confirm">รับทราบ</string>
     <string name="button_delete">ลบ</string>
     <string name="button_next">ถัดไป</string>
     <string name="can_not_backup_in_lite_mode">ไม่สามารถสำรองข้อมูลโหมดง่ายได้</string>
@@ -178,7 +179,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="get_device_id_error">ไม่สามารถรับรหัสอุปกรณ์ได้</string>
     <string name="help_and_feedback">ช่วยเหลือและข้อเสนอแนะ</string>
-    <string name="hint_restore_cross_space">การจัดเรียงหน้าจอหลักอาจไม่แสดงผลอย่างถูกต้องหากคุณถ่ายโอนรายการระหว่างพื้นที่</string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">ชุดเรียกใช้ระบบอื่นๆ</string>
     <string name="home_restore_error">ไม่สามารถกู้คืนหน้าจอหลักได้</string>
@@ -192,7 +192,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="menu_item_sort">เรียงตาม</string>
     <string name="menu_item_sort_name">ชื่อ</string>
     <string name="menu_item_sort_size">ขนาด</string>
-    <string name="msg_alert_cancel_restore">เรียกคืนรายการ หยุดเดี๋ยวนี้?</string>
+    <string name="msg_alert_cancel_restore">กำลังกู้คืนรายการจาก Xiaomi คลาวด์ ยกเลิกเลยไหม?</string>
     <string name="msg_alert_restore_error">ไม่สามารถคืนค่ารายการจาก Xiaomi คลาวด์ได้ ลองอีกครั้ง</string>
     <string name="msg_restore_start_with_metered_network">"หน้าจอหลักของคุณจะถูกเปิดใหม่ แอปสำรองจะถูกดาวน์โหลดโดยอัตโนมัติ &lt;br />&lt;b>&lt;font color='red'>%s ของไฟล์จะถูกดาวน์โหลด &lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">หากคุณดำเนินการกู้คืนรายการเหล่านี้ ข้อมูลมือถือจะถูกใช้สำหรับการดาวน์โหลด</string>
@@ -206,12 +206,18 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">สับสวิทช์สำรอง</string>
     <string name="other_device_main_space">พื้นที่ปกติ</string>
     <string name="other_device_second_space">พื้นที่ทับซ้อน</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
+    <string name="pc_mode_not_support_restore_warning">ไม่สามารถกู้คืนรายการในโหมดพีซี ปิดโหมดพีซีแล้วลองอีกครั้ง</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="process_whole_recovery">กำลังเรียกคืนค่า \"%s\"</string>
+    <string name="provision_back">ย้อนกลับ</string>
     <string name="provision_background_restore_more_data">เรียกคืนค่ารายการเพิ่มเติมในพื้นหลัง</string>
     <string name="provision_error_connect_msg">ทดสอบเครือข่ายแล้วลองอีกครั้ง การสำรองข้อมูลไม่สามารถใช้ได้เมื่ออุปกรณ์ของคุณออฟไลน์</string>
     <string name="provision_error_connect_title">ไม่สามารถเชื่อมต่อได้</string>
+    <string name="provision_next">ถัดไป</string>
     <string name="provision_restore_data">รายการเรียกคืนค่า</string>
+    <string name="provision_skip_underline">ข้าม</string>
     <string name="query_restore_description">คืนค่าแอปบนหน้าจอหลักและการตั้งค่าโดยใช้การสำรองข้อมูลนี้ โดยจะแทนที่ข้อมูลแอปสำหรับแอปซ้ำกันที่ติดตั้งอยู่บนอุปกรณ์นี้ แอปที่ไม่รวมอยู่ในข้อมูลสำรองจะถูกย้ายไปไว้หน้าสุดท้ายของหน้าจอหลัก</string>
     <string name="query_restore_summary">พบการสำรองข้อมูล Xiaomi คลาวด์สำหรับอุปกรณ์เครื่องนี้ คุณต้องการเรียกคืนค่าแอปบนหน้าจอหลักและการตั้งค่าหรือใช้สำหรับเครื่องอื่นและลบข้อมูลสำรองใน Xiaomi คลาวด์ก่อนหน้านี้?</string>
     <string name="recover_home_settings">เรียกคืนค่าการตั้งค่าหน้าจอหลัก</string>
@@ -248,14 +254,14 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="restore_home_failed">ไม่สามารถกู้คืนหน้าจอหลักได้</string>
     <string name="restore_home_screen_apps">เรียกคืนค่าจากข้อมูลสำรองในคลาวด์</string>
     <string name="restore_init_description">เริ่มการเรียกคืนค่า</string>
-    <string name="restore_network_pause">%s (แตะเพื่อทำต่อ)</string>
+    <string name="restore_network_pause">หยุดชั่วคราวเพื่อบันทึกข้อมูลมือถือ แตะเพื่อดำเนินการต่อ</string>
     <string name="restore_network_unconnect">%s (กำลังรอการเชื่อมต่อ)</string>
     <string name="restore_task_cancelling">กำลังยกเลิก…</string>
     <string name="restore_task_in_process">กำลังกู้คืนข้อมูล…</string>
     <string name="restore_task_unfinished">ไม่สามารถกู้คืนได้</string>
     <string name="restore_unfinished">กำลังกู้คืน ลองอีกครั้งในภายหลัง</string>
     <string name="restoring_data">กำลังคืนค่าข้อมูล…</string>
-    <string name="restoring_file_title_no_progress">กำลังเรียกคืนค่าไฟล์…</string>
+    <string name="restoring_file_title_no_progress">กำลังเรียกคืนค่าแอป…</string>
     <string name="restoring_home_screen_apps">กำลังเรียกคืนค่าจาก Xiaomi คลาวด์…</string>
     <string name="restoring_settings">กำลังเรียกคืนค่าการตั้งค่า…</string>
     <string name="retry">ลองใหม่</string>

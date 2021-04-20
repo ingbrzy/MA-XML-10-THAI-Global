@@ -380,6 +380,9 @@
         <item quantity="other">%1$d คำแนะนำ</item>
         <item quantity="one">1 คำแนะนำ</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">รับการแจ้งเตือนเมื่อใดก็ตามที่หูฟังของคุณอยู่ห่างจากหูหรือเคสชาร์จนานเกิน %d นาที</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d รายการ</item>
         <item quantity="one">1 รายการ</item>

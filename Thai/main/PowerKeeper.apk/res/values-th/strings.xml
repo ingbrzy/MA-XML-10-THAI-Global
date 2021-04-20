@@ -47,7 +47,7 @@
     <string name="config_mode_title">การตั้งค่าพื้นหลัง</string>
     <string name="config_no_restrict_description">ตัวประหยัดแบตเตอรี่ไม่จำกัดการทำงานของแอป</string>
     <string name="config_no_restrict_title">ไม่มีการจำกัด</string>
-    <string name="config_restrict_function_description">บางคุณลักษณะ (เช่น การแจ้งเตือนแบบพุช) อาจได้รับผลกระทบ แต่แอปจะไปถูกปิด</string>
+    <string name="config_restrict_function_description">ปิดแอปหลังจากทำกิจกรรมเบื้องหลัง 10 นาที</string>
     <string name="config_restrict_function_title">จำกัดแอปบนพื้นหลัง</string>
     <string name="config_restrict_running_description">แอปจะถูกปิดเพื่อประหยัดหลังงาน</string>
     <string name="config_restrict_running_title">จำกัดการทำงานบนพื้นหลัง</string>

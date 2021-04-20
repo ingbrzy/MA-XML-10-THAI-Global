@@ -132,6 +132,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
+    <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">ค่าเริ่มต้นเสียงการปลุก</string>
     <string name="default_alarm_title">เสียงเริ่มต้น</string>
@@ -283,10 +284,13 @@
     <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
+    <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_select_all_description">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_select_item">เลือกรายการ</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
@@ -433,6 +437,7 @@
     <string name="search_stopwatch_keywords">นาฬิกาจับเวลา</string>
     <string name="search_timer_keywords">ตัวจับเวลา</string>
     <string name="search_worldclock_keywords">เวลา;นาฬิกาโลก;นาฬิกา</string>
+    <string name="send">ส่ง</string>
     <string name="set_alarm">เลือกเวลา</string>
     <string name="set_alarm_choose_ringtone">ใช้เป็นเสียงเรียกเข้า</string>
     <string name="set_alarm_done">เสร็จสิ้น</string>
@@ -452,6 +457,7 @@
     <string name="shutdown_alarm_enable_summary">เสียงปลุกจะดังหากตั้งไว้อย่างน้อย 10 นาทีหลังจากที่คุณปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="sleep_analysis">สถิติ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -494,6 +500,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_reset_notification">รีเซ็ตนาฬิกาจับเวลาแล้ว</string>
     <string name="stopwatch_running_notification">นาฬิกาจับเวลา</string>
@@ -502,6 +509,7 @@
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตเพื่อเข้าถึงคุณสมบัติทั้งหมดได้</string>
     <string name="system_permission_main_purpose">ดูเวลา ตั้งค่าการเตือนและตัวจับเวลา โดยใช้นาฬิกาจับเวลา</string>
     <string name="system_permission_purpose">การสร้างการเตือนวันทำงานและการตั้งค่าเสียงเรียกเข้าที่กำหนดเอง</string>
@@ -617,8 +625,12 @@
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
+    <string name="version_update_dialog_negative_desc">ไม่ใช่ตอนนี้</string>
+    <string name="version_update_dialog_positive_desc">อัปเดต</string>
+    <string name="version_update_dialog_title">อัปเดตพร้อมใช้งาน</string>
     <string name="vibrate_pref_summary">สั่นเมื่อมีเสียงปลุก</string>
     <string name="vibrate_when_ringing">สั่นเมื่อมีสายเรียกเข้า</string>
+    <string name="voice_add_alarm">เพิ่มการปลุกโดยใช้คำสั่งเสียง</string>
     <string name="volume_button_setting_desc">กำหนดฟังก์ชั่นสำหรับปุ่ม Power และ Volume +/-</string>
     <string name="volume_button_setting_summary">ตั้งฟังก์ชั่นปุ่มระดับเสียงระหว่างการปลุก</string>
     <string name="volume_button_setting_title">ปุ่มระดับเสียง</string>

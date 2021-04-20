@@ -423,6 +423,7 @@
     <string name="navigation_type_full_screen">ท่าทาง</string>
     <string name="navigation_type_title">การนำทางระบบ</string>
     <string name="navigation_type_virtual_key">ปุ่ม</string>
+    <string name="network_error">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ลองอีกครั้ง</string>
     <string name="no_detail_page">ไม่มีหน้ารายละเอียด</string>
     <string name="no_space_toast">พื้นที่ว่างไม่เพียงพอ</string>
     <string name="no_space_toast_when_click_widget">พื้นที่ไม่เพียงพอในหน้านี้ ลองลากรายการนี้ไปยังหน้าอื่น</string>
@@ -519,6 +520,8 @@
     <string name="remove_dialog_message">แอปที่เลือกมีคุณสมบัติของระบบที่จำเป็น คุณสามารถลบทางลัดบนหน้าจอหลักได้เท่านั้น</string>
     <string name="remove_dialog_title_format">ลบ \"%s\" ออกจากหน้าจอหลัก?</string>
     <string name="remove_invalidate_gadget_tips">หนึ่งในวิดเจ็ตที่คุณใช้ไม่สามารถใช้ได้อีกต่อไป คุณสามารถเพิ่มอันอื่นๆได้</string>
+    <string name="remove_sys_app_content">คุณจะสามารถเพิ่มทางลัดบนหน้าจอหลักได้อีกครั้งในการตั้งค่า > แอป > จัดการทางลัดบนหน้าจอหลัก ลบออกเลยไหม?</string>
+    <string name="remove_sys_app_title">ลบปุ่มลัดหน้าจอหลัก?</string>
     <string name="reset_cate_tip_content">หากคุณดำเนินการต่อ ค่าเริ่มต้นของกลุ่มแอปจะถูกคืนค่า ดำเนินการต่อหรือไม่?</string>
     <string name="reset_cate_tip_title">เรียกคืนค่ากลุ่มเริ่มต้น</string>
     <string name="reset_description_first_time">คุณสามารถคืนค่ารูปแบบจาก %1$s ภายใน 2 ชั่วโมง</string>
@@ -527,6 +530,7 @@
     <string name="reset_scene_prompt">หน้าจอจะรีเซ็ตการจัดหน้าเป็นค่าเริ่มต้น</string>
     <string name="reset_title">เรียกคืนค่า</string>
     <string name="restore_icon_successful">เพิ่มเรียบร้อย</string>
+    <string name="russia_preinstall_folder_name">รัสเซีย</string>
     <string name="screen_cells_config_title">รูปแบบหน้าจอหลัก</string>
     <string name="screen_locked_toast">การจัดเรียงหน้าจอหลักล็อกอยู่</string>
     <string name="screen_number">หน้าจอที่ %d</string>
@@ -536,6 +540,7 @@
     <string name="select_all">เลือกทั้งหมด</string>
     <string name="select_frame">กรอบภาพ</string>
     <string name="select_photo">รูปภาพ</string>
+    <string name="server_error">เซิร์ฟเวอร์ผิดพลาด กรุณารอสักครู่และลองอีกครั้ง</string>
     <string name="setting_wallpaper_tip">ปรับภาพโดยจีบนิ้วเข้าออกหรือปัด</string>
     <string name="settings">ตั้งค่า</string>
     <string name="settings_shortcut">การตั้งค่า</string>
@@ -563,6 +568,7 @@
     <string name="sort_by_not_defined">เรียงอัตโนมัติ</string>
     <string name="start_activity_failed">ชุดเรียกใช้ระบบไม่ทำงาน</string>
     <string name="starting_preset_app">กำลังเริ่ม…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">ใช้ได้ %1$s จากทั้งหมด %2$s</string>
     <string name="status_bar_recent_memory_info2" />

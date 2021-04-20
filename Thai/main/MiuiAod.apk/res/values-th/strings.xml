@@ -34,6 +34,12 @@
     <string name="add_custom_image">รูปภาพที่กำหนดเอง</string>
     <string name="add_from_album">เพิ่มจากคลังภาพ</string>
     <string name="afternoon">บ่าย</string>
+    <string name="align_center_horizontally">แนวนอนและจัดกึ่งกลาง</string>
+    <string name="align_center_vertically">เรียงซ้อนและจัดกึ่งกลาง</string>
+    <string name="align_left_horizontally">แนวนอนและจัดชิดซ้าย</string>
+    <string name="align_left_vertically">เรียงซ้อนและจัดชิดซ้าย</string>
+    <string name="align_right_horizontally">แนวนอนและจัดชิดขวา</string>
+    <string name="align_right_vertically">เรียงซ้อนและจัดชิดขวา</string>
     <string name="align_type">จัด</string>
     <string name="always_style">ใช้งานเสมอ</string>
     <string name="always_style_symmary">สิ้นเปลืองพลังงานมากขึ้น</string>
@@ -58,6 +64,7 @@ dd/MM"</string>
     <string name="aod_show_date_and_time">แสดงวันและเวลา</string>
     <string name="aod_show_style_title">แสดงรายการ</string>
     <string name="aod_style">ธีม</string>
+    <string name="aod_theme_store">ธีมจอแสดงผลแบบเปิดตลอด</string>
     <string name="aod_to_close">ปิดใช้งาน</string>
     <string name="apply">นำไปใช้</string>
     <string name="apply_succeed">ใช้งานเรียบร้อยแล้ว</string>
@@ -254,6 +261,7 @@ dd/MM"</string>
 กำลังจะเกิดขึ้น"</string>
     <string name="standard_clock_panel">มาตรฐาน</string>
     <string name="standard_style">มาตรฐาน</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">จำนวนก้าวนับโดย Xiaomi Health ยอมรับข้อกำหนดในการให้บริการของ Xiaomi Health เพื่อดำเนินการต่อ</string>
     <string name="step_component_info_desc">การนับก้าวจะกลายเป็นรางวัลเมื่อคุณถึงเป้าหมาย จำนวนก้าวนับโดย Xiaomi Health</string>
     <string name="step_component_info_tip">จำนวนก้าวนับโดย Xiaomi Health ติดตั้งหรืออัปเดต Xiaomi Health และยอมรับข้อกำหนดในการให้บริการเพื่อดำเนินการต่อ</string>

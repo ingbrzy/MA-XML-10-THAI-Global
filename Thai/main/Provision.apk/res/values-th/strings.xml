@@ -74,8 +74,11 @@
     <string name="input_method_category">กรุณาเลือกแป้นพิมพ์ที่คุณต้องการใช้เป็นค่าเริ่มต้นในการเขียนข้อความ, บันทึกย่อหรืออื่นๆ คุณสามารถเลือกติดตั้งแป้นพิมพ์ภายนอกเพิ่มได้ในภายหลัง</string>
     <string name="input_method_setting">เลือกแป้นพิมพ์</string>
     <string name="install_preinstall_app">กำลังโหลดแอปต่างๆ…</string>
+    <string name="item_contents_wwarning">หากอุปกรณ์ของคุณหายไป คุณจะไม่สามารถป้องกันไม่ให้ผู้อื่นใช้งานและเข้าถึงข้อมูลของคุณได้เว้นแต่คุณจะตั้งค่าล็อกหน้าจอไว้ ยืนยันข้าม?</string>
     <string name="item_fingerprint">ลายนิ้วมือ</string>
     <string name="item_lock_screen_password">เฉพาะล็อกหน้าจอ</string>
+    <string name="item_return">ตั้ง</string>
+    <string name="item_skip">ข้าม</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">การแชร์ข้อมูลตำแหน่งกับหน่วยงานกู้ภัยฉุกเฉิน</string>
     <string name="language_picker_other_languages_title">ภาษาเพิ่มเติม</string>
@@ -126,6 +129,7 @@
     <string name="other_settings_user_experience">โปรแกรมประสบการณ์ผู้ใช้</string>
     <string name="other_settings_user_experience_summary">ช่วยพัฒนาสินค้าและบริการของเรา​ด้วยการแชร์สถิติการใช้ของคุณกับเรา เรียกดูรายละเอียด</string>
     <string name="other_settings_user_experience_summary_index">เรียกดูรายละเอียด</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_account">เข้าถึงบัญชีผ่านอุปกรณ์ของคุณ:</string>
     <string name="permission_account_introduction">สำหรับลงชื่อเข้าใช้ด้วยบัญชี Mi</string>
     <string name="permission_application_package_introduction">สำหรับการเข้าถึงที่เก็บข้อมูลเพื่อวิเคราะห์และสแกนแพ็คเกจการติดตั้ง</string>
@@ -158,6 +162,10 @@
     <string name="permission_picture_introduction">สำหรับการบันทึก การแก้ไข และการซิงค์รูปภาพและวิดีโอ</string>
     <string name="permission_read_call_records">แก้ไขประวัติการโทร:</string>
     <string name="permission_read_call_records_introduction">สำหรับการเพิ่มรายการในประวัติการโทรและการลบสายที่ถูกบล็อก</string>
+    <string name="permission_read_contacts">Accessing contacts</string>
+    <string name="permission_read_contacts_introduction">For verifying your identity</string>
+    <string name="permission_read_message">Accessing text messages</string>
+    <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">สำหรับการเข้าถึงบันทึกย่อและไฟล์แนบ</string>
     <string name="permission_read_write_file">เข้าถึงและบันทึกไฟล์และภาพถ่ายในอุปกรณ์ของคุณ:</string>
     <string name="permission_read_write_file_introduction">สำหรับการเข้าถึงบันทึกและแคชรายการบนอุปกรณ์ของคุณ</string>
@@ -178,8 +186,7 @@
     <string name="pref_title_voice_slot">ซิมที่ใช้โทรออกเป็นหลัก</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="protect_persoanl_info_statement">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง</string>
-    <string name="provision_inputmethod_policy_description">"
-แสดงนโยบายความเป็นส่วนตัวของแป้นพิมพ์ที่เลือก"</string>
+    <string name="provision_inputmethod_policy_description">&lt;Data>ดู &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a > ของแป้นพิมพ์ที่คุณเลือก&lt;/Data></string>
     <string name="provision_inputmethod_policy_description1">นโยบายความเป็นส่วนตัว</string>
     <string name="recorder_introduction">คุณสามารถใช้แอปนี้เพื่อบันทึกเสียงและสำรองข้อมูลการบันทึกไปยังคลาวด์</string>
     <string name="require_authority_statement">ในการอนุญาตให้เราให้บริการขั้นพื้นฐานแก่คุณ คุณต้องให้สิทธิ์ต่อไปนี้เพื่อให้เรารวบรวมข้อมูลส่วนบุคคลของคุณ:</string>
@@ -188,6 +195,7 @@
     <string name="security_introduction">คุณสามารถใช้แอปนี้เพื่อ ล้างขยะบนอุปกรณ์ของคุณ ค้นหาและต่อต้านไวรัส เพิ่มประสิทธิภาพการเล่นเกม ประหยัดแบตเตอรี่ จัดการแอพ สิทธิ์การใช้งาน และอื่นๆ อีกมากมาย</string>
     <string name="security_mobile_account_introduction">สำหรับการลงชื่อเข้าใช้และจัดการบัญชีระบบ</string>
     <string name="service_agreement">ฉันได้อ่านแล้วและยอมรับข้อตกลงและเงื่อนไข</string>
+    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">คลังภาพ</string>
     <string name="service_name_application_package">ตัวติดตั้งแพ็คเกจ</string>
     <string name="service_name_backup">ข้อมูลสำรอง</string>
@@ -260,6 +268,7 @@
     <string name="terms_privacy_policy_input_method_facemoji">นโยบายความเป็นส่วนตัว Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">นโยบายความเป็นส่วนตัว Kika</string>
     <string name="title_fingerprint">ตั้งรหัสผ่าน</string>
+    <string name="title_set_fingerprint">ล็อกหน้าจอ</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
     <string name="user_agreement_declare">ก่อนที่จะใช้ MIUI คุณต้องอ่านและยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเรา ในขณะที่อุปกรณ์ของคุณกำลังเปิดใช้งาน การเปิดใช้งานบริการ Mi SIM, Xiaomi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, วลีที่ใช้บ่อย, บริการแปลภาษา, MIUI Daemon, ตัวเรียกดู HTML, MIUI SDK, ผู้ช่วย AI, แบตเตอรี่และประสิทธิภาพ, ตัวตรวจจับพลังงาน, Joyose, การตั้งค่า OS AI, ตัวจัดการการอนุญาต และ ตัวอัปเดต จะเชื่อมต่อกับเครือข่าย บริการอัจฉริยะ จะเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณ</string>
     <string name="voice_assist_advice">Mi AI อณุญาตให้คุณใช้การควบคุมด้วยเสียง แต่จะใช้พลังงานมากกว่าเดิม (+1% ทุกชั่วโมง)</string>
@@ -268,6 +277,15 @@
 2. เมื่อคุณกำลังฟังเพลงในขณะปิดหน้าจอ"</string>
     <string name="voice_assist_desp">พูด \"Mi AI\" ลงในโทรศัพท์ของคุณ Mi AI จะจดจำเสียงของคุณและจะสามารถควบคุมอุปกรณ์ของคุณได้</string>
     <string name="voice_assist_title">ปลุกด้วยเสียง</string>
+    <string name="wc_dialog_agree">ยอมรับ</string>
+    <string name="wc_dialog_reject">ไม่เห็นด้วย</string>
+    <string name="wc_dialog_summary">ภาพพื้นหลังรายวัน มอบภาพที่สวยงามและเรื่องราวที่น่าตื่นเต้นส่งถึงหน้าจอล็อคของคุณทุกวัน</string>
+    <string name="wc_dialog_title">จำลองหน้าจอล็อก</string>
+    <string name="wc_double_check_agree">ลอง</string>
+    <string name="wc_double_check_reject">ไม่ ขอบคุณ</string>
+    <string name="wc_double_check_summary">คุณสามารถเปิด ภาพพื้นหลังรายวัน เพื่อดูว่าเหมาะกับคุณหรือไม่ โปรดจำไว้ว่าคุณสามารถเปิดและปิด ภาพพื้นหลังรายวัน ได้ตลอดเวลาใน การตั้งค่า > หน้าจอล็อก</string>
+    <string name="wc_double_check_title">ลองภาพพื้นหลังรายวัน</string>
+    <string name="wc_notice_link_announcement_summary">อ่านและยอมรับ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของผู้ให้บริการเนื้อหาบุคคลที่สามและ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> ก่อนใช้คุณลักษณะนี้</string>
     <string name="welcome">ยินดีต้อนรับ</string>
     <string name="zone_picker_title">เลือกเขตเวลา</string>
 </resources>
