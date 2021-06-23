@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ในครึ่งชั่วโมง</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ทันที</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">ใน %d นาที</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">เมื่อสักครู่</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+    </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">เพิ่ม %d เกมแล้ว</item>
     </plurals>
@@ -51,6 +78,9 @@
     <plurals name="app_manager_start_count">
         <item quantity="other">%d ครั้ง</item>
     </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">ถอนการติดตั้ง %d แอป</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">ใช้เมื่อ %d วันก่อน</item>
     </plurals>
@@ -78,6 +108,9 @@
     <plurals name="cache_check_content">
         <item quantity="other">กำลังปกป้อง %d แอป</item>
     </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>คุณสามารถถอนการติดตั้งได้ &lt;font color=#F22424>%d&lt;/font> แอป&lt;/Data></item>
+    </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"คุณได้ใช้แผนข้อมูลรายวันเกิน %s ครั้ง 
 
@@ -88,6 +121,14 @@
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">ในอีก %1$d นาที</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">กรอไปข้างหน้า %d วินาที</item>
+        <item quantity="one">กรอไปข้างหน้า %d วินาที</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">กรอกลับ %d วินาที</item>
+        <item quantity="one">กรอกลับ %d วินาที</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">ค้นหาจาก %d แอป</item>
@@ -125,11 +166,37 @@
     <plurals name="gb_dialog_game_uninstall_multi_tips_title">
         <item quantity="other">ถอนการติดตั้ง %2$d เกม (รวมถึง %1$s)</item>
     </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">บันทึก %d การบันทึก AI ไปที่ Game Turbo</item>
+    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d วินาที</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">ลงชื่อเข้าใช้เป็นเวลา %d วันติดต่อกัน</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"ลองใช้ตัวเปลี่ยนเสียงตอนนี้
+เพื่อทดลองใช้ฟรี %d วัน!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">ไม่สามารถรับการทดลองใช้ฟรี %d วันได้</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">ได้รับการทดลองใช้ฟรี %d วัน เรียบร้อยแล้ว</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">ทดลองใช้ฟรี %d วัน</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"การสมัครรับข้อมูลของคุณหมดอายุแล้ว
+คุณสามารถทดลองใช้ฟรี %d วันได้เลย!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">ทดลองใช้ฟรี %d วัน</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    อีก +%1$d ตัวอักษร</item>
@@ -176,8 +243,23 @@
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">ไม่ติดตามข้อมูล %d แอป</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ในครึ่งชั่วโมง</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ทันที</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">ใน%d นาที</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">เพิ่ม %d เกมแล้ว</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">คุณป้องกันได้สูงสุด %d รายการ</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s ชั่วโมง</item>
@@ -185,8 +267,14 @@
     <plurals name="keyguard_charging_info_drained_min_time_format">
         <item quantity="other">%s นาที</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">เมื่อสักครู่</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">เชื่อมต่ออย่างน้อย %d จุด</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">เชื่อมกันอย่างน้อย %s จุด</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"กรุณารออีก %d วินาทีและลองอีกครั้ง "</item>
@@ -209,6 +297,9 @@
     <plurals name="menu_text_app_manager_ex">
         <item quantity="other">มีการอัพเดท %d รายการ</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">เลือกไว้ %d รายการ</item>
+    </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">ป้อนอย่างน้อย %d ตัวอักษร</item>
     </plurals>
@@ -218,11 +309,20 @@
     <plurals name="network_restrict_count">
         <item quantity="other">"การเข้าถึงเครือข่ายถูกจำกัดสำหรับ &lt;font color='#ff0000'>%d:&lt;/font> แอป"</item>
     </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">ไม่ได้สแกนความปลอดภัย %d วันแล้ว</item>
+    </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">ใช้แบตเตอรี่ไป %2$d%% ในระยะเวลา %1$d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d แอป รวมถึง %1$s กำลังกินแบต</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">ลบ %d แพ็คเกจการติดตั้ง</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">ลบ %d APK ที่เหลือ</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
         <item quantity="other">%d ปัญหาการใช้งานแบตเตอรี่</item>
@@ -232,6 +332,9 @@
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">ตรวจเช็คครั้งล่าสุดเมื่อ %d วันก่อน</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d แอปล็อกอยู่</item>
@@ -314,6 +417,9 @@
     <plurals name="people_million">
         <item quantity="other">ดาวน์โหลดไปแล้ว %1$d คน</item>
     </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">อุปกรณ์ของคุณจะปิดใน %d วินาที</item>
+    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">ครั้ง</item>
     </plurals>
@@ -328,9 +434,6 @@
     </plurals>
     <plurals name="power_center_battery_duration_min_time_format">
         <item quantity="other">" นาที"</item>
-    </plurals>
-    <plurals name="power_center_battery_health_summary">
-        <item quantity="other">ชาร์จอุปกรณ์ของคุณให้เต็มอย่างน้อย %2$d ครั้งเพื่อรับสถิติที่แม่นยำ</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ชม. "</item>
@@ -398,6 +501,39 @@
     <plurals name="privacy_pop_times">
         <item quantity="other">%s ครั้ง</item>
     </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d แอป</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d การอนุญาตที่มีความเสี่ยงสูงที่ได้รับอนุญาต</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">พบ %d แอปที่มีความเสี่ยง</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d ความเสี่ยงต่อการเปิดเผยข้อมูลตำแหน่งที่ตรวจพบ</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">พบ %d ความเสี่ยง</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">พบ %d ความเสี่ยงที่เป็นไปได้</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d รูปภาพที่อาจมีข้อมูลที่เป็นส่วนตัวหรือละเอียดอ่อนอื่นๆ</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d คุณลักษณะที่ปกป้องความเป็นส่วนตัวของคุณปิดอยู่</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d การอนุญาตที่ละเอียดอ่อนที่ได้รับอนุญาต</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">ถอนการติดตั้ง %d แอป</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d รายการต้องการการปกป้องเพิ่มเติม</item>
+    </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d ปัญหาแบตเตอรี่</item>
     </plurals>
@@ -455,6 +591,9 @@
     <plurals name="system_check_content">
         <item quantity="other">%1$d รายการปลอดภัย</item>
     </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>อัปเดต &lt;font color=#F22424>%d&lt;/font> แอป&lt;/Data></item>
+    </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">ล้าง %d ไวรัสแล้ว</item>
     </plurals>
@@ -463,6 +602,12 @@
     </plurals>
     <plurals name="uninstall_game_count_title">
         <item quantity="other">ยังไม่ได้เพิ่ม %d เกม</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">เชื่อมกันอย่างน้อย %s จุด</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">ป้อน %s หลัก</item>
     </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d แอป</item>

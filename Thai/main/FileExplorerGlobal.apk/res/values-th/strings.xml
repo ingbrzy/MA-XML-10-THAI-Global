@@ -167,6 +167,7 @@
     <string name="display_name">แสดงชื่อ</string>
     <string name="domain">โดเมน</string>
     <string name="download_success">ดาวน์โหลดเรียบร้อย</string>
+    <string name="empty_by_forbid_access">ไม่สามารถแสดงเนื้อหาของโฟลเดอร์นี้ได้ที่นี่เนื่องจากข้อจำกัดของ แอนดรอยด์ 11</string>
     <string name="enable_documentsui">เปิด %s การตั้งค่า > แอปที่ติดตั้งก่อน</string>
     <string name="enable_sd_card">ใส่ SD การ์ดหรือปิดการใช้งานที่เก็บข้อมูล USB</string>
     <string name="enable_usb">เชื่อมต่ออุปกรณ์ USB</string>
@@ -181,6 +182,7 @@
     <string name="error_create_dir">ไม่สามารถสร้างโฟลเดอร์ได้</string>
     <string name="error_create_file">ไม่สามารถสร้างไฟล์ได้</string>
     <string name="error_delete_failed">ไม่สามารถลบไฟล์ได้</string>
+    <string name="error_file_already_exists">มีไฟล์นี้อยู่แล้ว</string>
     <string name="error_filename_too_long">ชื่อไฟล์ยาวเกินไป</string>
     <string name="error_folder_already_exists">มีไฟล์นี้ในเครื่องอยู่แล้ว</string>
     <string name="error_info_cant_send_folder">ระบบไม่รองรับการส่งไฟล์ประเภทนี้</string>
@@ -238,6 +240,7 @@
     <string name="favorite_photo">รูปภาพ</string>
     <string name="favorite_ringtone">เสียงเรียกเข้า</string>
     <string name="favorite_screen_cap">ภาพหน้าจอ</string>
+    <string name="fcm_fallback_notification_channel_label">เบ็ดเตล็ด</string>
     <string name="feedback_desc">อธิบายปัญหาที่คุณพบ</string>
     <string name="feedback_send_email_body_extra_info">ห้ามลบข้อมูลต่อไปนี้ มันจะช่วยให้เราค้นหาปัญหาได้ดีขึ้น</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
@@ -269,6 +272,8 @@
     <string name="homepage_tab_recent">ล่าสุด</string>
     <string name="host">โฮสต์</string>
     <string name="hot_sticker">สติกเกอร์</string>
+    <string name="ic_remove_desc">ตัวจัดการไฟล์ เป็นแอประบบที่ให้คุณดูและจัดการไฟล์บนอุปกรณ์ของคุณ นำออกไหม?</string>
+    <string name="ic_remove_title">ลบ \"ตัวจัดการไฟล์\" จากหน้าจอหลักหรือไม่?</string>
     <string name="if_cancel">ยกเลิกการดำเนินการนี้?</string>
     <string name="image_loading_error">ไม่สามารถโหลดภาพได้</string>
     <string name="implicit">โดยนัย</string>
@@ -297,6 +302,7 @@
     <string name="menu_item_deep_clean">ทำความสะอาดเชิงลึก</string>
     <string name="menu_item_ftp">เชื่อมต่อกับคอมพิวเตอร์</string>
     <string name="menu_item_midrop">โอนไฟล์</string>
+    <string name="menu_item_midrop_desc">แอปเพิ่มเติม</string>
     <string name="menu_item_router">เราเตอร์</string>
     <string name="menu_item_sort">เรียงตาม</string>
     <string name="menu_item_sort_add_time">"เพิ่มไปยังรายการโปรด "</string>
@@ -339,6 +345,13 @@
     <string name="notif_server_starting">กำลังเริ่มเซิร์ฟเวอร์ FTP…</string>
     <string name="notif_title">เซิร์ฟเวอร์ FTP กำลังทำงาน</string>
     <string name="notification_wechat_expired_empty">WeChat ได้ลบคลิปวีดีโอเหล่านี้ไปแล้ว</string>
+    <string name="offline_notification_text">แตะเพื่อเปิดโฆษณา</string>
+    <string name="offline_notification_title">ดูโฆษณาที่คุณบันทึกไว้ขณะออฟไลน์</string>
+    <string name="offline_opt_in_confirm">ตกลง</string>
+    <string name="offline_opt_in_confirmation">คุณจะได้รับการแจ้งเตือนพร้อมลิงก์เมื่อกลับมาออนไลน์</string>
+    <string name="offline_opt_in_decline">ไม่เป็นไร</string>
+    <string name="offline_opt_in_message">เราจะส่งการแจ้งเตือนให้คุณพร้อมลิงก์ไปยังเว็บไซต์ของผู้ลงโฆษณา</string>
+    <string name="offline_opt_in_title">เปิดโฆษณาเมื่อคุณกลับมาออนไลน์</string>
     <string name="ok">ตกลง</string>
     <string name="online_not_support">ไม่สามารถดูไฟล์ออนไลน์ได้ในขณะนี้</string>
     <string name="open">เปิด</string>
@@ -417,7 +430,12 @@
     <string name="port_range">หมายเลขพอร์ตต้องอยู่ระหว่าง 1024-65535</string>
     <string name="possible_permissions">สิทธิ์เพิ่มเติม</string>
     <string name="privacy_accept">ยอมรับและดำเนินการต่อ</string>
-    <string name="privacy_message">ก่อนที่จะใช้ตัวจัดการไฟล์คุณต้องยอมรับ &lt;font color=\"#4086f5\">&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%1$s&amp;lang=%2$s\" style=\"color:#4086f5;\">ข้อตกลงการใช้งาน&lt;/a>&lt;/font> และ &lt;font color=\"#4086f5\">&lt;a href=\"https://privacy.mi.com/all/%2$s\" style=\"color:#4086f5;\">นโยบายความเป็นส่วนตัว&lt;/a>&lt;/font> ของเรา</string>
+    <string name="privacy_cancel"><u>ไม่เห็นด้วย</u></string>
+    <string name="privacy_desc">ยินดีต้อนรับสู่ ตัวจัดการไฟล์! นอกจากคุณสมบัติพื้นฐานแล้วแอปนี้ยังให้บริการดังต่อไปนี้:</string>
+    <string name="privacy_experience_statement">เข้าร่วมโปรแกรมประสบการณ์ผู้ใช้ของเราเพื่อแบ่งปันข้อมูลผู้ใช้กับเราเพื่อช่วยปรับปรุงผลิตภัณฑ์และบริการของเรา</string>
+    <string name="privacy_item1">จัดหมวดหมู่รายการที่ใช้ล่าสุด</string>
+    <string name="privacy_item2">การดูและแก้ไขไฟล์</string>
+    <string name="privacy_message">&lt;Data>ตัวจัดการไฟล์จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการพื้นฐานที่สร้างสถิติการใช้งานแก่คุณ คุณสามารถเรียนรู้วิธีที่เราจัดการกับข้อมูลที่เรารวบรวมได้ใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a>ของเรา อ่านและยอมรับ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ก่อนใช้ตัวจัดการไฟล์ คุณสามารถถอนการยินยอมต่อนโยบายความเป็นส่วนตัวของตัวจัดการไฟล์ในการตั้งค่าได้ทุกเมื่อ หากคุณไม่ยินยอมที่จะใช้บริการข้างต้นคุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอปนี้ได้ อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงใช้งานได้สำหรับคุณ&lt;/Data></string>
     <string name="privacy_title">ยินดีต้อนรับสู่ตัวจัดการไฟล์</string>
     <string name="private_files">ส่วนตัว</string>
     <string name="private_folder">ไฟล์ส่วนบุคคล</string>
@@ -430,7 +448,7 @@
     <string name="recommended_content">ข้อเสนอแนะ</string>
     <string name="remind_no_notice">จดจำตัวเลือกนี้</string>
     <string name="rename_alert">หากคุณแก้ไขนามสกุลไฟล์ อาจทำให้ไม่สามารถเปิดไฟล์ได้</string>
-    <string name="rename_alert2">ไฟล์จะถูกซ่อนหลังจากที่คุณเปลี่ยนนามสกุล</string>
+    <string name="rename_alert2">ไฟล์ที่มีชื่อขึ้นต้นด้วย \".\" จะถูกซ่อนโดยระบบโดยอัตโนมัติ ใช้ชื่อนี้ต่อไปไหม?</string>
     <string name="rename_failed">ไม่สามารถเปลี่ยนชื่อ %1$s</string>
     <string name="repair_done">การกู้คืนเสร็จสิ้นแล้ว</string>
     <string name="repair_error">ไม่สามารถกู้คืนได้ กรุณาลองอีกครั้ง.</string>
@@ -440,9 +458,16 @@
     <string name="restoring">กำลังกู้คืนข้อมูล…</string>
     <string name="revoke">เพิกถอน</string>
     <string name="revoke_authorization">เพิกถอนการให้สิทธิ์</string>
+    <string name="revoke_confirm_dialog_cancel">ยกเลิก</string>
+    <string name="revoke_confirm_dialog_content">การสับสวิตช์จะเป็นการเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ ตัวจัดการไฟล์ เราจะหยุดรวบรวมข้อมูลส่วนบุคคลของคุณ ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้แล้วจะถูกลบภายในช่วงเวลาที่กำหนดตามที่กฎหมายบังคับ ตัวจัดการไฟล์ จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อปรับปรุงการให้บริการ การถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวจะถือเป็นการปฏิเสธที่จะยอมรับบริการที่ปรับปรุงแล้วตามข้อมูลส่วนบุคคลที่รวบรวม</string>
+    <string name="revoke_desc">การสับสวิตช์จะเป็นการเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของตัวจัดการไฟล์</string>
+    <string name="revoke_net_dialog_content">อุปกรณ์ของคุณจำเป็นต้องเชื่อมต่อกับเครือข่ายเพื่อให้คุณสามารถเพิกถอนความยินยอมได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
+    <string name="revoke_net_dialog_ok">รับทราบ</string>
+    <string name="revoke_net_dialog_title">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="revoke_success">ยกเลิกการให้สิทธิ์เรียบร้อยแล้ว</string>
     <string name="revoke_timer">(%1$dวิ)</string>
     <string name="revoke_tips">หลังจากที่คุณถอนการอนุญาต ตัวจัดการไฟล์ จะหยุดรวบรวมข้อมูล ข้อมูลที่เกี่ยวข้องจะถูกลบออกจากเซิฟเวอร์ การกระทำนี้อาจทำให้ ตัวจัดการไฟล์ ไม่สามารถใช้งานได้ ต้องการถอนคำอนุญาตหรือไม่?</string>
+    <string name="revoke_title">การเพิกถอนความยินยอม</string>
     <string name="revoking">กำลังเพิกถอนการให้สิทธิ์…</string>
     <string name="rlv_last_refreshing_time">อัปเดตล่าสุด %1$s</string>
     <string name="rlv_loading_more">รอสักครู่…</string>
@@ -522,6 +547,7 @@
     <string name="time_pm">PM</string>
     <string name="time_to_upgrade">ระบบมีการอัปเดต</string>
     <string name="tip">โปรดทราบ</string>
+    <string name="tips_by_forbid_access">เนื้อหาของโฟลเดอร์นี้จะไม่สามารถเข้าถึงได้อีกต่อไปเนื่องจากข้อจำกัดของระบบที่แนะนำใน Android R ลบไฟล์ส่วนตัวของคุณออกจากโฟลเดอร์นี้โดยเร็วที่สุด</string>
     <string name="title_app_tags">แอป</string>
     <string name="title_enable_documentsui">เปิดใช้เอกสาร UI</string>
     <string name="title_expire_video">ใกล้จะหมดอายุ</string>
@@ -541,12 +567,15 @@
     <string name="update_use_mobile_data">อัปเดตโดยอัตโนมัติโดยใช้ข้อมูลมือถือ</string>
     <string name="usb_has_removed">อุปกรณ์ USB ถูกเอาออก</string>
     <string name="used">ใช้แล้ว</string>
+    <string name="user_experience_desc">แชร์ข้อมูลผู้ใช้กับเราเพื่อช่วยปรับปรุงผลิตภัณฑ์และบริการของเรา</string>
+    <string name="user_experience_title">โปรแกรมประสบการณ์ผู้ใช้</string>
     <string name="user_not_login">ต้องลงชื่อเข้าใช้งานก่อน</string>
     <string name="user_notice_privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="user_notice_term_of_service">ข้อตกลงการใช้งาน</string>
     <string name="utf8_summary">รหัสเริ่มต้นระบบ FTP</string>
     <string name="version_name">เวอร์ชั่น </string>
     <string name="video_replay_btn">เล่นใหม่</string>
+    <string name="view_by_document">เรียกดูในไฟล์</string>
     <string name="wechat_video">วิดีโอจาก %s</string>
     <string name="wifi_state">สถานะ Wi-Fi</string>
     <string name="year_month_day_format">dd MMM yyyy</string>

@@ -113,6 +113,7 @@
     <string name="clearable_edittext_clear_description">ทำความสะอาด</string>
     <string name="click_to_restore">กู้คืนรายการระบบเพื่อให้สามารถใช้ MIUI ได้ตามปกติหลังจากรีเซ็ตเป็นค่าจากโรงงาน แตะเพื่อเริ่ม</string>
     <string name="com_android_email">อีเมล</string>
+    <string name="com_android_soundrecorder">บันทึกเสียง</string>
     <string name="com_mi_liveassistant">ผู้ช่วยสตรีมสด</string>
     <string name="com_miui_calculator">เครื่องคิดเลข</string>
     <string name="com_miui_cleanmaster">ตัวทำความสะอาด</string>
@@ -121,12 +122,14 @@
     <string name="com_miui_huanji">Mi Mover</string>
     <string name="com_miui_notes">บันทึกย่อ</string>
     <string name="com_miui_screenrecorder">บันทึกวิดีโอหน้าจอ</string>
+    <string name="com_miui_virtualsim">Mi โรมมิ่ง</string>
     <string name="com_miui_weather2">สภาพอากาศ</string>
     <string name="com_xiaomi_drivemode">โหมดขับรถ</string>
     <string name="com_xiaomi_gamecenter">เกมส์</string>
     <string name="com_xiaomi_jr">Mi การเงิน</string>
     <string name="com_xiaomi_scanner">ตัวสแกน</string>
     <string name="com_xiaomi_shop">Mi สโตร์</string>
+    <string name="com_xiaomi_vipaccount">Mi คอมมูนิตี้</string>
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="confirm_description">ยืนยัน</string>
     <string name="country_name_ac">AC</string>
@@ -381,6 +384,7 @@
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
     <string name="email">อีเมล</string>
+    <string name="empty" />
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
     <string name="error_forbidden">การซิงค์ถูกปิด เนื่องจากเกิดข้อผิดพลาดกับบัญชี Mi ของคุณ</string>
@@ -388,6 +392,7 @@
     <string name="error_title">ซิงค์ผิดพลาด</string>
     <string name="error_unauthorized">การซิงค์ถูกปิดใช้เนื่องจากการล็อกอินไม่ถูกต้องเกินจำนวนครั้งที่ระบบกำหนด</string>
     <string name="evening">PM</string>
+    <string name="experience_new_system_app">ตรวจสอบคุณสมบัติใหม่!</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -533,6 +538,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">เริ่มต้นฤดูใบไม้ร่วง</string>
     <string name="solar_term_autumn_equinox">ฤดูใบไม้ร่วง</string>
@@ -567,6 +573,7 @@
     <string name="system_app_restore_failed">เกิดข้อผิดพลาด</string>
     <string name="system_app_restore_failed_detail">ไม่สามารถกู้คืนรายการระบบ ตรวจสอบการตั้งค่าเครือข่ายของคุณและอย่ารีบูตหรือปิดอุปกรณ์จนกว่ารายการจะได้รับการคืนค่าอย่างสมบูรณ์ แตะปุ่มด้านล่างเพื่อลองอีกครั้ง</string>
     <string name="system_restore">คืนค่าแล้ว รายการ</string>
+    <string name="tap_to_update_system_app">แตะเพื่ออัปเดตแอประบบ</string>
     <string name="the_anniversary_of_lifting_martial_law">วันฉลองยกเลิกอัยการศึก</string>
     <string name="the_anti_aggression_day">วันต่อต้านการกระทำรุนแรง</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -618,6 +625,7 @@
     <string name="tuesday">อังคาร</string>
     <string name="tuesday_short">อังคาร</string>
     <string name="tuesday_shortest">อ</string>
+    <string name="wait_for_wlan_china">รอ WLAN</string>
     <string name="web_sso_login_fail">กรุณาลงชื่อเข้าใช้อีกครั้ง</string>
     <string name="web_sso_login_message">กำลังเข้าสู่ระบบ…</string>
     <string name="website">เว็บไซต์</string>

@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">กลับ</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_query">คำค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="accessibility_enabled">เปิดใช้สิ่งอำนวยความสะดวกแล้ว</string>
     <string name="agree">ตกลง</string>
     <string name="agree_and_next">ยอมรับ</string>
@@ -20,6 +47,8 @@
     <string name="application_permissions">การอนุญาตแอป</string>
     <string name="back">ย้อนกลับ</string>
     <string name="backup_introduction">คุณสามารถใช้แอปนี้เพื่อสำรองและกู้คืนรายการในอุปกรณ์ของคุณ</string>
+    <string name="boot_video_replay">เล่นอีกครั้ง</string>
+    <string name="boot_video_skip">ข้าม</string>
     <string name="calculator_introduction">คุณสามารถใช้แอปนี้ในการคำนวณ แปลงหน่วย และสกุลเงิน และประเมินการชำระเงินกู้ของคุณ</string>
     <string name="camera_introduction">คุณสามารถใช้กล้องเพื่อถ่ายภาพและถ่ายวิดีโอ</string>
     <string name="carrier_introduction">เพื่อให้บริการที่ดีกว่าแก่คุณ อุปกรณ์ของคุณอาจส่งข้อมูลรุ่นอุปกรณ์ของคุณเป็นระยะ ๆ ข้อมูลระบุอุปกรณ์ (รวมถึง IMEI/IMSI/MSISDN/MAC address, MEID/ICCID) และข้อมูลตำแหน่งโดยประมาณ (รวมถึงรหัสสถานีฐาน) ผู้ให้บริการผ่าน Wi-Fi เครือข่ายข้อมูลมือถือหรือ SMS ฟรี ผู้ให้บริการสัญญาว่าจะวิเคราะห์ข้อมูลที่เกี่ยวข้องเพื่อปรับปรุงคุณภาพการบริการหรือเพื่อให้บริการหรือเทคโนโลยีที่กำหนดเองเท่านั้นและจะไม่เปิดเผยข้อมูลที่เกี่ยวข้องกับบุคคลที่สามในรูปแบบใดๆ ที่ระบุตัวตนของคุณ ข้อความของผู้ให้บริการเฉพาะจะชัดเจนกว่า ปรึกษาผู้ให้บริการของคุณเกี่ยวกับค่าใช้จ่ายในการใช้บริการนี้</string>
@@ -32,7 +61,6 @@
     <string name="congratulation_swipe">ปัดขึ้นเพื่อเข้าสู่ระบบ</string>
     <string name="congratulation_title">ตั้งค่าเสร็จสิ้น</string>
     <string name="content_description_complete">เสร็จสมบูรณ์</string>
-    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_start">เริ่มต้น</string>
     <string name="content_introduction">ศูนย์เนื้อหาจะรวมเนื้อหาและบริการจากหลายช่องทาง ที่นี่คุณสามารถ อ่านบทความ ดูวิดีโอ ดูรายการเด่นประจำวัน และรับคำแนะนำเนื้อหา</string>
     <string name="continue_to_enable_accessibility">แตะสองนิ้วค้างเพื่อเปิดใช้งานสิ่งอำนวยความสะดวก</string>
@@ -77,6 +105,7 @@
     <string name="item_contents_wwarning">หากอุปกรณ์ของคุณหายไป คุณจะไม่สามารถป้องกันไม่ให้ผู้อื่นใช้งานและเข้าถึงข้อมูลของคุณได้เว้นแต่คุณจะตั้งค่าล็อกหน้าจอไว้ ยืนยันข้าม?</string>
     <string name="item_fingerprint">ลายนิ้วมือ</string>
     <string name="item_lock_screen_password">เฉพาะล็อกหน้าจอ</string>
+    <string name="item_lock_screen_password_only">ล็อกหน้าจอ</string>
     <string name="item_return">ตั้ง</string>
     <string name="item_skip">ข้าม</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
@@ -100,6 +129,8 @@
     <string name="move_data_dialog_cancel">ยกเลิก </string>
     <string name="move_data_dialog_title">คุณสามารถจำกัดการเชื่อมต่อข้อมูลมือถือในการตั้งค่าในภายหลัง</string>
     <string name="move_data_dialog_use">ใช้</string>
+    <string name="msim_setting_default_data">ซิมข้อมูล</string>
+    <string name="msim_setting_default_voice">ซิมเริ่มต้นสำหรับการโทร</string>
     <string name="multisim_settings_category">ตั้งค่าซิมการ์ด</string>
     <string name="multisim_settings_title">ระบบพบซิมการ์ดจำนวน 2 ซิม</string>
     <string name="navigation_picker_gesture_guide">แนะนำท่าทาง</string>
@@ -186,12 +217,16 @@
     <string name="pref_title_voice_slot">ซิมที่ใช้โทรออกเป็นหลัก</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="protect_persoanl_info_statement">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง</string>
+    <string name="provision_back">ย้อนกลับ</string>
     <string name="provision_inputmethod_policy_description">&lt;Data>ดู &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a > ของแป้นพิมพ์ที่คุณเลือก&lt;/Data></string>
     <string name="provision_inputmethod_policy_description1">นโยบายความเป็นส่วนตัว</string>
+    <string name="provision_next">ถัดไป</string>
+    <string name="provision_skip_underline">ข้าม</string>
     <string name="recorder_introduction">คุณสามารถใช้แอปนี้เพื่อบันทึกเสียงและสำรองข้อมูลการบันทึกไปยังคลาวด์</string>
     <string name="require_authority_statement">ในการอนุญาตให้เราให้บริการขั้นพื้นฐานแก่คุณ คุณต้องให้สิทธิ์ต่อไปนี้เพื่อให้เรารวบรวมข้อมูลส่วนบุคคลของคุณ:</string>
     <string name="require_network_authority_statement">ในการอนุญาตให้เราให้บริการขั้นพื้นฐานแก่คุณ คุณต้องเชื่อมต่ออินเทอร์เน็ตและให้สิทธิ์ต่อไปนี้เพื่อให้เรารวบรวมข้อมูลส่วนบุคคลของคุณ:</string>
     <string name="screen_recording_introduction">แอปนี้ให้คุณบันทึกสิ่งที่เกิดขึ้นบนหน้าจอของคุณ</string>
+    <string name="search_menu_title">ค้นหา</string>
     <string name="security_introduction">คุณสามารถใช้แอปนี้เพื่อ ล้างขยะบนอุปกรณ์ของคุณ ค้นหาและต่อต้านไวรัส เพิ่มประสิทธิภาพการเล่นเกม ประหยัดแบตเตอรี่ จัดการแอพ สิทธิ์การใช้งาน และอื่นๆ อีกมากมาย</string>
     <string name="security_mobile_account_introduction">สำหรับการลงชื่อเข้าใช้และจัดการบัญชีระบบ</string>
     <string name="service_agreement">ฉันได้อ่านแล้วและยอมรับข้อตกลงและเงื่อนไข</string>
@@ -220,13 +255,14 @@
     <string name="service_policy">&lt;Data>อ่านและยอมรับ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a >&lt;/Data></string>
     <string name="service_policy_download">&lt;Data>ก่อนที่จะใช้บริการของเรา โปรดอ่านและยอมรับ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว Xunlei&lt;/a >&lt;/Data></string>
     <string name="service_privacy_index">นโยบายความเป็นส่วนตัว</string>
+    <string name="service_security_over_r">&lt;Data>อ่านและยอมรับ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a > ของเราก่อนใช้การรักษาความปลอดภัย&lt;br/>&lt;br/>ตามมาตรฐาน Android 11 การอนุญาตเพียงครั้งเดียวจะถูกถอนออกภายใน 5 วินาทีหลังจากแอปที่เกี่ยวข้องหยุดทำงาน หากคุณเปิดแอปในช่วงเวลาสั้นๆ นี้การอนุญาตจะถูกถอนออกเมื่อนั้น&lt;/Data></string>
     <string name="servicestate_title">คำชี้แจงบริการพื้นฐาน</string>
     <string name="setting_locale">การตั้งค่าพื้นที่…</string>
     <string name="shut_down">ปิดเครื่อง</string>
     <string name="sim_card_detecting">กำลังตรวจหาซิมการ์ด…</string>
     <string name="sim_card_detecting_check">ไม่พบซิมการ์ด ตรวจสอบให้แน่ใจว่าซิมการ์ดถูกติดตั้งอย่างเหมาะสม และตรวจสอบว่ามียอดเงินคงเหลืออยู่</string>
     <string name="sim_card_detecting_confirm_turn_on_network">อนุญาตให้เชื่อมต่อกับเครือข่ายข้อมูลมือถือหรือไม่? หากคุณทำเช่นนั้นซิมการ์ดที่คุณใส่จะใช้เพื่อเชื่อมต่อกับเครือข่ายข้อมูลมือถือ</string>
-    <string name="sim_card_detecting_title">ตรวจสอบซิมการ์ด</string>
+    <string name="sim_card_detecting_title">กำลังตรวจหาซิมการ์ด…</string>
     <string name="sim_card_detection">กรุณาใส่ซิมการ์ด</string>
     <string name="sim_card_detection_info">กรุณาใส่ซิมการ์ดและอ่านคำแนะนำที่ได้รับมาพร้อมกับอุปกรณ์ของคุณ</string>
     <string name="sim_card_detection_mobile_not_available">ซิมการ์ดไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
@@ -239,6 +275,7 @@
     <string name="skip_gesture_guide_dialog_title">ท่าทางสัมผัสแบบเต็มหน้าจอ</string>
     <string name="skip_underline">ข้ามขั้นตอนนี้</string>
     <string name="start_up_slogan">แค่คุณโดยเฉพาะ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_not_set">ไม่ตั้งค่า</string>
     <string name="system_navigation_mode">โหมดนำทางระบบ</string>
     <string name="terms_of_use">ข้อตกลงและเงื่อนไข</string>

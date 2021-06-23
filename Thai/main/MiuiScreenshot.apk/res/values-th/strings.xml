@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="app_name">ภาพหน้าจอ</string>
+    <string name="long_screenshot_guide_text">"แตะเพื่อ
+จับภาพจอแนวยาว"</string>
+    <string name="long_screenshot_out_of_memory_error">รูปใหญ่เกินไป</string>
+    <string name="long_screenshot_processing">กำลังประมวล…</string>
+    <string name="long_screenshot_stop">เสร็จสิ้น</string>
+    <string name="long_screenshot_top_msg">กำลังสร้างภาพหน้าจอ…</string>
+    <string name="long_screenshot_top_msg_manual">กำหนดระยะขอบของภาพแล้วแตะปุ่มเสร็จสิ้น</string>
+    <string name="partial_screenshot_edit">แก้ไข</string>
+    <string name="partial_screenshot_repaint">เริ่มใหม่</string>
+    <string name="partial_screenshot_save">บันทึก</string>
+    <string name="partial_screenshot_save_successful">บันทึกเรียบร้อยแล้ว</string>
+    <string name="partial_screenshot_share">แชร์</string>
+    <string name="screenshot_edit">แก้ไข</string>
+    <string name="screenshot_failed_in_landscape_mode">ไม่สามารถสร้างภาพหน้าจอแนวยาวในโหมดแนวนอนได้</string>
+    <string name="screenshot_failed_to_capture_title">แอปนี้ไม่อนุญาตให้ถ่ายภาพหน้าจอ</string>
+    <string name="screenshot_failed_to_save_title">ไม่สามารถบันทึก พื้นที่เก็บข้อมูลไม่เพียงพอ</string>
+    <string name="screenshot_feedback_txt">ข้อเสนอแนะ</string>
+    <string name="screenshot_insert_failed">ไม่สามารถโหลดภาพหน้าจอได้ ดำเนินการใหม่อีกครั้งหรือเรียกดูรูปภาพจากคลังภาพ</string>
+    <string name="screenshot_long_screenshot">เลื่อน</string>
+    <string name="screenshot_send">ส่ง</string>
+    <string name="search_menu_title">ค้นหา</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

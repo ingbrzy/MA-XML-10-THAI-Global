@@ -279,7 +279,6 @@
     <string name="notificationTitle">ปุ่มลัดแถบการแจ้งเตือน</string>
     <string name="notification_from_owner_user">แสดงการแจ้งเตือนจากพื้นที่ปกติ</string>
     <string name="notification_from_second_user">แสดงการแจ้งเตือนจากพื้นที่ทับซ้อน</string>
-    <string name="notification_recommend_title">12 แอปยอดนิยมสำหรับพื้นที่ทับซ้อน</string>
     <string name="notification_setting_second_space">ตั้งค่าพื้นที่ทับซ้อน</string>
     <string name="notification_setting_second_space_desc">เพิ่มรหัสผ่านพื้นที่ทับซ้อนและย้ายข้อมูล</string>
     <string name="ok_button">ตกลง</string>
@@ -488,10 +487,14 @@
     <string name="xspace_disable">ยังไม่ได้สร้าง</string>
     <string name="xspace_enable">สร้างแล้ว</string>
     <string name="xspace_facebook_title">Facebook</string>
-    <string name="xspace_guide_des">ใช้ 2 บัญชีโดยไม่ต้องเปลี่ยน</string>
-    <string name="xspace_guide_title">สร้างแอปโคลน</string>
+    <string name="xspace_guide_content_bound">แอปที่ใช้งานได้</string>
+    <string name="xspace_guide_des">แอปโคลนช่วยให้คุณใช้สองบัญชีพร้อมกันโดยไม่ต้องสลับไปมา</string>
+    <string name="xspace_guide_description">"ทุกบัญชี
+สมควรมีแอปของมันเอง"</string>
+    <string name="xspace_guide_title">ลองแอปโคลน</string>
     <string name="xspace_header">แอปโคลน</string>
     <string name="xspace_instagram_title">Instagram</string>
+    <string name="xspace_install_complete">&lt;font>สร้างแอปโคลนสำเร็จแล้ว &lt;/font>&lt;font color=#0D84FF>เปิดเดี๋ยวนี้&lt;/font></string>
     <string name="xspace_install_completed">เพิ่มไอคอนไปยังหน้าจอหลักแล้ว</string>
     <string name="xspace_install_completed_global">ไอคอนเพิ่มไปยังตัววาดแล้ว</string>
     <string name="xspace_install_failed">ไม่สามารถสร้างได้</string>
@@ -500,11 +503,13 @@
     <string name="xspace_label">แอปโคลน</string>
     <string name="xspace_loading_msg">กำลังโหลดแอป…</string>
     <string name="xspace_notification">การแจ้งเตือนแอปคู่</string>
+    <string name="xspace_notification_button">ลอง</string>
     <string name="xspace_notification_error">ลงชื่อเข้าใช้ WeChat คู่แล้วลองอีกครั้ง</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">ลบบัญชีแอปโคลน</string>
     <string name="xspace_setting_label">การตั้งค่าแอปโคลน</string>
     <string name="xspace_settins">ตั้งค่า</string>
+    <string name="xspace_start">สร้าง</string>
     <string name="xspace_uninstall_completed">ถอนการติดตั้งแอปโคลนเรียบร้อยแล้ว</string>
     <string name="xspace_uninstall_dialog_content">เมื่อถอนการติดตั้งแอปที่โคลนไว้ ข้อมูลแอปทั้งหมดจะถูกลบออก</string>
     <string name="xspace_uninstall_dialog_title">ถอนการติดตั้งแอปโคลน</string>

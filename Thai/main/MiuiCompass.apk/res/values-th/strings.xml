@@ -85,6 +85,7 @@
     <string name="evening">บ่าย</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="first_using_dialog_message">ในการใช้งานแอปเข็มทิศจำเป็นต้องเชื่อมต่อกับเครือข่ายและกล้องถ่ายรูป พร้อมทั้งใช้การระบุตำแหน่งพิกัดของเครื่อง</string>
+    <string name="first_using_dialog_message_no_camera">เข็มทิศต้องเชื่อมต่ออินเทอร์เน็ตและเข้าถึงข้อมูลตำแหน่งพิกัดเพื่อให้สามารถทำงานได้ตามปกติ ตกลง?</string>
     <string name="first_using_dialog_title">การอนุญาตของแอป</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -209,6 +210,7 @@
     <string name="noon">เที่ยงวัน</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="open_perm_msg">เข็มทิศต้องการเข้าถึงข้อมูลตำแหน่งและกล้องถ่ายรูป นี่เป็นสิ่งจำเป็นในการกำหนดพิกัดและแสดงตัวอย่างสด อนุญาตหรือไม่?</string>
+    <string name="open_perm_msg_no_camera">เข็มทิศจำเป็นต้องเข้าถึงข้อมูลตำแหน่งเพื่อให้สามารถระบุพิกัดได้ อนุญาต?</string>
     <string name="open_perm_title">สิทธิ์ที่จำเป็น</string>
     <string name="permission_camera_desc">สำหรับการแสดงมุมแอซิมัทในการแสดงตัวอย่างสด</string>
     <string name="permission_location_desc">สำหรับการแสดงพิกัด</string>

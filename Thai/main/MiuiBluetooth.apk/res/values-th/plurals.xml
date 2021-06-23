@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fast_connect_headset_reset">
-        <item quantity="other">กดปุ่มบนกล่องค้างไว้ %1$d วินาที</item>
+        <item quantity="other">กดปุ่มบนเคสค้างไว้ %1$d วินาที</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
         <item quantity="other">กดบริเวณที่ไวต่อการสัมผัสบนหูฟังค้างไว้เป็นเวลา %1$d วินาที</item>

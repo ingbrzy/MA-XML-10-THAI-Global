@@ -128,6 +128,7 @@
     <string name="cast_forward">กรอไปข้างหน้า</string>
     <string name="cast_forward_10">กรอไปข้างหน้า 10 วินาที</string>
     <string name="cast_forward_30">กรอไปข้างหน้า 30 วินาที</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">สด</string>
     <string name="cast_mute">ปิดเสียง</string>
     <string name="cast_notification_connected_message">เชื่อมต่อ %1$s แล้ว</string>
@@ -246,13 +247,13 @@
     <string name="diagnosis_log_sent_format">"ส่งบันทึกการใช้สำเร็จแล้ว
 ID:%s
 ส่งรหัสนี้ไปยังที่ปรึกษา"</string>
-    <string name="dialog_disagree_privacychange_info">"You won't be able to use Mi Video online streaming services if you don't agree to our Privacy Policy. Tap \"Cancel\" to go back or \"Don't agree\" to continue and use Mi Video as a local player only."</string>
-    <string name="dialog_disagree_privacychange_title">"Don't agree?"</string>
-    <string name="dialog_privacy_change_info">"We've updated Mi Video Privacy Policy due to the adjustmets in the services we offer. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using the app."</string>
-    <string name="dialog_privacy_change_title">Privacy Policy update</string>
+    <string name="dialog_disagree_privacychange_info">คุณจะไม่สามารถใช้บริการสตรีมมิงออนไลน์ของ Mi วิดีโอ ได้หากคุณไม่ยอมรับนโยบายความเป็นส่วนตัวของเรา แตะ \"ยกเลิก\" เพื่อย้อนกลับหรือ \"ไม่เห็นด้วย\" เพื่อดำเนินการต่อและใช้ Mi วิดีโอ เป็นเครื่องเล่นในเครื่องเท่านั้น</string>
+    <string name="dialog_disagree_privacychange_title">ไม่เห็นด้วย?</string>
+    <string name="dialog_privacy_change_info">เราได้อัปเดตนโยบายความเป็นส่วนตัวของ Mi วิดีโอ เนื่องจากการปรับแต่งในบริการที่เรานำเสนอ เพื่อให้เข้าใจถึงสิทธิ์ของคุณในฐานะผู้ใช้ตลอดจนวิธีการที่เราใช้ข้อมูลของคุณโปรดอ่านและยอมรับ &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ก่อนใช้งานแอป</string>
+    <string name="dialog_privacy_change_title">การอัปเดตนโยบายความเป็นส่วนตัว</string>
     <string name="dialog_privacy_info_new2">เพื่อให้สามารถใช้บริการได้ คุณต้องตกลงว่า %1$s จะรวบรวม ดำเนินการ และใช้ข้อมูลส่วนตัวของคุณ คุณจะถือว่าได้อ่านและตกลง &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> เมื่อคุณกด \"ตกลง\" ด้านล่างนี้</string>
     <string name="dialog_privacy_info_new3">ในการใช้บริการนี้คุณต้องอนุญาตให้ %1$s รวบรวมประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณตามนโยบายความเป็นส่วนตัว การแตะ ยอมรับ ด้านล่าง แสดงว่าคุณยอมรับ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a> &lt;br/>&lt;br/>การแตะ ยอมรับ ยังช่วยให้ Mi วีดีโอ เข้าถึงรายการแอพที่ติดตั้งบนอุปกรณ์ของคุณ ด้วยการอนุญาตนี้ Mi วิดีโอ จะสามารถแชร์รายการต่างๆทำความเข้าใจว่ามีการติดตั้งแอปในอุปกรณ์ของคุณแล้วหรือไม่ ติดตั้งแอปเวอร์ชันใดไว้ และแอปนั้นปลอดภัยหรือไม่</string>
-    <string name="dialog_privacy_info_new4">"Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>Mi Video needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our Privacy Policy. You'll be able change the related settings in Settings > Passwords &amp;amp; security.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video."</string>
+    <string name="dialog_privacy_info_new4">ยินดีต้อนรับสู่ Mi วิดีโอ! แอปนี้ให้บริการดังต่อไปนี้:&lt;br>&lt;/br> - บริการสตรีมออนไลน์&lt;br>&lt;/br>- เครื่องเล่นวิดีโอในเครื่อง&lt;br>&lt;/br>Mi วิดีโอ จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้คุณได้รับ บริการขั้นพื้นฐาน คุณสามารถเรียนรู้วิธีที่เราจัดการกับข้อมูลที่เรารวบรวมได้ในนโยบายความเป็นส่วนตัวของเรา คุณจะสามารถเปลี่ยนการตั้งค่าที่เกี่ยวข้องได้ใน การตั้งค่า > รหัสผ่านและความปลอดภัย&lt;br>&lt;/br>อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเราก่อน ใช้ Mi วิดีโอ</string>
     <string name="dialog_privacy_revoke_cancel">ยกเลิก</string>
     <string name="dialog_privacy_revoke_count_down">เพิกถอน (%1$d วิ)</string>
     <string name="dialog_privacy_revoke_description">การสับสวิตช์จะเป็นการเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ Mi วิดีโอ เราจะหยุดรวบรวมข้อมูลส่วนบุคคลของคุณ ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้แล้วจะถูกลบภายในช่วงเวลาที่กำหนดตามที่กฎหมายบังคับ การถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวจะถือเป็นการปฏิเสธที่จะยอมรับบริการออนไลน์ตามข้อมูลส่วนบุคคลที่รวบรวม</string>
@@ -260,10 +261,10 @@ ID:%s
     <string name="dialog_privacy_revoke_ok">เพิกถอน</string>
     <string name="dialog_privacy_revoke_success">เพิกถอนสำเร็จ</string>
     <string name="dialog_privacy_revoking">กำลังถอนคำยินยอม…</string>
-    <string name="dialog_privacy_title">Terms and conditions</string>
+    <string name="dialog_privacy_title">ข้อตกลงและเงื่อนไข</string>
     <string name="dialog_revoke_privacy_info_new2">หลังจากที่คุณถอนการอนุญาต แอปนี้จะหยุดรวบรวมข้อมูล ข้อมูลที่เกี่ยวข้องจะถูกลบออกจากเซิฟเวอร์ การกระทำนี้อาจทำให้ไม่สามารถใช้งานแอปได้ ต้องการถอนคำอนุญาตหรือไม่？</string>
     <string name="dialog_revoke_privacy_title">กำลังเพิกถอนการให้สิทธิ์</string>
-    <string name="disagree">"Don't agree"</string>
+    <string name="disagree">ไม่เห็นด้วย</string>
     <string name="diy_channels_tips">คุณสามารถปรับแต่งรายการช่องของคุณได้ทันที</string>
     <string name="do_not_show_again">ไม่ต้องแสดงอีก</string>
     <string name="download">ดาวน์โหลด</string>
@@ -953,7 +954,7 @@ ID:%s
     <string name="plus_player_detail_file_name">"ชื่อไฟล์: "</string>
     <string name="plus_player_detail_file_param">"พารามิเตอร์: "</string>
     <string name="plus_player_detail_file_path">"ที่จัดเก็บ: "</string>
-    <string name="plus_player_detail_file_time">"ประทับเวลา: "</string>
+    <string name="plus_player_detail_file_time">"การประทับเวลา: "</string>
     <string name="plus_player_hide">ซ่อน</string>
     <string name="plus_player_pip">PiP</string>
     <string name="plus_player_pip_unsupport">PiP ไม่รองรับในระบบของคุณเวอร์ชั่นนี้</string>

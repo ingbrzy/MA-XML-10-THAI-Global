@@ -1301,8 +1301,6 @@ ID:%s
     <string name="passport_wrong_vcode">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_wrong_voice">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="password">รหัสผ่าน</string>
-    <string name="pay_failed_toast">การชำระเงินไม่สำเร็จ</string>
-    <string name="pay_success_toast">ชำระเรียบร้อยแล้ว</string>
     <string name="per_month">ต่อเดือน</string>
     <string name="permission_agree_service">ฉันได้อ่านและยอมรับข้อกำหนดและเงื่อนไขทั้งหมดต่อไปนี้</string>
     <string name="permission_alert_window">อนุญาตให้แสดงหน้าต่างป๊อปอัปในการตั้งค่าเพื่อให้สามารถใช้คุณลักษณะนี้</string>

@@ -52,6 +52,8 @@
     <string name="activity_title_statistic">Stats</string>
     <string name="add_model_card">"Tap the button in the upper left corner
 to add cards"</string>
+    <string name="add_model_card2">"Tap the button above to add cards.
+You'll be able to track your workouts and activity."</string>
     <string name="add_record">Add</string>
     <string name="afternoon">บ่าย</string>
     <string name="all_records">บันทึกทั้งหมด</string>
@@ -122,6 +124,7 @@ to add cards"</string>
     <string name="close_once">Turn off once</string>
     <string name="collapse">Hide</string>
     <string name="complete_preference_basic_info">Complete your profile</string>
+    <string name="complete_progress">Progress</string>
     <string name="completed">"Completed "</string>
     <string name="copy">คัดลอก</string>
     <string name="copy_done">คัดลอกเรียบร้อยแล้ว</string>
@@ -197,6 +200,7 @@ Xiaomi Health จะแจ้งเตือนคุณเกี่ยวกั
     <string name="dialog_delete_record_confirm">Delete this record?</string>
     <string name="dialog_exercise_purpose">ยินดีต้อนรับสู่ Xiaomi Health! \"ตัวนับก้าว\" ช่วยให้คุณเห็นจำนวนก้าวที่คุณทำในระหว่างวันรวมถึงการตั้งค่าและจัดการเป้าหมายกิจกรรมของคุณ ข้อมูลที่เกี่ยวข้องทั้งหมดจะถูกเก็บไว้ในอุปกรณ์ของคุณซึ่งช่วยให้คุณจัดการได้อย่างง่ายดาย</string>
     <string name="dialog_exit">ออก</string>
+    <string name="dialog_exit_use">Exit</string>
     <string name="dialog_feedback_content">"If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
     <string name="dialog_feedback_purpose">Xiaomi Health จำเป็นต้องเข้าถึงที่เก็บข้อมูลเพื่อส่งข้อเสนอแนะ</string>
     <string name="dialog_feedback_purpose2">For submitting feedback</string>
@@ -214,7 +218,7 @@ Xiaomi Health จะแจ้งเตือนคุณเกี่ยวกั
     <string name="dialog_permission_loading_msg">กำลังตรวจ…</string>
     <string name="dialog_permission_title">Permissions required</string>
     <string name="dialog_privacy_policy_statement">คำชี้แจงนโยบายความเป็นส่วนตัว</string>
-    <string name="dialog_privacy_title">ข้อตกลงและเงื่อนไข</string>
+    <string name="dialog_privacy_title">ข้อกำหนดและเงื่อนไข</string>
     <string name="dialog_read_phone_perm_desc">สำหรับการระบุคุณสมบัติของอุปกรณ์โดยใช้ OAID หรือ Android ID</string>
     <string name="dialog_reject">Restrict</string>
     <string name="dialog_request_network">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ต</string>
@@ -227,6 +231,8 @@ Xiaomi Health จะแจ้งเตือนคุณเกี่ยวกั
     <string name="dialog_user_agreement_purpose2">ยินดีต้อนรับสู่ Xiaomi Health คุณสามารถใช้แอปนี้เพื่อนับขั้นตอนวิเคราะห์การนอนช่วงเวลาติดตามน้ำหนักการบันทึกและอื่นๆ</string>
     <string name="disable">ปิด</string>
     <string name="discard_update">ไม่ ขอบคุณ</string>
+    <string name="download_apk">Downloading %s…</string>
+    <string name="download_background">Download</string>
     <string name="dream_talk">ละเมอ %1$s</string>
     <string name="dream_talk_record">คุณถูกบันทึกในตอนที่คุณละเมอระหว่างที่คุณหลับ</string>
     <string name="dream_talk_title">ละเมอ</string>
@@ -944,6 +950,7 @@ You can select a different data source in More > Data sources."</string>
     <string name="tb_mens_mark_success">Marked successfully</string>
     <string name="tb_mens_select_column">Cycle starts on%1$s.%2$s.%3$s.</string>
     <string name="tb_mens_unmark_success">Canceled successfully</string>
+    <string name="tb_step_widget" formatted="false">Today. %1$s. Progress: %2$d%</string>
     <string name="text_edit_exercise_goal">เปลี่ยนเป้าหมาย</string>
     <string name="text_save_exercise_goal">เสร็จสิ้น</string>
     <string name="the_anniversary_of_lifting_martial_law">วันฉลองยกเลิกอัยการศึก</string>
@@ -1060,6 +1067,7 @@ You can select a different data source in More > Data sources."</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="value_error_correct">แก้ไขบันทึก</string>
+    <string name="view_step_and_progress">View your current step count</string>
     <string name="voice_remind">เราได้เพิ่มระดับเสียงเพื่อให้คุณฟังคำแนะนำได้ดีขึ้น</string>
     <string name="walk">Walking</string>
     <string name="wednesday">วันพุธ</string>

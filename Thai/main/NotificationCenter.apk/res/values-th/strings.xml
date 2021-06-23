@@ -53,6 +53,8 @@
     <string name="feedback_tip_cancel">การแจ้งเตือนจะไม่มีการจัดเก็บ</string>
     <string name="feedback_tip_msg">เพื่อจัดกลุ่มการแจ้งเตือนที่แม่นยำยิ่งขึ้น เราต้องรวบรวม ชื่อแอป ชื่อและคำอธิบายของการแจ้งเตือน และเวลาที่ส่งการแจ้งเตือน ส่งข้อเสนอแนะของคุณ?</string>
     <string name="feedback_tip_title">ข้อเสนอแนะเกี่ยวกับหมวดหมู่การแจ้งเตือน</string>
+    <string name="float_notification_snooze_strategy">ซ่อนชั่วคราว</string>
+    <string name="float_notification_snooze_summary">ปัดการแจ้งเตือนแบบลอยขึ้นเพื่อซ่อนการแจ้งเตือนที่กำลังจะเกิดขึ้นชั่วคราว</string>
     <string name="float_notifications">การแจ้งเตือนแบบลอย</string>
     <string name="float_notifications_short">ลอยตัว</string>
     <string name="fold_importance_default">แนะนำ</string>
@@ -77,6 +79,10 @@
     <string name="menu_setting_tip_show_in_home">การแจ้งเตือนจาก %s จะไม่ถูกจัดกลุ่ม</string>
     <string name="menu_setting_tip_unfold">การแจ้งเตือนทั้งหมดจากแอปนี้จะถือว่าสำคัญ</string>
     <string name="menu_setting_unfold">สำคัญ</string>
+    <string name="miui_snooze_always_float">ไม่ซ่อน</string>
+    <string name="miui_snooze_cancel">ยกเลิก</string>
+    <string name="miui_snooze_default_time">อีก %d นาที</string>
+    <string name="miui_snooze_until_unlock_screen">จนกว่าจะล็อค</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
@@ -96,6 +102,11 @@
     <string name="notification_aggregate_title">จัดกลุ่มการแจ้งเตือน</string>
     <string name="notification_display_setting">แถบการแจ้งเตือน</string>
     <string name="notification_display_style">รูปแบบการแจ้งเตือน</string>
+    <string name="notification_fold_description1">โฟลเดอร์การแจ้งเตือนจะถูกนำมาใช้ใน MIUI9 คุณลักษณะนี้จะกรองการแจ้งเตือนที่ไม่จำเป็นและไว้ในโฟลเดอร์แยกต่างหาก</string>
+    <string name="notification_fold_description2">MIUI จะจดจำการแจ้งเตือนที่คุณแตะ และการใช้หลายครั้งเพื่อพิจารณาว่ามีความสำคัญหรือไม่</string>
+    <string name="notification_fold_description3">หากการแจ้งเตือนที่คุณพิจารณาว่าสำคัญยังคงอยู่ในโฟลเดอร์การแจ้งเตือน ตรวจสอบให้แน่ใจว่าคุณได้รายงานปัญหานี้กับเรา เรายินดีรับฟังข้อเสนอแนะของคุณ</string>
+    <string name="notification_fold_footer_icon_summary">แสดงไอคอนแอปเมื่อการแจ้งเตือนที่ไม่สำคัญถูกจัดกลุ่ม</string>
+    <string name="notification_fold_footer_icon_title">แสดงไอคอนแอป</string>
     <string name="notification_fold_summary">จัดกลุ่มการแจ้งเตือนที่ไม่สำคัญโดยอัตโนมัติ</string>
     <string name="notification_fold_title">จัดกลุ่มการแจ้งเตือน</string>
     <string name="notification_keyguard_hide_content">แสดงการแจ้งเตือนแต่ซ่อนเนื้อหา</string>
@@ -113,6 +124,7 @@
     <string name="settings_guide_title">ต้องการการตั้งค่าอื่นๆ?</string>
     <string name="show_badge_notifications">สัญลักษณ์แจ้งเตือน</string>
     <string name="show_badge_notifications_short">ติดเครื่องหมาย</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">แถบสถานะ</string>
     <string name="summary_aggregate_default">การแจ้งเตือนโปรโมชั่นและการพุชที่เกี่ยวข้องกับเนื้อหาจะถูกจัดกลุ่ม</string>
     <string name="summary_aggregate_home">การแจ้งเตือนแบบพุชจะไม่ถูกจัดกลุ่ม</string>

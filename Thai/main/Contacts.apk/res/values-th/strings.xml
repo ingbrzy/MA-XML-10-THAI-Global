@@ -162,7 +162,7 @@
     <string name="callrecordview_menu_conference">ประชุมสาย</string>
     <string name="callrecordview_menu_delete">ลบ</string>
     <string name="callrecordview_menu_delete_accepted">ล้างสายที่รับแล้ว</string>
-    <string name="callrecordview_menu_delete_called">ล้างสายออก</string>
+    <string name="callrecordview_menu_delete_called">ล้างการโทรออก</string>
     <string name="callrecordview_menu_delete_missed">ล้างสายไม่ได้รับ</string>
     <string name="callrecordview_menu_delete_one">ลบออกจากประวัติการโทร</string>
     <string name="callrecordview_menu_delete_sim">ล้างประวัติเรียกเข้า (%s)</string>
@@ -173,7 +173,7 @@
     <string name="callrecordview_menu_settings">การตั้งค่า</string>
     <string name="callrecordview_menu_show_accepted">สายที่รับ</string>
     <string name="callrecordview_menu_show_all">ทุกสาย</string>
-    <string name="callrecordview_menu_show_called">โทรออก</string>
+    <string name="callrecordview_menu_show_called">การโทรออก</string>
     <string name="callrecordview_menu_show_missed">สายไม่ได้รับ</string>
     <string name="callrecordview_menu_show_sim">สายของซิม %s</string>
     <string name="callrecordview_menu_show_stranger">สายเรียกเข้าจากหมายเลขที่ไม่รู้จัก</string>
@@ -198,6 +198,7 @@
     <string name="clear_default">ล้างค่าเริ่มต้น</string>
     <string name="clear_digits">ลบหมายเลขโทรศัพท์</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
+    <string name="close">ปิด</string>
     <string name="close_dial_pad_description">ปิดแป้นโทร</string>
     <string name="cloud_antispam_mark">รายงาน</string>
     <string name="cloud_antispam_marked">ปักหมุดแล้ว</string>
@@ -282,6 +283,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
+    <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="date_year_toggle">ระบุปี</string>
     <string name="default_ringtone">เสียงเรียกเข้าเริ่มต้น</string>
     <string name="deleteCloudConfirmationDetail">ลบข้อมูลติดต่อของ %s ทั้งจากคลาวด์และอุปกรณ์นี้?</string>
@@ -305,7 +307,7 @@
     <string name="description_call_log_incoming_forwarding_call">การโอนสายเรียกเข้า</string>
     <string name="description_call_log_missed_call">สายไม่ได้รับ</string>
     <string name="description_call_log_missed_forwarding_call">สายที่ไม่ได้รับ</string>
-    <string name="description_call_log_outgoing_call">สายออก</string>
+    <string name="description_call_log_outgoing_call">การโทรออก</string>
     <string name="description_call_log_voicemail">ข้อความเสียง</string>
     <string name="description_contact_photo">รูปภาพผู้ติดต่อ</string>
     <string name="description_dial_phone_number">ต่อสาย %1$s</string>
@@ -483,6 +485,7 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">ชื่อ</string>
     <string name="gallery">คลังภาพ</string>
     <string name="ghostData_company">บริษัท</string>
@@ -606,6 +609,7 @@
     <string name="menu_sync_remove">ลบกลุ่มที่ซิงค์</string>
     <string name="midnight">กลางคืน</string>
     <string name="miprofile_account_type">นามบัตร</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">แก้ไขข้อมูลส่วนตัว</string>
     <string name="miprofile_name">โปรไฟล์ของฉัน</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -623,10 +627,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">กำลังซิงค์กับคลาวด์…</string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
+    <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_select_all_description">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_select_item">เลือกรายการ</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
@@ -705,6 +712,7 @@
     <string name="night">เย็น</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">คุณต้องมีบัญชีเพื่อสร้างกลุ่ม</string>
+    <string name="no_contact_selected">เลือกผู้ติดต่อเพื่อดูรายละเอียด</string>
     <string name="no_contacts_dialog_message">รายชื่ออาจจัดเก็บอยู่ในซิมการ์ด ลองนำเข้ารายชื่อจากซิมการ์ดไปยังที่จัดเก็บภายในเครื่องก่อนแล้วลองอีกครั้ง</string>
     <string name="no_contacts_dialog_title">ไม่สามารถค้นหารายชื่อได้</string>
     <string name="no_phone_no_shortcut">ไม่สามารถสร้างปุ่มลัดสำหรับผู้ติดต่อที่ไม่มีหมายเลขโทรศัพท์</string>
@@ -734,6 +742,7 @@
     <string name="payphone">โทรศัพท์สาธารณะ</string>
     <string name="people">รายชื่อ</string>
     <string name="phoneLabelsGroup">โทรศัพท์</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">หมายเลขยาวเกินไป</string>
     <string name="phone_primary">หลัก</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพในเครื่อง</string>
@@ -886,6 +895,7 @@
     <string name="select_all">เลือกทั้งหมด</string>
     <string name="select_groups">เลือกกลุ่ม</string>
     <string name="select_vcard_title">เลือกไฟล์ vCard</string>
+    <string name="send">ส่ง</string>
     <string name="send_contact_shortcut_todesktop_duplicate">ปุ่มลัดนี้มีอยู่แล้ว</string>
     <string name="send_contact_shortcut_todesktop_failed">ไม่สามารถวางปุ่มลัดบนหน้าจอหลักได้</string>
     <string name="send_contact_shortcut_todesktop_overflow">ไม่สามารถวางปุ่มลัดเพิ่มบนหน้าจอหลักได้</string>
@@ -937,6 +947,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">ไม่มีสมาชิกกลุ่ม</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">บริษัท</string>
     <string name="smart_group_company_unavailable">ไม่มีข้อมูลบริษัท</string>
     <string name="smart_group_frequency_1">ภายในเดือนที่ผ่านมา</string>
@@ -978,6 +989,7 @@
     <string name="starred_contacts">รายการชื่นชอบ</string>
     <string name="status_available">ว่าง</string>
     <string name="status_away">ไม่อยู่</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">ไม่ว่าง</string>
     <string name="strequentList">รายการโปรด</string>
     <string name="success_message_import_from_account">นำเข้ารายชื่อแล้ว</string>
@@ -991,9 +1003,9 @@
     <string name="t9_search_empty_send_sms">ส่งข้อความ</string>
     <string name="t9_search_empty_video_call">วิดีโอคอล</string>
     <string name="t9_search_guide_pinyin_title1">ป้อนเลขหมายเพื่อค้นหารายชื่อ</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">ป้อน \"%d\" และ \"%d\" เพื่อค้นหาชื่อ \"ebbie mith\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">ป้อน \"%d\" และ \"%d\" เพื่อค้นหาชื่อ \"Debbie Smith\"</string>
     <string name="t9_search_guide_zhuyin_title1">ป้อนเลขหมายเพื่อค้นหารายชื่อ</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">ป้อน \"%d\" และ \"%d\" เพื่อค้นหาชื่อ \"eff ax\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">ป้อน \"%d\" และ \"%d\" เพื่อค้นหาชื่อ \"Jeff Max\"</string>
     <string name="take_new_photo">ถ่ายภาพใหม่</string>
     <string name="take_photo">ถ่ายภาพ</string>
     <string name="the_anniversary_of_lifting_martial_law">วันฉลองยกเลิกอัยการศึก</string>
@@ -1096,6 +1108,7 @@
     <string name="wednesday">วันพุธ</string>
     <string name="wednesday_short">พุธ</string>
     <string name="wednesday_shortest">พุธ</string>
+    <string name="wifi_pad_disable_phone">ไม่สามารถโทรออกได้บนอุปกรณ์นี้</string>
     <string name="wipe_data">ล้างข้อมูล</string>
     <string name="yellowPageNavigationLabel">สมุดหน้าเหลือง</string>
     <string name="yellowpage_address_tag">ที่อยู่</string>

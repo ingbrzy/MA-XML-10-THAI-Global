@@ -123,6 +123,9 @@
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d รายชื่อที่มีข้อมูลเหมือนกันบางส่วน</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">เลือกไว้ %d รายการ</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">ถูกเลือก %1$d รายการ</item>
     </plurals>

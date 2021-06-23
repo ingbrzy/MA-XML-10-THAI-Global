@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="aggregate_entries">
-        <item>จัดกลุ่ม</item>
-        <item>จัดกลุ่มและความสำคัญต่ำ</item>
-        <item>ไม่จัดกลุ่ม</item>
-    </string-array>
-    <string-array name="aggregate_summaries">
-        <item>การแจ้งเตือนโปรโมชั่นและการพุชที่เกี่ยวข้องกับเนื้อหาจะถูกจัดกลุ่ม</item>
-        <item>การแจ้งเตือนแบบพุชจะถูกจัดกลุ่มและแสดงไว้ด้านล่างการแจ้งเตือนอื่นๆ</item>
-        <item>การแจ้งเตือนแบบพุชจะไม่ถูกจัดกลุ่ม</item>
-    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
@@ -799,6 +789,31 @@
         <item>ปารามาริโบ</item>
         <item>กีโต</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>เพิ่มสีสัน</item>
         <item>สีธรรมชาติเหมือนที่ตาเห็น</item>
@@ -904,16 +919,6 @@
         <item>เพิ่มประสิทธิภาพของอุปกรณ์</item>
         <item>อาจทำให้ประสิทธิภาพของอุปกรณ์ช้าลง</item>
     </string-array>
-    <string-array name="fold_entries">
-        <item>แนะนำ</item>
-        <item>สำคัญ</item>
-        <item>ไม่สำคัญ</item>
-    </string-array>
-    <string-array name="fold_summaries">
-        <item>MIUI จะตัดสินใจว่าจะให้มีการแจ้งเตือนใด</item>
-        <item>การแจ้งเตือนจะปรากฏในแถบการแจ้งเตือน</item>
-        <item>การแจ้งเตือนจะปรากฏในโฟลเดอร์แยก</item>
-    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 นิ้ว</item>
         <item>4.0 นิ้ว</item>
@@ -928,7 +933,7 @@
         <item>ปิด</item>
         <item>เบา</item>
         <item>ปานกลาง</item>
-        <item>ดัง</item>
+        <item>หนัก</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>ไม่ต้องใช้การตรวจสอบ HDCP</item>
@@ -943,6 +948,15 @@
     <string-array name="hide_account_list">
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
+    </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>ไม่ต้องปลุกหน้าจอ</item>
@@ -987,6 +1001,43 @@
         <item>หลังจาก 5 นาที</item>
         <item>ไม่เคย</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="long_press_timeout_selector_titles">
         <item>สั้น</item>
         <item>ปานกลาง</item>
@@ -1048,12 +1099,20 @@
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>ติดตั้งเครื่องมือ: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-        <item>สร้างโฟลเดอร์นี้: mkdir/media/mtp</item>
+        <item>สร้างโฟลเดอร์นี้: mkdir /media/mtp</item>
         <item>ยืนยันสิทธิ์ของกลุ่มผู้ใช้ในกลุ่มผู้ใช้ปัจจุบัน</item>
         <item>ลงชื่อเข้าใช้อีกครั้ง</item>
         <item>เข้าถึงอุปกรณ์ที่เชื่อมต่อ: mtpfs /media/mtp ผ่านตัวจัดการไฟล์; เช่นเดียวกับโฟลเดอร์ในเครื่อง</item>
         <item>"ถอนการติดตั้งอุปกรณ์: fusermount -u /media/mtp
 หมายเหตุ: ใช้สำหรับ Ubuntu 8.04 เท่านั้น!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -1142,8 +1201,8 @@
         <item>1080p (ปลอดภัย)</item>
         <item>4K</item>
         <item>4K (ปลอดภัย)</item>
-        <item>4K (อัพเกรด)</item>
-        <item>4K (อัพเกรด, ปลอดภัย)</item>
+        <item>4K (อัปเกรด)</item>
+        <item>4K (อัปเกรด, ปลอดภัย)</item>
         <item>720p, 1080p (หน้าจอคู่)</item>
     </string-array>
     <string-array name="paper_color_values">
@@ -1160,6 +1219,97 @@
         <item>ตัดเสียงรบกวนโดยใช้ไมโครโฟนเดี่ยว</item>
         <item>ตัดเสียงรบกวนโดยใช้ไมโครโฟนคู่</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>ประสิทธิภาพการทำงาน</item>
         <item>สมดุล</item>
@@ -1270,7 +1420,7 @@
         <item>ปุ่มย้อนกลับอยู่ด้านซ้าย ปุ่มเมนูอยู่ด้านขวา</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>แสดงรายการแอปล่าสุด</item>
+        <item>แสดงถาดแอปล่าสุด</item>
         <item>แสดงเมนู</item>
     </string-array>
     <string-array name="screen_optimize_summary">
@@ -1282,6 +1432,11 @@
         <item>อัตโนมัติ (แนะนำ)</item>
         <item>อิ่มสี</item>
         <item>มาตรฐาน</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
@@ -1350,6 +1505,10 @@
         <item>ใช้สีน้ำเงินวาดบริเวณที่ไม่ใช่เหลี่ยม</item>
         <item>ใช้สีเขียววาดทำให้คำสั่งเด่น</item>
     </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>เสมอ</item>
         <item>30 นาที</item>
@@ -1376,6 +1535,62 @@
         <item>1</item>
         <item>0</item>
     </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>กรอบ</item>
+        <item>นุ่ม</item>
+        <item>ป๊อป</item>
+    </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
+    <array name="three_long_press">
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
         <item>12 ชั่วโมง 1:00 PM</item>
         <item>24 ชั่วโมง 13:00</item>
@@ -1534,6 +1749,14 @@
         <item>กราฟิก</item>
         <item>เปอร์เซ็นต์ (ในไอคอน)</item>
         <item>เปอร์เซ็นต์ (ถัดจากไอคอนในแถบแจ้งเตือน)</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_hidden_ssid_config">
+        <item>@string/wifi_ap_ssid_off</item>
+        <item>@string/wifi_ap_ssid_on</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>

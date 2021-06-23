@@ -180,8 +180,8 @@
         <item>1080p (ปลอดภัย)</item>
         <item>4K</item>
         <item>4K (ปลอดภัย)</item>
-        <item>4K (อัพเกรด)</item>
-        <item>4K (อัพเกรด, ปลอดภัย)</item>
+        <item>4K (อัปเกรด)</item>
+        <item>4K (อัปเกรด, ปลอดภัย)</item>
         <item>720p, 1080p (หน้าจอคู่)</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">

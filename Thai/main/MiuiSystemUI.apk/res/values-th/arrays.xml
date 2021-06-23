@@ -17,15 +17,6 @@
         <item>ไม่เกิน 3 การดำเนินการ</item>
         <item>ไม่เกิน 4 การดำเนินการ</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -34,7 +25,7 @@
     <string-array name="battery_options">
         <item>แสดงเปอร์เซ็นต์เสมอ</item>
         <item>แสดงเปอร์เซ็นต์เมื่อชาร์จ (ค่าเริ่มต้น)</item>
-        <item>ไม่ต้องแสดงไอคอนนี้</item>
+        <item>อย่าแสดงไอคอนนี้</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>ใช้ค่ากำหนดของระบบ (ค่าเริ่มต้น)</item>
@@ -150,7 +141,7 @@
     <string-array name="clock_options">
         <item>แสดงชั่วโมง นาที และวินาที</item>
         <item>แสดงชั่วโมงและนาที (ค่าเริ่มต้น)</item>
-        <item>ไม่ต้องแสดงไอคอนนี้</item>
+        <item>อย่าแสดงไอคอนนี้</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>เพิ่มสีสัน</item>
@@ -162,8 +153,6 @@
         <item>ธรรมชาติ</item>
         <item>มาตรฐาน</item>
     </string-array>
-    <array name="data_type_name_mcc_mnc_key" />
-    <array name="data_type_name_mcc_mnc_value" />
     <string-array name="debug_hw_overdraw_entries">
         <item>ปิด</item>
         <item>แสดงพื้นที่การวาดเกิน</item>
@@ -185,24 +174,21 @@
         <item>ตรวจสอบสำหรับเนื้อหา DRM เท่านั้น</item>
         <item>ตรวจสอบเสมอ</item>
     </string-array>
-    <string-array name="miui_volume_timer_segments_title">
-        <item>ปิด</item>
-        <item>30 นาที</item>
-        <item>1 ชั่วโมง</item>
-        <item>2 ชั่วโมง</item>
-        <item>8 ชั่วโมง</item>
+    <string-array name="miui_notification_aggregate_category">
+        <item>นี่คือเนื้อหาที่แนะนำ</item>
+        <item>นี่คือโฆษณา</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>คลิปบอร์ด</item>
-        <item>คีย์โคด</item>
-        <item>ตัวสลับแป้นพิมพ์</item>
+        <item>Keycode</item>
+        <item>การยืนยันการหมุน, ปุ่มสลับแป้นพิมพ์</item>
         <item>ไม่มี</item>
     </string-array>
     <string-array name="nav_bar_layouts">
         <item>ปกติ</item>
         <item>กะทัดรัด</item>
-        <item>ชิดซ้าย</item>
-        <item>ชิิดขวา</item>
+        <item>เอนไปทางซ้าย</item>
+        <item>เอนไปทางขวา</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>ไม่มี</item>
@@ -214,11 +200,10 @@
         <item>1080p (ปลอดภัย)</item>
         <item>4K</item>
         <item>4K (ปลอดภัย)</item>
-        <item>4K (อัพเกรด)</item>
-        <item>4K (อัพเกรด, ปลอดภัย)</item>
+        <item>4K (อัปเกรด)</item>
+        <item>4K (อัปเกรด, ปลอดภัย)</item>
         <item>720p, 1080p (หน้าจอคู่)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>ปิด</item>
         <item>64 KB</item>
@@ -301,35 +286,6 @@
         <item>RNDIS (ต่อ USB)</item>
         <item>แหล่งที่มาของเสียง</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="weather_type">
-        <item>แจ่มใส</item>
-        <item>มีเมฆมาก</item>
-        <item>มืดครึ้ม</item>
-        <item>มีหมอกจัด</item>
-        <item>พายุฝนรุนแรง</item>
-        <item>ฝนตกหนัก</item>
-        <item>ฝนฟ้าคะนอง</item>
-        <item>ฟ้าคะนอง</item>
-        <item>ฝนซู่</item>
-        <item>ฝนตกหนัก</item>
-        <item>ฝนปานกลาง</item>
-        <item>ฝนเล็กน้อย</item>
-        <item>ฝนและหิมะตก</item>
-        <item>พายุหิมะ</item>
-        <item>หิมะ</item>
-        <item>หิมะตกหนัก</item>
-        <item>หิมะปานกลาง</item>
-        <item>หิมะตกเล็กน้อย</item>
-        <item>พายุทรายรุนแรง</item>
-        <item>พายุทราย</item>
-        <item>มีฝุ่นทราย</item>
-        <item>ลมแรง</item>
-        <item>ลูกเห็บตก</item>
-        <item>ฝุ่นละออง</item>
-        <item>ฟ้าหลัว</item>
-        <item>ฝนเยือกแข็ง</item>
-        <item></item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>

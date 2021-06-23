@@ -247,7 +247,7 @@
     <string name="save">บันทึก</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="slider_view_content_description">เลื่อนขึ้นเพื่อปิดเครื่องหรือเลื่อนลงเพื่อรีบูต</string>
-    <string name="smart_home_title">Smart devices</string>
+    <string name="smart_home_title">อุปกรณ์สมาร์ท</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting_title">ศูนย์ควบคุมและแถบสถานะ</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>

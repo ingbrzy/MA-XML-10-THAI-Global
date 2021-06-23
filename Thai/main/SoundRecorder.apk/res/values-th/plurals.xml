@@ -76,13 +76,19 @@
         <item quantity="other">ไม่สามารถเรียกคืนได้ %d รายการ เนื่องจากข้อผิดพลาดที่ไม่รู้จัก</item>
     </plurals>
     <plurals name="search_alll_records_hint">
-        <item quantity="other">ค้นหาใน %d การบันทึก</item>
+        <item quantity="other">%d การบันทึก</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">ค้นหาใน %d การบันทึก</item>
+        <item quantity="other">%d การบันทึก</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">ค้นหาใน %d บันทึกการโทร</item>
+        <item quantity="other">%d บันทึกการโทร</item>
+    </plurals>
+    <plurals name="search_fm_records_hint">
+        <item quantity="other">%d การบันทึกวิทยุ</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d การบันทึกเสียง</item>
     </plurals>
     <plurals name="search_result">
         <item quantity="other">พบ %d การบันทึก</item>

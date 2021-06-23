@@ -226,6 +226,9 @@
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">เพิ่มแล้ว %d</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">Wi-Fi จะเปิดโดยอัตโนมัติเมื่ออุปกรณ์ของคุณตรวจพบเครือข่ายที่บันทึกไว้ใกล้ๆ และปิดหลังจาก %d นาทีหากไม่มีการสร้างการเชื่อมต่อ</item>
+    </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d ซิม</item>
         <item quantity="one">%1$d ซิม</item>
