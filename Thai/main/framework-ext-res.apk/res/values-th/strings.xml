@@ -163,6 +163,7 @@
     <string name="open_close_tip_content">หากต้องการปิดหน้าต่างลอยให้กดแถบการกระทำค้างไว้แล้วปัดนิ้วขึ้น</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">คีย์บอร์ดอื่นๆ</string>
     <string name="package_delete_confirm_step_1">ถอนการติดตั้ง %s?</string>
     <string name="package_delete_confirm_step_2">ถอนการติดดตั้งแอปนี้อาจทำให้ระบบของคุณจะไม่เสถียร</string>
     <string name="package_delete_confirm_step_3">คุณจะไม่สามารถที่จะเปิดแอปนี้ได้หลังจากที่คุณถอนการติดตั้งมัน</string>

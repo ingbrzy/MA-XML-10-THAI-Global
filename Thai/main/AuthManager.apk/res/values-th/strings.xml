@@ -165,6 +165,7 @@
     <string name="clipboard_read_ai_deny_once">จำกัดการเข้าถึงคลิปบอร์ดสำหรับ %1$s</string>
     <string name="clipboard_read_allow_once">%1$s ได้เข้าถึงรายการในคลิปบอร์ด</string>
     <string name="clipboard_read_deny_dialog_title">จำกัดการเข้าถึงคลิปบอร์ดสำหรับ %1$s</string>
+    <string name="close">ปิด</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -357,6 +358,14 @@
     <string name="screen_overlay_message">หากต้องการเปลี่ยนสิทธิ์นี้คุณต้องปิดหน้าจอซ้อนทับในการตั้งค่า>แอป</string>
     <string name="screen_overlay_title">ตรวจพบการซ้อนทับหน้าจอ</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="send">ส่ง</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_blur_location">ปิดใช้งาน</string>
     <string name="storage_policy_notify_both_title">%1$s ไม่ได้รับอนุญาตให้เข้าถึงคลังภาพและข้อความในแอปโซเชียลมีเดีย</string>

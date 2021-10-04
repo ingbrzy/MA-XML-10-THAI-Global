@@ -29,11 +29,14 @@
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="access_denied">เข้าสู่ระบบไม่ได้</string>
     <string name="account_related">อุปกรณ์ของคุณผูกอยู่กับบัญชีอื่นอยู่ก่อนแล้ว (%s) เชื่อมต่อเครือข่ายเพื่อยืนยันอุปกรณ์</string>
+    <string name="actionbar_button_up_description">ย้อนกลับ</string>
     <string name="activate_find_device_success">พบอุปกรณ์ที่เปิดใช้งานแล้ว</string>
     <string name="activate_finddevice">กรุณาเชื่อมต่อเครือข่ายเพื่อเปิดใช้งานอุปกรณ์</string>
     <string name="activating">กำลังเปิดใช้งาน…</string>
     <string name="add_short_cut">เพิ่ม</string>
     <string name="added_successfully">เพิ่มเรียบร้อย</string>
+    <string name="afternoon">บ่าย</string>
+    <string name="am">AM</string>
     <string name="antispam_sync">การตั้งค่าห้ามรบกวน</string>
     <string name="app_name">Xiaomi คลาวด์</string>
     <string name="bad_authentication">ชื่อบัญชีหรือรหัสผ่านไม่ถูกต้อง</string>
@@ -42,7 +45,9 @@
     <string name="calendar_sync">ปฏิทิน</string>
     <string name="check_contact">เพิ่ม</string>
     <string name="choose_contact_title">รายชื่อ</string>
+    <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="click_to_enabled">แตะเพื่อซิงค์</string>
+    <string name="close">ปิด</string>
     <string name="close_shortcut">ปิด</string>
     <string name="cloud_find_device">ค้นหาอุปกรณ์</string>
     <string name="cloud_find_device_off">ปิด</string>
@@ -82,13 +87,28 @@
     <string name="data_merge_dialog_loading">ตรวจสอบข้อมูล…</string>
     <string name="data_merge_dialog_title">ควบรวมรายการ</string>
     <string name="data_protection_title">ป้องกันข้อมูล</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
+    <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="detect_sim_card">ค้นหาซิมการ์ด</string>
-    <string name="disable_find_device_error">\"ไม่สามารถปิดใช้การค้นหาอุปกรณ์ \"%1$s</string>
+    <string name="device_activation_card_cannot_get_yet">"Couldn't get info. Try again in 3-5 days."</string>
+    <string name="device_activation_card_description">"First activation is registered when a device connects to the network (including but not limited to Wi-Fi and mobile networks) for the first time. It normally takes a while to register first activation, so it's better to wait for 3-5 days after connecting to the network before checking activation status.&lt;br>&lt;br>Device activation is the main factor in determining the validity period of our extended warranty. Check our &lt;a href=%1$s>Return, Exchange, and Repair Policy&lt;/a> for more details.&lt;br>&lt;br>Feel free to call our customer support hotline if you have any questions: 400-100-5678."</string>
+    <string name="device_activation_card_description_china">"First activation is registered when a device connects to the network (including but not limited to WLAN and mobile networks) for the first time. It normally takes a while to register first activation, so it's better to wait for 3-5 days after connecting to the network before checking activation status.&lt;br>&lt;br>Device activation is the main factor in determining the validity period of our extended warranty. Check our &lt;a href=%1$s>Return, Exchange, and Repair Policy&lt;/a> for more details.&lt;br>&lt;br>Feel free to call our customer support hotline if you have any questions: 400-100-5678."</string>
+    <string name="device_activation_card_device_not_support">Not supported on this device</string>
+    <string name="device_activation_card_local_service_error">"Couldn't get info. Wait a minute or two and try again."</string>
+    <string name="device_activation_card_no_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
+    <string name="device_activation_card_title">First activation</string>
+    <string name="device_activation_page_title">Device activation</string>
     <string name="do_not_merge">ยกเลิก </string>
-    <string name="enable_find_device_error">\"ไม่สามารถเปิดใช้การค้นหาอุปกรณ์ \"%1$s</string>
+    <string name="early_morning">เช้า</string>
+    <string name="empty" />
     <string name="enable_find_device_success">ค้นหาอุปกรณ์เปิดอยู่</string>
     <string name="enable_micloud">ลงชื่อเข้าใช้เพื่อใช้ Xiaomi คลาวด์</string>
     <string name="enable_sync_setting_title">กำหนดค่าบริการคลาวด์…</string>
+    <string name="eras_ad">หลังคริสตกาล</string>
+    <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="error_canceled">ยกเลิกแล้ว</string>
     <string name="error_credential_fail">รหัสผ่านผิดพลาด</string>
     <string name="error_data_in_transfer">การซิงค์จะเสร็จใน %s ชั่วโมง</string>
@@ -108,25 +128,82 @@
     <string name="error_token_expired">ลงชื่อเข้าใช้งานบัญชี Mi ของคุณอีกครั้ง</string>
     <string name="error_unknown">ไม่สามารถเข้าใช้งาน</string>
     <string name="error_unsupported">โทรศัพท์ไม่รองรับคุณลักษณะนี้</string>
+    <string name="evening">บ่าย</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="feedback_custom_hint">อธิบายปัญหาที่คุณพบที่นี่ หากคุณจะให้คำแนะนำเรา เรายินดีที่จะรับรายละเอียดเพิ่มเติม!</string>
     <string name="find_device">ค้นหาอุปกรณ์</string>
     <string name="find_device_dspt_provision">ในกรณีที่เครื่องโทรศัพท์ของคุณหาย คุณสามารถเข้าไปที่ &lt;font color=#0097FF>%s&lt;/font> เพื่อค้นหาพิกัดเครื่อง ทำการล็อกหรือรีเซ็ต โดยคุณสามารถเปิด-ปิดคุณลักษณะนี้ได้ตลอดเวลาในเมนูการตั้งค่า</string>
-    <string name="find_device_error_network">ตรวจสอบการเชื่อมต่อข้อมูลและลองอีกครั้ง</string>
-    <string name="find_device_error_server">ข้อผิดพลาดจากเซิร์ฟเวอร์</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">โดยการเปิดใช้งานค้นหาอุปกรณ์นี้ คุณยอมรับใน <a href="app://com.miui.cloudservice.gdpr.license"><u> นโยบายความเป็นส่วนตัว</u></a>ของเรา หากคุณต้องการถอนการให้สิทธิ์ กรุณาปิดใช้งานคุณลักษณะนี้</string>
     <string name="find_device_operation_failure_rpc">ไม่สามารถดำเนินการได้เนื่องจากข้อผิดพลาด RPC</string>
     <string name="find_device_send_sms_alert">"
 
 หากคุณเปลี่ยนซิมการ์ด ระบบจะส่งข้อความอีกครั้งเพื่อเปิดใช้งานบริการดังกล่าวโดยอัตโนมัติ"</string>
     <string name="find_device_service_title">ค้นหาอุปกรณ์</string>
-    <string name="find_device_status_summary">ค้นหาและล็อกอุปกรณ์ของคุณรวมถึงลบข้อมูลจากระยะไกล</string>
+    <string name="find_device_status_summary">ค้นหาและล็อกอุปกรณ์ของคุณรลบข้อมูล หรือถ่ายรูปจากระยะไกล</string>
     <string name="find_device_status_title_pad">ค้นหาอุปกรณ์</string>
     <string name="find_device_status_title_phone">ค้นหาอุปกรณ์</string>
     <string name="finddevice_miservice_notification_content">ล็อกอุปกรณ์จากระยะไกลหากอุปกรณ์สูญหาย</string>
     <string name="finddevice_miservice_notification_title">เปิดใช้การค้นหาอุปกรณ์</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'น.'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"h 'น.'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'มิลลิวิ'"</string>
+    <string name="fmt_time_minute">"m'นาที'"</string>
+    <string name="fmt_time_minute_second">"m'นาที' s'วิ'"</string>
+    <string name="fmt_time_minute_second_millis">"m'นาที' s.S'วิ'"</string>
+    <string name="fmt_time_second">"s'วิ'"</string>
+    <string name="fmt_time_second_millis">"s.S'วิ'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="forget_password"><u>ลืมรหัสผ่าน</u></string>
+    <string name="friday">วันศุกร์</string>
+    <string name="friday_short">ศุกร์</string>
+    <string name="friday_shortest">ศุกร์</string>
     <string name="help_and_feedback">ช่วยเหลือและข้อเสนอแนะ</string>
+    <string name="hybrid_provider">ให้บริการโดย %1$s</string>
     <string name="i_know">ตกลง</string>
     <string name="input_password_hint">ป้อนรหัสผ่าน</string>
     <string name="internet_access_dspt">การใช้งานแอปนี้ต้องเชื่อมต่อกับอินเตอร์เน็ตเพื่อให้ทำงานได้ตามปกติ</string>
@@ -162,6 +239,7 @@
     <string name="ks_fingerprint_status">สถานะการชำระเงิน</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
+    <string name="ks_name_high_precise_position">high precise position</string>
     <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
     <string name="ks_name_soter">Soter</string>
     <string name="ks_name_widevine">Widevine (L1)</string>
@@ -207,12 +285,9 @@
     <string name="mi_drive_summary">เข้าถึงเอกสารจาก Xiaomi คลาวด์ บนอุปกรณ์หลายเครื่อง</string>
     <string name="mi_drive_title">Mi ไดรฟ์</string>
     <string name="micloud_alert_dialog_positive">ตกลง</string>
-    <string name="micloud_all_sub_1_intl_sms">ระบบจะส่งข้อความ SMS ระหว่างประเทศเพื่อเปิดใช้งานซิมการ์ด คุณจะเสียค่าบริการให้แก่ผู้ให้บริการเครือข่าย</string>
-    <string name="micloud_all_sub_1_sms">ระบบจะส่งข้อความ SMS เพื่อเปิดใช้งานซิมการ์ด คุณจะเสียค่าบริการให้แก่ผู้ให้บริการเครือข่าย</string>
-    <string name="micloud_all_sub_1_sms_1_intl_sms">ระบบจะส่งข้อความ SMS 2 ข้อความ(ในประเทศและระหว่างประเทศ) เพื่อเปิดใช้งานซิมการ์ด คุณจะเสียค่าบริการให้แก่ผู้ให้บริการเครือข่าย</string>
-    <string name="micloud_all_sub_2_intl_sms">ระบบจะส่งข้อความ SMS ระหว่างประเทศ 2 ข้อความเพื่อเปิดใช้งานซิมการ์ด คุณจะเสียค่าบริการให้แก่ผู้ให้บริการเครือข่าย</string>
-    <string name="micloud_all_sub_2_sms">ระบบจะส่งข้อความ SMS 2 ข้อความเพื่อเปิดใช้งานซิมการ์ด คุณจะเสียค่าบริการให้แก่ผู้ให้บริการเครือข่าย</string>
-    <string name="micloud_all_sub_resend_sms">"เมื่อคุณเปิดใช้ 'ค้นหาอุปกรณ์' ข้อความ SMS ยืนยันการใช้งานอาจถูกส่งไปหลังจากที่คุณสลับซิมการ์ด"</string>
+    <string name="micloud_all_sub_resend_common_sms_with_charge_hint">ในการเปิดบริการ ค้นหาอุปกรณ์ และ Xiaomi คลาวด์ &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงิน&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติ&lt;br/>เมื่อคุณเปลี่ยนซิมการ์ด &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงิน&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานอีกครั้ง&lt;br/>ค่าธรรมเนียม SMS ทั้งหมดที่เกิดจากการดำเนินการดังกล่าวจะเรียกเก็บโดยผู้ให้บริการของคุณ Xiaomi จะไม่เรียกเก็บเงินจากคุณสำหรับข้อความเหล่านี้</string>
+    <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint">ในการเปิดบริการ ค้นหาอุปกรณ์ และ Xiaomi คลาวด์ &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินภายในประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติ&lt;br/>เมื่อคุณเปลี่ยนซิมการ์ด &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินภายในประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานอีกครั้ง&lt;br/>ค่าธรรมเนียม SMS ทั้งหมดที่เกิดจากการดำเนินการดังกล่าวจะเรียกเก็บโดยผู้ให้บริการของคุณ Xiaomi จะไม่เรียกเก็บเงินจากคุณสำหรับข้อความเหล่านี้</string>
+    <string name="micloud_all_sub_resend_inter_sms_with_charge_hint">ในการเปิดบริการ ค้นหาอุปกรณ์ และ Xiaomi คลาวด์ &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินระหว่างประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติ&lt;br/>เมื่อคุณเปลี่ยนซิมการ์ด &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินระหว่างประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานอีกครั้ง&lt;br/>ค่าธรรมเนียม SMS ทั้งหมดที่เกิดจากการดำเนินการดังกล่าวจะเรียกเก็บโดยผู้ให้บริการของคุณ Xiaomi จะไม่เรียกเก็บเงินจากคุณสำหรับข้อความเหล่านี้</string>
     <string name="micloud_battery_low_notification_message">เชื่อมต่อแท่นชาร์จเพื่อซิงค์</string>
     <string name="micloud_battery_low_notification_title">แบตเตอรี่ต่ำ</string>
     <string name="micloud_buy_member_safe">ขอรับที่จัดเก็บข้อมูลคลาวด์เพิ่ม</string>
@@ -248,20 +323,18 @@
     <string name="micloud_confusion_yes">ใช่</string>
     <string name="micloud_detail_fail">ซิงค์ไม่ได้</string>
     <string name="micloud_detail_query_error">ไม่สามารถรับสถานะการซิงค์</string>
-    <string name="micloud_dspt">"ซิงค์รายชื่อ ข้อความ ประวัติการโทร และรายการอื่นๆ ของคุณบนทุกอุปกรณ์
-ค้นหาและล็อคอุปกรณ์ของคุณในกรณีที่อุปกรณ์สูญหาย"</string>
     <string name="micloud_dspt_provision">ใช้งาน Xiaomi คลาวด์ ในการซิงค์ข้อมูล ค้นหาพิกัดเครื่อง และแชร์สิ่งต่างๆกับเพื่อน</string>
     <string name="micloud_dspt_provision_china">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_china_v2">ใช้งาน Xiaomi คลาวด์ ในการซิงค์ข้อมูล ค้นหาพิกัดเครื่อง และแชร์สิ่งต่างๆกับเพื่อน</string>
     <string name="micloud_dspt_provision_v2">ใช้งาน Xiaomi คลาวด์ ในการซิงค์ข้อมูล ค้นหาพิกัดเครื่อง และแชร์สิ่งต่างๆกับเพื่อน</string>
-    <string name="micloud_dspt_provision_xms">ใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อมูล</string>
-    <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
-    <string name="micloud_find_device_close_alert_content">หากคุณปิดใช้งานค้นหาอุปกรณ์ คุณจะไม่สามารถระบุตำแหน่งของอุปกรณ์เมื่อใช้คุณลักณะนี้ หากอุปกรณ์ของคุณรองรับ NFC บัตรธนาคารและคีย์การ์ดทั้งหมดของคุณจะถูกลบออกจาก Mi Pay คนที่คุณแชร์ตำแหน่งด้วยจะไม่สามารถรับข้อมูลอัปเดตเกี่ยวกับที่อยู่ของคุณได้เช่นกัน</string>
+    <string name="micloud_find_device_close_alert_content">หากคุณปิดใช้งานค้นหาอุปกรณ์ คุณจะไม่สามารถระบุตำแหน่งของอุปกรณ์เมื่อใช้คุณลักณะนี้ คนที่คุณแชร์ตำแหน่งด้วยจะไม่สามารถรับข้อมูลอัปเดตเกี่ยวกับที่อยู่ของคุณได้เช่นกัน</string>
     <string name="micloud_find_device_close_alert_negtive">ปิดใช้งาน</string>
     <string name="micloud_find_device_close_alert_positive">เปิดไว้</string>
     <string name="micloud_find_device_close_alert_title">ปิดใช้การค้นหาอุปกรณ์?</string>
     <string name="micloud_find_device_close_fail">ไม่สามารถปิดใช้งานการค้นหาอุปกรณ์ได้</string>
     <string name="micloud_find_device_close_progress">กำลังปิดการค้นหาอุปกรณ์…</string>
+    <string name="micloud_find_device_common_sms_alert_with_charge_hint">&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงิน&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานบริการนี้&lt;br/>เมื่อคุณเปลี่ยนซิมการ์ด &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงิน&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานอีกครั้ง&lt;br/>ค่าธรรมเนียม SMS ทั้งหมดที่เกิดจากการดำเนินการดังกล่าวจะเรียกเก็บโดยผู้ให้บริการของคุณ Xiaomi จะไม่เรียกเก็บเงินจากคุณสำหรับข้อความเหล่านี้</string>
+    <string name="micloud_find_device_domestic_sms_alert_with_charge_hint">&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินภายในประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานบริการนี้&lt;br/>เมื่อคุณเปลี่ยนซิมการ์ด &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินภายในประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานอีกครั้ง&lt;br/>ค่าธรรมเนียม SMS ทั้งหมดที่เกิดจากการดำเนินการดังกล่าวจะเรียกเก็บโดยผู้ให้บริการของคุณ Xiaomi จะไม่เรียกเก็บเงินจากคุณสำหรับข้อความเหล่านี้</string>
     <string name="micloud_find_device_finish">เสร็จสิ้น</string>
     <string name="micloud_find_device_guide_alert_content">ค้นหาอุปกรณ์ที่เชื่อมโยงกับบัญชี Mi ของคุณ คุณต้องตั้งรหัสผ่านหรือป้อนรหัสผ่านที่คุณได้ตั้งไว้ ตรวจสอบให้แน่ใจว่าคุณจำรหัสบัญชีและรหัสผ่านของบัญชี Mi ได้</string>
     <string name="micloud_find_device_guide_alert_negtive">ไม่ ขอบคุณ</string>
@@ -272,9 +345,6 @@
     <string name="micloud_find_device_guide_desc_pad">หากอุปกรณ์ของคุณสูญหายให้ลงชื่อเข้าใช้ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> บนอุปกรณ์อื่นๆ เพื่อค้นหาล็อคระยะไกลหรือลบข้อมูลบนอุปกรณ์ที่สูญหาย &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>ดูรายละเอียด&lt;/a></string>
     <string name="micloud_find_device_guide_desc_phone">หากอุปกรณ์ของคุณสูญหายให้ลงชื่อเข้าใช้ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> บนอุปกรณ์อื่นๆ เพื่อค้นหาล็อคระยะไกลหรือลบข้อมูลบนอุปกรณ์ที่สูญหาย &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>ดูรายละเอียด&lt;/a></string>
     <string name="micloud_find_device_guide_fail_reopen">คุณสามารถเปิดใช้งานค้นหาอุปกรณ์ใน บัญชี Mi - Xiaomi คลาวด์</string>
-    <string name="micloud_find_device_guide_fail_sub_net">กรุณาตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</string>
-    <string name="micloud_find_device_guide_micloud_sub_content">ซิงค์รายชื่อ, รูปภาพ, บันทึกย่อ และอื่นๆ กับ Xiaomi คลาวด์</string>
-    <string name="micloud_find_device_guide_micloud_sub_content_v2">ซิงค์รายชื่อ, รูปภาพ, บันทึกย่อ และอื่นๆ กับ Xiaomi คลาวด์</string>
     <string name="micloud_find_device_guide_noti_content">ปกป้องข้อมูลของคุณแม้ว่าอุปกรณ์ของคุณจะสูญหาย</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">ข้อมูล QQ ของคุณจะปลอดภัยแม้ว่าอุปกรณ์ของคุณจะสูญหาย</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">ข้อมูล WeChat ของคุณจะปลอดภัยแม้ว่าอุปกรณ์ของคุณจะสูญหาย</string>
@@ -285,14 +355,17 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay แนะนำให้คุณเปิดใช้การค้นหาอุปกรณ์</string>
     <string name="micloud_find_device_guide_progress">กำลังเปิดการค้นหาอุปกรณ์…</string>
     <string name="micloud_find_device_guide_title">ลงชื่อเข้าใช้ใน &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> ด้วยบัญชี Mi ของคุณเพื่อ ค้นหาและล็อคอุปกรณ์ ทำเครื่องหมายว่าสูญหาย หรือลบข้อมูลจากระยะไกล เรียกดูรายละเอียด &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>ที่นี่&lt;/a></string>
+    <string name="micloud_find_device_inter_sms_alert_with_charge_hint">&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินระหว่างประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานบริการนี้&lt;br/>เมื่อคุณเปลี่ยนซิมการ์ด &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินระหว่างประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานอีกครั้ง&lt;br/>ค่าธรรมเนียม SMS ทั้งหมดที่เกิดจากการดำเนินการดังกล่าวจะเรียกเก็บโดยผู้ให้บริการของคุณ Xiaomi จะไม่เรียกเก็บเงินจากคุณสำหรับข้อความเหล่านี้</string>
     <string name="micloud_find_device_open_fail">ไม่สามารถปิดใช้การค้นหาอุปกรณ์ได้</string>
     <string name="micloud_find_device_opened">การค้นหาอุปกรณ์เปิดใช้งาน</string>
     <string name="micloud_find_device_opened_content">ค้นหาอุปกรณ์ของคุณใน %s</string>
-    <string name="micloud_find_device_sms_alert">อาจมีข้อความ SMS ขาออกเพื่อเปิดใช้งานบริการนี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ เมื่อคุณเปลี่ยนซิมการ์ดข้อความจะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานคุณลักษณะนี้อีกครั้ง</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_button">เปิดใช้งานค้นหาอุปกรณ์อีกครั้ง</string>
     <string name="micloud_find_device_verify_close">ปิดใช้การค้นหาอุปกรณ์</string>
     <string name="micloud_find_device_verify_fail">ไม่สามารถเปิดใช้งานค้นหาอุปกรณ์อีกครั้งได้</string>
     <string name="micloud_find_device_verify_progress">กำลังเปิดใช้งานค้นหาอุปกรณ์อีกครั้ง…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">การซิงค์ถูกยกเลิก ลองอีกครั้ง</string>
     <string name="micloud_main_head_menu_cloud_backup">ข้อมูลสำรองหน้าจอหลัก</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">การตั้งค่าระบบและรูปแบบหน้าจอหลัก</string>
@@ -304,12 +377,9 @@
     <string name="micloud_main_head_menu_state_open">เปิด</string>
     <string name="micloud_main_head_menu_state_unavailable">ไม่รองรับ</string>
     <string name="micloud_main_manual_sync">ซิงค์ด้วยตนเอง</string>
-    <string name="micloud_main_memory_low_title">ที่จัดเก็บข้อมูลภายในของโทรศัพท์ใกล้จะเต็มแล้ว</string>
     <string name="micloud_main_network_error">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="micloud_main_sync_mode_summary">ซิงค์ข้อมูลแอปแบบเรียลไทม์ การใช้พลังงานจะเพิ่มขึ้นเมื่อคุณเปิดใช้คุณลักษณะนี้</string>
     <string name="micloud_main_sync_mode_title">ซิงค์ด่วน</string>
-    <string name="micloud_main_wait_charge">ชาร์จอุปกรณ์ให้เต็มเพื่อดำเนินการซิงค์ต่อ</string>
-    <string name="micloud_main_wait_charge_sleep">ปิดหน้าจอและชาร์จอุปกรณ์ให้เต็มเพื่อดำเนินการซิงค์ต่อ</string>
     <string name="micloud_manage_space_data">จัดการข้อมูลคลาวด์</string>
     <string name="micloud_manaul_sync_success_button_text">ดูรายละเอียด</string>
     <string name="micloud_manaul_sync_success_time_prefix">ซิงค์ล่าสุด: %s</string>
@@ -328,7 +398,9 @@
     <string name="micloud_manual_grant_permission">อนุญาต</string>
     <string name="micloud_manual_local_storage_low_button_text">ล้าง</string>
     <string name="micloud_manual_local_storage_low_summary">เพิ่มพื้นที่จัดเก็บข้อมูลและลองอีกครั้ง</string>
+    <string name="micloud_manual_local_storage_low_summary_pad">เพิ่มพื้นที่จัดเก็บข้อมูลและลองอีกครั้ง</string>
     <string name="micloud_manual_local_storage_low_title">พื้นที่ว่างในเครื่องของคุณไม่เพียงพอ</string>
+    <string name="micloud_manual_local_storage_low_title_pad">ไม่สามารถซิงค์ได้ พื้นที่เก็บข้อมูลในอุปกรณ์ของคุณไม่เพียงพอ</string>
     <string name="micloud_manual_network_disconnet_button_text">ตรวจสอบการตั้งค่าเครือข่าย</string>
     <string name="micloud_manual_network_disconnet_title">ไม่สามารถซิงค์ได้เนื่องจากเครือข่ายขัดข้อง</string>
     <string name="micloud_manual_paused">หยุดชั่วคราว</string>
@@ -382,6 +454,10 @@
     <string name="micloud_proceed">ดำเนินการต่อ</string>
     <string name="micloud_request_permission_confirm">รับทราบ</string>
     <string name="micloud_request_permission_content">เพื่อให้สามารถซิงค์ กิจกรรมในปฏิทิน รายชื่อติดต่อ ข้อความ ประวัติการโทร ภาพถ่าย วิดีโอ และรายการอื่นๆ Xiaomi คลาวด์ ต้องการสิทธิ์ในการเข้าถึง ปฏิทิน รายชื่อติดต่อ บัญชี สถานะซิม ประวัติการโทร ข้อความ รูปภาพ และวิดีโอ</string>
+    <string name="micloud_request_permission_content_pad">เพื่อให้สามารถซิงค์ กิจกรรมในปฏิทิน รายชื่อติดต่อ ข้อความ ภาพถ่าย วิดีโอ และรายการอื่นๆ Xiaomi คลาวด์ ต้องการสิทธิ์ในการเข้าถึง ปฏิทิน รายชื่อติดต่อ บัญชี สถานะซิม ข้อความ รูปภาพ และวิดีโอ</string>
+    <string name="micloud_request_permission_content_pad_without_contact_but_sim">เพื่อให้สามารถซิงค์ กิจกรรมในปฏิทิน ข้อความ ภาพถ่าย วิดีโอ และรายการอื่นๆ Xiaomi คลาวด์ ต้องการสิทธิ์ในการเข้าถึง ปฏิทิน บัญชี สถานะซิม ข้อความ รูปภาพ และวิดีโอ</string>
+    <string name="micloud_request_permission_content_pad_without_sim_but_contact">เพื่อให้สามารถซิงค์ กิจกรรมในปฏิทิน รายชื่อติดต่อ ภาพถ่าย วิดีโอ และรายการอื่นๆ Xiaomi คลาวด์ ต้องการสิทธิ์ในการเข้าถึง ปฏิทิน รายชื่อติดต่อ บัญชี รูปภาพ และวิดีโอ</string>
+    <string name="micloud_request_permission_content_pad_without_sim_or_contact">เพื่อให้สามารถซิงค์ กิจกรรมในปฏิทิน ภาพถ่าย วิดีโอ และรายการอื่นๆ Xiaomi คลาวด์ ต้องการสิทธิ์ในการเข้าถึง ปฏิทิน บัญชี รูปภาพ และวิดีโอ</string>
     <string name="micloud_request_permission_title">Xiaomi คลาวด์จำเป็นต้องขออนุญาต</string>
     <string name="micloud_request_sync_too_frequent">ร้องขอมากเกินไป กรุณารอสักครู่และลองใหม่อีกครั้ง</string>
     <string name="micloud_setting_antispam_summary">เลขหมายที่ถูกบล็อกและรายการยกเว้น</string>
@@ -394,7 +470,7 @@
     <string name="micloud_setting_music_summary">รายการเพลงและเพลงโปรด</string>
     <string name="micloud_setting_notes_summary">บันทึกย่อ</string>
     <string name="micloud_setting_notes_summary_v2">บันทึกย่อ</string>
-    <string name="micloud_setting_personal_assistant_summary">การ์ดแอป vault และคุณลักษณะ</string>
+    <string name="micloud_setting_personal_assistant_summary">การ์ดและคุณลักษณะ App vault</string>
     <string name="micloud_setting_phrase_summary">คำที่ถูกใช้บ่อย</string>
     <string name="micloud_setting_recorder_summary">บันทึกเสียงและการโทร</string>
     <string name="micloud_setting_sms_summary">ข้อความ SMS และ MMS</string>
@@ -415,11 +491,13 @@
     <string name="micloud_storage_unit_gb">%s GB</string>
     <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">ซิงค์รูปภาพ รายชื่อผู้ติดต่อ บันทึกย่อ และไฟล์อื่นระหว่างอุปกรณ์ต่างๆของคุณ</string>
+    <string name="micloud_sync_alert_dialog_message_pad">ซิงค์รูปภาพ บันทึกย่อ และข้อมูลอื่นๆ ระหว่างอุปกรณ์ต่างๆ ของคุณ.</string>
     <string name="micloud_sync_alert_dialog_message_v2">ซิงค์รูปภาพ รายชื่อผู้ติดต่อ บันทึกย่อ และไฟล์อื่นระหว่างอุปกรณ์ต่างๆของคุณ</string>
     <string name="micloud_sync_alert_dialog_negative">ยกเลิก</string>
     <string name="micloud_sync_alert_dialog_positive">ตกลง</string>
     <string name="micloud_sync_alert_dialog_title">ใช้ Xiaomi คลาวด์</string>
     <string name="micloud_sync_prompt_for_no_gallery_sync">ซิงค์เฉพาะ ผู้ติดต่อ กิจกรรมในปฏิทิน และบันทึกย่อ หากต้องการซิงค์รายการเพิ่มเติมให้ไปที่การตั้งค่า Xiaomi คลาวด์</string>
+    <string name="micloud_sync_prompt_for_no_gallery_sync_pad">ซิงค์เฉพาะ กิจกรรมในปฏิทิน และบันทึกย่อ หากต้องการซิงค์รายการเพิ่มเติมให้ไปที่การตั้งค่า Xiaomi คลาวด์</string>
     <string name="micloud_sync_result_already_in_progress">กำลังดำเนินการซิงค์ก่อนหน้า…</string>
     <string name="micloud_sync_result_auth_exception">บัญชีเกิดข้อผิดพลาด</string>
     <string name="micloud_sync_result_cancel">ซิงค์ถูกขัดจังหวะ</string>
@@ -447,6 +525,7 @@
     <string name="micloud_wipe_data_confirm_title">บางรายการจากแอปต่อไปนี้จะซิงค์กับ Xiaomi Cloud คุณสามารถลบออกจากอุปกรณ์นี้โดยยังคงเก็บไว้ในระบบคลาวด์</string>
     <string name="micloud_wipe_data_remove">ลบออก</string>
     <string name="micloud_wipe_data_retain">เก็บไว้</string>
+    <string name="midnight">กลางคืน</string>
     <string name="midrive_guide1_desc">สำรองรายการไปยังระบบคลาวด์เพื่อเพิ่มพื้นที่เก็บข้อมูลบนอุปกรณ์ของคุณ</string>
     <string name="midrive_guide1_title">การสำรองข้อมูลที่ปลอดภัย</string>
     <string name="midrive_guide2_desc">ดาวน์โหลดรายการด้วยความเร็วสูงสุด</string>
@@ -456,6 +535,69 @@
     <string name="midrive_guide_btn_install">ติดตั้ง Mi ไดรฟ์</string>
     <string name="midrive_guide_btn_installed">เปิด Mi ไดรฟ์</string>
     <string name="midrive_guide_btn_installing">กำลังติดตั้ง…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
+    <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
+    <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
+    <string name="miuix_appcompat_delete_description">ลบ</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
+    <string name="miuix_appcompat_search_input_description">ค้นหา</string>
+    <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_select_all_description">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_select_item">เลือกรายการ</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ปล่อยเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">รอสักครู่…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ไม่สามารถโหลดรายการได้</string>
+    <string name="monday">วันจันทร์</string>
+    <string name="monday_short">จันทร์</string>
+    <string name="monday_shortest">จันทร์</string>
+    <string name="month_april">เมษายน</string>
+    <string name="month_april_short">เมษา</string>
+    <string name="month_april_shortest">เมษา</string>
+    <string name="month_august">สิงหาคม</string>
+    <string name="month_august_short">สิงหา</string>
+    <string name="month_august_shortest">สิงหา</string>
+    <string name="month_december">ธันวาคม</string>
+    <string name="month_december_short">ธันวา</string>
+    <string name="month_december_shortest">ธันวา</string>
+    <string name="month_february">กุมภาพันธ์</string>
+    <string name="month_february_short">กุมภา</string>
+    <string name="month_february_shortest">กุมภา</string>
+    <string name="month_january">มกราคม</string>
+    <string name="month_january_short">มกรา</string>
+    <string name="month_january_shortest">มกรา</string>
+    <string name="month_july">กรกฎาคม</string>
+    <string name="month_july_short">กรกฎา</string>
+    <string name="month_july_shortest">กรกฎา</string>
+    <string name="month_june">มิถุนายน</string>
+    <string name="month_june_short">มิถุนา</string>
+    <string name="month_june_shortest">มิถุนา</string>
+    <string name="month_march">มีนาคม</string>
+    <string name="month_march_short">มีนา</string>
+    <string name="month_march_shortest">มีนา</string>
+    <string name="month_may">พฤษภาคม</string>
+    <string name="month_may_short">พฤษภา</string>
+    <string name="month_may_shortest">พฤษภา</string>
+    <string name="month_november">พฤศจิกายน</string>
+    <string name="month_november_short">พฤศจิกา</string>
+    <string name="month_november_shortest">พฤศจิกา</string>
+    <string name="month_october">ตุลาคม</string>
+    <string name="month_october_short">ตุลา</string>
+    <string name="month_october_shortest">ตุลา</string>
+    <string name="month_september">กันยายน</string>
+    <string name="month_september_short">กันยา</string>
+    <string name="month_september_shortest">กันยา</string>
+    <string name="more">เพิ่มเติม</string>
+    <string name="morning">เช้า</string>
     <string name="mx_dspt">ข้อความ Mi</string>
     <string name="mx_dspt_provision">"ข้อความ Mi ช่วยให้คุณส่งข้อความไปยังอุปกรณ์ MIUI อื่นๆโดยไม่ต้องเสียค่าบริการใดๆขณะเชื่อมต่ออยู่กับ Wi-Fi
 
@@ -474,7 +616,10 @@
     <string name="mx_sub_dspt_provision">ข้อความ Mi</string>
     <string name="mx_sub_dspt_provision_with_voip">การโทรทางอินเทอร์เน็ต</string>
     <string name="mx_voip_dspt">Mi Voice</string>
+    <string name="night">เย็น</string>
+    <string name="no_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="no_sim">ไม่พบซิมการ์ด</string>
+    <string name="noon">เที่ยงวัน</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="notification_reinstall_key_text">ยืนยันตัวตนของคุณแล้วลองอีกครั้ง</string>
     <string name="notification_sync_fail_title">ไม่สามารถซิงค์ได้</string>
@@ -486,6 +631,7 @@
     <string name="picker_list_empty">ไม่มีรายชื่อที่นี่</string>
     <string name="picker_search_empty">ไม่พบรายชื่อ</string>
     <string name="picker_search_hint">ค้นหา</string>
+    <string name="pm">PM</string>
     <string name="power_off_locate_summary">"รายงานข้อมูลตำแหน่งโดยกดปุ่มเปิด/ปิดค้างไว้
 อาจไม่มีการรายงานข้อมูลตำแหน่งเมื่อการเชื่อมต่อเครือข่ายไม่ดี"</string>
     <string name="power_off_locate_title">รายงานตำแหน่งก่อนปิดเครื่อง</string>
@@ -499,28 +645,51 @@
     <string name="privacy_and_agreement">ข้อตกลงและเงื่อนไข</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหา ล็อค หรือลบข้อมูลในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหา ล็อค หรือลบข้อมูลในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย</string>
-    <string name="privacy_dialog_sync_all_purpose">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อความ, ประวัติการโทร, รายชื่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, เพลง, รูปภาพและวิดีโอ, การตั้งค่า Wi-Fi, บันทึกเสียง, Hการจัดเรียงหน้าจอหลัก, แอป, กำหนดการปฏิทิน, รายการบล็อก, และ แอป vault ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
+    <string name="privacy_dialog_sync_all_purpose">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อความ, ประวัติการโทร, รายชื่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, เพลง, รูปภาพและวิดีโอ, การตั้งค่า Wi-Fi, บันทึกเสียง, Hการจัดเรียงหน้าจอหลัก, แอป, กำหนดการปฏิทิน, รายการบล็อก, และ App vault ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
     <string name="privacy_dialog_sync_all_purpose_china">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อความ, ประวัติการโทร, รายชื่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, เพลง, รูปภาพและวิดีโอ, การตั้งค่า WLAN, บันทึกเสียง, Hการจัดเรียงหน้าจอหลัก, แอป, กำหนดการปฏิทิน, รายการบล็อก, และ แอป vault ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อความ, ประวัติการโทร, รายชื่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, เพลง, รูปภาพและวิดีโอ, การตั้งค่า WLAN, บันทึกเสียง, Hการจัดเรียงหน้าจอหลัก, แอป, กำหนดการปฏิทิน, รายการบล็อก, และ แอป vault ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
-    <string name="privacy_dialog_sync_all_purpose_v2">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อความ, ประวัติการโทร, รายชื่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, เพลง, รูปภาพและวิดีโอ, การตั้งค่า Wi-Fi, บันทึกเสียง, Hการจัดเรียงหน้าจอหลัก, แอป, กำหนดการปฏิทิน, รายการบล็อก, และ แอป vault ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
-    <string name="privacy_doc_cloudservice">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ ข้อความ ประวัติการโทร ผู้ติดต่อ บันทึกย่อ การตั้งค่าเบราว์เซอร์ เพลง ภาพถ่าย และวิดีโอการตั้งค่า Wi-Fi การบันทึก เค้าโครงหน้าจอหลัก แอป กิจกรรมในปฏิทิน รายการบล็อก และแอป vault ระหว่างอุปกรณ์ที่เชื่อมต่อทั้งหมด เข้าถึงสิ่งที่คุณซิงค์จากเบราว์เซอร์ใดๆ ที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>&lt;br />&lt;br />อาจต้องใช้ข้อความ SMS ขาออกเพื่อเปิดใช้งานบริการนี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ เมื่อคุณเปลี่ยนซิมการ์ด ข้อความอาจถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานคุณสมบัตินี้อีกครั้ง&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติ Xiaomi คลาวด์ จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;br />• ปฏิทิน:&lt;br />สำหรับซิงค์กิจกรรม&lt;br />• เข้าถึงข้อความ SMS:&lt;br />สำหรับซิงค์ข้อความ&lt;br />• เข้าถึงข้อความ MMS:&lt;br />สำหรับซิงค์ข้อความ&lt;br />• เข้าถึงรายชื่อ:&lt;br />สำหรับซิงค์รายชื่อ&lt;br />• แก้ไขรายชื่อ:&lt;br />สำหรับซิงค์รายชื่อ&lt;br />• ที่จัดเก็บข้อมูล:&lt;br />สำหรับบันทึกรายการบนอุปกรณ์ของคุณ (เช่น รูปภาพ, วิดีโอ, เพลง)&lt;br />หากคุณไม่เห็นด้วยที่จะให้การอนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ ออกจากระบบ หรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเราก่อนใช้งาน Xiaomi คลาวด์&lt;br /></string>
-    <string name="privacy_doc_cloudservice_china">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi Cloud เพื่อซิงค์ ข้อความ ประวัติการโทร ผู้ติดต่อ บันทึกย่อ การตั้งค่าเบราว์เซอร์ เพลง ภาพถ่ายและวิดีโอ การตั้งค่า WLAN การบันทึกเค้าโครงหน้าจอหลัก แอป กิจกรรมในปฏิทิน รายการบล็อก และแอปของอุปกรณ์ที่เชื่อมต่อทั้งหมด เข้าถึงสิ่งที่คุณซิงค์จากเบราว์เซอร์ใดๆ ได้ที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>&lt;br />&lt;br />อาจต้องใช้ข้อความ SMS ขาออกเพื่อเปิดใช้งานบริการเหล่านี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ เมื่อคุณเปลี่ยนซิมการ์ดของคุณ ข้อความอาจถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานบริการเหล่านี้อีกครั้ง&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติบริการเหล่านี้จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องได้รับการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนบุคคลของคุณ:&lt;br />• ปฏิทิน:&lt;br />สำหรับการซิงค์กิจกรรม&lt;br />• การเข้าถึง SMS:&lt;br />สำหรับการซิงค์ข้อความ&lt;br />• การเข้าถึง MMS:&lt;br />สำหรับการซิงค์ข้อความ&lt;br />• การเข้าถึงรายชื่อ:&lt;br />สำหรับการซิงค์รายชื่อ&lt;br />• การแก้ไขผู้ติดต่อ:&lt;br />สำหรับการซิงค์ผู้ติดต่อ&lt;br />• ที่จัดเก็บข้อมูล:&lt;br />สำหรับบันทึกรายการบนอุปกรณ์ของคุณ (เช่น รูปภาพ วิดีโอ เพลง)&lt;br />หากคุณไม่ยินยอมให้อนุญาตหรือแบ่งปันและอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />โปรดอ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเรา ก่อนใช้งาน Xiaomi คลาวด์&lt;br /></string>
-    <string name="privacy_doc_cloudservice_china_v2">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi Cloud เพื่อซิงค์ ข้อความ ประวัติการโทร ผู้ติดต่อ บันทึกย่อ การตั้งค่าเบราว์เซอร์ เพลง ภาพถ่ายและวิดีโอ การตั้งค่า WLAN การบันทึกเค้าโครงหน้าจอหลัก แอป กิจกรรมในปฏิทิน รายการบล็อก และแอปของอุปกรณ์ที่เชื่อมต่อทั้งหมด เข้าถึงสิ่งที่คุณซิงค์จากเบราว์เซอร์ใดๆ ได้ที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>&lt;br />&lt;br />อาจต้องใช้ข้อความ SMS ขาออกเพื่อเปิดใช้งานบริการเหล่านี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ เมื่อคุณเปลี่ยนซิมการ์ดของคุณ ข้อความอาจถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานบริการเหล่านี้อีกครั้ง&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติบริการเหล่านี้จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องได้รับการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนบุคคลของคุณ:&lt;br />• ปฏิทิน:&lt;br />สำหรับการซิงค์กิจกรรม&lt;br />• การเข้าถึง SMS:&lt;br />สำหรับการซิงค์ข้อความ&lt;br />• การเข้าถึง MMS:&lt;br />สำหรับการซิงค์ข้อความ&lt;br />• การเข้าถึงรายชื่อ:&lt;br />สำหรับการซิงค์รายชื่อ&lt;br />• การแก้ไขผู้ติดต่อ:&lt;br />สำหรับการซิงค์ผู้ติดต่อ&lt;br />• ที่จัดเก็บข้อมูล:&lt;br />สำหรับบันทึกรายการบนอุปกรณ์ของคุณ (เช่น รูปภาพ วิดีโอ เพลง)&lt;br />หากคุณไม่ยินยอมให้อนุญาตหรือแบ่งปันและอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />โปรดอ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเรา ก่อนใช้งาน Xiaomi คลาวด์&lt;br /></string>
+    <string name="privacy_dialog_sync_all_purpose_pad">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อความ, รายชื่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, รูปภาพและวิดีโอ, บันทึกเสียง, แอป, กำหนดการปฏิทิน และ รายการบล็อก ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ ข้อความ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, รูปภาพและวิดีโอ, บันทึกเสียง, แอป, กำหนดการปฏิทิน, และ รายการบล็อก ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ ข้อความ, รายชื่อผู้ติดต่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, รูปภาพและวิดีโอ, บันทึกเสียง, กำหนดการปฏิทิน และ รายการบล็อก ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ รายชื่อผู้ติดต่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, รูปภาพและวิดีโอ, บันทึกเสียง, กำหนดการปฏิทิน และ รายการบล็อก ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
+    <string name="privacy_dialog_sync_all_purpose_v2">ยินดีต้อนรับสู่บริการ Xiaomi คลาวด์! คุณสามารถใช้ Xiaomi คลาวด์ เพื่อซิงค์ข้อความ, ประวัติการโทร, รายชื่อ, บันทึกย่อ, การตั้งค่าเบราว์เซอร์, เพลง, รูปภาพและวิดีโอ, การตั้งค่า Wi-Fi, บันทึกเสียง, Hการจัดเรียงหน้าจอหลัก, แอป, กำหนดการปฏิทิน, รายการบล็อก, และ App vault ของคุณในอุปกรณ์ที่เชื่อมต่อทั้งหมด</string>
+    <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, Wi-Fi settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_china_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, Wi-Fi settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
     <string name="privacy_doc_cloudservice_global">Xiaomi คลาวด์ จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตเพื่อให้ทำงานได้ตามปกติ การซิงค์ข้อมูลอาจต้องใช้เน็ตมือถือและเปิด Wi-Fi อ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเรา ก่อนใช้บริการ Xiaomi คลาวด์</string>
-    <string name="privacy_doc_finddevice_pad">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อ ค้นหา ล็อค หรือลบข้อมูล ในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย คุณสามารถไปที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> เพื่อค้นหา ล็อค หรือรีเซ็ต&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติ ค้นหาอุปกรณ์ จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;br />• เข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการค้นหาอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่เห็นด้วยที่จะให้การอนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ ออกจากระบบ หรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเราก่อนใช้งาน ค้นหาอุปกรณ์&lt;br /></string>
-    <string name="privacy_doc_finddevice_phone">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อ ค้นหา ล็อค หรือลบข้อมูล ในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย คุณสามารถไปที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> เพื่อค้นหา ล็อค หรือรีเซ็ต&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติ ค้นหาอุปกรณ์ จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;br />• เข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการค้นหาอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่เห็นด้วยที่จะให้การอนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ ออกจากระบบ หรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเราก่อนใช้งาน ค้นหาอุปกรณ์&lt;br /></string>
-    <string name="privacy_doc_finddevice_with_telephony_feature_pad">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อ ค้นหา ล็อค หรือลบข้อมูล ในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย คุณสามารถไปที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> เพื่อค้นหา ล็อค หรือรีเซ็ต&lt;br />&lt;br />อาจมีข้อความ SMS ขาออกเพื่อเปิดใช้งานบริการนี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ เมื่อคุณเปลี่ยนซิมการ์ดข้อความจะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานคุณลักษณะนี้อีกครั้ง&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติ ค้นหาอุปกรณ์ จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;br />• เข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการค้นหาอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่เห็นด้วยที่จะให้การอนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ ออกจากระบบ หรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเราก่อนใช้งาน ค้นหาอุปกรณ์&lt;br /></string>
-    <string name="privacy_doc_finddevice_with_telephony_feature_phone">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อ ค้นหา ล็อค หรือลบข้อมูล ในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย คุณสามารถไปที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> เพื่อค้นหา ล็อค หรือรีเซ็ต&lt;br />&lt;br />อาจมีข้อความ SMS ขาออกเพื่อเปิดใช้งานบริการนี้ ผู้ให้บริการของคุณจะเรียกเก็บเงินจากคุณสำหรับข้อความนี้ เมื่อคุณเปลี่ยนซิมการ์ดข้อความจะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานคุณลักษณะนี้อีกครั้ง&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติ ค้นหาอุปกรณ์ จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;br />• เข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการค้นหาอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่เห็นด้วยที่จะให้การอนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ ออกจากระบบ หรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเราก่อนใช้งาน ค้นหาอุปกรณ์&lt;br /></string>
+    <string name="privacy_doc_cloudservice_pad">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, contacts, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_contact_but_sim">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_sim_but_contact">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your contacts, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_sim_or_contact">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_finddevice_pad">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อ ค้นหา ล็อค หรือลบข้อมูล ในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย คุณสามารถไปที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> เพื่อค้นหา ล็อค หรือรีเซ็ต&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติ ค้นหาอุปกรณ์ จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;br />• เข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการค้นหาอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่เห็นด้วยที่จะให้การอนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ ออกจากระบบ หรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเราก่อนใช้งานบริการของเรา&lt;br /></string>
+    <string name="privacy_doc_finddevice_phone">ยินดีต้อนรับสู่ ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อ ค้นหา ล็อค หรือลบข้อมูล ในอุปกรณ์ของคุณหากอุปกรณ์สูญหาย คุณสามารถไปที่ &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> เพื่อค้นหา ล็อค หรือรีเซ็ต&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติ ค้นหาอุปกรณ์ จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;br />• เข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการค้นหาอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่เห็นด้วยที่จะให้การอนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการเหล่านี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ ออกจากระบบ หรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%1$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเราก่อนใช้งานบริการของเรา&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_inter_with_charge_hint">ยินดีต้อนรับสู่ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหาล็อกหรือลบข้อมูลบนอุปกรณ์ของคุณได้หากข้อมูลสูญหาย การเยี่ยมชม &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> ช่วยให้คุณสามารถ ระบุตำแหน่ง ล็อก หรือรีเซ็ตได้ &lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินระหว่างประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานบริการนี้ เมื่อคุณเปลี่ยนซิมการ์ด &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินระหว่างประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานใหม่&lt;br/>ค่าธรรมเนียม SMS ทั้งหมดที่เกิดจากการดำเนินการดังกล่าวจะถูกเรียกเก็บโดยผู้ให้บริการของคุณ Xiaomi จะไม่เรียกเก็บเงินจากคุณสำหรับข้อความเหล่านี้&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติสิ่งนี้ บริการจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนบุคคลของคุณ:&lt;br />• การเข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการระบุตำแหน่งอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่ยินยอมที่จะให้สิทธิ์ดังกล่าวหรือแบ่งปันและอัปโหลดข้อมูลส่วนบุคคลของคุณคุณจะไม่สามารถใช้บริการนี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%2$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%3$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเรา ก่อนใช้บริการของเรา&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_common_charge_hint">ยินดีต้อนรับสู่ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหาล็อกหรือลบข้อมูลบนอุปกรณ์ของคุณได้หากข้อมูลสูญหาย การเยี่ยมชม &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> ช่วยให้คุณสามารถ ระบุตำแหน่ง ล็อก หรือรีเซ็ตได้ &lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงิน&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานบริการนี้ เมื่อคุณเปลี่ยนซิมการ์ด &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงิน&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานใหม่&lt;br/>ค่าธรรมเนียม SMS ทั้งหมดที่เกิดจากการดำเนินการดังกล่าวจะถูกเรียกเก็บโดยผู้ให้บริการของคุณ Xiaomi จะไม่เรียกเก็บเงินจากคุณสำหรับข้อความเหล่านี้&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติสิ่งนี้ บริการจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนบุคคลของคุณ:&lt;br />• การเข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการระบุตำแหน่งอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่ยินยอมที่จะให้สิทธิ์ดังกล่าวหรือแบ่งปันและอัปโหลดข้อมูลส่วนบุคคลของคุณคุณจะไม่สามารถใช้บริการนี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%2$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%3$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเรา ก่อนใช้บริการของเรา&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_domestic_charge_hint">ยินดีต้อนรับสู่ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหาล็อกหรือลบข้อมูลบนอุปกรณ์ของคุณได้หากข้อมูลสูญหาย การเยี่ยมชม &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> ช่วยให้คุณสามารถ ระบุตำแหน่ง ล็อก หรือรีเซ็ตได้ &lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินภายในประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานบริการนี้ เมื่อคุณเปลี่ยนซิมการ์ด &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินภายในประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานใหม่&lt;br/>ค่าธรรมเนียม SMS ทั้งหมดที่เกิดจากการดำเนินการดังกล่าวจะถูกเรียกเก็บโดยผู้ให้บริการของคุณ Xiaomi จะไม่เรียกเก็บเงินจากคุณสำหรับข้อความเหล่านี้&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติสิ่งนี้ บริการจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนบุคคลของคุณ:&lt;br />• การเข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการระบุตำแหน่งอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่ยินยอมที่จะให้สิทธิ์ดังกล่าวหรือแบ่งปันและอัปโหลดข้อมูลส่วนบุคคลของคุณคุณจะไม่สามารถใช้บริการนี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%2$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%3$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเรา ก่อนใช้บริการของเรา&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_common_charge_hint">ยินดีต้อนรับสู่ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหาล็อกหรือลบข้อมูลบนอุปกรณ์ของคุณได้หากข้อมูลสูญหาย การเยี่ยมชม &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> ช่วยให้คุณสามารถ ระบุตำแหน่ง ล็อก หรือรีเซ็ตได้ &lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงิน&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานบริการนี้ เมื่อคุณเปลี่ยนซิมการ์ด &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงิน&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานใหม่&lt;br/>ค่าธรรมเนียม SMS ทั้งหมดที่เกิดจากการดำเนินการดังกล่าวจะถูกเรียกเก็บโดยผู้ให้บริการของคุณ Xiaomi จะไม่เรียกเก็บเงินจากคุณสำหรับข้อความเหล่านี้&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติสิ่งนี้ บริการจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนบุคคลของคุณ:&lt;br />• การเข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการระบุตำแหน่งอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่ยินยอมที่จะให้สิทธิ์ดังกล่าวหรือแบ่งปันและอัปโหลดข้อมูลส่วนบุคคลของคุณคุณจะไม่สามารถใช้บริการนี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%2$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%3$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเรา ก่อนใช้บริการของเรา&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">ยินดีต้อนรับสู่ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหาล็อกหรือลบข้อมูลบนอุปกรณ์ของคุณได้หากข้อมูลสูญหาย การเยี่ยมชม &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> ช่วยให้คุณสามารถ ระบุตำแหน่ง ล็อก หรือรีเซ็ตได้ &lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินภายในประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานบริการนี้ เมื่อคุณเปลี่ยนซิมการ์ด &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินภายในประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานใหม่&lt;br/>ค่าธรรมเนียม SMS ทั้งหมดที่เกิดจากการดำเนินการดังกล่าวจะถูกเรียกเก็บโดยผู้ให้บริการของคุณ Xiaomi จะไม่เรียกเก็บเงินจากคุณสำหรับข้อความเหล่านี้&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติสิ่งนี้ บริการจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนบุคคลของคุณ:&lt;br />• การเข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการระบุตำแหน่งอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่ยินยอมที่จะให้สิทธิ์ดังกล่าวหรือแบ่งปันและอัปโหลดข้อมูลส่วนบุคคลของคุณคุณจะไม่สามารถใช้บริการนี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%2$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%3$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเรา ก่อนใช้บริการของเรา&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">ยินดีต้อนรับสู่ค้นหาอุปกรณ์! คุณสามารถใช้บริการนี้เพื่อค้นหาล็อกหรือลบข้อมูลบนอุปกรณ์ของคุณได้หากข้อมูลสูญหาย การเยี่ยมชม &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> ช่วยให้คุณสามารถ ระบุตำแหน่ง ล็อก หรือรีเซ็ตได้ &lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินระหว่างประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานบริการนี้ เมื่อคุณเปลี่ยนซิมการ์ด &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS แบบชำระเงินระหว่างประเทศ&lt;/b>&lt;/font> จะถูกส่งโดยอัตโนมัติเพื่อเปิดใช้งานใหม่&lt;br/>ค่าธรรมเนียม SMS ทั้งหมดที่เกิดจากการดำเนินการดังกล่าวจะถูกเรียกเก็บโดยผู้ให้บริการของคุณ Xiaomi จะไม่เรียกเก็บเงินจากคุณสำหรับข้อความเหล่านี้&lt;br />&lt;br />เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;br />เพื่อให้สามารถทำงานได้ตามปกติสิ่งนี้ บริการจำเป็นต้องเชื่อมต่ออินเทอร์เน็ตและต้องการการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนบุคคลของคุณ:&lt;br />• การเข้าถึงข้อมูลอุปกรณ์:&lt;br />สำหรับระบุอุปกรณ์ของคุณ&lt;br />• ตำแหน่งพิกัด:&lt;br />สำหรับการระบุตำแหน่งอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย&lt;br />หากคุณไม่ยินยอมที่จะให้สิทธิ์ดังกล่าวหรือแบ่งปันและอัปโหลดข้อมูลส่วนบุคคลของคุณคุณจะไม่สามารถใช้บริการนี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว&lt;br />อ่านและยอมรับ &lt;a href=%2$s>&lt;u>ข้อตกลงการใช้งาน&lt;/u>&lt;/a> และ &lt;a href=%3$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a> ของเรา ก่อนใช้บริการของเรา&lt;br /></string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="provision_back">ย้อนกลับ</string>
     <string name="provision_next">ถัดไป</string>
     <string name="provision_skip_underline">ข้าม</string>
     <string name="provision_sync_items_loading">กำลังเตรียมการเพื่อซิงค์รายการ</string>
+    <string name="quick_service_after_sale_policy_title">Policy</string>
+    <string name="quick_service_after_sale_service_title">Services</string>
+    <string name="quick_service_authenticity_check_title">Authentication</string>
+    <string name="quick_service_maintenance_price_title">Repairs</string>
+    <string name="quick_service_title">Quick services</string>
     <string name="reading_status">กำลังโหลดสถานะ…</string>
     <string name="reading_status_failure">ไม่สามารถโหลดสถานะได้</string>
+    <string name="recommend_service_cloudservice_description">Sync system app data, back up settings, Home screen layout, and more</string>
+    <string name="recommend_service_sharelocation_description">Locate, lock, and erase data on missing devices, and share location with your friends and family</string>
+    <string name="recommend_service_title">Recommended services</string>
     <string name="retain_data_high_quality_photo_waring_message">รูปภาพคุณภาพสูงจะถูกลบออกจากคลังภาพของคุณหลังจากที่คุณออกจากระบบ ไฟล์ต้นฉบับที่เกี่ยวข้องจะยังคงถูกเก็บไว้ในระบบคลาวด์ คุณยังสามารถดาวน์โหลดไฟล์ต้นฉบับก่อนออกจากระบบ</string>
     <string name="retain_data_high_quality_photo_waring_title">รูปภาพคุณภาพสูงจะไม่สามารถใช้ได้</string>
+    <string name="saturday">วันเสาร์</string>
+    <string name="saturday_short">เสาร์</string>
+    <string name="saturday_shortest">เสาร์</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="send">ส่ง</string>
     <string name="share_cancel">ยกเลิกการแชร์แล้ว</string>
     <string name="share_failed">ไม่สามารถแชร์ได้</string>
     <string name="share_location_app_name">ค้นหา</string>
@@ -595,7 +764,7 @@
     <string name="share_sdk_permission_checked_error">เลือกอย่างน้อย 1 รายการ</string>
     <string name="share_sdk_pref_category_family_detail">รายละเอียด</string>
     <string name="share_sdk_pref_category_member_title">เลือกสมาชิก</string>
-    <string name="share_sdk_pref_category_search_local_title">รายชื่อ</string>
+    <string name="share_sdk_pref_category_search_local_title">รายชื่อผู้ติดต่อ</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">สแกนรหัส QR</string>
     <string name="share_sdk_pref_family_detail_title">ดูรายละเอียดกลุ่มครอบครัว</string>
     <string name="share_sdk_privacy_link_description">อ่านและยอมรับ <a href="https://account.xiaomi.com/about/protocol/privacy"><u>นโยบายความเป็นส่วนตัวของ บัญชี Mi</u></a> ก่อนใช้บริการออนไลน์</string>
@@ -643,10 +812,13 @@
     <string name="storage_upgrade_card_title">อัปเกรดแผนของคุณ</string>
     <string name="sub_alert_notif_content">เปิดใช้งาน Xiaomi คลาวด์</string>
     <string name="sub_alert_notif_title">ซิงค์ด้วย Xiaomi คลาวด์</string>
-    <string name="sub_sync_item_sms_summary">ซิงค์ข้อความที่มีรูปภาพ เสียงหรือสื่อมีเดียอื่นๆในเครื่อง เฉพาะเมื่อเชื่อมต่อกับ Wi-Fi แล้วเท่านั้น</string>
+    <string name="sub_sync_item_sms_summary">เปิดเพื่อบันทึกข้อมูลมือถือและซิงค์ข้อความผ่าน Wi-Fi เท่านั้น</string>
     <string name="sub_sync_item_sms_title_wifi_only">ซิงค์ข้อความ MMS ผ่าน Wi-Fi เท่านั้น</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Only use WLAN to sync MMS</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
+    <string name="sunday">วันอาทิตย์</string>
+    <string name="sunday_short">อาทิตย์</string>
+    <string name="sunday_shortest">อาทิตย์</string>
     <string name="sync_detail_summary_master_sync_off">ซิงค์ถูกปิด</string>
     <string name="sync_detail_summary_off">ซิงค์ถูกปิด</string>
     <string name="sync_detail_text">รายละเอียดการซิงค์</string>
@@ -654,6 +826,7 @@
     <string name="sync_dspt_entrance_provision">ซิงค์รูปภาพ บันทึกย่อ และอื่นๆ ของคุณระหว่างเครื่อง คุณสามารถเข้าถึงสิ่งที่คุณซิงค์ไว้ผ่านเบราว์เซอร์ได้ที่ %s</string>
     <string name="sync_dspt_entrance_provision_confirm_close">ไม่ใช้</string>
     <string name="sync_dspt_entrance_provision_confirm_content">แอปภายในระบบ MIUI อาศัย Xiaomi คลาวด์ในการสำรองข้อมูลรูปภาพ ข้อความ บันทึกย่อ และอื่นๆ บริการ Xiaomi คลาวด์นั้นไม่คิดค่าบริการและพร้อมใช้ได้ทันที</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_pad">คุณสามารถใช้ Xiaomi คลาวด์ในการสำรองข้อมูลรูปภาพ ข้อความ บันทึกย่อ และอื่นๆ บริการ Xiaomi คลาวด์นั้นไม่คิดค่าบริการและพร้อมใช้ได้ทันที</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">แอปภายในระบบ MIUI อาศัย Xiaomi คลาวด์ในการสำรองข้อมูลรูปภาพ ข้อความ บันทึกย่อ และอื่นๆ บริการ Xiaomi คลาวด์นั้นไม่คิดค่าบริการและพร้อมใช้ได้ทันที</string>
     <string name="sync_dspt_entrance_provision_confirm_open">ใช้ Xiaomi คลาวด์</string>
     <string name="sync_dspt_entrance_provision_confirm_title">ไม่ต้องการใช้ Xiaomi คลาวด์?</string>
@@ -665,7 +838,7 @@
     <string name="sync_item_autofill_title">ซิงค์อัตโนมัติ</string>
     <string name="sync_item_calllog_summary">ซิงค์บันทึกเสียงสนทนาในโทรศัพท์นี้</string>
     <string name="sync_item_calllog_title">ซิงค์ประวัติการโทร</string>
-    <string name="sync_item_sms_summary">ซิงค์ข้อความที่รับและส่งจากอุปกรณ์นี้</string>
+    <string name="sync_item_sms_summary">ซิงค์ข้อความที่ส่งและรับบนอุปกรณ์นี้</string>
     <string name="sync_item_sms_title">ซิงค์ข้อความ</string>
     <string name="sync_item_title">ซิงค์ข้อมูลแอป</string>
     <string name="sync_normal_summary">ไม่สามารถซิงค์บางรายการจากรายการด้านล่าง</string>
@@ -681,17 +854,65 @@
     <string name="sync_page_route_ok">เปิดใช้งาน</string>
     <string name="sync_page_route_remember">ไม่ต้องแสดงอีก</string>
     <string name="sync_setting_title">ซิงค์ค่าที่ตั้งไว้</string>
-    <string name="sync_sub_1_intl_sms">การลงทะเบียนต้องการส่งข้อความต่างประเทศซึ่งจะมีค่าใช้จ่าย ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความนี้</string>
-    <string name="sync_sub_1_sms">การลงทะเบียนต้องการส่งข้อความออกซึ่งจะมีค่าใช้จ่าย ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความนี้</string>
-    <string name="sync_sub_1_sms_1_intl_sms">การลงทะเบียนต้องการส่งข้อความในประเทศ 1 ข้อความ ต่างประเทศ 1 ข้อความ ซึ่งจะมีค่าใช้จ่าย ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความเหล่านี้</string>
-    <string name="sync_sub_2_intl_sms">การลงทะเบียนต้องการส่งข้อความต่างประเทศ 2 ข้อความ ซึ่งจะมีค่าใช้จ่าย ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความเหล่านี้</string>
-    <string name="sync_sub_2_sms">การลงทะเบียนต้องการส่งข้อความ 2 ข้อความ ซึ่งจะมีค่าใช้จ่าย ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความเหล่านี้</string>
     <string name="system_busy_or_network_error">เกิดข้อผิดพลาด รอประมาณ1-2นาทีแล้วลองอีกครั้ง</string>
+    <string name="system_cta_retry_get_permission_btn_pad">เริ่ม</string>
+    <string name="system_cta_retry_get_permission_msg_pad">ต้องการการอนุญาต</string>
+    <string name="the_anniversary_of_lifting_martial_law">วันฉลองยกเลิกอัยการศึก</string>
+    <string name="the_anti_aggression_day">วันต่อต้านการกระทำรุนแรง</string>
+    <string name="the_arbor_day">วันอาร์เบอร์</string>
+    <string name="the_armed_forces_day">วันกองทัพจีน</string>
+    <string name="the_armys_day">วัน PLA</string>
+    <string name="the_childrens_day">วันเด็ก</string>
+    <string name="the_chinese_youth_day">วันเยาวชน</string>
+    <string name="the_christmas_day">คริสมาสต์</string>
+    <string name="the_double_ninth_festival">เทศกาลเก้าคู่</string>
+    <string name="the_dragon_boat_festival">เทศกาลแข่งเรือมังกร</string>
+    <string name="the_easter_day">วันอีสเตอร์</string>
+    <string name="the_eve_of_the_spring_festival">วันก่อนตรุษจีน</string>
+    <string name="the_fifth_day">ตรุษจีนวันที่ 5</string>
+    <string name="the_fools_day">วันโกหก</string>
+    <string name="the_forth_day">ตรุษจีนวันที่ 4</string>
+    <string name="the_hksar_establishment_day">วันสถาปนาเขตปกครองพิเศษฮ่องกง</string>
+    <string name="the_international_womens_day">วันสตรี</string>
+    <string name="the_laba_festival">เทศกาลล่าปา</string>
+    <string name="the_labour_day">วันแรงงาน</string>
+    <string name="the_lantern_festival">เทศกาลโคมไฟ</string>
+    <string name="the_mid_autumn_festival">เทศกาลกลางฤดูใบไม้ร่วง</string>
+    <string name="the_national_day">วันชาติ</string>
+    <string name="the_national_father_day">วันเกิดซุนยัตเซ็น</string>
+    <string name="the_new_years_day">ปีใหม่</string>
+    <string name="the_night_of_sevens">เทศกาล Qixi</string>
+    <string name="the_partys_day">วัน CPC</string>
+    <string name="the_peace_day">วันรำลึก</string>
+    <string name="the_retrocession_day">วันฉลองส่งมอบเกาะไต้หวัน</string>
+    <string name="the_second_day">ตรุษจีนวันที่ 2</string>
+    <string name="the_seventh_day">ตรุษจีนวันที่ 7</string>
+    <string name="the_sixth_day">ตรุษจีนวันที่ 6</string>
+    <string name="the_spirit_festival">เทศกาลผี</string>
+    <string name="the_spring_festival">วันตรุษจีน</string>
+    <string name="the_teachers_day">วันครู</string>
+    <string name="the_third_day">ตรุษจีนวันที่ 3</string>
+    <string name="the_tw_childrens_day">วันเด็ก</string>
+    <string name="the_tw_youth_day">วันเยาวชน</string>
+    <string name="the_united_nations_day">วันสหประชาชาติ</string>
+    <string name="the_valentines_day">วันวาเลนไทน์</string>
+    <string name="the_water_lantern_festival">เทศกาลโคมไฟน้ำ</string>
+    <string name="thursday">วันพฤหัสบดี</string>
+    <string name="thursday_short">พฤหัส</string>
+    <string name="thursday_shortest">พฤหัส</string>
+    <string name="time_picker_dialog_title">ตั้งเวลา</string>
+    <string name="time_picker_label_hour">ชม.</string>
+    <string name="time_picker_label_minute">น.</string>
     <string name="tip_short_cut_added_success">สร้างเรียบร้อยแล้ว</string>
     <string name="tip_short_cut_already_added">สร้างแล้ว</string>
     <string name="title_back">ย้อนกลับ</string>
     <string name="title_reg">สร้างบัญชี Mi</string>
+    <string name="today">วันนี้</string>
+    <string name="tomorrow">พรุ่งนี้</string>
     <string name="trying_to_connect_to_network">กำลังเชื่อมต่อกับเครือข่าย…</string>
+    <string name="tuesday">วันอังคาร</string>
+    <string name="tuesday_short">อังคาร</string>
+    <string name="tuesday_shortest">อังคาร</string>
     <string name="user_agreement_content">ในการใช้บริการนี้ถือว่าคุณได้ตกลงและยินยอมตาม %s</string>
     <string name="user_agreement_link">เงื่อนไขการให้บริการ Xiaomi คลาวด์</string>
     <string name="user_agreement_p5">"
@@ -713,6 +934,12 @@
     <string name="warning_bar_title_network_unconnected">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="warning_bar_title_short_cut">เพิ่มปุ่มลัดหน้าจอหลักสำหรับ Xiaomi คลาวด์?</string>
     <string name="warning_bar_title_sync_off">การซิงค์กับ Xiaomi คลาวด์ปิดใช้อยู่</string>
+    <string name="web_sso_login_fail">กรุณาลงชื่อเข้าใช้อีกครั้ง</string>
+    <string name="web_sso_login_message">กำลังเข้าสู่ระบบ…</string>
+    <string name="webview_reload">ลองอีกครั้ง</string>
+    <string name="wednesday">วันพุธ</string>
+    <string name="wednesday_short">พุธ</string>
+    <string name="wednesday_shortest">พุธ</string>
     <string name="wipe_data_dialog_button_check_sync">ตรวจสอบหากซิงค์</string>
     <string name="wipe_data_dialog_msg">บางรายการ %s ยังไม่ได้ซิงค์ มันจะถูกบันทึกไว้ในโทรศัพท์ของคุณและจะไม่ถูกลบ</string>
     <string name="wipe_data_dialog_msg_and_on">, และรายการบางอย่าง</string>
@@ -722,4 +949,5 @@
     <string name="wipe_secret_photo_dialog_title">รูปภาพที่ซ่อนยังไม่ได้ซิงค์</string>
     <string name="xiaomi_cloud_service">Xiaomi คลาวด์</string>
     <string name="xiaomi_cloud_service_subtitle">ทุกสิ่งสำคัญในที่เดียว</string>
+    <string name="yesterday">เมื่อวาน</string>
 </resources>

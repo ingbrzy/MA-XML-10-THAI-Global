@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">freeform</string>
+    <string name="app_name">หน้าต่างลอย</string>
+    <string name="bottom_bar_smallwindow_text">ปล่อยเพื่อปักหมุด</string>
     <string name="contentDescription">ย้ายหน้าต่าง</string>
     <string name="freeform_demo_back">ย้อนกลับ</string>
     <string name="freeform_demo_final_over">เสร็จสิ้น</string>
@@ -9,6 +10,10 @@
     <string name="freeform_demo_go_on">ถัดไป</string>
     <string name="freeform_demo_title_finish">ยอดเยี่ยม!</string>
     <string name="freeform_demo_title_skip">ข้าม</string>
+    <string name="freeform_slide_to_small_freeform">ย่อหน้าต่างลอย</string>
+    <string name="freeform_slide_to_small_freeform_summary">กดแถบการทำงานค้างไว้แล้วลากเข้ามุม</string>
+    <string name="fullscreen_slide_to_small_freeform">ย่อขนาดแอป</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">ปัดจากด้านล่างของหน้าจอไปที่มุมขวาบน</string>
     <string name="how_to_close_or_fullscreen_freeform">การปิดหน้าต่างลอยหรือเปลี่ยนเป็นโหมดเต็มหน้าจอ</string>
     <string name="how_to_drop_down_to_fullscreen">สลับเป็นโหมดเต็มหน้าจอ</string>
     <string name="how_to_drop_down_to_fullscreen_summary">กดค้างไว้แล้ว ดึงแถบแอ็คชั่นของหน้าต่างลอย</string>

@@ -51,7 +51,6 @@
     <string name="boot_video_skip">ข้าม</string>
     <string name="calculator_introduction">คุณสามารถใช้แอปนี้ในการคำนวณ แปลงหน่วย และสกุลเงิน และประเมินการชำระเงินกู้ของคุณ</string>
     <string name="camera_introduction">คุณสามารถใช้กล้องเพื่อถ่ายภาพและถ่ายวิดีโอ</string>
-    <string name="carrier_introduction">เพื่อให้บริการที่ดีกว่าแก่คุณ อุปกรณ์ของคุณอาจส่งข้อมูลรุ่นอุปกรณ์ของคุณเป็นระยะ ๆ ข้อมูลระบุอุปกรณ์ (รวมถึง IMEI/IMSI/MSISDN/MAC address, MEID/ICCID) และข้อมูลตำแหน่งโดยประมาณ (รวมถึงรหัสสถานีฐาน) ผู้ให้บริการผ่าน Wi-Fi เครือข่ายข้อมูลมือถือหรือ SMS ฟรี ผู้ให้บริการสัญญาว่าจะวิเคราะห์ข้อมูลที่เกี่ยวข้องเพื่อปรับปรุงคุณภาพการบริการหรือเพื่อให้บริการหรือเทคโนโลยีที่กำหนดเองเท่านั้นและจะไม่เปิดเผยข้อมูลที่เกี่ยวข้องกับบุคคลที่สามในรูปแบบใดๆ ที่ระบุตัวตนของคุณ ข้อความของผู้ให้บริการเฉพาะจะชัดเจนกว่า ปรึกษาผู้ให้บริการของคุณเกี่ยวกับค่าใช้จ่ายในการใช้บริการนี้</string>
     <string name="clock_introduction">คุณสามารถใช้แอปนี้เพื่อดูเวลา รวมถึงใช้ ตัวจับเวลา นาฬิกาโลก นาฬิกาจับเวลา ตั้งนาฬิกาปลุก และอื่นๆ</string>
     <string name="close_location_service_setting">คุณสามารถเลือกปิดใช้งานการเข้าถึงตำแหน่งพิกัดใน การตั้งค่า > การตั้งค่าเพิ่มเติม > ความเป็นส่วนตัวหรือสิทธิ์การใช้งานจำกัดสำหรับแอปส่วนบุคคลในความปลอดภัย</string>
     <string name="cm_terms_content">เพื่อปรับปรุงการบริการที่ดีขึ้นให้กับคุณ ผู้ดำเนินการเครือข่ายมือถือที่คุณเลือกอาจอัปโหลดข้อมูลส่วนบุคคลและข้อมูลเกี่ยวกับอุปกรณ์นี้ไปยังเซิร์ฟเวอร์โดยใช้เครือข่าย Wi-Fi หรือการเชื่อมต่อข้อมูลมือถือ ข้อมูลนี้จะถูกใช้เพื่อวัตถุประสงค์ทางสถิติเท่านั้นเพื่อปรับปรุงคุณภาพของบริการและให้เนื้อหาที่เป็นส่วนตัวมากขึ้น ข้อมูลนี้จะไม่ถูกใช้เพื่อระบุตัวคุณเป็นการส่วนตัวและจะไม่ถูกเปิดเผยต่อบุคคลที่สาม</string>
@@ -80,6 +79,7 @@
     <string name="disagreement_exit_app">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะลงชื่อออกหรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว</string>
     <string name="disagreement_function">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้คุณลักษณะนี้ได้ คุณสามารถเลือกที่จะไม่ใช้คุณลักษณะนี้ในกรณีดังกล่าว</string>
     <string name="disagreement_location_service">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้บริการนี้ได้</string>
+    <string name="disagreement_terminate_miuidaemon">หากคุณไม่ยินยอมให้อนุญาตหรือแบ่งปันและอัปโหลดข้อมูลส่วนบุคคลของคุณ คุณจะไม่สามารถใช้บริการนี้ได้ คุณสามารถเลือกที่จะไม่ใช้บริการนี้หรือจำกัดสิทธิ์ในการตั้งค่าในกรณีเช่นนี้ โปรดทราบว่าเราจะใช้สิทธิ์เฉพาะเมื่อคุณเริ่มถ่ายโอนข้อมูลจากอุปกรณ์ของคุณเมื่อหน้าจอเสียหาย</string>
     <string name="disagreement_terminate_service">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะถอนการติดตั้ง ลงชื่อออก หรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว</string>
     <string name="download_introduction">\"ดาวน์โหลด\" ใช้ Xunlei เพื่อดาวน์โหลดรายการบนอุปกรณ์ของคุณ เครื่องมือนี้ใช้งานได้กับ GetApps อัปเดตระบบธีมวิดีโอและการดาวน์โหลดเบราว์เซอร์</string>
     <string name="enable_accessibility_canceled">ยกเลิกสิ่งอำนวยความสะดวกแล้ว</string>
@@ -160,7 +160,7 @@
     <string name="other_settings_user_experience">โปรแกรมประสบการณ์ผู้ใช้</string>
     <string name="other_settings_user_experience_summary">ช่วยพัฒนาสินค้าและบริการของเรา​ด้วยการแชร์สถิติการใช้ของคุณกับเรา เรียกดูรายละเอียด</string>
     <string name="other_settings_user_experience_summary_index">เรียกดูรายละเอียด</string>
-    <string name="permission_MIUIDaemon_introduction">MIUI Daemon allows you to transfer data from your device when its screen is damaged.</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon ช่วยให้คุณสามารถถ่ายโอนข้อมูลจากอุปกรณ์ของคุณเมื่อหน้าจอเสียหาย</string>
     <string name="permission_account">เข้าถึงบัญชีผ่านอุปกรณ์ของคุณ:</string>
     <string name="permission_account_introduction">สำหรับลงชื่อเข้าใช้ด้วยบัญชี Mi</string>
     <string name="permission_application_package_introduction">สำหรับการเข้าถึงที่เก็บข้อมูลเพื่อวิเคราะห์และสแกนแพ็คเกจการติดตั้ง</string>
@@ -193,9 +193,9 @@
     <string name="permission_picture_introduction">สำหรับการบันทึก การแก้ไข และการซิงค์รูปภาพและวิดีโอ</string>
     <string name="permission_read_call_records">แก้ไขประวัติการโทร:</string>
     <string name="permission_read_call_records_introduction">สำหรับการเพิ่มรายการในประวัติการโทรและการลบสายที่ถูกบล็อก</string>
-    <string name="permission_read_contacts">Accessing contacts</string>
+    <string name="permission_read_contacts">การเข้าถึงรายชื่อผู้ติดต่อ</string>
     <string name="permission_read_contacts_introduction">For verifying your identity</string>
-    <string name="permission_read_message">Accessing text messages</string>
+    <string name="permission_read_message">การเข้าถึงข้อความ</string>
     <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">สำหรับการเข้าถึงบันทึกย่อและไฟล์แนบ</string>
     <string name="permission_read_write_file">เข้าถึงและบันทึกไฟล์และภาพถ่ายในอุปกรณ์ของคุณ:</string>
@@ -224,6 +224,7 @@
     <string name="provision_skip_underline">ข้าม</string>
     <string name="recorder_introduction">คุณสามารถใช้แอปนี้เพื่อบันทึกเสียงและสำรองข้อมูลการบันทึกไปยังคลาวด์</string>
     <string name="require_authority_statement">ในการอนุญาตให้เราให้บริการขั้นพื้นฐานแก่คุณ คุณต้องให้สิทธิ์ต่อไปนี้เพื่อให้เรารวบรวมข้อมูลส่วนบุคคลของคุณ:</string>
+    <string name="require_miuidaemon_authority_statement">ในการอนุญาตให้เราให้บริการนี้แก่คุณ คุณต้องให้สิทธิ์ต่อไปนี้เพื่อให้เรารวบรวมข้อมูลส่วนบุคคลของคุณ:</string>
     <string name="require_network_authority_statement">ในการอนุญาตให้เราให้บริการขั้นพื้นฐานแก่คุณ คุณต้องเชื่อมต่ออินเทอร์เน็ตและให้สิทธิ์ต่อไปนี้เพื่อให้เรารวบรวมข้อมูลส่วนบุคคลของคุณ:</string>
     <string name="screen_recording_introduction">แอปนี้ให้คุณบันทึกสิ่งที่เกิดขึ้นบนหน้าจอของคุณ</string>
     <string name="search_menu_title">ค้นหา</string>
@@ -307,7 +308,7 @@
     <string name="title_fingerprint">ตั้งรหัสผ่าน</string>
     <string name="title_set_fingerprint">ล็อกหน้าจอ</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
-    <string name="user_agreement_declare">ก่อนที่จะใช้ MIUI คุณต้องอ่านและยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเรา ในขณะที่อุปกรณ์ของคุณกำลังเปิดใช้งาน การเปิดใช้งานบริการ Mi SIM, Xiaomi คลาวด์, ค้นหาอุปกรณ์, หน้าจอหลัก, วลีที่ใช้บ่อย, บริการแปลภาษา, MIUI Daemon, ตัวเรียกดู HTML, MIUI SDK, ผู้ช่วย AI, แบตเตอรี่และประสิทธิภาพ, ตัวตรวจจับพลังงาน, Joyose, การตั้งค่า OS AI, ตัวจัดการการอนุญาต และ ตัวอัปเดต จะเชื่อมต่อกับเครือข่าย บริการอัจฉริยะ จะเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณ</string>
+    <string name="user_agreement_declare">ก่อนใช้ MIUI คุณต้องอ่านและยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเรา ขณะเปิดใช้งานอุปกรณ์ของคุณ, บริการเปิดใช้งาน Mi ซิม, Xiaomi คลาวด์, บริการสำรองข้อมูล, ค้นหาอุปกรณ์, หน้าจอหลัก, วลีที่ใช้บ่อย, Xiaomi Internet Communication Service, บริการแปล, MIUI Daemon, HTML Viewer, MIUI SDK, แอปพลิเคชันองค์ประกอบความปลอดภัย, ผู้ช่วย AI, แบตเตอรี่และประสิทธิภาพ, Power Detector, Joyose, การตั้งค่า OS AI และ ตัวอัปเดต จะเชื่อมต่อกับเครือข่าย สมาร์ทการ์ด ตัวจัดการการอนุญาต และบริการอัจฉริยะ จะเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณ</string>
     <string name="voice_assist_advice">Mi AI อณุญาตให้คุณใช้การควบคุมด้วยเสียง แต่จะใช้พลังงานมากกว่าเดิม (+1% ทุกชั่วโมง)</string>
     <string name="voice_assist_condition">"คุณจะสามารถใช้งาน Mi AI ได้ในกรณี:r
 1. เมื่อหน้าจอเปิดอยู่r

@@ -351,7 +351,7 @@
 - ในอุปกรณ์แอนดรอยด์ สามารถค้นพบ บลูทูธ ได้โดยไปที่ การตั้งค่าเครือข่าย
 - ในอุปกรณ์ iOS สามารถค้นพบ บลูทูธ ได้โดยไปที่ การตั้งค่า
 
-%2$d. ในอุปกรณ์แอนดรอยด์ยังต้องเปิด การมองเห็น
+%2$d ในอุปกรณ์แอนดรอยด์ยังต้องเปิด โหมดเปิดการมองเห็น
 
 %3$d. แตะ \"ถัดไป\" และแตะเลือก อนุญาตการเข้าถึงผู้ติดต่อ"</string>
     <string name="device_transfer_by_sim_message">"%1$d. บันทึกรายชื่อจากอุปกรณ์อื่นๆในซิมการ์ด;
@@ -444,47 +444,64 @@
     <string name="favorites_list_empty">ไม่มีรายการโปรด</string>
     <string name="firewall_setting">รายการบล็อก</string>
     <string name="five_letter">JKL</string>
-    <string name="fmt_date_day">dd</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'น.'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"h 'น.'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'มิลลิวิ'"</string>
+    <string name="fmt_time_minute">"m'นาที'"</string>
+    <string name="fmt_time_minute_second">"m'นาที' s'วิ'"</string>
+    <string name="fmt_time_minute_second_millis">"m'นาที' s.S'วิ'"</string>
+    <string name="fmt_time_second">"s'วิ'"</string>
+    <string name="fmt_time_second_millis">"s.S'วิ'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="four_letter">GHI</string>
     <string name="frequentList">ใช้บ่อย</string>
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">ชื่อ</string>
     <string name="gallery">คลังภาพ</string>
     <string name="ghostData_company">บริษัท</string>
@@ -608,6 +625,7 @@
     <string name="menu_sync_remove">ลบกลุ่มที่ซิงค์</string>
     <string name="midnight">กลางคืน</string>
     <string name="miprofile_account_type">นามบัตร</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">แก้ไขข้อมูลส่วนตัว</string>
     <string name="miprofile_name">โปรไฟล์ของฉัน</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -740,6 +758,7 @@
     <string name="payphone">โทรศัพท์สาธารณะ</string>
     <string name="people">รายชื่อ</string>
     <string name="phoneLabelsGroup">โทรศัพท์</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">หมายเลขยาวเกินไป</string>
     <string name="phone_primary">หลัก</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพในเครื่อง</string>
@@ -944,6 +963,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">ไม่มีสมาชิกกลุ่ม</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">บริษัท</string>
     <string name="smart_group_company_unavailable">ไม่มีข้อมูลบริษัท</string>
     <string name="smart_group_frequency_1">ภายในเดือนที่ผ่านมา</string>
@@ -985,6 +1005,7 @@
     <string name="starred_contacts">รายการชื่นชอบ</string>
     <string name="status_available">ว่าง</string>
     <string name="status_away">ไม่อยู่</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">ไม่ว่าง</string>
     <string name="strequentList">รายการโปรด</string>
     <string name="success_message_import_from_account">นำเข้ารายชื่อแล้ว</string>

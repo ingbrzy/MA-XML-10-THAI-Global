@@ -54,6 +54,10 @@
         <item>ไอโฟน</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>ค้นหา</item>
+        <item>ข่าวสาร</item>
+    </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>ลบ</item>
         <item>ไม่ ขอบคุณ</item>

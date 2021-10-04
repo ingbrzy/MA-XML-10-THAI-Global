@@ -79,6 +79,7 @@
     <string name="accessibility_document_blackwhite_button">สแกนเอกสาร ดำและขาว</string>
     <string name="accessibility_document_origin_button">สแกนเอกสาร เป็นต้นฉบับ</string>
     <string name="accessibility_document_strengthen_button">สแกนเอกสาร เพิ่มประสิทธิภาพ</string>
+    <string name="accessibility_double_click_to_exit">แตะสองครั้งเพื่อออก</string>
     <string name="accessibility_dual_preview_change">ดูการเปลี่ยนแปลง</string>
     <string name="accessibility_dual_preview_change_finish">ดูการเปลี่ยนแปลงเรียบร้อยแล้ว</string>
     <string name="accessibility_dual_video_merged">วีด๊โอรวม</string>
@@ -118,6 +119,7 @@
     <string name="accessibility_live_preview_button">ดูรายการก่อนหน้า</string>
     <string name="accessibility_live_reverse_button">ลบคลิปก่อนหน้า</string>
     <string name="accessibility_live_speed_panel_on">ความเร็วแผงหน้าจอ</string>
+    <string name="accessibility_lock_focus_success">ล็อคโฟกัสเรียบร้อยแล้ว</string>
     <string name="accessibility_manually_custom_panel_on">แผงการปรับแต่ง</string>
     <string name="accessibility_mimoji_background_panel_on">แผงภาพพื้นหลัง</string>
     <string name="accessibility_mimoji_gif_off">โหมด GIF ปิดอยู่</string>
@@ -128,6 +130,7 @@
     <string name="accessibility_mimovie_on">ใช้กรอบภาพยนตร์</string>
     <string name="accessibility_module_picker_finish">เปลี่ยนเป็น %s</string>
     <string name="accessibility_more">เพิ่มเติม</string>
+    <string name="accessibility_multi_cam_reselect_button">เลือกกล้องอีกครั้ง</string>
     <string name="accessibility_open">เปิด</string>
     <string name="accessibility_pano_moving_left">เลื่อนอุปกรณ์ไปทางซ้าย</string>
     <string name="accessibility_pano_moving_right">เลื่อนอุปกรณ์ไปทางขวา</string>
@@ -146,11 +149,14 @@
     <string name="accessibility_preview_selected">ที่เลือกไว้</string>
     <string name="accessibility_preview_shrink">ซูมออก</string>
     <string name="accessibility_preview_zoom_tip">ตัวอย่างการซูม %1$.1fX</string>
+    <string name="accessibility_pro_parameters_panel_on">เปิดเมนูด้วยพารามิเตอร์ PRO</string>
     <string name="accessibility_pro_video_simple_mode">โหมดง่าย</string>
     <string name="accessibility_protrait">ภาพบุคคล</string>
     <string name="accessibility_pull_down_to_open_camera">เลื่อนลงเพื่อเปิดกล้อง</string>
     <string name="accessibility_record_button">ปุ่มบันทึก</string>
     <string name="accessibility_reduce">ซูมออก</string>
+    <string name="accessibility_reference_line_image_off">ไม่แสดงเส้นตาราง</string>
+    <string name="accessibility_reference_line_image_on">แสดงเส้นตาราง</string>
     <string name="accessibility_reference_line_text">เปิดแผงที่มีตัวเลือกบรรทัดอ้างอิง</string>
     <string name="accessibility_review_thumbnail">รูปภาพล่าสุด</string>
     <string name="accessibility_select_all">เลือกทั้งหมด</string>
@@ -179,6 +185,8 @@
     <string name="accessibility_timer_burst_image_off">ตั้งเวลาถ่ายต่อเนื่องปิดใช้งานอยู่</string>
     <string name="accessibility_timer_burst_image_on">ตั้งเวลาถ่ายต่อเนื่องเปิดใช้งานอยู่</string>
     <string name="accessibility_timer_burst_text">แผงการปรับตั้งเวลาถ่ายต่อเนื่อง</string>
+    <string name="accessibility_touch_focus_fail">ไม่สามารถโฟกัสได้</string>
+    <string name="accessibility_touch_focus_success">โฟกัสเรียบร้อยแล้ว</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD ถูกปิด</string>
     <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD ถูกเปิด</string>
     <string name="accessibility_ultra_wide_off">ปิดใช้งานโหมดมุมกว้างพิเศษ</string>
@@ -474,7 +482,7 @@
     <string name="confirm_location_message">&lt;Data>ยินดีต้อนรับสู่ง กล้อง! การติดแท็กภาพถ่ายและวิดีโอของคุณด้วยตำแหน่งที่พวกเขาถ่ายจะทำให้แกลเลอรีของคุณเป็นระเบียบมากขึ้นและช่วยให้คุณค้นหารายการได้เร็วขึ้น คุณสมบัติบางอย่างอาจไม่สามารถใช้ได้หากคุณจำกัดการเพิ่มข้อมูลตำแหน่ง&lt;br/>&lt;br/>เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง&lt;/Data></string>
     <string name="confirm_location_title">คุณจำได้ไหมว่าถ่ายจากที่ไหน?</string>
     <string name="confirm_recording_fail_calling_alert">บันทึกขณะโทรไม่ได้</string>
-    <string name="confirm_recording_fail_recorder_busy_alert">แอปอื่นอาจกำลังใช้งานไมค์เพื่อบันทึกเสียงอยู่ก่อน</string>
+    <string name="confirm_recording_fail_recorder_busy_alert">แอปอื่นอาจกำลังใช้งานไมโครโฟนของอุปกรณ์เพื่อบันทึกเสียงอยู่ก่อน</string>
     <string name="confirm_recording_fail_title">บันทึกไม่สำเร็จ</string>
     <string name="confirm_reset_manually_parameter_message">รีเซ็ตพารามิเตอร์ทั้งหมดเป็นค่าเริ่มต้น</string>
     <string name="confirm_restore_message">เรียกคืนค่าการตั้งค่าเริ่มต้นของกล้อง?</string>
@@ -513,6 +521,7 @@
     <string name="custom_watermark_words">ลายน้ำที่กำหนดเอง</string>
     <string name="custom_watermark_words_input_hint">ป้อนข้อความ</string>
     <string name="custom_watermark_words_save_success">บันทึกเรียบร้อยแล้ว</string>
+    <string name="dd_frn_f_t">พับอุปกรณ์ของคุณเพื่อใช้กล้องหน้า</string>
     <string name="dialog_button_accept">ยอมรับ</string>
     <string name="dialog_button_back">ย้อนกลับ</string>
     <string name="dialog_button_cancel">ยกเลิก </string>
@@ -565,11 +574,15 @@
     <string name="dual_video_record_remote">บันทึกโทรศัพท์คู่</string>
     <string name="dual_video_record_standalone">แยก</string>
     <string name="dual_video_user_guide_main_content">ในการสร้างวิดีโอมัลติแคมให้เลือกกล้องสองตัวบนอุปกรณ์ของคุณแล้วถ่ายพร้อมกัน การบันทึกสามารถจัดเก็บแยกกัน หรือรวมกันในมุมมองแยก หรือวิดีโอแบบภาพซ้อนภาพ</string>
+    <string name="dual_video_user_guide_main_content_new">"วิดีโอมัลติแคมถ่ายด้วยกล้องหลายตัวพร้อมกัน
+การบันทึกโทรศัพท์คู่ยังช่วยให้คุณเชื่อมต่อกับอุปกรณ์อีกเครื่องและสร้างวิดีโอมัลติแคมโดยเลือก \"รวม\""</string>
     <string name="dual_video_user_guide_main_title">วีดีโอมัลติแคม</string>
     <string name="dual_video_user_guide_merge_content">ถ่ายด้วยกล้องสองตัวพร้อมกันและรวมการบันทึกในมุมมองแยกหรือวิดีโอแบบภาพซ้อนภาพ</string>
-    <string name="dual_video_user_guide_remote_content">การบันทึกโทรศัพท์คู่ช่วยให้รวมฟีดจากอุปกรณ์สองเครื่องเข้าด้วยกันเป็นวิดีโอเดียว คุณจะดูตัวอย่างทั้งฟีดและวิดีโอสุดท้ายบนอุปกรณ์นี้ได้ โปรดทราบว่าการบันทึกเสียงจะทำที่อุปกรณ์นี้เท่านั้น</string>
+    <string name="dual_video_user_guide_merge_content_new">สามารถรวมการบันทึกสองรายการในมุมมองแยกหรือวิดีโอแบบภาพซ้อนภาพ</string>
+    <string name="dual_video_user_guide_remote_content">รวมฟีดจากอุปกรณ์สองเครื่องเข้าด้วยกันเป็นวิดีโอเดียว คุณจะดูตัวอย่างทั้งฟีดและวิดีโอสุดท้ายบนอุปกรณ์นี้ได้ โปรดทราบว่าการบันทึกเสียงจะทำที่อุปกรณ์นี้เท่านั้น</string>
     <string name="dual_video_user_guide_remote_p">โทรศัพท์ %d</string>
     <string name="dual_video_user_guide_standalone_content">ถ่ายด้วยกล้องสองตัวพร้อมกันและบันทึกทั้งสองรายการเป็นวิดีโอแยกกัน</string>
+    <string name="dual_video_user_guide_standalone_content_new">นอกจากนี้ยังสามารถแยกวิดีโอที่บันทึกพร้อมกันและบันทึกเป็นไฟล์สองไฟล์</string>
     <string name="edit_blusher">สีไวน์</string>
     <string name="edit_chin">คาง</string>
     <string name="edit_color_skin">สีผิว</string>
@@ -592,6 +605,7 @@
     <string name="edit_solid">รูปร่าง</string>
     <string name="emoticon">แพ็กสติ๊กเกอร์</string>
     <string name="error_fail_to_start_audio_capture">ไม่สามารถเริ่มการถ่ายภาพด้วยเสียงได้</string>
+    <string name="esp_tip">ตัวอย่างการแสดงผลด้านนอก</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="eye_light">ประกายตา</string>
     <string name="eye_light_angel">นางฟ้า</string>
@@ -735,7 +749,7 @@
     <string name="live_sticker_updating">กำลังอัปเดต…</string>
     <string name="live_workspace_title">ฉบับร่าง</string>
     <string name="live_workspace_title_edit">เลือกรายการที่จะลบ</string>
-    <string name="location_access_allow">อนุญาต</string>
+    <string name="location_access_allow">Agree</string>
     <string name="location_permission_des">จดจำตำแหน่งสำหรับรูปภาพและวิดีโอ</string>
     <string name="location_permission_not_ask_again">อนุญาตให้ กล้อง เข้าถึงตำแหน่งพิกัดของคุณในการตั้งค่าโทรศัพท์</string>
     <string name="location_permission_not_ask_again_go_to_settings">อนุญาต</string>
@@ -897,6 +911,7 @@
     <string name="module_name_panorama">พานอรามา</string>
     <string name="module_name_portrait">ภาพบุคคล</string>
     <string name="module_name_professional">โปร</string>
+    <string name="module_name_scanner">สแกนเนอร์</string>
     <string name="module_name_square">สี่เหลี่ยม</string>
     <string name="module_name_super_moon">ซุปเปอร์มูน</string>
     <string name="module_name_video">วิดีโอ</string>
@@ -914,8 +929,8 @@
     <string name="network_access_user_notice_title">กำลังเชื่อมต่อกับอินเตอร์เน็ต</string>
     <string name="network_connection_failed">ไม่สามารถเชื่อมต่อได้</string>
     <string name="network_connection_ongoing">กำลังเชื่อมต่อ…</string>
-    <string name="network_connection_prerequisites">เปิดบลูทูธ และ Wi-Fi เพื่อใช้บันทึกโทรศัพท์คู่</string>
-    <string name="network_connection_prerequisites_china">Turn on Bluetooth and WLAN to be able to use Dual phone recording.</string>
+    <string name="network_connection_prerequisites">เปิดบลูทูธ และ Wi-Fi ในศูนย์ควบคุมเพื่อใช้บันทึกโทรศัพท์คู่</string>
+    <string name="network_connection_prerequisites_china">Turn on Bluetooth and WLAN in Control center to be able to use Dual phone recording.</string>
     <string name="network_connection_rejected">ถูกปฏิเสธ</string>
     <string name="network_connection_timed_out">การเชื่อมต่อหมดเวลา</string>
     <string name="no_storage">ใส่ SD การ์ดก่อนใช้งานกล้อง</string>
@@ -1052,6 +1067,7 @@
     <string name="pref_camera_auxiliary_close">ปิด</string>
     <string name="pref_camera_auxiliary_exposure_feedback">การตรวจสอบการเปิดรับแสง</string>
     <string name="pref_camera_auxiliary_focus_peak">จุดโฟกัสสูงสุด</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
@@ -1084,11 +1100,12 @@
     <string name="pref_camera_delay_capture_entry_audio">เสียง</string>
     <string name="pref_camera_delay_capture_title">ตัวจับเวลา</string>
     <string name="pref_camera_device_watermark_title">ลายน้ำอุปกรณ์</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">อัตราเฟรมจะลดลงโดยอัตโนมัติในสภาพแสงน้อยเพื่อปรับปรุงคุณภาพของวิดีโอ</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">อัตราเฟรมจะลดลงโดยอัตโนมัติในสภาพแสงน้อยหรืออุณหภูมิสูงเพื่อปรับปรุงคุณภาพของวิดีโอ</string>
     <string name="pref_camera_dynamic_frame_rate_title">ปรับอัตราเฟรมตามแสงน้อย</string>
     <string name="pref_camera_eis_entry_normal">วิดีโอนิ่ง</string>
     <string name="pref_camera_eis_entry_off">ปิด</string>
     <string name="pref_camera_eis_entry_pro">วิดีโอนิ่งแบบ PRO</string>
+    <string name="pref_camera_esp">ตัวอย่างการแสดงผลด้านหลัง</string>
     <string name="pref_camera_face_info_watermark_title">แสดงอายุบนรูปภาพ</string>
     <string name="pref_camera_fastmotion_duration">ระยะเวลา</string>
     <string name="pref_camera_fastmotion_duration_description">ระยะเวลาของการถ่ายทำจะไม่จำกัดตามค่าเริ่มต้น นอกจากนี้คุณยังสามารถตั้งเวลาซึ่งจะหยุดเซสชั่นในช่วงเวลาที่กำหนด</string>
@@ -1238,6 +1255,8 @@
     <string name="pref_camera_tip_id_card">ตัวสแกน ID</string>
     <string name="pref_camera_touchafaec_entry_off">ปิด</string>
     <string name="pref_camera_touchafaec_entry_on">เปิด</string>
+    <string name="pref_camera_track_focus_preferred_description">เปิดเพื่อรักษาโฟกัสที่คนและสัตว์โดยอัตโนมัติ คุณยังสามารถเลือกตัวละครสำหรับการติดตามได้ด้วยตนเอง</string>
+    <string name="pref_camera_track_focus_preferred_title">การติดตามโฟกัส</string>
     <string name="pref_camera_ubifocus_title">ปรับจุดโฟกัส</string>
     <string name="pref_camera_ultra_wide_ldc_description">แก้ไขวัตถุที่บิดเบี้ยวโดยอัตโนมัติ</string>
     <string name="pref_camera_ultra_wide_ldc_title">แก้ไขความผิดเพี้ยนของภาพมุมกว้างพิเศษ</string>
@@ -1402,11 +1421,15 @@
     <string name="prek_b_j_o">สร้างเอฟเฟกต์สเตอริโอเซอร์ราวด์ใหม่</string>
     <string name="prek_b_j_p">ลดผลกระทบของลมในการบันทึกเสียง</string>
     <string name="prep_video_ai_audio_new_desc_tip">เสียงจากวัตถุที่อยู่ในโฟกัสได้รับการปรับปรุง</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">เสียงจากวัตถุที่อยู่ในโฟกัสได้รับการปรับปรุงในโหมดแนวนอน</string>
     <string name="prep_video_ai_audio_single_desc_tip">เสียงจากด้านหลังหน้าจอจะถูกกรอง</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">เสียงจากด้านหลังหน้าจอจะถูกกรองในโหมดแนวนอน</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">การซูมเสียงใช้ไม่ได้กับมอนิเตอร์อินเอียร์สดและไมโครโฟนภายนอก</string>
     <string name="preparing_sd">กำลังตรวจสอบ SD การ์ด…</string>
     <string name="preview_back_pressed_hint">แตะอีกครั้งเพื่อย้อนกลับไปยังตัวอย่าง</string>
     <string name="pro_color_mode">สีแบบโปร</string>
+    <string name="process_tips_1">อย่าพับอุปกรณ์จนกว่าวิดีโอจะได้รับการบันทึก</string>
+    <string name="process_tips_2">อย่าแบอุปกรณ์จนกว่าวิดีโอจะได้รับการบันทึก</string>
     <string name="professional_shortcut_short">โปร</string>
     <string name="recommend_macro_mode">ลองใช้โหมดมาโคร</string>
     <string name="recommend_portrait">ลองใช้โหมดพอร์ทเทรต</string>
@@ -1431,6 +1454,9 @@
     <string name="reset_manual_picture_style_toast">รีเซ็ตพารามิเตอร์สำเร็จ</string>
     <string name="reset_manually_parameter_confirmed">ตกลง</string>
     <string name="reset_manually_parameter_hint">รีเซ็ต</string>
+    <string name="scan_install_prompt_header">ติดตั้ง สแกนเนอร์</string>
+    <string name="scan_install_prompt_loading">กำลังติดตั้ง สแกนเนอร์…</string>
+    <string name="scan_install_prompt_message">ติดตั้ง สแกนเนอร์ และลองอีกครั้ง</string>
     <string name="screen_on_proximity_sensor_hint">หากต้องการปิดการใช้งานนี้ กดปุ่มเพิ่มเสียงและปุ่มย้อนกลับพร้อมกัน</string>
     <string name="screen_on_proximity_sensor_summary">กรุณาอย่าบังบริเวณใกล้หูฟัง</string>
     <string name="search_menu_title">ค้นหา</string>
@@ -1497,6 +1523,7 @@
     <string name="super_moon_under">แสงจันทร์</string>
     <string name="super_moon_window">หน้าต่าง</string>
     <string name="super_night_hint">ปรับภาพให้เหมาะสม… รักษาอุปกรณ์ของคุณให้มั่นคง</string>
+    <string name="super_night_owl_toast">รักษาโทรศัพท์ของคุณให้นิ่ง</string>
     <string name="super_night_se_tip">โหมดกลางคืน</string>
     <string name="super_night_toast">รักษาโทรศัพท์ของคุณให้มั่นคงในขณะที่ถ่ายรูป</string>
     <string name="tap_to_exposure">แตะเพื่อปรับการเปิดรับแสงด้วยตนเอง</string>
@@ -1532,9 +1559,11 @@
     <string name="ubifocus_capture_warning_message">เพื่อผลลัพธ์ที่ดีที่สุด องค์ประกอบภาพของคุณควรมีทั้งวัตถุที่อยู่ใกล้ (ระยะห่างจากเลนส์กล้องไม่เกิน 1 เมตร) และวัตถุที่อยู่ไกล</string>
     <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD ถูกปิด</string>
     <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
+    <string name="ultra_pixel_100mp">100MP</string>
     <string name="ultra_pixel_108mp">108MP</string>
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
     <string name="ultra_pixel_64mp">64MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD ถูกปิด</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD ถูกเปิด</string>

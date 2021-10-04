@@ -57,6 +57,12 @@
     <plurals name="local_video_floder">
         <item quantity="other">%d โฟลเดอร์</item>
     </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d นาที</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d ซีซั่น</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">คำบรรยายจะแสดงก่อน %.1f วินาที</item>
     </plurals>

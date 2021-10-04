@@ -15,7 +15,7 @@
         <item>รายวัน</item>
         <item>วันทำงาน</item>
         <item>วันหยุด</item>
-        <item>จันทร์-ศุกร์</item>
+        <item>จันทร์ถึงศุกร์</item>
         <item>กำหนดเอง</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
@@ -53,13 +53,13 @@
         <item>30 นาที</item>
     </string-array>
     <string-array name="bedtime_guide_repeat_type">
-        <item>จันทร์ - ศุกร์</item>
+        <item>วันจันทร์ถึงวันศุกร์</item>
         <item>ทุกวัน</item>
         <item>วันทำงาน</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>ทุกวัน</item>
-        <item>วันจันทร์ - วันศุกร์</item>
+        <item>วันจันทร์ถึงวันศุกร์</item>
         <item>วันทำงาน</item>
         <item>กำหนดเอง</item>
     </string-array>

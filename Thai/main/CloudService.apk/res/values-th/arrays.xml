@@ -32,6 +32,10 @@
         <item>Back up important settings, including WLAN and display</item>
         <item>"Lock your device remotely if it's lost"</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>ซิงค์รูปภาพ บันทึกย่อ บันทึกเสียง และอื่นๆ ของคุณ</item>
+        <item>ล็อกอุปกรณ์จากระยะไกลหากอุปกรณ์สูญหาย</item>
+    </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>ซิงค์รายชื่อ ข้อความ บันทึกย่อ ปฏิทิน และอื่นๆของคุณ</item>
         <item>สำรองข้อมูลแอป การจัดเรียงหน้าจอหลัก และภาพพื้นหลัง</item>
@@ -42,6 +46,10 @@
         <item>ซิงค์ข้อมูลแอป</item>
         <item>สำรองข้อมูลการจัดวางหน้าจอหลัก</item>
         <item>สำรองข้อมูลการตั้งค่าระบบ</item>
+        <item>ค้นหาอุปกรณ์</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>ซิงค์ข้อมูลแอป</item>
         <item>ค้นหาอุปกรณ์</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
@@ -136,12 +144,22 @@
         <item>เรียกคืนค่ารายชื่อ รูปภาพ ข้อความ และอื่นๆ</item>
         <item>ขยะ;รายการที่ลบ;ถังขยะ;เรียกคืนค่า;บริการคลาวด์;Xiaomi คลาวด์</item>
     </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>รายการที่ลบใน Xiaomi คลาวด์</item>
+        <item>กู้คืนรูปภาพ บันทึกย่อ และอื่นๆ</item>
+        <item>ขยะ;รายการที่ลบ;ถังขยะ;เรียกคืนค่า;บริการคลาวด์;Xiaomi คลาวด์</item>
+    </string-array>
     <string-array name="settings_search_restore_device">
         <item>เรียกคืนรายการจาก Xiaomi คลาวด์</item>
         <item>ดาวน์โหลดรายการสำรองข้อมูลไปยังอุปกรณ์ของคุณ</item>
         <item>คลาวด์;สำรองข้อมูล;ข้อมูลสำรอง;เรียกคืนค่า;บริการคลาวด์;Xiaomi คลาวด์</item>
     </string-array>
     <string-array name="settings_search_security">
+        <item>ความปลอดภัยของคลาวด์ซิงค์</item>
+        <item>เปิดใช้งานซิงค์</item>
+        <item>ความปลอดภัย;คลาวด์;Xiaomi คลาวด์;ซิงค์;บริการคลาวด์</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
         <item>ความปลอดภัยของคลาวด์ซิงค์</item>
         <item>เปิดใช้งานซิงค์</item>
         <item>ความปลอดภัย;คลาวด์;Xiaomi คลาวด์;ซิงค์;บริการคลาวด์</item>
@@ -159,6 +177,11 @@
     <string-array name="settings_search_sync_manage">
         <item>Xiaomi คลาวด์ บริการ Mi ทั้งหมดในที่เดียว</item>
         <item>เข้าถึงรูปภาพของคุณ รายชื่อ ข้อความ และอุปกรณ์จากทุกที่</item>
+        <item>ที่เก็บข้อมูลไม่เพียงพอ;สมาชิก;ที่จัดเก็บข้อมูล;พื้นที่จัดเก็บข้อมูล;คลาวด์;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์;ขยะ;รายการที่ลบ;ความปลอดภัย</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi คลาวด์ บริการ Mi ทั้งหมดในที่เดียว</item>
+        <item>เข้าถึงรูปภาพของคุณ บันทึกย่อ และอุปกรณ์จากทุกที่</item>
         <item>ที่เก็บข้อมูลไม่เพียงพอ;สมาชิก;ที่จัดเก็บข้อมูล;พื้นที่จัดเก็บข้อมูล;คลาวด์;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์;ขยะ;รายการที่ลบ;ความปลอดภัย</item>
     </string-array>
     <string-array name="settings_search_wlan">

@@ -129,7 +129,7 @@
     <string name="added_to_bookmarks">เพิ่มไปยังที่คั่นหน้า</string>
     <string name="adjust_text_zoom_toast">การเปลี่ยนขนาดข้อความอาจทำให้บางเว็บไซต์แสดงผลไม่ถูกต้อง</string>
     <string name="afternoon">บ่าย</string>
-    <string name="agree">เห็นด้วย</string>
+    <string name="agree">ยอมรับ</string>
     <string name="agree_permissions_request">อนุญาต</string>
     <string name="alert_tips">เว็บไซต์นี้อาจมีความเสี่ยงด้านความปลอดภัย</string>
     <string name="all">ทั้งหมด</string>
@@ -223,7 +223,6 @@
     <string name="card_game_title_1">คำแนะนำรายวัน</string>
     <string name="card_game_title_2">ยอดนิยมในสัปดาห์นี้</string>
     <string name="card_game_title_3">เลือกโดย Mint</string>
-    <string name="cast_video">ส่งวิดีโอ</string>
     <string name="category">ประเภท</string>
     <string name="category_album">อัลบั้ม</string>
     <string name="category_all">ไฟล์ทั้งหมด</string>
@@ -263,7 +262,6 @@
     <string name="clear_history">ลบประวัติ</string>
     <string name="clear_most_visited">ประวัติล่าสุด</string>
     <string name="clear_search_history">ลบประวัติ</string>
-    <string name="clear_video_download">ล้างวิดีโอ</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="click_always">แตะ \"เสมอ\"</string>
     <string name="click_to_refresh">พักชั่วคราวตอนนี้ แตะเพื่อรีเฟรช</string>
@@ -285,7 +283,6 @@
     <string name="cloud_time_tips">ซิงค์ล่าสุด</string>
     <string name="cloud_up_to_loading_tips">ปล่อยเพื่อทำการซิงค์</string>
     <string name="collect_diagnosis_log">รวบรวมบันทึกการใช้</string>
-    <string name="collect_video">รวมวิดีโอ</string>
     <string name="collection_articles">บทความ</string>
     <string name="collection_videos">วิดีโอ</string>
     <string name="com_facebook_device_auth_instructions">ไปที่ &lt;b>facebook.com/device&lt;/b> แล้วป้อนรหัสที่ปรากฏด้านล่าง</string>
@@ -387,15 +384,6 @@
     <string name="dark_mode">โหมดมืด</string>
     <string name="data_error">ข้อมูลผิดพลาด</string>
     <string name="data_format_ymd">dd/MM/yyyy</string>
-    <string name="data_traffic_continue">เล่นต่อไป</string>
-    <string name="data_traffic_download_cancel">ยกเลิก </string>
-    <string name="data_traffic_download_prompt">คุณสามารถดาวน์โหลดวิดีโอนี้ได้ เมื่ออุปกรณ์ของคุณเชื่อมต่อกับ Wi-Fi เท่านั้น</string>
-    <string name="data_traffic_download_setting">การตั้งค่า</string>
-    <string name="data_traffic_goto">แพ็กเกจข้อมูล</string>
-    <string name="data_traffic_prompt_free_data">การใช้ข้อมูลมือถือเพื่อสตรีมวิดีโออาจมีค่าธรรมเนียมข้อมูลเพิ่มเติม ลองใช้ชุดข้อมูลที่กำหนด</string>
-    <string name="data_traffic_prompt_message">การเลือกดูวิดีโอผ่านเครือข่ายมือถือต้องใช้ปริมาณการถ่ายโอนข้อมูลสูง ซึ่งหากใช้เกินกว่าแพ็คเกจที่กำหนดไว้ อาจทำให้คุณต้องเสียค่าบริการที่เพิ่มขึ้นให้แก่ผู้ให้บริการเครือข่าย</string>
-    <string name="data_traffic_prompt_title">คุณกำลังใช้ข้อมูลมือถือ</string>
-    <string name="data_traffic_stop">หยุด</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -534,7 +522,6 @@ ID:%s
     <string name="download_title">ดาวน์โหลด</string>
     <string name="download_unknown_title">ไม่รู้จัก</string>
     <string name="download_update_background">ดาวน์โหลดการอัปเดตในพื้นหลัง</string>
-    <string name="download_video">ดาวน์โหลดวิดีโอ</string>
     <string name="download_video_from_social_site">ดาวน์โหลดวิดีโอจากโซเชียลมีเดีย</string>
     <string name="download_videos_from_here">คุณสามารถดาวน์โหลดวิดีโอจากบริการเหล่านี้</string>
     <string name="download_wait_connect">กำลังรอการเชื่อมต่อ</string>
@@ -578,7 +565,6 @@ ID:%s
     <string name="exit_clear_dialog_btn_cancel">ออก</string>
     <string name="exit_clear_dialog_btn_ok">ล้างและออก</string>
     <string name="exit_clear_dialog_msg">ล้างประวัติก่อนคุณออก?</string>
-    <string name="exit_fullscreen">ออกจากเต็มจอ</string>
     <string name="exit_game">ปิด</string>
     <string name="exo_controls_fastforward_description">กรอไปข้างหน้า</string>
     <string name="exo_controls_fullscreen_description">โหมดเต็มหน้าจอ</string>
@@ -831,15 +817,6 @@ ID:%s
     <string name="make_private_msg_2">ซ่อนไฟล์เหล่านี้?</string>
     <string name="max_tabs_warning">ไม่สามารถเปิดแท็บเพิ่มได้อีก</string>
     <string name="maximum_input_alert">รองรับได้ไม่เกิน 2048 ตัวอักษร</string>
-    <string name="media_error_action_refresh">รีเฟรช</string>
-    <string name="media_error_action_replace_video_source">ไม่สามารถเปลี่ยนแหล่งที่มาได้</string>
-    <string name="media_error_failure">ไม่สามารถเล่นวิดีโอได้</string>
-    <string name="media_error_format">ไม่สามารถเล่นไฟล์ประเภทนี้ได้</string>
-    <string name="media_error_network_unreachable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
-    <string name="media_error_nomemory">พื้นที่จัดเก็บไม่เพียงพอ</string>
-    <string name="media_error_source">ไม่สามารถค้นหาแหล่งที่มาได้</string>
-    <string name="media_error_timeout">ขาดการเชื่อมต่อกับเครือข่ายภายในเวลาที่กำหนด</string>
-    <string name="media_error_video_not_exist">ไม่พบวิดีโอนี้</string>
     <string name="menu_addtodesk">เพิ่มไปยังหน้าจอหลัก</string>
     <string name="menu_exit_nightmode">ออก</string>
     <string name="menu_hv_swap">ปรับจอแนวตั้ง/แนวนอน</string>
@@ -935,6 +912,8 @@ ID:%s
     <string name="more_option">ตัวเลือกอื่นๆ</string>
     <string name="more_recommend">คำแนะนำเพิ่มเติม</string>
     <string name="morning">เช้า</string>
+    <string name="most_visited_sites">เข้าชมสูงสุด</string>
+    <string name="most_visited_sites_switch">แสดงไซต์ที่เข้าชมบ่อยที่สุดบนหน้าเริ่มต้น</string>
     <string name="move_bookmark">ย้าย</string>
     <string name="msn_ad_identification">Ad</string>
     <string name="msn_privacy">คำชี้แจงสิทธิ์ส่วนบุคคลของ Microsoft</string>
@@ -954,6 +933,7 @@ ID:%s
     <string name="mw_actionbar_textselection_title">เลือกข้อความ</string>
     <string name="mw_actionbar_web_search">ค้นหาจากเว็บ</string>
     <string name="mw_autofill_popup_content_description">แสดงป๊อปอัปป้อนอัตโนมัติ</string>
+    <string name="mw_chip_remove_icon_content_description">ลบ \"%1$s\"</string>
     <string name="mw_color_picker_button_black">ดำ</string>
     <string name="mw_color_picker_button_blue">น้ำเงิน</string>
     <string name="mw_color_picker_button_cancel">ยกเลิก</string>
@@ -967,7 +947,7 @@ ID:%s
     <string name="mw_color_picker_button_yellow">เหลือง</string>
     <string name="mw_color_picker_dialog_title">เลือกสี</string>
     <string name="mw_color_picker_hue">สี</string>
-    <string name="mw_color_picker_saturation">ความอิ่มตัว</string>
+    <string name="mw_color_picker_saturation">ความอิ่มสี</string>
     <string name="mw_color_picker_value">ค่า</string>
     <string name="mw_common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในอุปกรณ์ของคุณ</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
@@ -993,6 +973,7 @@ ID:%s
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">เดือนที่แล้ว</string>
     <string name="mw_license_activity_title">ใบอนุญาต System WebView</string>
+    <string name="mw_link_copied">คัดลอก URL เรียบร้อยแล้ว</string>
     <string name="mw_low_memory_error">การจัดการงานไม่สมบูรณ์เนื่องจากหน่วยความจำเหลือน้อย</string>
     <string name="mw_miui_content_copy">คัดลอก</string>
     <string name="mw_miui_content_cut">ตัด</string>
@@ -1097,6 +1078,7 @@ ID:%s
     <string name="mw_save_password_never">ไม่เลย</string>
     <string name="mw_save_password_notnow">ในภายหลัง</string>
     <string name="mw_save_password_remember">จดจำ</string>
+    <string name="mw_speech_recognition_service_not_found">ไม่พบเครื่องมือเสียงพูดของ Google</string>
     <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
@@ -1104,7 +1086,6 @@ ID:%s
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">ตั้งเวลา</string>
-    <string name="mw_url_copied">คัดลอก URL เรียบร้อยแล้ว</string>
     <string name="mw_video_buffering_percent">"บัฟเฟอร์ "</string>
     <string name="mw_video_download_no_permission">ต้องการการอนุญาตในการดาวน์โหลดรายการ</string>
     <string name="mw_video_float_drag_scale_msg">ลากเพื่อปรับขนาด</string>
@@ -1303,7 +1284,6 @@ ID:%s
     <string name="password">รหัสผ่าน</string>
     <string name="per_month">ต่อเดือน</string>
     <string name="permission_agree_service">ฉันได้อ่านและยอมรับข้อกำหนดและเงื่อนไขทั้งหมดต่อไปนี้</string>
-    <string name="permission_alert_window">อนุญาตให้แสดงหน้าต่างป๊อปอัปในการตั้งค่าเพื่อให้สามารถใช้คุณลักษณะนี้</string>
     <string name="permission_contacts">รายชื่อผู้ติดต่อ</string>
     <string name="permission_dialog_msg_camera">%s ต้องการใช้กล้องของคุณ</string>
     <string name="permission_dialog_msg_camera_mic">%s ต้องการใช้กล้องและไมโครโฟนของคุณ</string>
@@ -1327,7 +1307,6 @@ ID:%s
     <string name="permission_open_storage">อนุญาตให้ Mi เบราว์เซอร์ เข้าถึงพื้นที่จัดเก็บภายในใน การตั้งค่า ก่อน</string>
     <string name="permission_service">ข้อกำหนดและเงื่อนไข</string>
     <string name="permission_storage">พื้นที่จัดเก็บ</string>
-    <string name="permission_unknown">ข้อผิดพลาดที่ไม่ทราบสาเหตุ</string>
     <string name="permission_use">สิทธิ์การใช้งาน</string>
     <string name="personalized_content_services">บริการเนื้อหาส่วนบุคคล</string>
     <string name="personalized_services">บริการส่วนบุคคล</string>
@@ -1353,12 +1332,9 @@ ID:%s
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพที่พร้อมใช้งาน</string>
     <string name="pick_file">เลือกไฟล์</string>
     <string name="ping_test_title">ความหน่วงเครือข่าย</string>
-    <string name="play_pause_video">เล่นหรือหยุดวิดีโอ</string>
-    <string name="play_video">เล่นวิดีโอ</string>
     <string name="players_still_play">&lt;font color=\"#ff2458\">%s&lt;/font> ของเกมเมอร์ชอบสิ่งนี้</string>
     <string name="pm">PM</string>
     <string name="popular_game_video">Popular Game Video</string>
-    <string name="popup_video">ป๊อปอัปวิดีโอ</string>
     <string name="popup_window_attempt">อนุญาตให้เว็ปไซต์นี้เปิดหน้าต่างป๊อปอัพ?</string>
     <string name="positive_confirm_message">ปิดใช้งาน</string>
     <string name="pref_accessibility">สิ่งอำนวยความสะดวก</string>
@@ -1413,7 +1389,7 @@ ID:%s
     <string name="pref_general_title">ทั่วไป</string>
     <string name="pref_js_downloader">ดาวน์โหลดรูปภาพและวิดีโอ</string>
     <string name="pref_js_downloader_detail">แสดงปุ่มดาวน์โหลดบนภาพและวิดีโอจากเว็บไซต์โซเชียลมีเดีย</string>
-    <string name="pref_key_gesture_title">ปุ่มและท่าทาง</string>
+    <string name="pref_key_gesture_title">ปุ่มและท่าทางสัมผัส</string>
     <string name="pref_nav_mode_summary_pad">แพด</string>
     <string name="pref_nav_mode_summary_phone">โทรศัพท์</string>
     <string name="pref_nav_mode_title">เดสท็อป</string>
@@ -1537,8 +1513,8 @@ ID:%s
     <string name="privacy_authorize_summary">สับสวิตซ์เปิดและปิดเพื่อให้หรือเพิกถอนการกำหนดสิทธิ์ของคุณ</string>
     <string name="privacy_authorize_title">การกำหนดสิทธิ์</string>
     <string name="privacy_btn_more">เพิ่มเติม</string>
-    <string name="privacy_improve_performance">ช่วยปรับปรุงประสิทธิภาพของ Mi เบราเซอร์</string>
-    <string name="privacy_improve_performance_desc">ส่งข้อมูลโดยรวมและรายงานข้อขัดข้องไปที่ Mi เบราเซอร์ โดยอัตโนมัติ</string>
+    <string name="privacy_improve_performance">โปรแกรมประสบการณ์ผู้ใช้</string>
+    <string name="privacy_improve_performance_desc">อนุญาตให้ Xiaomi รวบรวมและวิเคราะห์ข้อมูลผู้ใช้เพื่อปรับปรุงผลิตภัณฑ์และบริการของเรา</string>
     <string name="privacy_message">ก่อนใช้งานเบราวเซอร์ คุณจำเป็นต้องยอมรับใน&lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">ข้อตกลงการใช้งาน&lt;/a>&lt;/font>และ&lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">นโยบายความเป็นส่วนตัว&lt;/a>&lt;/font></string>
     <string name="privacy_message_main_tips_first">Mi เบราว์เซอร์ จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการพื้นฐานแก่คุณ คุณสามารถเรียนรู้วิธีจัดการข้อมูลที่เรารวบรวมได้ใน &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">นโยบายความเป็นส่วนตัว&lt;/a>&lt;/font> ของเรา คุณสามารถถอนการยินยอมต่อนโยบายความเป็นส่วนตัวของ Mi เบราว์เซอร์ ได้ตลอดเวลาใน การตั้งค่า > ความเป็นส่วนตัวและความปลอดภัย อ่านและยอมรับ &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">ข้อตกลงการใช้งาน&lt;/a>&lt;/font> และ &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">นโยบายความเป็นส่วนตัว&lt;/a>&lt;/font> ของเรา ก่อนใช้ Mi เบราว์เซอร์</string>
     <string name="privacy_message_main_tips_second">เพื่อให้สามารถค้นหาแอปบนอุปกรณ์นี้และทราบว่ามีการติดตั้งแอปใด Mi เบราว์เซอร์ จำเป็นต้องเข้าถึงข้อมูลการติดตั้งแอปซึ่งจะไม่บันทึกไว้ในเครื่องหรืออัปโหลดในรูปแบบใดๆ</string>
@@ -1546,6 +1522,7 @@ ID:%s
     <string name="privacy_message_welcome_tip_first">- การท่องเว็บที่รวดเร็วและปลอดภัย</string>
     <string name="privacy_message_welcome_tip_second">- ดาวน์โหลดรูปภาพและวิดีโอจากแพลตฟอร์มโซเชียลมีเดีย</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="privacy_reset_fail">ไม่สามารถรีเซ็ตได้ กรุณาลองอีกครั้ง</string>
     <string name="privacy_sub_title">ข้อตกลงและเงื่อนไข</string>
     <string name="privacy_title">ยินดีต้อนรับสู่ Mi เบราเซอร์</string>
     <string name="private_title">ไฟล์ที่ซ่อน</string>
@@ -1658,8 +1635,8 @@ ID:%s
     <string name="save_to_camera_failed">บันทึกรูปไม่ได้</string>
     <string name="save_to_camera_success">บันทึกไปยังคลังภาพแล้ว</string>
     <string name="save_to_private_folder">เก็บไว้ในไฟล์ที่ซ่อน</string>
-    <string name="scanner_uninstalled_text">ติดตั้งสแกนเนอร์เพื่อดำเนินการต่อ</string>
-    <string name="scanner_uninstalled_title">สแกนเนอร์ถูกถอนการติดตั้ง</string>
+    <string name="scanner_uninstalled_text">ติดตั้งตัวสแกนเพื่อดำเนินการต่อ</string>
+    <string name="scanner_uninstalled_title">ตัวสแกนถูกถอนการติดตั้ง</string>
     <string name="score_dialog_msg_score_explorer">คุณชอบ Mi เบราเซอร์ ไหม?</string>
     <string name="score_dialog_msg_score_not_good">เรายินดีรับข้อเสนอแนะของคุณ!</string>
     <string name="score_dialog_msg_score_perfect">ขอบคุณสำหรับการสนับสนุน! ให้คะแนนแอปของเราใน Play Store ด้วยหรือไม่?</string>
@@ -1725,10 +1702,10 @@ ID:%s
     <string name="setting_app_language">ภาษาของเบราว์เซอร์</string>
     <string name="setting_feed_language">ภาษาฟีดเนื้อหา</string>
     <string name="setting_privacy_password">กำหนดรูปแบบปลดล็อก</string>
+    <string name="setting_swipe_up">ปัดนิ้วขึ้นบนหน้าจอ</string>
     <string name="share_image_text">ดูซิว่าฉันแชร์อะไร! @MIUI</string>
     <string name="share_page_text">ดูซิว่าฉันแชร์อะไร: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">ดูซิว่าฉันแชร์อะไร: %1$s</string>
-    <string name="share_video">แชร์วิดีโอ</string>
     <string name="sign_in">กำลังเข้าสู่ระบบ</string>
     <string name="sign_in_by_others">เข้าสู่ระบบด้วยวิธีอื่น</string>
     <string name="sign_in_by_xiaommi">ลงชื่อเข้าใช้ด้วยบัญชี Mi</string>
@@ -1878,8 +1855,6 @@ ID:%s
     <string name="traffic_fail_free_no_left">ทราฟฟิคคุณหมดแล้ว สมัครเพื่อใช้ต่อ</string>
     <string name="traffic_fail_no_left">ทราฟฟิค VPN คุณหมดแล้ว</string>
     <string name="traffic_fail_upload">เกิดข้อผิดพลาด เปิด VPN อีกครั้ง</string>
-    <string name="transfer_prompt_0">เล่นวิดีโอ</string>
-    <string name="transfer_restart">รีสตาร์ท</string>
     <string name="translate">แปล</string>
     <string name="translate_cur_page">แปลหน้านี้ไหม?</string>
     <string name="translate_into">แปลข้อมูลไปเป็น</string>
@@ -1933,9 +1908,7 @@ ID:%s
     <string name="user_guide_read_info_tips">เพื่อให้สามารถรวมแอปในผลการค้นหา Mi เบราว์เซอร์ จำเป็นต้องเข้าถึงรายการแอปที่ติดตั้งบนอุปกรณ์ของคุณ</string>
     <string name="user_id_hint">อีเมล/เบอร์โทรศัพท์/เลขบัญชี Mi</string>
     <string name="username">ชื่อ</string>
-    <string name="v5_deselect_all">ยกเลิกการเลือกทั้งหมด</string>
-    <string name="v5_edit_mode_title_empty">เลือกไว้ 0 รายการ</string>
-    <string name="v5_select_all">เลือกทั้งหมด</string>
+    <string name="v5_edit_mode_title_empty">เลือกรายการ</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="v_code_title">ป้อนรหัสการตรวจสอบ</string>
@@ -1955,59 +1928,18 @@ ID:%s
     <string name="version_dialog_buttion_update">อัปเดต</string>
     <string name="version_update_file_download_toast">กำลังดาวน์โหลด</string>
     <string name="version_update_file_not_found">ไม่พบการอัปเดต</string>
-    <string name="video_activity_name">รายการโปรด</string>
-    <string name="video_buffering_percent_string">"กำลังบัฟเฟอร์ "</string>
-    <string name="video_collect_cancel">ลบจากรายการโปรด</string>
-    <string name="video_collect_success">เพิ่มไปยังรายการโปรดแล้ว</string>
     <string name="video_collection_click_view">วิดีโอที่คุณเพิ่มในรายการโปรดอยู่ที่นี่</string>
     <string name="video_collection_empty">ยังไม่มีวีดีโอ</string>
     <string name="video_collection_known">รับทราบ</string>
     <string name="video_collection_view">ดู</string>
-    <string name="video_download_complete">ดาวน์โหลดเรียบร้อย</string>
-    <string name="video_download_empty">ไม่มีวิดีโอ</string>
-    <string name="video_download_error">ผิดพลาด</string>
-    <string name="video_download_error_http_gone">ไม่พบไฟล์</string>
-    <string name="video_download_exists">มีไฟล์ดาวน์โหลดอยู่แล้ว</string>
-    <string name="video_download_fail">ไม่สามารถดาวน์โหลดได้</string>
-    <string name="video_download_failed">ไม่สามารถดำเนินการดาวน์โหลดได้</string>
-    <string name="video_download_finding_address">กำลังขอรับลิงก์ URL ดาวน์โหลด</string>
-    <string name="video_download_pause">หยุดชั่วคราว</string>
-    <string name="video_download_start">กำลังดาวน์โหลด…</string>
-    <string name="video_download_success">ดาวน์โหลดเรียบร้อย</string>
-    <string name="video_download_unknown_name">วิดีโอไม่ทราบชื่อ</string>
-    <string name="video_download_unknown_size">ไม่ทราบขนาด</string>
-    <string name="video_download_unsupport">ไม่รองรับ</string>
-    <string name="video_download_wait_for_wifi">กำลังรอ Wi-Fi</string>
-    <string name="video_downloaded_group">ดาวน์โหลดไว้</string>
+    <string name="video_download_complete">ดาวน์โหลดวิดีโอเรียบร้อยแล้ว</string>
     <string name="video_downloader_edit_hint">"วางลิงค์เพื่อดาวน์โหลดวิดีโอ ตัวอย่าง:
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">ไม่สามารถดาวน์โหลดรายการนี้ได้</string>
     <string name="video_downloader_retry">ลองอีกครั้ง</string>
-    <string name="video_downloading_group">การดาวน์โหลด</string>
-    <string name="video_edit">แก้ไข</string>
-    <string name="video_float_window_text">วิดีโอป๊อปอัป</string>
-    <string name="video_fragment_name_collections">รายการโปรด</string>
-    <string name="video_fragment_name_download">วิดีโอแบบออฟไลน์</string>
-    <string name="video_fragment_name_historys">ประวัติ</string>
-    <string name="video_fragment_name_offine">ออฟไลน์</string>
-    <string name="video_group_noupdates_list">ไม่พบการอัปเดต</string>
-    <string name="video_group_updates_list">อัปเดต</string>
-    <string name="video_history_empty">ไม่พบประวัติ</string>
-    <string name="video_manager_action_bar_end_view">วิดีโอออนไลน์</string>
     <string name="video_play_next">ถัดไป</string>
-    <string name="video_project_button">หยุด</string>
-    <string name="video_project_msg">ฉายวิดีโอไปยัง %s</string>
-    <string name="video_project_title">ฉายวิดีโอออกสู่จอ</string>
-    <string name="video_push_multi_title">อัปเดตพร้อมใช้งาน</string>
-    <string name="video_push_single_message">แตะเพื่ออัปเดตเป็น %1$d</string>
     <string name="video_replay_btn">เล่นใหม่</string>
     <string name="video_retry_btn">ลองอีกครั้ง</string>
-    <string name="video_service_notification_title">กำลังเล่นวิดีโอป๊อปอัป…</string>
-    <string name="video_subtitle_last_message1">น้อยกว่า 1 นาทีที่เหลือ</string>
-    <string name="video_subtitle_prefix1">รับชมแล้ว</string>
-    <string name="video_subtitle_prefix2">"รับชมแล้ว "</string>
-    <string name="video_title_prefix_message">"ออฟไลน์: "</string>
-    <string name="video_unknown_duration">ไม่ทราบระยะเวลา</string>
     <string name="view_certificate">ดูใบรับรอง</string>
     <string name="view_document_downloaded_files">เรียกดูไฟล์ที่ดาวน์โหลดไว้ในดาวน์โหลด</string>
     <string name="voice_check_network">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
@@ -2039,7 +1971,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_guide_popup_window_text">ลองใช้ VPN</string>
     <string name="vpn_not_support_by_region">ภูมิภาคของคุณไม่สารถใช้บริการ VPN ได้</string>
     <string name="vpn_offline_tip">บริการ VPN ไม่พร้อมใช้งานในขณะนี้</string>
-    <string name="vpn_privacy_dialog_agress">ตกลง</string>
+    <string name="vpn_privacy_dialog_agress">ยอมรับ</string>
     <string name="vpn_privacy_dialog_content">บริการนี้จัดทำโดย Tai Xin โปรดอ่านและยอมรับ &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">นโยบายความเป็นส่วนตัวของ Tai Xin&lt;/a>&lt;/font> ก่อนที่จะใช้บริการนี้</string>
     <string name="vpn_privacy_dialog_disagree">ไม่ ขอบคุณ</string>
     <string name="vpn_privacy_dialog_title">คำชี้แจงสิทธิส่วนบุคคล</string>
@@ -2054,7 +1986,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday">วันพุธ</string>
     <string name="wednesday_short">พุธ</string>
     <string name="wednesday_shortest">พุธ</string>
-    <string name="welcome_to_mi_browser">ยินดีต้อนรับสู่ Mi เบราเซอร์!</string>
     <string name="what_is_new">อัปเดตแอปเพื่อเข้าถึงคุณสมบัติใหม่ๆ</string>
     <string name="whatsapp_downloadpage_tips">ตัวบันทึกสถานะ WhatsApp</string>
     <string name="whatsapp_file_saved_success">บันทึกเรียบร้อยแล้ว</string>

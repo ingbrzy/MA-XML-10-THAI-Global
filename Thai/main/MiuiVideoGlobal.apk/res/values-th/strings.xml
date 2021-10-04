@@ -31,7 +31,6 @@
     <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
-    <string name="access_denied_info">มีความพยายามมากเกินไป รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="account_bind_secure_email_title">เพิ่มอีเมลที่ใช้กู้คืนบัญชี</string>
     <string name="account_bind_secure_phone_title">เพิ่มหมายเลขโทรศัพท์ที่ใช้กู้คืนบัญชี</string>
     <string name="account_crop_user_avatar">ตัดกรอบภาพ</string>
@@ -74,6 +73,8 @@
     <string name="ad_download">ดาวน์โหลด</string>
     <string name="ad_join">เข้าร่วมคอมมูนิตี้</string>
     <string name="ad_more">เพิ่มเติม</string>
+    <string name="add_local_shortcut_add">เพิ่ม</string>
+    <string name="add_local_shortcut_des">เพิ่ม \"วิดีโอของฉัน\" ไปที่หน้าจอหลักเพื่อเข้าถึงไฟล์วิดีโอในเครื่องด้วยการแตะเพียงครั้งเดียว</string>
     <string name="add_search_channel_link">URL</string>
     <string name="add_search_channel_name">ชื่อ</string>
     <string name="add_search_channel_tip">ค้นหา \"%s\" บนเว็บไซต์เป้าหมาย จากนั้นคัดลอกและวาง URL ที่นี่</string>
@@ -108,6 +109,7 @@
     <string name="auto_play_next_off">การเล่นอัตโนมัติปิดอยู่</string>
     <string name="auto_play_next_on">การเล่นอัตโนมัติเปิดอยู่</string>
     <string name="back_to_mainpage">ค้นหา</string>
+    <string name="background_playback_enabled">เล่นบนพื้นหลังเปิดอยู่</string>
     <string name="before_yestoday">2 วันก่อน</string>
     <string name="bind_sign_in_title">เพิ่มบัญชี Mi</string>
     <string name="cancel">ยกเลิก </string>
@@ -131,6 +133,7 @@
     <string name="cast_forward">กรอไปข้างหน้า</string>
     <string name="cast_forward_10">กรอไปข้างหน้า 10 วินาที</string>
     <string name="cast_forward_30">กรอไปข้างหน้า 30 วินาที</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">สด</string>
     <string name="cast_mute">ปิดเสียง</string>
     <string name="cast_notification_connected_message">เชื่อมต่อ %1$s แล้ว</string>
@@ -162,6 +165,7 @@
     <string name="choose_to_signin">ใช่</string>
     <string name="choose_to_signup">ไม่ ฉันต้องการสร้างบัญชี</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
+    <string name="click_to_open_pip">แตะเพื่อเปลี่ยนเป็นการแสดงภาพซ้อนภาพ</string>
     <string name="click_to_reload_more">แตะเพื่อโหลดเพิ่มเติม</string>
     <string name="click_to_retry">ลองใหม่</string>
     <string name="close">ปิด</string>
@@ -171,6 +175,8 @@
     <string name="cloud_online_switch_close_time">คุณสามารถเปิดการแนะนำเนื้อหาในแบบของคุณได้ %s</string>
     <string name="cloud_online_switch_open_time">แสดงคำแนะนำเนื้อหาส่วนบุคคล</string>
     <string name="collect_diagnosis_log">รวบรวมบันทึกการใช้</string>
+    <string name="columbus_ad_flag_text">โฆษณา</string>
+    <string name="columbus_skip_ad">ข้าม</string>
     <string name="com_facebook_device_auth_instructions">ไปที่ &lt;b>facebook.com/device&lt;/b> แล้วป้อนรหัสที่ปรากฏด้านล่าง</string>
     <string name="com_facebook_image_download_unknown_error">เกิดข้อผิดพลาดที่ไม่คาดคิดขณะดาวน์โหลดภาพ</string>
     <string name="com_facebook_internet_permission_error_message">การเข้าสู่ระบบ WebView ต้องได้รับสิทธิ์การอนุญาตอินเทอร์เน็ต</string>
@@ -260,6 +266,12 @@ Mi วิดีโอ พร้อมสำหรับการอัปเด�
     <string name="diagnosis_log_sent_format">"ส่งบันทึกการใช้สำเร็จแล้ว
 ID:%s
 ส่งรหัสนี้ไปยังที่ปรึกษา"</string>
+    <string name="dialog_app_comment_cancel">ยกเลิก</string>
+    <string name="dialog_app_comment_default_content">คุณรู้สึกอย่างไรเกี่ยวกับ Mi วิดีโอ?</string>
+    <string name="dialog_app_comment_ok">ตกลง</string>
+    <string name="dialog_app_comment_select_feedback">คุณสามารถให้ข้อเสนอแนะกับเราได้หรือไม่?</string>
+    <string name="dialog_app_comment_select_praise">เยี่ยมยอด! ให้คะแนน Mi วิดีโอ ใน Play สโตร์ ตอนนี้?</string>
+    <string name="dialog_app_comment_title">ให้คะแนนแอปของเรา</string>
     <string name="dialog_disagree_privacychange_info">คุณจะไม่สามารถใช้บริการสตรีมมิงออนไลน์ของ Mi วิดีโอ ได้หากคุณไม่ยอมรับนโยบายความเป็นส่วนตัวของเรา แตะ \"ยกเลิก\" เพื่อย้อนกลับหรือ \"ไม่เห็นด้วย\" เพื่อดำเนินการต่อและใช้ Mi วิดีโอ เป็นเครื่องเล่นในเครื่องเท่านั้น</string>
     <string name="dialog_disagree_privacychange_title">ไม่เห็นด้วย?</string>
     <string name="dialog_privacy_change_info">เราได้อัปเดตนโยบายความเป็นส่วนตัวของ Mi วิดีโอ เนื่องจากการปรับแต่งในบริการที่เรานำเสนอ เพื่อให้เข้าใจถึงสิทธิ์ของคุณในฐานะผู้ใช้ตลอดจนวิธีการที่เราใช้ข้อมูลของคุณโปรดอ่านและยอมรับ &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ก่อนใช้งานแอป</string>
@@ -285,6 +297,8 @@ ID:%s
     <string name="download_complete">ดาวน์โหลดแล้ว</string>
     <string name="download_delete_tip">ลบรายการที่เลือกไว้?</string>
     <string name="download_delete_title">ลบ</string>
+    <string name="download_guide_click_icon_to_website_or_enter_url">แตะปุ่มลัดเพื่อเปิดเว็บไซต์หรือป้อน URL</string>
+    <string name="download_guide_known">รับทราบ</string>
     <string name="download_paused">พักชั่วคราวอยู่</string>
     <string name="download_pending">รอดำเนินการ…</string>
     <string name="download_power_off_tips">คุณลักษณะนี้ไม่สามารถใช้งานได้ในขณะนี้</string>
@@ -341,6 +355,7 @@ ID:%s
     <string name="failed_dup_secure_phone_number">หมายเลขโทรศัพท์นี้ได้ถูกผูกไว้กับบัญชี Mi อื่นอยู่ก่อนแล้ว</string>
     <string name="failed_to_fetch_data">ไม่สามารถโหลดข้อมูลได้</string>
     <string name="failure">ไม่สามารถดาวน์โหลดได้</string>
+    <string name="favor_movie">ภาพยนตร์</string>
     <string name="favor_online_video">วิดีโอ</string>
     <string name="favor_playlist">รายการเพลง</string>
     <string name="favorite">รายการโปรด</string>
@@ -464,6 +479,12 @@ ID:%s
     <string name="galleryplus_network_connect_confirm">เชื่อมต่อกับ Wi-Fi หรือเปิดข้อมูลมือถือในการตั้งค่าเครือข่าย</string>
     <string name="galleryplus_network_error">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="galleryplus_network_not_wifi">การใช้ข้อมูลมือถือเพื่อสตรีมวิดีโออาจสร้างค่าธรรมเนียมผู้ให้บริการเพิ่มเติม</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">จัดการไฟล์ %$s เพิ่มคำบรรยาย %$s ฉายภาพวิดีโอ %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2">ปกป้องวิดีโอส่วนตัวของคุณด้วยรหัสผ่าน %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3">ดาวน์โหลดวิดีโอจาก TikTok, Instagram และ Twitter %$s</string>
+    <string name="galleryplus_notification_linkvideo_title1">%$s มาดูคุณสมบัติเจ๋งๆ ทั้งหมดของ Mi วิดีโอ กัน!</string>
+    <string name="galleryplus_notification_linkvideo_title2">%$s แตะเพื่อจัดการวิดีโอของคุณ</string>
+    <string name="galleryplus_notification_linkvideo_title3">%1$s ดาวน์โหลดวิดีโอฟรี %2$s จัดการไฟล์</string>
     <string name="galleryplus_online_cta">Mi Video ต้องเชื่อมต่ออินเทอร์เน็ตเพื่อทำงานตามปกติ ยอมรับหรือไม่?</string>
     <string name="galleryplus_online_cta_agree">ยอมรับ</string>
     <string name="galleryplus_online_cta_disagree">ไม่เห็นด้วย</string>
@@ -472,13 +493,14 @@ ID:%s
     <string name="galleryplus_orientation_lock">ล็อคการวางแนวสำเร็จ</string>
     <string name="galleryplus_orientation_unlock">ปลดล็อกการวางแนวหน้าจอแล้ว</string>
     <string name="galleryplus_permission_content">ให้สิทธิ์ Mi วีดีโอ ที่จำเป็นเพื่อให้สามารถใช้คุณสมบัตินี้</string>
-    <string name="galleryplus_permission_content2">"เพื่อให้สามารถใช้คุณสมบัตินี้ได้ ให้ไปที่ การตั้งค่า > แอป > Mi วีดีโอ > การอนุญาตแอป และอนุญาตให้ Mi วีดีโอ ทำสิ่งต่อไปนี้:
-
-1. เข้าถึงที่เก็บข้อมูล
-2. เข้าถึง ID อุปกรณ์"</string>
+    <string name="galleryplus_permission_content_opt">Mi วิดีโอ ต้องการการอนุญาตเพื่อทำงานตามปกติ ล้างข้อมูลแอปทั้งหมดในการตั้งค่าและเปิดแอปอีกครั้ง</string>
+    <string name="galleryplus_permission_content_xms">Mi วิดีโอ ต้องการการอนุญาตเพื่อทำงานตามปกติ ไปที่การตั้งค่าและให้การอนุญาตที่จำเป็นแก่ Mi วิดีโอ</string>
     <string name="galleryplus_permission_open_settings">การตั้งค่า</string>
-    <string name="galleryplus_permission_refuse">ไม่ ขอบคุณ</string>
-    <string name="galleryplus_permission_retry">การอนุญาต</string>
+    <string name="galleryplus_permission_refuse">ยกเลิก </string>
+    <string name="galleryplus_permission_retry">การตั้งค่า</string>
+    <string name="galleryplus_permission_storage_content_reshowable_video_player">เพื่อให้สามารถใช้เครื่องเล่นวิดีโอในเครื่องได้ ให้อนุญาตให้แอปนี้เข้าถึงที่เก็บข้อมูลก่อน</string>
+    <string name="galleryplus_permission_storage_content_unreshowable_video_player">เพื่อให้สามารถใช้เครื่องเล่นวิดีโอในเครื่องได้ อนุญาตให้แอปนี้เข้าถึงที่เก็บข้อมูลในส่วน \"การอนุญาต\" ของการตั้งค่า</string>
+    <string name="galleryplus_permission_storage_title">จำเป็นต้องเข้าถึงที่เก็บข้อมูล</string>
     <string name="galleryplus_permission_title">โปรดทราบ</string>
     <string name="galleryplus_restore_play_speed">เล่นด้วยความเร็วปกติตอนนี้</string>
     <string name="galleryplus_save_cancel_toast">แตะ \"ย้อนกลับ\" อีกครั้งเพื่อยกเลิกการบันทึกวิดีโอ</string>
@@ -524,7 +546,6 @@ ID:%s
     <string name="history_local_video">ในเครื่อง</string>
     <string name="history_online_video">ออนไลน์</string>
     <string name="hot">ยอดนิยม</string>
-    <string name="i_know">รับทราบ</string>
     <string name="identity">เลขประจำตัว</string>
     <string name="inconsistent_pwd">รหัสผ่านไม่ตรงกัน</string>
     <string name="init_channels">เรียกคืนค่าเริ่มต้น</string>
@@ -550,11 +571,14 @@ ID:%s
     <string name="live_title">สด</string>
     <string name="live_tv_title">Live TV</string>
     <string name="loading">รอสักครู่…</string>
+    <string name="local_empty_guide">วิดีโอที่คุณถ่ายทำจะปรากฏที่นี่</string>
     <string name="local_play_tip">กำลังเล่นวิดีโอในเครื่อง</string>
+    <string name="local_push_setting_power_tag">แจ้งเตือนเกี่ยวกับวีดีโอในเครื่อง</string>
     <string name="local_push_title">ยอดนิยมของวันนี้</string>
     <string name="local_video_create_a_new_playlist">เพลย์ลิสต์ใหม่</string>
     <string name="local_video_date">วันที่</string>
     <string name="local_video_dialog_default">ค่าเริ่มต้น</string>
+    <string name="local_video_edit_playlist">แก้ไขเพลย์ลิสต์</string>
     <string name="local_video_from_a_to_z">A ถึง Z</string>
     <string name="local_video_from_big_to_small">ใหญ่ไปเล็ก</string>
     <string name="local_video_from_long_to_short">ยาวไปสั้น</string>
@@ -567,6 +591,7 @@ ID:%s
     <string name="local_video_notification_btn">ดูใน Mi วีดีโอ</string>
     <string name="local_video_notification_title">พบวิดีโอใหม่ในเครื่อง</string>
     <string name="local_video_number_of_selected">เลือกแล้ว %1$d/%2$d</string>
+    <string name="local_video_shortcut_name">วิดีโอของฉัน</string>
     <string name="local_video_size">ขนาด</string>
     <string name="local_video_space">ถูกครอบครอง: %s</string>
     <string name="local_video_time">ระยะเวลา</string>
@@ -576,6 +601,9 @@ ID:%s
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">ออกจากระบบ</string>
     <string name="logout_account">ออกจากระบบ</string>
+    <string name="long_video_no_more_content">นั่นคือทั้งหมดสำหรับตอนนี้</string>
+    <string name="long_video_watch_on">รับชมบน</string>
+    <string name="long_video_you_may_also_like">คุณอาจจะชอบ</string>
     <string name="lp_base_folder">SD การ์ด</string>
     <string name="lp_play_mode_list_loop">เล่นวน</string>
     <string name="lp_play_mode_pause">เล่นครั้งเดียว</string>
@@ -805,9 +833,7 @@ ID:%s
     <string name="my_feedback_title">ข้อเสนอแนะของฉัน</string>
     <string name="need_update_app">อัพเดท Mi วิดีโอ เพื่อใช้คุณลักษณะทั้งหมด</string>
     <string name="network_connect_info">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
-    <string name="network_error_info">เครือข่ายเกิดข้อผิดพลาด ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
     <string name="network_failed">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
-    <string name="network_timeout_info">ไม่สามารถเชื่อมต่อกับเครือข่าย ลองอีกครั้ง</string>
     <string name="new_channel_tip">ดูช่องใหม่!</string>
     <string name="next">ถัดไป</string>
     <string name="next_step">ถัดไป</string>
@@ -845,9 +871,10 @@ ID:%s
     <string name="off_tip_firework_recommend">คุณจะไม่ได้รับคำแนะนำเนื้อหาในแบบของคุณจาก Firework</string>
     <string name="ok">ตกลง</string>
     <string name="on_tip_firework_recommend">คุณจะได้รับคำแนะนำเนื้อหาในแบบของคุณจาก Firework</string>
-    <string name="open_settings">การตั้งค่า</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">การสมัครสมาชิกล่าสุด</string>
     <string name="order_recently_updated">อัปเดตล่าสุด</string>
+    <string name="out_of_memory_background_playback_is_suspended">หยุดเล่นบนพื้นหลังชั่วคราวเนื่องจากหน่วยความจำไม่เพียงพอ</string>
     <string name="ovp_alert_dialog_download_install_task">กำลังดาวน์โหลด HD ปลั๊กอิน…</string>
     <string name="ovp_buffering_video_netplay_label_v5">กำลังบัฟเฟอร์…</string>
     <string name="ovp_category">ประเภท</string>
@@ -882,6 +909,8 @@ ID:%s
     <string name="ovp_favor">รายการโปรด</string>
     <string name="ovp_favor_null">ไม่มีรายการ</string>
     <string name="ovp_feedback_title">ข้อเสนอแนะ Mi วิดีโอ</string>
+    <string name="ovp_hint_new">ใหม่</string>
+    <string name="ovp_hint_the_latest_version">ล่าสุด</string>
     <string name="ovp_home_folder_is_null_jump_upfolder_tip">ไม่พบไฟล์มีเดีย ข้ามไปที่โฟลเดอร์ก่อนหน้า</string>
     <string name="ovp_home_item_camera">คลังภาพ</string>
     <string name="ovp_home_item_download">ดาวน์โหลด</string>
@@ -897,6 +926,7 @@ ID:%s
     <string name="ovp_local_videos_title">วิดีโอในเครื่อง</string>
     <string name="ovp_navigation_category">หมวดหมู่</string>
     <string name="ovp_navigation_content">ความร่วมมือด้านเนื้อหา</string>
+    <string name="ovp_navigation_darkmode">โหมดมืด</string>
     <string name="ovp_navigation_favorites">รายการโปรด</string>
     <string name="ovp_navigation_feedback">ข้อเสนอแนะ</string>
     <string name="ovp_navigation_history">ประวัติ</string>
@@ -904,8 +934,10 @@ ID:%s
     <string name="ovp_navigation_language">ภาษา</string>
     <string name="ovp_navigation_localvideo">ในเครื่อง</string>
     <string name="ovp_navigation_notice">การแจ้งเตือน</string>
+    <string name="ovp_navigation_score">ให้คะแนนแอปของเรา</string>
     <string name="ovp_navigation_setting">การตั้งค่า</string>
     <string name="ovp_navigation_subscribe">การสมัครสมาชิก</string>
+    <string name="ovp_navigation_version_update">ตรวจสอบการอัปเดต</string>
     <string name="ovp_player_cached_error_btn">วิดีโอออนไลน์</string>
     <string name="ovp_player_cached_error_hint_info">ไม่สามารถเล่นวิดีโอในเครื่องได้ในขณะนี้</string>
     <string name="ovp_player_plugin_dlg_neg_btn">ปิด</string>
@@ -946,7 +978,6 @@ ID:%s
     <string name="passport_area_code_title">รหัสพื้นที่</string>
     <string name="passport_bad_authentication">ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</string>
     <string name="passport_barcode_add_account_prompt">ในการเพิ่มบัญชี กรุณาสแกนรหัส QR อีกครั้งหนึ่งหลังจากลงชื่อใช้งานแล้ว</string>
-    <string name="passport_can_not_receive_verification_code">ไม่ได้รับรหัสยืนยัน?</string>
     <string name="passport_captcha_title">ป้อนรหัสที่เห็น</string>
     <string name="passport_checking_account">กำลังตรวจสอบรหัสผ่าน…</string>
     <string name="passport_close">ปิด</string>
@@ -1183,9 +1214,9 @@ ID:%s
     <string name="plus_tab_gallery">โฟลเดอร์</string>
     <string name="plus_tab_time">ไทม์ไลน์</string>
     <string name="pm">PM</string>
+    <string name="popup_click_for_download_video">ดาวน์โหลดวิดีโอ</string>
     <string name="privacy_revoke_setting">การสับสวิตช์จะเป็นการเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ Mi วิดีโอ</string>
     <string name="privacy_revoke_title">การเพิกถอนความยินยอม</string>
-    <string name="progressbar_title">กำลังตรวจสอบปัญหาด้านความปลอดภัย…</string>
     <string name="psw_hint">รหัสผ่าน</string>
     <string name="psw_sign_in">ลงชื่อเข้าใช้โดยใช้รหัสผ่าน</string>
     <string name="pull_to_refresh_from_bottom_pull_label">ลากขึ้นเพื่อรีเฟรช…</string>
@@ -1197,6 +1228,14 @@ ID:%s
     <string name="push_message_switch">แจ้งเตือนแบบ Push</string>
     <string name="push_message_tips">เปิดเพื่อรับการแจ้งเตือนแบบ Push</string>
     <string name="pw_channels">ช่อง</string>
+    <string name="question_click_bottom_tab">คุณยังสามารถแตะปุ่มลัดเพื่อเปิดเว็บไซต์ได้อีกด้วย</string>
+    <string name="question_click_with_light">แตะปุ่มดาวน์โหลดหลังจากที่มันสว่างขึ้น</string>
+    <string name="question_edit_url_here">ค้นหาหรือป้อน URL ที่นี่</string>
+    <string name="question_how_to_download_video">ฉันจะดาวน์โหลดวิดีโอได้อย่างไร?</string>
+    <string name="question_known">รับทราบ</string>
+    <string name="question_look_video_here">วิดีโอที่ดาวน์โหลดจะถูกบันทึกไว้ที่นี่</string>
+    <string name="question_next">ถัดไป</string>
+    <string name="question_step">ข้าม</string>
     <string name="read_and_agree">ยอมรับ</string>
     <string name="recommend_channels">แนะนำช่องสัญญาณ</string>
     <string name="recommend_online_switch">ข้อเสนอแนะออนไลน์</string>
@@ -1211,6 +1250,7 @@ ID:%s
     <string name="remaining_space_not_enough">ไม่สามารถดาวน์โหลดได้เนื่องจากพื้นที่เก็บข้อมูลไม่เพียงพอ</string>
     <string name="reminder">โปรดทราบ</string>
     <string name="rename">เปลี่ยนชื่อ</string>
+    <string name="rename_word_out">ชื่อไฟล์ยาวเกินไป</string>
     <string name="report">รายงาน</string>
     <string name="report_content_dislike">ความรุนแรงหรือพฤติกรรมที่ไม่เหมาะสม</string>
     <string name="report_content_fakement">สแปมหรือฉ้อโกง</string>
@@ -1223,7 +1263,6 @@ ID:%s
     <string name="report_content_violence">คำพูดแสดงความเกลียดชัง</string>
     <string name="report_fail">ไม่สามารถรายงานได้ กรุณาลองอีกครั้ง.</string>
     <string name="report_success">รายงานเรียบร้อยแล้ว</string>
-    <string name="request_camera_permission_message">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายและข้อบังคับที่เกี่ยวข้อง แอปนี้ต้องการการอนุญาตต่อไปนี้เพื่อให้ทำงานได้ตามปกติ:&lt;br>&lt;br>&lt;b>การใช้กล้องถ่ายรูป (สำหรับตั้งค่ารูปโปรไฟล์ของคุณ)&lt;/b>&lt;br>&lt;br>หากคุณไม่ยินยอมที่จะให้สิทธิ์ดังกล่าว คุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอพนี้ได้ อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ คุณสามารถจำกัดสิทธิ์หรือเพิกถอนการอนุญาตได้ตลอดเวลาในการตั้งค่า</string>
     <string name="resend_active_email">ส่งใหม่</string>
     <string name="resend_email_reach_limit_message">คุณได้ร้องขอให้ส่งอีเมลเกินจำนวนครั้งที่กำหนด ตรวจสอบดูให้แน่ใจว่าอีเมลที่จะใช้ยืนยันตัวตนไม่ถูกจัดเก็บไว้ในกล่องข้อความขยะ</string>
     <string name="resend_email_reach_limit_title">เกินจำนวนครั้งที่กำหนดแล้ว</string>
@@ -1286,6 +1325,7 @@ ID:%s
     <string name="sns_sign_in">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
     <string name="source">"แหล่งที่มา: "</string>
     <string name="start_download_tip">เพิ่มลงในคิวแล้ว ตรวจสอบความคืบหน้าในโปรไฟล์ > ดาวน์โหลด</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD การ์ด</string>
     <string name="storage_internal_sdcard">พื้นที่จัดเก็บข้อมูลในเครื่อง</string>
     <string name="submit">ส่ง</string>
@@ -1306,7 +1346,6 @@ ID:%s
     <string name="sync_favorites_limit">มีวิดีโอมากกว่า 500 รายการในรายการโปรดของคุณ เราจะต้องลบวิดีโอก่อนหน้านี้บางส่วนเพื่อทำการซิงค์ต่อไป</string>
     <string name="sync_favorites_message">ซิงค์รายการโปรดจากอุปกรณ์นี้ไปยังบัญชีของคุณ? รายการที่ไม่สามารถใช้ได้จะถูกลบออก</string>
     <string name="sync_favorites_title">ซิงค์รายการโปรด</string>
-    <string name="system_error_info">ระบบไม่ว่าง รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="t_check_hide_file">เลือกไอเทมเพื่อซ่อน</string>
     <string name="t_check_unhide_file">เลือกไอเทมเพื่อเลิกซ่อน</string>
     <string name="t_downloading">กำลังดาวน์โหลด:</string>
@@ -1327,6 +1366,7 @@ ID:%s
     <string name="t_password_null">รหัสผ่านไม่สามารถเว้นว่างได้</string>
     <string name="t_password_wrong">รหัสผ่านที่คุณป้อนไม่ถูกต้อง โปรดลองอีกครั้ง</string>
     <string name="t_start_download">กำลังเริ่มดาวน์โหลด:</string>
+    <string name="tab_name_download">ดาวน์โหลด</string>
     <string name="tab_name_local">ในเครื่อง</string>
     <string name="tab_name_me">โปรไฟล์</string>
     <string name="tab_name_moment">โมเมนต์</string>
@@ -1350,6 +1390,7 @@ ID:%s
     <string name="the_forth_day">ตรุษจีนวันที่ 4</string>
     <string name="the_hksar_establishment_day">วันสถาปนาเขตปกครองพิเศษฮ่องกง</string>
     <string name="the_international_womens_day">วันสตรี</string>
+    <string name="the_item_choosed_tint">เลือก %s ไว้</string>
     <string name="the_laba_festival">เทศกาลล่าปา</string>
     <string name="the_labour_day">วันแรงงาน</string>
     <string name="the_lantern_festival">เทศกาลโคมไฟ</string>
@@ -1398,6 +1439,7 @@ ID:%s
     <string name="tool_bar_notification_setting_title">แถบเครื่องมือแถบการแจ้งเตือน</string>
     <string name="top_bar_game_desc">พบกับเกมสดใหม่มากมายที่นี่</string>
     <string name="top_bar_game_title">ช่องเกม</string>
+    <string name="trending_scroll_load_more">ปัดขึ้นเพื่อดูวิดีโอเพิ่มเติม</string>
     <string name="tuesday">วันอังคาร</string>
     <string name="tuesday_short">อังคาร</string>
     <string name="tuesday_shortest">อังคาร</string>
@@ -1405,9 +1447,9 @@ ID:%s
     <string name="type_issue">ปัญหา</string>
     <string name="type_suggestion">ข้อเสนอแนะ</string>
     <string name="ugc_no_net">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง</string>
+    <string name="ui_common_title_back">ย้อนกลับ</string>
     <string name="ui_log_tip">แตะที่นี่เพื่อซ่อน กดค้างเพื่อล้างล็อกเก่า ลากล็อกด้วยตนเอง</string>
     <string name="unknow">ไม่ทราบ</string>
-    <string name="unknown_error_info">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="update">อัพเดต</string>
     <string name="update_email_address_dialog_message">คุณต้องยืนยันตัวตนของคุณก่อนที่จะอัปเดตอีเมลกู้คืน</string>
     <string name="update_email_address_dialog_title">อัปเดตอีเมลที่ใช้กู้คืนบัญชี</string>
@@ -1449,14 +1491,20 @@ ID:%s
     <string name="video_download_fail">ไม่สามารถดาวน์โหลดวิดีโอ</string>
     <string name="video_download_fail_hint">ไม่สามารถดาวน์โหลดได้</string>
     <string name="video_download_floating_guide">ดาวน์โหลดวีดีโอฟรี</string>
+    <string name="video_download_folder_title">ดาวน์โหลด Mi วิดีโอ</string>
     <string name="video_download_forbidden">ไม่สามารถดาวน์โหลดจากเว็บไซต์นี้ได้</string>
+    <string name="video_download_login_guide">ลงชื่อเข้าใช้ %s เพื่อให้สามารถดาวน์โหลดวิดีโอ</string>
     <string name="video_download_network_error">เครือข่ายขัดข้อง</string>
     <string name="video_download_play_video_guide">ขั้นแรกให้เล่นวิดีโอ</string>
     <string name="video_download_play_video_guide2">แตะปุ่มหลังจากที่ไฟสว่างขึ้นเพื่อเริ่มดาวน์โหลด</string>
+    <string name="video_download_play_video_step1">ขั้นตอนที่ %1$d</string>
+    <string name="video_download_play_video_step2">ขั้นตอนที่ %2$d</string>
     <string name="video_download_site_search">URL</string>
     <string name="video_download_source">เว็บดาวน์โหลด</string>
     <string name="video_download_start">กำลังดาวน์โหลด…</string>
     <string name="video_download_storage_error">พื้นที่จัดเก็บไม่เพียงพอ</string>
+    <string name="video_download_title">ดาวน์โหลดวิดีโอ</string>
+    <string name="video_download_youtube_copyright_forbidden">ไม่สามารถดาวน์โหลดวิดีโอ YouTube ได้ เนื่องจากข้อจำกัดด้านลิขสิทธิ์</string>
     <string name="video_downloading">กำลังดาวน์โหลด…</string>
     <string name="video_live_over">เซสชันนี้สิ้นสุดแล้ว</string>
     <string name="video_noyet_download_tip">ยังคงดาวน์โหลดวิดีโอนี้อยู่</string>

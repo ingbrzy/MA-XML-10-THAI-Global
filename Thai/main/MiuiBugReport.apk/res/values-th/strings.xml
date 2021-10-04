@@ -85,27 +85,30 @@
     <string name="bugreport_tool_log_dumping_title">กำลังสร้างรายงานข้อผิดพลาด</string>
     <string name="catch_full_log_action_cancel">ยกเลิก </string>
     <string name="catch_full_log_action_complete">เสร็จสิ้นและอัปโหลด</string>
-    <string name="catch_full_log_action_start">สร้างบันทึก</string>
+    <string name="catch_full_log_action_start">เริ่ม</string>
     <string name="catch_full_log_add_original_photo">เพิ่มภาพต้นฉบับหรือวิดีโอสั้น</string>
     <string name="catch_full_log_add_photo">เพิ่มรูปถ่าย</string>
     <string name="catch_full_log_add_photo_dialog_content">หากปัญหาที่คุณรายงานนั้นเกี่ยวกับคุณภาพจากภาพของกล้อง เพิ่มรูปต้นฉบับ (ไม่ครอบตัด) เพื่อช่วยเราค้นหาปัญหา เพิ่มรูปถ่ายตอนนี้?</string>
+    <string name="catch_full_log_category">ประเภทของบันทึกการใช้งาน</string>
     <string name="catch_full_log_dialog_confirm_text">ไปยังหน้าจอหลัก</string>
-    <string name="catch_full_log_dialog_content">MIUI กำลังสร้างบันทึก อาจส่งผลกับประสิทธิภาพโดยรวมของอุปกรณ์ของคุณ ถ้าคุณไม่สามารถทำปัญหาที่คุณต้องการรายงานได้ กลับไปที่บันทึกและแตะ \"ยกเลิก\"</string>
+    <string name="catch_full_log_dialog_content">นี่อาจส่งผลกับประสิทธิภาพโดยรวมของอุปกรณ์ของคุณ ถ้าคุณไม่สามารถทำปัญหาที่คุณต้องการรายงานได้ กลับไปที่บันทึกและแตะ \"ยกเลิก\"</string>
+    <string name="catch_full_log_dialog_title">สร้างบันทึกการใช้งาน…</string>
     <string name="catch_full_log_dump_hprof_failed">ไม่สามารถสร้างบันทึกล้าหลังได้</string>
     <string name="catch_full_log_item_content_catch_direct">"1. กลับไปที่คุณลักษณะที่คุณต้องการรายงานและทำซ้ำ
 2. กลับมาที่หน้านี้และแตะ \"เสร็จสิ้นและอัปโหลด\""</string>
-    <string name="catch_full_log_item_content_need_open">"1. แตะ \"สร้างบันทึก\"
-2. กลับไปที่คุณลักษณะที่คุณต้องการรายงานและทำซ้ำ
-3. กลับมาที่หน้านี้และแตะ \"เสร็จสิ้นและอัปโหลด\""</string>
-    <string name="catch_full_log_item_content_title">ก้าว</string>
-    <string name="catch_full_log_item_title_audio">เสียง บันทึกเสียง และเสียงสายโทร</string>
+    <string name="catch_full_log_item_content_catching">สร้างบันทึกการใช้งาน…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d แตะ \"เริ่ม\" เพื่อเริ่มสร้างบันทึก
+%2$d จำลองปัญหาที่คุณพบอีกครั้ง
+%3$d กลับมาที่หน้านี้แล้วแตะ \"เสร็จสิ้นและอัปโหลด\""</string>
+    <string name="catch_full_log_item_content_title">วิธีสร้างบันทึกการใช้งาน</string>
+    <string name="catch_full_log_item_title_audio">เสียง เสียงการโทร และการบันทึกเสียง</string>
     <string name="catch_full_log_item_title_bt">บลูทูธ</string>
     <string name="catch_full_log_item_title_dump_heap">ล้าหลัง</string>
     <string name="catch_full_log_item_title_gps">บริการตำแหน่งที่อยู่</string>
     <string name="catch_full_log_item_title_sensor">เซ็นเซอร์</string>
     <string name="catch_full_log_item_title_signal">โทรศัพท์ สัญญาณ และเครือข่ายมือถือ</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi และ ShareMe</string>
-    <string name="catch_full_log_item_title_wifi_china">WLAN และ ShareMe</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
+    <string name="catch_full_log_item_title_wifi_china">WLAN</string>
     <string name="catch_full_log_notification_content">แตะเพื่อกลับไปยังบันทึก</string>
     <string name="catch_full_log_notification_title">สร้างบันทึก…</string>
     <string name="catch_full_log_privacy_content_audio">คุณกำลังสร้างบันทึกการใช้และจัดเก็บไว้ในอุปกรณ์ของคุณ บันทึกการใช้อาจมีข้อมูลเกี่ยวกับเสียงในอุปกรณ์ของคุณรวมถึงประวัติการเล่นและประวัติการบันทึก ระวังและอย่าเปิดเผยบันทึกเหล่านี้กับคนอื่น โดยการแตะที่ \"เห็นด้วย\" ด้านล่างคุณยอมรับว่าเราจะรวบรวมข้อมูลข้างต้นในขณะที่สร้างบันทึกแล้วอัปโหลดบันทึกไปยังเซิร์ฟเวอร์ของเราเพื่อค้นหาและแก้ไขปัญหาที่คุณรายงาน</string>
@@ -621,7 +624,7 @@ ID:%s
     <string name="stop_full_log_dialog_content">ดูเหมือนว่าตอนนี้กำลังสร้างบันทึก หยุดสร้างและอัปโหลดสิ่งที่พร้อมหรือไม่?</string>
     <string name="stop_full_log_dialog_title">สร้างบันทึกการใช้งาน…</string>
     <string name="submit_dialog_cancel">ไม่เห็นด้วย</string>
-    <string name="submit_dialog_confirm">เห็นด้วย</string>
+    <string name="submit_dialog_confirm">ยอมรับ</string>
     <string name="submit_dialog_content">&lt;Data>อ่านและยอมรับ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"%2$s\">ข้อตกลงผู้ใช้&lt;/a> ก่อนส่งข้อเสนอแนะ ปัญหาที่คุณรายงานพร้อมกับรายการที่คุณแนบ (รวมถึงบันทึกที่อาจมีข้อมูลส่วนบุคคลตลอดจนข้อมูลเกี่ยวกับอุปกรณ์และเครือข่ายของคุณ) จะถูกอัปโหลดไปยังเซิร์ฟเวอร์ของ MIUI วิธีนี้จะช่วยให้เราค้นหาและแก้ไขปัญหาที่คุณรายงานได้ หากคุณรายงานปัญหาที่เกี่ยวข้องกับอุปกรณ์หลายเครื่องบันทึกจากอุปกรณ์อื่นๆ ที่ใช้บัญชี Mi ของคุณจะถูกอัปโหลดด้วย&lt;/Data></string>
     <string name="submit_dialog_content_global">&lt;Data>ความคิดเห็นของคุณพร้อมกับไฟล์แนบ (ถ้ามี) และบันทึก (คุณสามารถยกเลิกการเลือกช่องรายการที่คุณไม่ต้องการอัปโหลด) จะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI โดยอาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> ของเราแล้ว&lt;/Data></string>
     <string name="submit_dialog_not_show_again">ไม่ต้องแสดงอีก</string>

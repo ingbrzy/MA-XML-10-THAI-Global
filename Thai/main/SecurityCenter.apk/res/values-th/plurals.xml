@@ -133,6 +133,9 @@
     <plurals name="find_applications">
         <item quantity="other">ค้นหาจาก %d แอป</item>
     </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d ความเสี่ยงเกี่บวกับความเป็นส่วนตัว</item>
+    </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d ปัญหาต้องการการเพิ่มประสิทธิภาพ</item>
     </plurals>
@@ -174,6 +177,9 @@
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">ลงชื่อเข้าใช้เป็นเวลา %d วันติดต่อกัน</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">รับทราบ (%d วิ)</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"ลองใช้ตัวเปลี่ยนเสียงตอนนี้

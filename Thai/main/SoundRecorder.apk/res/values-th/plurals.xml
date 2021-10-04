@@ -63,6 +63,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+    </plurals>
     <plurals name="notification_warning">
         <item quantity="other">พื้นที่เก็บข้อมูลต่ำ (น้อยกว่า %d นาที)</item>
     </plurals>

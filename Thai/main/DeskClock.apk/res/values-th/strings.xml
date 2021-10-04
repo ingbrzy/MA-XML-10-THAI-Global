@@ -210,12 +210,12 @@
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'หน่วยวินาที'"</string>
+    <string name="fmt_time_millis">"S'มิลลิวิ'"</string>
     <string name="fmt_time_minute">"m'นาที'"</string>
-    <string name="fmt_time_minute_second">"m'นาที' s'วินาที'"</string>
-    <string name="fmt_time_minute_second_millis">"m'นาที' s.S'วินาที'"</string>
-    <string name="fmt_time_second">"s'วินาที'"</string>
-    <string name="fmt_time_second_millis">"s.S'วินาที'"</string>
+    <string name="fmt_time_minute_second">"m'นาที' s'วิ'"</string>
+    <string name="fmt_time_minute_second_millis">"m'นาที' s.S'วิ'"</string>
+    <string name="fmt_time_second">"s'วิ'"</string>
+    <string name="fmt_time_second_millis">"s.S'วิ'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -292,7 +292,7 @@
     <string name="menu_edit_timer_item">แก้ไขรายการตัวจับเวลา</string>
     <string name="menu_item_dock_settings">การตั้งค่า Dock</string>
     <string name="menu_item_sort_by_gmt_offset">เรียงตามวันเวลา</string>
-    <string name="menu_item_sort_by_name">เรียงลำดับตามชื่อ</string>
+    <string name="menu_item_sort_by_name">เรียงตามชื่อ</string>
     <string name="midnight">กลางคืน</string>
     <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
@@ -360,7 +360,7 @@
     <string name="monday">วันจันทร์</string>
     <string name="monday_short">จันทร์</string>
     <string name="monday_shortest">จันทร์</string>
-    <string name="monday_to_friday">จันทร์ - ศุกร์</string>
+    <string name="monday_to_friday">วันจันทร์ถึงวันศุกร์</string>
     <string name="month_april">เมษายน</string>
     <string name="month_april_short">เมษา</string>
     <string name="month_april_shortest">เมษา</string>
@@ -478,6 +478,7 @@
     <string name="shutdown_alarm_enable_summary">เสียงปลุกจะดังหากตั้งไว้อย่างน้อย 10 นาทีหลังจากที่คุณปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="sleep_analysis">สถิติ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -521,6 +522,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_reset_notification">รีเซ็ตนาฬิกาจับเวลาแล้ว</string>
     <string name="stopwatch_running_notification">นาฬิกาจับเวลา</string>
@@ -529,6 +531,7 @@
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตเพื่อเข้าถึงคุณสมบัติทั้งหมดได้</string>
     <string name="system_permission_main_purpose">ดูเวลา ตั้งค่าการเตือนและตัวจับเวลา โดยใช้นาฬิกาจับเวลา</string>
     <string name="system_permission_purpose">การสร้างการเตือนวันทำงานและการตั้งค่าเสียงเรียกเข้าที่กำหนดเอง</string>

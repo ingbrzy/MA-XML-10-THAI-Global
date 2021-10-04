@@ -36,9 +36,11 @@
     <string name="app_ver_name">1.0</string>
     <string name="casting_tips">กำลังฉายภาพ…</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
+    <string name="close">ปิด</string>
     <string name="close_hotspot_hint">ปิดฮอตสปอตแบบพกพาก่อนที่จะฉายภาพ</string>
     <string name="close_slave_wifi_hint">ตัดการเชื่อมต่อจากเครือข่าย Wi-Fi เสริมก่อนฉายภาพ</string>
     <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
     <string name="console_guide_btn_got_it">รับทราบ</string>
     <string name="console_guide_subtitle_hang_up">คุณสามารถฉายภายต่อได้เมื่อหน้าจออุปกรณ์ปิดอยู่ คุณสมบัตินี้จะลดการใช้พลังงาน</string>
     <string name="console_guide_subtitle_private">ไม่แสดง การแจ้งเตือนแบบลอย สายเรียกเข้า และรายการส่วนตัวอื่นๆ บนจอภาพภายนอก</string>
@@ -48,6 +50,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
+    <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="device_desc_trust">อุปกรณ์ที่เชื่อถือได้</string>
     <string name="dialog_can_not_find_device">ไม่พบอุปกรณ์ใกล้ๆ</string>
     <string name="dialog_cancle">ยกเลิก </string>
@@ -57,6 +60,8 @@
     <string name="dialog_connect_verify_perssion_fail">ไม่สามารถอนุญาตการส่งทางทีวีของคุณ รอสักครู่หรือสองนาทีแล้วลองอีกครั้ง</string>
     <string name="dialog_connected">เชื่อมต่อแล้ว</string>
     <string name="dialog_connecting">กำลังเชื่อมต่อ…</string>
+    <string name="dialog_location_permission_message">แอปนี้ต้องเข้าถึงตำแหน่งของคุณจึงจะสามารถค้นหาจอภาพภายนอกในบริเวณใกล้เคียงได้ เลือก \"อนุญาตตลอด\" ในขณะที่ให้การอนุญาตนี้เพื่อหลีกเลี่ยงข้อผิดพลาดที่อาจเกิดขึ้น</string>
+    <string name="dialog_location_permission_title">ต้องการการอนุญาต</string>
     <string name="dialog_miplay_permission_message">อนุญาตให้ ฉายภาพ บันทึกเสียง เข้าถึงไฟล์ในที่เก็บข้อมูลภายใน และเข้าถึงตำแหน่งพิกัดของคุณเพื่อให้สามารถใช้คุณสมบัตินี้ได้ตามปกติ แตะ \"การตั้งค่า\" และเลือก \"การอนุญาตแอป\" เพื่อดำเนินการต่อ</string>
     <string name="dialog_miplay_permission_positive">การตั้งค่า</string>
     <string name="dialog_miplay_permission_title">สิทธิ์ที่จำเป็น</string>
@@ -78,6 +83,8 @@
 2 ในทีวีบางรุ่นคุณสมบัตินี้จะใช้งานได้เมื่อเปิดการสะท้อนหน้าจอเท่านั้นดู \"ความช่วยเหลือ\" เพื่อเรียนรู้เพิ่มเติม"</string>
     <string name="dialog_scanning_device">กำลังค้นหาอุปกรณ์ใกล้เคียง…</string>
     <string name="dialog_scanning_precondition">เปิด Wi-Fi และบลูทูธบนโทรศัพท์ของคุณเพื่อใช้จอแสดงผลแบบไร้สาย</string>
+    <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
+    <string name="dialog_scanning_precondition_new_global">เปิด Wi-Fi บลูทูธ และบริการตำแหน่งพิกัด เพื่อใช้ฉายภาพ เปิดเลยไหม?</string>
     <string name="dialog_select_tv">เลือกอุปกรณ์ (%d)</string>
     <string name="dialog_show_help">ความช่วยเหลือ</string>
     <string name="disconnect">หยุดการฉายภาพหน้าจอ</string>
@@ -127,6 +134,14 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="global_privacy">ข้อตกลงและเงื่อนไข</string>
+    <string name="global_privacy_detail">&lt;Data>อ่านและยอมรับ &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ก่อนใช้แอปนี้&lt;br>หากคุณไม่ยินยอมที่จะใช้บริการข้างต้นคุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอปนี้ได้ อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ&lt;/Data></string>
+    <string name="global_privacy_explain">ยินดีต้อนรับสู่ ฉายภาพ! แอปนี้ให้บริการดังต่อไปนี้:</string>
+    <string name="global_privacy_feature">ใช้หน้าต่างย่อขนาด ฉายภาพโดยปิดหน้าจอ และซ่อนรายการส่วนตัว</string>
+    <string name="global_privacy_main">ฉายรายการจากหน้าจอโทรศัพท์ของคุณบนจอภาพภายนอกที่ใหญ่กว่า</string>
+    <string name="global_privacy_negative">ไม่เห็นด้วย</string>
+    <string name="global_privacy_positive">ยอมรับ</string>
+    <string name="global_privacy_tip">&lt;Data>เราจำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการขั้นพื้นฐานแก่คุณและเพิ่มประสิทธิภาพกระบวนการคัดเลือกนักแสดง คุณสามารถเรียนรู้วิธีที่เราจัดการกับข้อมูลที่เรารวบรวมได้ใน &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวในการตั้งค่าได้ทุกเมื่อ&lt;/Data></string>
     <string name="hang_up">ปิดฉายภาพด้วยหน้าจอ</string>
     <string name="hang_up_alert_dialog_content">ส่งต่อเมื่อหน้าจออุปกรณ์ของคุณปิดอยู่ คุณสมบัตินี้ลดการใช้พลังงาน กดปุ่มเปิด/ปิดเพื่อเปิดหน้าจออีกครั้ง</string>
     <string name="hang_up_alert_dialog_neg">ยกเลิก </string>
@@ -145,7 +160,7 @@
 2. หากคุณใช้ทีวี กล่องรับสัญญาณ หรือโปรเจคเตอร์ของแบรนด์อื่นๆ ให้เชื่อมต่อทั้งโทรศัพท์และจอภาพภายนอกของคุณเข้ากับเครือข่าย Wi-Fi เดียวกัน
 หากอุปกรณ์ทั้งสองไม่สามารถเชื่อมต่อกับเครือข่ายเดียวกันให้เปิด Miracast บนจอภาพภายนอกของคุณ ชื่อฟังก์ชั่น Miracast อาจแตกต่างกันไป"</string>
     <string name="help_page_text_08">ขั้นตอนที่ 2: เปิดการฉายภาพ</string>
-    <string name="help_page_text_09">แตะสวิตซ์ \"ส่ง\" ในแถบแจ้งเตือนของโทรศัพท์ เปิด Wi-Fi และบลูทูธเพื่อการเชื่อมต่อที่เสถียรยิ่งขึ้น</string>
+    <string name="help_page_text_09">แตะสวิตซ์ \"ส่ง\" ในแถบการแจ้งเตือนของโทรศัพท์ เปิด Wi-Fi และบลูทูธเพื่อการเชื่อมต่อที่เสถียรยิ่งขึ้น</string>
     <string name="help_page_text_10">หากคุณต้องการส่งรายการจากคลังภาพหรือวิดีโอ Mi คุณสามารถใช้ฟีเจอร์การฉายภาพในตัวในแอปเหล่านี้</string>
     <string name="help_page_text_11">ขั้นตอนที่ 3: เลือกอุปกรณ์</string>
     <string name="help_page_text_12">เลือกอุปกรณ์ภายนอกจากรายการอุปกรณ์ที่มีอยู่เพื่อเริ่มส่ง</string>
@@ -208,9 +223,28 @@
     <string name="help_page_text_end">หากแบรนด์ของอุปกรณ์ของคุณไม่อยู่ในรายการที่นี่ ติดต่อผู้ผลิตเพื่อเรียนรู้เพิ่มเติมเกี่ยวกับฟังก์ชั่นการส่งสัญญาณ</string>
     <string name="keyguard_security_setting_privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="midnight">กลางคืน</string>
-    <string name="miuix_appcompat_cloud_state_disabled">การซิงค์กับคลาวด์ถูกปิด</string>
-    <string name="miuix_appcompat_cloud_state_finished">ซิงค์กับคลาวด์เรียบร้อยแล้ว</string>
-    <string name="miuix_appcompat_cloud_state_syncing">กำลังซิงค์กับคลาวด์…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
+    <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
+    <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
+    <string name="miuix_appcompat_delete_description">ลบ</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
+    <string name="miuix_appcompat_search_input_description">ค้นหา</string>
+    <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_select_all_description">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_select_item">เลือกรายการ</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ปล่อยเพื่อรีเฟรช</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">นั่นคือทั้งหมดตอนนี้</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">รอสักครู่…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ไม่สามารถโหลดรายการได้</string>
     <string name="monday">วันจันทร์</string>
     <string name="monday_short">จันทร์</string>
     <string name="monday_shortest">จันทร์</string>
@@ -293,7 +327,7 @@
     <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
     <string name="privacy_permission_wlan_desc">สำหรับการค้นหาอุปกรณ์ใกล้เคียง</string>
     <string name="privacy_permission_wlan_desc_china">สำหรับการค้นหาอุปกรณ์ใกล้เคียง</string>
-    <string name="privacy_positive">ตกลง</string>
+    <string name="privacy_positive">ยอมรับ</string>
     <string name="privacy_text_1">"&lt;Data>ยินดีต้อนรับสู่การฉายภาพ! การฉายภาพช่วยให้ฉายรายการจากหน้าจอโทรศัพท์ของคุณไปบนจอภาพภายนอกที่ใหญ่กว่า
 เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง คุณลักษณะบางอย่างจัดทำโดยผู้ให้บริการบุคคลที่สาม HappyCast ก่อนที่จะใช้คุณสมบัตินี้ให้อ่านและยอมรับ &lt;a href=%2$s>คำชี้แจงทางกฎหมาย HappyCast&lt;/a> และ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว HappyCast&lt;/a>
 เพื่อให้สามารถทำงานได้ตามปกติ แอปนี้ต้องเชื่อมต่ออินเทอร์เน็ตและต้องได้รับการอนุญาตดังต่อไปนี้พื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;/Data>"</string>
@@ -331,6 +365,7 @@
     <string name="screen_projection_sample_title">ตัวอย่าง</string>
     <string name="screen_projection_title">ฉายภาพ</string>
     <string name="search_menu_title">ค้นหา</string>
+    <string name="send">ส่ง</string>
     <string name="small_window">ย่อหน้าต่าง</string>
     <string name="small_window_not_supported">ไม่สามารถย่อขนาดแอปนี้ได้ในขณะที่กำลังฉายภาพ</string>
     <string name="status_bar_in_casting">กำลังฉายภาพ…</string>
