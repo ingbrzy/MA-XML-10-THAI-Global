@@ -58,7 +58,6 @@
     <string name="dual_app_title">แอปโคลน</string>
     <string name="dual_app_words">ทุกบัญชีสมควรมีแอปของมันเอง</string>
     <string name="early_morning">เช้า</string>
-    <string name="empty">" "</string>
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="evening">บ่าย</string>
@@ -340,7 +339,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
