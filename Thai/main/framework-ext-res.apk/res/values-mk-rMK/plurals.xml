@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">Изгледа дека батеријата е исклучена. Вашиот уред ќе се исклучи во рок од %d секунди. Контактирајте ја поддршката за клиенти за да го решите ова прашање.</item>
+        <item quantity="one">Изгледа дека батеријата е исклучена. Вашиот уред ќе се исклучи во рок од %d секунда. Контактирајте ја корисничката поддршка за да го решите ова прашање.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d датотеки</item>
+        <item quantity="one">%1$d датотека</item>
+    </plurals>
+</resources>

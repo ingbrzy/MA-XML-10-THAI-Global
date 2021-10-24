@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="comment_push_merged_message_desc_multiple">
+        <item quantity="other">%3$d వ్యక్తుల నుండి, @%1$s మరియు @%2$sసహా</item>
+        <item quantity="one">%3$d వ్యక్తి నుండి, @%1$s మరియు @%2$sసహా</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_title">
+        <item quantity="other">మీకు %1$d చదవని సందేశాలు ఉన్నాయి</item>
+        <item quantity="one">మీకు %1$d చదవని సందేశం ఉంది</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%1$s రోజులు</item>
+        <item quantity="one">%1$s రోజు</item>
+    </plurals>
+    <plurals name="delete_download_history_confirm">
+        <item quantity="other">డౌన్‌లోడ్ చరిత్రలో %1$s నమోదులని తొలగించు.</item>
+        <item quantity="one">డౌన్‌లోడ్ చరిత్రలో %1$s నమోదుని తొలగించు.</item>
+    </plurals>
+</resources>

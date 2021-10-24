@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Bass boost</string>
+    <string name="ci_extreme">FX booster</string>
+    <string name="classical">Classical</string>
+    <string name="dance">Dance</string>
+    <string name="eq_dialog_title">Equalizer</string>
+    <string name="flat">Flat</string>
+    <string name="folk">Folk</string>
+    <string name="headset_plug">Plug in headphones for these effects.</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="jazz">Jazz</string>
+    <string name="new_app_name">AudioEffect</string>
+    <string name="no_effects">Effects not available.</string>
+    <string name="normal">Normal</string>
+    <string name="picker_title">Music effects control panel</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="setup">Setup</string>
+    <string name="user">User</string>
+    <string name="virtualizer_strength">Surround sound</string>
+    <item type="string" name="APKTOOL_DUMMY_4" />
+    <item type="string" name="APKTOOL_DUMMY_6" />
+    <item type="string" name="APKTOOL_DUMMY_e" />
+    <item type="string" name="APKTOOL_DUMMY_f" />
+    <item type="string" name="APKTOOL_DUMMY_10" />
+    <item type="string" name="APKTOOL_DUMMY_11" />
+    <item type="string" name="APKTOOL_DUMMY_12" />
+    <item type="string" name="APKTOOL_DUMMY_15" />
+    <item type="string" name="APKTOOL_DUMMY_18" />
+    <item type="string" name="APKTOOL_DUMMY_1a" />
+    <item type="string" name="APKTOOL_DUMMY_1b" />
+    <item type="string" name="APKTOOL_DUMMY_1c" />
+    <item type="string" name="APKTOOL_DUMMY_1d" />
+    <item type="string" name="APKTOOL_DUMMY_20" />
+    <item type="string" name="APKTOOL_DUMMY_21" />
+    <item type="string" name="APKTOOL_DUMMY_22" />
+</resources>

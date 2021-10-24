@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">वाइ-फाइ कलहरू</string>
+    <string name="vice_slot_volte_data_switch_prompt">तपाईंको डिभाइस चलिरहेको 4G कलको समय दोस्रो सिम प्रयोग गरी मोबाइल डाटा नेटवर्कमा जडान गर्छ। यसले थप डाटा शुल्कहरू उत्पन्न गर्न सक्छ। तपाईंको डाटा योजनाको बारेमा विवरणहरूको लागि तपाईंको स्थानीय अपरेटरलाई सम्पर्क गर्नुहोस्।</string>
+    <string name="vice_slot_volte_data_switch_summary">4G कल गर्दा, डिभाइसले दोस्रो सिम प्रयोग गरेर मोबाइल डाटा नेटवर्कमा जडान गर्छ</string>
+    <string name="vice_slot_volte_data_switch_title">दोस्रो SIM बाट 4G कल गर्दा मोबाइल डाटाको उपयोग गर्नुहोस्</string>
+    <string name="volte_switch_summary">आवाज र संचार सेवा सुधार गर्न 4G सेवाहरूको प्रयोग गर्नुहोस्</string>
+    <string name="volte_switch_title">4G कलहरू</string>
+    <string name="wificall_switch_title">वाइ-फाइ कलिङ</string>
+</resources>

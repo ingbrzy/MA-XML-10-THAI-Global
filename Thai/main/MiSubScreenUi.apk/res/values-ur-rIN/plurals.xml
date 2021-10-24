@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 گھنٹہ قبل</item>
+        <item quantity="one">1 گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 گھنٹہ قبل</item>
+        <item quantity="one">1 گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">آدھا گھنٹہ قبل</item>
+        <item quantity="one">آدھا گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 گھنٹہ میں</item>
+        <item quantity="one">1 گھنٹہ میں</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">آدھا گھنٹہ میں</item>
+        <item quantity="one">آدھا گھنٹہ میں</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="one">فوراً</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d منٹ میں</item>
+        <item quantity="one">1 منٹ میں</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ابھی ابھی</item>
+        <item quantity="one">ابھی ابھی</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d منٹ قبل</item>
+        <item quantity="one">1 منٹ قبل</item>
+    </plurals>
+    <plurals name="accessibility_battery_level">
+        <item quantity="other">بیٹری چارج %d فیصد پر ہے۔</item>
+        <item quantity="one">بیٹری چارج %d فیصد پر ہے۔</item>
+    </plurals>
+    <plurals name="accessibility_battery_level_charging">
+        <item quantity="other">چارج ہو رہا ہے %d فیصد</item>
+        <item quantity="one">چارج ہو رہا ہے %d فیصد</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">آدھا گھنٹہ قبل</item>
+        <item quantity="one">آدھا گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 گھنٹہ میں</item>
+        <item quantity="one">1 گھنٹہ میں</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">آدھا گھنٹہ میں</item>
+        <item quantity="one">آدھا گھنٹہ میں</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">فوری طور پر</item>
+        <item quantity="one">فوراً</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d منٹ میں</item>
+        <item quantity="one">1 منٹ میں</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ابھی ابھی</item>
+        <item quantity="one">ابھی ابھی</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d آئٹمز منتخب کیے گئے</item>
+        <item quantity="one">%d آئٹم منتخب ہوا</item>
+    </plurals>
+    <plurals name="notification_mms">
+        <item quantity="other">%d نئے پیغامات</item>
+        <item quantity="one">%d نیا پیغام</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d منٹ قبل</item>
+        <item quantity="one">1 منٹ پہلے</item>
+    </plurals>
+</resources>

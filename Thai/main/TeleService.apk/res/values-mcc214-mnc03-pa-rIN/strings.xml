@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">ਵਾਈ-ਫ਼ਾਈ ਕਾਲਾਂ</string>
+    <string name="vice_slot_volte_data_switch_prompt">4G ਚਲ ਰਹੀਆਂ ਕਾਲਾਂ ਦੌਰਾਨ, ਦੂਜੇ ਸਿਮ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਡੀਵਾਈਸ ਮੋਬਾਈਲ ਡਾਟਾ ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਹੋਵੇਗਾ। ਇਸ ਨਾਲ ਵਾਧੂ ਖਰਚੇ ਪੈ ਸਕਦੇ ਹਨ। ਆਪਣੇ ਡਾਟਾ ਪਲਾਨ ਬਾਰੇ ਵੇਰਵੇ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਮੋਬਾਈਲ ਓਪਰੇਟਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।</string>
+    <string name="vice_slot_volte_data_switch_summary">4G ਕਾਲਾਂ ਦੌਰਾਨ, ਦੂਜੇ ਸਿਮ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਡੀਵਾਈਸ ਮੋਬਾਈਲ ਡਾਟਾ ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਹੋਵੇਗਾ</string>
+    <string name="vice_slot_volte_data_switch_title">"ਦੂਜੇ ਸਿਮ 'ਤੇ 4G ਕਾਲਾਂ ਦੌਰਾਨ ਮੋਬਾਈਲ ਡਾਟਾ ਦੀ ਵਰਤੋਂ ਕਰੋ"</string>
+    <string name="volte_switch_summary">ਅਵਾਜ਼ ਅਤੇ ਸੰਚਾਰ ਸੇਵਾ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ 4G ਸੇਵਾਵਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="volte_switch_title">4G ਕਾਲਾਂ</string>
+    <string name="wificall_switch_title">ਵਾਈ-ਫ਼ਾਈ ਕਾਲਿੰਗ</string>
+</resources>

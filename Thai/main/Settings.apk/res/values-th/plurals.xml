@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ในครึ่งชั่วโมง</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ทันที</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">ใน %d นาที</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">เมื่อสักครู่</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+    </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">%d วันที่แล้ว</item>
         <item quantity="one">%d วันที่แล้ว</item>
@@ -32,6 +59,18 @@
         <item quantity="other">สั้น (%1$s วินาที)</item>
         <item quantity="one">สั้น (%1$s วินาที)</item>
     </plurals>
+    <plurals name="app_launch_supported_links_title">
+        <item quantity="other">%d ลิงก์ที่รองรับ</item>
+        <item quantity="one">%d ลิงก์ที่รองรับ</item>
+    </plurals>
+    <plurals name="app_launch_verified_links_message">
+        <item quantity="other">ลิงก์เหล่านี้ได้รับการยืนยันแล้วและจะเปิดโดยอัตโนมัติในแอปนี้</item>
+        <item quantity="one">ลิงก์นี้ได้รับการยืนยันแล้วและจะเปิดโดยอัตโนมัติในแอปนี้</item>
+    </plurals>
+    <plurals name="app_launch_verified_links_title">
+        <item quantity="other">%d ลิงก์ที่ได้รับการยืนยันแล้ว</item>
+        <item quantity="one">%d ลิงก์ที่ได้รับการยืนยันแล้ว</item>
+    </plurals>
     <plurals name="app_link_open_always_summary">
         <item quantity="other">แอปอ้างว่าจัดการ %d ลิงก์</item>
         <item quantity="one">แอปอ้างว่าจัดการ %d ลิงก์</item>
@@ -41,13 +80,17 @@
         <item quantity="one">ปิดสำหรับ %d แอป</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">ไม่ปิดใช้งาน %d แอป</item>
+        <item quantity="other">Never disable for %d apps</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">ปิดใช้ตลอด %d แอป</item>
+        <item quantity="other">Always disable for %d apps</item>
     </plurals>
     <plurals name="auto_startup_count">
-        <item quantity="other">อนุญาตให้ %d แอปเริ่มต้นทำงานอัตโนมัติ</item>
+        <item quantity="other">%d apps are allowed to autostart</item>
+    </plurals>
+    <plurals name="autofill_passwords_count">
+        <item quantity="other">รหัสผ่าน %1$d รายการ</item>
+        <item quantity="one">รหัสผ่าน %1$d รายการ</item>
     </plurals>
     <plurals name="battery_manager_app_restricted">
         <item quantity="other">จำกัดแอป %1$d แอป</item>
@@ -84,13 +127,10 @@
         <item quantity="one">เหลืออีก %d วัน</item>
     </plurals>
     <plurals name="bt_usable_device_title">
-        <item quantity="other">%d อุปกรณ์ที่พบ</item>
-    </plurals>
-    <plurals name="color_game_led_freq_entries">
-        <item quantity="other">ทุก %d วินาที</item>
+        <item quantity="other">%d available devices</item>
     </plurals>
     <plurals name="connected_devices_number">
-        <item quantity="other">%d อุปกรณ์</item>
+        <item quantity="other">%d devices</item>
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
         <item quantity="other">%1$d แอปได้รับอนุญาตให้ใช้อินเทอร์เน็ตได้ไม่จำกัดเมื่อเปิดโปรแกรมประหยัดอินเทอร์เน็ต</item>
@@ -140,15 +180,33 @@
         <item quantity="other">จำกัดการเชื่อมต่อสำหรับ %s แอป</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
-        <item quantity="other">%1$d คนเชื่อมต่ออยู่</item>
+        <item quantity="other">%1$d people connected</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="hours">
         <item quantity="other">%s ชั่วโมง</item>
         <item quantity="one">1 ชั่วโมง</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ในครึ่งชั่วโมง</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ทันที</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">ใน%d นาที</item>
+    </plurals>
     <plurals name="interact_across_profiles_number_of_connected_apps">
         <item quantity="other">มี %d แอปที่เชื่อมต่ออยู่</item>
         <item quantity="one">มี %d แอปที่เชื่อมต่ออยู่</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">เมื่อสักครู่</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">แอป %1$d แอปจาก %2$d แอปมีสิทธิ์เข้าถึงตำแหน่ง</item>
@@ -230,11 +288,18 @@
         <item quantity="other">เพิ่มแล้ว %d</item>
     </plurals>
     <plurals name="miui_wifi_wakeup_summary">
-        <item quantity="other">Wi-Fi จะเปิดโดยอัตโนมัติเมื่ออุปกรณ์ของคุณตรวจพบเครือข่ายที่บันทึกไว้ใกล้ๆ และปิดหลังจาก %d นาทีหากไม่มีการสร้างการเชื่อมต่อ</item>
+        <item quantity="other">Wi-Fi will be turned on automatically when your device detects saved networks nearby and turned off after %d minutes if no connection is established</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d ซิม</item>
         <item quantity="one">%1$d ซิม</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
     </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">ข้อจำกัด %1$d ข้อ</item>
@@ -264,9 +329,16 @@
         <item quantity="other">การแจ้งเตือนประมาณ %d ครั้งต่อสัปดาห์</item>
         <item quantity="one">การแจ้งเตือนประมาณ %d ครั้งต่อสัปดาห์</item>
     </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+    </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">มี %d แอปที่ใช้งานอยู่</item>
         <item quantity="one">มี %d แอปที่ใช้งานอยู่</item>
+    </plurals>
+    <plurals name="number_of_urls">
+        <item quantity="other">URL %d รายการ</item>
+        <item quantity="one">URL %d รายการ</item>
     </plurals>
     <plurals name="permission_bar_chart_label">
         <item quantity="other">%s แอป</item>
@@ -309,15 +381,15 @@
         <item quantity="one">อนุญาต %1$d จาก %2$d รายการแล้ว</item>
     </plurals>
     <plurals name="saved_network_checked_num">
-        <item quantity="other">เลือกไว้ %d รายการ</item>
+        <item quantity="other">Selected %d items</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s วินาที</item>
         <item quantity="one">1 วินาที</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">ตั้งค่าลายนิ้วมือ %1$d รายการ</item>
-        <item quantity="one">ตั้งค่าลายนิ้วมือ %1$d รายการ</item>
+        <item quantity="other">เพิ่มลายนิ้วมือแล้ว %1$d รายการ</item>
+        <item quantity="one">เพิ่มลายนิ้วมือแล้ว</item>
     </plurals>
     <plurals name="see_all_apps_title">
         <item quantity="other">ดูทั้ง %1$d แอป</item>
@@ -328,7 +400,7 @@
         <item quantity="one">แสดงรายการที่ซ่อน %d รายการ</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">ยังเหลืออีก %1$d ขั้นตอนในการเข้าสู่ข้อมูลเครื่องโทรศัพท์</item>
+        <item quantity="other">"You're %1$d steps away from entering CIT."</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">คุณกำลังจะได้เป็นนักพัฒนาซอฟต์แวร์ในอีก %1$d ขั้นตอน</item>
@@ -339,10 +411,10 @@
         <item quantity="one">บันทึกเครื่องช่วยฟัง %1$d เครื่องแล้ว</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">ยังเหลืออีก %1$d ขั้นตอนในการเเปิดข้อมูลอุปกรณ์</item>
+        <item quantity="other">"You're %1$d step away from opening device info."</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">ยังเหลืออีก %1$d ขั้นตอนในการส่งรายงานปัญหา</item>
+        <item quantity="other">"You're %1$d steps away from reporting bug."</item>
     </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">ใช้อินเทอร์เน็ตได้ไม่จำกัด %d แอป</item>
@@ -387,65 +459,69 @@
         <item quantity="one">1 คำแนะนำ</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
-        <item quantity="other">รับการแจ้งเตือนเมื่อใดก็ตามที่หูฟังของคุณอยู่ห่างจากหูหรือเคสชาร์จนานเกิน %d นาที</item>
+        <item quantity="other">Receive an alert whenever one of your earphones is away from your ear or charging case for longer than %d minutes</item>
+    </plurals>
+    <plurals name="unused_apps_summary">
+        <item quantity="other">แอปที่ไม่ได้ใช้ %d รายการ</item>
+        <item quantity="one">แอปที่ไม่ได้ใช้ %d รายการ</item>
     </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d รายการ</item>
         <item quantity="one">1 รายการ</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">ปลดล็อกแล้ว %d ครั้ง</item>
+        <item quantity="other">Unlocked %d times</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">ปลดล็อกแล้ว %d ครั้ง</item>
+        <item quantity="other">Unlocked %d times</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">ได้รับ %d การแจ้งเตือน</item>
+        <item quantity="other">Received %d notifications</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">ได้รับ %d การแจ้งเตือน</item>
+        <item quantity="other">Received %d notifications</item>
     </plurals>
     <plurals name="usage_state_hour">
-        <item quantity="other">%d ชั่วโมง</item>
+        <item quantity="other">%d hrs</item>
     </plurals>
     <plurals name="usage_state_hour24">
-        <item quantity="other">%d ชั่วโมง</item>
+        <item quantity="other">%d hours</item>
     </plurals>
     <plurals name="usage_state_hour_text">
-        <item quantity="other">" ชั่วโมง"</item>
+        <item quantity="other">" hrs"</item>
     </plurals>
     <plurals name="usage_state_minute">
-        <item quantity="other">%d นาที</item>
+        <item quantity="other">%d mins</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
-        <item quantity="other">" นาที"</item>
+        <item quantity="other">" mins"</item>
     </plurals>
     <plurals name="usage_state_noti_count">
-        <item quantity="other">%d การแจ้งเตือน</item>
+        <item quantity="other">%d notifications</item>
     </plurals>
     <plurals name="usage_state_unlock_count">
-        <item quantity="other">%d ครั้ง</item>
+        <item quantity="other">%d times</item>
     </plurals>
     <plurals name="usage_state_week_day_hour">
-        <item quantity="other">วันหยุดสุดสัปดาห์: %d ชั่วโมง</item>
+        <item quantity="other">Weekends: %d hours</item>
     </plurals>
     <plurals name="usage_state_week_day_minute">
-        <item quantity="other">วันหยุดสุดสัปดาห์: %d นาที</item>
+        <item quantity="other">Weekends: %d minutes</item>
     </plurals>
     <plurals name="usage_state_work_day_hour">
-        <item quantity="other">วันธรรมดา: %d ชั่วโมง</item>
+        <item quantity="other">Weekdays: %d hours</item>
     </plurals>
     <plurals name="usage_state_work_day_minute">
-        <item quantity="other">วันธรรมดา: %d นาที</item>
+        <item quantity="other">Weekdays: %d minutes</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" ชม."</item>
+        <item quantity="other">" hrs"</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" นาที"</item>
+        <item quantity="other">" mins"</item>
     </plurals>
     <plurals name="virus_scan_app_find_risk">
-        <item quantity="other">พบ %d ความเสี่ยง</item>
+        <item quantity="other">%d risks found</item>
     </plurals>
     <plurals name="wifi_saved_access_points_summary">
         <item quantity="other">%d เครือข่าย</item>
@@ -460,46 +536,15 @@
         <item quantity="one">การสมัครใช้บริการ 1 รายการ</item>
     </plurals>
     <plurals name="wifi_share_count">
-        <item quantity="other">แชร์แล้ว %d เครือข่าย</item>
+        <item quantity="other">Shared %d networks</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">เชื่อมต่ออุปกรณ์ %1$d แล้ว</item>
+        <item quantity="other">มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
+        <item quantity="one">มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">รหัส PIN ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้ง</item>
         <item quantity="one">รหัส PIN ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้งก่อนที่จะต้องติดต่อผู้ให้บริการเพื่อปลดล็อกอุปกรณ์</item>
-    </plurals>
-    <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">%s รบกวนได้</item>
-        <item quantity="one">%s รบกวนได้</item>
-    </plurals>
-    <plurals name="zen_mode_contacts_count">
-        <item quantity="other">รายชื่อติดต่อ %d ราย</item>
-        <item quantity="one">รายชื่อติดต่อ 1 ราย</item>
-    </plurals>
-    <plurals name="zen_mode_conversations_count">
-        <item quantity="other">การสนทนา %d รายการ</item>
-        <item quantity="one">การสนทนา 1 รายการ</item>
-    </plurals>
-    <plurals name="zen_mode_duration_summary_time_hours">
-        <item quantity="other">%d ชั่วโมง</item>
-        <item quantity="one">1 ชั่วโมง</item>
-    </plurals>
-    <plurals name="zen_mode_other_sounds_summary">
-        <item quantity="other">%s รบกวนได้</item>
-        <item quantity="one">%s รบกวนได้</item>
-    </plurals>
-    <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">ตั้งกำหนดการแล้ว %d รายการ</item>
-        <item quantity="one">ตั้งกำหนดการแล้ว 1 รายการ</item>
-    </plurals>
-    <plurals name="zen_mode_sound_summary_summary_off_info">
-        <item quantity="other">%d กำหนดการเปิดได้โดยอัตโนมัติ</item>
-        <item quantity="one">1 กำหนดการเปิดได้โดยอัตโนมัติ</item>
-    </plurals>
-    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
-        <item quantity="other">อีก %d คน</item>
-        <item quantity="one">อีก 1 คน</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">เปลี่ยนเป็นเฉพาะปลุกเท่านั้นเป็นเวลา %1$d ชั่วโมงจนถึงเวลา %2$s</item>

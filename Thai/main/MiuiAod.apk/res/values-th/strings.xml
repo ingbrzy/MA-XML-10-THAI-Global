@@ -283,6 +283,7 @@ dd/MM"</string>
 กำลังจะเกิดขึ้น"</string>
     <string name="standard_clock_panel">มาตรฐาน</string>
     <string name="standard_style">มาตรฐาน</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">จำนวนก้าวนับโดย Xiaomi Health ยอมรับข้อกำหนดในการให้บริการของ Xiaomi Health เพื่อดำเนินการต่อ</string>
     <string name="step_component_info_desc">การนับก้าวจะกลายเป็นรางวัลเมื่อคุณถึงเป้าหมาย จำนวนก้าวนับโดย Xiaomi Health</string>
     <string name="step_component_info_tip">จำนวนก้าวนับโดย Xiaomi Health ติดตั้งหรืออัปเดต Xiaomi Health และยอมรับข้อกำหนดในการให้บริการเพื่อดำเนินการต่อ</string>

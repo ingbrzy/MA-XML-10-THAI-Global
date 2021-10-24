@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 કલાક પહેલાં</item>
+        <item quantity="one">1 કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 કલાક પહેલાં</item>
+        <item quantity="one">1 કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">અડધા કલાક પહેલાં</item>
+        <item quantity="one">અડધા કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 કલાકમાં</item>
+        <item quantity="one">1 કલાકમાં</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">અડધા કલાકમાં</item>
+        <item quantity="one">અડધા કલાકમાં</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">તરત જ</item>
+        <item quantity="one">તરત જ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d મિનિટમાં</item>
+        <item quantity="one">1 મિનિટમાં</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">હમણાં જ</item>
+        <item quantity="one">હમણાં જ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d મિનિટ પહેલા</item>
+        <item quantity="one">1 મિનિટ પહેલાં</item>
+    </plurals>
+    <plurals name="account_coins_num">
+        <item quantity="other">%1s કૉઇન્સ</item>
+        <item quantity="one">%1s કૉઇન</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">અડધા કલાક પહેલાં</item>
+        <item quantity="one">અડધા કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 કલાકમાં</item>
+        <item quantity="one">1 કલાકમાં</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">અડધા કલાકમાં</item>
+        <item quantity="one">અડધા કલાકમાં</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">તરત જ</item>
+        <item quantity="one">તરત જ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d મિનિટમાં</item>
+        <item quantity="one">1 મિનિટમાં</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">હમણાં જ</item>
+        <item quantity="one">હમણાં જ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d આઇટમો પસંદ કરેલ છે</item>
+        <item quantity="one">%d આઇટમ પસંદ કરેલ છે</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d મિનિટ પહેલા</item>
+        <item quantity="one">1 મિનિટ પહેલા</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$d કૉઇન્સ = %2$d IDR
+કૉઇન્સ નોન-રીફંડ યોગ્ય છે"</item>
+        <item quantity="one">"%1$d કૉઇન = %2$d IDR
+કૉઇન્સ નોન-રીફંડ યોગ્ય છે"</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">%d કામ</item>
+        <item quantity="one">%d કામ</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data>ચુકવણી પૂર્ણ કરીને, તમે &lt;a href=\"%1$s\"> ઇન-એપ ખરીદી પર સૂચના&lt;/a>.&lt;br> થી સંમત થઈ રહ્યા છો. &lt;xliff:g id=time>%2$d&lt;/xliff:g> માટે રિફંડ ખરીદી કરવામાં આવ્યાના કલાકો પછી ઉપલબ્ધ છે.&lt;/Data></item>
+        <item quantity="one">&lt;Data>ચુકવણી પૂર્ણ કરીને, તમે &lt;a href=\"%1$s\"> ઇન-એપ ખરીદી પર સૂચના&lt;/a>.&lt;br> થી સંમત થઈ રહ્યા છો. &lt;xliff:g id=time>%2$d&lt;/xliff:g> માટે રિફંડ ખરીદી કરવામાં આવ્યાના કલાકો પછી ઉપલબ્ધ છે.&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">ઓર્ડર %d કરતાં વધુ કલાકો પહેલા પૂર્ણ થયો હતો. અમને ઇમેઇલ મોકલો.</item>
+        <item quantity="one">ઓર્ડર %d કરતાં વધુ કલાક પહેલા પૂર્ણ થયો હતો. અમને ઇમેઇલ મોકલો.</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">તમે %d કલાકોમાં કૉઇન્સ પ્રાપ્ત કરશો.</item>
+        <item quantity="one">તમે %dકલાકમાં કૉઇન્સ પ્રાપ્ત કરશો.</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d ટિપ્પણીઓ</item>
+        <item quantity="one">%d ટિપ્પણી</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">%1$s ફોન્ટ સફળતાપૂર્વક ડાઉનલોડ કર્યા</item>
+        <item quantity="one">%1$s ફોન્ટ સફળતાપૂર્વક ડાઉનલોડ કર્યા</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">%1$s થીમ સફળતાપૂર્વક ડાઉનલોડ કરી</item>
+        <item quantity="one">%1$s થીમ સફળતાપૂર્વક ડાઉનલોડ કરી</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s કામ</item>
+        <item quantity="one">%1$s કામ</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d છબી</item>
+        <item quantity="one">%1$s | %2$d છબી</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">ब्याट्री काटिएको जस्तो देखिन्छ। तपाईंको डिभाइसको %d सेकेन्ड भित्र बन्द पावर हुनेछ। यस समस्याको समाधानका लागि ग्राहक सहायतामा सम्पर्क गर्नुहोस्।</item>
+        <item quantity="one">ब्याट्री काटिएको जस्तो देखिन्छ। तपाईंको डिभाइसको %d सेकेन्ड भित्र बन्द पावर हुनेछ। यस समस्याको समाधानका लागि ग्राहक सहायतामा सम्पर्क गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d फाइलहरू</item>
+        <item quantity="one">%1$d फाइल</item>
+    </plurals>
+</resources>

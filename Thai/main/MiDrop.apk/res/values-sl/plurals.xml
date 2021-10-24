@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <plurals name="sender_file_num">
+         <item quantity="other">Čaka se %1$d datotek…</item>
+         <item quantity="one">Čaka se %1$d datoteka…</item>
+     </plurals>
+     <plurals name="receiver_file_num">
+         <item quantity="other">%2$d datotek od %1$s</item>
+         <item quantity="one">%2$d datoteka od %1$s</item>
+     </plurals>
+     <plurals name="receiver_file_current">
+         <item quantity="other">Sprejem %2$d datotek od %1$s…</item>
+         <item quantity="one">Sprejem %2$d datoteke od %1$s…</item>
+     </plurals>
+     <plurals name="receiver_pic_file_num">
+         <item quantity="other">%2$d slik od %1$s</item>
+         <item quantity="one">%2$d slika od %1$s</item>
+     </plurals>
+     <plurals name="receiver_pic_file_current">
+         <item quantity="other">Sprejem %2$d slik od %1$s…​</item>
+         <item quantity="one">Sprejem %2$d slike od %1$s​…</item>
+     </plurals>
+     <plurals name="receiver_audio_file_num">
+         <item quantity="other">%2$d​ pesmi od %1$s</item>
+         <item quantity="one">%2$d​ pesem od %1$s</item>
+     </plurals>
+     <plurals name="receiver_audio_file_current">
+         <item quantity="other">Sprejem %2$d pesmi od %1$s…​</item>
+         <item quantity="one">Sprejem %2$d pesem od %1$s…​</item>
+     </plurals>
+     <plurals name="receiver_video_file_num">
+         <item quantity="other">%2$d videoposnetkov od %1$s</item>
+         <item quantity="one">%2$d videoposnetek od %1$s</item>
+     </plurals>
+     <plurals name="receiver_video_file_current">
+         <item quantity="other">Sprejem %2$d videoposnetkov od %1$s…</item>
+         <item quantity="one">Sprejem %2$d videoposnetek od %1$s…</item>
+     </plurals>
+     <plurals name="receiver_apk_file_num">
+         <item quantity="other">%2$d​ aplikacij od %1$s</item>
+         <item quantity="one">%2$d​ aplikacija od %1$s</item>
+     </plurals>
+     <plurals name="receiver_apk_file_current">
+         <item quantity="other">Sprejem %2$d​ aplikacijod %1$s…</item>
+         <item quantity="one">Sprejem %2$d​ aplikacije od %1$sv</item>
+     </plurals>
+     <plurals name="notif_receive_progress">
+         <item quantity="other">Sprejem %1$s datotek…</item>
+         <item quantity="one">Sprejem %1$s datoteke…</item>
+     </plurals>
+     <plurals name="notif_receive_cancel">
+         <item quantity="other">%1$s datotek ni poslano</item>
+         <item quantity="one">%1$s datoteka ni poslana</item>
+     </plurals>
+     <plurals name="notif_receive_success">
+         <item quantity="other">Prejeto datotek %1$s</item>
+         <item quantity="one">Prejeta datoteka %1$s</item>
+     </plurals>
+</resources> 

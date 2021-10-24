@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 سائەت ئىلگىرى</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">يېرىم سائەت ئىلگىرى</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1سائەتتىن كېيىن</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">يېرىم سائەتتىن كېيىن</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ھازىر</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%dمىنۇتتىن كېيىن</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">باياتىن</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%dمىنۇت ئىلگىرى</item>
+    </plurals>
+    <plurals name="account_coins_num">
+        <item quantity="other">ئۇسلۇب پۇلى:%1s</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d تۈر تاللاندى</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$d ئۇندىدار پۇلى=%2$dIDR
+ ئۇسلۇب پۇلىنى چىقىرىۋالغىلى بولمايدۇ"</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">%1$d پارچە ئەسەر</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data> چىقىم قىلسىڭىز&lt;a href=\"%1$s\"> «پۇل تۆلەشتە بىلىشكە تېگىشلىك ئىشلار»غا قوشۇلغان بولىسىز &lt;/a>&lt;br>&lt;xliff:g id=time>%2$d&lt;/xliff:g> سائەت ئىچىدە تەڭ سوممىلىق ئۇسلۇب پۇلىنى قايتۇرۇپ بېرىدۇ&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">زاكاس تالونى تاماملىنىپ %d سائەت ئېشىپ كەتتى، بۇ تورخەت ئارقىلىق بىز بىلەن ئالاقىلىشىڭ</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">ئۇسلۇب پۇلى %d سائەت ئىچىدە ھېساباتقا كىرىدۇ</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d دانە باھا</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">%1$s دانە خەت نۇسخىسىنى چۈشۈرۈش تاماملاندى</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">%1$sدانە ئۇسلۇبنى چۈشۈرۈش تاماملاندى</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s دانە ئەسەر</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d P</item>
+    </plurals>
+</resources>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Pred 1 uro</item>
+        <item quantity="one">Pred 1 uro</item>
+        <item quantity="two">Pred 1 uro</item>
+        <item quantity="few">Pred 1 uro</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Pred 1 uro</item>
+        <item quantity="one">Pred 1 uro</item>
+        <item quantity="two">Pred 1 uro</item>
+        <item quantity="few">Pred 1 uro</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pred pol ure</item>
+        <item quantity="one">Pred pol ure</item>
+        <item quantity="two">Pred pol ure</item>
+        <item quantity="few">Pred pol ure</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Čez 1 uro</item>
+        <item quantity="one">Čez 1 uro</item>
+        <item quantity="two">Čez 1 uro</item>
+        <item quantity="few">Čez 1 uro</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Čez pol ure</item>
+        <item quantity="one">Čez pol ure</item>
+        <item quantity="two">Čez pol ure</item>
+        <item quantity="few">Čez pol ure</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Takoj</item>
+        <item quantity="one">Takoj</item>
+        <item quantity="two">Takoj</item>
+        <item quantity="few">Takoj</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">čez %d minut</item>
+        <item quantity="one">čez 1 minuto</item>
+        <item quantity="two">čez %d minuti</item>
+        <item quantity="few">čez %d minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Pravkar</item>
+        <item quantity="one">Pravkar</item>
+        <item quantity="two">Pravkar</item>
+        <item quantity="few">Pravkar</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Pred %d minut</item>
+        <item quantity="one">Pred 1 min</item>
+        <item quantity="two">Pred %d minutami</item>
+        <item quantity="few">Pred %d minut</item>
+    </plurals>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">Pokaži %d odgovorov</item>
+        <item quantity="one">Pokaži %d odgovor</item>
+        <item quantity="two">Pokaži %d odgovora</item>
+        <item quantity="few">Pokaži %d odgovorov</item>
+    </plurals>
+    <plurals name="feed_back_home">
+        <item quantity="other">Odhod na začetni zaslon čez %1$d sekund…</item>
+        <item quantity="one">Odhod na začetni zaslon čez %1$d sekundo…</item>
+        <item quantity="two">Odhod na začetni zaslon čez %1$d sekundi…</item>
+        <item quantity="few">Odhod na začetni zaslon čez %1$d sekund…</item>
+    </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d sledilci</item>
+        <item quantity="one">%d sledilec</item>
+        <item quantity="two">%d sledilca</item>
+        <item quantity="few">%d sledilci</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pred pol ure</item>
+        <item quantity="one">Pred pol ure</item>
+        <item quantity="two">Pred pol ure</item>
+        <item quantity="few">Pred pol ure</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Čez 1 uro</item>
+        <item quantity="one">Čez 1 uro</item>
+        <item quantity="two">Čez 1 uro</item>
+        <item quantity="few">Čez 1 uro</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Čez pol ure</item>
+        <item quantity="one">Čez pol ure</item>
+        <item quantity="two">Čez pol ure</item>
+        <item quantity="few">Čez pol ure</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Takoj</item>
+        <item quantity="one">Takoj</item>
+        <item quantity="two">Takoj</item>
+        <item quantity="few">Takoj</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">čez %d minut</item>
+        <item quantity="one">čez 1 minuto</item>
+        <item quantity="two">čez %d minuti</item>
+        <item quantity="few">čez %d minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Pravkar</item>
+        <item quantity="one">Pravkar</item>
+        <item quantity="two">Pravkar</item>
+        <item quantity="few">Pravkar</item>
+    </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d map</item>
+        <item quantity="one">%d mapa</item>
+        <item quantity="two">%d mapi</item>
+        <item quantity="few">%d mape</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_advance_times">
+        <item quantity="other">Podnapisi bodo prikazani %.1f sekund prej</item>
+        <item quantity="one">Podnapisi bodo prikazani %.1f sekundo prej</item>
+        <item quantity="two">Podnapisi bodo prikazani %.1f sekundi prej</item>
+        <item quantity="few">Podnapisi bodo prikazani %.1f sekund prej</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_delay_times">
+        <item quantity="other">Podnapisi bodo prikazani %.1f sekund kasneje</item>
+        <item quantity="one">Podnapisi bodo prikazani %.1f sekundo kasneje</item>
+        <item quantity="two">Podnapisi bodo prikazani %.1f sekundi kasneje</item>
+        <item quantity="few">Podnapisi bodo prikazani %.1f sekund kasneje</item>
+    </plurals>
+    <plurals name="lv_subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Velikost: %.2f KB</item>
+        <item quantity="one">Velikost: %.2f KB</item>
+        <item quantity="two">Velikost: %.2f KB</item>
+        <item quantity="few">Velikost: %.2f KB</item>
+    </plurals>
+    <plurals name="lv_video_count">
+        <item quantity="other">%d videoposnetkov</item>
+        <item quantity="one">%d videoposnetek</item>
+        <item quantity="two">%d videoposneteka</item>
+        <item quantity="few">%d videoposnetkov</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">še %s sekund</item>
+        <item quantity="one">še %s sekunda</item>
+        <item quantity="two">še %s sekundi</item>
+        <item quantity="few">še %s sekund</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d predmetov izbranih</item>
+        <item quantity="one">%d predmet izbran</item>
+        <item quantity="two">%d predmeta izbrana</item>
+        <item quantity="few">%d predmetov izbranih</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">Vaša vsebina vsebuje predmete (%1$s), ki ne upoštevajo standarde naše skupnosti. Vaš račun je bil začasno ustavljen na %2$d dni, do %3$s.</item>
+        <item quantity="one">Vaša vsebina vsebuje predmete (%1$s), ki ne upoštevajo standarde naše skupnosti. Vaš račun je bil začasno ustavljen na %2$d dan, do %3$s.</item>
+        <item quantity="two">Vaša vsebina vsebuje predmete (%1$s), ki ne upoštevajo standarde naše skupnosti. Vaš račun je bil začasno ustavljen na %2$d dneva, do %3$s.</item>
+        <item quantity="few">Vaša vsebina vsebuje predmete (%1$s), ki ne upoštevajo standarde naše skupnosti. Vaš račun je bil začasno ustavljen na %2$d dni, do %3$s.</item>
+    </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Funkcija bo izklopljena %s dni</item>
+        <item quantity="one">Funkcija bo izklopljena %s dan</item>
+        <item quantity="two">Funkcija bo izklopljena %s dneva</item>
+        <item quantity="few">Funkcija bo izklopljena %s dni</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Pred %d minut</item>
+        <item quantity="one">pred 1 minuto</item>
+        <item quantity="two">Pred %d minutami</item>
+        <item quantity="few">Pred %d minut</item>
+    </plurals>
+    <plurals name="ovp_detail_v_video_count">
+        <item quantity="other">%d videoposnetkov</item>
+        <item quantity="one">%d videoposnetek</item>
+        <item quantity="two">%d videoposnetki</item>
+        <item quantity="few">%d videoposnetka</item>
+    </plurals>
+    <plurals name="ovp_home_item_unit">
+        <item quantity="other">%d videoposnetki</item>
+        <item quantity="one">%d videoposnetek</item>
+        <item quantity="two">%d videoposnetka</item>
+        <item quantity="few">%d videoposnetkov</item>
+    </plurals>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">Želite izbirsati %s predmetov?</item>
+        <item quantity="one">Želite izbirsati %s predmet?</item>
+        <item quantity="two">Želite izbirsati %s predmeta?</item>
+        <item quantity="few">Želite izbirsati %s predmeta?</item>
+    </plurals>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">Izbrano je %s predmetov</item>
+        <item quantity="one">Izbran je %s predmet</item>
+        <item quantity="two">Izbrana sta %s predmeta</item>
+        <item quantity="few">Izbrani so %s predmeti</item>
+    </plurals>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Velikost datoteke: %.2f KB</item>
+        <item quantity="one">Velikost datoteke: %.2f KB</item>
+        <item quantity="two">Velikost datoteke: %.2f KB</item>
+        <item quantity="few">Velikost datoteke: %.2f KB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s rezultatov za \"%1$s\"</item>
+        <item quantity="one">%2$s rezultat za \"%1$s\"</item>
+        <item quantity="two">%2$s rezultata za \"%1$s\"</item>
+        <item quantity="few">%2$s rezultatov za \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d slik</item>
+        <item quantity="one">%d slika</item>
+        <item quantity="two">%d sliki</item>
+        <item quantity="few">%d slike</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d videoposnetkov</item>
+        <item quantity="one">%d videoposnetek</item>
+        <item quantity="two">%d videoposnetki</item>
+        <item quantity="few">%d videoposnetka</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Tapnite dvakrat, da bi previli %d sekund nazaj</item>
+        <item quantity="one">Tapnite dvakrat, da bi previli %d sekundo nazaj</item>
+        <item quantity="two">Tapnite dvakrat, da bi previli %d sekundi nazaj</item>
+        <item quantity="few">Tapnite dvakrat, da bi previli %d sekund nazaj</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Tapnite dvakrat, da bi previli %d sekund naprej</item>
+        <item quantity="one">Tapnite dvakrat, da bi previli %d sekundo naprej</item>
+        <item quantity="two">Tapnite dvakrat, da bi previli %d sekundi naprej</item>
+        <item quantity="few">Tapnite dvakrat, da bi previli %d sekund naprej</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s sek</item>
+        <item quantity="one">%1$s sek</item>
+        <item quantity="two">%1$s sek</item>
+        <item quantity="few">%1$s sek</item>
+    </plurals>
+    <plurals name="subscriber">
+        <item quantity="other">%s naročnikov</item>
+        <item quantity="one">%s naročnik</item>
+        <item quantity="two">%s naročniki</item>
+        <item quantity="few">%s naročnika</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Podnapisi so premaknjeni za %.1f sekund naprej</item>
+        <item quantity="one">Podnapisi so premaknjeni za %.1f sekundo naprej</item>
+        <item quantity="two">Podnapisi so premaknjeni za %.1f sekundi naprej</item>
+        <item quantity="few">Podnapisi so premaknjeni za %.1f sekund naprej</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Podnapisi so odloženi za %.1f sekunde</item>
+        <item quantity="one">Podnapisi so odloženi za %.1f sekundo</item>
+        <item quantity="two">Podnapisi so odloženi za %.1f sekundi</item>
+        <item quantity="few">Podnapisi so odloženi za %.1f sekunde</item>
+    </plurals>
+</resources>

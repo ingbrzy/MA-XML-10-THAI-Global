@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Duela ordubete</item>
+        <item quantity="one">Duela ordubete</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Duela ordubete</item>
+        <item quantity="one">Duela ordubete</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Duela ordu erdi</item>
+        <item quantity="one">Duela ordu erdi</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Ordubete barru</item>
+        <item quantity="one">Ordubete barru</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Ordu erdi barru</item>
+        <item quantity="one">Ordu erdi barru</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Berehala</item>
+        <item quantity="one">Berehala</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d min barru</item>
+        <item quantity="one">Min 1 barru</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Oraintxe bertan</item>
+        <item quantity="one">Oraintxe bertan</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Duela %d min</item>
+        <item quantity="one">Duela min 1</item>
+    </plurals>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">Ezin dira %s elementu sinkronizatu</item>
+        <item quantity="one">Ezin da %s elementu sinkronizatu</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d Blokeo lista sarrera</item>
+        <item quantity="one">Blokeo lista sarrera %d</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d arakatzaile elementu</item>
+        <item quantity="one">arakatzaile elementu %d</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d egutegi elementu</item>
+        <item quantity="one">egutegi elementu %d</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d dei historia erregistro</item>
+        <item quantity="one">dei historia erregistro %d</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d kontaktu</item>
+        <item quantity="one">kontaktu %d</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d argazki</item>
+        <item quantity="one">argazki %d</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d mezu</item>
+        <item quantity="one">mezu %d</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d abestiak</item>
+        <item quantity="one">%d abesti</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d ohar</item>
+        <item quantity="one">ohar %d</item>
+    </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">%d ohar</item>
+        <item quantity="one">ohar %d</item>
+    </plurals>
+    <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">Aplikazio ganberarako %d sarrera</item>
+        <item quantity="one">Aplikazio ganberarako sarrera %d</item>
+    </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d ohiko esaldi</item>
+        <item quantity="one">Ohiko esaldi %d</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d erregistro</item>
+        <item quantity="one">erregistro %d</item>
+    </plurals>
+    <plurals name="dirty_secretphoto_count">
+        <item quantity="other">%d argazki ezkutatuak ez daude sinkronizaturik. Saioa amaitu elementu guztiak sinkronizatuta egon ondoren hauek gordetzeko; bestela, elementuak ezabatuko dira.</item>
+        <item quantity="one">%d argazki ezkutatuak ez daude sinkronizaturik. Saioa amaitu elementu guztiak sinkronizatuta egon ondoren hauek gordetzeko; bestela, elementuak ezabatuko dira.</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d Wi-Fi sare</item>
+        <item quantity="one">Wi-Fi sare %d</item>
+    </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
+    </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Saiatu berriro %d segundotan</item>
+        <item quantity="one">Saiatu berriro %d segundotan</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Duela ordu erdi</item>
+        <item quantity="one">Duela ordu erdi</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Ordubete barru</item>
+        <item quantity="one">Ordubete barru</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Ordu erdi barru</item>
+        <item quantity="one">Ordu erdi barru</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Berehala</item>
+        <item quantity="one">Berehala</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d minutu barru</item>
+        <item quantity="one">Minutu 1 barru</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Sinkronizatzeko zain dauden elementuak: %d</item>
+        <item quantity="one">Sinkronizatzeko zain dauden elementuak: %d</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">Duela %s ordu</item>
+        <item quantity="one">Duela ordu %s</item>
+    </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">Duela %s minutu</item>
+        <item quantity="one">Duela minutu %s</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Oraintxe bertan</item>
+        <item quantity="one">Oraintxe bertan</item>
+    </plurals>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Sinkronizazioa berriz hasten %d minutu barru</item>
+        <item quantity="one">Sinkronizazioa berriz hasten minutu %d barru</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementu aukeratuta</item>
+        <item quantity="one">%d elementu aukeratuta</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Duela %d minutu</item>
+        <item quantity="one">Duela minutu 1</item>
+    </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s zerbitzu Xiaomi Cloud-ekin sinkronizatuko da</item>
+        <item quantity="one">Zerbitzu %s Xiaomi Cloud-ekin sinkronizatuko da</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">Ezin da %d elementu baino gehiago aukeratu</item>
+        <item quantity="one">Ezin da %d elementu baino gehiago aukeratu</item>
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Gonbidapena %d pertsonek onartu dute</item>
+        <item quantity="one">Gonbidapena %d pertsonak onartu du</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s egun</item>
+        <item quantity="one">%1$s egun</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s ordu</item>
+        <item quantity="one">%1$s ordu</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+</resources>

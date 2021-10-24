@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 గంటల క్రితం</item>
+        <item quantity="one">1 గంట క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 గంటల క్రితం</item>
+        <item quantity="one">1 గంటల క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">అర గంట క్రితం</item>
+        <item quantity="one">అర గంట క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 గంటలో</item>
+        <item quantity="one">1 గంటలో</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">అర గంటలో</item>
+        <item quantity="one">అర గంటలో</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">వెంటనే</item>
+        <item quantity="one">వెంటనే</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d నిమిషాల్లో</item>
+        <item quantity="one">1 నిమిషంలో</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ఇప్పుడే</item>
+        <item quantity="one">ఇప్పుడే</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d నిమి క్రితం</item>
+        <item quantity="one">1 నిమి క్రితం</item>
+    </plurals>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">%1$d సెకన్ల పాటు కేస్‌పై బటన్‌ని నొక్కి పట్టుకోండి</item>
+        <item quantity="one">%1$d సెకను పాటు కేస్‌పై బటన్‌ని నొక్కి పట్టుకోండి</item>
+    </plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">%1$d సెకన్ల పాటు ఇయర్‌ఫోన్‌లపై ఉన్న ఏదైనా టచ్ సెన్సిటివ్ ప్రదేశాన్ని నొక్కి పట్టుకోండి</item>
+        <item quantity="one">%1$d సెకను పాటు ఇయర్‌ఫోన్‌లపై ఉన్న ఏదైనా టచ్ సెన్సిటివ్ ప్రదేశాన్ని నొక్కి పట్టుకోండి</item>
+    </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">రీసెట్ చేసేందుకు %1$d సెకన్లు నొక్కి పట్టుకోండి</item>
+        <item quantity="one">రీసెట్ చేసేందుకు %1$d సెకను నొక్కి పట్టుకోండి</item>
+    </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">పరికరం ఆఫ్‌లో ఉన్నప్పుడు బటన్‌ని %1$s సెకన్లపాటు నొక్కి పట్టుకోండి</item>
+        <item quantity="one">పరికరం ఆఫ్‌లో ఉన్నప్పుడు బటన్‌ని %1$s సెకనుపాటు నొక్కి పట్టుకోండి</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">అర గంట క్రితం</item>
+        <item quantity="one">అర గంట క్రితం</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 గంటలో</item>
+        <item quantity="one">1 గంటలో</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">అర గంటలో</item>
+        <item quantity="one">అర గంటలో</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">వెంటనే</item>
+        <item quantity="one">వెంటనే</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d నిమిషాల్లో</item>
+        <item quantity="one">1 నిమిషంలో</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ఇప్పుడే</item>
+        <item quantity="one">ఇప్పుడే</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d అంశాలు ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">%d అంశం ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d నిమిషాల క్రితం</item>
+        <item quantity="one">1 నిమిషం క్రితం</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d పరికరాలు కనెక్ట్ అయ్యాయి</item>
+        <item quantity="one">%1$d పరికరం కనెక్ట్ అయింది</item>
+    </plurals>
+</resources>

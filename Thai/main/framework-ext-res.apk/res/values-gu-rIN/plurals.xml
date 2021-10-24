@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">એવું લાગે છે કે બેટરી ડિસ્કનેક્ટ થઈ ગઈ છે. તમારું ડિવાઇસ %d સેકંડ્સ ની અંદર બંધ કરવામાં આવશે. આ સમસ્યાને હલ કરવા માટે કસ્ટમર સપોર્ટનો સંપર્ક કરો.</item>
+        <item quantity="one">એવું લાગે છે કે બેટરી ડિસ્કનેક્ટ થઈ ગઈ છે. તમારું ડિવાઇસ %d સેકંડની અંદર બંધ કરવામાં આવશે. આ સમસ્યાને હલ કરવા માટે કસ્ટમર સપોર્ટનો સંપર્ક કરો.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ફાઇલો</item>
+        <item quantity="one">%1$d ફાઇલ</item>
+    </plurals>
+</resources>

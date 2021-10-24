@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">ໂທ Wi-Fi</string>
+    <string name="vice_slot_volte_data_switch_prompt">ອຸປະກອນຂອງທ່ານຈະເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍຂໍ້ມູນມືຖືໂດຍໃຊ້ SIM ສຳຮອງໃນລະຫວ່າງການໂທ 4G. ສິ່ງນີ້ອາດຈະສ້າງຄ່າທຳນຽມຂໍ້ມູນມືຖືເພີ່ມເຕີມ. ຕິດຕໍ່ຜູ້ໃຫ້ບໍລິການທ້ອງຖິ່ນສຳລັບລາຍລະອຽດກ່ຽວກັບແພັກເກດຂໍ້ມູນຂອງທ່ານ.</string>
+    <string name="vice_slot_volte_data_switch_summary">ໃນລະຫວ່າງການໂທ 4G, ອຸປະກອນຈະເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍຂໍ້ມູນມືຖືໂດຍໃຊ້ SIM ສຳຮອງ</string>
+    <string name="vice_slot_volte_data_switch_title">ໃຊ້ຂໍ້ມູນມືຖືໃນລະຫວ່າງການໂທ 4G ໃນ SIM ສຳຮອງ</string>
+    <string name="volte_switch_summary">ໃຊ້ບໍລິການ 4G ເພື່ອປັບປຸງສຽງແລະບໍລິການການສື່ສານ</string>
+    <string name="volte_switch_title">ການໂທ 4G</string>
+    <string name="wificall_switch_title">ໂທ Wi-Fi</string>
+</resources>

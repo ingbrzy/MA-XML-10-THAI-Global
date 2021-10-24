@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">ವೈ-ಫೈ ಕರೆಗಳು</string>
+    <string name="vice_slot_volte_data_switch_prompt">4G ಕರೆಗಳು ಚಾಲ್ತಿಯಲ್ಲಿರುವಾಗ ದ್ವಿತೀಯ ಸಿಮ್ ಬಳಸಿಕೊಂಡು ಡಿವೈಸ್‌ ಮೊಬೈಲ್ ಡೇಟಾ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಗೊಳ್ಳುತ್ತದೆ. ಇದು ಹೆಚ್ಚುವರಿ ಡೇಟಾ ಶುಲ್ಕಗಳಿಗೆ ಕಾರಣವಾಗಬಹುದು. ನಿಮ್ಮ ಡೇಟಾ ಪ್ಲ್ಯಾನ್‌ ಕುರಿತು ವಿವರಗಳಿಗಾಗಿ ನಿಮ್ಮ ಸ್ಥಳೀಯ ಕ್ಯಾರಿಯರ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಿ.</string>
+    <string name="vice_slot_volte_data_switch_summary">4G ಕರೆಗಳ ಸಂದರ್ಭದಲ್ಲಿ, ದ್ವಿತೀಯ ಸಿಮ್ ಬಳಸಿಕೊಂಡು ಡಿವೈಸ್‌ ಮೊಬೈಲ್ ಡೇಟಾ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಗೊಳ್ಳುತ್ತದೆ</string>
+    <string name="vice_slot_volte_data_switch_title">ಎರಡನೇ ಸಿಮ್‌ನಲ್ಲಿ 4G ಕರೆಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸಿ</string>
+    <string name="volte_switch_summary">ಧ್ವನಿ ಹಾಗೂ ಸಂವಹನ ಸೇವೆ ಸುಧಾರಿಸಲು 4G ಸೇವೆಗಳನ್ನು ಬಳಸಿ</string>
+    <string name="volte_switch_title">4G ಕರೆಗಳು</string>
+    <string name="wificall_switch_title">ವೈ-ಫೈ ಕರೆ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+</resources>

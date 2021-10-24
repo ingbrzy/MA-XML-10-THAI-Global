@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">দেখে মনে হচ্ছে ব্যাটারি কানেক্ট করা নেই। আপনার মোবাইল %d সেকেন্ডে বন্ধ হয়ে যাবে। এই সমস্যার সমাধান করতে গ্রাহক সহায়তায় যোগাযোগ করুন।</item>
+        <item quantity="one">দেখে মনে হচ্ছে ব্যাটারি কানেক্ট করা নেই। আপনার মোবাইল %d সেকেন্ডে বন্ধ হয়ে যাবে। এই সমস্যার সমাধান করতে গ্রাহক সহায়তায় যোগাযোগ করুন।</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$dটি ফাইল</item>
+        <item quantity="one">%1$d টি ফাইল</item>
+    </plurals>
+</resources>

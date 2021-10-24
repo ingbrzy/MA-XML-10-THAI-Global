@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">బ్యాటరీ డిస్‌కనెక్ట్ అయినట్లు తెలుస్తోంది. మీ పరికరం %d సెకన్లలో పవర్ ఆఫ్ చేయబడుతుంది. ఈ సమస్యని పరిష్కరించేందుకు వినియోగదారు మద్దతు సేవని సంప్రదించండి.</item>
+        <item quantity="one">బ్యాటరీ డిస్‌కనెక్ట్ అయినట్లు తెలుస్తోంది. మీ పరికరం %d సెకనులో పవర్ ఆఫ్ చేయబడుతుంది. ఈ సమస్యని పరిష్కరించేందుకు వినియోగదారు మద్దతు సేవని సంప్రదించండి.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ఫైళ్లు</item>
+        <item quantity="one">%1$d ఫైల్</item>
+    </plurals>
+</resources>

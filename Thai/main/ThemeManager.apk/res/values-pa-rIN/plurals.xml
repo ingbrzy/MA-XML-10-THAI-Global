@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ਘੰਟਾ ਪਹਿਲਾਂ</item>
+        <item quantity="one">1 ਘੰਟਾ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ਘੰਟਾ ਪਹਿਲਾਂ</item>
+        <item quantity="one">1 ਘੰਟੇ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
+        <item quantity="one">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 ਘੰਟੇ ਵਿੱਚ</item>
+        <item quantity="one">1 ਘੰਟੇ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ਅੱਧੇ ਘੰਟੇ ਵਿੱਚ</item>
+        <item quantity="one">ਅੱਧੇ ਘੰਟੇ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ਤੁਰੰਤ</item>
+        <item quantity="one">ਤੁਰੰਤ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d ਮਿੰਟਾਂ ਵਿੱਚ</item>
+        <item quantity="one">1 ਮਿੰਟ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ਹੁਣੇ ਹੀ</item>
+        <item quantity="one">ਹੁਣੇ ਹੀ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
+        <item quantity="one">1 ਮਿੰਟ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="account_coins_num">
+        <item quantity="other">%1s ਸਿੱਕੇ</item>
+        <item quantity="one">%1s ਸਿੱਕਾ</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
+        <item quantity="one">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 ਘੰਟੇ ਵਿੱਚ</item>
+        <item quantity="one">1 ਘੰਟੇ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ਅੱਧੇ ਘੰਟੇ ਵਿੱਚ</item>
+        <item quantity="one">ਅੱਧੇ ਘੰਟੇ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ਤੁਰੰਤ</item>
+        <item quantity="one">ਤੁਰੰਤ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d ਮਿੰਟਾਂ ਵਿੱਚ</item>
+        <item quantity="one">1 ਮਿੰਟ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ਬਸ ਹੁਣੇ ਹੀ</item>
+        <item quantity="one">ਬਸ ਹੁਣੇ ਹੀ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ਆਈਟਮਾਂ ਚੁਣੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਆਈਟਮ ਚੁਣੀ ਗਈ</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
+        <item quantity="one">1 ਮਿੰਟ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$d ਸਿੱਕੇ = %2$d IDR
+ਸਿੱਕੇ ਵਾਪਸ ਨਹੀਂ ਲਏ ਜਾਣਗੇ"</item>
+        <item quantity="one">"%1$d ਸਿੱਕਾ = %2$d IDR
+ਸਿੱਕੇ ਵਾਪਸ ਨਹੀਂ ਲਏ ਜਾਣਗੇ"</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">%d ਕੰਮ</item>
+        <item quantity="one">%d ਕੰਮ</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data>ਭੁਗਤਾਨ ਪੂਰਾ ਕਰਕੇ, ਤੁਸੀਂ &lt;a href=\"%1$s\">ਇਨ-ਐਪ ਖ਼ਰੀਦਦਾਰੀ ਨਾਲ ਜੁੜੀ ਸੂਚਨਾ&lt;/a> ਲਈ ਆਪਣੀ ਸਹਿਮਤੀ ਦੇ ਰਹੇ ਹੋ।&lt;br>ਖ਼ਰੀਦਦਾਰੀ ਕਰਨ ਤੋਂ ਬਾਅਦ &lt;xliff:g id=time>%2$d&lt;/xliff:g> ਘੰਟਿਆਂ ਤੱਕ ਰੀਫ਼ੰਡ ਉਪਲਬਧ ਰਹਿੰਦਾ ਹੈ।&lt;/Data></item>
+        <item quantity="one">&lt;Data>ਭੁਗਤਾਨ ਪੂਰਾ ਕਰਕੇ,ਤੁਸੀਂ &lt;a href=\"%1$s\">ਇਨ-ਐਪ ਖ਼ਰੀਦਦਾਰੀ ਨਾਲ ਜੁੜੀ ਸੂਚਨਾ&lt;/a> ਲਈ ਆਪਣੀ ਸਹਿਮਤੀ ਦੇ ਰਹੇ ਹੋ।&lt;br>ਖ਼ਰੀਦਦਾਰੀ ਕਰਨ ਤੋਂ ਬਾਅਦ &lt;xliff:g id=time>%2$d&lt;/xliff:g> ਘੰਟੇ ਤੱਕ ਰੀਫ਼ੰਡ ਉਪਲਬਧ ਰਹਿੰਦਾ ਹੈ।&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">ਆਰਡਰ %d ਘੰਟਿਆਂ ਪਹਿਲਾਂ ਪੂਰਾ ਕੀਤਾ ਜਾ ਚੁੱਕਿਆ ਹੈ। ਸਾਨੂੰ ਇੱਕ ਈਮੇਲ ਭੇਜੋ।</item>
+        <item quantity="one">ਆਰਡਰ %d ਘੰਟੇ ਪਹਿਲਾਂ ਪੂਰਾ ਕੀਤਾ ਜਾ ਚੁੱਕਿਆ ਹੈ। ਸਾਨੂੰ ਇੱਕ ਈਮੇਲ ਭੇਜੋ।</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">ਤੁਹਾਨੂੰ %d ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਸਿੱਕੇ ਪ੍ਰਾਪਤ ਹੋ ਜਾਣਗੇ।</item>
+        <item quantity="one">ਤੁਹਾਨੂੰ %d ਘੰਟੇ ਦੇ ਅੰਦਰ ਸਿੱਕਾ ਪ੍ਰਾਪਤ ਹੋ ਜਾਵੇਗਾ।</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d ਟਿੱਪਣੀਆਂ</item>
+        <item quantity="one">%d ਟਿੱਪਣੀ</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">%1$s ਫ਼ੋਂਟ ਸਫ਼ਲਤਾਪੂਰਵਕ ਡਾਊਨਲੋਡ ਕੀਤੇ ਗਏ</item>
+        <item quantity="one">%1$s ਫ਼ੋਂਟ ਸਫ਼ਲਤਾਪੂਰਵਕ ਡਾਊਨਲੋਡ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">%1$s ਥੀਮ ਸਫ਼ਲਤਾਪੂਰਵਕ ਡਾਊਨਲੋਡ ਕੀਤੇ ਗਏ</item>
+        <item quantity="one">%1$s ਥੀਮ ਸਫ਼ਲਤਾਪੂਰਵਕ ਡਾਊਨਲੋਡ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s ਕੰਮ</item>
+        <item quantity="one">%1$s ਕੰਮ</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d ਚਿੱਤਰ</item>
+        <item quantity="one">%1$s | %2$d ਚਿੱਤਰ</item>
+    </plurals>
+</resources>

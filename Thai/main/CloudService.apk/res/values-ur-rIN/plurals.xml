@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 گھنٹہ قبل</item>
+        <item quantity="one">1 گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 گھنٹہ قبل</item>
+        <item quantity="one">1 گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">آدھا گھنٹہ قبل</item>
+        <item quantity="one">آدھا گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 گھنٹہ میں</item>
+        <item quantity="one">1 گھنٹہ میں</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">آدھا گھنٹہ میں</item>
+        <item quantity="one">آدھا گھنٹہ میں</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="one">فوراً</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d منٹ میں</item>
+        <item quantity="one">1 منٹ میں</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ابھی ابھی</item>
+        <item quantity="one">ابھی ابھی</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d منٹ قبل</item>
+        <item quantity="one">1 منٹ قبل</item>
+    </plurals>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">%s آئٹمز مطابقت پذیر نہیں کیے جا سکتے</item>
+        <item quantity="one">%s آئٹم مطابقت پذیر نہیں کیا جا سکتا</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d بلاک فہرست اندراجات</item>
+        <item quantity="one">%d بلاک فہرست اندراج</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d براؤزر آئٹمز</item>
+        <item quantity="one">%d براؤزر آئٹم</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d کیلنڈر آئٹمز</item>
+        <item quantity="one">%d کیلنڈر آئٹم</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d کال کی سرگزشت کے ریکارڈز</item>
+        <item quantity="one">%d کال کی سرگزشت کا ریکارڈ</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d رابطے</item>
+        <item quantity="one">%d رابطہ</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d تصاویر</item>
+        <item quantity="one">%d تصویر</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d پیغامات</item>
+        <item quantity="one">%d پیغام</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d نغمے</item>
+        <item quantity="one">%d نغمہ</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d نوٹس</item>
+        <item quantity="one">%d نوٹ</item>
+    </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">%d نوٹس</item>
+        <item quantity="one">%d نوٹ</item>
+    </plurals>
+    <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d ایپ والٹ اندراجات</item>
+        <item quantity="one">%d ایپ والٹ اندراج</item>
+    </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d مکرر فقرے</item>
+        <item quantity="one">%d مکرر فقرہ</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d ریکارڈز</item>
+        <item quantity="one">%d ریکارڈ</item>
+    </plurals>
+    <plurals name="dirty_secretphoto_count">
+        <item quantity="other">%d پوشیدہ تصاویر مطابقت پذیر نہیں ہے۔ تمام آئٹم مطابقت پذیر ہو جانے کے بعد انھیں رکھنے کے لیے سائن آؤٹ کریں؛ ورنہ, آئٹم حذف ہو جائیں گے۔</item>
+        <item quantity="one">%d پوشیدہ تصویر مطابقت پذیر نہیں ہے۔ تمام آئٹم مطابقت پذیر ہو جانے کے بعد انھیں رکھنے کے لیے سائن آؤٹ کریں؛ ورنہ, آئٹم حذف ہو جائیں گے۔</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d وائی-فائی نیٹ ورکس</item>
+        <item quantity="one">%d وائی-فائی نیٹ ورک</item>
+    </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d WLAN نیٹ ورکس</item>
+        <item quantity="one">%d WLAN نیٹ ورک</item>
+    </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">%d سیکنڈز میں دوبارہ کوشش کریں</item>
+        <item quantity="one">%d سیکنڈ میں دوبارہ کوشش کریں</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">آدھا گھنٹہ قبل</item>
+        <item quantity="one">آدھا گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 گھنٹہ میں</item>
+        <item quantity="one">1 گھنٹہ میں</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">آدھا گھنٹہ میں</item>
+        <item quantity="one">آدھا گھنٹہ میں</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">فوری طور پر</item>
+        <item quantity="one">فوراً</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d منٹ میں</item>
+        <item quantity="one">1 منٹ میں</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">سینک ہونے کے انتظار میں آئٹم: %d</item>
+        <item quantity="one">سینک ہونے کے انتظار میں آئٹم: %d</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">%s گھنٹے پہلے</item>
+        <item quantity="one">%s گھنٹہ پہلے</item>
+    </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">%s منٹ پہلے</item>
+        <item quantity="one">%s منٹ پہلے</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ابھی ابھی</item>
+        <item quantity="one">ابھی ابھی</item>
+    </plurals>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">%d منٹ میں مطابقت پذیری دوبارہ شروع کر رہا ہے</item>
+        <item quantity="one">%d منٹ میں مطابقت پذیری دوبارہ شروع کر رہا ہے</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d آئٹمز منتخب کیے گئے</item>
+        <item quantity="one">%d آئٹم منتخب ہوا</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d منٹ قبل</item>
+        <item quantity="one">1 منٹ پہلے</item>
+    </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s سروسز Xiaomi Cloud کے ساتھ مطابقت پذیر ہوں گی</item>
+        <item quantity="one">%s سروس Xiaomi Cloud کے ساتھ مطابقت پذیر ہوگی</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">%d آئٹم سے زیادہ منتخب نہیں کر سکتے</item>
+        <item quantity="one">%d آئٹم سے زیادہ منتخب نہیں کر سکتے</item>
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">%d لوگوں نے دعوت نامہ قبول کیا</item>
+        <item quantity="one">%d شخص نے دعوت نامہ قبول کیا</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s دن</item>
+        <item quantity="one">%1$s دن</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s گھنٹے</item>
+        <item quantity="one">%1$s گھنٹہ</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s منٹ</item>
+        <item quantity="one">%1$s منٹ</item>
+    </plurals>
+</resources>

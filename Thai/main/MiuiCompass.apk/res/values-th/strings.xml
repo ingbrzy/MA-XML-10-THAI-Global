@@ -30,6 +30,7 @@
     <string name="actionbar_button_up_description">ย้อนกลับ</string>
     <string name="afternoon">บ่าย</string>
     <string name="allow">อนุญาต</string>
+    <string name="allowed">ยินยอมแล้ว</string>
     <string name="altitude">%.1f</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">ความสูง</string>
@@ -142,6 +143,7 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="get_location">เข้าถึงตำแหน่ง</string>
     <string name="gradienter_title">ระดับ</string>
     <string name="guide_toast">กรุณาขยับอุปกรณ์ตามรูปเพื่อปรับเทียบ</string>
     <string name="latitude">ละติจูด</string>
@@ -157,6 +159,7 @@
     <string name="location_west">ลองติจูดตะวันตก</string>
     <string name="longitude">ลองติจูด</string>
     <string name="midnight">กลางคืน</string>
+    <string name="miuix_access_state_desc">ที่เลือกไว้</string>
     <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
@@ -222,17 +225,25 @@
     <string name="month_september_shortest">กันยา</string>
     <string name="more">เพิ่มเติม</string>
     <string name="morning">เช้า</string>
+    <string name="new_cta_v2_app_purpose">แสดง ทิศทาง พิกัด ความดันบรรยากาศ และระดับความสูงปัจจุบัน</string>
+    <string name="new_permission_camera_desc">สำหรับการปรับเทียบ</string>
+    <string name="new_permission_location_desc">สำหรับการแสดงพิกัด</string>
     <string name="night">เย็น</string>
     <string name="noon">เที่ยงวัน</string>
+    <string name="not_allowed">ไม่ได้รับการยินยอม</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
+    <string name="open_camera">ใช้กล้อง</string>
     <string name="open_perm_msg">เข็มทิศต้องการเข้าถึงข้อมูลตำแหน่งและกล้องถ่ายรูป นี่เป็นสิ่งจำเป็นในการกำหนดพิกัดและแสดงตัวอย่างสด อนุญาตหรือไม่?</string>
     <string name="open_perm_msg_no_camera">เข็มทิศจำเป็นต้องเข้าถึงข้อมูลตำแหน่งเพื่อให้สามารถระบุพิกัดได้ อนุญาต?</string>
     <string name="open_perm_title">สิทธิ์ที่จำเป็น</string>
     <string name="permission_camera_desc">สำหรับการแสดงมุมแอซิมัทในการแสดงตัวอย่างสด</string>
+    <string name="permission_description">รายละเอียดการอนุญาต</string>
     <string name="permission_location_desc">สำหรับการแสดงพิกัด</string>
     <string name="pm">PM</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="preference_other">อื่นๆ</string>
+    <string name="preference_privacy_policy">ดูนโยบายความเป็นส่วนตัว</string>
+    <string name="preference_privacy_setting">ความเป็นส่วนตัว</string>
     <string name="preference_privacy_title">นโยบายความเป็นส่วนตัว</string>
     <string name="pressure">%.1f</string>
     <string name="pressure_title">ความกดอากาศ</string>

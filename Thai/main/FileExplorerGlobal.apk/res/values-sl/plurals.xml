@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_usage_day">
+        <item quantity="other">Ni bilo v uporabi %d dni</item>
+        <item quantity="one">Ni bilo v uporabi %d dan</item>
+        <item quantity="few">Ni bilo v uporabi %d dni</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Ni bilo v uporabi %d mesecev</item>
+        <item quantity="one">Ni bilo v uporabi %d mesec</item>
+        <item quantity="few">Ni bilo v uporabi %d mesece</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Ni bilo v uporabi %d let</item>
+        <item quantity="one">Ni bilo v uporabi %d leto</item>
+        <item quantity="few">Ni bilo v uporabi %d leta</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">pred %1$d dnevi</item>
+        <item quantity="one">pred %1$d dnem</item>
+        <item quantity="few">pred %1$d dnevi</item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">Najdeno %d aplikacij, lahko izbrišete nepotrebne.</item>
+        <item quantity="one">Najdena %d aplikacija, lahko jo izbrišete.</item>
+        <item quantity="few">Najdene %d aplikacije, lahko izbrišete nepotrebne.</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Lahko izbrišete nepomembne podatke za %d aplikacij</item>
+        <item quantity="one">Lahko izbrišete nepomembne podatke za %d aplikacijo</item>
+        <item quantity="few">Lahko izbrišete nepomembne podatke za %d aplikacij</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Najdeno %d velikih datotek, lahko izbrišete nepomembne</item>
+        <item quantity="one">Najdena %d velika datoteka, lahko jo izbrišete</item>
+        <item quantity="few">Najdene %d velike datoteke, lahko izbrišete nepomembne</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">Najdeno %d videoposnetkov, odvečne lahko izbrišete</item>
+        <item quantity="one">Najden %d videoposnetek, tega lahko izbrišete.</item>
+        <item quantity="few">Najdeni %d videoposnetki, odvečne lahko izbrišete</item>
+    </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">Izbrišem datoteke: %1$d?</item>
+        <item quantity="one">Izbrišem %1$d datoteko?</item>
+        <item quantity="few">Izbrišem datoteke: %1$d?</item>
+    </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">Izbrišem mape: %1$d?</item>
+        <item quantity="one">Izbrišem mapo: %1$d?</item>
+        <item quantity="few">Izbrišem mape: %1$d?</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d stvari</item>
+        <item quantity="one">%d stvar</item>
+        <item quantity="few">%d stvari</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$d stvari</item>
+        <item quantity="one">%1$d stvar</item>
+        <item quantity="few">%1$d stvari</item>
+    </plurals>
+    <plurals name="files">
+        <item quantity="other">%1$d datotek</item>
+        <item quantity="one">%1$d datoteka</item>
+        <item quantity="few">%1$d datoteke</item>
+    </plurals>
+    <plurals name="folders">
+        <item quantity="other">%1$d map</item>
+        <item quantity="one">%1$d mapa</item>
+        <item quantity="few">%1$d mape</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Najdeno %1$d novih datotek</item>
+        <item quantity="one">Najdena %1$d nova datoteka</item>
+        <item quantity="few">Najdene %1$d nove datoteke</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">pred %1$d urami</item>
+        <item quantity="one">pred %1$d uro</item>
+        <item quantity="few">pred %1$d urami</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">pred %1$d minutami</item>
+        <item quantity="one">pred %1$d minuto</item>
+        <item quantity="few">pred %1$d minutami</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">"Izbran %1$d stvari"</item>
+        <item quantity="one">Izbran %1$d stvar</item>
+        <item quantity="few">"Izbrani %1$d stvari"</item>
+    </plurals>
+    <plurals name="whatsapp_delete_files">
+        <item quantity="other">Izbrišem %1$d datotek?</item>
+        <item quantity="one">Izbrišem %1$d datoteko?</item>
+        <item quantity="few">Izbrišem %1$d datoteke?</item>
+    </plurals>
+</resources>

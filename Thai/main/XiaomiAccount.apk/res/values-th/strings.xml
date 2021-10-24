@@ -31,6 +31,7 @@
     <string name="access_token_expired_warning">บัญชี Weibo หมดอายุแล้ว</string>
     <string name="access_token_invalid_warning">บัญชี Weibo ไม่ถูกต้อง</string>
     <string name="account">บัญชี</string>
+    <string name="account_and_password">รหัสผ่าน</string>
     <string name="account_bind_devices">อุปกรณ์</string>
     <string name="account_bind_secure_email_title">เพิ่มอีเมล</string>
     <string name="account_bind_secure_phone_title">เพิ่มหมายเลขโทรศัพท์</string>
@@ -75,7 +76,11 @@
     <string name="account_user_name_dialog_title">ป้อนชื่อผู้ใช้</string>
     <string name="account_user_other_info">ข้อมูลเพิ่มเติม</string>
     <string name="account_user_phone">โทรศัพท์ที่ใช้กู้คืนบัญชี</string>
+    <string name="account_user_phone_show">โทรศัพท์: %s</string>
     <string name="account_user_region">ภูมิภาค</string>
+    <string name="account_verify_guide_bind_mail_desc">เพิ่มอีเมลที่ใช้กู้คืนบัญชี</string>
+    <string name="account_verify_guide_bind_phone_desc">เพิ่มโทรศัพท์ที่ใช้กู้คืนบัญชี</string>
+    <string name="account_verify_guide_set_password_desc">ตั้งรหัสผ่าน</string>
     <string name="account_xiaomi_service">บริการ</string>
     <string name="action_add_phone">เพิ่มหมายเลขโทรศัพท์</string>
     <string name="action_retry">ลองอีกครั้ง</string>
@@ -118,7 +123,7 @@
     <string name="com_facebook_internet_permission_error_title">ข้อผิดพลาด AndroidManifest</string>
     <string name="com_facebook_like_button_liked">ถูกใจแล้ว</string>
     <string name="com_facebook_like_button_not_liked">ถูกใจ</string>
-    <string name="com_facebook_loading">กำลังโหลด...</string>
+    <string name="com_facebook_loading">กำลังโหลด…</string>
     <string name="com_facebook_loginview_cancel_action">ยกเลิก</string>
     <string name="com_facebook_loginview_log_in_button">เข้าสู่ระบบ</string>
     <string name="com_facebook_loginview_log_in_button_continue">ดำเนินการต่อด้วย Facebook</string>
@@ -201,6 +206,7 @@ ID:%s
     <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login">ลงชื่อเข้าใช้ด้วย Facebook</string>
     <string name="failed_dup_secure_phone_number">หมายเลขโทรศัพท์นี้ได้ถูกผูกไว้กับบัญชี Mi อื่นอยู่ก่อนแล้ว</string>
+    <string name="family_share">การแชร์กันในครอบครัว</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">ค้นหาอุปกรณ์</string>
     <string name="find_device_access_denied">ไม่สามารถขอรับสถานะได้ การเข้าถึงถูกปฏิเสธ</string>
@@ -230,6 +236,7 @@ ID:%s
     <string name="find_device_set_lost_model">โหมดสูญหาย</string>
     <string name="find_device_title">ค้นหาอุปกรณ์</string>
     <string name="find_device_unknown_error">ไม่สามารถรับสถานะอุปกรณ์ รอ1-2นาทีแล้วลองใหม่อีกครั้ง.</string>
+    <string name="find_equipment">ค้นหาอุปกรณ์</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -286,6 +293,7 @@ ID:%s
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="get_back_password">ตั้งรหัสผ่านใหม่</string>
     <string name="get_back_pwd">กำลังตั้งรหัสผ่านใหม่</string>
     <string name="get_device_list_failed">ไม่พบข้อมูลอุปกรณ์</string>
     <string name="get_identity_auth_url_failed">ไม่สามารถยืนยัน ID</string>
@@ -326,6 +334,7 @@ ID:%s
     <string name="mi_finance">Mi การเงิน</string>
     <string name="mi_finance_info">โบนัสสำหรับผู้ใช้ใหม่</string>
     <string name="mi_health">Xiaomi Health</string>
+    <string name="mi_member">Mi คอมมูนิตี้</string>
     <string name="mi_vip_info">เรียกดูสิทธิพิเศษ</string>
     <string name="midnight">กลางคืน</string>
     <string name="mipay">ชำระ</string>
@@ -336,6 +345,7 @@ ID:%s
     <string name="mipay_indentity_done">ยืนยันแล้ว</string>
     <string name="mipay_others">อื่นๆ</string>
     <string name="mipay_transit_card">บัตรขนส่ง</string>
+    <string name="miuix_access_state_desc">ที่เลือกไว้</string>
     <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
@@ -405,14 +415,18 @@ ID:%s
     <string name="my_device_title">เครื่องของฉัน</string>
     <string name="need_install_wechat">กรุณาติดตั้ง WeChat ก่อน</string>
     <string name="night">เย็น</string>
+    <string name="no_install">ไม่ได้ติดตั้ง</string>
     <string name="no_network_btn">รีเฟรช</string>
     <string name="no_network_title">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
+    <string name="no_password_set">ไม่ได้ตั้งค่า</string>
     <string name="no_phone">ไม่มีหมายเลขโทรศัพท์</string>
     <string name="no_response_retry">ไม่มีการตอบสนอง ลองอีกครั้ง</string>
     <string name="no_sim_card_or_unactivated">ซิมการ์ดไม่ได้ติดตั้งหรือเปิดใช้งาน</string>
     <string name="nobind">ไม่เชื่อมต่อ</string>
     <string name="noon">เที่ยงวัน</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
+    <string name="notify_bind_security_phone">เพิ่มโทรศัพท์ที่ใช้กู้คืนบัญชี</string>
+    <string name="notify_complete_security_info">เพิ่มข้อมูลการกู้คืน</string>
     <string name="notify_network_restricted_content_bg_network">การเข้าถึงอินเตอร์เน็ตของบัญชี Mi ถูกจำกัด แตะเพื่ออนุญาต</string>
     <string name="notify_network_restricted_content_hidden_state">การทำงานในพื้นหลังของบัญชี Mi ถูกจำกัด แตะเพื่ออนุญาต</string>
     <string name="notify_network_restricted_content_mobile_network">การเข้าถึงอินเตอร์เน็ตของบัญชี Mi ถูกจำกัด แตะเพื่ออนุญาต</string>
@@ -445,6 +459,7 @@ ID:%s
     <string name="passport_activing_account">กำลังเปิดใช้งาน…</string>
     <string name="passport_adding_account">กำลังเพิ่มบัญชี…</string>
     <string name="passport_area_code_hot">ที่ใช้บ่อย</string>
+    <string name="passport_area_code_others">ใช้เลขนำหน้าอื่น</string>
     <string name="passport_area_code_title">รหัสประเทศ</string>
     <string name="passport_auto_generate_pwd">สร้างรหัสผ่านความปลอดภัย</string>
     <string name="passport_back">ย้อนกลับ</string>
@@ -636,6 +651,7 @@ ID:%s
     <string name="passport_title_reg">สร้างบัญชีผู้ใช้</string>
     <string name="passport_trust_device">เพิ่มอุปกรณ์นี้ไปยังอุปกรณ์ที่ยืนยันแล้ว</string>
     <string name="passport_trying_read_verify_code_sms">กำลังรับรหัสยืนยัน…</string>
+    <string name="passport_tz_invalid">พบความเสี่ยงด้านความปลอดภัย อุปกรณ์นี้อาจได้รับการรูทหรือแฟลชแล้ว ลองใช้ตัวเลือกการลงชื่อเข้าใช้อื่นๆ</string>
     <string name="passport_uplink_reg">ใช้หมายเลขโทรศัพท์</string>
     <string name="passport_uplink_send_sms_hint">แตะ \"ส่ง\" หลังจากที่คุณเปลี่ยนเส้นทางไปยังหน้าที่มีข้อความประกอบ</string>
     <string name="passport_uplink_slot1_reg">ใช้ซิม 1</string>
@@ -673,6 +689,7 @@ ID:%s
     <string name="permission_group_phone">โทรศัพท์</string>
     <string name="permission_group_sms">ข้อความ SMS</string>
     <string name="permission_group_storage">ที่จัดเก็บข้อมูล</string>
+    <string name="personal_info_desc">รูปภาพ ชื่อเล่น และอื่นๆ</string>
     <string name="phone_num_use_for">หมายเลขโทรศัพท์ใช้สำหรับ:</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพที่พร้อมใช้งาน</string>
     <string name="pm">PM</string>
@@ -719,6 +736,7 @@ ID:%s
     <string name="search_user_detail_path">การตั้งค่า/บัญชี Mi/ข้อมูลส่วนบุคคล</string>
     <string name="search_user_detail_top_key_words">ข้อมูลส่วนบุคคล,แก้ไขรูปภาพโปรไฟล์,แก้ไขชื่อผู้ใช้,แก้ไขชื่อเล่น,แก้ไขวันเกิด,แก้ไขเพศ</string>
     <string name="select_all">เลือกทั้งหมด</string>
+    <string name="self_account_info">ข้อมูลส่วนตัว</string>
     <string name="send">ส่ง</string>
     <string name="send_diagnosis_log">ส่งบันทึกการวิเคราะห์</string>
     <string name="send_email_activate_message">ส่งอีเมลที่ใช้ยืนยันตัวตนแล้ว</string>
@@ -788,6 +806,7 @@ ID:%s
     <string name="the_united_nations_day">วันสหประชาชาติ</string>
     <string name="the_valentines_day">วันวาเลนไทน์</string>
     <string name="the_water_lantern_festival">เทศกาลโคมไฟน้ำ</string>
+    <string name="third_party_login">บัญชีบุคคลที่สาม</string>
     <string name="thursday">วันพฤหัสบดี</string>
     <string name="thursday_short">พฤหัส</string>
     <string name="thursday_shortest">พฤหัส</string>

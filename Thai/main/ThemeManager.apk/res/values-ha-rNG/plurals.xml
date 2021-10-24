@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Ya yi minti 1</item>
+    </plurals>
+    <plurals name="account_coins_num">
+        <item quantity="other">Tsabar kudi %1s</item>
+        <item quantity="one">Tsabar %1s</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Abubuwan da aka zaba %d</item>
+        <item quantity="one">Abun da aka zaba %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Minti 1 daya wuce</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$d tsabar kudi = %2$dTsabar kudin
+IDR da bamaido da kudi"</item>
+        <item quantity="one">"%1$d tsabar kudi = %2$dTsabar kudin
+IDR da bamaido da kudi"</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">ayyuka %d</item>
+        <item quantity="one">aiki %d</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data>Idan ana kammala biya, nufin ka amince&lt;a href=\"%1$s\">Sanarwa kan Siyarwar Manhaja na ciki&lt;/a>.&lt;br>Akwai maido da kudi ma awowi &lt;xliff:g id=time>%2$d&lt;/xliff:g> bayan biyan.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Idan ana kammala biya, nufin ka amince&lt;a href=\"%1$s\">Sanarwa kan Siyarwar Manhaja na ciki&lt;/a>.&lt;br>Akwai maido da kudi ma awa &lt;xliff:g id=time>%2$d&lt;/xliff:g> bayan biyan.&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">An kammala oda fiye da awowi %d da ta wuce. Aika mana imel.</item>
+        <item quantity="one">An kammala oda fiye da awa %d da ta wuce. Aika mana imel.</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">Zaka samu tsabar kudi tsakanin awowi %d.</item>
+        <item quantity="one">Zaka samu tsabar kudi tsakanin awa %d.</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">"Ra'ayi %d"</item>
+        <item quantity="one">"Ra'ayi %d"</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">An yi nasarar sauke Allon haruffa %1$s</item>
+        <item quantity="one">An yi nasarar sauke Allon haruffa %1$s</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">An yi nasarar sauke jigogi %1$s</item>
+        <item quantity="one">An yi nasarar sauke jigo %1$s</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">Ayyuka %1$s</item>
+        <item quantity="one">Aiki %1$s</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">Hotuna %1$s | %2$d</item>
+        <item quantity="one">Hoton %1$s | %2$d</item>
+    </plurals>
+</resources>

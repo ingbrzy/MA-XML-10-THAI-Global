@@ -27,10 +27,10 @@
         <item>ล็อกอุปกรณ์จากระยะไกลหากอุปกรณ์สูญหาย</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
-        <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>ซิงค์รายชื่อ ข้อความ บันทึกย่อ ปฏิทิน และอื่นๆของคุณ</item>
+        <item>สำรองข้อมูลแอป การจัดเรียงหน้าจอหลัก และภาพพื้นหลัง</item>
+        <item>สำรองข้อมูลการตั้งค่าที่สำคัญ รวมไปถึง WLAN และการแสดงผล</item>
+        <item>ล็อกอุปกรณ์จากระยะไกลหากอุปกรณ์สูญหาย</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
         <item>ซิงค์รูปภาพ บันทึกย่อ บันทึกเสียง และอื่นๆ ของคุณ</item>

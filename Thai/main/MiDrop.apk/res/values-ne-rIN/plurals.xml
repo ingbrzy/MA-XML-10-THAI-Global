@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d सम्पर्क</item>
+        <item quantity="one">%d सम्पर्क</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">चयन गरिएको %d फाइलहरु मेट्ने?</item>
+        <item quantity="one">चयन गरिएको %d फाइल मेट्ने?</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">%1$s डिभाइसहरू उपलब्ध छैनन्</item>
+        <item quantity="one">%1$s डिभाइस उपलब्ध छैन</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">%1$d/%2$d फाइलहरू</item>
+        <item quantity="one">%1$d/%2$d फाइल</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">%1$s बाट स्थानान्तरण रद्द गरियो</item>
+        <item quantity="one">%1$s बाट स्थानान्तरण रद्द गरियो</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">… %1$s फाइलहरु प्राप्त गर्दै</item>
+        <item quantity="one">… %1$s फाइल प्राप्त गर्दै</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">%1$s बाट सफलतापूर्वक फाइलहरु प्राप्त भयो</item>
+        <item quantity="one">%1$s बाट सफलतापूर्वक फाइल प्राप्त भयो</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">%1$s बाट फाइलहरु %2$d</item>
+        <item quantity="one">%1$s बाट %2$d फाइलहरू</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">%1$s र %2$s अन्य वस्तुहरू पहिलेबाट नै स्थान्तरण गरियो।</item>
+        <item quantity="one">%1$s र %2$s अन्य वस्तुहरू पहिलेबाट नै स्थान्तरण गरियो।</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">%d वस्तुहरु चयन गरियो</item>
+        <item quantity="one">%d वस्तु चयन गरियो</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%1$d वस्तुहरु</item>
+        <item quantity="one">%1$d वस्तु</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%1$d फाइलहरु प्राप्त गर्नुहोस् (%2$s)</item>
+        <item quantity="one">%1$d फाइल प्राप्त गर्नुहोस् (%2$s)</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">%1$d फाइलहरु पठाउनुहोस् (%2$s)</item>
+        <item quantity="one">%1$d फाइल पठाउनुहोस् (%2$s)</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">%d एप्सका लागि अपडेटहरू फेला पर्यो</item>
+        <item quantity="one">%d एपका लागि अपडेटहरू फेला पर्यो</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%1$s ले %2$s वस्तु साझा गर्यो</item>
+        <item quantity="one">%1$s ले %2$s वस्तु साझा गर्यो</item>
+    </plurals>
+</resources>

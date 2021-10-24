@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 tund tagasi</item>
+        <item quantity="one">1 tund tagasi</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 tund tagasi</item>
+        <item quantity="one">1 tund tagasi</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pool tundi tagasi</item>
+        <item quantity="one">Pool tundi tagasi</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 tunni pärast</item>
+        <item quantity="one">1 tunni pärast</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Poole tunni pärast</item>
+        <item quantity="one">Poole tunni pärast</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Otsekohe</item>
+        <item quantity="one">Otsekohe</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d minuti pärast</item>
+        <item quantity="one">1 minuti pärast</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Just nüüd</item>
+        <item quantity="one">Just nüüd</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minutit tagasi</item>
+        <item quantity="one">1 minut tagasi</item>
+    </plurals>
+    <plurals name="fileCount">
+        <item quantity="other">%d üksuseid</item>
+        <item quantity="one">%d üksus</item>
+    </plurals>
+    <plurals name="first_space_notification_format">
+        <item quantity="other">%d teavitust Esimeses ruumis</item>
+        <item quantity="one">%d teavitus Esimeses ruumis</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pool tundi tagasi</item>
+        <item quantity="one">Pool tundi tagasi</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 tunni jooksul</item>
+        <item quantity="one">1 tunni pärast</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Poole tunni pärast</item>
+        <item quantity="one">Poole tunni pärast</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Kohe</item>
+        <item quantity="one">Kohe</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d minuti pärast</item>
+        <item quantity="one">1 minuti pärast</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just praegu</item>
+        <item quantity="one">Just praegu</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d üksuseid kustutatud</item>
+        <item quantity="one">%d üksus kustutatud</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutit tagasi</item>
+        <item quantity="one">1 minut tagasi</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Otsi %d rakendust</item>
+        <item quantity="one">Otsi %d rakendus</item>
+    </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">%d teavitust Teises ruumis</item>
+        <item quantity="one">%d teavitus Teises ruumis</item>
+    </plurals>
+    <plurals name="xspace_guide_content">
+        <item quantity="other">Võid luua &lt;font color=#0D84FF>%d&lt;/font> &lt;font>duaalrakendust&lt;/font></item>
+        <item quantity="one">Võid luua &lt;font color=#0D84FF>%d&lt;/font> &lt;font>duaalrakenduse&lt;/font></item>
+    </plurals>
+</resources>

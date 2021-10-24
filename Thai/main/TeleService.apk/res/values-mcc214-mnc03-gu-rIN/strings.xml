@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">વાઈ-ફાઈ કૉલ</string>
+    <string name="vice_slot_volte_data_switch_prompt">4G કૉલ ચાલુ હોય ત્યારે, તમારું ડિવાઇસ ગૌણ સિમનો ઉપયોગ કરીને મોબાઇલ ડેટા નેટવર્ક સાથે કનેક્ટ કરશે. આ માટે વધારાનું ડેટા શુલ્ક લેવામાં આવી શકે છે. તમારા ડેટા પ્લાન વિશેની માહિતી માટે તમારા સ્થાનિક મોબાઇલ ઑપરેટરનો સંપર્ક કરો.</string>
+    <string name="vice_slot_volte_data_switch_summary">4G કૉલ દરમિયાન, ડિવાઇસ ગૌણ સિમનો ઉપયોગ કરીને મોબાઇલ ડેટા નેટવર્ક સાથે કનેક્ટ કરશે</string>
+    <string name="vice_slot_volte_data_switch_title">ગૌણ સિમમાં 4G કૉલ દરમિયાન મોબાઇલ ડેટાનો ઉપયોગ કરો</string>
+    <string name="volte_switch_summary">અવાજ અને સંચાર સેવાને બહેતર બનાવવા માટે 4G સેવાઓનો ઉપયોગ કરો</string>
+    <string name="volte_switch_title">4G કૉલ</string>
+    <string name="wificall_switch_title">વાઈ-ફાઈ કૉલિંગ</string>
+</resources>

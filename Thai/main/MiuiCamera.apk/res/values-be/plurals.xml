@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Гадзіну таму</item>
+        <item quantity="one">Гадзіну таму</item>
+        <item quantity="few">Гадзіну таму</item>
+        <item quantity="many">Гадзіну таму</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Гадзіну таму</item>
+        <item quantity="one">Гадзіну таму</item>
+        <item quantity="few">Гадзіну таму</item>
+        <item quantity="many">Гадзіну таму</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Паўгадзіны таму</item>
+        <item quantity="one">Паўгадзіны таму</item>
+        <item quantity="few">Паўгадзіны таму</item>
+        <item quantity="many">Паўгадзіны таму</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Праз гадзіну</item>
+        <item quantity="one">Праз гадзіну</item>
+        <item quantity="few">Праз гадзіну</item>
+        <item quantity="many">Праз гадзіну</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Праз паўгадзіны</item>
+        <item quantity="one">Праз паўгадзіны</item>
+        <item quantity="few">Праз паўгадзіны</item>
+        <item quantity="many">Праз паўгадзіны</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Неадкладна</item>
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">праз %d хв</item>
+        <item quantity="one">праз 1 хв</item>
+        <item quantity="few">праз %d хв</item>
+        <item quantity="many">праз %d хв</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Толькі што</item>
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв таму</item>
+        <item quantity="one">1 хв таму</item>
+        <item quantity="few">%d хв таму</item>
+        <item quantity="many">%d хв таму</item>
+    </plurals>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Сфакусавана. Выяўлена %d асобы</item>
+        <item quantity="one">Сфакусавана. Выяўлена %d асоба</item>
+        <item quantity="few">Сфакусавана. Выяўлена %d асобы</item>
+        <item quantity="many">Сфакусавана. Выяўлена %d асобаў</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d фота ў серыйнай здымцы</item>
+        <item quantity="one">%d фота ў серыйнай здымцы</item>
+        <item quantity="few">%d фота ў серыйнай здымцы</item>
+        <item quantity="many">%d фота ў серыйнай здымцы</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Інтэрвал: %d секунд</item>
+        <item quantity="one">Інтэрвал: %d секунда</item>
+        <item quantity="few">Інтэрвал: %d секунды</item>
+        <item quantity="many">Інтэрвал: %d секунд</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Працягласць: %d секунд</item>
+        <item quantity="one">Працягласць: %d секунда</item>
+        <item quantity="few">Працягласць: %d секунды</item>
+        <item quantity="many">Працягласць: %d секунд</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Вы можаце стварыць не больш %d клонаў за раз.</item>
+        <item quantity="one">Вы можаце стварыць не больш %d клона за раз.</item>
+        <item quantity="few">Вы можаце стварыць не больш %d клонаў за раз.</item>
+        <item quantity="many">Вы можаце стварыць не больш %d клонаў за раз.</item>
+    </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data>Збой падлучэння да камеры.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунды&lt;/b>&lt;/font>. Пасля гэтага пачакайце крыху і паспрабуйце ізноў.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Збой падлучэння да камеры.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунду&lt;/b>&lt;/font>. Пасля гэтага пачакайце крыху і паспрабуйце ізноў.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Збой падлучэння да камеры.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунды&lt;/b>&lt;/font>. Пасля гэтага пачакайце крыху і паспрабуйце ізноў.&lt;/Data></item>
+        <item quantity="many">&lt;Data>Збой падлучэння да камеры.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунд&lt;/b>&lt;/font>. Пасля гэтага пачакайце крыху і паспрабуйце ізноў.&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Перагрэў прылады.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунды&lt;/b>&lt;/font>. Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Перагрэў прылады.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунду&lt;/b>&lt;/font>. Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Перагрэў прылады.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунды&lt;/b>&lt;/font>. Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
+        <item quantity="many">&lt;Data>Перагрэў прылады.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунд&lt;/b>&lt;/font>. Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d хв.</item>
+        <item quantity="one">%1$d хв.</item>
+        <item quantity="few">%1$d хв.</item>
+        <item quantity="many">%1$d хв.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">%1$d сек.</item>
+        <item quantity="few">%1$d сек.</item>
+        <item quantity="many">%1$d сек.</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Паўгадзіны таму</item>
+        <item quantity="one">Паўгадзіны таму</item>
+        <item quantity="few">Паўгадзіны таму</item>
+        <item quantity="many">Паўгадзіны таму</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Праз гадзіну</item>
+        <item quantity="one">Праз гадзіну</item>
+        <item quantity="few">Праз гадзіну</item>
+        <item quantity="many">Праз гадзіну</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Праз паўгадзіны</item>
+        <item quantity="one">Праз паўгадзіны</item>
+        <item quantity="few">Праз паўгадзіны</item>
+        <item quantity="many">Праз паўгадзіны</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Неадкладна</item>
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">праз %d хвілін</item>
+        <item quantity="one">праз 1 хвіліну</item>
+        <item quantity="few">праз %d хвіліны</item>
+        <item quantity="many">праз %d хвілін</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Толькі што</item>
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Выдаліць %1$d чарнавікоў?</item>
+        <item quantity="one">Выдаліць %1$d чарнавік?</item>
+        <item quantity="few">Выдаліць %1$d чарнавіка?</item>
+        <item quantity="many">Выдаліць %1$d чарнавікоў?</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">"%d аб'екта выдзеленая"</item>
+        <item quantity="one">"%d аб'ект выдзелены"</item>
+        <item quantity="few">"%d аб'екты выдзелены"</item>
+        <item quantity="many">"%d аб'ектаў выдзелена"</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хвілін таму</item>
+        <item quantity="one">1 хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+        <item quantity="many">%d хвілін таму</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s хв.</item>
+        <item quantity="one">%1$s хв.</item>
+        <item quantity="few">%1$s хв.</item>
+        <item quantity="many">%1$s хв.</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Запішыце %d секунд</item>
+        <item quantity="one">Запішыце %d секунду</item>
+        <item quantity="few">Запішыце %d секунды</item>
+        <item quantity="many">Запішыце %d секунд</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">"Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб'ектамі."</item>
+        <item quantity="one">"Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб'ектам."</item>
+        <item quantity="few">"Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб'ектамі."</item>
+        <item quantity="many">"Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб'ектамі."</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s фота</item>
+        <item quantity="one">%1$s фота</item>
+        <item quantity="few">%1$s фота</item>
+        <item quantity="many">%1$s фота</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Серыйная здымка скончана, зроблена %1$s фота</item>
+        <item quantity="one">Серыйная здымка скончана, зроблена %1$s фота</item>
+        <item quantity="few">Серыйная здымка скончана, зроблена %1$s фота</item>
+        <item quantity="many">Серыйная здымка скончана, зроблена %1$s фота</item>
+    </plurals>
+</resources>

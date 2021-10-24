@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ժամ առաջ</item>
+        <item quantity="one">1 ժամ առաջ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ժամ առաջ</item>
+        <item quantity="one">1 ժամ առաջ</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Կես ժամ առաջ</item>
+        <item quantity="one">Կես ժամ առաջ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 ժամում</item>
+        <item quantity="one">1 ժամում</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Կես ժամից</item>
+        <item quantity="one">Կես ժամից</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Անմիջապես</item>
+        <item quantity="one">Անմիջապես</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d րոպեից</item>
+        <item quantity="one">1 րոպեից</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Հենց հիմա</item>
+        <item quantity="one">Հենց հիմա</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d րոպե առաջ</item>
+        <item quantity="one">1 րոպե առաջ</item>
+    </plurals>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Սեղմել և պահել գործի կոճակը %1$d վայրկյան</item>
+        <item quantity="one">Սեղմել և պահել գործի կոճակը %1$d վայրկյան</item>
+    </plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">Սեղմել և պահել ականջակալների ցանկացած զգայուն տրածքին %1$d վայրկյան</item>
+        <item quantity="one">Սեղմել և պահել ականջակալների ցանկացած զգայուն տրածքին %1$d վայրկյան</item>
+    </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Սեղմեք և պահեք %1$d վրկ՝ վերականգնելու համար</item>
+        <item quantity="one">Սեղմեք և պահեք %1$d վրկ՝ վերականգնելու համար</item>
+    </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Սեղմեք և պահեք կոճակը %1$s վարկյա, երբ սարքն անջատված է</item>
+        <item quantity="one">Սեղմեք և պահեք կոճակը %1$s վարկյա, երբ սարքն անջատված է</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Կես ժամ առաջ</item>
+        <item quantity="one">Կես ժամ առաջ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 ժամում</item>
+        <item quantity="one">1 ժամում</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Կես ժամից</item>
+        <item quantity="one">Կես ժամից</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Անմիջապես</item>
+        <item quantity="one">Անմիջապես</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d րոպեից</item>
+        <item quantity="one">1 րոպեից</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Հենց հիմա</item>
+        <item quantity="one">Հենց հիմա</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ընտրված օբյեկտ</item>
+        <item quantity="one">%d ընտրված օբյեկտ</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d րոպե առաջ</item>
+        <item quantity="one">1 րոպե առաջ</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d սարք միացված է</item>
+        <item quantity="one">%1$d սարք միացված է</item>
+    </plurals>
+</resources>

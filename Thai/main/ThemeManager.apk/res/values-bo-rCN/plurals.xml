@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">དུས་ཚོད1གི་སྔོན།</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">དུས་ཚོད་ཕྱེད་ཀའི་སྔོན།</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">དུས་ཚོད1གི་རྗེས།</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">དུས་ཚོད་ཕྱེད་ཀའི་རྗེས།</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">མྱུར་ཏུ།</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">སྐར་མ%dརྗེས།</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ད་གིན།</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">སྐར་མ%dསྔོན།</item>
+    </plurals>
+    <plurals name="account_coins_num">
+        <item quantity="other">གཙོ་དོན་དོང་ཙེ:%1s</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">ཚན་པ%dབདམས་ཟིན།</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$dགཙོ་དོན་དོང་ཙེ=%2$dIDR
+གཙོ་དོན་དོང་ཙེ་དངུལ་སྨར་བརྗེ་ཐབས་མེད།"</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">བརྩམས་ཆོས་%1$d</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data>དངུལ་སྤྲད་པས་ཁྱེད་ཀྱི་མོས་མཐུན་གནང་བ་མཚོན&lt;a href=\"%1$s\">《རིན་སྤྲོད་མཁན་གྱི་ངེས་ཤེས》ཆུ་ཚོད་&lt;/a>&lt;br>&lt;xliff:g id=time>%2$d&lt;/xliff:g>ནང་རྒྱུ་མཚན་མེད་པར་གཙོ་དོན་དོང་ཙེ་ཕྱིར་སློག་བྱ&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">མངག་ཐོ་ལེགས་གྲུབ་ཟིན་པར་ཆུ་ཚོད་%dལས་བརྒལ་འདུག་པས། སྦྲག་ཡིག་བརྒྱུད་དེ་ང་ཚོ་དང་འབྲེལ་གཏུགས་གནང་རོགས།</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">གཙོ་དོན་དོང་ཙེ་ཆུ་ཚོད་%dནང་ཚུན་རྩིས་ཕྲའི་ཐོག་སླེབས་ངེས།</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">དཔྱད་བརྗོད་%d</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">ཡིག་གཟུགས་ %1$s ཕབ་ལེན་བྱས་ཟིན།</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">གཙོ་དོན་ %1$s ཕབ་ལེན་བྱས་ཟིན།</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">བརྩམས་ཆོས་ %1$s</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d P</item>
+    </plurals>
+</resources>

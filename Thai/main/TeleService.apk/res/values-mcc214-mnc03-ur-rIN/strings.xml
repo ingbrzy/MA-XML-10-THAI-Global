@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">وائی-فائی کال</string>
+    <string name="vice_slot_volte_data_switch_prompt">جاری 4G کال کے دوران آپ کا ڈیوائس دوسرے سم کا استعمال کرتے ہوئے ایک موبائل ڈیٹا نیٹ ورک سے مربوط ہوگا۔ اس سے اضافی ڈیٹا فیس لگ سکتی ہے۔ اپنے ڈیٹا پلان کے بارے میں تفصیلات کے لیے اپنے مقامی کییریئر سے رابطہ کریں</string>
+    <string name="vice_slot_volte_data_switch_summary">4G کال کے دوران, دوسرے سم کا استعمال کرتے ہوئے ڈیوائس ایک موبائل ڈیٹا نیٹ ورک سے مربوط ہوگا</string>
+    <string name="vice_slot_volte_data_switch_title">دوسرے سم پر 4G کال کے دوران موبائل ڈیٹا استعمال کریں</string>
+    <string name="volte_switch_summary">وائس اور کمیونیکیشن سروس کو بہتر بنانے کے لیے 4G سروسز کا استعمال کریں</string>
+    <string name="volte_switch_title">4G کالز</string>
+    <string name="wificall_switch_title">وائی-فائی کالنگ</string>
+</resources>

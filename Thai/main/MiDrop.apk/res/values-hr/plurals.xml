@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <plurals name="sender_file_num">
+         <item quantity="other">Čeka se %1$d datoteka…</item>
+         <item quantity="one">Čeka se %1$d datoteka…</item>
+     </plurals>
+     <plurals name="receiver_file_num">
+         <item quantity="other">%2$d datoteka od %1$s</item>
+         <item quantity="one">%2$d datoteke od %1$s</item>
+     </plurals>
+     <plurals name="receiver_file_current">
+         <item quantity="other">Primanje %2$d datoteka od %1$s…</item>
+         <item quantity="one">Primanje %2$d datoteke od %1$s…</item>
+     </plurals>
+     <plurals name="receiver_pic_file_num">
+         <item quantity="other">%2$d slika od %1$s</item>
+         <item quantity="one">%2$d slika od %1$s</item>
+     </plurals>
+     <plurals name="receiver_pic_file_current">
+         <item quantity="other">Primanje %2$d slika od %1$s…​</item>
+         <item quantity="one">Primanje %2$d slike od %1$s​…</item>
+     </plurals>
+     <plurals name="receiver_audio_file_num">
+         <item quantity="other">%2$d​ pjesama od %1$s</item>
+         <item quantity="one">%2$d​ pjesma od %1$s</item>
+     </plurals>
+     <plurals name="receiver_audio_file_current">
+         <item quantity="other">Primanje %2$d pjesama od %1$s…​</item>
+         <item quantity="one">Primanje %2$d pjesme od %1$s…​</item>
+     </plurals>
+     <plurals name="receiver_video_file_num">
+         <item quantity="other">%2$d videozapisa od %1$s</item>
+         <item quantity="one">%2$d videozapis od %1$s</item>
+     </plurals>
+     <plurals name="receiver_video_file_current">
+         <item quantity="other">Primanje %2$d videozapisa od %1$s…</item>
+         <item quantity="one">Primanje %2$d videozapisa od %1$s…</item>
+     </plurals>
+     <plurals name="receiver_apk_file_num">
+         <item quantity="other">%2$d​ aplikacija od %1$s</item>
+         <item quantity="one">%2$d​ aplikacije od %1$s</item>
+     </plurals>
+     <plurals name="receiver_apk_file_current">
+         <item quantity="other">Primanje %2$d​ aplikacija od %1$s…</item>
+         <item quantity="one">Primanje %2$d​ aplikacije od %1$sv</item>
+     </plurals>
+     <plurals name="notif_receive_progress">
+         <item quantity="other">Primanje %1$s datoteka…</item>
+         <item quantity="one">Primanje %1$s datoteke…</item>
+     </plurals>
+     <plurals name="notif_receive_cancel">
+         <item quantity="other">%1$s datoteka nije poslano</item>
+         <item quantity="one">%1$s datoteka nije poslana</item>
+     </plurals>
+     <plurals name="notif_receive_success">
+         <item quantity="other">Primljeno datoteka %1$s</item>
+         <item quantity="one">Primljena datoteka %1$s</item>
+     </plurals>
+</resources> 

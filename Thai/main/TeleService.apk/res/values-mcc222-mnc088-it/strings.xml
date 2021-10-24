@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_network_type_pref_entries_only_2g">Solo 2G</string>
+    <string name="preferred_network_type_pref_entries_only_3g">Solo 3G</string>
+</resources>

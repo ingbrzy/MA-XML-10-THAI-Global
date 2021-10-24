@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 orë më parë</item>
+        <item quantity="one">1 orë më parë</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 orë më parë</item>
+        <item quantity="one">1 orë më parë</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Gjysmë ore më parë</item>
+        <item quantity="one">Gjysmë ore më parë</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Për 1 orë</item>
+        <item quantity="one">Për 1 orë</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Për gjysmë ore</item>
+        <item quantity="one">Për gjysmë ore</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Menjëherë</item>
+        <item quantity="one">Menjëherë</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">për %d minuta</item>
+        <item quantity="one">për 1 minutë</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tani</item>
+        <item quantity="one">Tani</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuta më parë</item>
+        <item quantity="one">1 min më parë</item>
+    </plurals>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Shtypni dhe mbani shtypur butonin në këllëfin për %1$d sekonda</item>
+        <item quantity="one">Shtypni dhe mbani shtypur butonin në këllëfin për %1$d sekond</item>
+    </plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">Shtypni dhe mbani çdo zonë të ndjeshme në prekje në kufje për %1$d sekonda</item>
+        <item quantity="one">Shtypni dhe mbani çdo zonë të ndjeshme në prekje në kufje për %1$d sekond</item>
+    </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Shtypni dhe mbajeni për %1$d sekonda për të rivendosur</item>
+        <item quantity="one">Shtypni dhe mbajeni për%1$d sekondë për të rivendosur</item>
+    </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Shtypni dhe mbani shtypur butonin për %1$s sekonda kur pajisja është e fikur</item>
+        <item quantity="one">Shtypni dhe mbani butonin për %1$ssec kur pajisja është e fikur</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Gjysmë ore më parë</item>
+        <item quantity="one">Gjysmë ore më parë</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Për 1 orë</item>
+        <item quantity="one">Për 1 orë</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Për gjysmë ore</item>
+        <item quantity="one">Për gjysmë ore</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Menjëherë</item>
+        <item quantity="one">Menjëherë</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">për %d minuta</item>
+        <item quantity="one">për 1 minutë</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tani</item>
+        <item quantity="one">Tani</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d artikuj të zgjedhur</item>
+        <item quantity="one">%d artikull i zgjedhur</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuta më parë</item>
+        <item quantity="one">1 minutë më parë</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d pajisje të lidhura</item>
+        <item quantity="one">%1$d pajisje e lidhur</item>
+    </plurals>
+</resources>

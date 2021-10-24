@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">Thirrje në Wi-Fi</string>
+    <string name="vice_slot_volte_data_switch_prompt">Pajisja juaj do të lidhet me një rrjet interneti celular duke përdorur SIM-in e dytë gjatë thirrjeve të vazhdueshme 4G. Kjo mund të gjenerojë tarifa shtesë. Kontakto operatorin lokal për detaje rreth planit tarifor.</string>
+    <string name="vice_slot_volte_data_switch_summary">Gjatë thirrjeve 4G, pajisja do të lidhet me një rrjet të internetit mobil duke përdorur SIM-in e dytë</string>
+    <string name="vice_slot_volte_data_switch_title">Përdor internetin mobil gjatë thirrjeve 4G në kartën e dytë SIM</string>
+    <string name="volte_switch_summary">Përdor shërbimet 4G për të përmirësuar shërbimet e zërit dhe të komunikimeve</string>
+    <string name="volte_switch_title">thirrjet 4G</string>
+    <string name="wificall_switch_title">Thirrje në Wi-Fi</string>
+</resources>

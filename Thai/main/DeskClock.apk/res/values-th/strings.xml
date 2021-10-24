@@ -423,12 +423,20 @@
     <string name="other_settings">การตั้งค่าเพิ่มเติม</string>
     <string name="pause">หยุดพัก</string>
     <string name="percentage_sign">%</string>
+    <string name="permission_desc">รายละเอียดการอนุญาต</string>
+    <string name="permission_granted">ยินยอมแล้ว</string>
+    <string name="permission_rejected">ไม่ได้รับการยินยอม</string>
+    <string name="permission_related">การอนุญาต</string>
     <string name="personal_recommend">คำแนะนำเนื้อหาส่วนบุคคล</string>
     <string name="pm">PM</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="privacy_policy_title">นโยบายความเป็นส่วนตัว</string>
+    <string name="privacy_settings_title">ความเป็นส่วนตัว</string>
+    <string name="query_privacy_policy">ดูนโยบายความเป็นส่วนตัว</string>
     <string name="reach_upper_limit">ไม่สามารถเพิ่มตัวนับถอยหลังเพิ่มเติมได้</string>
+    <string name="read_external_storage_permission_desc">สำหรับตั้งเสียงเรียกเข้าเอง</string>
+    <string name="read_internal_storage">เข้าถึงที่เก็บข้อมูลอุปกรณ์</string>
     <string name="remind_ringtone">เสียงเตือน</string>
     <string name="repeat_count">จำนวนครั้ง</string>
     <string name="repeat_count_value_five">5</string>
@@ -478,6 +486,7 @@
     <string name="shutdown_alarm_enable_summary">เสียงปลุกจะดังหากตั้งไว้อย่างน้อย 10 นาทีหลังจากที่คุณปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="sleep_analysis">สถิติ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -521,6 +530,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_reset_notification">รีเซ็ตนาฬิกาจับเวลาแล้ว</string>
     <string name="stopwatch_running_notification">นาฬิกาจับเวลา</string>
@@ -529,6 +539,7 @@
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตเพื่อเข้าถึงคุณสมบัติทั้งหมดได้</string>
     <string name="system_permission_main_purpose">ดูเวลา ตั้งค่าการเตือนและตัวจับเวลา โดยใช้นาฬิกาจับเวลา</string>
     <string name="system_permission_purpose">การสร้างการเตือนวันทำงานและการตั้งค่าเสียงเรียกเข้าที่กำหนดเอง</string>

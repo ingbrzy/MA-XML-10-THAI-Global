@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">ബാറ്ററി ഡിസ്കണക്റ്റുചെയ്തതായി തോന്നുന്നു. നിങ്ങളുടെ ഉപകരണം %d സെക്കൻ്റിനുള്ളിൽ ഓഫാക്കും. ഈ പ്രശ്നം പരിഹരിക്കുന്നതിന് ഉപഭോക്തൃ പിന്തുണയുമായി ബന്ധപ്പെടുക.</item>
+        <item quantity="one">ബാറ്ററി ഡിസ്കണക്റ്റുചെയ്തതായി തോന്നുന്നു. നിങ്ങളുടെ ഉപകരണം %d സെക്കൻ്റിനുള്ളിൽ ഓഫാക്കും. ഈ പ്രശ്നം പരിഹരിക്കുന്നതിന് ഉപഭോക്തൃ പിന്തുണയുമായി ബന്ധപ്പെടുക.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ഫയലുകൾ</item>
+        <item quantity="one">%1$d ഫയൽ</item>
+    </plurals>
+</resources>

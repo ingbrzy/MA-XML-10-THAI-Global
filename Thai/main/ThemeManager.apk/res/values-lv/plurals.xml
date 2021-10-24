@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Pirms 1 stundas</item>
+        <item quantity="zero">Pirms 1 stundas</item>
+        <item quantity="one">Pirms 1 stundas</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Pirms 1 stundas</item>
+        <item quantity="zero">Pirms 1 stundas</item>
+        <item quantity="one">Pirms 1 stundas</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pirms pusstundas</item>
+        <item quantity="zero">Pirms pusstundas</item>
+        <item quantity="one">Pirms pusstundas</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Pēc 1 stundas</item>
+        <item quantity="zero">Pēc 1 stundas</item>
+        <item quantity="one">Pēc 1 stundas</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Pēc pusstundas</item>
+        <item quantity="zero">Pēc pusstundas</item>
+        <item quantity="one">Pēc pusstundas</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Nekavējoties</item>
+        <item quantity="zero">Nekavējoties</item>
+        <item quantity="one">Nekavējoties</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">pēc %d minūtēm</item>
+        <item quantity="zero">pēc %d minūtēm</item>
+        <item quantity="one">pēc 1 minūtes</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tikko</item>
+        <item quantity="zero">Tikko</item>
+        <item quantity="one">Tikko</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Pirms %d minūtēm</item>
+        <item quantity="zero">Pirms %d minūtēm</item>
+        <item quantity="one">Pirms 1 minūtes</item>
+    </plurals>
+    <plurals name="account_coins_num">
+        <item quantity="other">%1s monētas</item>
+        <item quantity="zero">%1s monētas</item>
+        <item quantity="one">%1s monēta</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pirms pusstundas</item>
+        <item quantity="zero">Pirms pusstundas</item>
+        <item quantity="one">Pirms pusstundas</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Pēc 1 stundas</item>
+        <item quantity="zero">Pēc 1 stundas</item>
+        <item quantity="one">Pēc 1 stundas</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Pēc pusstundas</item>
+        <item quantity="zero">Pēc pusstundas</item>
+        <item quantity="one">Pēc pusstundas</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Nekavējoties</item>
+        <item quantity="zero">Nekavējoties</item>
+        <item quantity="one">Nekavējoties</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">pēc %d minūtēm</item>
+        <item quantity="zero">pēc %d minūtēm</item>
+        <item quantity="one">pēc 1 minūtes</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tikko</item>
+        <item quantity="zero">Tikko</item>
+        <item quantity="one">Tikko</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Izvēlēti %d vienumi</item>
+        <item quantity="zero">Izvēlēti %d vienumi</item>
+        <item quantity="one">Izvēlēts %d vienums</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Pirms %d minūtēm</item>
+        <item quantity="zero">Pirms %d minūtēm</item>
+        <item quantity="one">Pirms 1 minūtes</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$d monētas =%2$d IDR
+Monētas nevar atmaksāt."</item>
+        <item quantity="zero">"%1$d monētas =%2$d IDR
+Monētas nevar atmaksāt."</item>
+        <item quantity="one">"%1$d monēta =%2$d IDR
+Monētas nevar atmaksāt."</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">%d darbi</item>
+        <item quantity="zero">%d darbi</item>
+        <item quantity="one">%d darbs</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data> Pabeidzot maksājumu, jūs piekrītat &lt;a href=\"%1$s\">Paziņojumam par iegādi lietojumprogrammā&lt;/a>.&lt;br>Atmaksas ir pieejamas &lt;xliff:g id=time>%2$d&lt;/xliff:g> stundu laikā pēc iegādes veikšanas.&lt;/Data></item>
+        <item quantity="zero">&lt;Data> Pabeidzot maksājumu, jūs piekrītat &lt;a href=\"%1$s\">Paziņojumam par iegādi lietojumprogrammā&lt;/a>.&lt;br>Atmaksas ir pieejamas &lt;xliff:g id=time>%2$d&lt;/xliff:g> stundu laikā pēc iegādes veikšanas.&lt;/Data></item>
+        <item quantity="one">&lt;Data> Pabeidzot maksājumu, jūs piekrītat &lt;a href=\"%1$s\">Paziņojumam par iegādi lietojumprogrammā&lt;/a>.&lt;br>Atmaksas ir pieejamas &lt;xliff:g id=time>%2$d&lt;/xliff:g> stundas laikā pēc iegādes veikšanas.&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">Pasūtījums tika pabeigts vairāk kā pirms %d stundām. Nosūtiet mums e-pastu.</item>
+        <item quantity="zero">Pasūtījums tika pabeigts vairāk kā pirms %d stundām. Nosūtiet mums e-pastu.</item>
+        <item quantity="one">Pasūtījums tika pabeigts vairāk kā pirms %d stundas. Nosūtiet mums e-pastu.</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">Jūs saņemsiet monētas %d stundu laikā.</item>
+        <item quantity="zero">Jūs saņemsiet monētas %d stundu laikā.</item>
+        <item quantity="one">Jūs saņemsiet monētas %d stundas laikā.</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d komentāri</item>
+        <item quantity="zero">%d komentārs</item>
+        <item quantity="one">%d komentārs</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">Veiksmīgi lejupielādēti %1$s fonti</item>
+        <item quantity="zero">Veiksmīgi lejupielādēti %1$s fonti</item>
+        <item quantity="one">Veiksmīgi lejupielādēts %1$s fonts</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">Veiksmīgi lejupielādēti %1$s motīvi</item>
+        <item quantity="zero">Veiksmīgi lejupielādēti %1$s motīvi</item>
+        <item quantity="one">Veiksmīgi lejupielādēts %1$s motīvs</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s darbi</item>
+        <item quantity="zero">%1$s darbi</item>
+        <item quantity="one">%1$s darbs</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d attēli</item>
+        <item quantity="zero">%1$s | %2$d attēli</item>
+        <item quantity="one">%1$s | %2$d attēls</item>
+    </plurals>
+</resources>

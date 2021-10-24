@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 કલાક પહેલાં</item>
+        <item quantity="one">1 કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 કલાક પહેલાં</item>
+        <item quantity="one">1 કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">અડધા કલાક પહેલાં</item>
+        <item quantity="one">અડધા કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 કલાકમાં</item>
+        <item quantity="one">1 કલાકમાં</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">અડધા કલાકમાં</item>
+        <item quantity="one">અડધા કલાકમાં</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">તરત જ</item>
+        <item quantity="one">તરત જ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d મિનિટમાં</item>
+        <item quantity="one">1 મિનિટમાં</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">હમણાં જ</item>
+        <item quantity="one">હમણાં જ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d મિનિટ પહેલા</item>
+        <item quantity="one">1 મિનિટ પહેલાં</item>
+    </plurals>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">કેસ પર બટનને %1$d સેકંડ્સ માટે દબાવો અને પકડી રાખો</item>
+        <item quantity="one">કેસ પર બટનને %1$d સેકંડ માટે દબાવો અને પકડી રાખો</item>
+    </plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">%1$d સેકન્ડ સુધી ઈયરફોન પરનાં કોઈ પણ ટચ-સેન્સિટીવ ક્ષેત્રને દબાવી રાખો</item>
+        <item quantity="one">%1$d સેકન્ડ સુધી ઈયરફોન પરનાં કોઈ પણ ટચ-સેન્સિટીવ ક્ષેત્રને દબાવી રાખો</item>
+    </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">રીસેટ કરવા માટે %1$dસે દબાવી રાખો</item>
+        <item quantity="one">રીસેટ કરવા માટે %1$dસે દબાવી રાખો</item>
+    </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">ડિવાઇસ બંધ હોય ત્યારે આ બટન %1$s સેકન્ડ સુધી દબાવી રાખો</item>
+        <item quantity="one">ડિવાઇસ બંધ હોય ત્યારે આ બટન %1$s સેકન્ડ સુધી દબાવી રાખો</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">અડધા કલાક પહેલાં</item>
+        <item quantity="one">અડધા કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 કલાકમાં</item>
+        <item quantity="one">1 કલાકમાં</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">અડધા કલાકમાં</item>
+        <item quantity="one">અડધા કલાકમાં</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">તરત જ</item>
+        <item quantity="one">તરત જ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d મિનિટમાં</item>
+        <item quantity="one">1 મિનિટમાં</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">હમણાં જ</item>
+        <item quantity="one">હમણાં જ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d આઇટમો પસંદ કરેલ છે</item>
+        <item quantity="one">%d આઇટમ પસંદ કરેલ છે</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d મિનિટ પહેલા</item>
+        <item quantity="one">1 મિનિટ પહેલા</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d ડિવાઇસ કનેક્ટ કરેલ છે</item>
+        <item quantity="one">%1$d ડિવાઇસ કનેક્ટ કરેલ છે</item>
+    </plurals>
+</resources>

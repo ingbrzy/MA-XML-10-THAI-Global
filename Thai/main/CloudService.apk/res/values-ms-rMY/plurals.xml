@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 jam yang lalu</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 jam yang lalu</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Setengah jam yang lalu</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Dalam 1 jam</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Dalam setengah jam</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Secepat mungkin</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">dalam masa %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tadi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minit yang lalu</item>
+    </plurals>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">Tidak dapat menyegerakkan %s item</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d entri senarai sekat</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d item pelayar</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d item kalendar</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d rakaman sejarah panggilan</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d kenalan</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d foto</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d mesej</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d lagu</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d nota</item>
+    </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">%d nota</item>
+    </plurals>
+    <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d masukan App vault</item>
+    </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d frasa umum</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d rakaman</item>
+    </plurals>
+    <plurals name="dirty_secretphoto_count">
+        <item quantity="other">%d foto tersembunyi tidak disegerakkan. Keluar selepas semua item disegerakan untuk menyimpannya; jika tidak, item akan dipadamkan.</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d rangkaian Wi-Fi</item>
+    </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d rangkaian WLAN</item>
+    </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Cuba lagi dalam %d saat</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Setengah jam yang lalu</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Dalam 1 jam</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Dalam setengah jam</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Secepat mungkin</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">dalam masa %d minit</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Item menunggu untuk disegerak: %d</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">%s jam lalu</item>
+    </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">%s min lalu</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tadi</item>
+    </plurals>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Menyambung semula segerak dalam %d minit</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d kandungan dipilih</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minit yang lalu</item>
+    </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s perkhidmatan akan disegerakkan dengan Xiaomi Cloud</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">Tidak boleh pilih lebih dari %d item</item>
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Jemputan telah diterima oleh %d orang</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s hari</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s jam</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s min</item>
+    </plurals>
+</resources>

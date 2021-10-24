@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Ya yi minti 1</item>
+    </plurals>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Danna ka rike madanniakan akwati ma sakan %1$d</item>
+        <item quantity="one">Danna ka rike madanniakan akwati ma sakan %1$d</item>
+    </plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">"Danna ka rike duk wata wuri mai saurin tabo a kan na'urar ji ma sakan %1$d"</item>
+        <item quantity="one">"Danna ka rike duk wata wuri mai saurin tabo a kan na'urar ji ma sakan %1$d"</item>
+    </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Danna ka rike ma sakan %1$d do ka sake seti</item>
+        <item quantity="one">Danna ka rike ma sakan %1$d do ka sake seti</item>
+    </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">"Danna ka rike malsatsin ma sakan %1$s idan na'urar na kashe"</item>
+        <item quantity="one">"Danna ka rike malsatsin ma sakan %1$s idan na'urar na kashe"</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Abubuwan da aka zaba %d</item>
+        <item quantity="one">Abun da aka zaba %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Minti 1 daya wuce</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">"Na'aurori %1$d sun hada"</item>
+        <item quantity="one">"Na'aura %1$d ya hada"</item>
+    </plurals>
+</resources>

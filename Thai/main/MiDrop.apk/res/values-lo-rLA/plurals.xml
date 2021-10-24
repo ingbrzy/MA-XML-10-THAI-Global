@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d ລາຍຊື່ຜູ້ຕິດຕໍ່</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">ລົບ %d ໄຟລ໌ທີ່ເລືອກບໍ?</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">%1$s ອຸປະກອນພ້ອມໃຊ້ງານ</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">%1$d/%2$d ໄຟລ໌</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">ຍົກເລີກການໂອນຍ້າຍຈາກ %1$s ແລ້ວ</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">ກຳລັງຮັບເອົາ %1$s ໄຟລ໌…</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">ຮັບໄຟລ໌ຈາກ %1$s ສຳເລັດແລ້ວ</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">%2$d ໄຟລ໌ຈາກ %1$s</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">%1$s ແລະອີກ %2$s ລາຍການກຳລັງຖືກໂອນຍ້າຍຢູ່ແລ້ວ.</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">ເລືອກ %d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%1$d ລາຍການ</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">ຮັບ %1$d ໄຟລ໌ (%2$s)</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">ສົ່ງ %1$d ໄຟລ໌ (%2$s)</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">ພົບເຫັນການອັບເດດສຳລັບ %d ແອັບ</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%1$s ໄດ້ແຊຣ໌ %2$s ລາຍການແລ້ວ</item>
+    </plurals>
+</resources>

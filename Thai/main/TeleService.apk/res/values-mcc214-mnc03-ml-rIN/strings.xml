@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">വൈ-ഫൈ കോളുകൾ</string>
+    <string name="vice_slot_volte_data_switch_prompt">നിലവിലുള്ള 4G കോളുകളുടെ സമയം സെക്കൻഡറി സിം ഉപയോഗിച്ച് ഒരു മൊബൈൽ ഡാറ്റ നെറ്റ്‌വര്‍ക്കിലേയ്ക്ക് നിങ്ങളുടെ ഉപകരണം കണക്റ്റുചെയ്യും. ഇത് അധിക ഡാറ്റാ നിരക്കുകൾക്ക് ഇടയാക്കിയേക്കാം. നിങ്ങളുടെ ഡാറ്റാ പ്ലാനിനേക്കുറിച്ചുള്ള വിശദാംശങ്ങൾക്ക് പ്രാദേശിക കാരിയറുമായി ബന്ധപ്പെടുക.</string>
+    <string name="vice_slot_volte_data_switch_summary">4G കോളുകൾക്കിടയിൽ, സെക്കൻഡറി സിം ഉപയോഗിച്ച് മൊബൈൽ ഡാറ്റ നെറ്റ്‌വർക്കിലേയ്ക്ക് ഉപകരണം കണക്റ്റുചെയ്യും</string>
+    <string name="vice_slot_volte_data_switch_title">സെക്കൻഡറി സിമ്മിൽ 4G കോളുകളുടെ സമയത്ത് മൊബൈൽ ഡാറ്റ ഉപയോഗിക്കുക</string>
+    <string name="volte_switch_summary">വോയ്സ്, കമ്മ്യൂണിക്കേഷൻ സേവനം മെച്ചപ്പെടുത്തുന്നതിന് 4G സേവനങ്ങൾ ഉപയോഗിക്കുക</string>
+    <string name="volte_switch_title">4G കോളുകൾ</string>
+    <string name="wificall_switch_title">വൈ-ഫൈ കോളിംഗ്</string>
+</resources>

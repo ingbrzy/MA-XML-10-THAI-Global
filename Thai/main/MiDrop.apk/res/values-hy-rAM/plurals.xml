@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d կոնտակտներ</item>
+        <item quantity="one">%d կոնտակտ</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">Ջնջե՞լ %d ընտրված ֆայլերը:</item>
+        <item quantity="one">Ջնջե՞լ %d ընտրված ֆայլը:</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">%1$s սարքերը մատչելի են</item>
+        <item quantity="one">%1$s սարքը մատչելի է</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">%1$d/%2$d ֆայլեր</item>
+        <item quantity="one">%1$d/%2$d ֆայլ</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">Փոխանցումը %1$s-ից չեղարկվեց</item>
+        <item quantity="one">Փոխանցումը %1$s-ից չեղարկվեց</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">%1$s ֆայլի ստացում…</item>
+        <item quantity="one">%1$s ֆայլի ստացում…</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">Հաջողությամբ ստացվեցին ֆայլեր %1$s-ից</item>
+        <item quantity="one">Հաջողությամբ ստացվեց ֆայլ %1$s-ից</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">%2$d ֆայլ՝ %1$s-ից</item>
+        <item quantity="one">%2$d ֆայլ՝ %1$s-ից</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">%1$s և %2$s այլ տարրեր արդեն փոխանցվում են:</item>
+        <item quantity="one">%1$s և %2$s այլ տարր արդեն փոխանցվում են:</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">Ընտրվել է %d տարր</item>
+        <item quantity="one">Ընտրվել է %d տարր</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%1$d տարր</item>
+        <item quantity="one">%1$d միավոր</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">Receive %1$d files (%2$s)</item>
+        <item quantity="one">Receive %1$d file (%2$s)</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">Send %1$d files (%2$s)</item>
+        <item quantity="one">Send %1$d file (%2$s)</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">Գտնվել են թարմացումներ %d հավելվածի համար</item>
+        <item quantity="one">Գտնվել է թարմացում %d հավելվածի համար</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%1$s-ը տարածել է %2$s տարր</item>
+        <item quantity="one">%1$s-ը տարածել է %2$s տարր</item>
+    </plurals>
+</resources>

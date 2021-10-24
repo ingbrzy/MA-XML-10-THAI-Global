@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">როგორც ჩანს, ბატარეა გათიშულია. თქვენი მოწყობილობა ითიშება %d წამში. ამ საკითხის მოსაგვარებლად დაუკავშირდით მომხმარებელთა მხარდაჭერის ცენტრს.</item>
+        <item quantity="one">როგორც ჩანს, ბატარეა გათიშულია. თქვენი მოწყობილობა ითიშება %d წამში. ამ საკითხის მოსაგვარებლად დაუკავშირდით მომხმარებელთა მხარდაჭერის ცენტრს.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ფაილი</item>
+        <item quantity="one">%1$d ფაილი</item>
+    </plurals>
+</resources>

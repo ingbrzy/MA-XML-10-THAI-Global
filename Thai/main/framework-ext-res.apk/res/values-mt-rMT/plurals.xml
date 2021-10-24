@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">"Milli jidher il-batterija m'għadhiex imqabbda. It-tagħmir tiegħek se jintefa fi żmien %d(-il) sekonda. Ikkuntattja lill-għajnuna lill-klijenti biex issolvi dil-problema."</item>
+        <item quantity="one">"Milli jidher il-batterija m'għadhiex imqabbda. It-tagħmir tiegħek se jintefa fi żmien sekonda %d. Ikkuntattja lill-għajnuna lill-klijenti biex issolvi dil-problema."</item>
+        <item quantity="few">"Milli jidher il-batterija m'għadhiex imqabbda. It-tagħmir tiegħek se jintefa fi żmien %d sekondi. Ikkuntattja lill-għajnuna lill-klijenti biex issolvi dil-problema."</item>
+        <item quantity="many">"Milli jidher il-batterija m'għadhiex imqabbda. It-tagħmir tiegħek se jintefa fi żmien %d(-il) sekonda. Ikkuntattja lill-għajnuna lill-klijenti biex issolvi dil-problema."</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d(-il) fajl</item>
+        <item quantity="one">Fajl %1$d</item>
+        <item quantity="few">%1$d fajls</item>
+        <item quantity="many">%1$d(-il) fajl</item>
+    </plurals>
+</resources>

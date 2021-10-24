@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d kontak</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">Hapus %d berkas terpilih?</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">%1$s perangkat tersedia</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">%1$d/%2$d berkas</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">Transfer dari %1$s dibatalkan</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">Menerima %1$s berkas…</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">Berhasil menerima berkas dari %1$s</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">%2$d berkas dari %1$s</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">%1$s dan %2$s item lainnya sudah ditransfer.</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">%d berkas terpilih</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%1$d berkas</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">Terima %1$d berkas (%2$s)</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">Kirim %1$d berkas (%2$s)</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">Menemukan pembaruan untuk %d apl</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%1$s telah berbagi %2$s item</item>
+    </plurals>
+</resources>

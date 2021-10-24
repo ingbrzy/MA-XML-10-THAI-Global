@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">لگتا ہے بیٹری منقطع ہو گئی ہے۔ آپ کا ڈیوائس %d سیکنڈ میں آف ہو جائے گا۔ اس مسئلے کو حل کرنے کے لیے کسٹمر سپورٹ سے رابطہ کریں۔</item>
+        <item quantity="one">لگتا ہے بیٹری منقطع ہو گئی ہے۔ آپ کا ڈیوائس %d سیکنڈ میں آف ہو جائے گا۔ اس مسئلے کو حل کرنے کے لیے کسٹمر سپورٹ سے رابطہ کریں۔</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d فائلیں</item>
+        <item quantity="one">%1$d فائل</item>
+    </plurals>
+</resources>

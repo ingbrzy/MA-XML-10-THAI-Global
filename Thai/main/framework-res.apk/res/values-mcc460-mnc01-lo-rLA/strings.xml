@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_missing_sim_instructions">ກະລຸນາໃສ່ແຜ່ນ USIM.</string>
+    <string name="lockscreen_missing_sim_instructions_long">ບໍ່ພົບແຜ່ນ USIM ຫຼືອ່ານບໍ່ໄດ້. ກະລຸນາໃສ່ແຜ່ນ USIM.</string>
+    <string name="lockscreen_missing_sim_message">ບໍ່ມີແຜ່ນ USIM ໃນໂທລະສັບ.</string>
+    <string name="lockscreen_missing_sim_message_short">ບໍ່ມີແຜ່ນ USIM.</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"ແຜ່ນ USIM ຂອງທ່ານຖືກປິດໃຊ້ງານຖາວອນ.
+ ກະລຸນາຕິດຕໍ່ຜູ້ໃຫ້ບໍລິການຂອງທ່ານເພື່ອຂໍອອກແຜ່ນ USIM ໃໝ່."</string>
+    <string name="lockscreen_sim_locked_message">ແຜ່ນ USIM ຖືກລັອກ.</string>
+    <string name="lockscreen_sim_puk_locked_message">ແຜ່ນ USIM ຖືກລັອກແບບ PUK.</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">ກຳລັງປົດລັອກແຜ່ນ USIM…</string>
+    <string name="needPuk">ແຜ່ນ USIM ຂອງທ່ານຖືກລັອກແບບ PUK. ປ້ອນລະຫັດ PUK ເພື່ອປົດລັອກ.</string>
+    <string name="needPuk2">ປ້ອນລະຫັດ PUK2 ເພື່ອຍົກເລີກການບລັອກແຜ່ນ USIM.</string>
+    <string name="permdesc_readSms">ອະນຸຍາດໃຫ້ແອັບເຂົ້າເຖິງ ຂໍ້ຄວາມ SMS ທີ່ເກັບໄວ້ໃນໂທລະສັບຫຼືແຜ່ນ USIM ຂອງທ່ານ. ອາດມີຜົນໃຫ້ ແອັບທີ່ປະສົງຮ້າຍເຂົ້າເຖິງຂໍ້ຄວາມລັບຂອງທ່ານ.</string>
+    <string name="sim_added_title">ເພີ່ມແຜ່ນ USIM ແລ້ວ</string>
+    <string name="sim_removed_message">ເຄືອຂ່າຍມືຖືຈະບໍ່ສາມາດໃຊ້ໄດ້ຈົນກວ່າທ່ານຈະໃສ່ແຜ່ນ USIM ທີ່ໃຊ້ງານໄດ້ແລະເປີດເຄື່ອງຄືນໃໝ່.</string>
+    <string name="sim_removed_title">ແຜ່ນ USIM ຖອດອອກແລ້ວ</string>
+    <string name="permdesc_writeSms">ອະນຸຍາດໃຫ້ແອັບສາມາດຂຽນທັບ ຂໍ້ຄວາມ SMS ທີ່ເກັບໄວ້ໃນໂທລະສັບຫຼືແຜ່ນ USIM ຂອງທ່ານ. ອາດມີຜົນໃຫ້ ແອັບທີ່ປະສົງຮ້າຍລົບຂໍ້ຄວາມຂອງທ່ານໄດ້.</string>
+</resources>

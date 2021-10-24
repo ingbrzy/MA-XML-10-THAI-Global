@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Waka na Fx</string>
+    <string name="bass_boost_strength">Goyon baya Bass</string>
+    <string name="ci_extreme">Na lantarki</string>
+    <string name="classical">Gargajiya</string>
+    <string name="dance">Rawa</string>
+    <string name="eq_dialog_title">Odiyo+ na Snapdragon</string>
+    <string name="flat">Na kwance</string>
+    <string name="folk">"Jama'a"</string>
+    <string name="headset_plug">Toshe belun kunne domin wanan salon.</string>
+    <string name="heavy_metal">Karfe mai nauyi</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="jazz">Jazz</string>
+    <string name="new_app_name">Aiwatar da sauti</string>
+    <string name="no_effects">Babu salo.</string>
+    <string name="normal">Daidai</string>
+    <string name="picker_title">Wurin gudanar da salo sauti</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="setup">Saitin</string>
+    <string name="user">Tsara da kanka</string>
+    <string name="virtualizer_strength">Sauti na kewaya</string>
+</resources>

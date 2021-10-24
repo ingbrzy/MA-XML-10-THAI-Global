@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">Батарея ажыратылған сияқты. Сіздің құрылғыңыз %d секунд ішінде өшіріледі. Осы мәселені шешу үшін клиенттерге қолдау қызметіне хабарласыңыз.</item>
+        <item quantity="one">Батарея ажыратылған сияқты. Сіздің құрылғыңыз %d секунд ішінде өшіріледі. Осы мәселені шешу үшін клиенттерге қолдау қызметіне хабарласыңыз.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d файл</item>
+        <item quantity="one">%1$d файл</item>
+    </plurals>
+</resources>

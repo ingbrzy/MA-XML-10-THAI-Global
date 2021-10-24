@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bugreport_countdown">
+        <item quantity="other">Ser jieħu ritratt tal-iskrin għar-rapport tal-bug %d(-il) sekonda oħra.</item>
+        <item quantity="one">Ser jieħu ritratt tal-iskrin għar-rapport tal-bug sekonda (%d) oħra.</item>
+        <item quantity="few">Ser jieħu ritratt tal-iskrin għar-rapport tal-bug %d sekondi oħra.</item>
+        <item quantity="many">Ser jieħu ritratt tal-iskrin għar-rapport tal-bug %d(-il) sekonda oħra.</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d(-il) jum ilu</item>
+        <item quantity="one">jum (%d) ilu</item>
+        <item quantity="few">%d ijiem ilu</item>
+        <item quantity="many">%d(-il) jum ilu</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">fi %d(-il) jum</item>
+        <item quantity="one">"f'jum (%d)"</item>
+        <item quantity="few">"f'%d ijiem"</item>
+        <item quantity="many">fi %d(-il) jum</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dj</item>
+        <item quantity="one">%dj</item>
+        <item quantity="few">%dj</item>
+        <item quantity="many">%dj</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">fi %d jum</item>
+        <item quantity="one">"f'jum (%d)"</item>
+        <item quantity="few">fi %d ijiem</item>
+        <item quantity="many">fi %d jum</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d(-il) siegħa ilu</item>
+        <item quantity="one">siegħa (%d) ilu</item>
+        <item quantity="few">%d sigħat ilu</item>
+        <item quantity="many">%d(-il) siegħa ilu</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">"f'%d(-il) siegħa"</item>
+        <item quantity="one">"f'siegħa (%d)"</item>
+        <item quantity="few">"f'%d sigħat"</item>
+        <item quantity="many">"f'%d(-il) siegħa"</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dsgħ</item>
+        <item quantity="one">%dsgħ</item>
+        <item quantity="few">%dsgħ</item>
+        <item quantity="many">%dsgħ</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">fi %d sigħat</item>
+        <item quantity="one">"f'siegħa (%d)"</item>
+        <item quantity="few">fi %d sigħat</item>
+        <item quantity="many">fi %d sigħat</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d(-il) minuta ilu</item>
+        <item quantity="one">minuta (%d) ilu</item>
+        <item quantity="few">%d minuti ilu</item>
+        <item quantity="many">%d(-il) minuta ilu</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">"f'%d(-il) minuta"</item>
+        <item quantity="one">"f'minuta (%d)"</item>
+        <item quantity="few">"f'%d minuti"</item>
+        <item quantity="many">"f'%d(-il) minuta"</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+        <item quantity="few">%dm</item>
+        <item quantity="many">%dm</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">fi %d xhur</item>
+        <item quantity="one">"f'xahar (%d)"</item>
+        <item quantity="few">fi %d xhur</item>
+        <item quantity="many">fi %d xhur</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d(-il) sena ilu</item>
+        <item quantity="one">sena (%d) ilu</item>
+        <item quantity="few">%d snin ilu</item>
+        <item quantity="many">%d(-il) sena ilu</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">fi %d(-il) sena</item>
+        <item quantity="one">"f'sena (%d)"</item>
+        <item quantity="few">"f'%d snin"</item>
+        <item quantity="many">fi %d(-il) sena</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dsn</item>
+        <item quantity="one">%dsen</item>
+        <item quantity="few">%dsn</item>
+        <item quantity="many">%dsn</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">fi %d sena</item>
+        <item quantity="one">"f'sena (%d)"</item>
+        <item quantity="few">fi %d snin</item>
+        <item quantity="many">fi %d sena</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">L-aħħar %d(-il) jum</item>
+        <item quantity="one">L-aħħar jum (%d)</item>
+        <item quantity="few">L-aħħar %d ijiem</item>
+        <item quantity="many">L-aħħar %d(-il) jum</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d minn %2$d</item>
+        <item quantity="one">taqbila</item>
+        <item quantity="few">%1$d minn %2$d</item>
+        <item quantity="many">%1$d minn %2$d</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Fadallek %d(-il) tentattiv ieħor qabel is-SIM tissakkar.</item>
+        <item quantity="one">Fadallek tentattiv %d ieħor qabel is-SIM tissakkar.</item>
+        <item quantity="few">Fadallek %d tentattivi oħra qabel is-SIM tissakkar.</item>
+        <item quantity="many">Fadallek %d(-il) tentattiv ieħor qabel is-SIM tissakkar.</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">"Erġa' pprova %d(-il) sekonda oħra"</item>
+        <item quantity="one">"Erġa' pprova sekonda oħra"</item>
+        <item quantity="few">"Erġa' pprova %d sekondi oħra"</item>
+        <item quantity="many">"Erġa' pprova %d(-il) sekonda oħra"</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">%1$d magħżula</item>
+        <item quantity="one">%1$d magħżul</item>
+        <item quantity="few">%1$d magħżula</item>
+        <item quantity="many">%1$d magħżula</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">L-awtoritajiet taċ-ċertifikati installati</item>
+        <item quantity="one">L-awtorità taċ-ċertifikati installata</item>
+        <item quantity="few">L-awtoritajiet taċ-ċertifikati installati</item>
+        <item quantity="many">L-awtoritajiet taċ-ċertifikati installati</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">Għal %d(-il) siegħa</item>
+        <item quantity="one">Għal siegħa</item>
+        <item quantity="few">Għal %d sigħat</item>
+        <item quantity="many">Għal %d(-il) siegħa</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_short">
+        <item quantity="other">Għal %d(-il) siegħa</item>
+        <item quantity="one">Għal siegħa</item>
+        <item quantity="few">Għal %d sigħat</item>
+        <item quantity="many">Għal %d(-il) siegħa</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">Għal %1$d(-il) siegħa (sa %2$s)</item>
+        <item quantity="one">Għal siegħa (sa %2$s)</item>
+        <item quantity="few">Għal %1$d sigħat (sa %2$s)</item>
+        <item quantity="many">Għal %1$d(-il) siegħa (sa %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary_short">
+        <item quantity="other">Għal %1$d(-il) sgħ (sa %2$s)</item>
+        <item quantity="one">Għal siegħa (sa %2$s)</item>
+        <item quantity="few">Għal %1$d sgħ (sa %2$s)</item>
+        <item quantity="many">Għal %1$d(-il) sgħ (sa %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">Għal %d(-il) minuta</item>
+        <item quantity="one">Għal minuta</item>
+        <item quantity="few">Għal %d minuti</item>
+        <item quantity="many">Għal %d(-il) minuta</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_short">
+        <item quantity="other">Għal %d(-il) min</item>
+        <item quantity="one">Għal minuta</item>
+        <item quantity="few">Għal %d min</item>
+        <item quantity="many">Għal %d(-il) min</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">Għal %1$d(-il) minuta (sa %2$s)</item>
+        <item quantity="one">Għal minuta (sa %2$s)</item>
+        <item quantity="few">Għal %1$d minuti (sa %2$s)</item>
+        <item quantity="many">Għal %1$d(-il) minuta (sa %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary_short">
+        <item quantity="other">Għal %1$d(-il) min (sa %2$s)</item>
+        <item quantity="one">Għal minuta (sa %2$s)</item>
+        <item quantity="few">Għal %1$d min (sa %2$s)</item>
+        <item quantity="many">Għal %1$d(-il) min (sa %2$s)</item>
+    </plurals>
+</resources>

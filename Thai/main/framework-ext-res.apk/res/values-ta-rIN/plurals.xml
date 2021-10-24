@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">பேட்டரி துண்டிக்கப்பட்டதாகத் தெரிகிறது. உங்கள் சாதனம் %d வினாடியில் அணைக்கப்படும். இந்தச் சிக்கலைச் சரிசெய்ய, வாடிக்கையாளர் ஆதரவைத் தொடர்பு கொள்ளவும்.</item>
+        <item quantity="one">பேட்டரி துண்டிக்கப்பட்டதாகத் தெரிகிறது. உங்கள் சாதனம் %d வினாடியில் அணைக்கப்படும். இந்தச் சிக்கலைச் சரிசெய்ய, வாடிக்கையாளர் ஆதரவைத் தொடர்பு கொள்ளவும்.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d கோப்புகள்</item>
+        <item quantity="one">%1$d கோப்பு</item>
+    </plurals>
+</resources>

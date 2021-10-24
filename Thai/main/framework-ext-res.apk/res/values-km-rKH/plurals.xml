@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">មើលទៅថ្មដូចជាមិនបានតភ្ជាប់ទេ។ ឧបករណ៍របស់អ្នកនឹងត្រូវបានបិទក្នុងរយៈពេល %d វិនាទី។ សូមទាក់ទងផ្នែកគាំទ្រអតិថិជនដើម្បីដោះស្រាយបញ្ហានេះ។</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">ឯកសារ %1$d</item>
+    </plurals>
+</resources>

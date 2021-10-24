@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">Badirudi bateria deskonektatuta dagoela. Zure gailua itzaliko da %d segundoan. Jarri harremanetan bezeroarentzako arreta-zerbitzuarekin arazo hori konpontzeko.</item>
+        <item quantity="one">Badirudi bateria deskonektatuta dagoela. Zure gailua itzaliko da %d segundoan. Jarri harremanetan bezeroarentzako arreta-zerbitzuarekin arazo hori konpontzeko.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d fitxategi</item>
+        <item quantity="one">Fitxategi %1$d</item>
+    </plurals>
+</resources>

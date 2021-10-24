@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">"Da alamar batir ya cire. Za'a kashe na'urarka a tsakanin sakan %d. Tuntuɓi kulawa da abokin ciniki don warware wannan matsala."</item>
+        <item quantity="one">"Da alamar batir ya cire. Za'a kashe na'urarka a tsakanin sakan %d. Tuntuɓi kulawa da abokin ciniki don warware wannan matsala."</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">Fayiloli %1$d</item>
+        <item quantity="one">Fayil %1$d</item>
+    </plurals>
+</resources>

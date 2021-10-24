@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">Telefonati Wi-Fi</string>
+    <string name="vice_slot_volte_data_switch_prompt">"It-tagħmir tiegħek se jaqbad ma' netwerk tad-dejta tal-mowbajl permezz tat-tieni SIM waqt li jkun hemm telefonati 4G għaddejja. Minħabba f'hekk jaf teħel iktar spejjeż tad-dejta. Ikkuntattja lill-operatur lokali tiegħek għad-dettalji tal-pjan tad-dejta tiegħek."</string>
+    <string name="vice_slot_volte_data_switch_summary">"Waqt it-telefonati 4G, it-tagħmir se jaqbad ma' netwerk tad-dejta tal-mowbajl billi juża t-tieni SIM"</string>
+    <string name="vice_slot_volte_data_switch_title">Uża d-dejta tal-mowbajl waqt it-telefonati 4G fuq it-tieni SIM</string>
+    <string name="volte_switch_summary">Uża s-servizzi 4G biex ittejjeb is-servizz tal-vuċi u tal-komunikazzjoni</string>
+    <string name="volte_switch_title">Telefonati 4G</string>
+    <string name="wificall_switch_title">Telefonati bil-Wi-Fi</string>
+</resources>

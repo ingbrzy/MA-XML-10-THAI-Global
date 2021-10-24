@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">"বেটাৰী সংযোগহীন হোৱাৰ দৰে লাগিছে। আপোনাৰ ডিভাইচটো %d ছেকেণ্ডৰ ভিতৰত পাৱাৰ অফ হ'ব। এই সমস্যা সমাধানৰ বাবে গ্ৰাহক সমৰ্থনৰ সৈতে যোগাযোগ কৰক।"</item>
+        <item quantity="one">"বেটাৰী সংযোগহীন হোৱাৰ দৰে লাগিছে। আপোনাৰ ডিভাইচটো %d ছেকেণ্ডৰ ভিতৰত পাৱাৰ অফ হ'ব। এই সমস্যা সমাধানৰ বাবে গ্ৰাহক সমৰ্থনৰ সৈতে যোগাযোগ কৰক।"</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d টা ফাইল</item>
+        <item quantity="one">%1$d টা ফাইল</item>
+    </plurals>
+</resources>

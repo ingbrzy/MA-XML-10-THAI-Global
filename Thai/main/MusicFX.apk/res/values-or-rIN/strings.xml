@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ମ୍ୟୁଜିକ୍FX</string>
+    <string name="bass_boost_strength">ବାସ ବୁଷ୍ଟ</string>
+    <string name="ci_extreme">ଇଲେକଟ୍ରୋନିକ</string>
+    <string name="classical">କ୍ଲାସିକାଲ</string>
+    <string name="dance">ଡ୍ୟାନ୍ସ</string>
+    <string name="eq_dialog_title">Snapdragon ଅଡିଓ+</string>
+    <string name="flat">ଫ୍ଲାଟ</string>
+    <string name="folk">ଲୋକ</string>
+    <string name="headset_plug">ଏହି ପ୍ରଭାବଗୁଡ଼ିକ ପାଇଁ ହେଡଫୋନ ପ୍ଲଗ ଇନ୍ କରନ୍ତୁ |</string>
+    <string name="heavy_metal">ଓଜନିଆ ଧାତୁ</string>
+    <string name="hip_hop">ହିପ ହପ</string>
+    <string name="jazz">ଜାଜ୍</string>
+    <string name="new_app_name">ଅଡିଓଇଫେକ୍ଟ</string>
+    <string name="no_effects">ପ୍ରଭାବଗୁଡ଼ିକ ଉପଲବ୍ଧ ନାହିଁ |</string>
+    <string name="normal">ସ୍ୱାଭାବିକ</string>
+    <string name="picker_title">ମ୍ୟୁଜିକ ପ୍ରଭାବ ନିୟନ୍ତ୍ରଣ ପ୍ୟାନେଲ\"</string>
+    <string name="pop">ପପ୍</string>
+    <string name="rock">ରକ୍</string>
+    <string name="setup">ସେଟଅପ</string>
+    <string name="user">କଷ୍ଟମ</string>
+    <string name="virtualizer_strength">ସରାଉଣ୍ଡ ସାଉଣ୍ଡ</string>
+</resources>

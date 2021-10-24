@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">ଜଣାପଡ଼ୁଛି ବ୍ୟାଟେରୀ ବିଚ୍ଛିନ୍ନ ହୋଇଛି। %d ସେକେଣ୍ଡରେ ଆପଣଙ୍କ ଡିଭାଇସର ପାୱାର ବନ୍ଦ ହେବ। ଏଇ ସମସ୍ୟାର ସମାଧାନ କରିବାକୁ ଗ୍ରାହକ ସପୋର୍ଟକୁ ଯୋଗାଯୋଗ କରନ୍ତୁ।</item>
+        <item quantity="one">ଜଣାପଡ଼ୁଛି ବ୍ୟାଟେରୀ ବିଚ୍ଛିନ୍ନ ହୋଇଛି। %d ସେକେଣ୍ଡରେ ଆପଣଙ୍କ ଡିଭାଇସର ପାୱାର ବନ୍ଦ ହେବ। ଏଇ ସମସ୍ୟାର ସମାଧାନ କରିବାକୁ ଗ୍ରାହକ ସପୋର୍ଟକୁ ଯୋଗାଯୋଗ କରନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ଫାଇଲ୍</item>
+        <item quantity="one">%1$d ଫାଇଲ୍‌</item>
+    </plurals>
+</resources>

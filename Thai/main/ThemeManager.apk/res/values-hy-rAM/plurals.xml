@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ժամ առաջ</item>
+        <item quantity="one">1 ժամ առաջ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ժամ առաջ</item>
+        <item quantity="one">1 ժամ առաջ</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Կես ժամ առաջ</item>
+        <item quantity="one">Կես ժամ առաջ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 ժամում</item>
+        <item quantity="one">1 ժամում</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Կես ժամից</item>
+        <item quantity="one">Կես ժամից</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Անմիջապես</item>
+        <item quantity="one">Անմիջապես</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d րոպեից</item>
+        <item quantity="one">1 րոպեից</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Հենց հիմա</item>
+        <item quantity="one">Հենց հիմա</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d րոպե առաջ</item>
+        <item quantity="one">1 րոպե առաջ</item>
+    </plurals>
+    <plurals name="account_coins_num">
+        <item quantity="other">%1s մետաղադրամներ</item>
+        <item quantity="one">%1s մետաղադրամ</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Կես ժամ առաջ</item>
+        <item quantity="one">Կես ժամ առաջ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 ժամում</item>
+        <item quantity="one">1 ժամում</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Կես ժամից</item>
+        <item quantity="one">Կես ժամից</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Անմիջապես</item>
+        <item quantity="one">Անմիջապես</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d րոպեից</item>
+        <item quantity="one">1 րոպեից</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Հենց հիմա</item>
+        <item quantity="one">Հենց հիմա</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ընտրված օբյեկտ</item>
+        <item quantity="one">%d ընտրված օբյեկտ</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d րոպե առաջ</item>
+        <item quantity="one">1 րոպե առաջ</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$d coin = %2$d IDR
+Coins վերադարձելի չեն"</item>
+        <item quantity="one">"%1$d coin = %2$d IDR
+Coins վերադարձելի չեն"</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">%d աշխատանքներ</item>
+        <item quantity="one">%d աշխատանք</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data>Ավարտելով վճարումը, դուք համաձայնվում եք &lt;a href=\"%1$s\">Ծանուցում հավելվածների գնումների մասին&lt;/a>.&lt;br>Փոխհատուցումները հասանելի են հետևյալի համար &lt;xliff:g id=time>%2$d&lt;/xliff:g> ժամեր գնումներ կատարելուց հետո:&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ավարտելով վճարումը, դուք համաձայնվում եք &lt;a href=\"%1$s\">Ծանուցում հավելվածների գնումների մասին&lt;/a>.&lt;br>Փոխհատուցումները հասանելի են հետևյալի համար &lt;xliff:g id=time>%2$d&lt;/xliff:g> ժամ գնումներ կատարելուց հետո:&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">Պատվերն ավարտվել է ավելի քան %d ժամ առաջ: Ուղարկեք մեզ էլ.փոստ։</item>
+        <item quantity="one">Պատվերն ավարտվել է ավելի քան %d ժամ առաջ: Ուղարկեք մեզ էլ.փոստ։</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">Մետաղադրամները կստանաք %d ժամվա ընթացքում:</item>
+        <item quantity="one">Մետաղադրամները կստանաք %d ժամվա ընթացքում:</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d մեկնաբանություններ</item>
+        <item quantity="one">%d մեկնաբանություն</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">Ներբեռնված %1$s տառատեսակը հաջողությամբ</item>
+        <item quantity="one">Ներբեռնված %1$s տառատեսակը հաջողությամբ</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">Ներբեռնված %1$s թեմաները հաջողությամբ</item>
+        <item quantity="one">Ներբեռնված %1$s թեման հաջողությամբ</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s աշխատանք</item>
+        <item quantity="one">%1$s աշխատանք</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d նկարներ</item>
+        <item quantity="one">%1$s | %2$d նկար</item>
+    </plurals>
+</resources>

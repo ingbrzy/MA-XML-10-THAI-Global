@@ -437,6 +437,7 @@
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -483,6 +484,7 @@
     <string name="note_gesture_guide_step3">กดโน้ตค้างไว้แล้วลากไปไว้เหนือโฟลเดอร์เพื่อย้ายโน้ตไปที่นั่น</string>
     <string name="note_header_first_enter_guide">ดึงลงเพื่อดูเพิ่มเติม</string>
     <string name="note_invalid_mindnote_hint">ไม่มี Mind Maps เวอร์ชันนี้ อัปเดตแอปเพื่อใช้คุณสมบัตินี้</string>
+    <string name="note_item_default_title">บันทึกเปล่า</string>
     <string name="note_link_email">เขียนอีเมล</string>
     <string name="note_link_other">เปิดใช้แอปแผนที่</string>
     <string name="note_link_select">เลือกข้อความ</string>
@@ -496,6 +498,7 @@
     <string name="note_sort_way">จัดเรียง</string>
     <string name="notealert_enter">เปิดบันทึก</string>
     <string name="notealert_ok">เลิกแสดง</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">บันทึกย่อ เป็นแอประบบ คุณจะไม่สามารถใช้แอปนี้ได้หลังจากถอนการติดตั้ง</string>
     <string name="notes_description_title">ถอนการติดตั้ง บันทึกย่อ?</string>
     <string name="notification_content_add_todo_from_other_app">คุณได้เพิ่มงานใหม่ แตะเพื่อดู</string>
@@ -554,6 +557,12 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">เลื่อนนิ้ว 2 นิ้วขึ้นเพื่อลบบันทึกย่อโดยไม่ต้องมีการยืนยัน</string>
     <string name="pref_desc_todo_float_mode">เลื่อนจากขอบของหน้าจอเพื่อเปิดกล่องเครื่องมืองาน</string>
     <string name="pref_excerpt_link_float">รับการแจ้งเตือนให้สร้างข้อความที่ตัดตอนมาทุกครั้งที่คัดลอก URL</string>
+    <string name="pref_permission_allowed">Granted</string>
+    <string name="pref_permission_manage">Permissions details</string>
+    <string name="pref_permission_manage_key_contact">Access contacts</string>
+    <string name="pref_permission_manage_key_recording">Record audio</string>
+    <string name="pref_permission_manage_key_storage">Access storage</string>
+    <string name="pref_permission_not_allowed">Not granted</string>
     <string name="pref_quick_note_desc">ใช้ทางลัดที่ขอบของหน้าจอเพื่อสร้างบันทึกย่อและงานตลอดจนบันทึก URL ข้อความและรูปภาพที่คัดลอกไปยัง บันทึกย่อ</string>
     <string name="pref_remind_type_summary">เล่นเสียงเตือนในโหมดปิดเสียง</string>
     <string name="pref_remind_type_summary_new">เพิกเฉยโหมดเงียบและเล่นเสียงต่อไปจนกว่าสัญญาณเตือนจะปิด</string>
@@ -870,6 +879,9 @@
     <string name="widget_size_item_2x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x4">%1$d×%2$d</string>
+    <string name="widget_size_item_big">ใหญ่</string>
+    <string name="widget_size_item_medium">กลาง</string>
+    <string name="widget_size_item_small">เล็ก</string>
     <string name="widget_take_notes_title">บันทึกย่อ</string>
     <string name="yesterday">เมื่อวาน</string>
 </resources>

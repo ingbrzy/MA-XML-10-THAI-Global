@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">Kira na Wi-Fi</string>
+    <string name="vice_slot_volte_data_switch_prompt">"Na'urar ka zai yi amfani da Layin waya na biyu ya hada da hanyar sadarwar bayanan mobayil a lokacin kiran 4G. Wanna n na iya jawo karin cajin ka na kudi. Tumtubi kamfanin sadarwa na wurin da kake domin ka samu karin bayani game da tsarin bayanan intanet din ka."</string>
+    <string name="vice_slot_volte_data_switch_summary">"A lokacin kira na 4G, na'aurar zai yi amfani da Layin waya na biyu ya hada da hanyar sadarwar bayanan mobayil"</string>
+    <string name="vice_slot_volte_data_switch_title">Yi amfani da bayanan mobayil a lokacin kira na 4G akan Layin waya na biyu</string>
+    <string name="volte_switch_summary">Yi amfani da hanyar sadarwa na 4G don ka gyara murya da sabisin sadarwa</string>
+    <string name="volte_switch_title">Kira na 4G</string>
+    <string name="wificall_switch_title">Kira na Wi-Fi</string>
+</resources>

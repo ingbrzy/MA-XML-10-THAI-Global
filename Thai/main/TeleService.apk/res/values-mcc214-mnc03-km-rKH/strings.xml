@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">ការហៅ​​តាម​​ប្រព័ន្ធ Wi-Fi</string>
+    <string name="vice_slot_volte_data_switch_prompt">ឧបករណ៍របស់អ្នកនឹងភ្ជាប់ទៅបណ្តាញទិន្នន័យចល័តដោយប្រើស៊ីមបន្ទាប់នៅក្នុងការហៅ 4G ដែលកំពុងដំណើរការ។ នេះអាចបង្កើតថ្លៃទិន្នន័យបន្ថែម។ ទាក់ទងក្រុមហ៊ុនអាកាសចរណ៍ក្នុងស្រុករបស់អ្នកសម្រាប់ព័ត៌មានលម្អិតអំពីផែនការទិន្នន័យរបស់អ្នក។</string>
+    <string name="vice_slot_volte_data_switch_summary">ក្នុងអំឡុងពេលនៃការហៅទូរស័ព្ទ 4G ឧបករណ៍នឹងភ្ជាប់ទៅបណ្តាញទិន្នន័យចល័តដោយប្រើស៊ីមទីពីរ</string>
+    <string name="vice_slot_volte_data_switch_title">ប្រើទិន្នន័យចល័តក្នុងអំឡុងពេលការហៅ 4G នៅលើស៊ីមកាតទីពីរ</string>
+    <string name="volte_switch_summary">ប្រើសេវាបណ្តាញ 4G ដើម្បីបង្កើនគុណភាព និងសេវាទំនាក់ទំនង</string>
+    <string name="volte_switch_title">ការហៅ​ ​4G</string>
+    <string name="wificall_switch_title">ការហៅ​លើ​ប្រព័ន្ធ Wi-Fi</string>
+</resources>

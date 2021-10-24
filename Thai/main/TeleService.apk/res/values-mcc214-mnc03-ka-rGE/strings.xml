@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">Wi-Fi ზარები</string>
+    <string name="vice_slot_volte_data_switch_prompt">თქვენი მოწყობილობა დაუკავშირდება მობილურ მონაცემთა ქსელს მეორე სიმ ბარათის გამოყენებით, მიმდინარე 4G-ის ზარების დროს. ამან შესაძლოა გამოიწვიოს დამატებითი ხარჯები. დაუკავშირდით თქვენს ადგილობრივ ოპერატორს თქვენი მონაცემთა გეგმის შესახებ.</string>
+    <string name="vice_slot_volte_data_switch_summary">4G ზარის განხორციელების დროს, მოწყობილობა უკავშირდება მობილურ მონაცემთა ქსელს მეორე SIM-ის გამოყენებით</string>
+    <string name="vice_slot_volte_data_switch_title">გამოიყენეთ მობილური მონაცემები მეორე SIM ბარათზე 4G ზარების განხორციელებისას</string>
+    <string name="volte_switch_summary">გამოიყენეთ 4G ქსელი ხმისა და კომუნიკაციების სერვისების გასაუმჯობესებლად</string>
+    <string name="volte_switch_title">4G ზარები</string>
+    <string name="wificall_switch_title">Wi-Fi ზარები</string>
+</resources>

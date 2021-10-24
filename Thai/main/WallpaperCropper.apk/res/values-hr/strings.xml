@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Obreži pozadinu</string>
+    <string name="wallpaper_instructions">Postavi pozadinu</string>
+    <string name="wallpaper_load_fail">"Učitavanje slike kao pozadine nije uspjelo"</string>
+</resources>

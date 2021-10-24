@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">वाई-फ़ाई कॉलें</string>
+    <string name="vice_slot_volte_data_switch_prompt">4G कॉल किए जाने के दौरान, आपका डिवाइस द्वितीयक सिम का उपयोग करके मोबाइल डेटा नेटवर्क से कनेक्ट करेगा. इसके लिए अतिरिक्त डेटा शुल्क लिया जा सकता है. अपने डेटा प्लान के बारे में विस्तार से जानने के लिए अपने स्थानीय मोबाइल ऑपरेटर से संपर्क करें.</string>
+    <string name="vice_slot_volte_data_switch_summary">4G कॉल के दौरान, डिवाइस द्वितीयक सिम का उपयोग करके मोबाइल डेटा नेटवर्क से कनेक्ट करेगा</string>
+    <string name="vice_slot_volte_data_switch_title">द्वितीयक सिम में 4G कॉल के दौरान मोबाइल डेटा का उपयोग करें</string>
+    <string name="volte_switch_summary">आवाज़ और संचार सेवा को बेहतर बनाने के लिए 4G सेवाओं का उपयोग करें</string>
+    <string name="volte_switch_title">4G कॉल</string>
+    <string name="wificall_switch_title">वाई-फ़ाई कॉलिंग</string>
+</resources>

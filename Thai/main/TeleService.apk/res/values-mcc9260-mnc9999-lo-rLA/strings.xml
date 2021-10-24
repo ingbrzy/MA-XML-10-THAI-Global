@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_data_preference_4g_only_prompt">ທ່ານມີແຜ່ນ SIM ສະເພາະ LTE ເທົ່ານັ້ນ. ເພື່ອໃຫ້ແນ່ໃຈວ່າເຮັດວຽກໄດ້ຕາມປົກກະຕິ, ຕັ້ງເປັນຄ່າເລີ່ມຕົ້ນສຳລັບຂໍ້ມູນມືຖື. ຕັ້ງຄ່າຕອນນີ້ບໍ່?</string>
+    <string name="change_data_sim_4g_only_prompt">SIM %1$s ຮອງຮັບສະເພາະ LTE ເທົ່ານັ້ນ. ເມື່ອ SIM %2$s ບໍ່ແມ່ນຄ່າເລີ່ມຕົ້ນສຳລັບຂໍ້ມູນມືຖືຂອງທ່ານ, ແຜ່ນ SIM ອາດຈະເຮັດວຽກບໍ່ເປັນປົກກະຕິ. ສັບປ່ຽນຕອນນີ້ບໍ?</string>
+    <string name="dual_4g_switch_summary">ອະນຸຍາດໃຫ້ເຊື່ອມຕໍ່ LTE ທັງສອງ SIM</string>
+    <string name="dual_4g_switch_title">Dual LTE</string>
+    <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE ຕ້ອງການການເຊື່ອມຕໍ່ LTE ທັງສອງ SIM. ສັບປ່ຽນເປັນ Dual LTE ຕອນນີ້ບໍ?</string>
+    <string name="opened_dual_4g_confirm_prompt">ທ່ານມີແຜ່ນ SIM ສະເພາະ LTE ເທົ່ານັ້ນ. Dual LTE ຖືກເປີດໂດຍອັດຕະໂນມັດ.</string>
+    <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s ຮອງຮັບສະເພາະ LTE ເທົ່ານັ້ນ. ເພື່ອໃຫ້ແນ່ໃຈວ່າແຜ່ນ SIM ຂອງທ່ານເຮັດວຽກເປັນປົກກະຕິ, Dual LTE ຖືກເປີດໃຊ້ງານ.</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred">ເລືອກໃຊ້ LTE ກ່ອນ</string>
+    <string name="turn_off_dual_4g_failed">ບໍ່ສາມາດປິດ Dual LTE.</string>
+    <string name="turn_on_dual_4g_failed">ບໍ່ສາມາດເປີດ Dual LTE.</string>
+    <string name="volte_switch_summary">ໃຊ້ VoLTE ເພື່ອປັບປຸງຄຸນະພາບຂອງການໂທ</string>
+</resources>

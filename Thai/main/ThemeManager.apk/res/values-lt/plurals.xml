@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Prieš 1 valandą</item>
+        <item quantity="one">Prieš 1 valandą</item>
+        <item quantity="few">Prieš 1 valandą</item>
+        <item quantity="many">Prieš 1 valandą</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Prieš 1 valandą</item>
+        <item quantity="one">Prieš 1 valandą</item>
+        <item quantity="few">Prieš 1 valandą</item>
+        <item quantity="many">Prieš 1 valandą</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Prieš pusvalandį</item>
+        <item quantity="one">Prieš pusvalandį</item>
+        <item quantity="few">Prieš pusvalandį</item>
+        <item quantity="many">Prieš pusvalandį</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Po 1 valandos</item>
+        <item quantity="one">Po 1 valandos</item>
+        <item quantity="few">Po 1 valandos</item>
+        <item quantity="many">Po 1 valandos</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Po pusvalandžio</item>
+        <item quantity="one">Po pusvalandžio</item>
+        <item quantity="few">Po pusvalandžio</item>
+        <item quantity="many">Po pusvalandžio</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Dabar</item>
+        <item quantity="one">Dabar</item>
+        <item quantity="few">Dabar</item>
+        <item quantity="many">Dabar</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">po %d min.</item>
+        <item quantity="one">po 1 min</item>
+        <item quantity="few">po %d min.</item>
+        <item quantity="many">po %d min.</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Ką tik</item>
+        <item quantity="one">Ką tik</item>
+        <item quantity="few">Ką tik</item>
+        <item quantity="many">Ką tik</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Prieš %d minučių</item>
+        <item quantity="one">Prieš 1 minutę</item>
+        <item quantity="few">Prieš %d minutes</item>
+        <item quantity="many">Prieš %d minutes</item>
+    </plurals>
+    <plurals name="account_coins_num">
+        <item quantity="other">%1s monetos</item>
+        <item quantity="one">%1s moneta</item>
+        <item quantity="few">%1s monetos</item>
+        <item quantity="many">%1s monetos</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prieš pusvalandį</item>
+        <item quantity="one">Prieš pusvalandį</item>
+        <item quantity="few">Prieš pusvalandį</item>
+        <item quantity="many">Prieš pusvalandį</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Po 1 valandos</item>
+        <item quantity="one">Po 1 valandos</item>
+        <item quantity="few">Po 1 valandos</item>
+        <item quantity="many">Po 1 valandos</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Po pusvalandžio</item>
+        <item quantity="one">Po pusvalandžio</item>
+        <item quantity="few">Po pusvalandžio</item>
+        <item quantity="many">Po pusvalandžio</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Dabar</item>
+        <item quantity="one">Dabar</item>
+        <item quantity="few">Dabar</item>
+        <item quantity="many">Dabar</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">po %d minučių</item>
+        <item quantity="one">po 1 minutės</item>
+        <item quantity="few">po %d minučių</item>
+        <item quantity="many">po %d minučių</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Ką tik</item>
+        <item quantity="one">Ką tik</item>
+        <item quantity="few">Ką tik</item>
+        <item quantity="many">Ką tik</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Pasirinkta %d elementų</item>
+        <item quantity="one">Pasirinktas %d elementas</item>
+        <item quantity="few">Pasirinkti %d elementai</item>
+        <item quantity="many">Pasirinkta %d elemento</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Prieš %d minučių</item>
+        <item quantity="one">Prieš 1 minutę</item>
+        <item quantity="few">Prieš %d minutes</item>
+        <item quantity="many">Prieš %d minutes</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$d monetos= %2$d IDR
+Monetos negrąžinamos"</item>
+        <item quantity="one">"%1$d moneta= %2$d IDR
+Monetos negrąžinamos"</item>
+        <item quantity="few">"%1$d monetos= %2$d IDR
+Monetos negrąžinamos"</item>
+        <item quantity="many">"%1$d monetos= %2$d IDR
+Monetos negrąžinamos"</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">%d darbų</item>
+        <item quantity="one">%d darbas</item>
+        <item quantity="few">%d darbai</item>
+        <item quantity="many">%d darbai</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data>Įvykdydami mokėjimą, jūsų sutinkate su &lt;a href=\"%1$s\">Pranešimas apie pirkimą programoje&lt;/a>.&lt;br>Grąžinamosios išmokos galimos&lt;xliff:g id=time>%2$d&lt;/xliff:g> valandas po pirkimo.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Įvykdydami mokėjimą, jūsų sutinkate su &lt;a href=\"%1$s\">Pranešimas apie pirkimą programoje&lt;/a>.&lt;br>Grąžinamosios išmokos galimos&lt;xliff:g id=time>%2$d&lt;/xliff:g> valandą po pirkimo.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Įvykdydami mokėjimą, jūsų sutinkate su &lt;a href=\"%1$s\">Pranešimas apie pirkimą programoje&lt;/a>.&lt;br>Grąžinamosios išmokos galimos&lt;xliff:g id=time>%2$d&lt;/xliff:g> valandas po pirkimo.&lt;/Data></item>
+        <item quantity="many">&lt;Data>Įvykdydami mokėjimą, jūsų sutinkate su &lt;a href=\"%1$s\">Pranešimas apie pirkimą programoje&lt;/a>.&lt;br>Grąžinamosios išmokos galimos&lt;xliff:g id=time>%2$d&lt;/xliff:g> valandas po pirkimo.&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">Užsakymas buvo įvykdytas daugiau nei prieš %d valandų. Išsiųskite mums el. laišką.</item>
+        <item quantity="one">Užsakymas buvo įvykdytas daugiau nei prieš %d valandą. Išsiųskite mums el. laišką.</item>
+        <item quantity="few">Užsakymas buvo įvykdytas daugiau nei prieš %d valandų. Išsiųskite mums el. laišką.</item>
+        <item quantity="many">Užsakymas buvo įvykdytas daugiau nei prieš %d valandų. Išsiųskite mums el. laišką.</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">Gausite monetas per %d valandų.</item>
+        <item quantity="one">Gausite monetas per %d valandos.</item>
+        <item quantity="few">Gausite monetas per %d valandų.</item>
+        <item quantity="many">Gausite monetas per %d valandų.</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d komentarų</item>
+        <item quantity="one">%d komentaras</item>
+        <item quantity="few">%d komentarai</item>
+        <item quantity="many">%d komentaro</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">%1$s šriftų sėkmingai atsiųsta</item>
+        <item quantity="one">%1$s šriftas sėkmingai atsiųstas</item>
+        <item quantity="few">%1$s šriftai sėkmingai atsiųsti</item>
+        <item quantity="many">%1$s šriftai sėkmingai atsiųsti</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">%1$s temų sėkmingai atsiųsta</item>
+        <item quantity="one">%1$s tema sėkmingai atsiųsta</item>
+        <item quantity="few">%1$s temos sėkmingai atsiųstos</item>
+        <item quantity="many">%1$s temos sėkmingai atsiųstos</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s kūrinių</item>
+        <item quantity="one">%1$s kūrinys</item>
+        <item quantity="few">%1$s kūriniai</item>
+        <item quantity="many">%1$s kūrinių</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d vaizdų</item>
+        <item quantity="one">%1$s | %2$d vaizdas</item>
+        <item quantity="few">%1$s | %2$d vaizdai</item>
+        <item quantity="many">%1$s | %2$d vaizdo</item>
+    </plurals>
+</resources>

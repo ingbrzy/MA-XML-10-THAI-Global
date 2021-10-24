@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">Wi-Fi qo‘ng‘iroqlar</string>
+    <string name="vice_slot_volte_data_switch_prompt">4G qo‘ng‘iroqlari paytida qurilmangiz ikkinchi SIM-karta orqali mobil internetga ulanadi. Bu qo‘shimcha to‘lovlarni amalga oshirishi mumkin. Tarif rejangiz haqida batafsil ma’lumotga ega bo‘lish uchun mahalliy operatoringiz bilan bog‘laning.</string>
+    <string name="vice_slot_volte_data_switch_summary">4G qo‘ng‘iroqlari paytida, qurilma ikkinchi SIM-karta orqali mobil internetga bog‘lanadi</string>
+    <string name="vice_slot_volte_data_switch_title">4G qo‘ng‘iroqlari paytida ikkinchi SIM-karta orqali mobil internetni ishlatish</string>
+    <string name="volte_switch_summary">Ovozli va aloqa xizmatini yaxshilash uchun 4G xizmatlarini ishlating</string>
+    <string name="volte_switch_title">4G qo‘ng‘iroqlari</string>
+    <string name="wificall_switch_title">Wi-Fi qo‘ng‘iroq</string>
+</resources>

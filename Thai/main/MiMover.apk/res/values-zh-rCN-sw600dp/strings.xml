@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="trans_show_qr_code_label">请在旧设备上打开小米换机APP</string>
+    <string name="trans_sync_transfer_data_list">旧设备上选择迁移数据</string>
+</resources>

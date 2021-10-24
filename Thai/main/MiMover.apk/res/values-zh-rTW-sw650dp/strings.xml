@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ble_connect_request_hint">檢測到附近有其他裝置正在等待換機，請確認是否與其連線</string>
+    <string name="ble_discovery_connect_request_title">發現可連線的裝置</string>
+    <string name="ble_guest_connecting_title">正在連線新裝置</string>
+    <string name="ble_host_verification_summary">為保證資料安全，請在舊裝置上輸入%d位驗證碼</string>
+    <string name="ble_host_verification_title">連接舊裝置</string>
+    <string name="ble_wait_verify_code">等待新裝置生成驗證碼...</string>
+    <string name="close_cellular_summary">由於系統限制，目前網路連線為行動網路，請您關閉行動網路後重新連線新裝置</string>
+    <string name="close_vpn_summary">檢測到裝置目前開啟了VPN，小米換機無法成功連線另一部裝置，請關閉VPN後進行換機操作</string>
+    <string name="dialog_request_permission_message">歡迎使用小米換機，您可使用本應用程式將舊裝置或iCloud資料遷移到新設備 。在使用本應用程式的過程中，我們將連網並向您申請以下權限：</string>
+    <string name="guest_hint_connect_new_device">選擇新裝置</string>
+    <string name="install_app_old_title">掃碼安裝小米換機</string>
+    <string name="main_receiver_summary">我是新裝置</string>
+    <string name="main_sender_summary">我是舊裝置</string>
+    <string name="manual_connection_hint">請在舊裝置底部點擊“手動連線”</string>
+    <string name="manual_connection_title">舊裝置連線下方熱點</string>
+    <string name="new_trans_intro_desc_2">新版“小米換機APP”無需手動輸入熱點密碼，請在舊裝置上打開小米換機APP，點擊我是舊裝置，等待片刻即可在螢幕上看到附近新裝置的熱點，點擊您要連線的新裝置熱點即可。</string>
+    <string name="new_trans_intro_desc_6">因為小米換機在非小米裝置上無對應權限，因此無法遷移應用程式資料。</string>
+    <string name="new_trans_intro_desc_7">小米換機具有斷點續傳的功能，在兩台裝置重新連線後可以選擇繼續傳輸。但是由於機型及傳輸資料大小等因素，備份資料的時間可能會不同，在未完成備份的情況下中斷傳輸，重連後不會繼續傳輸。</string>
+    <string name="new_trans_intro_desc_8">若您在新裝置上已經使用過微信，從舊裝置遷移微信聊天記錄時，會覆蓋新裝置的聊天記錄。</string>
+    <string name="new_trans_intro_desc_new">1.請確認您的新裝置已經安裝了最新版“小米換機APP”，而非“小米一鍵換機APP”。若未安裝請%1$s或前往小米應用程式商店下載；</string>
+    <string name="new_trans_intro_desc_old">2.若舊設備仍然搜索不到新裝置熱點，建議您打開舊裝置的設定>Wlan（非小米裝置進入WLAN清單），查看是否能找到新裝置上顯示的熱點名稱。若能找到請回到小米換機的頁面點擊您要連線的新裝置熱點即可。</string>
+    <string name="new_trans_intro_question_1">1. 在舊裝置上為什麼搜尋不到新裝置熱點？</string>
+    <string name="new_trans_intro_question_3">3. 為什麼會提醒舊裝置空間不足？</string>
+    <string name="new_trans_intro_question_6">6. 為什麼舊裝置為非小米裝置無法遷移應用程式資料？</string>
+    <string name="new_trans_intro_question_8">8. 為什麼新裝置的微信聊天記錄消失了？</string>
+    <string name="permission_calender_summary">從iCloud恢復日程資訊至新裝置</string>
+    <string name="permission_call_log_summary">將舊裝置的通話記錄遷移至新裝置</string>
+    <string name="permission_contacts_summary">將舊裝置的聯絡人遷移至新裝置</string>
+    <string name="permission_message_summary">將舊裝置的簡訊遷移至新裝置</string>
+    <string name="permission_storage_summary">將舊裝置的照片及檔案遷移至新裝置</string>
+    <string name="permission_wifi_summary">用於新舊裝置傳輸資料</string>
+    <string name="prompt_before_transmission_message1_title">新裝置中以下APP已有應用程式資料</string>
+    <string name="prompt_before_transmission_message4_title">換機過程中請謹慎操作裝置</string>
+    <string name="prompt_before_transmission_message5_title">由於資料高速傳輸，裝置會發熱</string>
+    <string name="scanner_quit_alert_message">退出後再次換機需要兩裝置重新配對，請問您是否確認？</string>
+    <string name="searching_for_new_device">正在發現新裝置...</string>
+    <string name="select_old_device_title">選擇舊機類型</string>
+    <string name="trans_install_guide_old_content_first">請用舊機打開瀏覽器掃描下方二維條碼，下載並安裝“小米換機”APP</string>
+    <string name="trans_sync_transfer_data_list">舊裝置上選擇遷移資料</string>
+    <string name="transfer_quit_alert_message_extra">提醒：本次傳輸進度將會自動儲存，兩裝置再次配對後即可讀取進度續傳</string>
+</resources>

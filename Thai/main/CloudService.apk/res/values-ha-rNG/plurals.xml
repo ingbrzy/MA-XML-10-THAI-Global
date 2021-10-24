@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Ya yi minti 1</item>
+    </plurals>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">"Ba'a iya daidaita abubuwa %s"</item>
+        <item quantity="one">"Ba'a iya daidaita abu %s"</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">Shiga jerin toshe bayanai%d</item>
+        <item quantity="one">Shiga jerin toshe bayanai%d</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">Abubuwan burauza%d</item>
+        <item quantity="one">Abun burauza%d</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">Abubuwan kalanda%d</item>
+        <item quantity="one">Abun kalanda%d</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">Rajistan tarihin kira%d</item>
+        <item quantity="one">Rajistan tarihin kira%d</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">Lambobi%d</item>
+        <item quantity="one">Lamba%d</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">Hotuna %d</item>
+        <item quantity="one">Hoto %d</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">Sakonni%d</item>
+        <item quantity="one">Sako%d</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">wakoki%d</item>
+        <item quantity="one">waka%d</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">Bayanan kula%d</item>
+        <item quantity="one">Bayanin kula%d</item>
+    </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">Rubutu %d</item>
+        <item quantity="one">Rubutu %d</item>
+    </plurals>
+    <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">"Shigan Ma'ajiyar manhaja %d"</item>
+        <item quantity="one">"Shigan Ma'ajiyar manhaja %d"</item>
+    </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">Lafazi %d na kullum</item>
+        <item quantity="one">Lafazi %d na kullum</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">rajistan%d</item>
+        <item quantity="one">rajistan%d</item>
+    </plurals>
+    <plurals name="dirty_secretphoto_count">
+        <item quantity="other">"Ba'a daidaita hotuna %d ba. Fita bayan an daidaita dukan abubuwa dan ka ajiye su; in ba haka ba abubuwan za su share."</item>
+        <item quantity="one">"Ba'a daidaita hoto %d ba. Fita bayan an daidaita dukan abubuwa dan ka ajiye su; in ba haka ba abubuwan za su share."</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">Cibiyoyi sadarwar Wi-Fi%d</item>
+        <item quantity="one">Hanyar sadarwar Wi-Fi%d</item>
+    </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
+    </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Gwada kuma nan da sakan %d</item>
+        <item quantity="one">Gwada kuma nan da sakan %d</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Abubuwan dake jiran su daidaita: %d</item>
+        <item quantity="one">Abun dake jiran ya daidaita: %d</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">awowi %s da suka wuce</item>
+        <item quantity="one">awa %s daya wuce</item>
+    </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">mintoci %s da suka wuce</item>
+        <item quantity="one">minti %s daya wuce</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Sake fara daidaitawa nan da minti %d</item>
+        <item quantity="one">Sake fara daidaitawa cikin minti %d</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Abubuwan da aka zaba %d</item>
+        <item quantity="one">Abun da aka zaba %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Minti 1 daya wuce</item>
+    </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">"Za'a a daidaita sabis %s na da Cloud na Xiaomi"</item>
+        <item quantity="one">"Za'a a daidaita sabis %s na da Cloud na Xiaomi"</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">"Ba'a iya zaban fiye da abubuwa %d"</item>
+        <item quantity="one">"Ba'a iya zaban fiye da abu %d"</item>
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Mutane %d sun karbi gayyata</item>
+        <item quantity="one">Mutun %d ya karbi gayyata</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">Kwanaki %1$s</item>
+        <item quantity="one">kwana %1$s</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">awowi %1$s</item>
+        <item quantity="one">awa %1$s</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">mintuna %1$s</item>
+        <item quantity="one">minti %1$s</item>
+    </plurals>
+</resources>

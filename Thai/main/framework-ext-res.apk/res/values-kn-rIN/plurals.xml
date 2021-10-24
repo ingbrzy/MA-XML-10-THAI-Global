@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">ಬ್ಯಾಟರಿ ಡಿಸ್‌ಕನೆಕ್ಟ್‌ ಆದಂತಿದೆ. ನಿಮ್ಮ ಡಿವೈಸ್‌ %d ಸೆಕೆಂಡ್‌ಗಳೊಳಗೆ ಆಫ್‌ ಆಗಲಿದೆ. ಈ ಸಮಸ್ಯೆಯ ಪರಿಹಾರಕ್ಕೆ ಕಸ್ಟಮರ್‌ ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ.</item>
+        <item quantity="one">ಬ್ಯಾಟರಿ ಡಿಸ್‌ಕನೆಕ್ಟ್‌ ಆದಂತಿದೆ. ನಿಮ್ಮ ಡಿವೈಸ್‌ %d ಸೆಕೆಂಡ್‌ನೊಳಗೆ ಆಫ್‌ ಆಗಲಿದೆ. ಈ ಸಮಸ್ಯೆಯ ಪರಿಹಾರಕ್ಕೆ ಕಸ್ಟಮರ್‌ ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ಫೈಲ್‌ಗಳು</item>
+        <item quantity="one">%1$d ಫೈಲ್‌</item>
+    </plurals>
+</resources>

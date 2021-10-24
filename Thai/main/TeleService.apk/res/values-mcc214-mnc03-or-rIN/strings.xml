@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">Wi-Fi କଲଗୁଡ଼ିକ</string>
+    <string name="vice_slot_volte_data_switch_prompt">ଚାଲୁଥିବା 4G କଲ ସମୟରେ ଏକ ଦ୍ୱିତୀୟ SIM ବ୍ୟବହାର କରି ଆପଣଙ୍କ ଡିଭାଇସ ଏକ ମୋବାଇଲ ଡାଟା ନେଟୱାର୍କ ସହିତ ସଂଯୋଗ ହେବ | ଏହା ଅତିରିକ୍ତ ଡାଟା ଫି ନେଇପାରେ | ଆପଣଙ୍କ ଡାଟା ପ୍ଲାନ ବିଷୟରେ ଆପଣଙ୍କ ସ୍ଥାନୀୟ ମୋବାଇଲ୍‌ ଅପରେଟରଙ୍କୁ ଯୋଗାଯୋଗ କରନ୍ତୁ |</string>
+    <string name="vice_slot_volte_data_switch_summary">4G କଲ ସମୟରେ ଦ୍ୱିତୀୟ SIM ବ୍ୟବହାର କରି ଡିଭାଇସଟି ଏକ ମୋବାଇଲ ଡାଟା ନେଟୱାର୍କ ସହିତ ସଂଯୋଗ ହେବ</string>
+    <string name="vice_slot_volte_data_switch_title">ଦ୍ୱିତୀୟ SIMରେ 4G କଲ ସମୟରେ ମୋବାଇଲ୍‌ ଡାଟା ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="volte_switch_summary">ଭଏସ ଏବଂ କମ୍ୟୁନିକେସନ ସେବା ଉନ୍ନତ କରିବାକୁ 4G ସେବାଗୁଡ଼ିକ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="volte_switch_title">4G କଲ୍</string>
+    <string name="wificall_switch_title">Wi-Fi କଲିଂ</string>
+</resources>

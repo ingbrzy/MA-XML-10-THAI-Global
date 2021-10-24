@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_wificall_title">Wi-Fi కాల్‌లు</string>
+    <string name="vice_slot_volte_data_switch_prompt">4G కాల్‌లు చేస్తున్నప్పుడు, రెండో సిమ్‌ని ఉపయోగించి పరికరం మొబైల్ డేటా నెట్‌వర్క్‌కి కనెక్ట్ అవుతుంది. దీని వలన అదనపు డేటా ఫీజులు విధించబడవచ్చు. మీ డేటా ప్లాన్ గురించి వివరాల కోసం మీ స్థానిక క్యారియర్‌ని సంప్రదించండి.</string>
+    <string name="vice_slot_volte_data_switch_summary">4G కాల్‌లు చేస్తున్నప్పుడు, రెండో సిమ్‌ని ఉపయోగించి పరికరం మొబైల్ డేటా నెట్‌వర్క్‌కి కనెక్ట్ అవుతుంది</string>
+    <string name="vice_slot_volte_data_switch_title">4G కాల్‌లు చేస్తున్నప్పుడు రెండో సిమ్ ద్వారా మొబైల్ డేటాని ఉపయోగించు</string>
+    <string name="volte_switch_summary">వాయిస్ మరియు కమ్యూనికేషన్ సేవ మెరుగుపరిచేందుకు 4G సేవలు ఉపయోగించండి</string>
+    <string name="volte_switch_title">4G కాల్స్</string>
+    <string name="wificall_switch_title">Wi-Fi కాలింగ్</string>
+</resources>

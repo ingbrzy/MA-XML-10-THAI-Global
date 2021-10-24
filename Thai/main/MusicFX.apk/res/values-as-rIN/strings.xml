@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">মিউজিকFX</string>
+    <string name="bass_boost_strength">বাছ বুষ্ট</string>
+    <string name="ci_extreme">ইলেক্ট্ৰনিক</string>
+    <string name="classical">ক্লাছিকেল</string>
+    <string name="dance">ডেন্স</string>
+    <string name="eq_dialog_title">"Snapdragon অডিঅ'+"</string>
+    <string name="flat">ফ্লেট</string>
+    <string name="folk">লোক</string>
+    <string name="headset_plug">এই প্ৰভাৱবোৰৰ বাবে হেডফোন প্লাগ ইন কৰক।</string>
+    <string name="heavy_metal">হেভী মেটেল</string>
+    <string name="hip_hop">"হিপ হ'প"</string>
+    <string name="jazz">জেজ</string>
+    <string name="new_app_name">"অডিঅ'-প্ৰভাৱ"</string>
+    <string name="no_effects">প্ৰভাৱবোৰ উপলব্ধ নহয়।</string>
+    <string name="normal">স্বাভাৱিক</string>
+    <string name="picker_title">সংগীত প্ৰভাৱ নিয়ন্ত্ৰণ পেনেল\"</string>
+    <string name="pop">"প'প"</string>
+    <string name="rock">ৰক</string>
+    <string name="setup">ছেটআপ কৰক</string>
+    <string name="user">কাষ্টম</string>
+    <string name="virtualizer_strength">চাৰাউণ্ড চাউণ্ড</string>
+</resources>

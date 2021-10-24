@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="actionbar_button_up_description">ย้อนกลับ</string>
+    <string name="add_remark_hint">ใส่ข้อสังเกตของคุณทีนี่</string>
+    <string name="add_remark_tip">แตะเพื่อเพิ่มข้อสังเกต</string>
     <string name="afternoon">บ่าย</string>
     <string name="agree_description">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตเพื่อให้สามารถใช้คุณสมบัติทั้งหมดได้</string>
     <string name="alert_message_clear_records">ลบไฟล์บันทึกที่เลือกไว้?</string>
@@ -88,6 +90,7 @@
     <string name="early_morning">เช้า</string>
     <string name="empty" />
     <string name="empty_recognition_tip">ว่างเปล่า</string>
+    <string name="empty_tips">แตะปุ่มเพื่อเริ่มบันทึก</string>
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="err_msg_abandon">คำสั่งซื้อถูกยกเลิก</string>
@@ -113,6 +116,7 @@
     <string name="error_filename_illegal_char">ชื่อไฟล์ห้ามใช้ตัวอักขระพิเศษ</string>
     <string name="error_filename_too_long">ชื่อไฟล์ยาวเกินกำหนด</string>
     <string name="error_icon_content_description">ข้อผิดพลาด</string>
+    <string name="error_remark_too_long">ข้อสังเกตของคุณยาวเกินไป</string>
     <string name="error_sdcard_access">ไม่สามารถอ่าน SD การ์ดได้</string>
     <string name="error_sdcard_unmounted">กรุณาใส่ SD การ์ดตอนนี้</string>
     <string name="evening">บ่าย</string>
@@ -289,6 +293,7 @@
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -326,6 +331,7 @@
     <string name="no_file">ว่าง</string>
     <string name="no_network">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="no_playback_file">เลือกการบันทึกเพื่อดูรายละเอียด</string>
+    <string name="no_records">ยังไม่มีการบันทึกที่นี่</string>
     <string name="noon">เที่ยงวัน</string>
     <string name="normal_settings_pref_title">การตั้งค่าทั่วไป</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
@@ -446,6 +452,9 @@
     <string name="record_downloading_notification_complete">ดาวน์โหลดเสร็จสิ้น</string>
     <string name="record_downloading_notification_count">กำลังดาวน์โหลด %d</string>
     <string name="record_format_preference_title">รูปแบบการบันทึก</string>
+    <string name="record_item_title_multi_choice">เลือก</string>
+    <string name="record_item_title_remark">เพิ่มข้อสังเกต</string>
+    <string name="record_item_title_send">แชร์</string>
     <string name="record_list">ไฟล์เสียงที่บันทึกไว้</string>
     <string name="record_list_app">บันทึกแอป</string>
     <string name="record_list_call">สายสนทนาที่บันทึกไว้</string>
@@ -533,6 +542,10 @@
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
+    <string name="tab_all">ทั้งหมด</string>
+    <string name="tab_apps">แอป</string>
+    <string name="tab_call">การโทร</string>
+    <string name="tab_fm">FM</string>
     <string name="tap_to_record">แตะปุ่มเพื่อเริ่มบันทึก</string>
     <string name="text_btn_backward_3_seconds">ย้อนกลับ 3 วินาที</string>
     <string name="text_btn_complete">หยุด</string>
