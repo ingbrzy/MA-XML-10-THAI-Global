@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="p2">סורק ברקודים</string>
-    <string name="p3">אישור</string>
-    <string name="p4">סליחה, מצלמת האנדרואיד נתקלה בבעיה. ייתכן שיהיה עליך להפעיל מחדש את המכשיר.</string>
-    <string name="p5">הצב ברקוד בתוך המלבן כדי לסרוק אותו.</string>
-</resources>

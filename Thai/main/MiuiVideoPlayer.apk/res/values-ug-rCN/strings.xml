@@ -1,1343 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="Earlier">بۇرۇنقى</string>
-    <string name="This_week">بۇ ھەپتە</string>
-    <string name="Today">بۈگۈن</string>
-    <string name="Yesterday">تۆنۈگۈن</string>
-    <string name="access_denied_info">مەشغۇلات ئۇدا قايتىلانغان،سەل تۇرۇپ سىناڭ</string>
-    <string name="account_bind_secure_email_title">بىخەتەر تورخەتكە باغلاش</string>
-    <string name="account_bind_secure_phone_title">بىخەتەر يانفونغا باغلاش</string>
-    <string name="account_crop_user_avatar">باش سۈرەت كېسىش</string>
-    <string name="account_empty_user_name">ئىسمى قۇرۇق قالمىسۇن</string>
-    <string name="account_error_all_space_user_name">ئىسىمنىڭ ھەممىسى بوش بولسا بولمايدۇ</string>
-    <string name="account_error_invalid_user_name">ئىسىمدا &lt;, >, / قاتارلىق ئۈچ خىل بەلگە بولسا بولمايدۇ</string>
-    <string name="account_error_longer_user_name">ئىسمىڭىز بەك ئۇزۇنكەن، 20 خەت ئىچىدە كىرگۈزۈڭ</string>
-    <string name="account_error_shorter_user_name">ئىسمىڭىز بەك قىسقىكەن،ئەڭ ئاز بولغاندا 2 خەت كىرگۈزۈڭ</string>
-    <string name="account_error_user_birthday">توغرا بولغان تۇغۇلغان كۈن ۋاقتىنى كىرگۈزۈڭ</string>
-    <string name="account_error_user_name">ئىسمى ماس كەلمىگەن، ئالماشتۇرغاندىن كېيىن قايتا سىناڭ</string>
-    <string name="account_invalid_user_avatar">باش سۈرەت قائىدىگە ئۇيغۇن ئەمەس، ئالماشتۇرغاندىن كېيىن سىناڭ</string>
-    <string name="account_limit_update_birthday">كەچۈرۈڭ، ھازىر ئىلتىماسىڭىزنى ئىجرا قىلغىلى بولمايدۇ</string>
-    <string name="account_no_set">تەڭشىمىگەن</string>
-    <string name="account_none_bind_info">باغلانمىغان</string>
-    <string name="account_none_user_name">تولۇقلاڭ</string>
-    <string name="account_secure_info_pref_title">كىرىش</string>
-    <string name="account_security_info_pref_title">بىخەتەر</string>
-    <string name="account_user_avatar">باش رەسىمى</string>
-    <string name="account_user_avatar_from_album">يانفون ئالبومىدىن تاللاش</string>
-    <string name="account_user_avatar_from_camera">رەسىمگە تارتىش</string>
-    <string name="account_user_base_info">ئاساسىي ماتېرىيال</string>
-    <string name="account_user_birthday">تۇغۇلغان كۈن</string>
-    <string name="account_user_details">شەخس ئۇچۇرى</string>
-    <string name="account_user_email">بىخەتەر تورخەت</string>
-    <string name="account_user_gender">جىنسى</string>
-    <string name="account_user_id">شياۋمى ID</string>
-    <string name="account_user_name">ئىسمى</string>
-    <string name="account_user_name_dialog_title">ئىسمىنى تەڭشەش</string>
-    <string name="account_user_other_info">تەپسىلىي ماتېرىيال</string>
-    <string name="account_user_phone">بىخەتەر يانفون</string>
-    <string name="account_user_region">دۆلەت ياكى رايون</string>
-    <string name="action_add_phone">دەرھال قوشۇش</string>
-    <string name="action_update_phone">ئالماشتۇرۇش</string>
-    <string name="actionbar_button_up_description">قايتىش</string>
-    <string name="activate_email_notice">24 سائەت ئىچىدە ئۇلانمىنى چېكىپ ئاكتىپلاڭ</string>
-    <string name="activity_not_found_notice">ئالاقىدار ئەپنى تاپالمىدى</string>
-    <string name="ad_bar_notification_setting_sub_title">ئۇقتۇرۇش سىتونىدا پائالىيەت ئېغىزى كۆرۈنىدۇ</string>
-    <string name="ad_bar_notification_setting_title">پائالىيەت ئېغىزى</string>
-    <string name="ad_buy">سېتىۋېلىش</string>
-    <string name="ad_download">چۈشۈرۈش</string>
-    <string name="ad_join">مەھەللىگە كىرىش</string>
-    <string name="ad_more">باشقىلىرىنى كۆرۈش</string>
-    <string name="add_search_channel_link">تور ئادرېسى</string>
-    <string name="add_search_channel_name">ئىسمى</string>
-    <string name="add_search_channel_tip">نىشان تور بېكەتتە نۇقتىلىق سۆز\"%s\"نى ئىزدەپ ھەمدە ئوڭۇشلۇق ئاتلاپ كەتكەندىن كېيىن، تور بېكەتنى كۆچۈرۈڭ ھەمدە بۇ يەرگە چاپلاڭ</string>
-    <string name="add_to_trust_device">بۇ يانفوننى ئىشەنچىلىك ئۈسكۈنىلەر تىزىملىكىگە قوشۇش</string>
-    <string name="add_website">تور بېكەت قوشۇش</string>
-    <string name="afternoon">چ ك</string>
-    <string name="agree">قوشۇلىمەن</string>
-    <string name="agree_and_continue">قوشۇلۇش ۋە داۋاملاشتۇرۇش</string>
-    <string name="ai_animation_music_text">AI سەپلىمە مۇزىكىسى</string>
-    <string name="ai_music_save_cancel">بىكار قىلىش</string>
-    <string name="ai_music_save_dialog_title">ساقلاش</string>
-    <string name="ai_music_save_fail">ساقلانمىدى</string>
-    <string name="ai_music_save_info">سىنغا ئەقلىي مۇزىكا سەپلەندى،ھەمبەھىرلىگىلى بولىدىغان مۇزىكىلىق سىن قىلىپ ساقلامسىز؟</string>
-    <string name="ai_music_save_ok">ساقلاش</string>
-    <string name="ai_music_save_success">ساقلاندى</string>
-    <string name="ai_music_saved">ساقلىنىپ بولغان</string>
-    <string name="alert_dialog_download">ببۇ ئەپنى چۈشۈرۈپ باققان</string>
-    <string name="alert_dialog_download_btn_hide">يوشۇرۇش</string>
-    <string name="alert_dialog_download_confirm">ئەپ چۈشۈرمەكچى</string>
-    <string name="alert_dialog_download_default_title">ئەپ چۈشۈرۈش</string>
-    <string name="alert_dialog_download_fail">ئەپنى چۈشۈرەلمىدى</string>
-    <string name="alert_dialog_download_plugin">سۈزۈك قويغۇچ چۈشۈرۋاتىدۇ:</string>
-    <string name="alert_dialog_download_prepare">ئەپ چۈشۈرمەكچى...</string>
-    <string name="alert_dialog_download_progress">ئەپ چۈشۈۋاتىدۇ:</string>
-    <string name="all">ھەممىسى</string>
-    <string name="am">چ ب</string>
-    <string name="app_description_content">شياۋمى سىنى بولسا MIUI سىستېما ئەپى، توردىكى سىن مەزمۇنى، يەرلىكتىكى سىننى قويۇش مۇلازىمىتى بىلەن تەمىنلەيدۇ، سىنبەلگىنى چىقىرىۋەتكەندىن كېيىن پەقەت يەرلىكتىكى سىننى قويۇش ئىقتىدارىنىلا ساقلاپ قالىدۇ</string>
-    <string name="app_description_title">\"شياۋمى سىن\" سىنبەلگىسىنى چىقىرىۋېتىش</string>
-    <string name="app_name">Mi Video</string>
-    <string name="auth_again">كۆرۈش</string>
-    <string name="auth_fail_warning">ھېسابات ئۇچۇرى ۋاقتى ئۆتكەن،قايتا سىناڭ</string>
-    <string name="auto_play_next_off">ئاپتوماتىك قويۇشنى تاقاش</string>
-    <string name="auto_play_next_on">ئاپتوماتىك قويۇشنى ئېچىش</string>
-    <string name="back_to_mainpage">Let’s go</string>
-    <string name="before_yestoday">ئۈلۈشكۈن</string>
-    <string name="bind_sign_in_title">شياۋمى ھېساباتى باغلاش</string>
-    <string name="cancel">بىكار قىلىش</string>
-    <string name="cancel_choose">تاللاشنى بىكار قىلىش</string>
-    <string name="cancel_subscribe_tips">ئەگەشمەمسىز؟</string>
-    <string name="canceled">بىكار قىلىندى</string>
-    <string name="change_activate_email">دەلىللەش تورخېتىنى ئۆزگەرتىش</string>
-    <string name="change_password">پارولنى ئۆزگەرتىش</string>
-    <string name="check_nothing">ھازىر مەزمۇن تاللانمىغان</string>
-    <string name="choose">تاللاش</string>
-    <string name="choose_to_signin">شۇنداق</string>
-    <string name="choose_to_signup">ياق،يېڭى ھېسابات تىزىملىتىمەن</string>
-    <string name="clearable_edittext_clear_description">تازىلاش</string>
-    <string name="click_to_reload_more">چېكىپ قايتا يۈكلەڭ</string>
-    <string name="click_to_retry">چېكىپ قايتا سىناڭ</string>
-    <string name="close">تاقاش</string>
-    <string name="cloud_auto_pip_play_switch">رەسىم ئىچىدىكى رەسىمنى ئاپتوماتىك ئېچىش</string>
-    <string name="cloud_online_player">قويغۇچ</string>
-    <string name="cloud_online_switch">ئۆزگىچە تەۋسىيە</string>
-    <string name="cloud_online_switch_close_time">ئۆزگىچە تەۋسىيە مەزمۇنىنى تاقىسىڭىز، %s دىن خاسلاشتۇرۇشنى قايتىدىن ئېچىشىڭىز كېرەك</string>
-    <string name="cloud_online_switch_open_time">ئۆزگىچە تەۋسىيەنى ئاچسىڭىز، سىزگە مەخسۇس ياسالغان تەۋسىيە مەزمۇنىنى كۆرسىتىدۇ</string>
-    <string name="collect_diagnosis_log">دىئاگنوز خاتىرىسى يىغىۋېلىش</string>
-    <string name="com_permission_desc">سىن سانلىق مەلۇماتىنى زىيارەت قىلالمىدى،تەڭشەكتىن زىيارەت ھوقۇقىنى ئېچىڭ</string>
-    <string name="com_permission_title">ھوقۇق تەڭشەش</string>
-    <string name="comment_model_add_comment">باھا بېرىش</string>
-    <string name="comment_model_bg_add_comment">ئىنكاسىڭىزنى ئېلان قىلىڭ</string>
-    <string name="comment_model_bg_deleted_comment">باھا ئۆچۈرۈلدى</string>
-    <string name="comment_model_close">باھا بېرىش ئىقتىدارى ۋاقتىنچە تاقالدى، توغرا چۈشىنىڭ</string>
-    <string name="comment_model_comment">باھا</string>
-    <string name="comment_model_confirm_delete">باھانى ئۆچۈرەمسىز؟</string>
-    <string name="comment_model_copy">كۆچۈرۈش</string>
-    <string name="comment_model_copy_fail">كۆچۈرۈش مەغلۇپ بولدى</string>
-    <string name="comment_model_copy_success">كۆچۈرۈلدى</string>
-    <string name="comment_model_delete">ئۆچۈرۈش</string>
-    <string name="comment_model_delete_fail">ئۆچۈرەلمىدى</string>
-    <string name="comment_model_delete_success">ئۆچۈرۈلدى</string>
-    <string name="comment_model_reply">جاۋاپ قايتۇرۇش</string>
-    <string name="comment_model_reply_comment">جاۋاب قايتۇرۇش %s:</string>
-    <string name="comment_model_report">پاش قىلىش</string>
-    <string name="comment_model_report_fail">پاش قىلىنمىدى</string>
-    <string name="comment_model_report_success">پاش قىلىندى</string>
-    <string name="comment_model_send_fail">يوللانمىدى</string>
-    <string name="comment_model_send_fail_frequently">باھا قايتىلانغان، سەل تۇرۇپ ئاندىن يوللاڭ</string>
-    <string name="comment_model_send_forbid_desc">باھا بەرگەندە كۆپ قېتىم قانۇنسىز مەزمۇننى ئېلان قىلغاچقا،سۆز قىلىشىڭىز مەڭگۈلۈك چەكلەندى. ئەگەر پىكىرىڭىز بولسا ئەپتىكى پىكىر تەكلىپ ئىنكاسى ئارقىلىق ئەرز سۇنۇڭ</string>
-    <string name="comment_model_send_forbid_tips">سۆز قىلىشنى چەكلەش ئەسكەرتىشى</string>
-    <string name="comment_model_send_success">يوللاندى</string>
-    <string name="common_cancel">بىكار قىلىش</string>
-    <string name="confirm_activate_email">دەلىللەش تاماملاندى</string>
-    <string name="confirm_bundled_phone_dialog_title">يانفون نومۇرىغا باغلاشنى جەزملەش</string>
-    <string name="confirm_new_pwd">يېڭى پارولنى جەزملەش</string>
-    <string name="confirm_unbundled_phone_dialog_message">بۇ يانفون نومۇرى %1$s دە %2$s ھېساباتقا باغلانغان، داۋاملىق مەشغۇلات قىلسىڭىز %3$s ھېسابات بىلەن باغلاقتىن يېشىلىدۇ، داۋاملاشتۇرامسىز؟</string>
-    <string name="content">مەزمۇنى</string>
-    <string name="content_can_not_null">مەزمۇن قۇرۇق بولۇپ قالمىسۇن</string>
-    <string name="continue_play">داۋملىق قويۇش</string>
-    <string name="data_empty">سانلىق مەلۇمات يوق</string>
-    <string name="date_picker_label_day">كۈن</string>
-    <string name="date_picker_label_month">ئاي</string>
-    <string name="date_picker_label_year">يىل</string>
-    <string name="date_picker_lunar">قەمەرىيە كالېندارى</string>
-    <string name="date_time_picker_dialog_title">چېسلا ۋە ۋاقىت تەڭشەش</string>
-    <string name="day">كۈن</string>
-    <string name="default_upgrade_hint">"ھۆرمەتلىك Mi Video ئابونتى، 
-سىزنىڭ ئۈسكۈنىڭىزنىڭ يېڭى نەشرى تەييارلاندى! 
- تېخىمۇ ياخشى ئىقتىدارى ۋە ئىشلەتكۈچى تەسىراتىغا ئېرىشىش ئۈچۈن، ئەپ دىتالىڭىزنى يېڭىلاڭ😊
-Mi Video كوللېكتىپى"</string>
-    <string name="description">تەۋسىرلەش:</string>
-    <string name="detail_select_source">قويۇش مەنبەسىنى تاللاش</string>
-    <string name="diagnosis_log_send_failed">دىئاگنوز خاتىرىسىنى يوللاش مەغلۇپ بولدى، سەل تۇرۇپ سىناڭ</string>
-    <string name="diagnosis_log_sent_format">"دىئاگنوز خاتىرىسىنى ئەۋەتىش تاماملاندى! 
- دىئاگنوز نومۇرى：%s
- بۇ نومۇرنى تېخنىك خادىمغا ئەۋەتىڭ"</string>
-    <string name="dialog_disagree_privacychange_info">قوشۇلمامسىز؟ شەخسىي مەخپىيەتلىك سىياسىتىگە قوشۇلمىسىڭىز شياۋمى سىنىنىڭ توردىكى مۇلازىمىتىنى ئىشلىتەلمەيسىز. \"بىكار قىلىش\" كونۇپكىسىنى چېكىپ شەخسىيەتنى ھوقۇقلاندۇرۇش بېتىگە قايتىڭ، \"قوشۇلمايمەن\" كونۇپكىسىنى چەكسىڭىز پەقەت شياۋمى سىنىنىڭ يەرلىكتىكى مۇلازىمىتىنىلا ئىشلىتەلەيسىز.</string>
-    <string name="dialog_disagree_privacychange_title">قوشۇلمايمەن؟</string>
-    <string name="dialog_privacy_change_info">كەسىپ ئىقتىدارىنى ئەلالاشتۇرغاچقا، شياۋمى سىنىنىڭ شەخسىي مەخپىيەتلىك سىياسىتىدە قىسمەن ئۆزگىرىش بولدى. ئەپنى داۋاملىق ئىشلىتىشتىن بۇرۇن، بىزنىڭ &lt;a href=%1$s> «ئىشلەتكۈچى كېلىشىمى» &lt;/a> ۋە &lt;a href=%2$s> «شەخسىي مەخپىيەتلىك سىياسىتى» نى قايتا ئوقۇپ &lt;/a> ،سىزنىڭ ئىشلەتكۈچى ئىمتىيازىڭىز ۋە ئالاقىدار سانلىق مەلۇماتنى قانداق بىر تەرەپ قىلىدىغانلىقىنى چۈشىنىڭ.</string>
-    <string name="dialog_privacy_change_title">شەخسىي مەخپىيەتلىك سىياسىتى ئۆزگىرىشى ئەسكەرتمىسى</string>
-    <string name="dialog_privacy_info_new2">بۇ مۇلازىمەتنىڭ ئاساسىي ئىقتىدارىنى نامايەن قىلىش ئۈچۈن،%1$s نىڭ شەخس ئۇچۇرىڭىزنى يىغىۋېلىشى،ئىشلىتىشى،بىر تەرەپ قىلىشغا قوشۇلىشىڭىز كېرەك،شەخسىي مەخپىيەتلىك سىياسىتىدە بىزنىڭ ئۇچۇرىڭىزنى قانداق ئىشلىتىدىغانلىقىمىز چۈشەندۈرۈلدى. تۆۋەندىكىقوشۇلۇشنى تاللىسىڭىز شياۋمىنىڭ &lt;a href=%2$s> «شەخسىي مەخپىيەتلىك سىياسىتى»گە قوشۇلغان بولىسىز &lt;/a></string>
-    <string name="dialog_privacy_info_new3">بۇ مۇلازىمەتنىڭ ئاساسىي ئىقتىدارىنى نامايەن قىلىش ئۈچۈن، %1$sنىڭ شەخس ئۇچۇرىڭىزنى يىغىۋېلىشى،ئىشلىتىشى،بىر تەرەپ قىلىشغا قوشۇلىشىڭىز كېرەك،شەخسىي مەخپىيەتلىك سىياسىتىدە بىزنىڭ ئۇچۇرىڭىزنى قانداق ئىشلىتىدىغانلىقىمىز چۈشەندۈرۈلدى. تۆۋەندىكىقوشۇلۇشنى تاللىسىڭىز شياۋمىنىڭ &lt;a href=%2$s> «شەخسىي مەخپىيەتلىك سىياسىتى» &lt;/a> ۋە &lt;a href=%3$s> « ئىشلەتكۈچى كېلىشىمى» قوشۇلغانلىقىڭىزنى بىلدۈرىدۇ&lt;/a> &lt;br/>&lt;br/> ھەمدە Mi Video نىڭ ئەپنىڭ قاچىلىنىش ئەھۋالى، نەشىر نومۇرى ھەمدە بىخەتەرلىك دەلىللەش قاتارلىق ئىقتىدارىنى نورمال ھەمبەھىرلەش، ھۆكۈم قىلىشى ئۈچۈن، سىز يەنە قوشۇلۇشكونۇپكىسىنى بېسىپ، Mi Videoنىڭ سىز قاچىلىغان ئەپنىڭ تىزىملىكىنى ئوقۇشىغا قوشۇلىشىڭىز كېرەك.</string>
-    <string name="dialog_privacy_info_new4">شىياۋمى سىنىنى ئىشلىتىشىڭىزنى قارشى ئالىمىز. بىز سىزگە تۆۋەندىكى مۇلازىمەتلەر بىلەن تەمىنلەيمىز: :&lt;br>&lt;/br> -توردىكى ۋىدېئولارنى كۆرۈش، ھەر خىل قىزىق نۇقتا، مودا مەزمۇن بىلەن تەمىنلەش&lt;br>&lt;/br> - يەرلىك ۋىدېئولارنى باشقۇرۇش، قولايلىق، تېز، دىئالوگ ئاددىي&lt;br>&lt;/br> يۇقىرىقى ئاساسىي مۇلازىمەت بىلەن تەمىنلەش ئۈچۈن، بىز سىزنىڭ زۆرۈر بولغان شەخسىي ئۇچۇرلىرىڭىزنى توپلىشىمىز كېرەك، كونكرېت بەلگىلىمىڭىزدە سىز بىزنىڭ« شەخسىي مەخپىيەتلىك سىياسىتى» نى ئوقۇپ بېقىڭ. سىز خالىغان ۋاقىتتا يانفون سىستېمىسىنىڭ تەڭشەك تىكى مەخپىي نومۇر ۋە بىخەتەرلىك قىسىمىدىن مۇناسىۋەتلىك تەڭشەكلەرنى ئۆزگەرتسىڭىز بولىدۇ. &lt;br>&lt;/br> شىياۋمى سىنىنى ئىشلىتىشتىن بۇرۇن، &lt;a href=%1$s>« ئىشلەتكۈچى كېلىشىمى»&lt;/a> ۋە &lt;a href=%2$s> « شەخسىي مەخپىيەتلى سىياسىتى» نى ئوقۇپ قوشۇلۇڭ&lt;/a>.</string>
-    <string name="dialog_privacy_revoke_cancel">بىكار قىلىش</string>
-    <string name="dialog_privacy_revoke_count_down">قايتۇرىۋېلىش(%1$dسېكۇنت)</string>
-    <string name="dialog_privacy_revoke_description">ھوقۇقلاندۇرۇشنى قايتۇرىۋالغاندىن كېيىن، شياۋمى سىن سانلىق مەلۇمات توپلاشنى توختىتىدۇ، ھەمدە بارلىق ئالاقىدار سانلىق مەلۇماتنى مۇلازىمېتىردىن ئۆچۈرىدۇ. قايتۇرىۋالغاندىن كېيىن شياۋمى سىن توردىكى مۇلازىمەتنى ئىشلەتكىلى بولمايدۇ، ھوقۇقلاندۇرۇشنى قايتۇرىۋالامسىز؟</string>
-    <string name="dialog_privacy_revoke_fail">شەخسىي مەخپىيەتلىكنى ھوقۇقلاندۇرۇشنى قايتۇرىۋېلىش ئۈچۈن تورغا ئۇلاش كېرەك، ئۈسكۈنە تورىنىڭ راۋانلىقىغا كاپالەتلىك قىلىپ ئاندىن سىناڭ</string>
-    <string name="dialog_privacy_revoke_ok">قايتۇرىۋېلىش</string>
-    <string name="dialog_privacy_revoke_success">ھوقۇقنى بىكار قىلىش تامام</string>
-    <string name="dialog_privacy_revoking">ھوقۇقلاندۇرۇش قايتۇرىۋېلىنىۋاتىدۇ</string>
-    <string name="dialog_privacy_title">شەخسىي مەخپىيەتلىك ھوقۇقلاندۇرۇش</string>
-    <string name="dialog_revoke_privacy_info_new2">شەخسىي مەخپىيەتلىكنى ھوقۇقلاندۇرۇشنى قايتۇرۇۋالغاندىن كېيىن مۇلازىمېتىردىكى سانلىق مەلۇماتنى يىغىش ۋە ئۆچۈرۈشتىن توختايدۇ. ئەپنى نورمال ئىشلەتكىلى بولماسلىقنى كەلتۈرۈپ چىقىرىدۇ،قايتۇرىۋالامسىز؟</string>
-    <string name="dialog_revoke_privacy_title">شەخسىي مەخپىيەتلىك ھوقۇقلاندۇرۇشنى قايتۇرىۋېلىش</string>
-    <string name="disagree">قوشۇلمايمەن</string>
-    <string name="diy_channels_tips">قاناللىرىڭىزنى ئىختىيارىي تەڭشىسىڭىز بولىدۇ</string>
-    <string name="do_not_show_again">كېلەر قېتىم قايتا ئەسكەرتمىسۇن</string>
-    <string name="download">چۈشۈرۈش</string>
-    <string name="download_checking_tip">تەييارلىنىۋاتىدۇ، ساقلاڭ</string>
-    <string name="download_complete">چۈشۈرۈلدى</string>
-    <string name="download_delete_tip">بۇ سىنلارنى ئۆچۈرەمسىز؟</string>
-    <string name="download_delete_title">ئۆچۈرۈش</string>
-    <string name="download_paused">تورمۇزلاندى</string>
-    <string name="download_pending">كۈتىۋاتىدۇ</string>
-    <string name="download_power_off_tips">ھازىرچە بۇ ئىقتىدارنى ئىشلەتكىلى بولمايدۇ</string>
-    <string name="download_progress">%d%%</string>
-    <string name="download_retry">قايتا سىناش</string>
-    <string name="download_unable_tip">نۆۋەتتىكى سىن چۈشۈرۈشنى قوللىمايدۇ</string>
-    <string name="download_video">سىن چۈشۈرۈش</string>
-    <string name="downloading">چۈشۈۋاتىدۇ</string>
-    <string name="early_morning">سەھەر</string>
-    <string name="empty" />
-    <string name="empty_channels">قانال تەھرىرلەشنى باشلاش</string>
-    <string name="empty_subscribe">تېخى ھېچقانداق مەزمۇنغا مۇشتەرى بولمىدىڭىز</string>
-    <string name="eras_ad">مىلادى</string>
-    <string name="eras_bc">مىلادىدىن بۇرۇنقى</string>
-    <string name="error_dup_binded_email">بۇ تورخەت ساندۇقى شياۋمى ھېساباتىغا باغلانغان، تورخەتنى ئالماشتۇرۇڭ ياكى باغلاقتىن يېشىپ قايتا سىناڭ</string>
-    <string name="error_invalid_bind_address">كىرگۈزگەن ئادرېس فورماتى خاتا</string>
-    <string name="evening">گۇگۇم</string>
-    <string name="exceed_binded_phone_times_notice">بۇ يانفونغا قىسقا ۋاقىتتا بەك كۆپ شياۋمى ھېساباتى باغلىنىپتۇ، نومۇر ئالماشتۇرۇپ سىناڭ</string>
-    <string name="exit">چېكىنىش</string>
-    <string name="explore">ئىزدىنىش</string>
-    <string name="explore_on_mi_video">شياۋمى سىنىنى چېكىپ باشقىلىرىنى كۆرۈش</string>
-    <string name="failed_dup_secure_phone_number">بۇ نومۇر شياۋمى ھېساباتىغا باغلانغان، نومۇر ئالماشتۇرۇڭ ياكى باغلاقتىن يېشىپ قايتا سىناڭ</string>
-    <string name="failed_to_fetch_data">سانلىق مەلۇماتقا ئېرىشەلمىدى</string>
-    <string name="failure">مەغلۇپ بولدى</string>
-    <string name="favor_online_video">سىنلار</string>
-    <string name="favor_playlist">قويۇش تىزىملىكى</string>
-    <string name="favorite">ساقلىۋېلىش</string>
-    <string name="favorite_cancel_fail">ساقلىۋېلىشنى بىكار قىلىش مەغلۇپ بولدى،قايتا سىناڭ</string>
-    <string name="favorite_cancel_success">ساقلىۋېلىش بىكار قىلىندى</string>
-    <string name="favorite_fail">ساقلاش مەغلۇپ بولدى،قايتا سىناڭ</string>
-    <string name="favorite_success">ساقلانمىغا قوشۇلدى</string>
-    <string name="fcm_push_title">قىزىق سىن</string>
-    <string name="feedback">ئىنكاس</string>
-    <string name="feedback_activity_title">كۆز قاراشنى يوللاش</string>
-    <string name="feedback_contact_empty">ئالاقىلىشىش ئۇسۇلىنى تاللاڭ</string>
-    <string name="feedback_contact_title">ئالاقىلىشىش ئۇسۇلى</string>
-    <string name="feedback_detail_input_hint">بىر نەرسە يېزىڭ</string>
-    <string name="feedback_hint">تەكلىپىڭىزنى يېزىڭ…</string>
-    <string name="feedback_hint_contact">يانفون نومۇرى/QQنومۇرى/تورخەت</string>
-    <string name="feedback_hint_text">ئۇچرىغان مەسىلە ياكى تەكلىپ پىكىرىڭىزنى ئېيتىڭ</string>
-    <string name="feedback_input_tip">بۇ يەرگە پىكىر تەكلىپىڭىزنى يېزىڭ</string>
-    <string name="feedback_net_error">تاپشۇرۇلمىدى،تورنى تەكشۈرۈڭ</string>
-    <string name="feedback_sent">ئەۋەتىش</string>
-    <string name="feedback_success">ئىنكاسىڭىز تاپشۇرۇلدى</string>
-    <string name="feedback_success_toast">ئەۋەتىلدى! تەكلىپ پىكىرىڭىزگە رەھمەت</string>
-    <string name="feedback_tag_title">تۈرى</string>
-    <string name="feedback_text_empty_toast">ئىنكاس مەزمۇننى كىرگۈزۈڭ</string>
-    <string name="file_cant_rename">ھۆججەت ئىسمى %1$s مەۋجۇت، قايتىدىن ئىسىم قويۇڭ</string>
-    <string name="file_space_not_enough_tip">يانفون ساقلاش بوشلۇقى يېتىشمەيدۇ،ساقلاش بوشلۇقىنىڭ %d MB دىن چوڭلۇقىغا كاپالەتلىك قىلىپ ئاندىن قايتىدىن ئەپكە كىرىڭ</string>
-    <string name="find_psw">پارولنى ئۇنتۇپ قالدىم</string>
-    <string name="finish">تامام</string>
-    <string name="firework_privacy">Firework شەخسىي مەخپىيەتلىك سىياسىتى</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d -كۈنى</string>
-    <string name="fmt_date_long_month">M-ئاي</string>
-    <string name="fmt_date_long_month_day">M-ئاينىڭd-كۈنى</string>
-    <string name="fmt_date_long_year_month">yyyy-يىل M-ئاي</string>
-    <string name="fmt_date_long_year_month_day">yyyy-يىل M-ئاينىڭ d-كۈنى</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M-d</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">yyyy-M</string>
-    <string name="fmt_date_numeric_year_month_day">d‏/M‏/yyyy</string>
-    <string name="fmt_date_short_month">M - ئاي</string>
-    <string name="fmt_date_short_month_day">M-ئاينىڭ d-كۈنى</string>
-    <string name="fmt_date_short_year_month">yyyy-يىل M-ئاي</string>
-    <string name="fmt_date_short_year_month_day">yyyy-يىل M-ئاينىڭ d-كۈنى</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">zD T</string>
-    <string name="fmt_date_timezone">zD</string>
-    <string name="fmt_date_year">yyyy-يىل</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">h سائەت</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">aah:mm</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">aah:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_pm">aah:mm:ss</string>
-    <string name="fmt_time_12hour_pm">aah سائەت</string>
-    <string name="fmt_time_24hour">H سائەت</string>
-    <string name="fmt_time_24hour_minute">Hh:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">S مىللىسېكۇنت</string>
-    <string name="fmt_time_minute">m مىنۇت</string>
-    <string name="fmt_time_minute_second">m مىنۇت s سېكۇنت</string>
-    <string name="fmt_time_minute_second_millis">m مىنۇت s.S سېكۇنت</string>
-    <string name="fmt_time_second">s سېكۇنت</string>
-    <string name="fmt_time_second_millis">s.S سېكۇنت</string>
-    <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">DW</string>
-    <string name="fmt_weekday_date_time">DW T</string>
-    <string name="fmt_weekday_date_time_timezone">zDW T</string>
-    <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">EEEE</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">zW T</string>
-    <string name="fmt_weekday_timezone">zW</string>
-    <string name="for_diagnosis_usage_only">چۈشەندۈرۈش: خاتىرە ئۇچۇرى پەقەت دىئاگنوزغا ئىشلىتىلىدۇ</string>
-    <string name="for_you">تەۋسىيەرىمىز</string>
-    <string name="friday">جۈمە</string>
-    <string name="friday_short">جۈمە</string>
-    <string name="friday_shortest">جۈمە</string>
-    <string name="fw_loading">مەزمۇن يۈكلىنىۋاتىدۇ</string>
-    <string name="fw_reload_sub_title">ئېكران چېكىپ قايتا سىناڭ</string>
-    <string name="fw_reload_title">تورغا ئۇلانمىدى</string>
-    <string name="gallery_folder_alias_TAOBAO">تاۋباۋ</string>
-    <string name="gallery_folder_alias_camera">سىنغا ئېلىش</string>
-    <string name="gallery_folder_alias_download">چۈشۈرۈش</string>
-    <string name="gallery_folder_alias_mivideo">شياۋمى سىن</string>
-    <string name="gallery_folder_alias_mobileqq">QQ دا سىنلاش</string>
-    <string name="gallery_folder_alias_mobileqq_file">QQ قوبۇللىغان ھۆججەت</string>
-    <string name="gallery_folder_alias_pdd">پىندودو</string>
-    <string name="gallery_folder_alias_qq">QQ</string>
-    <string name="gallery_folder_alias_qqeditpic">QQ تەھرىرلىگۈچ</string>
-    <string name="gallery_folder_alias_qtt">چۈتوۋتياۋ</string>
-    <string name="gallery_folder_alias_screen_recorder">ئېكران سىنلاش</string>
-    <string name="gallery_folder_alias_sina">شىنلاڭ</string>
-    <string name="gallery_folder_alias_tencent_video">تېڭشۈن سىنى</string>
-    <string name="gallery_folder_alias_toutiao">جىنرى توۋتياۋ</string>
-    <string name="gallery_folder_alias_wechat">ئۈندىدار</string>
-    <string name="gallery_folder_alias_youku_video">يۇۋكۇ</string>
-    <string name="gallery_tab_all">ھەممە</string>
-    <string name="gallery_tab_videos">سىنلار</string>
-    <string name="galleryplus_already_cloud_member">بۇ ئەزاسى توردا قويۇش</string>
-    <string name="galleryplus_check_network">تور ئۇلىنشىىنى كۆرۈش</string>
-    <string name="galleryplus_chose_play_speed">%1$.1f تېزلىكتە قويۇش ئېچىلدى</string>
-    <string name="galleryplus_chose_play_speed_2">%1$.2f تېزلىكتە قويۇش ئېچىلدى</string>
-    <string name="galleryplus_chose_play_speed_failure">تېزلىكنى تەڭشەش مەغلۇپ بولدى</string>
-    <string name="galleryplus_click_to_higher_definition">قوش چېكىپ يۇقىرى سۈزۈكلۈكتە كۆرۈشكە كىرىڭ</string>
-    <string name="galleryplus_copyright_unsported_audio">كەچۈرۈڭ،نەشىر ھوقۇقى سەۋەبلىك،بۇ مەزمۇننى ھازىر ئاۋازلىق قويغىلى بولمايدۇ</string>
-    <string name="galleryplus_copyright_unsported_video">كەچۈرۈڭ،نەشىر ھوقۇقى سەۋەبلىك،بۇ سىننى ھازىرچە قويغىلى بولمايدۇ</string>
-    <string name="galleryplus_cta_tips">ئەسكەرتىش: قويۇشنى ياخشىلاش ئۈچۈن،سىزنى ئۆزگەرتىش پىلانىغان تەكلىپ قىلدۇق،قويغۇچنى ئىشلەتكەندە تورغا ئۇلىنىدۇ،قوشۇلامسىز？</string>
-    <string name="galleryplus_double_tap_to_higher_definition">يەنە قوش چېكىپ يۇقىرى سۈزۈكلۈكتە كۆرۈشكە كىرىڭ</string>
-    <string name="galleryplus_fr_unsupport_restore_speed">يېڭىلىنىش چاستوتىسى قوللىمايدۇ،نورمال تېزلىككە قايتتى</string>
-    <string name="galleryplus_gallery_fold_tags">بەلگىنى يىغىۋېلىش</string>
-    <string name="galleryplus_gallery_video_adjust_hint">كامېرانى چىقارغاندىن كېيىن تارتقان 960 لىق سىننى تەڭشىگىلى بولىدۇ</string>
-    <string name="galleryplus_gallery_video_adjust_text">تەڭشەش</string>
-    <string name="galleryplus_gallery_video_default_music_text">ئەقلىي مۇزىكا سەپلەش</string>
-    <string name="galleryplus_gallery_video_item3_default_text">ئىللىق</string>
-    <string name="galleryplus_gallery_video_item4_default_text">سەھەر</string>
-    <string name="galleryplus_gallery_video_item5_default_text">ئەسلىمە</string>
-    <string name="galleryplus_gallery_video_item6_default_text">خۇشال</string>
-    <string name="galleryplus_gallery_video_local_music_text">يەرلىك مۇزىكا</string>
-    <string name="galleryplus_gallery_video_music_format_error">تاللانغان فورمات مۇزىكا سەپلەشنى قوللىمايدۇ</string>
-    <string name="galleryplus_gallery_video_music_text">مۇزىكا سەپلەش</string>
-    <string name="galleryplus_gallery_video_no_music_text">يوق</string>
-    <string name="galleryplus_gallery_video_operate_text">ئالاھىدە ئاستا سۈرەتكە تەڭشەش</string>
-    <string name="galleryplus_gallery_video_save_video">سىن ھاسىللىنىۋاتىدۇ</string>
-    <string name="galleryplus_gallery_video_slow_edit">ئاستا سۈئەتنى تەڭشەش</string>
-    <string name="galleryplus_gallery_view_tags">بەلگىسىنى كۆرۈش</string>
-    <string name="galleryplus_is_higher_definition">يۇقىرى سۈزۈكلۈكتە كۆرۈشكە كىردى</string>
-    <string name="galleryplus_network_connect_check">تور ئۇلانمىغان،تور تەڭشىكىنى تەكشۈرۈڭ</string>
-    <string name="galleryplus_network_connect_confirm">تورغا ئۇلانغانلىقى ياكى WLAN غا ئۇلانغانلىقىنى جەزملەڭ</string>
-    <string name="galleryplus_network_error">تورغا ئۇلانمىدى</string>
-    <string name="galleryplus_network_not_wifi">WLAN دا قويۇلمىغان، ئېقىم مىقدارىنىڭ خورىشىغا دىققەت قىلىڭ</string>
-    <string name="galleryplus_online_cta">سىننى ئىشلىتىش جەريانىدا تورغا ئۇلىنىشى كېرەك، قوشۇلامسىز</string>
-    <string name="galleryplus_online_cta_agree">قوشۇلۇش ۋە داۋاملاشتۇرۇش</string>
-    <string name="galleryplus_online_cta_disagree">قوشۇلمايمەن</string>
-    <string name="galleryplus_online_cta_title">بايانات ۋە ماددىلار</string>
-    <string name="galleryplus_online_video_loading">يۈكلىنىۋاتىدۇ...</string>
-    <string name="galleryplus_orientation_lock">ئېكران يۆنىلىشى قۇلۇپلاندى</string>
-    <string name="galleryplus_orientation_unlock">ئېكران يۆنىلىشى قۇلۇپلاندى</string>
-    <string name="galleryplus_permission_content">شياۋمى سىنىنى نورمال ئىشلىتەلمەيسىز،ھوقۇقلاندۇرۇشقا رۇخسەت قىلىڭ</string>
-    <string name="galleryplus_permission_content2">"يانفون ھوقۇقىڭىزغا ئېرىشەلمىدى،تەڭشەك-ئەپ-شياۋمى سىن-ئەپ ھوقۇقىدىن،يانفون ھوقۇقىنى ئېچىڭ: 
-
-1.ساقلاش بوشلۇقىنى زىيارەت قىلىش
-2. يانفون تونۇش نومۇرىغا ئېرىشىش"</string>
-    <string name="galleryplus_permission_open_settings">تەڭشەكنى ئېچىش</string>
-    <string name="galleryplus_permission_refuse">رەت قىلىمەن</string>
-    <string name="galleryplus_permission_retry">سىن كۆرىمەن</string>
-    <string name="galleryplus_permission_title">سەمىمىي ئەسكەرتىش</string>
-    <string name="galleryplus_restore_play_speed">نورمال تېزلىكتە قويۇش ئەسلىگە كەلتۈرۈلدى</string>
-    <string name="galleryplus_save_cancel_toast">يەنە بىرنى قايتسىڭىز ساقلاش بىكار قىلىنىدۇ</string>
-    <string name="galleryplus_save_fail">ساقلانمىدى</string>
-    <string name="galleryplus_save_success">ساقلاندى</string>
-    <string name="galleryplus_screenshot_8k">8K كەسمە رەسىم</string>
-    <string name="galleryplus_screenshot_8k_save_toast">8K ئېكران كەسمە رەسىمى ساقلىنىۋاتىدۇ%s</string>
-    <string name="galleryplus_screenshot_8k_saving">8K ئېكران كەسمە رەسىم ساقلىنىۋاتىدۇ…</string>
-    <string name="galleryplus_screenshot_8k_share">ھۆججەت يوللايدىغان ئورۇن</string>
-    <string name="galleryplus_subtitle_edit_display">ئېكران خېتىنى كۆرسىتىش</string>
-    <string name="galleryplus_subtitle_edit_edit">خەت تەھرىرلەش</string>
-    <string name="galleryplus_subtitle_edit_hide">ئېكران خېتىنى يوشۇرۇش</string>
-    <string name="galleryplus_subtitle_edit_literal_edit">خەت تەھرىرلەش</string>
-    <string name="galleryplus_subtitle_edit_reminder">مەزمۇن بەك ئۇزۇن، قايتىدىن كىرگۈزۈڭ!</string>
-    <string name="galleryplus_subtitle_recognized_empty_subtitles">سىنلىغاندا ھېچقانداق خەتنى تاپالمىدى</string>
-    <string name="galleryplus_v_agree">قوشۇلىمەن</string>
-    <string name="galleryplus_v_cancel">بىكار قىلىش</string>
-    <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">چېكىنسىڭىز تەھرىرلىگەن خەتنى ساقلىمايدۇ، چېكىنەمسىز؟</string>
-    <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg2">چېكىنسىڭىز ھەمبەھىرلەشكە بولىدىغان خەتلىك سىننى ساقلىغىلى بولمايدۇ،چېكىنەمسىز؟</string>
-    <string name="galleryplus_v_confirm_cancel_edit_subtitle_title">تەھرىرلەشتىن چېكىنىش</string>
-    <string name="galleryplus_v_dialog_hint_contain_invalid_char">ھۆججەت ئىسمىدا قانۇنسىز ھەرپ بەلگە بار</string>
-    <string name="galleryplus_v_dialog_hint_duplicate_name">ھۆججەت ئىسمى مەۋجۇت</string>
-    <string name="galleryplus_v_dialog_hint_not_null">ھۆججەت ئىسمىنى بوش قالدۇرماڭ</string>
-    <string name="galleryplus_v_dialog_hint_start_with_dot">ھۆججەت ئىسمى \".\" دىن باشلانسا بولمايدۇ</string>
-    <string name="galleryplus_v_dialog_hint_too_long">ھۆججەت ئىسمى ئۇزۇن</string>
-    <string name="galleryplus_v_network_failed">تور ناچار</string>
-    <string name="galleryplus_v_ok">جەزملەش</string>
-    <string name="galleryplus_video_edit_save_video">خەتلىك سىن ھاسىللاۋاتىدۇ</string>
-    <string name="galleryplus_vp_hardware_unsported">سىن چاستوتىسى ياكى سۈزۈكلۈكى بەك يۇقىرى،ھازىرچە قويۇشنى قوللىمايدۇ</string>
-    <string name="galleryplus_vp_videoview_error_button">جەزملەش</string>
-    <string name="galleryplus_vp_videoview_error_text_unknown">كەچۈرۈڭ، سىندىن مەسىلە چىقتى</string>
-    <string name="galleryplus_vp_videoview_error_title">سىن قويۇلمىدى</string>
-    <string name="get_back_pwd">پارولنى قايتۇرۇپ كېلىش</string>
-    <string name="get_ph_ticket">دەلىللەش كودىغا ئېرىشىش</string>
-    <string name="get_phone_bind_exceed_limit">بۇ يانفون نومۇرى باغلانغان شياۋمى ھېساباتى سانى چەككە يەتتى(3)، ئەمدى يەنە يېڭى شياۋمى ھېساباتىغا باغلىغىلى بولمايدۇ</string>
-    <string name="get_phone_verifycode_exceed_limit">بۇ نومۇرغا بەك كۆپ ئۇچۇر ئەۋەتىلدى، باشقا ۋاقىتقا ئالماشتۇرۇپ سىناپ بېقىڭ</string>
-    <string name="got_it">بىلدىم</string>
-    <string name="goto_sign_up">دەرھال تىزىملىتىش</string>
-    <string name="have_learned">بىلىۋالدىم</string>
-    <string name="hidden_channels">تۆۋەندىكى قاناللار باش بەتتە كۆرۈنمەيدۇ</string>
-    <string name="hide">يوشۇرۇش</string>
-    <string name="history">بۇرۇنقى</string>
-    <string name="history_local_video">يانفوندىكى</string>
-    <string name="history_online_video">توردىكى</string>
-    <string name="hot">قىزىق</string>
-    <string name="i_know">بىلدىم</string>
-    <string name="identity">سالاھىيەت دەلىللەش</string>
-    <string name="inconsistent_pwd">كىرگۈزگەن پارول بىردەك ئەمەس</string>
-    <string name="init_channels">دەسلەپكى ھالەتكە قايتىش</string>
-    <string name="input_email_address_notice">بىز بىردانە ئاكتىپلايدىغان ئۇلانما بار تورخەتنى سىزگە يوللايمىز</string>
-    <string name="input_new_pwd">يېڭى پارولنى كىرگۈزۈڭ</string>
-    <string name="input_size_tips">1000 خەتتىن ئېشىپ كەتمىسۇن</string>
-    <string name="isornot_your_mi_account">بۇ سىزنىڭ ھېساباتىڭىزما؟</string>
-    <string name="issue">مەسىلە</string>
-    <string name="item_card_all_replies">ھەممىگە قايتۇرۇش</string>
-    <string name="item_card_continue_play">ئاپتوماتىك قويۇش</string>
-    <string name="item_card_more_trailers">باشقا ئالدىن كۆرسىتىشلەر</string>
-    <string name="item_card_open_in">ئېچىش</string>
-    <string name="item_card_related">ئالاقىدار</string>
-    <string name="item_setting_go_back">ماقۇللۇقنى قايتۇرىۋېلىش</string>
-    <string name="just_a_second">سەل تۇرۇپ</string>
-    <string name="language_later_setting_tips">[مەن - تىل] غا كىرىپ ياقتۇرغان تىلنى تاللاڭ</string>
-    <string name="language_select_tips">بىر تىلنى تاللاپ سىن مەزمۇنىنىڭ تىلى قىلىڭ( تاق تاللايسىز)</string>
-    <string name="language_setting_tips">تېخىمۇ ياخشى مەزمۇنلار بىلەن تەمىنلەش ئۈچۈن، [ مەن -تىل] دىن مەزمۇن تىلىڭىزنى تەڭشىسىڭىز بولىدۇ</string>
-    <string name="language_setting_tips_dialog">تېخىمۇ ياخشى مەزمۇنلار بىلەن تەمىنلەش ئۈچۈن، [ مەن -تىل] دىن مەزمۇن تىلىڭىزنى تەڭشىسىڭىز بولىدۇ</string>
-    <string name="later">ھېلىراق</string>
-    <string name="live_now">بىۋاستە قويىۋاتىدۇ</string>
-    <string name="live_title">بىۋاسىتە قويۇش</string>
-    <string name="live_tv_title">TV بىۋاستە قويۇش</string>
-    <string name="loading">مەزمۇن يۈكلىنىۋاتىدۇ</string>
-    <string name="local_play_tip">يەرلىكتە قويۇلىۋاتىدۇ</string>
-    <string name="local_push_title">بۈگۈنكى ئاۋاتلىرى</string>
-    <string name="local_video_create_a_new_playlist">قويۇش تىزىملىكى قۇرۇش</string>
-    <string name="local_video_date">چېسلا</string>
-    <string name="local_video_dialog_default">سۈكۈتتىكى</string>
-    <string name="local_video_from_a_to_z">AدىنZغا</string>
-    <string name="local_video_from_big_to_small">چوڭدىن كىچىككە</string>
-    <string name="local_video_from_long_to_short">ئۇزۇندىن قىسقىغا</string>
-    <string name="local_video_from_new_to_old">يېڭىدىن كونىغا</string>
-    <string name="local_video_from_old_to_new">كونىدىن يېڭىغا</string>
-    <string name="local_video_from_short_to_long">قىسقىدىن ئۇزۇنغا</string>
-    <string name="local_video_from_small_to_big">كىچىكتىن چوڭغا</string>
-    <string name="local_video_from_z_to_a">ZدىنAغا</string>
-    <string name="local_video_name">ئىسمى</string>
-    <string name="local_video_notification_btn">شياۋمى سىنىغا كىرىپ كۆرۈش</string>
-    <string name="local_video_notification_title">يەرلىكتىكى يېڭى سىننى بايقاش</string>
-    <string name="local_video_number_of_selected">%1$d / %2$d تاللاندى</string>
-    <string name="local_video_size">چوڭلۇقى</string>
-    <string name="local_video_space">سىن ئىگىلىگەن بوشلۇق：%s</string>
-    <string name="local_video_time">ۋاقىت</string>
-    <string name="lock_screen">قۇلۇپ ئېكرانى</string>
-    <string name="login">كىرىش</string>
-    <string name="login_tip">بىزنىڭ ئىنكاس قايتۇرۇشىمىزنى ۋاقتىدا قوبۇللىشىڭىز ئۈچۈن،ئاۋۋال كىرىپ ئاندىن تاپشۇرىشىڭىزنى تەۋسىيە قىلىمىز</string>
-    <string name="logo_neverthink">Curated by Neverthink.tv</string>
-    <string name="logout">چېكىنىش</string>
-    <string name="logout_account">چېكىنىش</string>
-    <string name="lp_base_folder">SD card</string>
-    <string name="lp_play_mode_list_loop">تىزىملىك بويىچە قويۇش</string>
-    <string name="lp_play_mode_pause">قويۇپ بولغاندىن كېيىن تورمۇزلاش</string>
-    <string name="lp_play_mode_shuffle">خالىغانچە قويۇش</string>
-    <string name="lp_play_mode_single_loop">بىر قىسىمنى قويۇۋېرىش</string>
-    <string name="lp_play_mode_title">قويۇش ھالىتى</string>
-    <string name="lp_speed_title">قويۇش تېزلىكى</string>
-    <string name="lp_speed_toast">%s تېزلىكتە قويۇشنى قوزغاتماق</string>
-    <string name="lp_videoView_error_button">جەزملەش</string>
-    <string name="lp_videoView_error_text_unknown">كەچۈرۈڭ، بۇ سىننى قويغىلى بولمايدۇ</string>
-    <string name="lp_videoView_error_title">سىن قويۇلمىدى</string>
-    <string name="lp_video_info_title">ئۇچۇر</string>
-    <string name="lp_video_zoom_crop">كېسىش</string>
-    <string name="lp_video_zoom_fit_screen">ئېكرانغا ماسلاشتۇرۇش</string>
-    <string name="lp_video_zoom_stretch">سوزۇش</string>
-    <string name="lp_video_zoom_title">سىن چوڭلۇقىنى تەڭشەش</string>
-    <string name="lv_advance_sound">ئاۋاز ئۈنۈمىنى كۈچەيتىش</string>
-    <string name="lv_airkan_control_device_des">ئاستىنقى قىسمىدىكى كۇنۇپكا ئارقىلىق قۇيۇشنى كونترول قىلالايسىز</string>
-    <string name="lv_airkan_device_xiaomi_phone">شياۋمى يانفونۇم</string>
-    <string name="lv_airkan_playing">ئۈسكۈنە %s نىڭ ئېكرانىغا يوللاۋاتىدۇ</string>
-    <string name="lv_airkan_tips">چەكسىڭىز سىن تېلېۋىزورغا يوللىندۇ.</string>
-    <string name="lv_app_check_failed">چۈشۈرۈلدى،لېكىن تەكشۈرۈشتە خاتالىق بار</string>
-    <string name="lv_app_click_to_install">چېكىپ يېڭىلاشنى تاماملاڭ</string>
-    <string name="lv_app_download_failed">يېڭىلاش بولىقى چۈشمىدى،قايتا چۈشۈرۈپ يېڭىلاڭ</string>
-    <string name="lv_app_downloaded">يېڭى نەشىردىكى شياۋمى سىنى چۈشۈرۈلدى</string>
-    <string name="lv_app_downloading">شياۋمى سىنى چۈشۈۋاتىدۇ</string>
-    <string name="lv_audio_changed">يېڭى ئاۋاز يولىغا يۆتكەش</string>
-    <string name="lv_audio_title">ئاۋاز يولى</string>
-    <string name="lv_audio_track">ئاۋاز يولى</string>
-    <string name="lv_auto_update">بىردەمدىن كېيىن يېڭىلاش</string>
-    <string name="lv_brightness">يورۇقلۇقى</string>
-    <string name="lv_cast">ئېكرانغا يوللاش</string>
-    <string name="lv_check_delete_file">ئۆچۈرىدىغان مەزمۇننى تاللاڭ</string>
-    <string name="lv_check_send_file">بىرلا ۋاقىتتا پەقەت بىرلا ھۆججەت يوللىغىلى بولىدۇ</string>
-    <string name="lv_confirm_delete_history">بۇ كونىلىرىنى ئۆچۈرەمسىز؟</string>
-    <string name="lv_confirm_delete_videos">بۇ سىنلارنى ئۆچۈرەمسىز؟</string>
-    <string name="lv_confirm_hide_videos">بۇ سىنلارنى يوشۇرامسىز؟</string>
-    <string name="lv_confirm_unhide_videos">تاللىغان سىننى يوشۇرۇشتىن بىكار قىلامسىز؟</string>
-    <string name="lv_deleting">ئۆچۈرۈۋاتىدۇ...</string>
-    <string name="lv_device_list">ئۈسكۈنە تىزىملىكى</string>
-    <string name="lv_device_list_seaching">&lt;ئېكرانغا يوللىغۇچ بايقالمىدى></string>
-    <string name="lv_do_not_show_this_again">كېلەر قېتىم قايتا ئەسكەرتمىسۇن</string>
-    <string name="lv_favor">ساقلىۋېلىش</string>
-    <string name="lv_find_new_version">يېڭى نەشىر بايقالدى!</string>
-    <string name="lv_find_videos">سىن ھۆججىتىنى قايتىدىن ئىزدەش</string>
-    <string name="lv_folder_null">نامەلۇم ھۆججەت</string>
-    <string name="lv_fullscreen">مەجبۇرى پۈتۈن ئېكران قىلىش</string>
-    <string name="lv_hide_folder">ھۆججەت قىسقۇچ يوشۇرۇش</string>
-    <string name="lv_hide_prompt">تەڭشەش تامام،يوشۇرغان ھۆججەت قىسقۇچتىن ھۆججەتنى تەكشۈرۈڭ</string>
-    <string name="lv_history">بۇرۇنقى</string>
-    <string name="lv_history_null">بۇرۇنقى سىنلار يوق</string>
-    <string name="lv_home_favorites">ساقلىۋېلىش</string>
-    <string name="lv_home_localt">يانفوندىكى سىن</string>
-    <string name="lv_home_recent">يېقىندا كۆرگەنلەر</string>
-    <string name="lv_home_settings">تەڭشەك</string>
-    <string name="lv_input_password">پارولنى كىرگۈزۈڭ</string>
-    <string name="lv_local_folder">ھۆججەت قىسقۇچ</string>
-    <string name="lv_local_video">سىنلار</string>
-    <string name="lv_media_type_unsported">بۇ تۈردىكى سىننى قويالمايدۇ</string>
-    <string name="lv_menu_delete">ئۆچۈرۈش(%d)</string>
-    <string name="lv_menu_hide">يوشۇرۇش</string>
-    <string name="lv_menu_selectAll">ھەممىنى تاللاش</string>
-    <string name="lv_menu_send">ئەۋەتىش</string>
-    <string name="lv_menu_unhide">يوشۇرۇشنى بىكار قىلىش</string>
-    <string name="lv_mplayer_error_io">مېدىيا مەزمۇننى ئوقۇپ-يازدىغاندا مەسلە كۆرۈلدى</string>
-    <string name="lv_mplayer_error_malformed">مېدىيا فورماتى خاتا</string>
-    <string name="lv_mplayer_error_server_died">مېدىيا مۇلازىمىتى مەغلۇپ بولدى</string>
-    <string name="lv_mplayer_error_timed_out">مەشغۇلات ۋاقتى ئېشىپ كەتتى</string>
-    <string name="lv_ready_to_install">چۈشۈرۈش تامام ،يېڭىلىماقچى</string>
-    <string name="lv_screen_shot_failure">ئېكران كېسىلمىدى، قايتا سىناڭ</string>
-    <string name="lv_screen_shot_failure_tips">نەشرى تۆۋەن،ئېكران كەسكىلى بولمايدۇ</string>
-    <string name="lv_screen_shot_success">ئېكران كېسىش تامام</string>
-    <string name="lv_screenrecord_failure">سىن ئېلىنمىدى،قايتا سىناڭ</string>
-    <string name="lv_screenrecord_share_gif">GIF ھەمبەھىرلەش</string>
-    <string name="lv_screenrecord_share_video">سىن ھەمبەھىرلەش</string>
-    <string name="lv_screenrecord_slience">نۆۋەتتىكى سىستېما نەشرى ئاۋاز ئۈنگە ئېلىشنى قوللىمىغاچقا،ئالغان مەزمۇن ئاۋازسىز بولىدۇ</string>
-    <string name="lv_screenrecord_success">سىن ئېلىش تامام،ئەمدى ھەمبەھىرلىسىڭىز بولىدۇ</string>
-    <string name="lv_send_title">يوللاش</string>
-    <string name="lv_set_password">يوشۇرۇش پارولىنى تەڭشەڭ</string>
-    <string name="lv_setting">تەڭشەك</string>
-    <string name="lv_share_tips">ئېكران كېسىش تامام،ئەمدى ھەمبەھىرلىسىڭىز بولىدۇ</string>
-    <string name="lv_skip_update">ھازىرچە يېڭىلىماسلىق</string>
-    <string name="lv_storage_external_sdcard">تاشقى ساقلىغۇچ كارتا</string>
-    <string name="lv_storage_internal_sdcard">ئىچكى ساقلىغۇچ كارتا</string>
-    <string name="lv_storage_root_dir">نۆۋەتتىكى غول مۇندەرىجە</string>
-    <string name="lv_subtitle_add_subtitle_failed">خەت قوشۇلمىدى،ئىناۋەتلىكمۇ تەكشۈرۈڭ</string>
-    <string name="lv_subtitle_changed">يېڭى خەتكە يۆتكەش</string>
-    <string name="lv_subtitle_current_dir">نۆۋەتتكى مۇندەرىجە</string>
-    <string name="lv_subtitle_folder_up">ئۈستىدىكى ھۆججەت</string>
-    <string name="lv_subtitle_font_color_title">خەت رەڭگى</string>
-    <string name="lv_subtitle_font_size_title">خەت چوڭلۇقى</string>
-    <string name="lv_subtitle_local_title">يەرلىكتىكى خەت</string>
-    <string name="lv_subtitle_manual_add_sub">قولدا خەت قوشۇش تامام</string>
-    <string name="lv_subtitle_no_subtitle">تاللىغۇدەك خەت يوق</string>
-    <string name="lv_subtitle_non_subtitle_file">ئىشلەتكۈدەك خەت ھۆججىتى يوق</string>
-    <string name="lv_subtitle_offset_add_1s">+1s</string>
-    <string name="lv_subtitle_offset_add_dot5s">+0.5s</string>
-    <string name="lv_subtitle_offset_normal">خەت نورمال</string>
-    <string name="lv_subtitle_offset_sub_1s">-1s</string>
-    <string name="lv_subtitle_offset_sub_dot5s">-0.5s</string>
-    <string name="lv_subtitle_onlinesub_language">تىل：%s</string>
-    <string name="lv_subtitle_onlinesub_loading">خەت ھۆججىتىنى يۈكلەۋاتىدۇ</string>
-    <string name="lv_subtitle_onlinesub_loading_wait">توردىكى خەتنى يۈكلەۋاتىدۇ، سەل ساقلاڭ</string>
-    <string name="lv_subtitle_onlinesub_right_declare">جاۋابكارلىقتىن كەچۈرۈم قىلىش چۈشەندۈرۈلىشى</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">توردىكى خەتكە ئېرىشىش : &lt;br/>&lt;br/>&lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>دىن خەتنى ئىزدەڭ.&lt;br/>&lt;br/>بارلىق خەتنى &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a> تەمىنلىگەن</string>
-    <string name="lv_subtitle_onlinesub_save_failed">توردىكى خەت يۈكلەنمىدى</string>
-    <string name="lv_subtitle_onlinesub_save_success">خەت ھۆججىتى يۈكلەندى!</string>
-    <string name="lv_subtitle_onlinesub_search_keyword">ئىزدىمەكچى بولغان مۇھىم خەتنى كىرگۈزۈڭ</string>
-    <string name="lv_subtitle_onlinesub_search_notfound">توردىكى خەتنى تاپالمىدى</string>
-    <string name="lv_subtitle_onlinesub_size_string_b">ھۆججەت چوڭلۇقى：%s خەت</string>
-    <string name="lv_subtitle_onlinesub_title">توردىكى خەت</string>
-    <string name="lv_subtitle_open_subtitle_file_title">خەت ھۆججىتىنى ئىزدەش</string>
-    <string name="lv_subtitle_preoffset_max">ئەڭ كۆپ بولغاندا ئالدىغا5 سېكۇنت</string>
-    <string name="lv_subtitle_subonline_non_network">تور يوق،تورغا ئۇلاڭ،قايتا سىناڭ</string>
-    <string name="lv_subtitle_synchronization_title">ماس قەدەملەش ۋاقتى</string>
-    <string name="lv_subtitle_title">خەت</string>
-    <string name="lv_subtitle_track">خەت</string>
-    <string name="lv_unhide_prompt">تەڭشەش تامام،\"سىن\" ۋە \"ھۆججەت قىسقۇچ\"تىن ئالاقىدار سىننى كۆرۈڭ</string>
-    <string name="lv_updating">يېڭىلاۋاتىدۇ، سەل ساقلاڭ</string>
-    <string name="lv_use_notch">ماڭلاي رايونىنى ئىشلىتىش</string>
-    <string name="lv_videoView_error_text_invalid_progressive_playback">كەچۈرۈڭ، بۇ سىن يانفونىڭىزدا قۇيۇشقا ماس كەلمەيدۇ</string>
-    <string name="lv_videoView_error_text_unknown">كەچۈرۈڭ، بۇ سىننى قويغىلى بولمايدۇ</string>
-    <string name="lv_videoView_error_title">سىن قويۇلمىدى</string>
-    <string name="lv_video_null">سىن يوق</string>
-    <string name="lv_volume">ئاۋاز مىقدارى</string>
-    <string name="manage">باشقۇرۇش</string>
-    <string name="mediation_ad_can_not_share">نۆۋەتتىكى سىننى ھەمبەھىرلەشنى قوللىمايدۇ</string>
-    <string name="mi_video">باشقا نادىر مەزمۇنلارنى كۆرۈش</string>
-    <string name="midnight">يېرىم كېچە</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">ھەممىنى تاللىماسلىق</string>
-    <string name="miuix_appcompat_action_mode_select_all">ھەممىنى تاللاش</string>
-    <string name="miuix_appcompat_action_mode_title_empty">تاللاش</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">باشقىلىرى</string>
-    <string name="miuix_appcompat_cancel_description">بىكار قىلىش</string>
-    <string name="miuix_appcompat_confirm_description">جەزملەش</string>
-    <string name="miuix_appcompat_delete_description">ئۆچۈرۈش</string>
-    <string name="miuix_appcompat_deselect_all">ھەممىنى تاللىماسلىق</string>
-    <string name="miuix_appcompat_deselect_all_description">ھەممىنى تاللىماسلىق</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">بىكار قىلىش</string>
-    <string name="miuix_appcompat_search_input_description">ئىزدەش</string>
-    <string name="miuix_appcompat_select_all">ھەممىنى تاللاش</string>
-    <string name="miuix_appcompat_select_all_description">ﮬﻪﻣﻤﯩﻨﻰ ﺗﺎﻟﻼﺵ</string>
-    <string name="miuix_appcompat_select_item">تۈر تاللاڭ</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ئاستىغا سىيرىپ يېڭىلاڭ</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">يېڭـىلاندى</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">يېڭىلىنىۋاتىدۇ</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">قويۇۋېتىپ يېڭىلاش</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">تۈگىدى</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">تۈگەپ قالدى</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">يۈكلىنىۋاتىدۇ...</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">يۈكلەنمىدى</string>
-    <string name="mnc_live_tv">بىۋاسىتە قويۇش</string>
-    <string name="moment_guide_desc">قوش بارماقتا سىيرىپ تىزىملىكنى چوڭايتىپ كىچىكلەتسىڭىز بولىدۇ</string>
-    <string name="moment_tab_all">ھەممە</string>
-    <string name="moment_tab_facebook">Facebook</string>
-    <string name="moment_tab_image">سىنغا ئېلىش</string>
-    <string name="moment_tab_instagram">Instagram</string>
-    <string name="moment_tab_qq">QQ</string>
-    <string name="moment_tab_sina_weibo">ۋېيبو</string>
-    <string name="moment_tab_video">سىنغا ئېلىش</string>
-    <string name="moment_tab_wechat">ئۈندىدار</string>
-    <string name="moment_tab_whatsapp">WhatsApp</string>
-    <string name="moment_title_my_videos">سىنلىرىم</string>
-    <string name="monday">دۈشەنبە</string>
-    <string name="monday_short">دۈشەنبە</string>
-    <string name="monday_shortest">دۈشەنبە</string>
-    <string name="month">ئاي</string>
-    <string name="month_april">4-ئاي</string>
-    <string name="month_april_short">ئاپرېل</string>
-    <string name="month_april_shortest">ئاپرېل</string>
-    <string name="month_august">8-ئاي</string>
-    <string name="month_august_short">ئاۋغۇست</string>
-    <string name="month_august_shortest">ئاۋغۇست</string>
-    <string name="month_december">12-ئاي</string>
-    <string name="month_december_short">دېكابىر</string>
-    <string name="month_december_shortest">دېكابىر</string>
-    <string name="month_february">2-ئاي</string>
-    <string name="month_february_short">فېۋرال</string>
-    <string name="month_february_shortest">فېۋرال</string>
-    <string name="month_january">1-ئاي</string>
-    <string name="month_january_short">يانۋار</string>
-    <string name="month_january_shortest">يانۋار</string>
-    <string name="month_july">7-ئاي</string>
-    <string name="month_july_short">ئىيۇل</string>
-    <string name="month_july_shortest">ئىيۇل</string>
-    <string name="month_june">6-ئاي</string>
-    <string name="month_june_short">ئىيۇن</string>
-    <string name="month_june_shortest">ئىيۇن</string>
-    <string name="month_march">3-ئاي</string>
-    <string name="month_march_short">مارت</string>
-    <string name="month_march_shortest">مارت</string>
-    <string name="month_may">5-ئاي</string>
-    <string name="month_may_short">ماي</string>
-    <string name="month_may_shortest">ماي</string>
-    <string name="month_november">11-ئاي</string>
-    <string name="month_november_short">نويابىر</string>
-    <string name="month_november_shortest">نويابىر</string>
-    <string name="month_october">10-ئاي</string>
-    <string name="month_october_short">ئۆكتەبىر</string>
-    <string name="month_october_shortest">ئۆكتەبىر</string>
-    <string name="month_september">9-ئاي</string>
-    <string name="month_september_short">سېنتەبىر</string>
-    <string name="month_september_shortest">سېنتەبىر</string>
-    <string name="more">باشقىلىرى</string>
-    <string name="morning">چ ب</string>
-    <string name="my_favorite_channels">ياقتۇرغان قاناللىرىم</string>
-    <string name="my_feedback_title">تەكلىپ-پىكىرلىرىم</string>
-    <string name="need_update_app">كۆرسىتەلمىدى،يېڭى نەشىرگە يېڭىلاڭ</string>
-    <string name="network_connect_info">تور ئۇلانمىدى.</string>
-    <string name="network_error_info">تور بىنورمال.تور ئۇلاندىمۇ تەكشۈرۈڭ</string>
-    <string name="network_failed">تور ناچار</string>
-    <string name="network_timeout_info">تور ئاجىز،قايتا سىناڭ</string>
-    <string name="new_channel_tip">يېڭى قانال قوشۇلدى، كۆرۈپ بېقىڭ</string>
-    <string name="next">كېيىنكى قەدەم</string>
-    <string name="next_step">كېيىنكى قەدەم</string>
-    <string name="nick_name">ئىسمى</string>
-    <string name="night">كەچ</string>
-    <string name="no_account">ھېساباتقا كىرمىگەن</string>
-    <string name="no_history">قويۇش تارىخى</string>
-    <string name="no_longer_prompt">ئەسكەرتمىسۇن</string>
-    <string name="no_more_content">باشقا مەزمۇنلار يوق</string>
-    <string name="no_network_tips">تورغا ئۇلىنىشنى ھوقۇقلاندۇرمىغاچقا،بۇ ئىقتىدارنى ۋاقتىنچە ئىشلەتكىلى بولمايدۇ</string>
-    <string name="no_phone">باغلانغان يانفون يوق</string>
-    <string name="no_recommend_data">تەۋسىيە قىلغۇدەك مەزمۇن يوق</string>
-    <string name="no_subscriptions">مۇشتەرى بولغان مەزمۇن يوق</string>
-    <string name="noon">چۈش</string>
-    <string name="not_connect_wifi_tip">ھازىر WLAN غا ئۇلانمىدى، چۈشۈرسىڭىز ئېقىم مىقدارى خورايدۇ،داۋاملىق چۈشۈرەمسىز؟</string>
-    <string name="not_show">ئەمدى كۆرسەتمىسۇن</string>
-    <string name="not_support_share">كەچۈرۈڭ، بۇ مەزمۇننى ھەمبەھىرلەشنى ۋاقتىنچە قوللىمايدۇ</string>
-    <string name="notice_comment_action">%s سىزگە باھا بەردى</string>
-    <string name="notice_comment_action_deleted">باھا ئۆچۈرۈلدى</string>
-    <string name="notice_feedback_content">ئىنكاس مەزمۇنىڭىز ئىنكاس ھالىتىڭىزنى يېڭىلىدى،چېكىپ كۆرۈڭ</string>
-    <string name="notice_like_action">%s سىزنىڭ باھايىڭىزنى قوللىدى</string>
-    <string name="notice_message_title">ئۇقتۇرۇش</string>
-    <string name="notice_title">ئۇچۇر</string>
-    <string name="notification_bar">ئۇقتۇرۇش سىتونى</string>
-    <string name="notification_bar_player_subtitle">ئاچسىڭىز ئۇقتۇرۇش ئىستونىدا قويغۇچ كۆرۈنىدۇ</string>
-    <string name="notification_bar_player_title">ئۇقتۇرۇش ئىستونى قويغۇچى</string>
-    <string name="notification_last_played_status">يېقىندا قويۇلغىنى</string>
-    <string name="notification_open_tip">ئاچسىڭىز ئۇقتۇرۇشنى قوللايسىز</string>
-    <string name="notification_promotion">تەۋسىيە</string>
-    <string name="notification_recall_action">ھازىرلا ئېچىش</string>
-    <string name="notification_recall_desc">سىز ئۈچۈن ئەڭ قالتىس ئەڭ يېڭى سىنلارنى تەۋسىيە قىلىدۇ، قولدىن بېرىپ قويماڭ</string>
-    <string name="notification_recall_title">تەۋسىيە ئۇقتۇرۇشىنى ئېچىش</string>
-    <string name="notification_tool">قوراللار سىتونى</string>
-    <string name="notify_apk_installed">چۈشۈرۈش تامام، دەرھال سىناش</string>
-    <string name="off_tip_firework_recommend">Firework نىڭ ئۆزگىچە تەۋسىيە مەزمۇنىنى كۆرسىتەلمىدى</string>
-    <string name="ok">ماقۇل</string>
-    <string name="on_tip_firework_recommend">Firework نىڭ ئۆزگىچە تەۋسىيە مەزمۇنىنى كۆرسىتىش</string>
-    <string name="open_settings">تەڭشەك</string>
-    <string name="order_alphabet">A-Z</string>
-    <string name="order_recently_subscribe">يېقىندا مۇشتەرى بولغىنى</string>
-    <string name="order_recently_updated">يېقىندا يېڭىلانغىنى</string>
-    <string name="ovp_alert_dialog_download_install_task">ئورنىتىۋاتىدۇ،ساقلاڭ…</string>
-    <string name="ovp_buffering_video_netplay_label_v5">سىن غەملىنىۋاتىدۇ</string>
-    <string name="ovp_category">تۈرگە ئايرىش</string>
-    <string name="ovp_confirm_delete_favor">بۇ ساقلانمىلارنى ئۆچۈرەمسىز؟</string>
-    <string name="ovp_default_plugin_name">سۈزۈك قويغۇچ دىتالى</string>
-    <string name="ovp_detail_back_to_watch_more">باشقا سىنلارنى بايقاش</string>
-    <string name="ovp_detail_collapse_summary">يىغش</string>
-    <string name="ovp_detail_collect">ساقلاش</string>
-    <string name="ovp_detail_comment">باھا</string>
-    <string name="ovp_detail_deeplink_collect">ساقلىۋېلىش تىزىملىكىگە قوشۇلدى</string>
-    <string name="ovp_detail_deeplink_plugin_download_error">چۈشۈرۈش مەغلۇپ بولدى</string>
-    <string name="ovp_detail_deeplink_plugin_downloading">قويۇش دىتالىنى چۈشۈرۈپ قاچىلاۋتىدۇ</string>
-    <string name="ovp_detail_deeplink_plugin_install_error">قاچىلاش مەغلۇپ بولدى</string>
-    <string name="ovp_detail_deeplink_unCollect">قىسقۇچقا قوشۇش قالدۇرۇلدى</string>
-    <string name="ovp_detail_douban_score">دوۋبەن باھاسى</string>
-    <string name="ovp_detail_download">چۈشۈرۈش</string>
-    <string name="ovp_detail_has_empty_cp">قويۇش مەنبەسى يوق</string>
-    <string name="ovp_detail_more_episode">باشقىلىرى</string>
-    <string name="ovp_detail_more_summary">باشقىلىرى</string>
-    <string name="ovp_detail_require_pay">يەككە ھەق تۆلەش</string>
-    <string name="ovp_detail_require_subscription">مۇشتەرى بولۇش كېرەك</string>
-    <string name="ovp_detail_score">باھا نومۇرى:</string>
-    <string name="ovp_detail_shortcut">قىسقا يول</string>
-    <string name="ovp_detail_summary">تونۇشتۇرۇش</string>
-    <string name="ovp_detail_v_all_episode">ھەممە قىسمى</string>
-    <string name="ovp_detail_v_episode">قىسىملىق</string>
-    <string name="ovp_detail_v_episode_all">جەمئىي%1$dقىسىم / %2$d-قىسىمغىچە يېڭىلاندى</string>
-    <string name="ovp_detail_v_episode_count">%d -قىسىمغىچە يېڭىلاندى</string>
-    <string name="ovp_detail_v_episode_download_null">بۇ قىسىم چۈشمەيدۇ</string>
-    <string name="ovp_detail_v_variety_episode_count">%s-بۆلۈمگىچە يېڭىلاندى</string>
-    <string name="ovp_episode_suffix">%d-قىسىم</string>
-    <string name="ovp_favor">ساقلىۋېلىش</string>
-    <string name="ovp_favor_null">ساقلىۋالغان سىن يوق</string>
-    <string name="ovp_feedback_title">شياۋمى سىنى ئىشلەتكۈچى ئىنكاسى</string>
-    <string name="ovp_home_folder_is_null_jump_upfolder_tip">زىيارەت قىلغان ھۆججەت قىسقۇچتا مېدىيا ھۆججىتى يوق،ئالدىنقى مۇندەرىجىگە ئاپتوماتىك قايتىدۇ</string>
-    <string name="ovp_home_item_camera">ئالبوم</string>
-    <string name="ovp_home_item_download">چۈشۈرۈش</string>
-    <string name="ovp_home_item_folder">ھۆججەت قىسقۇچ</string>
-    <string name="ovp_home_local">يەرلىكتىكى سىن</string>
-    <string name="ovp_home_me">مەن</string>
-    <string name="ovp_home_no_data_callback">سانلىق مەلۇماتقا ئېرىشەلمىدى،ئاستىغا سىيرىپ يېڭىلاڭ</string>
-    <string name="ovp_home_online">توردىكى سىن</string>
-    <string name="ovp_home_online_content_title">توردىكى مەزمۇن</string>
-    <string name="ovp_info_video_loading">سىن يۈكلىنىۋاتىدۇ...</string>
-    <string name="ovp_load_playinfo_failure">قويۇش ئادرېسىغا ئېرىشكىلى بولمىدى</string>
-    <string name="ovp_loading_video_netplay_label_v5">سىن يۈكلىنۋاتىدۇ، سەل ساقلاڭ...</string>
-    <string name="ovp_local_videos_title">يەرلىكتىكى سىن</string>
-    <string name="ovp_navigation_category">تۈرگە ئايرىش</string>
-    <string name="ovp_navigation_content">مەزمۇن ھەمكارلىشىش</string>
-    <string name="ovp_navigation_favorites">ساقلىۋېلىش</string>
-    <string name="ovp_navigation_feedback">ئىنكاس</string>
-    <string name="ovp_navigation_history">بۇرۇنقى</string>
-    <string name="ovp_navigation_home">باش بەت</string>
-    <string name="ovp_navigation_language">تىل</string>
-    <string name="ovp_navigation_localvideo">يانفوندىكى</string>
-    <string name="ovp_navigation_notice">ئۇقتۇرۇش</string>
-    <string name="ovp_navigation_setting">تەڭشەك</string>
-    <string name="ovp_navigation_subscribe">مۇشتەرى بولۇش</string>
-    <string name="ovp_player_cached_error_btn">توردا قويۇش</string>
-    <string name="ovp_player_cached_error_hint_info">يەرلىكتىكى سىننى ھازىر قويغىلى بولمايدۇ</string>
-    <string name="ovp_player_plugin_dlg_neg_btn">تاقاش</string>
-    <string name="ovp_player_plugin_dlg_no_content">سىن قويۇش قىستۇرمىسى قاچىلانمىغان</string>
-    <string name="ovp_player_plugin_dlg_title">سىن قويۇش قىستۇرمىسى</string>
-    <string name="ovp_player_update_dialog_info">بۇ سىننى قويۇش ئۈچۈن قستۇرمىنى يېڭى نەشىرگە يېڭىلىشىڭىز كېرەك، ھازىر يېڭىلامسىز؟</string>
-    <string name="ovp_player_update_info">"بۇ سىننى قويغىلى بولمايدۇ. 
- Mi Video نى ئەڭ يېڭى نەشىرگە يېڭىلىشىڭىز كېرەك"</string>
-    <string name="ovp_playlist">قويۇش</string>
-    <string name="ovp_plugin_install_failure">ئورنىتالمىدى</string>
-    <string name="ovp_resolution_auto">ئاپتوماتىك</string>
-    <string name="ovp_resolution_not_support">نۆۋەتتىكى سىن كۆپ تۈردىكى سۈزۈكلۈك دەرىجىسىنى قوللىمايدۇ</string>
-    <string name="ovp_resolution_title">ئېنىقلىق دەرىجىسى</string>
-    <string name="ovp_search_key_not_null">ئىزدەيدىغان سۆز قۇرۇق قالمىسۇن</string>
-    <string name="ovp_select_ci">قىسىم تاللاش</string>
-    <string name="ovp_select_related_video">مۇناسىۋەتلىك سىن</string>
-    <string name="ovp_setting_clear_cache_success">غەملەك تازىلاندى</string>
-    <string name="ovp_setting_clear_cache_text">يەرلىكتىكى غەملەك ئۇچۇرىنى تازىلاش</string>
-    <string name="ovp_setting_clear_cache_title">غەملەك تازىلاش</string>
-    <string name="ovp_setting_privacy_policy_title">شەخسىي مەخپىيەتلىك سياسىتى</string>
-    <string name="ovp_setting_privacy_switch_tips">تاقىاندىن كېيىن بەزى ئىقتىدارلارنى ئىشلىتەلمەيسىز</string>
-    <string name="ovp_setting_privacy_switch_title">ھوقۇقلاندۇرۇش ۋە ھوقۇقلاندۇرۇشنى قايتۇرىۋېلىش</string>
-    <string name="ovp_setting_user_agreement_title">ئىشلەتكۈچى كېلىشىمى</string>
-    <string name="ovp_setting_version_info_title">نەشر ئۇچۇرى</string>
-    <string name="ovp_start_error_msg">سىن قويۇلمىدى</string>
-    <string name="ovp_video_bad_network_condition">تور سۈرئىتى ياخشى ئەمەس ، سەل تۇرۇپ قايتا سىناڭ</string>
-    <string name="ovp_video_create_video_error_info">قويۇش بۆلىكىنى دەسلەپلەشتۈرۈش مەغلۇپ بولدى，، سەل تۇرۇپ قايتا سىناڭ</string>
-    <string name="ovp_video_invalid_cp_info">سىن تەمىنلەش ئۇچۇرى ئىناۋەتسىز، ئەپنى قايتا قوزغىتىڭ</string>
-    <string name="ovp_video_loading">قويۇلىۋاتىدۇ %1$s</string>
-    <string name="ovp_video_plugin_installation">سۈزۈك قويۇش ئۈچۈن %1$s قىستۇرمىسى قاچىلىنىۋاتىدۇ</string>
-    <string name="ovp_video_plugin_installation_failure">%1$s قويۇش قىستۇرمىسىنى قاچىلاش مەغلۇپ بولدى</string>
-    <string name="ovp_video_plugin_installation_two">سانلىق مەلۇمات يۈكلىنىۋاتىدۇ، سەل ساقلاڭ</string>
-    <string name="page_title_language">تىل</string>
-    <string name="passport_access_denied">زىيارەت قىلىش چەكلىمىگە ئۇچرىغان</string>
-    <string name="passport_account_label">شياۋمى ھېساباتى</string>
-    <string name="passport_account_name">"ھېسابات: %1$s "</string>
-    <string name="passport_activate_token_expired">دەلىللەش ۋاقتى ئۆتتى،قايتا سىناڭ</string>
-    <string name="passport_area_code_title">دۆلەترايون نومۇرى تاللاش</string>
-    <string name="passport_bad_authentication">ئىسمى بىلەن پارول ماس كەلمىدى</string>
-    <string name="passport_barcode_add_account_prompt">كىرگەندىن كېيىن ئىككىلىك كودنى قايتا سىكانىرلاپ ھوقۇقلاندۇرۇپ كىرىڭ</string>
-    <string name="passport_can_not_receive_verification_code">دەلىللەش نومۇرىغا ئېرىشەلمىدى؟</string>
-    <string name="passport_captcha_title">دەلىللەش نومۇرى</string>
-    <string name="passport_checking_account">دەلىللەۋاتىدۇ...</string>
-    <string name="passport_close">تاقاش</string>
-    <string name="passport_delete_account">ھېساباتتىن چېكىنىش</string>
-    <string name="passport_email">تورخەت ئادرېسىڭىزنى تولدۇرۇڭ</string>
-    <string name="passport_empty_password">پارول قۇرۇق بولسا بولمايدۇ</string>
-    <string name="passport_empty_user_name">ئىشلەتكۈچى ئىسمى بوش قالمىسۇن</string>
-    <string name="passport_error_auth_fail">ھېسابات ئۇچۇرى ۋاقتى ئۆتكەن،قايتا سىناڭ</string>
-    <string name="passport_error_device_id">ئۈسكۈنە نومۇرىغا ئېرىشەلمىدى</string>
-    <string name="passport_error_email">تورخەت فورماتى خاتا</string>
-    <string name="passport_error_empty_captcha_code">رەسىم دەلىللەش نومۇرى قۇرۇق قالمىسۇن</string>
-    <string name="passport_error_empty_email">تورخەت ئادرېسى قۇرۇق قالمىسۇن</string>
-    <string name="passport_error_empty_phone_num">يانفون نومۇرى قۇرۇق قالمىسۇن</string>
-    <string name="passport_error_empty_pwd">پارول قۇرۇق بولسا بولمايدۇ</string>
-    <string name="passport_error_empty_vcode">دەلىللەش كودى قۇرۇق قالمىسۇن</string>
-    <string name="passport_error_empty_voice_code">ئاۋازلىق دەلىللەش كودى قۇرۇق قالمىسۇن</string>
-    <string name="passport_error_illegal_pwd">پارول فورماتى خاتا</string>
-    <string name="passport_error_network">نۆۋەتتە تورنى ئىشلەتكىلى بولمايدۇ</string>
-    <string name="passport_error_no_password_user">ھېساباتىڭىز پارولغا باغلانمىغان، يانفون ئۇچۇرى ئارقىلىق كىرىڭ</string>
-    <string name="passport_error_phone_error">يانفون فورماتىنى تەكشۈرۈڭ</string>
-    <string name="passport_error_server">مۇلازىمېتىردىن خاتالىق چىقتى</string>
-    <string name="passport_error_unknown">نامەلۇم خاتالىق</string>
-    <string name="passport_error_user_agreement_error">ئىشلەتكۈچىلەر ماددىلىرىغا قوشۇلۇڭ</string>
-    <string name="passport_error_user_name">ئىشلەتكۈچى ئىسمى مەۋجۇت ئەمەس</string>
-    <string name="passport_forget_password"><u> پارولنى ئۇنتۇش</u></string>
-    <string name="passport_get_verify_code">دەلىللەش كودىغا ئېرىشىش</string>
-    <string name="passport_getting_verify_code">ئېرىشىۋاتىدۇ</string>
-    <string name="passport_identification_expired">دەلىللەش ۋاقتى ئۆتتى،قايتىدىن سىناڭ</string>
-    <string name="passport_input_captcha_hint">رەسىمدىكى دەلىللەش نومۇرىنى كىرگۈزۈڭ</string>
-    <string name="passport_input_password_hint">ھېسابات پارولىنى كىرگۈزۈڭ</string>
-    <string name="passport_input_phone_hint">يانفون نومۇرىنى كىرگۈزۈڭ</string>
-    <string name="passport_input_vcode_hint">ئۇچۇر دەلىللەش كودىنى كىرگۈزۈڭ</string>
-    <string name="passport_input_voice_captcha_hint">ئاۋازلىق دەلىللەش كودىنى كىرگۈزۈڭ</string>
-    <string name="passport_input_voice_hint">ئاۋازلىق دەلىللەش كودىنى كىرگۈزۈڭ</string>
-    <string name="passport_international_phone_password_login_tip">(جۇڭگو چېگرا سىرتىدىكى ئابونىت تۆۋەندىكى شەكىل بويىچە يانفون نومۇرىنى كىرگۈزۈڭ: +دۆلەت كودى يانفون نومۇرى،مەسىلەن: 91 817282982)</string>
-    <string name="passport_log_detail">خاتىرە تەپسىلاتىنى كۆرۈش</string>
-    <string name="passport_login_failed">كىرىش مەغلۇپ بولدى</string>
-    <string name="passport_next">كېيىنكى</string>
-    <string name="passport_next_step">كېيىنكى</string>
-    <string name="passport_password_req_notice">"پارول ئۇزۇنلىقى8~16 خانە،ئۇنىڭ ئىچىدە ھەرپ،رەقەم،بەلگىلەردىن ئاز دېگەندە ئىككىسى بولسۇن
- (مەسىلەن:123abc@# ياكى123abc ياكىabc@#)"</string>
-    <string name="passport_querying_phone_info">ھېسابات ئۇچۇرىنى تەكشۈرىۋاتىدۇ</string>
-    <string name="passport_quick_login_dialog_step2_title">كىرىشنى قوغداش</string>
-    <string name="passport_quick_login_dialog_title">ھېسابات پارولىنى دەلىللەش</string>
-    <string name="passport_quick_login_step2_title">شياۋمىغا كىرىشنى قوغداش</string>
-    <string name="passport_quick_login_title">"سىزنىڭ شياۋمى ھېساباتىڭىزنى دەلىللەشكە مۇھتاج، 
- ھېسابات پارولىڭىزنى كىرگۈزۈڭ"</string>
-    <string name="passport_re_get_verify_code">قايتىدىن ئېرىشىش</string>
-    <string name="passport_reging">تىزىملىتىۋاتىدۇ،ساقلاڭ...</string>
-    <string name="passport_register_restricted">بۇ يانفون نومۇرى يېقىندا كۆپلىگەن شياۋمى ھېساباتىغا تىزىملىتىلغان، نومۇر ئالماشتۇرۇپ سىناپ بېقىڭ</string>
-    <string name="passport_reload_ph_ticket">قايتىدىن ئېرىشىش</string>
-    <string name="passport_relogin_notice">كىرىش خاتا، قايتىدىن كىرىڭ</string>
-    <string name="passport_send_too_many_code">بەك كۆپ ئۇچۇر ئەۋەتىلدى، باشقا ۋاقىتتا سىناڭ</string>
-    <string name="passport_send_too_many_sms">بەك كۆپ ئۇچۇر ئەۋەتىلدى، باشقا ۋاقىتتا سىناڭ</string>
-    <string name="passport_sending_vcode">دەلىللەش كودىنى يوللاۋاتىدۇ...</string>
-    <string name="passport_set_password">ھېسابات پارولىنى تەڭشەڭ</string>
-    <string name="passport_set_password_no_phone_msg">سانلىق مەلۇمات بىخەتەرلىكىڭىزنى قوغداش ئۈچۈن،ئاۋۋال يانفونىڭىزنى باغلاڭ</string>
-    <string name="passport_sign_in">كىرىش</string>
-    <string name="passport_sign_in_or_sign_up">كىرىش/ تىزىملىتىش</string>
-    <string name="passport_sms_phone_intro">ئۇچۇر دەلىللەش نومۇرى %1$s غا يوللاندى</string>
-    <string name="passport_talkback_image_captcha">رەسىملىك دەلىللەش كوى</string>
-    <string name="passport_talkback_switch_image_captcha">رەسىملىك دەلىللەش كودىغا ئالماشتۇرۇش</string>
-    <string name="passport_talkback_switch_voice_captcha">ئاۋازلىق دەلىللەش كودىغا ئالماشتۇرۇش</string>
-    <string name="passport_talkback_voice_captcha">ئاۋازلىق دەلىللەش كودىنى قويۇش</string>
-    <string name="passport_timeout_network_error">تور تەلىپى ۋاقتى ئاشتى</string>
-    <string name="passport_trust_device">بۇ يانفوننى ئىشەنچىلىك ئۈسكۈنىلەر تىزىملىكىگە قوشۇش</string>
-    <string name="passport_trying_read_verify_code_sms">دەلىللەش كودىغا ئېرىشىشنى سىناۋاتىدۇ</string>
-    <string name="passport_unknow_error">كەچۈرۈڭ نامەلۇم خاتالىق</string>
-    <string name="passport_unknow_host_network_error">تور ئۇلىنىشى خاتا،تەكشۈرۈڭ</string>
-    <string name="passport_unknow_network_error">كەچۈرۈڭ،نامەلۇم تور خاتالىقى</string>
-    <string name="passport_user_agreement_link">&lt;Data> ئوقۇپ ۋە قوشۇلغۇنۇم:شياۋمى &lt;a href=%1$s> ئىشلەتكۈچى كېلىشىمى &lt;/a> ۋە &lt;a href=%2$s> شەخسىيەت سىياسىتى&lt;/a>&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data> ئوقۇپ قوشۇلغىنىم:شياۋمى &lt;a href=%1$s> ئىشلەتكۈچى كېلىشىمى&lt;/a>. &lt;a href=%2$s>%3$s&lt;/a> ۋە &lt;a href=%4$s> شەخسىيەت سىياسىتى&lt;/a> &lt;/Data></string>
-    <string name="passport_user_id_intro">ھېسابات %1$s نىڭ پارولىنى كىرگۈزۈڭ</string>
-    <string name="passport_v_code_error">بىخەتەرلىك دەلىللەش كودى خاتا</string>
-    <string name="passport_vcode_notification_title">كىرىشنى دەلىللەش تاماملانمىدى</string>
-    <string name="passport_vcode_prompt_long">شياۋمى ھاسىل قىلغان دەلىللەش كودىنى كىرگۈزۈڭ</string>
-    <string name="passport_vcode_sms_send_prompt">ئۇچۇر دەلىللەش كودى %s غا ئەۋەتىلدى</string>
-    <string name="passport_verification_failed">دەلىللەش مەغلۇپ بولدى</string>
-    <string name="passport_verify">دەلىللەش</string>
-    <string name="passport_wechat_not_install">ئۈندىدار قاچىلانمىغان</string>
-    <string name="passport_wrong_captcha">رەسىملىك دەلىللەش نومۇرى خاتا</string>
-    <string name="passport_wrong_phone_number_format">يانفون نومۇرى فورماتى خاتا</string>
-    <string name="passport_wrong_vcode">دەلىللەش كودى خاتا</string>
-    <string name="passport_wrong_voice">ئاۋازلىق دەلىللەش نومۇرى خاتا</string>
-    <string name="permission_continue">داۋاملاشتۇرۇش</string>
-    <string name="permission_info">"شياۋمى سىنى سىزنىڭ IMEI ھوقۇقىڭىزغا ئېرىشىشكە مۇھتاج، 
- 
- نىڭ سىزگە تېخىمۇ ياخشى بولغان سىن مۇلازىمىتى بىلەن تەمىنلەش ئۈچۈن
-ھېسابات بىخەتەرلىكى خەۋپىنى تۆۋەنلىتىدۇ"</string>
-    <string name="permission_info1">شياۋمى سىنى سىزنىڭ IMEI ھوقۇقىڭىزنى زىيارەت قىلماقچى</string>
-    <string name="permission_info2">سىز ئۈچۈن تېخىمۇ ياخشى سىن مۇلازىمىتى بىلەن تەمىنلەش ئۈچۈن</string>
-    <string name="permission_info3">سىزنىڭ ھېسابات بىخەتەرلىك خەۋپىڭىزنى تۆۋەنلىتىدۇ</string>
-    <string name="permission_phone">تېلېفون</string>
-    <string name="permission_phone_desc">يانفون سۆزلىشىش ھالىتىگە ئېرىشىپ، ئىشلەتكۈچى سۆزلەشكەندە سىن قويۇشنى توختىتىشقا قولايلىق يارىتىدۇ</string>
-    <string name="permission_storage">ساقلاش</string>
-    <string name="permission_storage_desc">ساقلاش بوشلۇقى ئۇچۇرىنى ئوقۇپ يېزىپ، يانفوندىكى سىننى كۆرسىتىش ۋە قويۇشقا ئىشلىتىدۇ</string>
-    <string name="permission_title">ھوقۇق ئىلتىماس قىلىش</string>
-    <string name="pgc_push_title">مۇشتەرى بولغىنىڭىز</string>
-    <string name="phone_bind_too_many">بۇ يانفونغا قىسقا ۋاقىتتا بەك كۆپ شياۋمى ھېساباتى باغلىنىپتۇ، نومۇر ئالماشتۇرۇپ سىناڭ</string>
-    <string name="phone_hint">يانفون نومۇرىنى كىرگۈزۈڭ</string>
-    <string name="phone_num_use_for">يانفون نومۇرىنى ئىشلىتىش ئورنى:</string>
-    <string name="phone_number">يانفون نومۇرى</string>
-    <string name="photoPickerNotFoundText">ئالبومىڭىزدا رەسىم يوق</string>
-    <string name="pip">رەسىمنىڭ ئىچىدىكى رەسىم</string>
-    <string name="playlist_create">قۇرۇش</string>
-    <string name="playlist_detail_recomm_title">تەۋسىيە قىلىدىغان قويۇش تىزىملىكى</string>
-    <string name="playlist_finish">تاماملاندى</string>
-    <string name="playlist_hot">سەرخىل</string>
-    <string name="playlist_name">قويۇش تىزىملىكى ئىسمى</string>
-    <string name="playlist_new">ئەڭ يېڭى</string>
-    <string name="playlist_no_more">باشقا سىن قالمىدى</string>
-    <string name="playlist_no_videos">سىن قوشمىغان</string>
-    <string name="playlist_offline">كەچۈرۈڭ،بۇ قويۇش تىزىملىكى چۈشۈرۋېتىلدى</string>
-    <string name="playlist_remove">چىقىرۋېتىش</string>
-    <string name="playlist_title">قويۇش تىزىملىكى</string>
-    <string name="playlist_view_more">باشقا قويۇلغانلىرىنى كۆرۈش</string>
-    <string name="plus_add_shortcut">يەرلىكتىكى سىننى ئېكراندا قويىدۇ</string>
-    <string name="plus_change_poster">ئالبوم مۇقاۋىسىنى ئالماشتۇرۇش</string>
-    <string name="plus_continue_watching">داۋملىق قويۇش</string>
-    <string name="plus_deleting_wait">ئۆچۈرۈۋاتىدۇ</string>
-    <string name="plus_fallback">ئىنكاس</string>
-    <string name="plus_gallery_allvideos">بارلىق سىن</string>
-    <string name="plus_gallery_folder_switch_guid">چېكىپ تىزىملىك ھالىتىنى ئالماشتۇرۇڭ</string>
-    <string name="plus_gallery_mediatype_aimusic">ئەقلىي مۇزىكا سەپلەش</string>
-    <string name="plus_gallery_mediatype_changtu">ئۇزۇن رەسىم</string>
-    <string name="plus_gallery_mediatype_fangtu">كىۋادىرات رەسىم</string>
-    <string name="plus_gallery_mediatype_fastslowvideo">تېز ئاستا سىن</string>
-    <string name="plus_gallery_mediatype_gif">ھەرىكەتلىك رەسىم</string>
-    <string name="plus_gallery_mediatype_hidded">يوشۇرۇندى</string>
-    <string name="plus_gallery_mediatype_longvideo">ئۇزۇن سىن</string>
-    <string name="plus_gallery_mediatype_quanjing">پۈتۈن كۆرۈنۈش</string>
-    <string name="plus_gallery_nocontents">ھازىرچە ھۆججەت يوق</string>
-    <string name="plus_gallery_title_mediatype">مېدىيا تۈرى</string>
-    <string name="plus_gallery_title_othergallery">باشقا ئالبوملار</string>
-    <string name="plus_gallery_video_title_mediatype">سىن تۈرى</string>
-    <string name="plus_gallery_video_title_othergallery">باشقا سىنلار</string>
-    <string name="plus_loading_text">مەزمۇن يۈكلىنىۋاتىدۇ</string>
-    <string name="plus_menu_delete">ئۆچۈرۈش</string>
-    <string name="plus_menu_delete_popup_text">ئۆچۈرەمسىز؟</string>
-    <string name="plus_menu_properties">خاسلىقى</string>
-    <string name="plus_menu_rename">ئىسىمنى ئۆزگەرتىش</string>
-    <string name="plus_menu_rename_cant_empty">ھۆججەت ئىسمىنى بوش قالدۇرماڭ</string>
-    <string name="plus_menu_rename_fail">ھۆججەت ئىسمى / نى ئۆزئىچىگە ئالسا بولمايدۇ</string>
-    <string name="plus_menu_share">ھەمبەھرلىنىش</string>
-    <string name="plus_mine_gallery">ئالبومۇم</string>
-    <string name="plus_mine_videos">سىنلىرىم</string>
-    <string name="plus_player_8k_video_not_support">نۆۋەتتىكى ئۈسكۈنە 8k سىن قويۇشنى قوللىمايدۇ</string>
-    <string name="plus_player_audio_track">ئاۋاز يولى</string>
-    <string name="plus_player_detail_file_location">تارتىلغان ئورۇن:</string>
-    <string name="plus_player_detail_file_name">ھۆججەت ئىسمى</string>
-    <string name="plus_player_detail_file_param">تارتىش پارامېتىرى:</string>
-    <string name="plus_player_detail_file_path">ھۆججەت ئورنى:</string>
-    <string name="plus_player_detail_file_time">تارتىلغان ۋاقىت:</string>
-    <string name="plus_player_hide">يوشۇرۇش</string>
-    <string name="plus_player_pip">رەسىمنىڭ ئىچىدىكى رەسىم</string>
-    <string name="plus_player_pip_unsupport">نۆۋەتتىكى سىستېما نەشرى قوللىمايدۇ</string>
-    <string name="plus_player_play_mode_auto">ئاپتوماتىك ئۇلاپ قويۇش</string>
-    <string name="plus_player_play_mode_list">تىزىملىك بويىچە قويۇش</string>
-    <string name="plus_player_play_mode_single_circle">بىر قىسىمنى قويۇۋېرىش</string>
-    <string name="plus_player_play_mode_stop">قويۇپ بولغاندىن كېيىن تورمۇزلاش</string>
-    <string name="plus_player_share_empty_toast">ھەمبەھىرلەيدىغان ھۆججەتنى تاللاڭ</string>
-    <string name="plus_player_share_screen">ئېكرانغا يوللاش</string>
-    <string name="plus_player_share_screen_connect_fail">ئېكرانغا يوللاش ئۈسكۈنىسى ئۇلانمىدى،قايتا سىناڭ</string>
-    <string name="plus_player_share_screen_connect_success">ئېكرانغا يوللاش ئۈسكۈنىسى ئۇلاندى</string>
-    <string name="plus_player_share_screen_device">ئېكرانغا يوللاش ئۈسكۈنىسى</string>
-    <string name="plus_player_share_screen_in_device">%s دە بۇ سىننى قويىۋاتىدۇ</string>
-    <string name="plus_player_share_screen_no_device">ئېكرانغا يوللايدىغان ئۈسكۈنە بايقالمىدى</string>
-    <string name="plus_player_share_screen_play">ئېكرانغا يوللاپ قويۇش</string>
-    <string name="plus_player_share_screen_searching_device">ئېكرانغا يوللاش ئۈسكۈنىسىنى ئىزدەۋاتىدۇ...</string>
-    <string name="plus_player_share_screen_starting_service">ئېكرانغا يوللاش مۇلازىمىتىنى قوزغىتىۋاتىدۇ…</string>
-    <string name="plus_player_share_screen_stop">يوللاشنى بىكار قىلىش</string>
-    <string name="plus_player_share_screen_video_not_support">نۆۋەتتىكى سىن فورماتى ئېكرانغا يوللاپ كۆرۈشنى قوللىمايدۇ</string>
-    <string name="plus_player_speed">قويۇش تېزلىكى</string>
-    <string name="plus_player_speed_toast">%s تېزلىككە ئالماشتۇرۇش ئۇتۇقلۇق بولدى</string>
-    <string name="plus_player_speed_toast_error">نۆۋەتتە تور سۈرئىتى مۇقىم ئەمەس،سۈكۈتتىكى سۈرئەتكە ئالماشتۇرۇشنى تەۋسىيە قىلىمىز</string>
-    <string name="plus_player_subtitle">خەت</string>
-    <string name="plus_player_subtitle_dir_back">ئۈستىنكى قەۋەت</string>
-    <string name="plus_player_subtitle_local">يەرلىكتىكى خەت</string>
-    <string name="plus_player_subtitle_local_add_fail">تېكىست قوشۇش مەغلۇپ بولدى،ئىناۋەتلىك خەتمۇ ئەمەس جەزملەڭ</string>
-    <string name="plus_player_subtitle_local_add_success">قولدا خەت قوشۇش تامام</string>
-    <string name="plus_player_subtitle_no_file">ئىشلەتكۈدەك خەت ھۆججىتى يوق</string>
-    <string name="plus_player_subtitle_online">توردىكى خەت</string>
-    <string name="plus_player_subtitle_online_declare_content">توردىكى خەتكە ئېرىشىش : &lt;br/> &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a> دىن خەتنى ئىزدەڭ&lt;br/> بارلىق خەتنى &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a> تەمىنلىگەن</string>
-    <string name="plus_player_subtitle_online_declare_title">جاۋابكارلىقتىن كەچۈرۈم قىلىش چۈشەندۈرۈلىشى</string>
-    <string name="plus_player_subtitle_online_download_fail">خەت ھۆججىتىنى چۈشۈرۈش مەغلۇپ بولدى</string>
-    <string name="plus_player_subtitle_online_download_start">خەت ھۆججىتىنى چۈشۈرىۋاتىدۇ…</string>
-    <string name="plus_player_subtitle_online_download_success">خەت ھۆججىتى چۈشۈرۈلدى!</string>
-    <string name="plus_player_subtitle_online_language">تىل：%s</string>
-    <string name="plus_player_subtitle_online_search_empty">توردىكى خەتنى تاپالمىدى</string>
-    <string name="plus_player_subtitle_online_search_hint">ئىزدەيدىغان ھالقىلىق خەتنى كىرگۈزۈڭ</string>
-    <string name="plus_player_subtitle_online_search_no_network">توردىن ئازراق مەسىلە چىقتى</string>
-    <string name="plus_player_unhide">يوشۇرۇشنى بىكار قىلىش</string>
-    <string name="plus_player_video_not_support">كەچۈرۈڭ،بۇ سىننى قويۇشنى ۋاقتىنچە قوللىمايدۇ</string>
-    <string name="plus_poster_reset_default">سۈكۈت ھالىتىگە قايتۇرۇش</string>
-    <string name="plus_properties_bit_rate">بىت چاستوتىسى</string>
-    <string name="plus_properties_codec">كود تەھرىرلىگۈچ</string>
-    <string name="plus_properties_date">چېسلا</string>
-    <string name="plus_properties_file">ھۆججەتلەر</string>
-    <string name="plus_properties_file_name">ھۆججەت ئىسمى</string>
-    <string name="plus_properties_finished">ئاخىرلاشتى</string>
-    <string name="plus_properties_format">فورماتى</string>
-    <string name="plus_properties_frame_rate">رام چاستوتىسى</string>
-    <string name="plus_properties_last_playback_position">ئەڭ ئاخىرقى ئورنى</string>
-    <string name="plus_properties_last_playback_time">ئالدىنقى قويغان ۋاقىت</string>
-    <string name="plus_properties_length">ۋاقتى</string>
-    <string name="plus_properties_media">مېدىيا</string>
-    <string name="plus_properties_path">يولى</string>
-    <string name="plus_properties_playback_history">قويۇش تارىخى</string>
-    <string name="plus_properties_resolution">ئېنىقلىقى</string>
-    <string name="plus_properties_sample_rate">ئەۋرىشكە ئېلىش نىسبىتى</string>
-    <string name="plus_properties_size">ھۆججەت چوڭلۇقى</string>
-    <string name="plus_properties_status">ھالىتى</string>
-    <string name="plus_properties_stream">مېدىيا ئېقىمى</string>
-    <string name="plus_properties_stream_title">ماۋزۇ</string>
-    <string name="plus_properties_type">تۈرى</string>
-    <string name="plus_properties_type_audio">ئاۋاز</string>
-    <string name="plus_properties_type_subtitle">خەت</string>
-    <string name="plus_properties_type_video">سىنلار</string>
-    <string name="plus_properties_unfinish">ئاخىرلاشمىدى</string>
-    <string name="plus_search_barhint">يەرلىكتىكى سىننى ئىزدەش</string>
-    <string name="plus_search_guide">سىن ھۆججىتىنى ئىزدەڭ</string>
-    <string name="plus_search_result_empty">ئالاقىدار سىن ھۆججىتىنى تاپالمىدى</string>
-    <string name="plus_share_channel_qq">QQ</string>
-    <string name="plus_share_channel_qzone">QQ بوشلۇقى</string>
-    <string name="plus_share_channel_wechat">ئۈندىدار</string>
-    <string name="plus_share_channel_wechat_moments">دوستلار چەمبىرىكى</string>
-    <string name="plus_share_channel_weibo">مىكرو بىلوگ</string>
-    <string name="plus_shortcut">يەرلىكتىكى سىن</string>
-    <string name="plus_shortcut_created_succ">تېز يول ھاسىللاندى</string>
-    <string name="plus_shortcut_existed">تېز يول مەۋجۇت</string>
-    <string name="plus_sort_title">تەرتىپ</string>
-    <string name="plus_sort_type_default">سۈكۈتتىكى رەت تەرتىپى</string>
-    <string name="plus_sort_type_name">نامى</string>
-    <string name="plus_sort_type_size">چوڭلۇقى</string>
-    <string name="plus_sort_type_time">ۋاقىت</string>
-    <string name="plus_tab_gallery">ھۆججەتلەر</string>
-    <string name="plus_tab_time">پەيت</string>
-    <string name="pm">چ ك</string>
-    <string name="privacy_revoke_setting">تاقىغاندىن كېيىن، شياۋمى سىنغا بەرگەن ھوقۇق قايتۇرىۋېلىنىدۇ</string>
-    <string name="privacy_revoke_title">ھوقۇقلاندۇرۇشنى قايتۇرۇۋېلىش</string>
-    <string name="progressbar_title">بىخەتەرلىك تەكشۈرۈلىۋاتىدۇ</string>
-    <string name="psw_hint">پارول</string>
-    <string name="psw_sign_in">پارولدا كىرىش</string>
-    <string name="pull_to_refresh_from_bottom_pull_label">ئۈستىگە ئىتتىرىپ يۈكلەش...</string>
-    <string name="pull_to_refresh_from_bottom_refreshing_label">يۈكلىنىۋاتىدۇ...</string>
-    <string name="pull_to_refresh_from_bottom_release_label">قويىۋېتىپ يۈكلەش</string>
-    <string name="pull_to_refresh_pull_label">تۆۋەنگە سىيرىپ يېڭىلاش...</string>
-    <string name="pull_to_refresh_refreshing_label">يۈكلىنىۋاتىدۇ...</string>
-    <string name="pull_to_refresh_release_label">قويىۋېتىپ يېڭىلاش...</string>
-    <string name="push_message_switch">ئۇچۇر ئەۋەتىش</string>
-    <string name="push_message_tips">ئاچقاندىن كېيىن،ھەرۋاقىت نادىر ئۇچۇرلار ئەۋەتىلىدۇ</string>
-    <string name="pw_channels">قانال</string>
-    <string name="read_and_agree">ئوقۇدۇم ۋە قوشۇلدۇم</string>
-    <string name="recommend_channels">تەۋسىيە قىلغان قانال</string>
-    <string name="recommend_online_switch">توردىكى سىنلار تەۋسىيەسى</string>
-    <string name="recommend_online_switch_open_time">بۇ ئىقتىدار %s كە بارغاندا ئاپتوماتىك ئېچىلىدۇ</string>
-    <string name="recommend_online_tips">ئاچقاندىن كېيىن،يانفوندىكى سىننى قويۇپ بولغاندىن كېيىن توردىكى سىننى تەۋسىيە قىلىدۇ</string>
-    <string name="recommend_page_replay">قايتا قويۇش</string>
-    <string name="recommend_switch_alert">بۇ مودېلنى يۆتكىمەكچى بولسىڭىز، شياۋمى سىنى تەڭشىكىدىن ئۆزگەرتىڭ</string>
-    <string name="recommend_to_you">تەۋسىيەرىمىز</string>
-    <string name="reload_sub_title">ئېكران چېكىپ قايتا سىناڭ</string>
-    <string name="reload_title">تورغا ئۇلانمىدى</string>
-    <string name="remaining_space">قالغان بوشلۇق: %s</string>
-    <string name="remaining_space_not_enough">ئېشىندى بوشلۇق يېتىشمەيدۇ، داۋانلىق چۈشۈرگىلى بولمايدۇ</string>
-    <string name="reminder">ئەسكەرتىش</string>
-    <string name="rename">ئىسىمنى ئۆزگەرتىش</string>
-    <string name="report">ئىنكاس</string>
-    <string name="report_content_dislike">زوراۋانلىق ياكى كىشىنى بىزار قىلىدىغان مەزمۇن</string>
-    <string name="report_content_fakement">ئەخلەت ئۇچۇر ياكى ئالدامچىلىق</string>
-    <string name="report_content_harmful">زىيانلىق ياكى خەتەرلىك قىلمىش</string>
-    <string name="report_content_hatred">ئۆچمەنلىك ياكى ھاقارەت خاراكتېرلىك مەزمۇن</string>
-    <string name="report_content_illegal">قانۇنسىز مەزمۇن</string>
-    <string name="report_content_other">ﺑﺎﺷﻘﺎ</string>
-    <string name="report_content_rubbish">ئەخلەت ياكى يامان يولغا باشلايدىغان مەزمۇن</string>
-    <string name="report_content_sexy">شەھۋانىي مەزمۇن</string>
-    <string name="report_content_violence">زوراۋانلىق مەزمۇنى</string>
-    <string name="report_fail">پاش قىلىش مەغلۇپ بولدى،قايتا سىناڭ</string>
-    <string name="report_success">پاش قىلىندى</string>
-    <string name="request_camera_permission_message">بۇ مۇلازىمەت سىزنىڭ تۆۋەندىكى ھوقۇق دائىرىڭىزنى تەلەپ قىلىدۇ، بىز مۇناسىۋەتلىك قانۇنلارغا قاتتىق رىئايە قىلىپ، سىزنىڭ شەخسىي ئۇچۇرلىرىڭىزنى قوغدايمىز：&lt;br>&lt;br>&lt;b> كامېرانى زىيارەت قىلىش: رېئال ۋاقىتلىق سۈرەتكە ئېلىش مۇلازىمىتىنى سىناش، باش سۈرەت قىلىۋېلىش &lt;/b>&lt;br>&lt;br> ئەگەر سىز يۇقىرىقى ھوقۇق چېكىنى يۆتكەپ ئىشلىتىشكە قوشۇلمىسىڭىز، بۇ ئىقتىدارنى نورمال ئىشلەتكىلى بولمايدۇ، لېكىن سىزنىڭ بۇ ئەمەلىي قوللىنىشنىڭ ئاساسىي ئىقتىدارىنى ئىشلىتىشىڭىزگە تەسىر يەتكۈزمەيدۇ. سىز سىستېما تەڭشىكىدىن يۇقارقى ھوقۇق چېكىنى تاللاپ سىزنىڭ ماقۇللىقىڭىزنى قايتۇرۋالسىڭىز بولىدۇ.</string>
-    <string name="resend_active_email">تورخەتنى قايتىدىن ئەۋەتىش</string>
-    <string name="resend_email_reach_limit_message">قىسقا ۋاقىت ئىچىدە نۇرغۇنلىغان تورخەتنى ئەۋەتتىڭىز. ئەگەر ئۇزۇن ۋاقىت قوبۇل قىلالمىسڭىز،تورخەت خاتا توسۇۋېلىنغان بولىشى مۇمكىن، ئەخلەت تورخەت تىزىملىكىنى تەكشۈرۈڭ</string>
-    <string name="resend_email_reach_limit_title">قايتا ئەۋەتكەن تورخەت بەك كۆپ</string>
-    <string name="resend_email_success">قايتىدىن ئەۋەتىش تامام</string>
-    <string name="restart_action">قايتىدىن باشلاش</string>
-    <string name="restart_phone_bind_message">ئۇچۇر قوبۇللاشقا ئازراق ۋاقىت كېتىشى مۇمكىن، قايتىپ قايتىدىن باغلامسىز؟</string>
-    <string name="restart_phone_bind_title">قايتىدىن باغلاشنى جەزملەمسىز</string>
-    <string name="restore_channel_list">دەسلەپكى ھالەتكە قايتۇرامسىز؟</string>
-    <string name="retry">قايتا سىناش</string>
-    <string name="reveal">ئايلاندۇرۇش</string>
-    <string name="reveal_tip">يانفونىڭىزنى ئايلاندۇرسىڭىز، بۇ تۈردىكى سىنلارنى كۆرۈشكە قولايلىق</string>
-    <string name="revoke">قايتۇرۋېلىش</string>
-    <string name="s_double_tap_play_stop">قوش چېكىپ قويۇڭ/تورمۇزلاڭ</string>
-    <string name="same_new_and_old_pwd">ئەسلى پارول بىلەن ئوخشاش بولسا بولمايدۇ</string>
-    <string name="saturday">شەنبە</string>
-    <string name="saturday_short">شەنبە</string>
-    <string name="saturday_shortest">شەنبە</string>
-    <string name="save">ساقلاش</string>
-    <string name="save_cancel_toast">يەنە بىرنى قايتسىڭىز ساقلاش بىكار قىلىنىدۇ</string>
-    <string name="screenrecord_cancel">سىنلاشنى بىكار قىلىش</string>
-    <string name="screenrecord_nosupport_record">نۆۋەتتىكى سىستېما ئېكران سىنلاشنى قوللىمايدۇ،كەچۈرۈڭ!</string>
-    <string name="search">ئىزدەش</string>
-    <string name="search_bar_hint">سىن ئىزدەش</string>
-    <string name="search_bar_video_download_hint">URL ئىزدەڭ ياكى كىرگۈزۈڭ</string>
-    <string name="search_choose_language">تىل تاللاش</string>
-    <string name="search_choose_voice_language">ئاۋازلىق ئىزدەيدىغان تىلنى تاللاڭ</string>
-    <string name="search_hot_words">قىزىق سۆزلەر</string>
-    <string name="search_key_not_null">ئىزدەيدىغان سۆز قۇرۇق قالمىسۇن</string>
-    <string name="search_result_download_error">چۈشۈرگىلى بولمىدى</string>
-    <string name="search_result_startdownload">چۈشۈرۈش باشلاش</string>
-    <string name="selectall">ھەممىنى تاللاش</string>
-    <string name="selectnull">ھەممىنى تاللىماسلىق</string>
-    <string name="send">ئەۋەتىش</string>
-    <string name="send_diagnosis_log">دىئاگنوز خاتىرىسى يوللاش</string>
-    <string name="send_email_activate_message">تورخەت ساندۇقىغا بىر دانە دەلىللەش تورخېتى ئەۋەتىلدى</string>
-    <string name="sending">يوللاۋاتىدۇ...</string>
-    <string name="service_error">مۇلازىمەتتە خاتالىق چىقتى</string>
-    <string name="set_success">ئالماشتۇرۇش تاماملاندى</string>
-    <string name="share">ھەمبەھرىلەش</string>
-    <string name="share_fail">ھەمبەھىرلەش مەغلۇپ بولدى،تورنى تەكشۈرۈڭ ياكى قايتا سىناڭ</string>
-    <string name="share_success">ھەمبەھرلەندى</string>
-    <string name="share_ugc_waitting">ئۇلانما ھەمبەھىرلەشنى ھاسىللاۋاتىدۇ</string>
-    <string name="show_the_location">كۆرسىتىش ئورنى</string>
-    <string name="sign_in">ھېساباتقا كىرىش</string>
-    <string name="sign_in_progress">كىرىۋاتىدۇ...</string>
-    <string name="sign_in_title">شياۋمى ھېساباتىغا كىرىش</string>
-    <string name="slid_fail_message">ساقلانمىدى</string>
-    <string name="slide_save_message">سىن ھاسىللىنىۋاتىدۇ</string>
-    <string name="sms_send_success">ئەۋەتىش تامام</string>
-    <string name="sns_access_token_expired_warning">ھوقۇقلاندۇرۇش ۋاقتى ئۆتتى، قايتىدىن باغلاڭ</string>
-    <string name="sns_bind_limit">باغلاش چاستوتىسى چەكلىمىسىدىن ئېشىپ كەتكەن، باشقا ئۇسۇلدا كىرىڭ</string>
-    <string name="sns_sign_in">باشقا ئۇسۇلدا كىرىش</string>
-    <string name="source">كېلىش مەنبەسى</string>
-    <string name="start_download_tip">سىن چۈشۈرۈش تىزىملىكىگە قوشۇلدى، شەخس مەركىزى - چۈشۈرۈش تىزىملىكى بېتىدىن كۆرۈڭ</string>
-    <string name="storage_external_sdcard">تاشقى ساقلىغۇچ كارتا</string>
-    <string name="storage_internal_sdcard">ئىچكى ساقلىغۇچ كارتا</string>
-    <string name="submit">تاپشۇرۇش</string>
-    <string name="subscribe">مۇشتەرى بولۇش</string>
-    <string name="subscribed">مۇشتەرى بولدى</string>
-    <string name="subscriptions">مۇشتەرى بولۇش</string>
-    <string name="subtitle_add_subtitle_failed">خەت قوشۇلمىدى،ئىناۋەتلىكمۇ تەكشۈرۈڭ</string>
-    <string name="subtitle_manual_add_sub">قولدا خەت قوشۇش تامام</string>
-    <string name="subtitle_offset_normal">خەت نورمال</string>
-    <string name="subtitle_padding_default_hint">خەت پاسونىنى تەڭشەۋاتىدۇ</string>
-    <string name="suggested_publishers">ئاپتور تەۋسىيەسى</string>
-    <string name="sunday">يەكشەنبە</string>
-    <string name="sunday_short">يەكشەنبە</string>
-    <string name="sunday_shortest">يەكشەنبە</string>
-    <string name="sure_to_logout">شياۋمى سىنىسىن چېكىنەمسىز؟</string>
-    <string name="switch_ratio_pause">نۆۋەتتە تور سۈرئىتى مۇقىم ئەمەس،سۈكۈتتىكى سۈرئەتكە ئالماشتۇرۇشنى تەۋسىيە قىلىمىز</string>
-    <string name="symbol_rmb">¥</string>
-    <string name="sync_favorites_limit">ساقلىۋالغان سىن سانى 500 گە يەتتى،ئەگەر داۋاملىق ماس قەدەملىسىڭىز ئەڭ بۇرۇن ساقلىۋالغان مەزمۇننى ئۆچۈرىمىز؟</string>
-    <string name="sync_favorites_message">يەرلىكتىكى ساقلانمىنى ھېساباتقا ماس قەدەملەمسىز؟( چۈشۈرۋېتىلگەن سىنلار ئاپتوماتىك تازىلىنىدۇ)</string>
-    <string name="sync_favorites_title">ساقلىۋالغانلارنى ماس قەدەملەش</string>
-    <string name="system_error_info">سىستېما ئالدىراش،سەل تۇرۇپ سىناڭ</string>
-    <string name="t_check_hide_file">يوشۇرۇدىغان ھۆججەتنى تاللاڭ</string>
-    <string name="t_check_unhide_file">ئاۋۋال يوشۇرۇشنى بىكار قىلىدىغان ھۆججەتنى تاللاڭ</string>
-    <string name="t_downloading">چۈشۈۋاتىدۇ:</string>
-    <string name="t_exit_app">يەنە بىرنى چېكىپ چېكىنىڭ</string>
-    <string name="t_lv_check_delete_history">ئۆچۈرۈدىغان كونىلىرىنى تاللاڭ</string>
-    <string name="t_lv_check_hide_file">يوشۇرۇدىغان ھۆججەتنى تاللاڭ</string>
-    <string name="t_lv_check_unhide_file">يوشۇرۇشنى بىكار قىلىدىغان ھۆججەتنى تاللاڭ</string>
-    <string name="t_lv_downloading_new_version">يېڭى نەشىر چۈشۈرۋاتىدۇ،ساقلاڭ</string>
-    <string name="t_lv_no_new_version">نۆۋەتتىكىسى ئەڭ يېڭى نۇسخا</string>
-    <string name="t_lv_password_limit">پارول 4 خانىدىن كۆپ بولسۇن</string>
-    <string name="t_lv_password_null">پارول قۇرۇق قالمىسۇن</string>
-    <string name="t_lv_password_wrong">پارول خاتا، قايتا كىرگۈزۈڭ</string>
-    <string name="t_lv_search_null">ئىزدەيدىغان مەزمۇننى كىرگۈزۈڭ</string>
-    <string name="t_lv_subtitle_padding_default_hint">خەت پاسونىنى تەڭشەۋاتىدۇ</string>
-    <string name="t_network_error">تور ئۇلىنىشنى خاتا</string>
-    <string name="t_ovp_check_delete_favor">ئۆچۈرىدىغاننى تاللاڭ</string>
-    <string name="t_password_limit">پارول 4 خانىدىن كۆپ بولسۇن</string>
-    <string name="t_password_null">پارول قۇرۇق بولسا بولمايدۇ</string>
-    <string name="t_password_wrong">پارول خاتا، قايتا كىرگۈزۈڭ</string>
-    <string name="t_start_download">چۈشۈرۈشنى باشلاش:</string>
-    <string name="tab_name_local">يانفوندىكى</string>
-    <string name="tab_name_me">مەن</string>
-    <string name="tab_name_moment">پەيت</string>
-    <string name="tab_name_trending">قىزىق</string>
-    <string name="tab_name_video">سىنلار</string>
-    <string name="temporary_not_available">ئىقتىدارى ئېچىلمىغان</string>
-    <string name="the_anniversary_of_lifting_martial_law">ھەربىي ھالەت خاتىرە كۈنى</string>
-    <string name="the_anti_aggression_day">تاجاۋۇزچىلىققا قارشى كۈن</string>
-    <string name="the_arbor_day">كۆچەت تىكىش بايرىمى</string>
-    <string name="the_armed_forces_day">ئارمىيە بايرىمى</string>
-    <string name="the_armys_day">ئارمىيە بايرىمى</string>
-    <string name="the_childrens_day">بالىلار بايرىمى</string>
-    <string name="the_chinese_youth_day">ياشلار بايرىمى</string>
-    <string name="the_christmas_day">روژدېستۋو بايرىمى</string>
-    <string name="the_double_ninth_festival">ياشانغانلار بايرىمى</string>
-    <string name="the_dragon_boat_festival">تاڭزۇڭزا</string>
-    <string name="the_easter_day">پاسخا بايرىمى</string>
-    <string name="the_eve_of_the_spring_festival">ھارپا كېچىسى</string>
-    <string name="the_fifth_day">5</string>
-    <string name="the_fools_day">ئالداش بايرىمى</string>
-    <string name="the_forth_day">4</string>
-    <string name="the_hksar_establishment_day">شىياڭگاڭ، ئاۋمىن قۇرۇلغان كۈن</string>
-    <string name="the_international_womens_day">ئاياللار بايرىمى</string>
-    <string name="the_laba_festival">لابا بايرىمى</string>
-    <string name="the_labour_day">ئەمگەكچىلەر بايرىمى</string>
-    <string name="the_lantern_festival">پانۇس چاغىنى</string>
-    <string name="the_mid_autumn_festival">تاۋۇز چاغىنى</string>
-    <string name="the_national_day">دۆلەت بايرىمى</string>
-    <string name="the_national_father_day">دۆلەت ئاتىسى كۈنى</string>
-    <string name="the_new_years_day">يېڭى يىل بايرىمى</string>
-    <string name="the_night_of_sevens">7-ئاينىڭ 7-كۈنى</string>
-    <string name="the_partys_day">پارتىيە بايرىمى</string>
-    <string name="the_peace_day">تىنچلىق خاتىرە كۈنى</string>
-    <string name="the_retrocession_day">گۇاڭفۇ بايرىمى</string>
-    <string name="the_second_day">2</string>
-    <string name="the_seventh_day">7</string>
-    <string name="the_sixth_day">6</string>
-    <string name="the_spirit_festival">جۇڭيۈەن بايرىمى</string>
-    <string name="the_spring_festival">چاغان</string>
-    <string name="the_teachers_day">ئوقۇتقۇچىلار بايرىمى</string>
-    <string name="the_third_day">3</string>
-    <string name="the_tw_childrens_day">بالىلار بايرىمى</string>
-    <string name="the_tw_youth_day">ياشلار بايرىمى</string>
-    <string name="the_united_nations_day">ب د ت كۈنى</string>
-    <string name="the_valentines_day">ئاشىق-مەشۇقلار بايرىمى</string>
-    <string name="the_water_lantern_festival">شىيايۈەن بايرىمى</string>
-    <string name="thursday">پەيشەنبە</string>
-    <string name="thursday_short">پەيشەنبە</string>
-    <string name="thursday_shortest">پەيشەنبە</string>
-    <string name="ticket_hint">دەلىللەش ئۇچۇرى</string>
-    <string name="ticket_invalid">دەلىللەش كودى خاتا</string>
-    <string name="ticket_sign_in">يانفون نومۇرىدا كىرىش</string>
-    <string name="time_picker_dialog_title">ۋاقىت تەڭشەش</string>
-    <string name="time_picker_label_hour">سائەت</string>
-    <string name="time_picker_label_minute">مىنۇت</string>
-    <string name="tip_auth_again">سىز ئىلگىرى ئۈچىنچى تەرەپ مەزمۇن تەمىنلىگۈچىنىڭ مۇناسىپ شەخسىي مەخپىيەتلىك سىياسىتىنىڭ ماددىلىرىغا قوشۇلمىغانلىقتىن، بىز سىزگە Moments دىكى سىن مەزمۇنىنى كۆرسىتىپ بېرەلمەيمىز. ئەگەر نورمال كۆرمەكچى بولسىڭىز، ئاستىدىكى كۇنۇپكىنى بېسىپ قايتا ھوقۇق بېرىڭ.</string>
-    <string name="tip_author_click">چېكىپ ئاپتورنىڭ باشقا سىنلىرىنى كۆرۈڭ</string>
-    <string name="tip_pop">&lt;Data>Moments نىڭ مەزمۇنىنى ئۈچىنچى تەرەپ Firework تەمىنلىگەن. سىزنىڭ كۆرۈش تەسىراتىڭىزنى يۇقىرى كۆتۈرۈش ئۈچۈن، سىزگە تېخىمۇ كۆپ قىزىقارلىق مەزمۇنلارنى تەييارلىدۇق،سىز ئاۋۋال Fireworkنىڭ شەخس ئۇچۇرىڭىزنى توپلاش، بىر تەرەپ قىلىش ۋە ئىشلىتىشىنى ھوقۇقلاندۇرۇڭ.ئاستىدىكىقوشۇلۇشكونۇپكىسىنى چېكىپ،Firework نىڭ&lt;a href=\"%1$s\"> «شەخسىي مەخپىيەتلىك سىياسىتى»&lt;/a>دىكى ماددىلاردا ئالاقىدار ئۇچۇرنى بىر تەرەپ قىلىشقا قوشۇلغانلىقنى بىلدۈرۈڭ. &lt;/Data></string>
-    <string name="tip_topic_click">چېكىپ تېخىمۇ كۆپ ئوخشاش تېمىدىكى سىنلارنى ئىزدەڭ</string>
-    <string name="title_firework_recommend">Firework تەۋسىيەسى</string>
-    <string name="title_publisher">ئېلان قىلغۇچى</string>
-    <string name="title_subscribe">مۇشتەرى بولۇش</string>
-    <string name="toast_no_data">مەزمۇن قوغدىلىۋاتىدۇ، سەل تۇرۇپ كۆرۈڭ</string>
-    <string name="toast_request_too_frequently">مەشغۇلات بەك كۆپ</string>
-    <string name="toast_share_failed">ھەمبەھىرلەنمىدى،قايتا سىناڭ</string>
-    <string name="today">بۈگۈن</string>
-    <string name="tomorrow">ئەتە</string>
-    <string name="tool_bar_notification_setting_sub_title">ئۇقتۇرۇش ئىستونىدا ئىقتىدار كىرىش ئېغىزى كۆرۈنىدۇ</string>
-    <string name="tool_bar_notification_setting_title">تېز كىرىش ئېغىزى</string>
-    <string name="top_bar_game_desc">نۇرغۇنلىغان ئويۇنلار سىزنىڭ ئوينىشىڭىزنى كۈتىۋاتىدۇ</string>
-    <string name="top_bar_game_title">ئويۇن قانىلى</string>
-    <string name="tuesday">سەيشەنبە</string>
-    <string name="tuesday_short">سەيشەنبە</string>
-    <string name="tuesday_shortest">سەيشەنبە</string>
-    <string name="type_content">مەزمۇنى</string>
-    <string name="type_issue">مەسىلە</string>
-    <string name="type_suggestion">تەۋسىيە</string>
-    <string name="ugc_no_net">تور يوق، تور ھالىتىنى تەكشۈرۈڭ</string>
-    <string name="ui_log_tip">بۇ دائىرىنى چېكىپ يوقىتىڭ،ئۇزۇن بېسىپ تۇرسىڭىز كوناlog يوقايدۇ،log نى قولدا ھەرىكەتلەندۈرىسىز</string>
-    <string name="unknow">نامەلۇم</string>
-    <string name="unknown_error_info">نامەلۇم خاتالىق</string>
-    <string name="update">يېڭىلاش</string>
-    <string name="update_email_address_dialog_message">بىخەتەر تورخەتنى ئالماشتۇرسىڭىز، كىملىك ئۇچۇرىڭىزنى دەلىللەيدۇ</string>
-    <string name="update_email_address_dialog_title">بىخەتەر تورخەتنى ئالماشتۇرۇش</string>
-    <string name="update_find_new_version">يېڭى نەشىر بايقالدى!</string>
-    <string name="update_phone_notice">ئەگەر يانفون نومۇرىنى ئالماشتۇرماقچى بولسىڭىز ۋاقتىدا يېڭىلاڭ</string>
-    <string name="upload_error_log">خاتىرىنى چىقىرىش</string>
-    <string name="user_avatar_update_title">باش سۈرەت تەڭشەش</string>
-    <string name="user_avatar_uploading">باش سۈرەتنى چىقىرىۋاتىدۇ...</string>
-    <string name="user_id_hint">تورخەت/يانفون نومۇرى/شياۋمىID</string>
-    <string name="v_agree">ئوقۇدۇم ۋە قوشۇلىمەن</string>
-    <string name="v_app_name">سىن قويغۇچ</string>
-    <string name="v_cancel">ۋاز كېچىش</string>
-    <string name="v_canceled">بىكار قىلىندى</string>
-    <string name="v_click_to_retry">چېكىپ قايتا سىناش</string>
-    <string name="v_code_title">شياۋمى ھاسىل قىلغان دەلىللەش كودىنى كىرگۈزۈڭ</string>
-    <string name="v_confirm_hide_videos">بۇ ھۆججەتلەرنى يوشۇرامسىز؟</string>
-    <string name="v_confirm_unhide_videos">تاللىغان ھۆججەتنى يوشۇرۇشنى بىكار قىلامسىز؟</string>
-    <string name="v_data_empty">سانلىق مەلۇمات يوق</string>
-    <string name="v_exit">چېكىنىش</string>
-    <string name="v_finish">تامام</string>
-    <string name="v_input_password">پارول كىرگۈزۈڭ</string>
-    <string name="v_login">كىرىش</string>
-    <string name="v_menu_hide">يوشۇرۇش</string>
-    <string name="v_more">تېخىمۇ كۆپ</string>
-    <string name="v_network_failed">تور ناچار</string>
-    <string name="v_next">كېيىنكى قەدەم</string>
-    <string name="v_ok">جەزملەش</string>
-    <string name="v_pw_need_update_app">كۆرسىتەلمىدى،يېڭى نەشىرگە يېڭىلاڭ</string>
-    <string name="v_save">ساقلاش</string>
-    <string name="v_search">ئىزدەش</string>
-    <string name="v_selectall">ھەممىنى تاللاش</string>
-    <string name="v_selectnull">ھەممىنى تاللىماسلىق</string>
-    <string name="v_set_password">يوشۇرۇش پارولىنى تەڭشەڭ</string>
-    <string name="v_symbol_rmb">¥</string>
-    <string name="v_txt_login">ھېساباتقا كىرىپ ساقلىۋالغان مەزمۇنلارنى ماس قەدەملەڭ</string>
-    <string name="v_update">يېڭىلاش</string>
-    <string name="video_already_download_tip">بۇ سىن چۈشۈرۈشنى تاماملىدى</string>
-    <string name="video_download_btn">چۈشۈرۈش</string>
-    <string name="video_download_fail">سىن چۈشۈرۈش مەغلۇپ بولدى</string>
-    <string name="video_download_fail_hint">چۈشۈرۈش مەغلۇپ بولدى</string>
-    <string name="video_download_floating_guide">ھەقسىز سىن چۈشۈرۈش</string>
-    <string name="video_download_forbidden">بۇ توربەت ھازىرچە چۈشۈرۈشنى قوللىمايدۇ</string>
-    <string name="video_download_network_error">تور خاتالىقى</string>
-    <string name="video_download_play_video_guide">سىن قويۇش</string>
-    <string name="video_download_play_video_guide2">كونۇپكا يورىغاندىن كېيىن، چۈشۈرۈش كونۇپكىسىنى بېسىڭ</string>
-    <string name="video_download_site_search">تورئادرېسى</string>
-    <string name="video_download_source">تور بەتتە چۈشۈرۈش</string>
-    <string name="video_download_start">چۈشۈرۈش باشلاش</string>
-    <string name="video_download_storage_error">ساقلاش بوشلۇقى يېتىشمىدى</string>
-    <string name="video_downloading">چۈشۈۋاتىدۇ</string>
-    <string name="video_live_over">بىۋاستە قويۇش توختىدى</string>
-    <string name="video_noyet_download_tip">بۇ سىننى تېخى چۈشۈرۈپ بولمىدى</string>
-    <string name="video_offline">بۇ مەزمۇن چۈشۈرۋېتىلدى</string>
-    <string name="video_resolution_b_size_suffix">%.2f B</string>
-    <string name="video_resolution_gb_size_suffix">%.2f GB</string>
-    <string name="video_resolution_kb_size_suffix">%.2f KB</string>
-    <string name="video_resolution_mb_size_suffix">%.2f MB</string>
-    <string name="video_resolution_tag_suffix">%d P</string>
-    <string name="view">كۆرۈش</string>
-    <string name="vp_VideoView_error_button">جەزملەش</string>
-    <string name="vp_VideoView_error_text_unknown">كەچۈرۈڭ، سىندىن مەسىلە چىقتى</string>
-    <string name="vp_VideoView_error_title">سىن قويۇلمىدى</string>
-    <string name="vp_app_name">سىن قويغۇچ</string>
-    <string name="vp_copyright_unsported_audio">كەچۈرۈڭ،نەشىر ھوقۇقى سەۋەبلىك،بۇ مەزمۇننى ھازىر ئاۋازلىق قويغىلى بولمايدۇ</string>
-    <string name="vp_copyright_unsported_video">كەچۈرۈڭ،نەشىر ھوقۇقى سەۋەبلىك،بۇ سىننى ھازىرچە قويغىلى بولمايدۇ</string>
-    <string name="vp_hardware_unsported">سىن چاستوتىسى ياكى سۈزۈكلۈكى بەك يۇقىرى،ھازىرچە قويۇشنى قوللىمايدۇ</string>
-    <string name="vp_notify_apk_installed">چۈشۈرۈش تامام، دەرھال سىناش</string>
-    <string name="vp_replay">قايتا قويۇش</string>
-    <string name="vp_upcoming_auto_play">ئاپتوماتىك قويۇش</string>
-    <string name="vp_upcoming_title">ئەمدى قويۇلىدىغىنى</string>
-    <string name="wednesday">چارشەنبە</string>
-    <string name="wednesday_short">چارشەنبە</string>
-    <string name="wednesday_shortest">چارشەنبە</string>
-    <string name="year">يىل</string>
-    <string name="yesterday">تۆنۆگۈن</string>
-    <string name="ytb_account">ھېسابات</string>
-    <string name="ytb_author_video">سىنلار</string>
-    <string name="ytb_login">كىرىش</string>
-    <string name="ytb_login_btn">كىرىش</string>
-    <string name="ytb_login_hint">كىرگەندىن كېيىن YouTube دا مۇشتەرى بولغان مەزمۇننى كۆرگىلى بولىدۇ</string>
-    <string name="ytb_logout">چېكىنىش</string>
-    <string name="ytb_play_next">ئەمدى قويۇلىدىغىنى</string>
-    <string name="ytb_subscribed">مۇشتەرى بولدى</string>
-    <string name="ytb_trending">قىزىق</string>
-</resources>

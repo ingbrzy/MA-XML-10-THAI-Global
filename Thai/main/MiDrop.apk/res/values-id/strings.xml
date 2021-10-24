@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="p2">Barcode Scanner</string>
-    <string name="p3">OK</string>
-    <string name="p4">Maaf, kamera mengalami masalah. Anda mungkin perlu me-restart perangkat.</string>
-    <string name="p5">Letakkan barcode di dalam kotak jendela untuk memindai.</string>
-</resources>
