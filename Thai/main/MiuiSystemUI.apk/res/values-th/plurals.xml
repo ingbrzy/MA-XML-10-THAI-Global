@@ -1,32 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">ในครึ่งชั่วโมง</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">ทันที</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">ใน %d นาที</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">เมื่อสักครู่</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d นาทีที่ผ่านมา</item>
-    </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">%d วันที่แล้ว</item>
         <item quantity="one">%d วันที่แล้ว</item>
@@ -42,21 +15,6 @@
     <plurals name="controls_number_of_favorites">
         <item quantity="other">เพิ่มตัวควบคุม %s ตัวแล้ว</item>
         <item quantity="one">เพิ่มตัวควบคุม %s ตัวแล้ว</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">ในครึ่งชั่วโมง</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">ทันที</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">ใน%d นาที</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">รหัส PIN ไม่ถูกต้อง ป้อนได้อีก %d ครั้ง</item>
@@ -129,25 +87,12 @@
         <item quantity="other">ลองอีกครั้งใน %d วินาที</item>
         <item quantity="one">ลองอีกครั้งใน 1 วินาที</item>
     </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">เมื่อสักครู่</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">เลือกไว้ %d รายการ</item>
-    </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
-        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
-    </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d การแจ้งเตือนใหม่</item>
     </plurals>
     <plurals name="notification_group_overflow_description">
         <item quantity="other">มีการแจ้งเตือนอีก %s รายการด้านใน</item>
         <item quantity="one">มีการแจ้งเตือนอีก %s รายการด้านใน</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">ลองอีกครั้งใน %d นาที</item>
@@ -172,7 +117,6 @@
         <item quantity="one">สร้างผู้ใช้ได้เพียง 1 คนเท่านั้น</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
-        <item quantity="one">มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
+        <item quantity="other">เชื่อมต่ออุปกรณ์ %1$d แล้ว</item>
     </plurals>
 </resources>

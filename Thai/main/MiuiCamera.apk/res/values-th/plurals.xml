@@ -42,12 +42,6 @@
     <plurals name="clone_guide_tip2">
         <item quantity="other">คุณสามารถสร้างได้ถึง %d การโคลนในแต่ละครั้ง</item>
     </plurals>
-    <plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data>ไม่สามารถเชื่อมต่อกับกล้องได้&lt;br>แอปนี้จะถูกปิดใน &lt;font color=#FFCE16>&lt;b>%1$d วินาที&lt;/b>&lt;/font> หลังจากนี้ โปรดรอสักครู่แล้วลองอีกครั้ง&lt;/Data></item>
-    </plurals>
-    <plurals name="exit_thermal_hint">
-        <item quantity="other">&lt;Data>อุปกรณ์นี้ร้อนเกินไปในขณะนี้&lt;br>แอปจะถูกปิดใน &lt;font color=#FFCE16>&lt;b>%1$d วินาที&lt;/b>&lt;/font> ความคืบหน้าปัจจุบันถูกบันทึกโดยอัตโนมัติ&lt;/Data></item>
-    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d นาที</item>
     </plurals>

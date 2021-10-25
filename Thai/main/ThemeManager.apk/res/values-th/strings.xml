@@ -186,7 +186,9 @@
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">ยานยนต์</string>
     <string name="exo_track_selection_none">ไม่มี</string>
     <string name="exo_track_selection_title_audio">เสียง</string>
@@ -310,6 +312,7 @@
     <string name="incompatible_dialog_ok">รับทราบ</string>
     <string name="incompatible_dialog_title">ปัญหาความเข้ากันได้</string>
     <string name="is_setting_wallpaper_message">กำลังตั้งค่าภาพพื้นหลัง…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">การปลุก</string>
     <string name="item_resource_audio_optional_color_ring">เสียงเรียกกลับ</string>
     <string name="item_resource_audio_optional_notification_ring">การแจ้งเตือน</string>
@@ -469,9 +472,6 @@
     <string name="payment_coins_balance">(ยอดคงเหลือ: %1s)</string>
     <string name="payment_coins_insufficient_balance">(ยอดคงเหลือไม่เพียงพอ)</string>
     <string name="payment_method">รูปแบบการชำระ</string>
-    <string name="permission_desc">สำหรับจัดเก็บธีมที่บันทึกไว้และรายการอื่นๆ</string>
-    <string name="permission_summary">การอนุญาตบังคับ (สำหรับบริการพื้นฐานและฟังก์ชันของแอปพลิเคชัน)</string>
-    <string name="permission_title">เข้าถึงรูปภาพหรือไฟล์บนอุปกรณ์</string>
     <string name="personal_recommend_desc">รับการแนะนำเนื้อหาตามความต้องการของคุณ</string>
     <string name="personal_recommend_title">การแนะนำส่วนบุคคล</string>
     <string name="peyment_pay_now_btn">ชำระ</string>
@@ -530,7 +530,6 @@
     <string name="related_theme">ธีม</string>
     <string name="related_wallpaper">ภาพพื้นหลัง</string>
     <string name="reload">ลองอีกครั้ง</string>
-    <string name="res_migrate_tip">เพื่อให้ ธีม เข้ากันได้กับ Android เวอร์ชันที่จะมาถึง เราได้ย้ายรายการที่ดาวน์โหลดของคุณไปยังตำแหน่งใหม่ รีสตาร์ทแอปเพื่อใช้การเปลี่ยนแปลงและดูเนื้อหาที่คุณดาวน์โหลด</string>
     <string name="resource_account_abnormal_state">บัญชีผิดพลาด รอประมาณ 1-2 นาทีแล้วลองอีกครั้งอีกครั้ง</string>
     <string name="resource_account_fail_to_add">ไม่สามารถเพิ่มบัญชีได้</string>
     <string name="resource_account_login">ลงชื่อเข้าใช้</string>
@@ -669,6 +668,7 @@
     <string name="resource_pack_price_info">ราคาปกติ: %1$s</string>
     <string name="resource_pack_warning">คุณได้ซื้อส่วนประกอบ %1$d ส่วนในธีมนี้ไปแล้ว แนะนำให้ซื้อแต่ละส่วนที่เหลือแยกกันจะถูกกว่าซื้อทั้งธีม</string>
     <string name="resource_present">ของขวัญ</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">ฟรี</string>
     <string name="resource_price_unit"> Mi เครดิต</string>
     <string name="resource_purchase_common_error">เกิดข้อผิดพลาด ลองอีกครั้ง</string>
@@ -680,7 +680,6 @@
     <string name="resource_ranking">ยอดนิยม</string>
     <string name="resource_ranking_free">ฟรี</string>
     <string name="resource_ranking_purchase">ซื้อไว้</string>
-    <string name="resource_right_ack_check_error">รหัสนี้หมดอายุแล้ว</string>
     <string name="resource_ringtone_default">เสียงเรียกเข้า</string>
     <string name="resource_ringtone_playing_error">ผิดพลาด</string>
     <string name="resource_ringtone_volume_mute">ปิดเสียงอยู่</string>
@@ -798,6 +797,7 @@
     <string name="sim_one">ซิม 1</string>
     <string name="sim_two">ซิม 2</string>
     <string name="similar_theme">ธีมที่คล้ายกัน</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_file">สำหรับบันทึกรายการที่ดาวน์โหลด</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
@@ -908,6 +908,7 @@
     <string name="theme_is_external_priority_storage">บันทึกไปยังSD การ์ด</string>
     <string name="theme_is_external_priority_storage_summary">แอปธีมจะรีสตาร์ทตัวเองใหม่ทันทีเพื่อให้การตั้งค่ามีผลใช้งาน</string>
     <string name="theme_multiple_button_title_customize">ปรับแต่ง</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">ไม่</string>
     <string name="theme_on_the_phone_alert">ไม่สามารถเล่นระหว่างการโทรได้</string>
     <string name="theme_select_others">เรียกดู</string>

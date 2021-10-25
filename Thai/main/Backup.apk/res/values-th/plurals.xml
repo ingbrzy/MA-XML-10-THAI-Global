@@ -97,7 +97,7 @@
         <item quantity="other">%d รายการ,</item>
     </plurals>
     <plurals name="trans_failed_summary">
-        <item quantity="other">ไม่สามารถถ่ายโอน %d รายการได้ แตะเพื่อดูรายละเอียด</item>
+        <item quantity="other">ไม่สามารถถ่ายโอน %d รายการได้ แตะเพื่อเรียกดูรายละเอียด</item>
     </plurals>
     <plurals name="trans_item_failed_summary">
         <item quantity="other">ไม่สามารถถ่ายโอน %d รายการได้</item>

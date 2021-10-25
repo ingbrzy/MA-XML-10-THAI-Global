@@ -58,6 +58,7 @@
     <string name="dual_app_title">แอปโคลน</string>
     <string name="dual_app_words">ทุกบัญชีสมควรมีแอปของมันเอง</string>
     <string name="early_morning">เช้า</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="evening">บ่าย</string>
@@ -189,7 +190,7 @@
     <string name="gb_advance_settings_screen_hdr_gear2">ปานกลาง</string>
     <string name="gb_advance_settings_screen_hdr_gear3">แรง</string>
     <string name="gb_advance_settings_screen_hdr_gear4">สุดขีด</string>
-    <string name="gb_advance_settings_screen_hdr_summary">เพิ่มความเปรียบต่างและเพิ่มรายละเอียดสำหรับเกม</string>
+    <string name="gb_advance_settings_screen_hdr_summary">เพิ่มความคมชัดและเพิ่มรายละเอียดสำหรับเกม</string>
     <string name="gb_advance_settings_touch">ควบคุมการสัมผัส</string>
     <string name="gb_advance_settings_vibration_4d">การสั่น 4D</string>
     <string name="gb_advance_settings_vibration_4d_summary">สั่นเวลายิงในเกม</string>
@@ -236,7 +237,6 @@
     <string name="gb_pannel_control_mode_power_saving">ประหยัดพลังงาน</string>
     <string name="gb_weixinpay_can_not_complete">ไม่สามารถทำการชำระเงินได้ ติดตั้งเพื่อดำเนินการต่อ</string>
     <string name="gdpr_msg">&lt;Data>ในการใช้คุณลักษณะขั้นพื้นฐานของการรักษาความปลอดภัยคุณต้องยอมรับว่า Xiaomi จะรวบรวมประมวลผลและใช้ข้อมูลส่วนบุคคลของคุณรวมทั้งข้อมูลเกี่ยวกับวิธีที่คุณใช้คุณลักษณะของความปลอดภัย (เช่นสถิติการใช้ข้อมูลมือถือ ข้อมูลเกี่ยวกับมัลแวร์ รวมถึงข้อมูลพื้นฐานเกี่ยวกับอุปกรณ์ของคุณ) และข้อมูลประเภทอื่นๆ ที่ระบุใน &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">นโยบายความเป็นส่วนตัว&lt;/a>.&lt;/Data> ของเรา</string>
-    <string name="hybrid_provider">ให้บริการโดย %1$s</string>
     <string name="install_success">%s การติดตั้งสำเร็จ</string>
     <string name="lucky_result_title">อั่งเปา</string>
     <string name="main_toolbar_purchase">ซื้อแพ็คเกจเพิ่ม</string>
@@ -313,7 +313,6 @@
     <string name="net_booster_overdue_notification_tip">เซสชั่นเพิ่มความเร็วเครือข่ายจะสิ้นสุดเร็วๆนี้ ต่ออายุเซสชัน?</string>
     <string name="network_not_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="night">เย็น</string>
-    <string name="no_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="no_network_btn">ลองอีกครั้ง</string>
     <string name="noon">เที่ยงวัน</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
@@ -339,6 +338,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
@@ -427,9 +427,6 @@
     <string name="usage_sorted_loading_text">รอสักครู่…</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
-    <string name="web_sso_login_fail">กรุณาลงชื่อเข้าใช้อีกครั้ง</string>
-    <string name="web_sso_login_message">กำลังเข้าสู่ระบบ…</string>
-    <string name="webview_reload">ลองอีกครั้ง</string>
     <string name="wednesday">วันพุธ</string>
     <string name="wednesday_short">พุธ</string>
     <string name="wednesday_shortest">พุธ</string>

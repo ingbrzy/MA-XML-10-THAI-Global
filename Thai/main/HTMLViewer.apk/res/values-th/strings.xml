@@ -264,8 +264,8 @@
     <string name="tuesday">วันอังคาร</string>
     <string name="tuesday_short">อังคาร</string>
     <string name="tuesday_shortest">อังคาร</string>
-    <string name="user_agreement">ข้อตกลงการใช้งาน</string>
-    <string name="user_experience_program">โปรแกรมประสบการณ์ผู้ใช้</string>
+    <string name="user_agreement">เงื่อนไขการให้บริการ</string>
+    <string name="user_experience_program">โปรแกรมประสบการณ์การใช้งาน</string>
     <string name="user_manual">คู่มือการใช้</string>
     <string name="wednesday">วันพุธ</string>
     <string name="wednesday_short">พุธ</string>

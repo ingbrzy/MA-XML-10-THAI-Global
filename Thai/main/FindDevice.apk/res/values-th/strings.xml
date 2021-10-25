@@ -36,7 +36,6 @@
     <string name="captcha">ป้อนรหัสที่เห็น</string>
     <string name="change_find_device_status_failed">ไม่สามารถปลดล็อก %s ได้</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
-    <string name="close">ปิด</string>
     <string name="copy">คัดลอก</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -50,22 +49,22 @@
     <string name="device_locked">อุปกรณ์ดังกล่าวถูกล็อก</string>
     <string name="device_lost">อุปกรณ์ดังกล่าวสูญหาย</string>
     <string name="disable_find_device_error">ไม่สามารถปิดใช้การค้นหาอุปกรณ์ %1$s</string>
-    <string name="disable_find_device_success">การค้นหาอุปกรณ์ปิดอยู่</string>
+    <string name="disable_find_device_success">การค้นหาอุปกรณ์ปิดใช้งาน</string>
     <string name="doing_extra_login_steps">กำลังยืนยันการลงชื่อเข้าใช้…</string>
     <string name="early_morning">เช้า</string>
     <string name="emergency_call">โทรฉุกเฉิน</string>
     <string name="empty" />
     <string name="enable_find_device_error">ไม่สามารถเปิดใช้การค้นหาอุปกรณ์ %1$s</string>
-    <string name="enable_find_device_success">การค้นหาอุปกรณ์เปิดอยู่</string>
+    <string name="enable_find_device_success">การค้นหาอุปกรณ์เปิดใช้งาน</string>
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="evening">บ่าย</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="find_device">ค้นหาอุปกรณ์</string>
-    <string name="find_device_capture_done_notification_content">View the photo on i.mi.com</string>
-    <string name="find_device_capture_done_notification_title">Find device took a photo remotely</string>
-    <string name="find_device_capture_notification_content">A request to take a photo remotely with this device was submitted by your account</string>
-    <string name="find_device_capture_notification_title">Find device is about to take a photo</string>
+    <string name="find_device_capture_done_notification_content">ดูรูปถ่ายบน i.mi.com</string>
+    <string name="find_device_capture_done_notification_title">ค้นหาอุปกรณ์ได้ถ่ายภาพจากระยะไกล</string>
+    <string name="find_device_capture_notification_content">บัญชีของคุณส่งคำขอถ่ายภาพจากระยะไกลด้วยอุปกรณ์นี้แล้ว</string>
+    <string name="find_device_capture_notification_title">ค้นหาอุปกรณ์ กำลังจะถ่ายรูป</string>
     <string name="find_device_crash">การค้นหาอุปกรณ์ถูกปิดโดยไม่คาดคิด</string>
     <string name="find_device_error_access_denied">เข้าสู่ระบบไม่ได้</string>
     <string name="find_device_error_account_sys_timeout">"เชื่อมต่อกับบัญชี Mi ไม่สำเร็จ "</string>
@@ -76,16 +75,14 @@
     <string name="find_device_error_server">ข้อผิดพลาดเซิร์ฟเวอร์ (%s)</string>
     <string name="find_device_error_unknown">ข้อผิดพลาดที่ไม่รู้จัก (%s)</string>
     <string name="find_device_noise_title">ค้นหาอุปกรณ์ที่เตือนภัย</string>
-    <string name="find_device_notice">ไปที่ &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> เพื่อค้นหาและล็อกอุปกรณ์ ทำเครื่องหมายว่าสูญหาย ลบข้อมูล หรือถ่ายภาพจากระยะไกล</string>
+    <string name="find_device_notice">หากอุปกรณ์ของคุณหายไป คุณสามารถไปที่ &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> เพื่อค้นหา ล็อก หรือลบข้อมูลจากระยะไกล</string>
     <string name="find_device_notice_sms_alert_with_common_charge_hint">เพื่ออัปเดตสถานะของซิมและตรวจสอบให้แน่ใจว่าบริการทั้งหมดทำงานได้ตามปกติ &lt;font color=#0097FF>&lt;b>ข้อความชำระเงินประเทศ&lt;/b>&lt;/font> หนึ่งรายการจะถูกส่งไปหลังจากที่คุณเปลี่ยนซิมการ์ด คุณจะถูกเรียกเก็บเงินสำหรับข้อความนี้โดยผู้ให้บริการของคุณ</string>
     <string name="find_device_notice_sms_alert_with_domestic_charge_hint">เพื่ออัปเดตสถานะของซิมและตรวจสอบให้แน่ใจว่าบริการทั้งหมดทำงานได้ตามปกติ &lt;font color=#0097FF>&lt;b>ข้อความชำระเงินภายในประเทศ&lt;/b>&lt;/font> หนึ่งรายการจะถูกส่งไปหลังจากที่คุณเปลี่ยนซิมการ์ด คุณจะถูกเรียกเก็บเงินสำหรับข้อความนี้โดยผู้ให้บริการของคุณ</string>
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">เพื่ออัปเดตสถานะของซิมและตรวจสอบให้แน่ใจว่าบริการทั้งหมดทำงานได้ตามปกติ &lt;font color=#0097FF>&lt;b>ข้อความแบบชำระเงินระหว่างประเทศ&lt;/b>&lt;/font> หนึ่งรายการจะถูกส่งไปหลังจากที่คุณเปลี่ยนซิมการ์ด คุณจะถูกเรียกเก็บเงินสำหรับข้อความนี้โดยผู้ให้บริการของคุณ</string>
     <string name="find_device_stop_noise">แตะปุ่มตกลงเพื่อปิดเสียง</string>
-    <string name="find_device_storage_corrupted">ค้นหาที่จัดเก็บอุปกรณ์เสียหาย อุปกรณ์ของคุณไม่ปลอดภัยในขณะนี้</string>
+    <string name="find_device_storage_corrupted">พื้นที่จัดเก็บ ค้นหาอุปกรณ์ เสียหาย อุปกรณ์ของคุณไม่ปลอดภัยในขณะนี้</string>
     <string name="find_device_success_title">การค้นหาอุปกรณ์เปิดอยู่</string>
     <string name="find_device_telephony_fault">ค้นหาอุปกรณ์: ความผิดพลาดทางโทรศัพท์ (%s).</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -101,11 +98,7 @@
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -124,18 +117,8 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
@@ -229,7 +212,6 @@
     <string name="saturday_short">เสาร์</string>
     <string name="saturday_shortest">เสาร์</string>
     <string name="search_menu_title">ค้นหา</string>
-    <string name="send">ส่ง</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_on_empty_captcha">ไม่สามารถเว้นว่างรหัสผ่านที่มองเห็นได้</string>
     <string name="stop_on_empty_password">รหัสผ่านไม่สามารถเว้นว่างได้</string>

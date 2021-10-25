@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>ลองอีกครั้ง</item>
+        <item></item>
+        <item></item>
+        <item>วางนิ้วให้เต็มตัวสแกนลายนิ้วมือแล้วออกแรงกด</item>
+        <item></item>
+        <item>วางนิ้วให้เต็มตัวสแกนลายนิ้วมือแล้วออกแรงกด</item>
+        <item>เช็ดเซ็นเซอร์ลายนิ้วมือให้สะอาดแล้วลองอีกครั้ง</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>วางนิ้วให้เต็มตัวสแกนลายนิ้วมือแล้วออกแรงกด</item>
+        <item>วางนิ้วให้เต็มตัวสแกนลายนิ้วมือแล้วออกแรงกด</item>
+        <item>เร็วเกินไป! ไม่สามารถตรวจลายนิ้วมือได้</item>
+        <item>ขยับนิ้วเล็กน้อยแล้วลองอีกครั้ง</item>
+        <item>ยกนิ้วขึ้นแล้ววางบนตัวสแกนอีกครั้ง</item>
+        <item>วางนิ้วของคุณไว้บนตัวสแกนนานกว่านี้หน่อย</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>ขยับนิ้วของคุณเล็กน้อย</item>
+        <item>ลายนิ้วมือนี้ได้เพิ่มไปแล้ว โปรดใช้นิ้วอื่น</item>
+    </string-array>
+</resources>

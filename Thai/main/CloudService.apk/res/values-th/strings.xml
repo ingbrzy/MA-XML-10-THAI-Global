@@ -138,6 +138,8 @@
     <string name="feedback_custom_hint">อธิบายปัญหาที่คุณพบที่นี่ หากคุณจะให้คำแนะนำเรา เรายินดีที่จะรับรายละเอียดเพิ่มเติม!</string>
     <string name="find_device">ค้นหาอุปกรณ์</string>
     <string name="find_device_dspt_provision">ในกรณีที่เครื่องโทรศัพท์ของคุณหาย คุณสามารถเข้าไปที่ &lt;font color=#0097FF>%s&lt;/font> เพื่อค้นหาพิกัดเครื่อง ทำการล็อกหรือรีเซ็ต โดยคุณสามารถเปิด-ปิดคุณลักษณะนี้ได้ตลอดเวลาในเมนูการตั้งค่า</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">โดยการเปิดใช้งานค้นหาอุปกรณ์นี้ คุณยอมรับใน <a href="app://com.miui.cloudservice.gdpr.license"><u> นโยบายความเป็นส่วนตัว</u></a>ของเรา ปิดคุณสมบัตินี้หากคุณต้องการเพิกถอนความยินยอม</string>
     <string name="find_device_operation_failure_rpc">ไม่สามารถดำเนินการได้เนื่องจากข้อผิดพลาด RPC</string>
     <string name="find_device_send_sms_alert">"
@@ -362,10 +364,13 @@
     <string name="micloud_find_device_open_fail">ไม่สามารถปิดใช้การค้นหาอุปกรณ์ได้</string>
     <string name="micloud_find_device_opened">การค้นหาอุปกรณ์เปิดอยู่</string>
     <string name="micloud_find_device_opened_content">ค้นหาอุปกรณ์ของคุณใน %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_button">เปิดใช้งานค้นหาอุปกรณ์อีกครั้ง</string>
     <string name="micloud_find_device_verify_close">ปิดใช้การค้นหาอุปกรณ์</string>
     <string name="micloud_find_device_verify_fail">ไม่สามารถเปิดใช้งานค้นหาอุปกรณ์ได้</string>
     <string name="micloud_find_device_verify_progress">กำลังเปิดใช้งานค้นหาอุปกรณ์อีกครั้ง…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">การซิงค์ถูกยกเลิก ลองอีกครั้ง</string>
     <string name="micloud_main_head_menu_cloud_backup">ข้อมูลสำรอง</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">การตั้งค่าระบบและรูปแบบหน้าจอหลัก</string>
@@ -522,6 +527,10 @@
     <string name="micloud_upgrade_member">เพิ่มที่จัดเก็บข้อมูล</string>
     <string name="micloud_upgrade_storage">แผนอัปเกรดพื้นที่จัดเก็บ</string>
     <string name="micloud_user_space_title">พื้นที่จัดเก็บ</string>
+    <string name="micloud_warn_full_sum">ไฟล์ใหม่จะไม่ได้รับการซิงค์เข้าสู่ Xiaomi คลาวด์</string>
+    <string name="micloud_warn_full_title">เนื้อที่เต็มแล้ว</string>
+    <string name="micloud_warn_low_sum">คุณใช้พื้นที่ Xiaomi คลาวด์ไปแล้ว 90%</string>
+    <string name="micloud_warn_low_title">พื้นที่ใกล้เต็มแล้ว</string>
     <string name="micloud_web_discription_place_holder">เยี่ยมชม %1$s เปิดคอมพิวเตอร์ของคุณเพื่อจัดการข้อมูลของคุณ</string>
     <string name="micloud_wipe_data_confirm_label">ลบรายการที่ซิงค์จากอุปกรณ์นี้หรือไม่?</string>
     <string name="micloud_wipe_data_confirm_title">บางรายการจากแอปต่อไปนี้จะซิงค์กับ Xiaomi คลาวด์ คุณสามารถลบออกจากอุปกรณ์นี้โดยยังคงเก็บไว้ในระบบคลาวด์</string>

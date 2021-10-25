@@ -96,17 +96,7 @@
     <string name="accessibility_flash_back_soft_light">แฟลชทำงานในโหมดแสงไฟอ่อน</string>
     <string name="accessibility_flash_off">แฟลชปิดอยุ่</string>
     <string name="accessibility_flash_on">แฟลชเปิดอยุ่</string>
-    <string name="accessibility_flash_screen_halo">ไฟวงแหวนเปิดอยู่</string>
     <string name="accessibility_flash_torch">แฟลชเปิด โหมดไฟฉาย</string>
-    <string name="accessibility_focus_face_pos_bottom">อยู่ใกล้ขอบล่างของเฟรม</string>
-    <string name="accessibility_focus_face_pos_left">อยู่ใกล้ขอบด้านซ้ายของเฟรม</string>
-    <string name="accessibility_focus_face_pos_left_bottom">อยู่ใกล้มุมล่างซ้ายของกรอบ</string>
-    <string name="accessibility_focus_face_pos_left_top">อยู่ใกล้มุมบนซ้ายของกรอบ</string>
-    <string name="accessibility_focus_face_pos_mid">อยู่ใกล้ศูนย์กลางของเฟรม</string>
-    <string name="accessibility_focus_face_pos_right">อยู่ใกล้ขอบด้านขวาของเฟรม</string>
-    <string name="accessibility_focus_face_pos_right_bottom">อยู่ใกล้มุมล่างขวาของเฟรม</string>
-    <string name="accessibility_focus_face_pos_right_top">อยู่ใกล้มุมขวาบนของกรอบ</string>
-    <string name="accessibility_focus_face_pos_top">อยู่ใกล้ขอบบนของเฟรม</string>
     <string name="accessibility_focus_status">ซูม %1$sX</string>
     <string name="accessibility_foucs_peak">ค่าสูงสุด</string>
     <string name="accessibility_front_preview_status">ตัวอย่างกล้องหน้า</string>
@@ -628,6 +618,7 @@
     <string name="edit_smile">ยิ้ม</string>
     <string name="edit_solid">รูปร่าง</string>
     <string name="emoticon">แพ็กสติ๊กเกอร์</string>
+    <string name="empty" />
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="error_fail_to_start_audio_capture">ไม่สามารถเริ่มการถ่ายภาพด้วยเสียงได้</string>
@@ -1142,17 +1133,13 @@
     <string name="portait_effect_entry_cool">มิ้นท์</string>
     <string name="portait_effect_entry_dusk">พลบค่ำ</string>
     <string name="portait_effect_entry_fairytale">วัยเด็ก</string>
-    <string name="portait_effect_entry_holiday">วันหยุด</string>
     <string name="portait_effect_entry_japanese">สีน้ำเงินท้องฟ้า</string>
     <string name="portait_effect_entry_lilt">ลิลท์</string>
     <string name="portait_effect_entry_maze">เขาวงกต</string>
     <string name="portait_effect_entry_mood">อารมณ์</string>
     <string name="portait_effect_entry_movie">ภาพยนตร์</string>
     <string name="portait_effect_entry_nature">ธรรมชาติ</string>
-    <string name="portait_effect_entry_original">ต้นฉบับ</string>
-    <string name="portait_effect_entry_oxygen">ออกซิเจน</string>
     <string name="portait_effect_entry_pink">หวานฉ่ำ</string>
-    <string name="portait_effect_entry_pink_orange">ซิตรัส</string>
     <string name="portait_effect_entry_riddle">ลูกกวาด</string>
     <string name="portait_effect_entry_romance">โรแมนติก</string>
     <string name="portait_effect_entry_sepia">ซีเปีย</string>
@@ -1216,6 +1203,7 @@
     <string name="pref_camera_auxiliary_close">ปิด</string>
     <string name="pref_camera_auxiliary_exposure_feedback">การตรวจสอบการเปิดรับแสง</string>
     <string name="pref_camera_auxiliary_focus_peak">จุดโฟกัสสูงสุด</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
@@ -1270,7 +1258,6 @@
     <string name="pref_camera_flashmode_entry_back_soft_light">แสงอ่อน</string>
     <string name="pref_camera_flashmode_entry_off">ปิด</string>
     <string name="pref_camera_flashmode_entry_on">เปิด</string>
-    <string name="pref_camera_flashmode_entry_screen_halo">ไฟวงแหวน</string>
     <string name="pref_camera_flashmode_entry_torch">ไฟฉาย</string>
     <string name="pref_camera_flashmode_title">โหมดแฟลช</string>
     <string name="pref_camera_focus_shoot_summary">แตะเพื่อโฟกัสแล้วแตะอีกครั้งเพื่อถ่ายภาพ</string>
@@ -1397,8 +1384,6 @@
     <string name="pref_camera_square_mode_title">สี่เหลี่ยม</string>
     <string name="pref_camera_stereo_mode_title">การปรับแต่งโฟกัส</string>
     <string name="pref_camera_super_resolution_title">เปิดใช้งาน SR</string>
-    <string name="pref_camera_tap_shoot_summary">แตะหน้าจอแสดงตัวอย่างเพื่อถ่ายภาพ</string>
-    <string name="pref_camera_tap_shoot_title">แตะเพื่อถ่ายรูป</string>
     <string name="pref_camera_tilt_shift_entry_circle">วงกลม</string>
     <string name="pref_camera_tilt_shift_entry_parallel">แนวยาว</string>
     <string name="pref_camera_tilt_shift_title">ปรับเบลอ</string>
@@ -1448,8 +1433,6 @@
     <string name="pref_camera_zsl_entry_off">ปิด</string>
     <string name="pref_camera_zsl_entry_on">เปิด</string>
     <string name="pref_capture_settings">กล้อง</string>
-    <string name="pref_cup_camera_position_summary">แสดงตำแหน่งกล้องหน้าเมื่อใช้งาน</string>
-    <string name="pref_cup_camera_position_title">แสดงกล้องหน้า</string>
     <string name="pref_custom_feature_layout_title">การจัดเรียงคุณลักษณะ</string>
     <string name="pref_custom_shutter_sound_title">เสียง</string>
     <string name="pref_custom_tint_title">สี</string>
@@ -1521,10 +1504,6 @@
     <string name="pref_super_night_se_summary">ตรวจจับสภาพแสงน้อยและปรับปรุงคุณภาพของภาพโดยอัตโนมัติ</string>
     <string name="pref_super_night_se_title">โหมดกลางคืนอัตโนมัติ</string>
     <string name="pref_userdefine_watermark_title">ลายน้ำที่กำหนดเอง</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d">3D</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d_i">เสียงสามมิติ</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d_ii">ตัวอย่าง</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d_original">ต้นฉบับ</string>
     <string name="pref_video_ai_audio_single">เสียงด้านหน้า</string>
     <string name="pref_video_captrue_ability_title">ถ่ายภาพนิ่งขณะบันทึกวิดีโอ</string>
     <string name="pref_video_cast_setting_summary">เปิดเพื่อให้สามารถถ่ายวิดีโอหนึ่งรายการด้วยอุปกรณ์หลายเครื่อง</string>
@@ -1804,7 +1783,7 @@
     <string name="ultra_wide_recommend_tip_hint">ลองโหมดมุมกว้างพิเศษ</string>
     <string name="ultra_wide_recommend_tip_hint_sat">เปลี่ยนเป็นมุมกว้างพิเศษ 0.6X</string>
     <string name="unknow_error">ข้อผิดพลาดที่ไม่รู้จัก</string>
-    <string name="unsupported_microphones_3d_record_tips">เสียงสามมิติไม่รองรับไมโครโฟนภายนอก</string>
+    <string name="unsupported_microphones_3d_record_tips">เสียง 3D ไม่รองรับไมโครโฟนภายนอก</string>
     <string name="unsupported_microphones_audio_zoom_tips">การซูมเสียงไม่รองรับไมโครโฟนภายนอก</string>
     <string name="update_loading">ดาวน์โหลดแล้ว %1$d%%</string>
     <string name="update_start">อัปเดต %1$s</string>

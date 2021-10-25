@@ -10,7 +10,6 @@
     <string name="explain_send_sms_permission_title">ยืนยันหมายเลขโทรศัพท์ของคุณ</string>
     <string name="pop_up_allow_notify_dialog">อนุญาต</string>
     <string name="pop_up_deny_notify_dialog">ปฏิเสธ</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sync_notification_title_format">จำนวนรายการซิงค์: %1$s</string>
     <string name="xiaomi_cloud_service">Xiaomi คลาวด์</string>
     <string name="xmsf_activate_info">ข้อมูลการเปิดใช้งาน XMSF</string>

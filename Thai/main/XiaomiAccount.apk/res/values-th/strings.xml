@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="about_device_info">ดูรายละเอียดเครื่อง</string>
+    <string name="accept">อนุญาต</string>
     <string name="access_token_expired_warning">บัญชี Weibo หมดอายุแล้ว</string>
     <string name="access_token_invalid_warning">บัญชี Weibo ไม่ถูกต้อง</string>
     <string name="account">บัญชี</string>
@@ -107,6 +108,7 @@
     <string name="binded_description" formatted="false">"%s ได้เชื่อมต่อกับบัญชี Mi ของคุณแล้ว
 คุณสามารถลงชื่อเข้าใช้บัญชี Mi โดยใช้ %s ได้ตอนนี้"</string>
     <string name="button_unbind">ตัดการเชื่อมต่อ</string>
+    <string name="cancel">ยกเลิก </string>
     <string name="change_activate_email">เปลี่ยนที่อยู่อีเมล</string>
     <string name="change_email_address">เปลี่ยนที่อยู่อีเมล</string>
     <string name="change_password">เปลี่ยนรหัสผ่าน</string>
@@ -123,7 +125,7 @@
     <string name="com_facebook_internet_permission_error_title">ข้อผิดพลาด AndroidManifest</string>
     <string name="com_facebook_like_button_liked">ถูกใจแล้ว</string>
     <string name="com_facebook_like_button_not_liked">ถูกใจ</string>
-    <string name="com_facebook_loading">กำลังโหลด…</string>
+    <string name="com_facebook_loading">กำลังโหลด...</string>
     <string name="com_facebook_loginview_cancel_action">ยกเลิก</string>
     <string name="com_facebook_loginview_log_in_button">เข้าสู่ระบบ</string>
     <string name="com_facebook_loginview_log_in_button_continue">ดำเนินการต่อด้วย Facebook</string>
@@ -180,6 +182,7 @@
     <string name="delete_device_btn">ลบออก</string>
     <string name="delete_device_failed">ลบอุปกรณ์ไม่สำเร็จ</string>
     <string name="delete_device_notice">เมื่อคุณลบอุปกรณ์ใดออกจากระบบ เครื่องดังกล่าวจะลงชื่อออกจากบัญชี Mi โดยอัตโนมัติ คุณจะไม่สามารถใช้เครื่องนั้นในการเข้าถึงรูปภาพ ข้อความและเนื้อหาอื่นที่เก็บไว้ในบัญชีของคุณอีกต่อไป</string>
+    <string name="deny">ปฏิเสธ</string>
     <string name="device_delete_success_message">หากคุณไม่ได้เป็นผู้ใช้งานเครื่องดังกล่าวนี้ กรุณาเปลี่ยนรหัสผ่านของคุณทันที</string>
     <string name="device_delete_success_title">ออกจากระบบแล้ว</string>
     <string name="device_list__header">เครื่องของฉัน</string>
@@ -193,6 +196,7 @@ ID:%s
     <string name="early_morning">เช้า</string>
     <string name="empty" />
     <string name="empty_device_list_notice">ไม่มีอุปกรณ์ในรายการ</string>
+    <string name="enable">การตั้งค่า</string>
     <string name="ep_unsupported">ไม่สามารถลงชื่อเข้าใช้บัญชี Mi บนอุปกรณ์ของคุณได้</string>
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
@@ -301,6 +305,7 @@ ID:%s
     <string name="get_phone_verifycode_exceed_limit">มีการส่งรหัสยืนยันมายังหมายเลขโทรศัพท์นี้เกินจำนวนครั้งที่กำหนด กรุณารอ 24 ชั่วโมงแล้วลองใหม่อีกครั้ง</string>
     <string name="google">Google</string>
     <string name="google_login">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="goto_accept">ตกลง</string>
     <string name="guest_account_label">บัญชีโหมดเยี่ยมชม Mi</string>
     <string name="health_action_activate">เปิดใช้งาน</string>
     <string name="health_action_install">ติดตั้ง</string>
@@ -325,9 +330,11 @@ ID:%s
     <string name="kr_permission_sms_desc">สำหรับรหัสยืนยันอัตโนมัติ</string>
     <string name="kr_permission_storage_desc">สำหรับการบันทึกการวินิจฉัย</string>
     <string name="loading_micloud_sync_data">รอสักครู่…</string>
+    <string name="login_3rd_app_with_system_account">ลงชื่อเข้าใช้ %s</string>
     <string name="login_check_find_device">กำลังขอรับข้อมูลด้านความปลอดภัยของอุปกรณ์…</string>
     <string name="login_check_find_device_failed_title">ไม่สามารถตรวจสอบข้อมูลความปลอดภัยของอุปกรณ์</string>
     <string name="login_find_device_bind">อุปกรณ์เครื่องนี้ถูกผูกไว้กับบัญชี Mi อื่นอยู่ก่อนแล้ว (%s)</string>
+    <string name="login_with_other">ตัวเลือกเพิ่มเติม</string>
     <string name="logout_account">ลงชื่อออก</string>
     <string name="logout_failed">ไม่สามารถลงชื่อออก</string>
     <string name="mi_account_identity_title">ยืนยันตัวตนของคุณ</string>
@@ -459,7 +466,6 @@ ID:%s
     <string name="passport_activing_account">กำลังเปิดใช้งาน…</string>
     <string name="passport_adding_account">กำลังเพิ่มบัญชี…</string>
     <string name="passport_area_code_hot">ที่ใช้บ่อย</string>
-    <string name="passport_area_code_others">ใช้เลขนำหน้าอื่น</string>
     <string name="passport_area_code_title">รหัสประเทศ</string>
     <string name="passport_auto_generate_pwd">สร้างรหัสผ่านความปลอดภัย</string>
     <string name="passport_back">ย้อนกลับ</string>
@@ -685,10 +691,14 @@ ID:%s
     <string name="passport_yes">ใช่</string>
     <string name="password_view_hide_password">ซ่อนรหัสผ่าน</string>
     <string name="password_view_show_password">แสดงรหัสผ่าน</string>
+    <string name="permission_desc_read_sms">สำหรับการกรอกรหัสยืนยันอัตโนมัติ</string>
+    <string name="permission_desc_write_external_storage">สำหรับการอัปโหลดบันทึกสำหรับข้อเสนอแนะ</string>
     <string name="permission_group_contacts">รายชื่อผู้ติดต่อ</string>
     <string name="permission_group_phone">โทรศัพท์</string>
     <string name="permission_group_sms">ข้อความ SMS</string>
     <string name="permission_group_storage">ที่จัดเก็บข้อมูล</string>
+    <string name="permission_read_sms">เข้าถึงข้อความ</string>
+    <string name="permission_write_external_storage">เข้าถึงและบันทึกรายการในที่จัดเก็บข้อมูล</string>
     <string name="personal_info_desc">รูปภาพ ชื่อเล่น และอื่นๆ</string>
     <string name="phone_num_use_for">หมายเลขโทรศัพท์ใช้สำหรับ:</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพที่พร้อมใช้งาน</string>
@@ -707,6 +717,12 @@ ID:%s
     <string name="recycle_phone_notification_title">ความเสี่ยงด้านความปลอดภัยของบัญชี Mi</string>
     <string name="removing_account">กำลังออกจากระบบ…</string>
     <string name="replace_binded_phone">แทนที่โทรศัพท์</string>
+    <string name="request_open_permission">ต้องการการอนุญาต</string>
+    <string name="request_use_camera_message">อนุญาตให้บัญชี Mi เข้าถึงกล้องในโทรศัพท์ของคุณหรือไม่?</string>
+    <string name="request_use_camera_title">เข้าถึงกล้องถ่ายรูป</string>
+    <string name="request_use_gallery_message">อนุญาตให้บัญชี Mi เข้าถึงคลังภาพหรือไม่?</string>
+    <string name="request_use_gallery_title">เข้าถึงคลังภาพ</string>
+    <string name="request_use_writing_clipboard_message">ในการคัดลอกรหัสบัญชี Mi ของคุณ อนุญาตให้บัญชี Mi บันทึกรายการลงในคลิปบอร์ด</string>
     <string name="resend_active_email">ส่งใหม่</string>
     <string name="resend_email_reach_limit_message">คุณได้ร้องขอให้ส่งอีเมลเกินจำนวนครั้งที่กำหนด ตรวจสอบดูให้แน่ใจว่าอีเมลที่จะใช้ยืนยันตัวตนไม่ถูกจัดเก็บไว้ในกล่องข้อความขยะ</string>
     <string name="resend_email_reach_limit_title">ส่งอีเมลไม่สำเร็จ</string>
@@ -839,6 +855,10 @@ ID:%s
     <string name="used_cloud_storage_info">ใช้ไป %s</string>
     <string name="user_avatar_update_title">เปลี่ยนรูปประจำตัว</string>
     <string name="user_avatar_uploading">รอสักครู่…</string>
+    <string name="user_instruction_all_purpose">ยินดีต้อนรับสู่บัญชี Mi! คุคุณสามารถใช้บัญชีของคุณเพื่อเข้าถึงบริการของ Xiaomi และบริษัทในเครือ เช่น Mi.com, Xiaomi คลาวด์ และ GetApps คุณสามารถรับ Mi Coins ซื้อสินค้าเสมือนจริง และเพลิดเพลินกับบริการเสริมต่างๆ เช่น เกม ธีม และ eBook</string>
+    <string name="user_instruction_tip">เพื่อให้สามารถลงชื่อเข้าใช้ อ่าน และยอมรับข้อกำหนดและเงื่อนไขได้</string>
+    <string name="user_license_with_3rd_app">&lt;Data>เมื่อลงชื่อเข้าใช้ด้วยบัญชี Mi ของฉัน ฉันยืนยันว่าฉันได้อ่านและยอมรับ &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของบัญชี Mi&lt;/Data></string>
+    <string name="user_license_without_3rd_app">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของ บัญชี Mi แล้ว&lt;/Data></string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="vip_account_settings">การตั้งค่า VIP</string>
