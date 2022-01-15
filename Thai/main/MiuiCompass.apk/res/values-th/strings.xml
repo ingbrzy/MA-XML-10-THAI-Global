@@ -51,6 +51,7 @@
     <string name="calibrate_success">ปรับเทียบแล้ว</string>
     <string name="calibrate_tip">ถือเครื่องไว้ในมือและจัดระดับลาดเอียงเพื่อให้ลูกบอลตกลงกลางรูที่กำหนด</string>
     <string name="calibrate_title">ปรับเทียบเข็มทิศ</string>
+    <string name="calibrating">ปรับเทียบเข็มทิศ</string>
     <string name="cancel">ยกเลิก </string>
     <string name="cannot_get_location">--</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
@@ -225,6 +226,7 @@
     <string name="month_september_shortest">กันยา</string>
     <string name="more">เพิ่มเติม</string>
     <string name="morning">เช้า</string>
+    <string name="new_cta_app_purpose">ดูเส้นทางและพิกัด</string>
     <string name="new_cta_v2_app_purpose">แสดง ทิศทาง พิกัด ความดันบรรยากาศ และระดับความสูงปัจจุบัน</string>
     <string name="new_permission_camera_desc">สำหรับการปรับเทียบ</string>
     <string name="new_permission_location_desc">สำหรับการแสดงพิกัด</string>
@@ -236,6 +238,7 @@
     <string name="open_perm_msg">เข็มทิศต้องการเข้าถึงข้อมูลตำแหน่งและกล้องถ่ายรูป นี่เป็นสิ่งจำเป็นในการกำหนดพิกัดและแสดงตัวอย่างสด อนุญาตหรือไม่?</string>
     <string name="open_perm_msg_no_camera">เข็มทิศจำเป็นต้องเข้าถึงข้อมูลตำแหน่งเพื่อให้สามารถระบุพิกัดได้ อนุญาต?</string>
     <string name="open_perm_title">สิทธิ์ที่จำเป็น</string>
+    <string name="pageIndicator">%1$s. %2$s.</string>
     <string name="permission_camera_desc">สำหรับการแสดงมุมแอซิมัทในการแสดงตัวอย่างสด</string>
     <string name="permission_description">รายละเอียดการอนุญาต</string>
     <string name="permission_location_desc">สำหรับการแสดงพิกัด</string>

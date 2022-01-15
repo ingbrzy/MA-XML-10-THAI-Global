@@ -256,6 +256,7 @@
     <string name="settings_guide_title">ต้องการการตั้งค่าอื่นๆ?</string>
     <string name="show_badge_notifications">สัญลักษณ์แจ้งเตือน</string>
     <string name="show_badge_notifications_short">ติดเครื่องหมาย</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">แถบสถานะ</string>
     <string name="summary_aggregate_default">การแจ้งเตือนโปรโมชั่นและการพุชที่เกี่ยวข้องกับเนื้อหาจะถูกจัดกลุ่ม</string>
     <string name="summary_aggregate_home">การแจ้งเตือนแบบพุชจะไม่ถูกจัดกลุ่ม</string>

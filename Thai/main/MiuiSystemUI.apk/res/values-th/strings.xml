@@ -131,7 +131,6 @@
     <string name="accessibility_keyguard_face_unlock_view">ปลดล็อกด้วยใบหน้า</string>
     <string name="accessibility_left_control_center_button">ปุ่มลัด</string>
     <string name="accessibility_left_lock_screen_magazine_button">ภาพพื้นหลังรายวัน</string>
-    <string name="accessibility_left_xmyzl_button">Xiaomi Magic Control</string>
     <string name="accessibility_location_active">คำขอตำแหน่งที่มีการใช้งาน</string>
     <string name="accessibility_long_click_tile">เปิดการตั้งค่า</string>
     <string name="accessibility_manage_notification">จัดการการแจ้งเตือน</string>
@@ -561,7 +560,6 @@
     <string name="cell_data_off">ปิด</string>
     <string name="cell_data_off_content_description">เน็ตมือถือปิดอยู่</string>
     <string name="charge_length_format">%1$s ที่ผ่านมา</string>
-    <string name="choose_clock_dual_clock_hint_text">ไม่สามารถเปลี่ยนรูปแบบได้เมื่อนาฬิกาคู่เปิดอยู่</string>
     <string name="choose_clock_panel_title">การจัดเรียงหน้าจอล็อก</string>
     <string name="choose_clock_third_theme_hint_text">หน้าจอล็อคจากชุดรูปแบบที่ใช้ในปัจจุบัน</string>
     <string name="choose_clock_title_left_top">ชิดซ้าย</string>
@@ -705,9 +703,6 @@
     <string name="development_settings_not_available">ตัวเลือกนักพัฒนาไม่พร้อมใช้งานสำหรับผู้ใช้นี้</string>
     <string name="development_settings_summary">ตั้งค่าตัวเลือกสำหรับการพัฒนา</string>
     <string name="development_settings_title">ตัวเลือกโหมดนักพัฒนา</string>
-    <string name="device_locked_without_biometric">ไม่สามารถปลดล็อกอุปกรณ์นี้ด้วยลายนิ้วมือหรือข้อมูลใบหน้าเมื่อคุณใช้การล็อกหน้าจอของบุคคลที่สาม</string>
-    <string name="device_locked_without_biometric_face">ไม่สามารถปลดล็อกอุปกรณ์นี้ด้วยข้อมูลใบหน้าเมื่อคุณใช้การล็อกหน้าจอของบุคคลที่สาม</string>
-    <string name="device_locked_without_biometric_finger">ไม่สามารถปลดล็อกอุปกรณ์นี้ด้วยลายนิ้วมือเมื่อคุณใช้การล็อกหน้าจอของบุคคลที่สาม</string>
     <string name="device_services">บริการของอุปกรณ์</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">หมายเหตุ: หลังจากรีบูตแอปนี้จะไม่เริ่มจนกว่าคุณจะปลดล็อกอุปกรณ์ของคุณ</string>
@@ -783,7 +778,6 @@
     <string name="face_unlock_pin_and_fingerprint">ป้อน PIN หรือใช้ลายนิ้วมือเพื่อปลดล็อก</string>
     <string name="face_unlock_reveal_eye">กรุณาเปิดตาให้มองเห็น</string>
     <string name="face_unlock_reveal_mouth">กรุณาหันให้เห็นปากของคุณ</string>
-    <string name="face_unlock_success">ปลดล็อกสำเร็จแล้ว</string>
     <string name="failed_to_open_app_settings_toast">เปิดการตั้งค่า %1$s ไม่ได้</string>
     <string name="fingerprint_add_text">อัปเดตอินเตอร์เฟซของลายนิ้วมือแล้ว เพิ่มลายนิ้วมือของคุณอีกครั้ง</string>
     <string name="fingerprint_add_title">เพิ่มลายนิ้วมือ</string>
@@ -812,7 +806,6 @@
     <string name="fs_gesture_back_ready_title">ย้อนกลับ</string>
     <string name="fs_gesture_final_over">ฉันทำเสร็จแล้ว</string>
     <string name="fs_gesture_final_restart">อีกที</string>
-    <string name="fs_gesture_final_see_more">ดูการสาธิตเพิ่มเติมในการตั้งค่า > หน้าจอหลัก > ระบบนำทาง</string>
     <string name="fs_gesture_final_summary">คุณสามารถเปลี่ยนกลับไปใช้ปุ่มต่างๆได้ในการตั้งค่า > การแสดงผลแบบเต็มหน้าจอ</string>
     <string name="fs_gesture_final_title">เมื่อคุณพร้อมเราก็พร้อม มาลองใช้กัน!</string>
     <string name="fs_gesture_finish">ยอดเยี่ยม!</string>
@@ -843,6 +836,28 @@
     <string name="guest_wipe_session_wipe">เริ่มต้นใหม่</string>
     <string name="gxzw_area">ตัวสแกนลายนิ้วมือ</string>
     <string name="gxzw_press_harder">กดแรงหน่อย</string>
+    <string name="gxzw_quick_close">ปิด</string>
+    <string name="gxzw_quick_open_add_event">เพิ่มกิจกรรม</string>
+    <string name="gxzw_quick_open_add_event_sub">ปฏิทิน</string>
+    <string name="gxzw_quick_open_alipay_pay">รหัสชำระเงิน</string>
+    <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
+    <string name="gxzw_quick_open_alipay_scan">ตัวสแกน</string>
+    <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
+    <string name="gxzw_quick_open_qr_code">รหัส QR</string>
+    <string name="gxzw_quick_open_qr_code_sub">ตัวสแกน</string>
+    <string name="gxzw_quick_open_search">ค้นหา</string>
+    <string name="gxzw_quick_open_search_sub">เบราว์เซอร์</string>
+    <string name="gxzw_quick_open_skip_teach">ข้ามแนะนำวิธีการ</string>
+    <string name="gxzw_quick_open_title">เปิดเมนูปุ่มลัดแล้ว</string>
+    <string name="gxzw_quick_open_wechat_pay">รหัสชำระเงิน</string>
+    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
+    <string name="gxzw_quick_open_wechat_scan">ตัวสแกน</string>
+    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
+    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
+    <string name="gxzw_quick_open_xiaoai_title1">พูดชื่อแอปที่คุณต้องการเปิด</string>
+    <string name="gxzw_quick_open_xiaoai_title2">พูดชื่อสถานที่ที่คุณต้องการใช้</string>
+    <string name="gxzw_quick_tip_press">กดต่อไปเรื่อยๆ…</string>
+    <string name="gxzw_quick_tip_slide">อย่ายกนิ้วของคุณ เลื่อนเพื่อเลือก</string>
     <string name="gxzw_try_again">ลองอีกครั้ง</string>
     <string name="gxzw_try_more_again">ลองอีกครั้ง</string>
     <string name="gxzw_use_password">ใช้รหัสผ่านของคุณเพื่อปลดล็อก</string>
@@ -911,15 +926,13 @@
     <string name="input_lockscreen_password_hint_text">ป้อนรหัสผ่าน</string>
     <string name="input_lockscreen_pattern_hint_text">วาดรูปแบบ</string>
     <string name="input_lockscreen_pin_hint_text">ป้อนรหัส PIN</string>
-    <string name="input_password_after_boot_msg">ต้องป้อนรหัสผ่านเมื่ออุปกรณ์รีบูต</string>
+    <string name="input_password_after_boot_msg">เพื่อปลดล็อกอุปกรณ์ กรุณาป้อนรหัสผ่าน</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ไม่สามารถสลับระหว่างพื้นที่ขณะโทรได้</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">ไม่สามารถสลับระหว่างพื้นที่เมื่อการควบคุมโดยผู้ปกครองเปิดอยู่</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">ไม่สามารถสลับระหว่างที่ว่างได้เมื่อเปิดตัวประหยัดแบตเตอรี่อัลตร้า</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">คุณจำเป็นต้องเข้าสู่พื้นที่ปกติก่อนที่อุปกรณ์จะทำการรีบูต</string>
     <string name="input_password_hint_text">ใส่รหัสผ่าน</string>
-    <string name="input_pattern_after_boot_msg">ต้องวาดรูปแบบเมื่ออุปกรณ์รีบูต</string>
     <string name="input_pattern_hint_text">วาดรูปแบบของคุณเพื่อปลดล็อก:</string>
-    <string name="input_pin_after_boot_msg">ต้องป้อน PIN เมื่ออุปกรณ์รีบูต</string>
     <string name="input_pin_code">ป้อนรหัส PIN</string>
     <string name="input_puk_code">ใส่ PUK</string>
     <string name="install_other_apps">ติดตั้งแอปที่ไม่รู้จัก</string>
@@ -998,7 +1011,6 @@
     <string name="keyguard_charged">ชาร์จแล้ว</string>
     <string name="keyguard_charging_back_to_lockscreen">กลับไปที่หน้าจอล็อก</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
-    <string name="keyguard_charging_double_fast_and_level_tip">เพิ่มความเร็วในการชาร์จ %s</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">วันนี้ %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">เมื่อวาน %s</string>
@@ -1025,6 +1037,7 @@
     <string name="keyguard_missing_sim_instructions_long">ไม่มีซิมการ์ดหรือไม่สามารถอ่านได้ โปรดใส่ซิมการ์ด</string>
     <string name="keyguard_missing_sim_message">ไม่มีซิมการ์ดในโทรศัพท์</string>
     <string name="keyguard_missing_sim_message_short">ไม่มีซิมการ์ด</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">เครือข่ายถูกล็อก</string>
     <string name="keyguard_password_enter_password_code">พิมพ์รหัสผ่านเพื่อปลดล็อก</string>
     <string name="keyguard_password_enter_pin_code">พิมพ์รหัส PIN</string>
@@ -1260,12 +1273,14 @@ d MMMM"</string>
 
 โปรดติดต่อผู้ดูแลระบบของคุณสำหรับข้อมูลเพิ่มเติม"</string>
     <string name="monitoring_description_ca_cert_settings">เปิดข้อมูลรับรองที่เชื่อถือได้</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">มีการติดตั้งผู้ออกใบรับรองในอุปกรณ์นี้ อาจมีการตรวจสอบหรือแก้ไขการจราจรของข้อมูลในเครือข่ายที่ปลอดภัยของคุณ</string>
     <string name="monitoring_description_do_body">ผู้ดูแลระบบสามารถตรวจสอบและจัดการการตั้งค่า การเข้าถึงของบริษัท แอป ข้อมูลที่เชื่อมโยงกับอุปกรณ์ของคุณ และข้อมูลตำแหน่งของอุปกรณ์</string>
     <string name="monitoring_description_do_body_vpn">คุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมในเครือข่ายของคุณ รวมถึงอีเมล แอป และเว็บไซต์ได้</string>
     <string name="monitoring_description_do_header_generic">อุปกรณ์ของคุณได้รับการจัดการโดย %1$s</string>
     <string name="monitoring_description_do_header_with_name">%1$s ใช้ %2$s เพื่อจัดการอุปกรณ์</string>
     <string name="monitoring_description_do_learn_more">ดูข้อมูลเพิ่มเติม</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">องค์กรของคุณติดตั้งผู้ออกใบรับรองในโปรไฟล์งาน อาจมีการตรวจสอบหรือแก้ไขการจราจรของข้อมูลในเครือข่ายที่ปลอดภัยของคุณ</string>
     <string name="monitoring_description_managed_profile_named_vpn">โปรไฟล์งานของคุณเชื่อมต่ออยู่กับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมในเครือข่ายของคุณ รวมถึงอีเมล แอป และเว็บไซต์</string>
     <string name="monitoring_description_management">"องค์กรของคุณเป็นเจ้าของอุปกรณ์นี้
@@ -1297,6 +1312,7 @@ d MMMM"</string>
 
 นอกจากนี้คุณยังเชื่อมต่อกับ VPN ซึ่งตรวจสอบกิจกรรมในเครือข่ายของคุณได้"</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">ใบรับรอง CA</string>
     <string name="monitoring_subtitle_network_logging">การบันทึกกิจกรรมของเครือข่าย</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1327,11 +1343,11 @@ d MMMM"</string>
     <string name="mr_dialog_transferable_header">เล่นในกลุ่ม</string>
     <string name="mr_system_route_name">ระบบ</string>
     <string name="mr_user_route_category_name">อุปกรณ์</string>
-    <string name="msim_set_sub_not_supported_phone_in_call">ไม่สามารถตั้งค่าระหว่างโทรได้</string>
     <string name="music_controls_no_title">ไม่มีชื่อ</string>
     <string name="nav_bar">แถบนำทาง</string>
     <string name="nav_bar_default">(ค่าเริ่มต้น)</string>
     <string name="nav_bar_layout">การจัดวาง</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">ไม่มี</string>
     <string name="no_auto_saver_action">ไม่เป็นไร</string>
     <string name="no_shortcut">%1$s ไม่รองรับฟีเจอร์การสนทนา</string>
@@ -1403,7 +1419,6 @@ d MMMM"</string>
     <string name="open_lock_screen_magazine_hint_text">เลื่อนไปทางซ้ายสำหรับตัวเลือกเพิ่มเติม</string>
     <string name="open_remote_center_hint_text">ปัดไปทางขวาเพื่อดูส่วนควบคุม</string>
     <string name="open_saver_setting_action">การตั้งค่า</string>
-    <string name="open_xmyzl_hint_text">ปัดไปทางขวาเพื่อเปิด Xiaomi Magic Control</string>
     <string name="orb_search_action">การดำเนินการค้นหา</string>
     <string name="osu_completing_sign_up">กำลังเสร็จสิ้นการลงทะเบียน…</string>
     <string name="osu_connect_failed">ไม่สามารถเชื่อมต่อได้</string>
@@ -1429,7 +1444,7 @@ d MMMM"</string>
     <string name="phone_locked_foget_password_method_content">&lt;Data>คุณต้องลบข้อมูล &lt;font color=#a5220e>ทั้งหมด &lt;/font> บนอุปกรณ์ของคุณ รวมทั้งรูปภาพและรายชื่อผู้ติดต่อ จากนั้นตั้งรหัสผ่านล็อคหน้าจอใหม่.&lt;/Data></string>
     <string name="phone_locked_foget_password_method_next">ถัดไป</string>
     <string name="phone_locked_foget_password_ok">รับทราบ</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>ปิดอุปกรณ์ของคุณ จากนั้นกดปุ่ม &lt;font color=#e6e6e6>[เปิด/ปิด]&lt;/font> และ &lt;font color=#e6e6e6>[ระดับเสียง +]&lt;/font> ค้างไว้จนกว่าคุณจะเห็น &lt;img src=\"\"></Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>ปิดอุปกรณ์ของคุณ กด &lt;font color=#a5220e>ปุ่มเปิด/ปิดเครื่อง&lt;/font> และ &lt;font color=#a5220e>ปุ่มเพิ่มเสียงค้าง&lt;/font> รอจนกว่าคุณจะเห็นโลโก้ Mi&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>เลือก&lt;font color=#a5220e>\"ลบออกและรีเซ็ต\"&lt;/font> และรอจนกว่าอุปกรณ์รีบูต.;&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">ลบข้อมูลอย่างไร?</string>
     <string name="phone_locked_string">อุปกรณ์ดังกล่าวถูกล็อกอยู่</string>
@@ -1515,6 +1530,7 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">ชื่อผู้ให้บริการ DNS ส่วนตัว</string>
     <string name="private_dns_mode_provider_failure">ไม่สามารถเชื่อมต่อได้</string>
     <string name="private_dns_mode_provider_hostname_hint">ป้อนผู้ให้บริการ DNS ส่วนตัว</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">ปัญหาการเชื่อมต่อ ปิดและเปิดอุปกรณ์</string>
     <string name="profile_info_settings_title">ข้อมูลโปรไฟล์</string>
     <string name="profile_owned_footer">อาจมีการตรวจสอบโปรไฟล์</string>
@@ -1648,7 +1664,7 @@ d MMMM"</string>
     <string name="quick_settings_rotation_locked_landscape_label">แนวนอน</string>
     <string name="quick_settings_rotation_locked_portrait_label">แนวตั้ง</string>
     <string name="quick_settings_rotation_unlocked_label">หมุนอัตโนมัติ</string>
-    <string name="quick_settings_rotationlock_label">ทิศทางการล็อค</string>
+    <string name="quick_settings_rotationlock_label">ห้ามหมุนจอ</string>
     <string name="quick_settings_rssi_emergency_only">โทรฉุกเฉินเท่านั้น</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screen_record_label">บันทึกหน้าจอ</string>
@@ -1806,8 +1822,6 @@ d MMMM"</string>
     <string name="show_silently">แสดงการแจ้งเตือนโดยไม่ส่งเสียง</string>
     <string name="show_touches">แสดงการแตะ</string>
     <string name="show_touches_summary">แสดงการตอบสนองสำหรับการแตะ</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Press and hold the &lt;font color=#e6e6e6>[Power]&lt;/font> and &lt;font color=#e6e6e6>[Volume +]&lt;/font> buttons until you see &lt;img src=\"\">.</Data></string>
-    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font> and tap &lt;font color=#e6e6e6>[Reboot]&lt;/font> after that.</Data></string>
     <string name="sim_state_locked_dialog_title">ซิมการ์ดไม่ถูกต้อง</string>
     <string name="sim_state_locked_puk_dialog_message">คุณป้อนรหัส PUK ไม่ถูกต้องเป็นอย่างน้อย %d ครั้ง ตอนนี้ซิมการ์ดของคุณถูกปิด เปลี่ยนซิมการ์ดนี้กับซิมการ์ดอื่น</string>
     <string name="simulate_color_space">จำลองระบบสี</string>

@@ -12,12 +12,20 @@
         <item>สีเขียว</item>
         <item>สีน้ำเงิน</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>ไม่สนใจ</item>
+        <item>ซ้ำ</item>
+        <item>คุณภาพต่ำ</item>
+        <item>รูปภาพไม่เหมาะสม</item>
+        <item>ข้อมูลหลอกลวง</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>เนื้อหาที่ไม่เหมาะสม</item>
         <item>การหลอกลวง</item>
         <item>ข่าวเก่า</item>
         <item>มุมมองที่รุนแรง</item>
         <item>โฆษณาแฝง</item>
+        <item>ไม่ชอบเลย</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>ย้อนกลับ/ไปข้างหน้า</item>

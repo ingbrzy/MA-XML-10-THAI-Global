@@ -235,7 +235,7 @@
     <string name="category_folder">โฟลเดอร์</string>
     <string name="category_installed_app">ติดตั้งแอปแล้ว</string>
     <string name="category_midrive">Mi ไดรฟ์</string>
-    <string name="category_move_limit_notice">คุณสามารถย้ายจาก 3 ถึง 7 รายการไปด้านบนของหน้าจอ</string>
+    <string name="category_move_limit_notice">คุณสามารถย้ายได้ %1$d ถึง %2$d รายการไปที่ส่วนบนของหน้าจอ</string>
     <string name="category_music">เพลง</string>
     <string name="category_other">อื่นๆ</string>
     <string name="category_photo">รูปภาพ</string>
@@ -374,6 +374,9 @@
     <string name="copy">คัดลอก</string>
     <string name="copy_url">คัดลอก URL</string>
     <string name="could_not_load_data">ไม่สามารถกำลังโหลดข้อมูลได้ รีเฟรชและลองอีกครั้ง</string>
+    <string name="crash_page_button">ลองอีกครั้ง</string>
+    <string name="crash_page_description">เกิดข้อผิดพลาดขณะแสดงหน้าเว็บนี้</string>
+    <string name="crash_page_title">แย่จัง!</string>
     <string name="create_qr_code">รหัส QR</string>
     <string name="current_version_pad">แพด</string>
     <string name="current_version_pc">เดสท็อป</string>
@@ -432,7 +435,7 @@ ID:%s
     <string name="download_btn_select_none">ไม่เลือกทั้งหมด</string>
     <string name="download_business_app_new_version">เวอร์ชั่นล่าสุดของแอปติดตั้งไว้อยู่แล้ว</string>
     <string name="download_business_app_update_install">พร้อมสำหรับการติดตั้งอัปเดตแล้ว</string>
-    <string name="download_business_v5_edit_mode_title_empty">เลือกไว้ 0 รายการ</string>
+    <string name="download_business_v5_edit_mode_title_empty">เลือกรายการ</string>
     <string name="download_change_dir">แก้ไขโฟลเดอร์</string>
     <string name="download_complete">ดาวน์โหลดเรียบร้อย</string>
     <string name="download_completed">ดาวน์โหลดแล้ว</string>
@@ -453,7 +456,7 @@ ID:%s
     <string name="download_dialog_failed_body">ลองอีกครั้งในภายหลังหรือลบไฟล์นี้จากรายการดาวน์โหลด?</string>
     <string name="download_dialog_file_already_exists">คุณได้ดาวน์โหลดไฟล์นี้ไว้แล้ว</string>
     <string name="download_dialog_file_length_hint_txt">"ขนาดไฟล์: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">น้อยกว่า 1KB</string>
+    <string name="download_dialog_file_length_lessthan1kb">น้อยกว่า %1$d KB</string>
     <string name="download_dialog_file_length_nolength_error_txt">ไม่สามารถดำเนินการดาวน์โหลดได้</string>
     <string name="download_dialog_file_length_nolength_txt">รอสักครู่…</string>
     <string name="download_dialog_file_missing_body">ไม่พบไฟล์ คุณได้ทำการย้ายหรือลบทิ้งหรือไม่?</string>
@@ -694,6 +697,8 @@ ID:%s
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="game_center_recommend_play">เล่น</string>
+    <string name="game_center_recommend_title">แนะนำเพื่อคุณ</string>
     <string name="game_played">ล่าสุด</string>
     <string name="gcm_fallback_notification_channel_label">เบ็ดเตล็ด</string>
     <string name="geolocation_permissions_prompt_dont_share">ปฏิเสธ</string>
@@ -805,9 +810,9 @@ ID:%s
     <string name="lockpattern_need_to_unlock_wrong">ลองอีกครั้ง</string>
     <string name="lockpattern_pattern_confirmed_header">นี่คือรูปแบบของคุณเพื่อปลดล็อก:</string>
     <string name="lockpattern_pattern_entered_header">เสร็จสิ้น!</string>
-    <string name="lockpattern_recording_incorrect_too_short">ลองอีกครั้ง เชื่อมต่ออย่างน้อย 4 จุด</string>
+    <string name="lockpattern_recording_incorrect_too_short">ลองอีกครั้ง วาดเชื่อมต่ออย่างน้อย %1$d จุด.</string>
     <string name="lockpattern_recording_inprogress">ปล่อยเมื่อรูปแบบของคุณเสร็จสมบูรณ์</string>
-    <string name="lockpattern_recording_intro_header">เชื่อมกันอย่างน้อย 4 จุด</string>
+    <string name="lockpattern_recording_intro_header">วาดเชื่อมต่ออย่างน้อย %1$d จุด</string>
     <string name="lockpattern_retry_button_text">รีเซ็ต</string>
     <string name="login_failed_toast">ไม่สามารถเข้าสู่ระบบได้ รีเฟรชและลองอีกครั้ง</string>
     <string name="login_or_register">หรือ</string>
@@ -818,7 +823,7 @@ ID:%s
     <string name="make_private_msg_1">ซ่อนไฟล์นี้?</string>
     <string name="make_private_msg_2">ซ่อนไฟล์เหล่านี้?</string>
     <string name="max_tabs_warning">ไม่สามารถเปิดแท็บเพิ่มได้อีก</string>
-    <string name="maximum_input_alert">รองรับได้ไม่เกิน 2048 ตัวอักษร</string>
+    <string name="maximum_input_alert">ไม่สามารถป้อนอักขระได้เกิน %1$d ตัว</string>
     <string name="menu_addtodesk">เพิ่มไปยังหน้าจอหลัก</string>
     <string name="menu_exit_nightmode">ออก</string>
     <string name="menu_hv_swap">ปรับจอแนวตั้ง/แนวนอน</string>
@@ -1316,7 +1321,7 @@ ID:%s
     <string name="permission_open_storage">อนุญาตให้ Mi เบราว์เซอร์ เข้าถึงพื้นที่จัดเก็บภายในใน การตั้งค่า ก่อน</string>
     <string name="permission_service">ข้อกำหนดและเงื่อนไข</string>
     <string name="permission_storage">พื้นที่จัดเก็บ</string>
-    <string name="permission_use">สิทธิ์การใช้งาน</string>
+    <string name="permission_use">การอนุญาต</string>
     <string name="personalized_content_services">บริการเนื้อหาส่วนบุคคล</string>
     <string name="personalized_services">บริการส่วนบุคคล</string>
     <string name="personalized_services_desc">รับคำแนะนำเนื้อหาและโฆษณาในแบบของคุณ</string>
@@ -1330,7 +1335,7 @@ ID:%s
     <string name="pf_guide_msg_if_has_downloading">ไม่สามารถรายการที่กำลัวดาวน์โหลดอยู่ไปยังโฟลเดอร์ส่วนตัว</string>
     <string name="pf_move_out">ลบออกจากโฟลเดอร์ส่วนบุคคล</string>
     <string name="pf_move_out_dialog_btn_confirm">ลบออก</string>
-    <string name="pf_move_out_dialog_content">รายการที่ถูกลบจะถูกบันทึกไว้ที่ตำแหน่งเดิม</string>
+    <string name="pf_move_out_dialog_content">รายการที่นำออกจะแสดงในไฟล์ล่าสุด</string>
     <string name="pf_move_out_dialog_title">กำลังลบออกจากโฟลเดอร์ส่วนบุคคล</string>
     <string name="pf_toast_add_success">ย้ายไปยังโฟลเดอร์ส่วนตัวเรียบร้อยแล้ว</string>
     <string name="phone">พื้นที่จัดเก็บข้อมูล</string>
@@ -1621,7 +1626,7 @@ ID:%s
     <string name="rlv_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
     <string name="rlv_refreshing">กำลังรีเฟรช…</string>
     <string name="rlv_release_to_refresh">ปล่อยเพื่อรีเฟรช</string>
-    <string name="rlz_access_point">Y1</string>
+    <string name="rlz_access_point">Y%1$d</string>
     <string name="root_folder_lable">ไม่ตั้ง</string>
     <string name="router_download_exist">มีไฟล์นี้อยู่แล้ว</string>
     <string name="router_download_failed">ไม่สามารถดาวน์โหลดได้</string>
@@ -1679,7 +1684,7 @@ ID:%s
     <string name="search_google">Google</string>
     <string name="search_hint">ค้นหา</string>
     <string name="search_menu_title">ค้นหา</string>
-    <string name="search_s139">139</string>
+    <string name="search_s139">%1$d</string>
     <string name="search_settings_description">ที่คั่นหน้าและประวัติ</string>
     <string name="search_shipin">วิดีโอ</string>
     <string name="search_sm">SM</string>
@@ -1978,8 +1983,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_data_used_info">ใช้แล้ว %2$s จาก %1$s</string>
     <string name="vpn_detail_guide1">ปลดล็อกเซิร์ฟเวอร์ทั้งหมดเพื่อเพิ่มความเร็วในการเชื่อมต่อของคุณ</string>
     <string name="vpn_detail_guide2">สมัครสมาชิกบริการ VPN เพื่อเข้าถึงเว็บไซต์เพิ่มเติม</string>
-    <string name="vpn_detail_guide3">ทราฟฟิคคุณใกล้จะหมดแล้ว ลองแผน 12 เดือนของเรา! แตะเพื่อเรียนรู้เกี่ยวกับตัวเลือกของคุณ</string>
-    <string name="vpn_detail_guide4">ทราฟฟิคคุณหมดแล้ว ลองแผน 12 เดือนของเรา! แตะเพื่อเรียนรู้เกี่ยวกับตัวเลือกของคุณ</string>
+    <string name="vpn_detail_guide3">คุณเกือบจะไม่เหลือโควต้าแล้ว ลองใช้แผน %1$d-เดือน ของเราสิ! แตะเพื่อเรียนรู้เกี่ยวกับตัวเลือกของคุณ</string>
+    <string name="vpn_detail_guide4">คุณไม่เหลือโควต้าแล้ว ลองใช้แผน %1$d-เดือน ของเราสิ! แตะเพื่อเรียนรู้เกี่ยวกับตัวเลือกของคุณ</string>
     <string name="vpn_detail_guide5">ทราฟฟิคคุณใกล้จะหมดแล้ว</string>
     <string name="vpn_detail_guide6">ทราฟฟิคคุณหมดแล้ว</string>
     <string name="vpn_detail_subscribe">สมัคร</string>
@@ -2010,7 +2015,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_how_it_works">วิธีการทำงาน</string>
     <string name="whatsapp_intro_dialog_title">คุณลักษณะใหม่</string>
     <string name="whatsapp_no_status_tips">ยังไม่มีรูปภาพหรือวิดีโอที่นี่ ดูการอัปเดตสถานะ WhatsApp ของคุณและกลับมาที่นี่อีกครั้ง</string>
-    <string name="whatsapp_principle_page_message">WhatsApp จะบันทึกรูปภาพและวิดีโอที่คุณเรียกดูไปยังโฟลเดอร์ที่ซ่อนอยู่ รายการเหล่านี้จะหายไปหลังจาก 24 ชั่วโมง ตอนนี้คุณสามารถใช้ Mi เบราเซอร์ เพื่อบันทึก</string>
+    <string name="whatsapp_principle_page_message">WhatsApp จะบันทึกรูปภาพและวิดีโอที่คุณเรียกดูไปยังโฟลเดอร์ที่ซ่อนอยู่ รายการเหล่านี้จะหายไปหลังจาก %1$d ชั่วโมง ตอนนี้คุณสามารถใช้ Mi เบราเซอร์ เพื่อบันทึก</string>
     <string name="whatsapp_principle_page_title">ตุณสามารถบันทึกภาพและวิดีโอจากสถานะ WhatsApp โดยใช้ Mi เบราเซอร์</string>
     <string name="whatsapp_principle_step_1">เรียกดูรูปภาพและวิดีโอจากแท็บ \"สถานะ\" ใน WhatsApp</string>
     <string name="whatsapp_principle_step_2">กลับมาที่นี่เพื่อบันทึก</string>

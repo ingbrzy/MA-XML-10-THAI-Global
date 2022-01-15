@@ -141,6 +141,8 @@
     <string name="created_successfully">สร้างสำเร็จแล้ว</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">ตั้งค่า</string>
+    <string name="customize_radio_btn_summary">ต้องการอัตราการรีเฟรชที่เลือก</string>
+    <string name="customize_radio_btn_title">กำหนดเอง</string>
     <string name="dall_sheep">Dall sheep</string>
     <string name="dart_frog_info">ผิวหนังสีฟ้าสดใสและต่อมพิษของมันเป็นกลไกในการป้องกันสัตว์ร้ายที่มีศักยภาพ</string>
     <string name="date_picker_label_day" />
@@ -150,7 +152,11 @@
     <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="dc_light_hint_enable_title">การแจ้งเตือน</string>
     <string name="dc_light_hint_normal">การลดแสง DC อาจส่งผลกระทบต่อวิธีการแสดงบางรายการ</string>
+    <string name="dc_light_hint_normal_anit">โหมดป้องกันภาพสั่นไหวอาจส่งผลต่อวิธีการแสดงรายการบางรายการ</string>
+    <string name="dc_light_hint_normal_other">โหมดป้องกันภาพสั่นไหวอาจส่งผลต่ออัตราการรีเฟรชและวิธีการแสดงบางรายการ</string>
     <string name="dc_light_hint_other">การหรี่แสง DC อาจส่งผลต่ออัตราการรีเฟรชและวิธีการแสดงบางรายการ</string>
+    <string name="dc_light_hint_unnormal_low">โหมดป้องกันภาพสั่นไหวในสภาพแสงน้อยอาจส่งผลต่อวิธีการแสดงรายการบางรายการ</string>
+    <string name="dc_light_hint_unnormal_other">โหมดป้องกันภาพสั่นไหวในสภาพแสงน้อยอาจส่งผลต่ออัตราการรีเฟรชและวิธีการแสดงบางรายการ</string>
     <string name="dc_lignt_enable_hint">โหมดป้องกันการสั่นไหวจะตั้งค่าอัตราการรีเฟรชหน้าจอเป็น 60 Hz เปลี่ยนเป็นโหมดต่อต้านการสั่นไหวหรือไม่?</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
     <string name="desktop_widget_authorization">แตะเพื่อให้การอนุญาตในการดูสถิติ</string>
@@ -288,13 +294,19 @@
     <string name="focus_mode_timer_pick_dialog_title">ป้อนระยะเวลา</string>
     <string name="focus_time_exception_tip">ดูเหมือนว่าเวลาของระบบเปลี่ยนไป ปิดโหมดโฟกัสแล้ว</string>
     <string name="follow_sim1">ใช้การตั้งค่าใช้ซิม 1</string>
+    <string name="fps_high">สูง</string>
     <string name="fps_nature_summary">อัตราการรีเฟรชสูงสุดช่วยให้ทุกอย่างคมชัดและชัดเจน</string>
     <string name="fps_nature_title">สูงสุด</string>
+    <string name="fps_normal">มาตรฐาน</string>
+    <string name="fps_radio_btn_title">อัตราการรีเฟรช</string>
+    <string name="fps_save_battery_tips">โหมดประหยัดแบตเตอรี่เปิดอยู่ ตั้งค่าอัตราการรีเฟรชเป็น %d Hz</string>
     <string name="fps_smooth_summary">อัตราการรีเฟรชสูงเพิ่มความชัดเจนให้กับรายละเอียดมากขึ้น</string>
     <string name="fps_smooth_title">สูง</string>
     <string name="fps_standard_summary">อัตราการรีเฟรชมาตรฐานช่วยประหยัดแบตเตอรี่</string>
     <string name="fps_standard_title">มาตรฐาน</string>
     <string name="fps_user_tip">- ภาพเคลื่อนไหวสาธิตเหล่านี้เล่นด้วยความเร็วต่ำสำหรับการอ้างอิงของคุณ ประสิทธิภาพจริงอาจแตกต่างกันไปตามปัจจัยที่แตกต่างกัน</string>
+    <string name="fps_user_tip_footer">"%1$d เพื่อให้คุณเข้าใจความแตกต่างระหว่างอัตราการรีเฟรชที่สูงและต่ำ การสาธิตจะเล่นช้าลงที่นี่ คุณอาจสังเกตเห็นความแตกต่างระหว่างการใช้งานปกติได้ยากขึ้น
+%2$d ในบางกรณี อัตราการรีเฟรชอาจปรับเปลี่ยนแบบไดนามิกตามรายการที่แสดง"</string>
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
@@ -320,11 +332,14 @@
     <string name="healthy_use_phone">จัดการเวลาหน้าจอ</string>
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">อัตราการรีเฟรชหน้าจอสูง การใช้พลังงานที่สูงขึ้น</string>
+    <string name="high_fps_tip_footer">การใช้อัตราการรีเฟรชที่สูงขึ้นทำให้ประสบการณ์การรับชมราบรื่นขึ้น แต่ใช้พลังงานมากกว่า</string>
     <string name="hippopotamus">Hippo</string>
     <string name="hsv_space_color">พื้นที่สี HSV</string>
     <string name="hsv_space_color_hue">โทนสี</string>
     <string name="hsv_space_color_saturation">ความอิ่มสี</string>
     <string name="hsv_space_color_value">ค่า</string>
+    <string name="intelligent_radio_btn_summary">ปรับอัตราการรีเฟรชแบบไดนามิกตามสถานการณ์เพื่อสร้างสมดุลระหว่างประสิทธิภาพกับการใช้พลังงาน</string>
+    <string name="intelligent_radio_btn_title">อัตโนมัติ (แนะนำ)</string>
     <string name="intelligent_recognition_item_summary">ใช้เสียงเรียกเข้าที่กำหนดไว้สำหรับการโทรจากบริการจัดส่งและรถแท็กซี่ คุณสมบัตินี้จะทำงานเมื่อตั้งค่า %s เป็นเสียงเรียกเข้าเริ่มต้นของคุณ</string>
     <string name="intelligent_recognition_item_title">ระบุบริการ</string>
     <string name="item_anura">อนูระ</string>
@@ -365,6 +380,8 @@
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
     <string name="lock_summary">ป้องกันข้อมูลส่วนตัวของคุณ</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
+    <string name="low_flicker_mode">แสงน้อย</string>
+    <string name="low_flicker_mode_summary">ป้องกันการสั่นไหวในสภาพแสงน้อย ลดอาการเมื่อยล้าของดวงตา</string>
     <string name="low_fps_description">อัตราการรีเฟรชหน้าจอต่ำ ลดการใช้พลังงาน</string>
     <string name="low_light_preview">ภาพตัวอย่างที่มีแสงน้อย</string>
     <string name="lynx">ลิงซ์</string>
@@ -374,6 +391,7 @@
     <string name="masked_palm_civet">อีเห็นเครือ</string>
     <string name="medium_tree_finch">นกกระจิบต้นไม้ขนาดกลาง</string>
     <string name="midnight">กลางคืน</string>
+    <string name="miuix_access_state_desc">ที่เลือกไว้</string>
     <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
@@ -466,6 +484,7 @@
     <string name="noon">เที่ยงวัน</string>
     <string name="normal_mode">ปกติ</string>
     <string name="normal_mode_summary">ไม่ลดการสั่นไหวในสภาวะแสงน้อย</string>
+    <string name="normal_mode_summary_new">อนุญาตการสั่นไหวในสภาพแสงน้อย</string>
     <string name="north_white_rhinoceros">White rhinoceros</string>
     <string name="norway_lemmings">Norway lemmings</string>
     <string name="norway_lemmings_info">ชาวนอร์เวย์อาศัยอยู่ในทุ่งทุนดราและน้ำตกและชอบอาศัยอยู่ใกล้น้ำ</string>
@@ -545,7 +564,7 @@
     <string name="several_days_use_time">เวลาหน้าจอ: %2$s</string>
     <string name="short_eared_owl">นกเค้าแมวหูสั้น</string>
     <string name="shortcut_created">ปุ่มลัดนี้มีอยู่แล้ว</string>
-    <string name="silent_ringtone_hint">ขณะนี้เสียงเงียบไปแล้ว เพิ่มระดับเสียงแล้วลองอีกครั้ง</string>
+    <string name="silent_ringtone_hint">ปิดโหมดเงียบก่อน</string>
     <string name="silver_pheasant">ไก่ฟ้าหลังขาว</string>
     <string name="sim_slot_1">" (ซิม 1)"</string>
     <string name="sim_slot_2">" (ซิม 2)"</string>
@@ -557,6 +576,8 @@
     <string name="snowy_owl">Snowy owl</string>
     <string name="southern_elephant_seal">Southern elephant seal</string>
     <string name="southern_ground_hornbill">Ground hornbill</string>
+    <string name="split_page_authorization">ยินดีต้อนรับสู่ เวลาหน้าจอ! คุณสามารถตั้งค่าการจำกัดเวลาอยู่หน้าจอและดูสถิติได้ที่นี่ แตะ \"เริ่ม\" เพื่อเปิดคุณสมบัตินี้</string>
+    <string name="split_page_start">เริ่ม</string>
     <string name="spotted_hyaena">Spotted hyena</string>
     <string name="spotted_hyaena_info">Hyenas are nocturnal predators with the most complex social behaviours.</string>
     <string name="spur_winged_plover">นกกระแตหาด</string>
@@ -673,12 +694,15 @@
     <string name="usage_app_over_content">วันนี้คุณใช้แอปนี้ไป %s</string>
     <string name="usage_app_over_summary">คุณใช้งานถึงขีดจำกัดแล้ว หมดเวลา!</string>
     <string name="usage_app_set_limit_time">จำกัด</string>
+    <string name="usage_app_stop_desc">All Screen time data and permissions, including individual settings, as well as the related items stored locally, will be deleted after you turn this feature off.​</string>
     <string name="usage_app_system_app_summary">ไม่สามารถจำกัดเวลาหน้าจอสำหรับแอประบบ</string>
     <string name="usage_app_weekday_limit">วันธรรมดา</string>
     <string name="usage_app_weekend_limit">สุดสัปดาห์</string>
     <string name="usage_beat_fans">ดีกว่า %s ของ แฟน Mi</string>
     <string name="usage_continuous_days">ความต่อเนื่อง</string>
     <string name="usage_creating_weekly_report">กำลังสร้างรายงานประจำสัปดาห์…</string>
+    <string name="usage_cta_desc">"Welcome to Settings! To provide Screen time and Focus mode stats to you, this app needs to collect the following data: the number of times you unlock the device, the list of your apps along with the corresponding usage duration, the number of times your screen lights up, and Focus mode settings. The collected data will only be stored locally on this device.
+"</string>
     <string name="usage_current_week_usage">%s โดยเฉลี่ยภายใน 7 วันที่ผ่านมา</string>
     <string name="usage_device_limit_app_prolong">เพิ่มเวลา</string>
     <string name="usage_device_limit_app_prolong_time1">เพิ่ม 20 นาที</string>

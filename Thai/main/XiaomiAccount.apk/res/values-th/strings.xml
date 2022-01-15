@@ -107,6 +107,9 @@
     <string name="binded">เชื่อมต่อแล้ว</string>
     <string name="binded_description" formatted="false">"%s ได้เชื่อมต่อกับบัญชี Mi ของคุณแล้ว
 คุณสามารถลงชื่อเข้าใช้บัญชี Mi โดยใช้ %s ได้ตอนนี้"</string>
+    <string name="button_agree">ยอมรับ</string>
+    <string name="button_close">ปิด</string>
+    <string name="button_refuse">ไม่เห็นด้วย</string>
     <string name="button_unbind">ตัดการเชื่อมต่อ</string>
     <string name="cancel">ยกเลิก </string>
     <string name="change_activate_email">เปลี่ยนที่อยู่อีเมล</string>
@@ -466,6 +469,7 @@ ID:%s
     <string name="passport_activing_account">กำลังเปิดใช้งาน…</string>
     <string name="passport_adding_account">กำลังเพิ่มบัญชี…</string>
     <string name="passport_area_code_hot">ที่ใช้บ่อย</string>
+    <string name="passport_area_code_others">ใช้เลขนำหน้าอื่น</string>
     <string name="passport_area_code_title">รหัสประเทศ</string>
     <string name="passport_auto_generate_pwd">สร้างรหัสผ่านความปลอดภัย</string>
     <string name="passport_back">ย้อนกลับ</string>
@@ -697,13 +701,19 @@ ID:%s
     <string name="permission_group_phone">โทรศัพท์</string>
     <string name="permission_group_sms">ข้อความ SMS</string>
     <string name="permission_group_storage">ที่จัดเก็บข้อมูล</string>
+    <string name="permission_instructions">การใช้งานการอนุญาต</string>
     <string name="permission_read_sms">เข้าถึงข้อความ</string>
+    <string name="permission_withdraw">เพิกถอน</string>
     <string name="permission_write_external_storage">เข้าถึงและบันทึกรายการในที่จัดเก็บข้อมูล</string>
     <string name="personal_info_desc">รูปภาพ ชื่อเล่น และอื่นๆ</string>
     <string name="phone_num_use_for">หมายเลขโทรศัพท์ใช้สำหรับ:</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพที่พร้อมใช้งาน</string>
     <string name="pm">PM</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
+    <string name="privacy_policy_reject_confirm_msg">คุณจะไม่สามารถใช้ บัญชี Mi ต่อไปได้ เว้นแต่คุณจะยอมรับนโยบายความเป็นส่วนตัวเวอร์ชันใหม่ ยอมรับ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> บัญชี Mi ที่อัปเดตแล้วตอนนี้หรือไม่?</string>
+    <string name="privacy_policy_reject_confirm_title">ไม่สามารถใช้ บัญชี Mi ได้</string>
+    <string name="privacy_policy_update_msg">นโยบายความเป็นส่วนตัวของบัญชี Mi ได้รับการอัปเดตแล้ว:&lt;br/>%1$s&lt;br/>อ่านและยอมรับ&lt;a href=%2$s>&lt;u>นโยบายความเป็นส่วนตัว&lt;/u>&lt;/a>เวอร์ชันใหม่ก่อนจะดำเนินการต่อ</string>
+    <string name="privacy_policy_update_title">อัปเดตนโยบายความเป็นส่วนตัว</string>
     <string name="provision_back">ย้อนกลับ</string>
     <string name="provision_next">ถัดไป</string>
     <string name="provision_skip_underline">ข้าม</string>
@@ -730,6 +740,9 @@ ID:%s
     <string name="restart_action">เริ่มใหม่</string>
     <string name="restart_phone_bind_message">การส่งข้อความ SMS ผ่านเครือข่ายอาจใช้เวลาสักครู่ คุณต้องการเริ่มใหม่?</string>
     <string name="restart_phone_bind_title">เปลี่ยนโทรศัพท์ที่ใช้กู้คืนบัญชี</string>
+    <string name="revoke_privacy_policy">การเพิกถอนความยินยอม</string>
+    <string name="revoke_privacy_policy_instructions">หากดำเนินการต่อ คุณจะเพิกถอนความยินยอมต่อนโยบายความเป็นส่วนตัวของ บัญชี Mi เราจะยุติการรวบรวมข้อมูลส่วนบุคคลของคุณ ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้จะถูกลบออกภายในระยะเวลาที่กำหนดตามกฎหมายและระเบียบข้อบังคับที่บังคับใช้ เว้นแต่จะกำหนดเป็นอย่างอื่น เนื่องจาก บัญชี Mi ให้บริการตามการรวบรวมข้อมูลส่วนบุคคลที่จำเป็น การถอนความยินยอมของคุณจะเป็น ถือเป็นการปฏิเสธที่จะยอมรับบริการ บัญชี Mi ถอนความยินยอมตอนนี้?</string>
+    <string name="revoke_privacy_policy_title">การเพิกถอนความยินยอม</string>
     <string name="risky_pwd_not_allow">รหัสผ่านใหม่ไม่ปลอดภัย โปรดตั้งค่าเป็นอย่างอื่น</string>
     <string name="same_new_and_old_pwd">รหัสผ่านใหม่จะต้องแตกต่างจากรหัสเดิม</string>
     <string name="saturday">วันเสาร์</string>
@@ -858,7 +871,15 @@ ID:%s
     <string name="user_instruction_all_purpose">ยินดีต้อนรับสู่บัญชี Mi! คุคุณสามารถใช้บัญชีของคุณเพื่อเข้าถึงบริการของ Xiaomi และบริษัทในเครือ เช่น Mi.com, Xiaomi คลาวด์ และ GetApps คุณสามารถรับ Mi Coins ซื้อสินค้าเสมือนจริง และเพลิดเพลินกับบริการเสริมต่างๆ เช่น เกม ธีม และ eBook</string>
     <string name="user_instruction_tip">เพื่อให้สามารถลงชื่อเข้าใช้ อ่าน และยอมรับข้อกำหนดและเงื่อนไขได้</string>
     <string name="user_license_with_3rd_app">&lt;Data>เมื่อลงชื่อเข้าใช้ด้วยบัญชี Mi ของฉัน ฉันยืนยันว่าฉันได้อ่านและยอมรับ &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของบัญชี Mi&lt;/Data></string>
+    <string name="user_license_with_3rd_app_mobile">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>, &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของบัญชี Mi รวมถึง &lt;a href=%5$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ China Mobile&lt;/a>&lt;/Data></string>
+    <string name="user_license_with_3rd_app_no_operator">&lt;Data>ฉันได้อ่านและยอมรับ &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของบัญชี Mi&lt;/Data></string>
+    <string name="user_license_with_3rd_app_telcom">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>, &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของบัญชี Mi รวมถึง &lt;a href=%5$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ บัญชี eSurfing&lt;/a>&lt;/Data></string>
+    <string name="user_license_with_3rd_app_unicom">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>, &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของบัญชี Mi รวมถึง &lt;a href=%5$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ China Unicom&lt;/a>&lt;/Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของ บัญชี Mi แล้ว&lt;/Data></string>
     <string name="user_license_without_3rd_app">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของ บัญชี Mi แล้ว&lt;/Data></string>
+    <string name="user_license_without_3rd_mobile">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของบัญชี Mi เช่นเดียวกับ&lt;a href=%3$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ China Mobile&lt;/a>&lt;/Data></string>
+    <string name="user_license_without_3rd_telcom">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของบัญชี Mi เช่นเดียวกับ&lt;a href=%3$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ บัญชี eSurfing&lt;/a>&lt;/Data></string>
+    <string name="user_license_without_3rd_unicom">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของบัญชี Mi เช่นเดียวกับ&lt;a href=%3$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ China Unicom&lt;/a>&lt;/Data></string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="vip_account_settings">การตั้งค่า VIP</string>

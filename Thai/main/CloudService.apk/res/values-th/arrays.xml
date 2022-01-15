@@ -56,6 +56,11 @@
         <item>สำหรับการระบุอุปกรณ์ของคุณ</item>
         <item>สำหรับการระบุตำแหน่งของอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย</item>
     </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>สำหรับการระบุตำแหน่งของอุปกรณ์ของคุณและเปลี่ยนเป็นโหมดสูญหาย</item>
+        <item>สำหรับระบุตำแหน่งอุปกรณ์นี้เมื่อไม่ได้เชื่อมต่ออินเทอร์เน็ต</item>
+        <item>สำหรับการเข้าถึงหมายเลขโทรศัพท์เพื่อค้นหาอุปกรณ์นี้เมื่อไม่ได้เชื่อมต่อกับอินเทอร์เน็ต</item>
+    </string-array>
     <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>สำหรับการซิงค์กำหนดการ</item>
         <item>สำหรับการซิงค์ข้อความ</item>
@@ -63,6 +68,14 @@
         <item>สำหรับการซิงค์รายชื่อ</item>
         <item>สำหรับการซิงค์รายชื่อ</item>
         <item>สำหรับการบันทึกรายการในอุปกรณ์ของคุณ (เช่น รูปภาพ วิดีโอ เพลง)</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>เข้าถึงกำหนดการในปฏิทิน</item>
+        <item>ส่ง SMS</item>
+        <item>อ่าน MMS</item>
+        <item>เข้าถึงรายชื่อผู้ติดต่อ</item>
+        <item>แก้ไขและลบรายชื่อผู้ติดต่อ</item>
+        <item>เข้าถึงรูปภาพและไฟล์บนอุปกรณ์</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>ข้อมูลสำรอง</item>
@@ -171,7 +184,7 @@
     </string-array>
     <string-array name="settings_search_subscribe_vip">
         <item>สมาชิก Xiaomi คลาวด์</item>
-        <item>อัพเกรดสมาชิกของคุณเพื่อรับพื้นที่จัดเก็บข้อมูล้พิ่มเติมและรักษาความปลอดภัยข้อมูลของคุณ</item>
+        <item>อัปเกรดสมาชิกของคุณเพื่อรับพื้นที่จัดเก็บข้อมูล้พิ่มเติมและรักษาความปลอดภัยข้อมูลของคุณ</item>
         <item>ที่จัดเก็บข้อมูลไม่เพียงพอ;สมาชิก;ที่จัดเก็บข้อมูล;พื้นที่จัดเก็บข้อมูล;ซิงค์;บริการคลาวด์;Xiaomi คลาวด์;Mega;Ultra:VIP;สำรองข้อมูล;ข้อมูลสำรอง;เรียกคืนค่า;ขยะ;รายการที่ลบ;ถังขยะ</item>
     </string-array>
     <string-array name="settings_search_sync_manage">

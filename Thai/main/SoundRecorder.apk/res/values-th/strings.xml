@@ -37,6 +37,7 @@
     <string name="alert_message_delete_record">การลบบันทึกเสียงออกจากอุปกรณ์ของคุณจะทำให้บันทึกเสียงใน Xiaomi คลาวด์ถูกลบออกเช่นกัน ต้องการลบหรือไม่?</string>
     <string name="alert_message_delete_record_title">ลบบันทึกเสียงหรือไม่?</string>
     <string name="all_record">บันทึกเสียงทั้งหมด</string>
+    <string name="allowed">ยินยอมแล้ว</string>
     <string name="am">AM</string>
     <string name="app_name">บันทึกเสียง</string>
     <string name="app_record">บันทึกแอป</string>
@@ -184,6 +185,7 @@
     <string name="head_set_tip_dialog_title">ใช้ไมค์ภายใน</string>
     <string name="icon_content_description">ไอคอนกล่องโต้ตอบ</string>
     <string name="invalid_argument">ค่าไม่ถูกต้อง</string>
+    <string name="invisible_mode_error_tip">ปิดโหมดไม่ระบุตัวตนในการตั้งค่าเพื่อให้สามารถใช้ไมโครโฟนได้</string>
     <string name="item_view_role_description">แท็บ</string>
     <string name="keywords_search_call_record">บันทึกการโทร;บันทึกการโทร;บันทึกสายสนทนา;บันทึกสายสนทนา</string>
     <string name="keywords_search_record">การบันทึกใหม่;เพิ่มการบันทึก;การบันทึก;การบันทึก;สำเนา;อัดเสียง;เครื่องบันทึกเสียง;เครื่องบันทึกเสียงพูด;เครื่องบันทึกเสียง;แอปบันทึกเสียง;แอปบันทึก;ฉันจะบันทึกได้อย่างไร;ฉันจะบันทึกเสียงได้อย่างไร;บันทึกที่ไหน;เครื่องบันทึกเสียง MIUI</string>
@@ -221,6 +223,7 @@
     <string name="mi_account_ok">เข้าสู่ระบบ</string>
     <string name="mi_account_title">ลงชื่อเข้าใช้ด้วยบัญชี Mi</string>
     <string name="midnight">กลางคืน</string>
+    <string name="miuix_access_state_desc">ที่เลือกไว้</string>
     <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
@@ -293,6 +296,7 @@
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -333,12 +337,13 @@
     <string name="no_records">ยังไม่มีการบันทึกที่นี่</string>
     <string name="noon">เที่ยงวัน</string>
     <string name="normal_settings_pref_title">การตั้งค่าทั่วไป</string>
+    <string name="not_allowed">ไม่ได้รับการยินยอม</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="notification_message_all_paused">กำลังรอการเชื่อมต่อกับ Wi-Fi</string>
     <string name="notification_playback">กำลังเล่น…</string>
     <string name="notification_recording">กำลังบันทึก…</string>
     <string name="notification_recording_ticker">ปิดเสียงไมค์</string>
-    <string name="notification_recording_ticker_for_pad">อุปกรณ์ของคุณกำลังบันทึกเสียงในโหมดเงียบในขณะนี้ ใช้ปุ่มปรับระดับเสียงเพื่อปิดโหมดเงียบ</string>
+    <string name="notification_recording_ticker_for_pad">อุปกรณ์ของคุณกำลังบันทึกเสียงในโหมดปิดเสียงในขณะนี้ ใช้ปุ่มปรับระดับเสียงเพื่อปิดโหมดเงียบ</string>
     <string name="notification_save_as_complete">บันทึกเรียบร้อยแล้ว</string>
     <string name="notification_stopped">หยุดการบันทึกแล้ว</string>
     <string name="notification_title_all_paused">การดาวน์โหลดถูกพักไว้</string>
@@ -378,6 +383,15 @@
     <string name="pay_error_cancel">การชำระถูกยกเลิก</string>
     <string name="pay_error_null">ชำระเงินไม่สำเร็จ ตรวจสอบบัญชีของคุณ</string>
     <string name="pay_error_unknown">ข้อผิดพลาดที่ไม่รู้จัก</string>
+    <string name="permission_desc">รายละเอียดการอนุญาต</string>
+    <string name="permission_dialog_cancel">ยกเลิก</string>
+    <string name="permission_dialog_ok">การตั้งค่า</string>
+    <string name="permission_record">บันทึกเสียง</string>
+    <string name="permission_record_description">เพื่อให้บริการบันทึกเสียง</string>
+    <string name="permission_storage">เข้าถึงที่เก็บข้อมูลอุปกรณ์</string>
+    <string name="permission_storage_description">สำหรับจัดการบันทึกและดาวน์โหลดจากคลาวด์</string>
+    <string name="permission_storage_description_for_download">สำหรับการดาวน์โหลดบันทึกจากคลาวด์</string>
+    <string name="permission_storage_description_for_manage_files">สำหรับการจัดการบันทึก</string>
     <string name="play_speed">ความเร็ว %1$.1fX</string>
     <string name="playback_delete_records">ลบบันทึก</string>
     <string name="playback_share_records">แชร์บันทึก</string>
@@ -399,6 +413,8 @@
     <string name="preference_status_bar_indicator_prompt">แสดงตัวแสดงสถานะสีน้ำเงินบนหน้าจอล็อคขณะบันทึก</string>
     <string name="preference_tip_rename">ตั้งชื่อไฟล์เสียงด้วยตนเอง</string>
     <string name="privacy_policy_title">นโยบายความเป็นส่วนตัว</string>
+    <string name="privacy_settings">ความเป็นส่วนตัว</string>
+    <string name="progress">แถบความคืบหน้าการเล่น</string>
     <string name="recognition_button_add_to_queue">เพิ่มลงในคิว</string>
     <string name="recognition_button_cancel">ในภายหลัง</string>
     <string name="recognition_button_start">ถอดความ</string>
@@ -466,6 +482,7 @@
     <string name="record_mark_point">ทำเครื่องหมาย %s</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute">​</string>
+    <string name="record_permission_dialog_title">ต้องการการอนุญาตไมโครโฟน</string>
     <string name="record_quliaty_preference_title">คุณภาพการบันทึก</string>
     <string name="record_resotre">กู้คืนที่บันทึก</string>
     <string name="recorder_record">เสียง</string>
@@ -498,6 +515,11 @@
     <string name="rename_no_more_tip">ไม่ต้องแสดงอีก</string>
     <string name="retry">ลองใหม่</string>
     <string name="runtime_permission_ungranted">ไม่สามารถใช้ตัวบันทึกเสียงได้เนื่องจากไม่ได้รับอนุญาต</string>
+    <string name="saf_permission_dialog_content">เนื่องจากข้อจำกัดของ Android โปรแกรมอัดเสียงต้องได้รับอนุญาตในการเข้าถึงการบันทึกที่ทำโดยแอปอื่น อนุญาตให้ผู้บันทึกเข้าถึงการบันทึกเหล่านี้เพื่อให้สามารถดูได้</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">การตั้งค่า</string>
+    <string name="saf_permission_dialog_later">ไม่ ขอบคุณ</string>
+    <string name="saf_permission_dialog_no_more_tip">ไม่ต้องแสดงอีก</string>
+    <string name="saf_permission_dialog_title">ต้องการการอนุญาต</string>
     <string name="saturday">วันเสาร์</string>
     <string name="saturday_short">เสาร์</string>
     <string name="saturday_shortest">เสาร์</string>
@@ -517,6 +539,7 @@
     <string name="search_tip_rename">ตั้งชื่อไฟล์บันทึกเสียงด้วยตนเอง</string>
     <string name="send">ส่ง</string>
     <string name="service_instructions">เกี่ยวกับ iflyrec.com</string>
+    <string name="settings_saf_permission">การอนุญาตการจัดการไฟล์</string>
     <string name="share">แชร์</string>
     <string name="share_dialog_title">แชร์ผ่าน</string>
     <string name="shortcut_records">กำลังบันทึก</string>
@@ -537,6 +560,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">กำลังบันทึก…</string>
     <string name="status_bar_recording_pause">พักการบันทึกเสียงไว้</string>
+    <string name="storage_permission_dialog_title">ต้องการการอนุญาตพื้นที่จัดเก็บ</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
@@ -626,6 +650,7 @@
     <string name="user_feedback">ข้อเสนอแนะ</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
+    <string name="view_privacy">ดูนโยบายความเป็นส่วนตัว</string>
     <string name="webview_check_network">การตั้งค่าเครือข่าย</string>
     <string name="webview_data_error">เกิดข้อผิดพลาด</string>
     <string name="webview_locating_fail">ไม่พบตำแหน่งพิกัดของคุณ</string>

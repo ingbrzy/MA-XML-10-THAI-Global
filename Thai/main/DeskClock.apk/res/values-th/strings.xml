@@ -67,6 +67,7 @@
     <string name="alert_vibrate_enable_summary">สั่นเมื่อมีการปลุก</string>
     <string name="alert_volume">เสียงเรียกเข้า</string>
     <string name="alert_volume_summary">ตั้งระดับเสียงเรียกเข้าสำหรับการแจ้งเตือนและนับถอยหลัง</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi AI กำลังพูดอยู่…</string>
     <string name="already_exist">ตัวนับถอยหลังนี้มีอยู่แล้ว</string>
     <string name="am">AM</string>
     <string name="analog_gadget">นาฬิกาแบบเข็ม</string>
@@ -110,6 +111,7 @@
     <string name="channel_name_timer">ตัวจับเวลา</string>
     <string name="check_theme_app_install">ตรวจสอบว่ามีการติดตั้งแอปธีมในอุปกรณ์ของคุณแล้ว</string>
     <string name="check_voice_assist_app_version">อัปเดต Mi AI เป็นเวอร์ชั่นล่าสุด</string>
+    <string name="cities_show_limit_desc">ไม่สามารถแสดงนาฬิกาเพิ่มเติมได้</string>
     <string name="city_time_contrast_desc">แตะเพื่อเปรียบเทียบเวลาในเมืองต่างๆ</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="clock_bg_button_setting_summary_common">เลือกสีพื้นหลังสำหรับแอปนาฬิกา</string>
@@ -444,6 +446,7 @@
     <string name="repeat_count_value_ten">10</string>
     <string name="repeat_count_value_three">3</string>
     <string name="repeat_count_value_two">2</string>
+    <string name="repeat_type">วนซ้ำ</string>
     <string name="reset">เริ่มใหม่</string>
     <string name="revert">เรียกคืน</string>
     <string name="ringtone_all">เสียงเรียกเข้าทั้งหมด</string>
@@ -463,7 +466,9 @@
     <string name="search_stopwatch_keywords">นาฬิกาจับเวลา</string>
     <string name="search_timer_keywords">ตัวจับเวลา</string>
     <string name="search_worldclock_keywords">เวลา;นาฬิกาโลก;นาฬิกา</string>
+    <string name="select_all">เลือกทั้งหมด</string>
     <string name="select_operation">เลือก</string>
+    <string name="selected">เลือกไว้</string>
     <string name="send">ส่ง</string>
     <string name="set_alarm">เลือกเวลา</string>
     <string name="set_alarm_choose_ringtone">ใช้เป็นเสียงเรียกเข้า</string>
@@ -486,6 +491,7 @@
     <string name="shutdown_alarm_enable_summary">เสียงปลุกจะดังหากตั้งไว้อย่างน้อย 10 นาทีหลังจากที่คุณปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="sleep_analysis">สถิติ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -529,6 +535,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_reset_notification">รีเซ็ตนาฬิกาจับเวลาแล้ว</string>
     <string name="stopwatch_running_notification">นาฬิกาจับเวลา</string>
@@ -537,6 +544,7 @@
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตเพื่อเข้าถึงคุณสมบัติทั้งหมดได้</string>
     <string name="system_permission_main_purpose">ดูเวลา ตั้งค่าการเตือนและตัวจับเวลา โดยใช้นาฬิกาจับเวลา</string>
     <string name="system_permission_purpose">การสร้างการเตือนวันทำงานและการตั้งค่าเสียงเรียกเข้าที่กำหนดเอง</string>
@@ -643,6 +651,11 @@
     <string name="tuesday_shortest">อังคาร</string>
     <string name="turn_off_a_repeat_alarm">ปิดการปลุกซ้ำ</string>
     <string name="turn_off_this_repeat_alarm">ปิดการปลุกซ้ำนี้ตลอดไป</string>
+    <string name="tv_blank_list_other_text">ยังไม่มีอะไรในนี้</string>
+    <string name="tv_blank_list_show_text">ยังไม่มีอะไรที่นี่ ค้นหาตำแหน่งเพื่อเพิ่มลงในนาฬิกาโลกของคุณ</string>
+    <string name="tv_world_clock_edit_title1">ตำแหน่งที่แสดงบนหน้าจอหลัก</string>
+    <string name="tv_world_clock_edit_title2">ตำแหน่งอื่นที่บันทึกไว้</string>
+    <string name="unselect_all">ไม่เลือกทั้งหมด</string>
     <string name="upcoming_alarm">การปลุกครั้งต่อไป: %s</string>
     <string name="upcoming_alarm_hint">คุณสามารถปิดการปลุกนี้ได้ทันที</string>
     <string name="update_health_app">อัปเดต Xiaomi Health</string>
@@ -670,8 +683,10 @@
     <string name="wednesday_short">พุธ</string>
     <string name="wednesday_shortest">พุธ</string>
     <string name="week_ringtone_recommend_desc">เสียงปลุกธรรมชาติเล่นเสียงที่แตกต่างกันขึ้นอยู่กับวันที่ ตั้งเป็นนาฬิกาปลุกเริ่มต้น?</string>
+    <string name="white_noise">เสียงรบกวนรอบข้าง</string>
     <string name="white_noise_selector">เลือกเสียง</string>
     <string name="workday_alarm_clock">การปลุกวันทำงาน</string>
+    <string name="worldclock_edit_label">นาฬิกาโลก</string>
     <string name="worldclock_empty_text">ไม่มีเขตเวลา</string>
     <string name="worldclock_input_hint_text">ค้นหาในประเทศหรือเมือง</string>
     <string name="worldclock_local_time">เวลาท้องถิ่น</string>
@@ -689,5 +704,6 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%s ชม.</string>
     <string name="worldcolock_timezone_local">เหมือนกับเวลาท้องถิ่น</string>
+    <string name="xiaoai_ringtone_title">เสียงเรียกเข้า Mi AI</string>
     <string name="yesterday">เมื่อวาน</string>
 </resources>

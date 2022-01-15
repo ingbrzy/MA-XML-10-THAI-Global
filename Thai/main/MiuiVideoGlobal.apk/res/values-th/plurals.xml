@@ -132,4 +132,10 @@
     <plurals name="subtitle_offset_delay_times">
         <item quantity="other">คำบรรยายล่าช้า %.1f วินาที</item>
     </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">เพิ่มสูงสุด %d คั่นหน้า</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">ดู %d ครั้ง</item>
+    </plurals>
 </resources>

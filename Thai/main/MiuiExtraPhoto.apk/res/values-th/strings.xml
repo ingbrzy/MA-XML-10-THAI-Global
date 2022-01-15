@@ -81,6 +81,5 @@
     <string name="refocus_type_relighting_small_face">ใบหน้ามีขนาดเล็กเกินไปที่จะใช้เอฟเฟ็กซ์สตูดิโอ</string>
     <string name="refocus_type_static">เบลอ</string>
     <string name="refocus_type_video">เส้นทางแสง</string>
-    <string name="save">บันทึก</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

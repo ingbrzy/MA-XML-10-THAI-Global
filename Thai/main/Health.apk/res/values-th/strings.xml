@@ -63,6 +63,8 @@ You'll be able to track your workouts and activity."</string>
     <string name="am">AM</string>
     <string name="audio_permission_dialog_desc">ในการวิเคราะห์รอบการนอนหลับของคุณและบันทึกการพูดคุยและกรน Xiaomi Health จำเป็นต้องได้รับอนุญาตในการบันทึกเสียง</string>
     <string name="audio_permission_dialog_title">อนุญาตการบันทึกเสียง</string>
+    <string name="audio_permission_subtitle">สำหรับการตรวจจับการนอนกรนและละเมอ</string>
+    <string name="audio_permission_title">บันทึกเสียง</string>
     <string name="audio_record_perm_description">สำหรับการบันทึกเสียงกรนและพูดคุยขณะวิเคราะห์รอบการนอนหลับ</string>
     <string name="audio_record_permission_description">For recording talking and snoring while analyzing your sleep cycle</string>
     <string name="auto_start_fail">ไม่สามารถให้สิทธิ์ได้</string>
@@ -103,9 +105,13 @@ You'll be able to track your workouts and activity."</string>
     <string name="bg_control_dialog_go_set">การตั้งค่า</string>
     <string name="bg_control_dialog_msg">ตัวประหยัดแบตเตอรี่จะจำกัดกิจกรรมพื้นหลังของ Xiaomi Health อนุญาตให้ Xiaomi Health ทำงานในพื้นหลังเสมอเพื่อให้ได้สถิติที่แม่นยำ</string>
     <string name="bg_control_dialog_title">ข้อจำกัดพื้นหลัง</string>
+    <string name="body_sport_permission_subtitle">สำหรับติดตามก้าวของคุณ</string>
+    <string name="body_sport_permission_title">เข้าถึงข้อมูลสุขภาพและกิจกรรม</string>
     <string name="breaststroke">Breaststroke</string>
     <string name="butterfly_stroke">Butterfly</string>
     <string name="button_record_menstruation">Record</string>
+    <string name="camera_permission_subtitle">เพื่อรับการเปลี่ยนแปลงการไหลเวียนของเลือดสำหรับการตรวจจับอัตราการเต้นหัวใจและการตั้งค่ารูปโปรไฟล์</string>
+    <string name="camera_permission_title">ใช้กล้อง</string>
     <string name="cancel">ยกเลิก</string>
     <string name="cancel_edit">ละทิ้งการแก้ไข?</string>
     <string name="cancel_mark_end">ประจำเดือนยังไม่สิ้นสุด</string>
@@ -126,6 +132,8 @@ You'll be able to track your workouts and activity."</string>
     <string name="complete_preference_basic_info">Complete your profile</string>
     <string name="complete_progress">Progress</string>
     <string name="completed">"Completed "</string>
+    <string name="contact_permission_subtitle">สำหรับตั้งค่าผู้ติดต่อได้ในกรณีฉุกเฉิน</string>
+    <string name="contact_permission_title">เข้าถึงรายชื่อผู้ติดต่อ</string>
     <string name="copy">คัดลอก</string>
     <string name="copy_done">คัดลอกเรียบร้อยแล้ว</string>
     <string name="copyright_statement">ลิขสิทธิ์ © บริษัท Xiaomi สงวนลิขสิทธิ์ทั้งหมด.</string>
@@ -323,6 +331,8 @@ You can select a different data source in More > Data sources."</string>
     <string name="exit_running_tips_title">Finish workout</string>
     <string name="expand_all">Show all</string>
     <string name="expand_button_title">ขั้นสูง</string>
+    <string name="external_storage_permission_subtitle">สำหรับตั้งค่ารูปโปรไฟล์</string>
+    <string name="external_storage_permission_title">เข้าถึงและบันทึกรายการไปยังที่เก็บข้อมูล</string>
     <string name="fall_sleep_hard">Trouble falling asleep</string>
     <string name="falling_duration">นอนหลับ</string>
     <string name="falling_duration_hard_description">"การนอนหลับเป็นช่วงเวลาระหว่างการเริ่มต้นของการนอนหลับและการนอนหลับสนิท หากคุณใช้เวลานานกว่า 30 นาทีในการนอนหลับนี่อาจเป็นสัญญาณของการนอนไม่หลับ
@@ -476,6 +486,8 @@ You can select a different data source in More > Data sources."</string>
     <string name="load_failed">"Couldn't load items. Wait a minute or two and try again."</string>
     <string name="loading">รอสักครู่…</string>
     <string name="location_perm_description">สำหรับติดตามการออกกำลังกายกลางแจ้งและบันทึกเส้นทาง</string>
+    <string name="location_permission_subtitle">สำหรับติดตามการออกกำลังกายกลางแจ้งและบันทึกเส้นทาง</string>
+    <string name="location_permission_title">เข้าถึงตำแหน่ง</string>
     <string name="low">ต่ำ</string>
     <string name="low_intensity">Low</string>
     <string name="low_intensity_description">อัตราการหายใจปกติที่ให้คุณรักษาการสนทนาได้</string>
@@ -932,6 +944,9 @@ You can select a different data source in More > Data sources."</string>
     <string name="snore_record_audio_delete_title">ลบบันทึกเสียงหรือไม่?</string>
     <string name="snore_section">นอนกรน %1$s</string>
     <string name="snore_write_description">For saving audio recordings to your device</string>
+    <string name="sport_data_use_subtitle">เพื่อติดตามการออกกำลังกายและความคืบหน้าในการออกกำลังกายของคุณ เรารวบรวมและประมวลผลข้อมูลของคุณ ซึ่งรวมถึงเส้นทางการออกกำลังกาย ข้อมูลการนอนหลับ อัตราการเต้นหัวใจ และน้ำหนัก</string>
+    <string name="sport_data_use_tip">อ่านและยอมรับ &lt;font color=\"#0D84FF\">&lt;a href=%1$s>นโยบายการใช้ข้อมูลสุขภาพและกิจกรรม&lt;/a>&lt;/font> ของเราเพื่อให้เข้าใจมากขึ้นว่าเรารวบรวมและประมวลผลของคุณอย่างไร คุณจะไม่สามารถใช้บริการนี้ได้หากคุณไม่ยินยอมให้มีการรวบรวมและประมวลผลของเรา</string>
+    <string name="sport_data_use_title">การอนุญาตข้อมูล</string>
     <string name="sport_type">Workout type</string>
     <string name="standard_format">(standard: %1s)</string>
     <string name="state_agree">ยอมรับ</string>
@@ -964,6 +979,7 @@ You can select a different data source in More > Data sources."</string>
     <string name="swim_type">Style</string>
     <string name="swipe_right_to_end">ปัดไปทางขวาเพื่อจบ</string>
     <string name="swipe_up_to_end">เลื่อนขึ้นเพื่อจบ</string>
+    <string name="system_permission">รายละเอียดการอนุญาต</string>
     <string name="tb_mens_mark_success">Marked successfully</string>
     <string name="tb_mens_select_column">Cycle starts on%1$s.%2$s.%3$s.</string>
     <string name="tb_mens_unmark_success">Canceled successfully</string>

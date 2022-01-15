@@ -97,6 +97,9 @@
     <plurals name="search_result">
         <item quantity="other">พบ %d การบันทึก</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d บันทึกใหม่</item>
+    </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">เหลืออีก %d วัน</item>
     </plurals>

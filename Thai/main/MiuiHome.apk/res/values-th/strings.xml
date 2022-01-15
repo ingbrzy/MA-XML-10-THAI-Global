@@ -206,6 +206,13 @@
     <string name="copy">คัดลอก</string>
     <string name="current_preview">ภาพตัวอย่าง</string>
     <string name="current_wallpaper">ปัจจุบัน</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">สำหรับการโทรออกไปยังผู้ติดต่อได้ในกรณีฉุกเฉินในโหมดง่าย</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">สำหรับการแสดงผู้ติดต่อได้ในกรณีฉุกเฉินในโหมดง่าย</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">สำหรับแสดงสถานะอุปกรณ์</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">สำหรับแสดงวิดเจ็ตปฏิทิน</string>
+    <string name="custom_define_permission_desc_android.permission_group.CAMERA">สำหรับแสดงวิดเจ็ตคลังภาพ</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">สำหรับการเข้าถึงชื่อวิดเจ็ต WLAN ใน Android Q</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">สำหรับการเข้าถึงและบันทึกข้อมูลหน้าจอหลัก</string>
     <string name="custom_wallpaper_picker">เรียกดู</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -429,7 +436,7 @@
     <string name="lock_screen_wallpaper">ภาพพื้นหลังหน้าจอล็อก</string>
     <string name="maml_download_dialog_cancel_text">รอเครือข่าย Wi-Fi</string>
     <string name="maml_download_dialog_cancel_text_china">รอ WLAN</string>
-    <string name="maml_download_dialog_checkbox_text">ไม่ต้องแสดงอีก</string>
+    <string name="maml_download_dialog_checkbox_text">ไม่ต้องแสดงอีกเป็นเวลา %d นาที</string>
     <string name="maml_download_dialog_confirm_text">ดาวน์โหลด</string>
     <string name="maml_download_dialog_message">%s MB ของข้อมูลมือถือจะถูกใช้ในการดาวน์โหลดรายการนี้ ยืนยันดาวน์โหลด?</string>
     <string name="maml_download_dialog_title">แจ้งเตือนการใช้ข้อมูล</string>
@@ -581,7 +588,7 @@
     <string name="online_wallpaper">ออนไลน์</string>
     <string name="open_personal_assistant_dialog_btn_cancel">ยกเลิก</string>
     <string name="open_personal_assistant_dialog_btn_confirm">ปิดใช้งาน</string>
-    <string name="open_personal_assistant_dialog_desc">คุณไม่สามารถใช้ App vault และรับการอัปเดต ปิดใช้งานทันที?</string>
+    <string name="open_personal_assistant_dialog_desc">หลังจากที่คุณปิด App vault คุณจะไม่สามารถดูหรือใช้วิดเจ็ต App vault ได้ เวอร์ชันที่อัปเดตของพวกเขาจะไม่สามารถใช้ได้สำหรับคุณเช่นกัน ปิดต่อไป?</string>
     <string name="open_personal_assistant_dialog_desc_international">คุณจะไม่สามารถใช้การ์ด App Vault (สต็อก, ปุ่มลัด ฯลฯ) และรับการอัปเดตหลังจากปิดคุณลักษณะนี้</string>
     <string name="open_personal_assistant_dialog_title">ปิดใช้ App vault</string>
     <string name="open_personal_assistant_settings">การตั้งค่า App vault</string>
@@ -724,6 +731,7 @@
     <string name="sort_by_not_defined">เรียงอัตโนมัติ</string>
     <string name="start_activity_failed">ชุดเรียกใช้ระบบไม่ทำงาน</string>
     <string name="starting_preset_app">กำลังเริ่ม…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">ใช้ได้ %1$s จากทั้งหมด %2$s</string>
     <string name="status_bar_recent_memory_info2" />

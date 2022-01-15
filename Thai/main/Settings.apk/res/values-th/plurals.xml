@@ -86,9 +86,6 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d อุปกรณ์ที่พบ</item>
     </plurals>
-    <plurals name="color_game_led_freq_entries">
-        <item quantity="other">ทุก %d วินาที</item>
-    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d อุปกรณ์</item>
     </plurals>

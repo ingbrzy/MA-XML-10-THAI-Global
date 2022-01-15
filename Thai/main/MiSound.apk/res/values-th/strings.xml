@@ -61,6 +61,9 @@
     <string name="dolby_dax_setting">เอฟเฟกต์ Dolby</string>
     <string name="dolby_dax_title">เสียงเซอร์ราวด์</string>
     <string name="early_morning">เช้า</string>
+    <string name="effect_3dsurround">เสียงเซอร์ราวด์</string>
+    <string name="effect_3dsurround_summary">เพิ่มความลึกของการสร้างเสียงสำหรับหูฟังและลำโพง</string>
+    <string name="effect_3dsurround_summary_headphone">เพิ่มความลึกของการสร้างเสียงสำหรับหูฟัง</string>
     <string name="empty" />
     <string name="end_wireless_transmission">หยุด</string>
     <string name="eq_auto">ปรับแต่ง</string>
@@ -127,12 +130,12 @@
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'หน่วยวินาที'"</string>
+    <string name="fmt_time_millis">"S'มิลลิวิ'"</string>
     <string name="fmt_time_minute">"m'นาที'"</string>
-    <string name="fmt_time_minute_second">"m'นาที' s'วินาที'"</string>
-    <string name="fmt_time_minute_second_millis">"m'นาที' s.S'วินาที'"</string>
-    <string name="fmt_time_second">"s'วินาที'"</string>
-    <string name="fmt_time_second_millis">"s.S'วินาที'"</string>
+    <string name="fmt_time_minute_second">"m'นาที' s'วิ'"</string>
+    <string name="fmt_time_minute_second_millis">"m'นาที' s.S'วิ'"</string>
+    <string name="fmt_time_second">"s'วิ'"</string>
+    <string name="fmt_time_second_millis">"s.S'วิ'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -264,6 +267,7 @@
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
