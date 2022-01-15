@@ -1037,7 +1037,6 @@
     <string name="keyguard_missing_sim_instructions_long">ไม่มีซิมการ์ดหรือไม่สามารถอ่านได้ โปรดใส่ซิมการ์ด</string>
     <string name="keyguard_missing_sim_message">ไม่มีซิมการ์ดในโทรศัพท์</string>
     <string name="keyguard_missing_sim_message_short">ไม่มีซิมการ์ด</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">เครือข่ายถูกล็อก</string>
     <string name="keyguard_password_enter_password_code">พิมพ์รหัสผ่านเพื่อปลดล็อก</string>
     <string name="keyguard_password_enter_pin_code">พิมพ์รหัส PIN</string>
@@ -1273,14 +1272,12 @@ d MMMM"</string>
 
 โปรดติดต่อผู้ดูแลระบบของคุณสำหรับข้อมูลเพิ่มเติม"</string>
     <string name="monitoring_description_ca_cert_settings">เปิดข้อมูลรับรองที่เชื่อถือได้</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">มีการติดตั้งผู้ออกใบรับรองในอุปกรณ์นี้ อาจมีการตรวจสอบหรือแก้ไขการจราจรของข้อมูลในเครือข่ายที่ปลอดภัยของคุณ</string>
     <string name="monitoring_description_do_body">ผู้ดูแลระบบสามารถตรวจสอบและจัดการการตั้งค่า การเข้าถึงของบริษัท แอป ข้อมูลที่เชื่อมโยงกับอุปกรณ์ของคุณ และข้อมูลตำแหน่งของอุปกรณ์</string>
     <string name="monitoring_description_do_body_vpn">คุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมในเครือข่ายของคุณ รวมถึงอีเมล แอป และเว็บไซต์ได้</string>
     <string name="monitoring_description_do_header_generic">อุปกรณ์ของคุณได้รับการจัดการโดย %1$s</string>
     <string name="monitoring_description_do_header_with_name">%1$s ใช้ %2$s เพื่อจัดการอุปกรณ์</string>
     <string name="monitoring_description_do_learn_more">ดูข้อมูลเพิ่มเติม</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">องค์กรของคุณติดตั้งผู้ออกใบรับรองในโปรไฟล์งาน อาจมีการตรวจสอบหรือแก้ไขการจราจรของข้อมูลในเครือข่ายที่ปลอดภัยของคุณ</string>
     <string name="monitoring_description_managed_profile_named_vpn">โปรไฟล์งานของคุณเชื่อมต่ออยู่กับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมในเครือข่ายของคุณ รวมถึงอีเมล แอป และเว็บไซต์</string>
     <string name="monitoring_description_management">"องค์กรของคุณเป็นเจ้าของอุปกรณ์นี้
@@ -1312,7 +1309,6 @@ d MMMM"</string>
 
 นอกจากนี้คุณยังเชื่อมต่อกับ VPN ซึ่งตรวจสอบกิจกรรมในเครือข่ายของคุณได้"</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">ใบรับรอง CA</string>
     <string name="monitoring_subtitle_network_logging">การบันทึกกิจกรรมของเครือข่าย</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1347,7 +1343,6 @@ d MMMM"</string>
     <string name="nav_bar">แถบนำทาง</string>
     <string name="nav_bar_default">(ค่าเริ่มต้น)</string>
     <string name="nav_bar_layout">การจัดวาง</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">ไม่มี</string>
     <string name="no_auto_saver_action">ไม่เป็นไร</string>
     <string name="no_shortcut">%1$s ไม่รองรับฟีเจอร์การสนทนา</string>
@@ -1530,7 +1525,6 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">ชื่อผู้ให้บริการ DNS ส่วนตัว</string>
     <string name="private_dns_mode_provider_failure">ไม่สามารถเชื่อมต่อได้</string>
     <string name="private_dns_mode_provider_hostname_hint">ป้อนผู้ให้บริการ DNS ส่วนตัว</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">ปัญหาการเชื่อมต่อ ปิดและเปิดอุปกรณ์</string>
     <string name="profile_info_settings_title">ข้อมูลโปรไฟล์</string>
     <string name="profile_owned_footer">อาจมีการตรวจสอบโปรไฟล์</string>

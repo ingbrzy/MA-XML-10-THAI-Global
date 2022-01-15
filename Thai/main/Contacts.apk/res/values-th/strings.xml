@@ -502,7 +502,6 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">ชื่อ</string>
     <string name="gallery">คลังภาพ</string>
     <string name="ghostData_company">บริษัท</string>
@@ -628,7 +627,6 @@
     <string name="menu_sync_remove">ลบกลุ่มที่ซิงค์</string>
     <string name="midnight">กลางคืน</string>
     <string name="miprofile_account_type">นามบัตร</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">แก้ไขข้อมูลส่วนตัว</string>
     <string name="miprofile_name">โปรไฟล์ของฉัน</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -779,7 +777,6 @@
     <string name="permission_retry_dialog_msg_pad">หากต้องการใช้ซิมการ์ดกับแอปนี้และจัดการรายชื่อติดต่อ โปรดอนุญาตให้แอปนี้เข้าถึงและแก้ไขรายชื่อติดต่อ ตลอดจนเข้าถึงข้อมูลอุปกรณ์ได้</string>
     <string name="permission_retry_setting">การตั้งค่า</string>
     <string name="phoneLabelsGroup">โทรศัพท์</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">หมายเลขยาวเกินไป</string>
     <string name="phone_primary">หลัก</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพในเครื่อง</string>
@@ -1020,7 +1017,6 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">ไม่มีสมาชิกกลุ่ม</string>
     <string name="six_letter">MNO</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">บริษัท</string>
     <string name="smart_group_company_unavailable">ไม่มีข้อมูลบริษัท</string>
     <string name="smart_group_frequency_1">ภายในเดือนที่ผ่านมา</string>
@@ -1062,7 +1058,6 @@
     <string name="starred_contacts">รายการชื่นชอบ</string>
     <string name="status_available">ว่าง</string>
     <string name="status_away">ไม่อยู่</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">ไม่ว่าง</string>
     <string name="strequentList">รายการโปรด</string>
     <string name="success_message_import_from_account">นำเข้ารายชื่อแล้ว</string>
