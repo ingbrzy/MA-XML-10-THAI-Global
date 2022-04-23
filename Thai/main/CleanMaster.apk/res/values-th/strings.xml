@@ -39,7 +39,6 @@
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
     <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="early_morning">เช้า</string>
-    <string name="empty" />
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="evening">บ่าย</string>
