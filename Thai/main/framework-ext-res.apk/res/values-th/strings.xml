@@ -6,14 +6,19 @@
     <string name="all_call_livetalk_remain_mins">นาทีคงเหลือ: %1$s ในประเทศ / %2$s ระหว่างประเทศ</string>
     <string name="always">เปิดเสมอ</string>
     <string name="alwaysUsePrompt">จดจำตัวเลือกนี้</string>
+    <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">ไม่สามารถเปิดรหัสการชำระเงิน Alipay</string>
-    <string name="application_cannot_open_alipay_scanner">ไม่สามารถเปิดเครื่องสแกน Alipay</string>
+    <string name="application_cannot_open_alipay_scanner">ไม่สามารถเปิดตัวสแกน Alipay ได้</string>
+    <string name="application_cannot_open_au_pay">ติดตั้ง au PAY ก่อน</string>
+    <string name="application_cannot_open_weixin_health_code">"Couldn't open WeChat health code"</string>
     <string name="application_cannot_open_weixin_payment_code">ไม่สามารถเปิดรหัสการชำระเงิน WeChat</string>
-    <string name="application_cannot_open_weixin_scanner">ไม่สามารถเปิดเครื่องสแกน WeChat</string>
+    <string name="application_cannot_open_weixin_scanner">ไม่สามารถเปิดตัวสแกน WeChat</string>
     <string name="application_not_install_content">ดูเหมือนว่าแอปที่ทำงานนี้ไม่ได้ติดตั้งในอุปกรณ์ของคุณ คุณสามารถติดตั้งแอปนี้หรือกำหนดการกระทำอื่นให้กับท่าทางนี้</string>
     <string name="apply_password_action">ตกลง</string>
     <string name="apply_password_confirm_dlg_msg">ใช้รหัสผ่านหน้าจอล็อกเพื่อเข้าถึงการตั้งค่าสำหรับ %s.</string>
     <string name="apply_password_confirm_dlg_title">ใช้รหัสผ่านสำหรับ %s</string>
+    <string name="asus">Asus</string>
+    <string name="asus_phone">Asus</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">ปุ่มลัดปิดใช้อยู่ แตะสองครั้งที่ปุ่มใดก็ได้เพื่อทำการเรียกกลับคืน</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">ปุ่มลัดเปิดใช้งาน</string>
     <string name="auto_disable_screenbuttons_float_text">แตะเพื่อปิดการใช้งานปุ่มลัด</string>
@@ -31,6 +36,8 @@
     <string name="autofill_save_sub_message">คุณสามารถดูและจัดการรหัสผ่านของคุณได้ใน การตั้งค่า > รหัสผ่านและความปลอดภัย > %s</string>
     <string name="autofill_save_title">บันทึกรหัสผ่านโดยอัตโนมัติ</string>
     <string name="autofill_service_name">จัดการรหัสผ่าน</string>
+    <string name="battery_authentic_failed_button">รับทราบ</string>
+    <string name="battery_authentic_failed_title">โปรดทราบ</string>
     <string name="blackshark">Black Shark</string>
     <string name="blackshark_1">Black Shark</string>
     <string name="blackshark_2">Black Shark 2</string>
@@ -95,6 +102,7 @@
     <string name="first_back_long_press_message">ในการตั้งค่าแบบกำหนดเองและกดปุ่มลัดค้างไว้ ไปที่ เมนูการตั้งค่า > การตั้งค่าเพิ่มเติม > ปุ่ม</string>
     <string name="flip_screen_camera_tip">หมุนกลับอุปกรณ์เพื่อใช้กล้อง</string>
     <string name="fm_record_smaple_prefix_miui">บันทึกวิทยุ FM</string>
+    <string name="fold_small_not_split">หน้าจอด้านนอกไม่รองรับการแบ่งหน้าจอ</string>
     <string name="force_exit_message">บังคับปิด %1$s</string>
     <string name="force_exit_skip_message">ไม่สามารถปิด %1$s ได้ เนื่องจากระบบกำลังใช้งานอยู่</string>
     <string name="fourhours">2 ชั่วโมง</string>
@@ -102,6 +110,8 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">ในภายหลัง</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">เปิดใช้งาน</string>
     <string name="fp_nav_center_action_choose_dlg_title">เปิดใช้งานปุ่มแตะลัด</string>
+    <string name="freeform_exchange_tip">ปล่อยเพื่อเปิดแอป</string>
+    <string name="freeform_exchange_tip2">ลากไปที่มุมเพื่อยกเลิก</string>
     <string name="frequent_email">อีเมลที่ใช้บ่อย</string>
     <string name="frequent_phrases">คำที่ถูกใช้บ่อย</string>
     <string name="functions_are_being_developed">คุณสมบัตินี้จะสามารถใช้ได้เร็วๆ นี้ คอยติดตาม!</string>
@@ -109,6 +119,9 @@
     <string name="global_actions_reboot">รีบูต</string>
     <string name="global_actions_shutdown">ปิดเครื่อง</string>
     <string name="global_actions_silent_mode">โหมดปิดเสียง</string>
+    <string name="global_pad">แท็บเล็ตของฉัน</string>
+    <string name="global_pc">แล็ปท็อปของฉัน</string>
+    <string name="global_phone">โทรศัพท์ของฉัน</string>
     <string name="handset_text_unsupported_handset_insert">แตะเพื่อดูรายละเอียด</string>
     <string name="handset_text_usb_handset_insert">แตะเพื่อเปิดการตั้งค่าเพิ่มเติม</string>
     <string name="handset_title_unsupported_handset_insert">ไม่รองรับอะแดปเตอร์หูฟัง USB</string>
@@ -119,11 +132,20 @@
     <string name="handy_mode_title">โหมดถนัดมือ</string>
     <string name="help">ไม่พบอุปกรณ์?</string>
     <string name="help_content">หากคุณไม่พบอุปกรณ์ที่ต้องการ ให้ขอให้บุคคลอื่นเปิด Mi แชร์</string>
+    <string name="hisense">Hisense</string>
+    <string name="hisense_phone">Hisense</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">วางนิ้วของคุณลงบนปุ่มโฮม</string>
     <string name="internal_livetalk_enable">ใช้แพ็คเกจเสริมสำหรับการโทรในประเทศ</string>
     <string name="international_livetalk_enable">ใช้แพ็คเกจเสริมสำหรับการโทรระหว่างประเทศ</string>
     <string name="key_btn_ok">ตกลง</string>
     <string name="key_btn_space">ว่าง</string>
+    <string name="keyboard_connect_failed">ไม่สามารถเชื่อมต่อแป้นพิมพ์ได้ ลองต่ออีกครั้ง</string>
+    <string name="keyboard_identity_reject_confirm">รับทราบ</string>
+    <string name="keyboard_identity_reject_message">ดูเหมือนว่าแป้นพิมพ์ของคุณจะใช้งานไม่ได้กับอุปกรณ์นี้</string>
+    <string name="keyboard_identity_transfer_error_message">ไม่สามารถเชื่อมต่อแป้นพิมพ์ได้ ลองอีกครั้ง</string>
+    <string name="keyboard_upgrade_failed">ไม่สามารถอัปเดตแป้นพิมพ์ได้</string>
+    <string name="keyboard_upgrade_start">กำลังอัปเดตแป้นพิมพ์…</string>
+    <string name="keyboard_upgrade_success">อัปเดตแป้นพิมพ์เรียบร้อยแล้ว</string>
     <string name="livetalk_not_enable">แพ็คเกจเสริมปิดใช้งาน</string>
     <string name="location_usage_restricted_body">แตะเพื่ออนุญาต</string>
     <string name="location_usage_restricted_title">จำกัดการเข้าถึงตำแหน่งพิกัดบนพื้นหลัง</string>
@@ -131,6 +153,7 @@
     <string name="lockscreen_access_pattern_cleared">ลากเส้นตามรูปแบบเสร็จสิ้น</string>
     <string name="lockscreen_access_pattern_detected">การลากเส้นตามรูปแบบเสร็จสิ้น</string>
     <string name="lockscreen_access_pattern_start">เริ่มลากเส้น</string>
+    <string name="lockscreen_carrier_customized">การบริการจำกัด</string>
     <string name="maml_component_customization_title">การตั้งค่า</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
@@ -143,6 +166,8 @@
     <string name="miaudiovisual_notification_summary">เปิดเพื่อแสดงเอฟเฟกต์บนหน้าจอล็อค</string>
     <string name="miaudiovisual_notification_title">เอฟเฟกต์เสียงและภาพ</string>
     <string name="miui_forbid_poweroff_when_device_locked">ไม่สามารถปิดเครื่องได้ อุปกรณ์ถูกล็อก</string>
+    <string name="miui_multiwindow_not_support_small_window">%1$s ไม่รองรับหน้าต่างลอย</string>
+    <string name="miui_multiwindow_not_support_split">%1$s ไม่รองรับการแบ่งหน้าจอ</string>
     <string name="miui_screen_ratio_hint">แจ้งอัตราหน้าจอ</string>
     <string name="miui_screen_ratio_hint_dont_show_again">ไม่ต้องแสดงอีก</string>
     <string name="miui_screen_ratio_hint_go_to_settings">ไปที่เมนูการตั้งค่า</string>
@@ -156,13 +181,16 @@
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="nearby_share">การแชร์ใกล้เคียง</string>
     <string name="notification_channel_hotspot">แจ้งเตือนฮอตสปอต</string>
+    <string name="nubia">Nubia</string>
+    <string name="nubia_phone">Nubia</string>
     <string name="onehour">30 นาที</string>
     <string name="oneplus">OnePlus</string>
     <string name="oneplus_phone">OnePlus</string>
     <string name="open_close_tip_action">รับทราบ</string>
-    <string name="open_close_tip_content">หากต้องการปิดหน้าต่างลอยให้กดแถบการกระทำค้างไว้แล้วปัดนิ้วขึ้น</string>
+    <string name="open_close_tip_content">หากต้องการปิดหน้าต่างลอยให้กดแถบแอ็คชั่นค้างไว้แล้วปัดนิ้วขึ้น</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">คีย์บอร์ดอื่นๆ</string>
     <string name="package_delete_confirm_step_1">ถอนการติดตั้ง %s?</string>
     <string name="package_delete_confirm_step_2">ถอนการติดดตั้งแอปนี้อาจทำให้ระบบของคุณจะไม่เสถียร</string>
     <string name="package_delete_confirm_step_3">คุณจะไม่สามารถที่จะเปิดแอปนี้ได้หลังจากที่คุณถอนการติดตั้งมัน</string>
@@ -211,12 +239,18 @@
     <string name="resolver_other_method">ตัวเลือกอื่นๆ</string>
     <string name="resolver_recommend_options_tag">ตัวเลือกคำแนะนำ</string>
     <string name="resource_select">เลือก</string>
+    <string name="rog">ROG</string>
+    <string name="rog_phone">ROG</string>
+    <string name="samsung">Samsung</string>
+    <string name="samsung_phone">โทรศัพท์ Samsung</string>
     <string name="scanning_device_tips">ค้นหาอุปกรณ์บริเวณใกล้เคียง…ตรวจสอบให้แน่ใจว่าอุปกรณ์อื่นๆอยู่ในโหมดเปิดการมองเห็น</string>
     <string name="screen_button_notification_text">หากต้องการเปิดใช้งาน กดปุ่มโฮมและปุ่มเปิด/ปิดเครื่องพร้อมกัน</string>
     <string name="screen_button_notification_title">ปิดใช้งานปุ่มลัด</string>
     <string name="screen_on_proximity_sensor_hint">หากต้องการปิดการใช้งานนี้ กดปุ่มเพิ่มเสียงและปุ่มย้อนกลับพร้อมกัน</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">กดปุ่มเพิ่มเสียงเพื่อปิดคุณลักษณะนี้</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">กดปุ่มเพิ่มเสียงเพื่อปิดคุณลักษณะนี้</string>
     <string name="screen_on_proximity_sensor_summary">กรุณาอย่าบังบริเวณใกล้หูฟัง</string>
+    <string name="screen_on_proximity_sensor_summary_for_kddi">อย่าปิดบังเซ็นเซอร์วัดแสงโดยรอบ</string>
     <string name="screen_on_proximity_sensor_title">โหมดพกพา</string>
     <string name="screen_paper_mode_enter_toast">โหมดอ่านเปิดใช้อยู่ เพื่อปิดคุณลักษณะนี้ ไปที่ เมนูการตั้งค่า > การแสดงผล > โหมดการอ่าน</string>
     <string name="screen_rotation_freeze_message">ปิดการหมุนหน้าจออัตโนมัติ</string>
@@ -247,7 +281,7 @@
     <string name="sim_added_reboot_title">การเปิดใช้งานซิมการ์ดจะเริ่มหลังจากที่คุณรีบูตเครื่อง</string>
     <string name="sim_lock_non_ais_msg">"ซิมการ์ดไม่รองรับการทำงานในทุกฟังก์ชั่น
 ร่วมกับโทรศัพท์เครื่องนี้เนื่องจากมิได้เป็น
-ไปตามข้อตกลงและเงื่อนไข หากมีข้อสงสัย
+ไปตามข้อตกลงและเงื่อนไขของการสมัครสมาชิกของคุณ หากมีข้อสงสัย
 หรือต้องการสอบถามข้อมูลเพิ่มเติม กรุณา
 ติดต่อศูนย์บริการของ Xiaomi หรือร้านค้าที่
 จำหน่ายสินค้าให้กับท่าน"</string>
@@ -257,6 +291,12 @@
     <string name="slavewifi_disconnect">ตัดการเชื่อมต่อ</string>
     <string name="slavewifi_notification_title">ใช้ Wi-Fi คู่</string>
     <string name="slavewifi_settings">แตะเพื่อแก้ไขการตั้งค่า</string>
+    <string name="small_freeform_enter_warning">หน้าต่างลอย</string>
+    <string name="small_freeform_exit_tip">ปิดหน้าต่างลอย</string>
+    <string name="small_freeform_memory_toast_app_type">ไม่สามารถเปิดได้ในขณะนี้ แอปนี้ใช้หน่วยความจำมากเกินไปจึงจะสามารถทำงานได้</string>
+    <string name="small_freeform_memory_toast_game_type">ไม่สามารถเปิดได้ในขณะนี้ เกมนี้ใช้หน่วยความจำมากเกินไปจึงจะสามารถทำงานได้</string>
+    <string name="smartisan">Smartisan</string>
+    <string name="smartisan_phone">Smartisan</string>
     <string name="softap_notifif_summary">%d เชื่อมต่อแล้ว</string>
     <string name="softap_notifif_title">ฮอตสปอต \"%s\" เปิดใช้งานอยู่</string>
     <string name="standard">ปิดเสียง</string>
@@ -288,8 +328,10 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">ฮอตสปอต</string>
     <string name="stop_operate_camera_frequently">คุณเปิดกล้องหน้าบ่อยเกินไป</string>
+    <string name="stylus_pen_mask_screenshot">แตะหน้าจอเพื่อถ่ายภาพหน้าจอ</string>
+    <string name="stylus_pen_mask_text">แตะหน้าจอเพื่อเริ่มเขียน</string>
     <string name="subinfo_default_name">ซิม %d</string>
-    <string name="sunlight_notification_content">ปรับความสว่างต่อแสงจ้ารอบข้างโดยอัตโนมัติ</string>
+    <string name="sunlight_notification_content">ปรับความสว่างต่อแสงโดยรอบโดยอัตโนมัติ</string>
     <string name="sunlight_notification_title">เปิดโหมดแสงแดด</string>
     <string name="super_resolution_maintain_tips">ไม่สามารถใช้ความละเอียดสูงได้</string>
     <string name="switch_brand_desc_tv">บริการรักษาความปลอดภัยโดย Spaces Mobile</string>
@@ -307,6 +349,10 @@
     <string name="translation_more">เพิ่มเติม</string>
     <string name="translation_query_error">ไม่สามารถค้นหาผลลัพธ์ได้</string>
     <string name="translation_query_error_network">ไม่สามารถรับข้อมูลได้ ตรวจสอบการเชื่อมต่อเครือข่าย แล้วลองอีกครั้ง</string>
+    <string name="trial_mode_dialog_button_cancel">ยกเลิก </string>
+    <string name="trial_mode_dialog_button_save">บันทึก</string>
+    <string name="trial_mode_dialog_message">\"%s\" กำลังทำงานในโหมดทดลอง การรีสตาร์ทอุปกรณ์ของคุณหรือเปลี่ยนเป็นโหมดความเร็วแสงจะลบเกมนี้ บันทึกเกมลงในที่จัดเก็บข้อมูลภายในหรือไม่?</string>
+    <string name="trial_mode_dialog_title">โหมดทดลอง</string>
     <string name="turn_off">ปิดใช้งาน</string>
     <string name="twohours">1 ชั่วโมง</string>
     <string name="unknown_caller">เลขหมายที่ไม่รู้จัก</string>
@@ -321,7 +367,7 @@
     <string name="wifi_assistant_wifi_no_internet">เครือข่าย Wi-Fi นี้ไม่มีอินเตอร์เน็ต</string>
     <string name="wifi_assistant_wifi_no_internet_detail">แตะเพื่อดูรายละเอียด</string>
     <string name="wireless_charging_notification_message1">ไม่พบการชาร์จอุปกรณ์ไร้สาย ย้อนกลับการชาร์จแบบไร้สายถูกปิดแล้ว</string>
-    <string name="wireless_charging_notification_message2">แบตเตอรี่ชาร์จน้อยกว่า 30% ย้อนกลับการชาร์จแบบไร้สายถูกปิดแล้ว</string>
+    <string name="wireless_charging_notification_message2">แบตเตอรี่ต่ำกว่า %s ชาร์จไร้สายย้อนกลับถูกปิดแล้ว</string>
     <string name="wireless_charging_notification_message3">เกิดข้อผิดพลาดระหว่างการชาร์จ ย้อนกลับการชาร์จแบบไร้สายถูกปิดแล้ว</string>
     <string name="wireless_charging_notification_titile">ปิดการชาร์จแบบไร้สายย้อนกลับ</string>
     <string name="xiaomi">Mi</string>
@@ -346,4 +392,6 @@
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="xspace_head">แอปโคลน</string>
     <string name="xspace_resolver_activity_title">เลือกแอป</string>
+    <string name="zte">ZTE</string>
+    <string name="zte_phone">ZTE</string>
 </resources>

@@ -346,6 +346,7 @@ LPR หนึ่งปีและห้าปีจะเสนอราคา�
     <string name="menuDesc">เมนู</string>
     <string name="midnight">กลางคืน</string>
     <string name="minusDesc">ลบ</string>
+    <string name="miuix_access_state_desc">ที่เลือกไว้</string>
     <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
@@ -694,6 +695,7 @@ LPR หนึ่งปีและห้าปีจะเสนอราคา�
     <string name="unit_data_display_currency_btn">งุลตรัมภูฏาน</string>
     <string name="unit_data_display_currency_bwp">ปูลาบอตสวานา</string>
     <string name="unit_data_display_currency_byn">รูเบิลเบลารุส</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">ดอลลาร์แคนาดา</string>
     <string name="unit_data_display_currency_cdf">ฟรังก์คองโก</string>
     <string name="unit_data_display_currency_chf">ฟรังก์สวิส</string>
@@ -1036,12 +1038,15 @@ LPR หนึ่งปีและห้าปีจะเสนอราคา�
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_calculator_delete_description">เครื่องคิดเลขเป็นแอประบบ คุณจะไม่สามารถใช้ตัวแปลงและคุณสมบัติเพิ่มเติมหลายตัวได้หลังจากที่คุณถอนการติดตั้งแอป</string>
     <string name="xiaomi_calculator_delete_title">ถอนการติดตั้งเครื่องคิดเลข?</string>
     <string name="xiaomi_calculator_remove_icon_description">เครื่องคิดเลขเป็นแอประบบ คุณจะไม่สามารถใช้ตัวแปลงและคุณสมบัติเพิ่มเติมหลายตัวได้หลังจากที่คุณลบปุ่มลัดหน้าจอหลัก</string>
     <string name="xiaomi_calculator_remove_icon_title">ลบ \"เครื่องคิดเลข\" ออกจากหน้าจอหลัก?</string>
     <string name="xiaomi_connect_download_manager_fail">ไม่สามารถเชื่อมต่อเพื่อดาวน์โหลด ตรวจสอบว่าแอปนี้มีสิทธิ์ที่จำเป็นทั้งหมดในการตั้งค่า > แอปที่ติดตั้งแล้ว</string>
     <string name="xiaomi_external_storage_unavailable">ที่เก็บข้อมูลไม่เพียงพอ ตรวจสอบการ SD การ์ด</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"แนะนำเวอร์ชั่น %1$s
  ขนาด: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"แนะนำเวอร์ชั่น %1$s

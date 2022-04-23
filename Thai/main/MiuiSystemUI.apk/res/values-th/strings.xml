@@ -125,12 +125,13 @@
     <string name="accessibility_keyboard_letter_board_caps_lock_button">แคปล็อค</string>
     <string name="accessibility_keyboard_letter_board_shift2number_button">หมายเลข</string>
     <string name="accessibility_keyboard_letter_board_shift2symbol_button">สัญลักษณ์</string>
-    <string name="accessibility_keyboard_ok_button">ป้อน</string>
+    <string name="accessibility_keyboard_ok_button">Enter</string>
     <string name="accessibility_keyboard_symbol_board_shift2letter_button">ตัวอักษร</string>
     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">ล็อกสัญลักษณ์</string>
     <string name="accessibility_keyguard_face_unlock_view">ปลดล็อกด้วยใบหน้า</string>
     <string name="accessibility_left_control_center_button">ปุ่มลัด</string>
     <string name="accessibility_left_lock_screen_magazine_button">ภาพพื้นหลังรายวัน</string>
+    <string name="accessibility_left_xmyzl_button">Xiaomi Magic Control</string>
     <string name="accessibility_location_active">คำขอตำแหน่งที่มีการใช้งาน</string>
     <string name="accessibility_long_click_tile">เปิดการตั้งค่า</string>
     <string name="accessibility_manage_notification">จัดการการแจ้งเตือน</string>
@@ -282,6 +283,7 @@
     <string name="accessor_expires_text">สัญญาเช่าหมดอายุที่ %s</string>
     <string name="accessor_info_title">แอปแชร์ข้อมูล</string>
     <string name="accessor_no_description_text">แอปไม่มีคำอธิบาย</string>
+    <string name="actionbar_button_up_description">ย้อนกลับ</string>
     <string name="activate_usb_message">เพื่อเปิดใช้งานคุณลักษณะนี้ กรุณาใส่ซิมการ์ด</string>
     <string name="activate_usb_title">เปิดใช้พอร์ต USB</string>
     <string name="active_input_method_subtypes">วิธีการป้อนข้อมูลใช้งานได้</string>
@@ -319,6 +321,7 @@
     <string name="adbwifi_warning_title">อนุญาตการดีบักแบบไร้สายหรือไม่?</string>
     <string name="add_tile">เพิ่มไทล์</string>
     <string name="adjust_button_width">ปรับความกว้างของปุ่ม</string>
+    <string name="afternoon">บ่าย</string>
     <string name="airplane_mode">โหมดเครื่องบิน</string>
     <string name="alarm_template">เวลา %1$s</string>
     <string name="alarm_template_far">ในวันที่ %1$s</string>
@@ -326,6 +329,7 @@
     <string name="allow_mock_location_summary">อนุญาตให้จำลองตำแหน่ง</string>
     <string name="always_use_accessory">เปิด %1$s ทุกครั้งเมื่อเชื่อมต่อกับ %2$s</string>
     <string name="always_use_device">เปิด %1$s ทุกครั้งเมื่อเชื่อมต่อกับ %2$s</string>
+    <string name="am">AM</string>
     <string name="animator_duration_scale_title">อัตราระยะเวลาภาพเคลื่อนไหว</string>
     <string name="apn_settings_not_available">ผู้ใช้นี้ไม่มีสิทธิ์ในการตั้งค่า APN</string>
     <string name="app_accessed_mic">%1$s เข้าถึงไมโครโฟนแล้ว</string>
@@ -503,17 +507,17 @@
     <string name="bluetooth_select_a2dp_codec_type">ตัวแปลงสัญญาณบลูทูธเสียง</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"ทริกเกอร์ตัวแปลงสัญญาณเสียงบลูทูธ
 ตัวเลือก"</string>
-    <string name="bluetooth_select_a2dp_codec_type_help_info">สีเทาหมายถึงไม่รองรับโทรศัพท์ หรือชุดหูฟัง</string>
+    <string name="bluetooth_select_a2dp_codec_type_help_info">สีเทาหมายถึงไม่รองรับโทรศัพท์ หรือหูฟัง Headset</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">เลือกบลูทูธเวอร์ชั่น AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">บลูทูธเวอร์ชั่น AVRCP</string>
-    <string name="bluetooth_select_map_version_dialog_title">เลือกเวอร์ชั่น MAP</string>
-    <string name="bluetooth_select_map_version_string">บลูทูธเวอร์ชั่น MAP</string>
+    <string name="bluetooth_select_map_version_dialog_title">เลือกเวอร์ชั่นบลูทูธ MAP</string>
+    <string name="bluetooth_select_map_version_string">เวอร์ชั่นบลูทูธ MAP</string>
     <string name="bluetooth_show_devices_without_names">แสดงอุปกรณ์บลูทูธที่ไม่มีชื่อ</string>
     <string name="bluetooth_show_devices_without_names_summary">อุปกรณ์บลูทูธที่ไม่มีชื่อ (เฉพาะที่อยู่ MAC เท่านั้น) จะปรากฏขึ้น</string>
     <string name="bluetooth_talkback_bluetooth">บลูทูธ</string>
     <string name="bluetooth_talkback_computer">คอมพิวเตอร์</string>
     <string name="bluetooth_talkback_headphone">หูฟัง</string>
-    <string name="bluetooth_talkback_headset">ชุดหูฟัง</string>
+    <string name="bluetooth_talkback_headset">หูฟัง Headset</string>
     <string name="bluetooth_talkback_imaging">การถ่ายภาพ</string>
     <string name="bluetooth_talkback_input_peripheral">อุปกรณ์อินพุตอุปกรณ์ต่อพ่วง</string>
     <string name="bluetooth_talkback_phone">โทรศัพท์</string>
@@ -523,7 +527,7 @@
     <string name="broadcast_tile">ไทล์การออกอากาศ</string>
     <string name="bt_hci_snoop_log">เปิดใช้บันทึกบลูทูธ HCI</string>
     <string name="bt_hci_snoop_log_summary">จับแพ็คเก็ตบลูทูธ (สับสวิทช์บลูทูธหลังจากเปลี่ยนการตั้งค่านี้)</string>
-    <string name="bt_is_off">บลูทูธปิด</string>
+    <string name="bt_is_off">บลูทูธปิดอยู่</string>
     <string name="bubble_accessibility_action_add_back">เพิ่มกลับไปที่สแต็ก</string>
     <string name="bubble_accessibility_action_move">ย้าย</string>
     <string name="bubble_accessibility_action_move_bottom_left">ย้ายไปด้านซ้ายล่าง</string>
@@ -560,6 +564,7 @@
     <string name="cell_data_off">ปิด</string>
     <string name="cell_data_off_content_description">เน็ตมือถือปิดอยู่</string>
     <string name="charge_length_format">%1$s ที่ผ่านมา</string>
+    <string name="choose_clock_dual_clock_hint_text">ไม่สามารถเปลี่ยนรูปแบบได้เมื่อนาฬิกาคู่เปิดอยู่</string>
     <string name="choose_clock_panel_title">การจัดเรียงหน้าจอล็อก</string>
     <string name="choose_clock_third_theme_hint_text">หน้าจอล็อคจากชุดรูปแบบที่ใช้ในปัจจุบัน</string>
     <string name="choose_clock_title_left_top">ชิดซ้าย</string>
@@ -568,6 +573,7 @@
     <string name="choose_profile">เลือกโปรไฟล์</string>
     <string name="clear_adb_keys">ยกเลิกสิทธิ์การแก้ไขข้อบกพร่อง USB</string>
     <string name="clear_all_notifications_text">ล้างทั้งหมด</string>
+    <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="click_to_enter_text">แตะเพื่อเรียกดู</string>
     <string name="clipboard">คลิปบอร์ด</string>
     <string name="clock">นาฬิกา</string>
@@ -577,6 +583,7 @@
     <string name="clock_title_analog">แอนะล็อก</string>
     <string name="clock_title_bubble">บับเบิล</string>
     <string name="clock_title_default">ค่าเริ่มต้น</string>
+    <string name="close">ปิด</string>
     <string name="compat_mode_off">ยืดจนเต็มหน้าจอ</string>
     <string name="compat_mode_on">ขยายจนเต็มหน้าจอ</string>
     <string name="confirm">ตกลง</string>
@@ -589,7 +596,7 @@
     <string name="connected_via_network_scorer_default">เชื่อมต่อโดยอัตโนมัติผ่านเครือข่ายผู้ให้บริการ</string>
     <string name="connected_via_passpoint">เชื่อมต่อผ่าน %1$s</string>
     <string name="content_description_menu_button">เมนู</string>
-    <string name="control_center_notification_switch_guide">ปัดเพื่อสลับระหว่างศูนย์ควบคุมและหน้าต่างแจ้งเตือน</string>
+    <string name="control_center_notification_switch_guide">ปัดเพื่อสลับระหว่างศูนย์ควบคุมและแถบการแจ้งเตือน</string>
     <string name="controls_added_tooltip">กดปุ่มเปิด/ปิดค้างไว้เพื่อดูตัวควบคุมใหม่ๆ</string>
     <string name="controls_confirmation_confirming">กำลังยืนยัน…</string>
     <string name="controls_confirmation_message">ยืนยันการเปลี่ยนแปลงสำหรับ%s</string>
@@ -671,6 +678,11 @@
     <string name="data_usage_ota">อัปเดตระบบ</string>
     <string name="data_usage_uninstalled_apps">แอปที่ถูกลบ</string>
     <string name="data_usage_uninstalled_apps_users">แอปและผู้ใช้ที่ถูกลบ</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
+    <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="debug_app">เลือกแอปวินิจฉัย</string>
     <string name="debug_app_not_set">ยังไม่ได้ตั้งแอปวินิจฉัย</string>
     <string name="debug_app_set">แอปวินิจฉัย: %1$s</string>
@@ -703,6 +715,9 @@
     <string name="development_settings_not_available">ตัวเลือกนักพัฒนาไม่พร้อมใช้งานสำหรับผู้ใช้นี้</string>
     <string name="development_settings_summary">ตั้งค่าตัวเลือกสำหรับการพัฒนา</string>
     <string name="development_settings_title">ตัวเลือกโหมดนักพัฒนา</string>
+    <string name="device_locked_without_biometric">ไม่สามารถปลดล็อกอุปกรณ์นี้ด้วยลายนิ้วมือหรือข้อมูลใบหน้าเมื่อคุณใช้การล็อกหน้าจอของบุคคลที่สาม</string>
+    <string name="device_locked_without_biometric_face">ไม่สามารถปลดล็อกอุปกรณ์นี้ด้วยข้อมูลใบหน้าเมื่อคุณใช้การล็อกหน้าจอของบุคคลที่สาม</string>
+    <string name="device_locked_without_biometric_finger">ไม่สามารถปลดล็อกอุปกรณ์นี้ด้วยลายนิ้วมือเมื่อคุณใช้การล็อกหน้าจอของบุคคลที่สาม</string>
     <string name="device_services">บริการของอุปกรณ์</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">หมายเหตุ: หลังจากรีบูตแอปนี้จะไม่เริ่มจนกว่าคุณจะปลดล็อกอุปกรณ์ของคุณ</string>
@@ -717,8 +732,8 @@
     <string name="dnd_is_off">\"ห้ามรบกวน\" ปิดอยู่</string>
     <string name="dnd_notification_warnings_title">DND เปิดอยู่ การแจ้งเตือนจะเงียบและปิดการสั่น</string>
     <string name="dnd_suppressing_shade_text">หยุดการแจ้งเตือนชั่วคราวโดย \"ห้ามรบกวน\"</string>
-    <string name="do_disclosure_generic">อุปกรณ์นี้เป็นขององค์กรของคุณ</string>
-    <string name="do_disclosure_with_name">อุปกรณ์นี้เป็นขององค์กรของ %s</string>
+    <string name="do_disclosure_generic">องค์กรของคุณเป็นเจ้าของอุปกรณ์นี้</string>
+    <string name="do_disclosure_with_name">%s เป็นเจ้าของอุปกรณ์นี้</string>
     <string name="do_not_silence">ไม่ปิดเสียง</string>
     <string name="do_not_silence_block">ไม่ปิดเสียงหรือบล็อก</string>
     <string name="dock_alignment_not_charging">จัดวางโทรศัพท์ใหม่เพื่อชาร์จแบบไร้สาย</string>
@@ -730,7 +745,9 @@
     <string name="drag_to_rearrange_tiles">กดการ์ดค้างไว้แล้วลากเพื่อจัดเรียงใหม่</string>
     <string name="drag_to_remove_disabled">คุณต้องมีการ์ดอย่างน้อย %1$d รายการ</string>
     <string name="drag_to_remove_tiles">ลากมาที่นี่เพื่อนำออก</string>
+    <string name="early_morning">เช้า</string>
     <string name="emergency_call_string">ฉุกเฉิน</string>
+    <string name="empty" />
     <string name="empty_shade_text">ไม่มีการแจ้งเตือน</string>
     <string name="enable_adb">การแก้ไขข้อบกพร่อง USB</string>
     <string name="enable_adb_summary">สลับเป็นโหมดแก้ไขจุดบกพร่องเมื่อเชื่อมต่อ USB</string>
@@ -752,9 +769,12 @@
     <string name="enabled_by_admin">เปิดใช้โดยผู้ดูแลระบบ</string>
     <string name="enhanced_connectivity">ปรับปรุงการเชื่อมต่อ</string>
     <string name="enhanced_connectivity_summary">เปิดใช้งานคุณสมบัติการเชื่อมต่อขั้นสูง</string>
+    <string name="eras_ad">หลังคริสตกาล</string>
+    <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="error_disable_esim_msg">ปิดใช้ eSIM ไม่ได้เนื่องจากมีข้อผิดพลาด</string>
     <string name="error_disable_esim_title">ปิดใช้ eSIM ไม่ได้</string>
     <string name="ethernet_label">อีเทอร์เน็ต</string>
+    <string name="evening">บ่าย</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="expanded_header_battery_charged">ชาร์จแล้ว</string>
     <string name="expanded_header_battery_charging">กำลังชาร์จ</string>
@@ -778,20 +798,86 @@
     <string name="face_unlock_pin_and_fingerprint">ป้อน PIN หรือใช้ลายนิ้วมือเพื่อปลดล็อก</string>
     <string name="face_unlock_reveal_eye">กรุณาเปิดตาให้มองเห็น</string>
     <string name="face_unlock_reveal_mouth">กรุณาหันให้เห็นปากของคุณ</string>
+    <string name="face_unlock_success">ปลดล็อกสำเร็จแล้ว</string>
+    <string name="face_unlock_swipe_up_retry">เลื่อนขึ้นเพื่อลองอีกครั้ง</string>
     <string name="failed_to_open_app_settings_toast">เปิดการตั้งค่า %1$s ไม่ได้</string>
     <string name="fingerprint_add_text">อัปเดตอินเตอร์เฟซของลายนิ้วมือแล้ว เพิ่มลายนิ้วมือของคุณอีกครั้ง</string>
     <string name="fingerprint_add_title">เพิ่มลายนิ้วมือ</string>
     <string name="fingerprint_again_identified_msg">ระบบได้จัดเก็บลายนิ้วมือของคุณเพื่อใช้ปลดล็อกเครื่องแทนรหัสผ่านไว้แล้ว</string>
+    <string name="fingerprint_again_identified_msg_password">"ลายนิ้วมือของคุณใช้งานได้แล้ว
+ใช้เพื่อปลดล็อกอุปกรณ์หรือป้อนรหัสผ่าน"</string>
+    <string name="fingerprint_again_identified_msg_pattern">"ลายนิ้วมือของคุณใช้งานได้แล้ว
+ใช้เพื่อปลดล็อกอุปกรณ์หรือวาดรูปแบบของคุณ"</string>
+    <string name="fingerprint_again_identified_msg_pin">"ลายนิ้วมือของคุณใช้งานได้แล้ว
+ใช้เพื่อปลดล็อกอุปกรณ์หรือป้อน PIN"</string>
     <string name="fingerprint_dialog_touch_sensor">แตะเซ็นเซอร์ลายนิ้วมือ</string>
     <string name="fingerprint_enter_second_psw_msg">ป้อนรหัสผ่านพื้นที่ทับซ้อน หลังจากรีบูตอุปกรณ์เพื่อใช้การอ่านลายนิ้วมือ</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">ไม่สามารถเข้าสู่พื้นที่ทับซ้อนในขณะที่อยู่ในโหมดง่าย</string>
     <string name="fingerprint_enter_second_psw_title">ป้อนรหัสผ่านพื้นที่ทับซ้อน</string>
-    <string name="fingerprint_not_identified_msg">ผิดเกินจำนวนที่กำหนด กรุณาใส่รหัสผ่านหรือรออีกสักครู่จึงใช้วิธีสแกนนิ้ว</string>
-    <string name="fingerprint_not_identified_msg_lock">สแกนนิ้วมือผิดพลาดมากเกินไป กรุณาใส่รหัสผ่าน</string>
+    <string name="fingerprint_not_identified_msg">ผิดเกินจำนวนที่กำหนด กรุณาป้อนรหัสผ่านหรือรออีกสักครู่จึงใช้วิธีสแกนนิ้ว</string>
+    <string name="fingerprint_not_identified_msg_lock">สแกนนิ้วมือผิดพลาดมากเกินไป กรุณาป้อนรหัสผ่าน</string>
+    <string name="fingerprint_not_identified_msg_password">"สแกนนิ้วมือผิดพลาดมากเกินไป
+ป้อนรหัสผ่านพื่อปลดล็อก"</string>
+    <string name="fingerprint_not_identified_msg_pattern">"พยายามไม่สำเร็จหลายครั้งเกินไป
+วาดรูปแบบเพื่อปลดล็อก"</string>
+    <string name="fingerprint_not_identified_msg_pin">"สแกนนิ้วมือผิดพลาดมากเกินไป
+ป้อน PIN เพื่อปลดล็อก"</string>
     <string name="fingerprint_not_identified_title">ป้อนรหัสผ่าน</string>
     <string name="fingerprint_try_again_msg">ไม่สามารถยืนยันลายนิ้วมือได้ ลองอีกครั้ง</string>
     <string name="fingerprint_try_again_text">ลองอีกครั้ง</string>
     <string name="float_notification_snooze_strategy">ซ่อนการแจ้งเตือนแบบลอยชั่วคราว</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">dd</string>
+    <string name="fmt_date_numeric_month">MM</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month">MM</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">hh</string>
+    <string name="fmt_time_12hour_minute">hh:mm</string>
+    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
+    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
+    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
+    <string name="fmt_time_12hour_pm">hh aa</string>
+    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
+    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_millis">S</string>
+    <string name="fmt_time_minute">m</string>
+    <string name="fmt_time_minute_second">m:s</string>
+    <string name="fmt_time_minute_second_millis">m:s.S</string>
+    <string name="fmt_time_second">s</string>
+    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="force_allow_on_external">บังคับอนุญาตแอปกับเขียนบนที่จัดเก็บข้อมูลภายนอก</string>
     <string name="force_allow_on_external_summary">อนุญาตให้แอปใดๆมีสิทธิ์เขียนลงในที่จัดเก็บข้อมูลภายนอก โดยไม่คำนึงถึงค่าใดๆ</string>
     <string name="force_msaa">บังคับ 4x MSAA</string>
@@ -802,10 +888,14 @@
     <string name="force_rtl_layout_all_locales_summary">บังคับทิศทางการจัดวางหน้าจอจากขวาไปซ้ายสำหรับตำแหน่งที่ตั้งทั้งหมด</string>
     <string name="forced_resizable_secondary_display">แอปอาจไม่ทำงานในจอแสดงผลรอง</string>
     <string name="forget_password_string">ลืมรหัสผ่าน</string>
+    <string name="friday">วันศุกร์</string>
+    <string name="friday_short">ศุกร์</string>
+    <string name="friday_shortest">ศุกร์</string>
     <string name="fs_gesture_back_home_summary">ปัดจากด้านล่างจอ</string>
     <string name="fs_gesture_back_ready_title">ย้อนกลับ</string>
     <string name="fs_gesture_final_over">ฉันทำเสร็จแล้ว</string>
     <string name="fs_gesture_final_restart">อีกที</string>
+    <string name="fs_gesture_final_see_more">ดูการสาธิตเพิ่มเติมในการตั้งค่า > หน้าจอหลัก > การนำทางของระบบ</string>
     <string name="fs_gesture_final_summary">คุณสามารถเปลี่ยนกลับไปใช้ปุ่มต่างๆได้ในการตั้งค่า > การแสดงผลแบบเต็มหน้าจอ</string>
     <string name="fs_gesture_final_title">เมื่อคุณพร้อมเราก็พร้อม มาลองใช้กัน!</string>
     <string name="fs_gesture_finish">ยอดเยี่ยม!</string>
@@ -836,28 +926,6 @@
     <string name="guest_wipe_session_wipe">เริ่มต้นใหม่</string>
     <string name="gxzw_area">ตัวสแกนลายนิ้วมือ</string>
     <string name="gxzw_press_harder">กดแรงหน่อย</string>
-    <string name="gxzw_quick_close">ปิด</string>
-    <string name="gxzw_quick_open_add_event">เพิ่มกิจกรรม</string>
-    <string name="gxzw_quick_open_add_event_sub">ปฏิทิน</string>
-    <string name="gxzw_quick_open_alipay_pay">รหัสชำระเงิน</string>
-    <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
-    <string name="gxzw_quick_open_alipay_scan">ตัวสแกน</string>
-    <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
-    <string name="gxzw_quick_open_qr_code">รหัส QR</string>
-    <string name="gxzw_quick_open_qr_code_sub">ตัวสแกน</string>
-    <string name="gxzw_quick_open_search">ค้นหา</string>
-    <string name="gxzw_quick_open_search_sub">เบราว์เซอร์</string>
-    <string name="gxzw_quick_open_skip_teach">ข้ามแนะนำวิธีการ</string>
-    <string name="gxzw_quick_open_title">เปิดเมนูปุ่มลัดแล้ว</string>
-    <string name="gxzw_quick_open_wechat_pay">รหัสชำระเงิน</string>
-    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
-    <string name="gxzw_quick_open_wechat_scan">ตัวสแกน</string>
-    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
-    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
-    <string name="gxzw_quick_open_xiaoai_title1">พูดชื่อแอปที่คุณต้องการเปิด</string>
-    <string name="gxzw_quick_open_xiaoai_title2">พูดชื่อสถานที่ที่คุณต้องการใช้</string>
-    <string name="gxzw_quick_tip_press">กดต่อไปเรื่อยๆ…</string>
-    <string name="gxzw_quick_tip_slide">อย่ายกนิ้วของคุณ เลื่อนเพื่อเลือก</string>
     <string name="gxzw_try_again">ลองอีกครั้ง</string>
     <string name="gxzw_try_more_again">ลองอีกครั้ง</string>
     <string name="gxzw_use_password">ใช้รหัสผ่านของคุณเพื่อปลดล็อก</string>
@@ -898,7 +966,7 @@
     <string name="ims_reg_status_not_registered">ไม่ได้ลงทะเบียน</string>
     <string name="ims_reg_status_registered">ลงทะเบียนแล้ว</string>
     <string name="ims_reg_title">สถานะการลงทะเบียน IMS</string>
-    <string name="imsi_protection_warning">เครือข่ายนี้ได้รับรหัสที่ไม่ซ้ำกันซึ่งใช้ติดตามตำแหน่งอุปกรณ์ได้ <annotation id="url">ดูข้อมูลเพิ่มเติม</annotation></string>
+    <string name="imsi_protection_warning">เครือข่ายนี้จะได้รับรหัส SIM ซึ่งใช้ติดตามตำแหน่งอุปกรณ์ได้ <annotation id="url">ดูข้อมูลเพิ่มเติม</annotation></string>
     <string name="inactive_app_active_summary">ใช้งานได้ แตะเพื่อสับสวิทช์</string>
     <string name="inactive_app_inactive_summary">ไม่ได้ใช้งาน แตะเพื่อสับสวิทช์</string>
     <string name="inactive_apps_title">แอปแสตนด์บาย</string>
@@ -926,13 +994,15 @@
     <string name="input_lockscreen_password_hint_text">ป้อนรหัสผ่าน</string>
     <string name="input_lockscreen_pattern_hint_text">วาดรูปแบบ</string>
     <string name="input_lockscreen_pin_hint_text">ป้อนรหัส PIN</string>
-    <string name="input_password_after_boot_msg">เพื่อปลดล็อกอุปกรณ์ กรุณาป้อนรหัสผ่าน</string>
+    <string name="input_password_after_boot_msg">ต้องป้อนรหัสผ่านเมื่ออุปกรณ์รีบูต</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ไม่สามารถสลับระหว่างพื้นที่ขณะโทรได้</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">ไม่สามารถสลับระหว่างพื้นที่เมื่อการควบคุมโดยผู้ปกครองเปิดอยู่</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">ไม่สามารถสลับระหว่างที่ว่างได้เมื่อเปิดตัวประหยัดแบตเตอรี่อัลตร้า</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">คุณจำเป็นต้องเข้าสู่พื้นที่ปกติก่อนที่อุปกรณ์จะทำการรีบูต</string>
-    <string name="input_password_hint_text">ใส่รหัสผ่าน</string>
+    <string name="input_password_hint_text">ป้อนรหัสผ่าน</string>
+    <string name="input_pattern_after_boot_msg">ต้องวาดรูปแบบเมื่ออุปกรณ์รีบูต</string>
     <string name="input_pattern_hint_text">วาดรูปแบบของคุณเพื่อปลดล็อก:</string>
+    <string name="input_pin_after_boot_msg">ต้องป้อน PIN เมื่ออุปกรณ์รีบูต</string>
     <string name="input_pin_code">ป้อนรหัส PIN</string>
     <string name="input_puk_code">ใส่ PUK</string>
     <string name="install_other_apps">ติดตั้งแอปที่ไม่รู้จัก</string>
@@ -1011,6 +1081,7 @@
     <string name="keyguard_charged">ชาร์จแล้ว</string>
     <string name="keyguard_charging_back_to_lockscreen">กลับไปที่หน้าจอล็อก</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
+    <string name="keyguard_charging_double_fast_and_level_tip">เพิ่มความเร็วในการชาร์จ %s</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">วันนี้ %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">เมื่อวาน %s</string>
@@ -1029,6 +1100,7 @@
     <string name="keyguard_indication_trust_unlocked_plugged_in">"%1$s
 %2$s"</string>
     <string name="keyguard_instructions_when_pattern_disabled">กด \"เมนู\" เพื่อปลดล็อก</string>
+    <string name="keyguard_invalid_sim_puk_hint">รหัส PIN จะต้องมี %1$d หลัก</string>
     <string name="keyguard_left_mi_wallet">Mi Wallet</string>
     <string name="keyguard_left_torch">ไฟฉาย</string>
     <string name="keyguard_left_view_lock_wallpaper">ภาพพื้นหลังรายวัน</string>
@@ -1037,6 +1109,7 @@
     <string name="keyguard_missing_sim_instructions_long">ไม่มีซิมการ์ดหรือไม่สามารถอ่านได้ โปรดใส่ซิมการ์ด</string>
     <string name="keyguard_missing_sim_message">ไม่มีซิมการ์ดในโทรศัพท์</string>
     <string name="keyguard_missing_sim_message_short">ไม่มีซิมการ์ด</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">เครือข่ายถูกล็อก</string>
     <string name="keyguard_password_enter_password_code">พิมพ์รหัสผ่านเพื่อปลดล็อก</string>
     <string name="keyguard_password_enter_pin_code">พิมพ์รหัส PIN</string>
@@ -1078,7 +1151,7 @@
     <string name="kg_invalid_confirm_pin_hint">รหัส PIN ไม่ตรง</string>
     <string name="kg_invalid_puk">ใส่รหัส PUK ที่ถูกต้องอีกครั้ง การพยายามซ้ำหลายครั้งจะทำให้ซิมการ์ดถูกปิดใช้งานอย่างถาวร</string>
     <string name="kg_invalid_sim_pin_hint">พิมพ์ PIN ซึ่งเป็นเลข 4-8 หลัก</string>
-    <string name="kg_invalid_sim_puk_hint">รหัส PUK ควรเป็นตัวเลข 8 ตัว</string>
+    <string name="kg_invalid_sim_puk_hint">รหัส PUK ต้องเป็นตัวเลขอย่างน้อย 8 หลัก</string>
     <string name="kg_login_too_many_attempts">ลองหลายรูปแบบมากเกินไป</string>
     <string name="kg_password_instructions">ป้อนรหัสผ่าน</string>
     <string name="kg_password_pin_failed">การปลดล็อกด้วย PIN ของซิมล้มเหลว!</string>
@@ -1170,8 +1243,9 @@
     <string name="local_backup_password_summary_none">การสำรองข้อมูลเต็มหน้าจอหลักยังไม่ได้รับการปกป้อง</string>
     <string name="local_backup_password_title">รหัสผ่านข้อมูลสำรองหน้าจอหลัก</string>
     <string name="local_backup_password_toast_confirmation_mismatch">รหัสผ่านไม่ตรงกัน</string>
-    <string name="local_backup_password_toast_success">ตั้งค่ารหัสผ่านสำรองข้อมูลใหม่</string>
+    <string name="local_backup_password_toast_success">ตั้งค่ารหัสผ่านข้อมูลสำรองใหม่</string>
     <string name="local_backup_password_toast_validation_failure">ไม่สามารถตั้งค่ารหัสผ่านข้อมูลสำรองได้</string>
+    <string name="lock_screen_access_to_5G">Access to 5G</string>
     <string name="lock_screen_carrier_airplane_mode_on">โหมดเครื่องบิน</string>
     <string name="lock_screen_date">EEEE d MMMM</string>
     <string name="lock_screen_date_12">EEEE d MMMM</string>
@@ -1184,7 +1258,7 @@ d MMMM"</string>
     <string name="lock_screen_magazine_global_button_text">เพิ่มเติม</string>
     <string name="lock_screen_magazine_label">เปิดภาพพื้นหลังรายวัน</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">เพิ่มเติม</string>
-    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">ป้อน</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">เข้าไป</string>
     <string name="lock_screen_no_sim_card_emergency_only">โทรฉุกเฉินเท่านั้น</string>
     <string name="lock_screen_no_sim_card_no_service">ไม่มีสัญญาณ</string>
     <string name="lock_screen_signature_msg">แสดงลายเซ็นต์บนหน้าจอล็อก</string>
@@ -1222,6 +1296,7 @@ d MMMM"</string>
     <string name="megabyte_per_second">MB/วิ</string>
     <string name="menu_ime">ปุ่มสลับแป้นพิมพ์</string>
     <string name="mic_active">ไมโครโฟนเปิดใช้งานอยู่</string>
+    <string name="midnight">กลางคืน</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ปลดล็อกโดยใช้อุปกรณ์บลูทูธ</string>
     <string name="miui_notification_menu_aggregate_feedback">ข้อเสนอแนะ</string>
     <string name="miui_notification_menu_allow">อนุญาต</string>
@@ -1230,9 +1305,11 @@ d MMMM"</string>
     <string name="miui_notification_menu_more_setting">เพิ่มเติม</string>
     <string name="miui_notification_menu_msg_fold">จัดกลุ่มการแจ้งเตือนทั้งหมดจาก %1$s เข้าด้วยกัน?</string>
     <string name="miui_notification_menu_msg_not_allow">จำกัดการแจ้งเตือนทั้งหมดจาก %1$s?</string>
+    <string name="miui_notification_menu_msg_unfold">แสดงการแจ้งเตือน %1$s แยกกันไหม?</string>
     <string name="miui_notification_menu_setting_success">เสร็จสิ้น</string>
     <string name="miui_notification_menu_snooze">เลื่อนปลุก</string>
     <string name="miui_notification_menu_title_not_allow">จำกัด</string>
+    <string name="miui_notification_menu_unfold">ทำเครื่องหมายว่าสำคัญ</string>
     <string name="miui_screen_rotation_freeze_message">ทิศทางการล็อกหน้าจอในโหมดแนวนอน</string>
     <string name="miui_snooze_always_float">ไม่ซ่อน</string>
     <string name="miui_snooze_cancel">ยกเลิก </string>
@@ -1241,8 +1318,24 @@ d MMMM"</string>
     <string name="miui_snooze_toast_hint_default">"การแจ้งเตือนที่จะเกิดขึ้นจะถูกซ่อนไว้สำหรับ %d นาที "</string>
     <string name="miui_snooze_toast_hint_until_unlock_screen">"การแจ้งเตือนที่จะเกิดขึ้นจะถูกซ่อนไว้จนกว่าอุปกรณ์จะล็อก "</string>
     <string name="miui_snooze_until_unlock_screen">จนกว่าจะล็อค</string>
-    <string name="miui_snooze_user_set_fail">ไปที่ การตั้งค่า > การแจ้งเตือน &amp; ศูนย์ควบคุม สำหรับตัวเลือกเพิ่มเติม</string>
-    <string name="miui_snooze_user_set_success">นำไปใช้เรียบร้อยแล้ว ไปที่ การตั้งค่า > การแจ้งเตือน &amp; ศูนย์ควบคุม สำหรับตัวเลือกเพิ่มเติม</string>
+    <string name="miui_snooze_user_set_fail">ไปที่ การตั้งค่า > การแจ้งเตือนและศูนย์ควบคุม สำหรับตัวเลือกเพิ่มเติม</string>
+    <string name="miui_snooze_user_set_success">นำไปใช้เรียบร้อยแล้ว ไปที่ การตั้งค่า > การแจ้งเตือนและศูนย์ควบคุม สำหรับตัวเลือกเพิ่มเติม</string>
+    <string name="miui_unimportant_notifications">การแจ้งเตือนที่ไม่สำคัญ</string>
+    <string name="miuix_access_state_desc">ที่เลือกไว้</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
+    <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
+    <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
+    <string name="miuix_appcompat_delete_description">ลบ</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
+    <string name="miuix_appcompat_search_input_description">ค้นหา</string>
+    <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_select_all_description">เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_select_item">เลือกรายการ</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
@@ -1262,6 +1355,9 @@ d MMMM"</string>
     <string name="mock_location_app">เลือกแอปตำแหน่งจำลอง</string>
     <string name="mock_location_app_not_set">ไม่ได้ตั้งค่าแอปตำแหน่งจำลอง</string>
     <string name="mock_location_app_set">แอปตำแหน่งจำลอง: %1$s</string>
+    <string name="monday">วันจันทร์</string>
+    <string name="monday_short">จันทร์</string>
+    <string name="monday_shortest">จันทร์</string>
     <string name="monitoring_button_view_policies">ดูนโยบาย</string>
     <string name="monitoring_description_app">คุณเชื่อมต่ออยู่กับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมในเครือข่ายของคุณ รวมถึงอีเมล แอป และเว็บไซต์</string>
     <string name="monitoring_description_app_personal">คุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมในเครือข่ายส่วนตัวของคุณ รวมถึงอีเมล แอป และเว็บไซต์ได้</string>
@@ -1272,12 +1368,14 @@ d MMMM"</string>
 
 โปรดติดต่อผู้ดูแลระบบของคุณสำหรับข้อมูลเพิ่มเติม"</string>
     <string name="monitoring_description_ca_cert_settings">เปิดข้อมูลรับรองที่เชื่อถือได้</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">มีการติดตั้งผู้ออกใบรับรองในอุปกรณ์นี้ อาจมีการตรวจสอบหรือแก้ไขการจราจรของข้อมูลในเครือข่ายที่ปลอดภัยของคุณ</string>
     <string name="monitoring_description_do_body">ผู้ดูแลระบบสามารถตรวจสอบและจัดการการตั้งค่า การเข้าถึงของบริษัท แอป ข้อมูลที่เชื่อมโยงกับอุปกรณ์ของคุณ และข้อมูลตำแหน่งของอุปกรณ์</string>
     <string name="monitoring_description_do_body_vpn">คุณเชื่อมต่อกับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมในเครือข่ายของคุณ รวมถึงอีเมล แอป และเว็บไซต์ได้</string>
     <string name="monitoring_description_do_header_generic">อุปกรณ์ของคุณได้รับการจัดการโดย %1$s</string>
     <string name="monitoring_description_do_header_with_name">%1$s ใช้ %2$s เพื่อจัดการอุปกรณ์</string>
     <string name="monitoring_description_do_learn_more">ดูข้อมูลเพิ่มเติม</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">องค์กรของคุณติดตั้งผู้ออกใบรับรองในโปรไฟล์งาน อาจมีการตรวจสอบหรือแก้ไขการจราจรของข้อมูลในเครือข่ายที่ปลอดภัยของคุณ</string>
     <string name="monitoring_description_managed_profile_named_vpn">โปรไฟล์งานของคุณเชื่อมต่ออยู่กับ %1$s ซึ่งสามารถตรวจสอบกิจกรรมในเครือข่ายของคุณ รวมถึงอีเมล แอป และเว็บไซต์</string>
     <string name="monitoring_description_management">"องค์กรของคุณเป็นเจ้าของอุปกรณ์นี้
@@ -1309,12 +1407,51 @@ d MMMM"</string>
 
 นอกจากนี้คุณยังเชื่อมต่อกับ VPN ซึ่งตรวจสอบกิจกรรมในเครือข่ายของคุณได้"</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">ใบรับรอง CA</string>
     <string name="monitoring_subtitle_network_logging">การบันทึกกิจกรรมของเครือข่าย</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
     <string name="monitoring_title">การตรวจสอบเครือข่าย</string>
     <string name="monitoring_title_device_owned">การจัดการอุปกรณ์</string>
     <string name="monitoring_title_profile_owned">การตรวจสอบโปรไฟล์</string>
+    <string name="month_april">เมษายน</string>
+    <string name="month_april_short">เมษา</string>
+    <string name="month_april_shortest">เมษา</string>
+    <string name="month_august">สิงหาคม</string>
+    <string name="month_august_short">สิงหา</string>
+    <string name="month_august_shortest">สิงหา</string>
+    <string name="month_december">ธันวาคม</string>
+    <string name="month_december_short">ธันวา</string>
+    <string name="month_december_shortest">ธันวา</string>
+    <string name="month_february">กุมภาพันธ์</string>
+    <string name="month_february_short">กุมภา</string>
+    <string name="month_february_shortest">กุมภา</string>
+    <string name="month_january">มกราคม</string>
+    <string name="month_january_short">มกรา</string>
+    <string name="month_january_shortest">มกรา</string>
+    <string name="month_july">กรกฎาคม</string>
+    <string name="month_july_short">กรกฎา</string>
+    <string name="month_july_shortest">กรกฎา</string>
+    <string name="month_june">มิถุนายน</string>
+    <string name="month_june_short">มิถุนา</string>
+    <string name="month_june_shortest">มิถุนา</string>
+    <string name="month_march">มีนาคม</string>
+    <string name="month_march_short">มีนา</string>
+    <string name="month_march_shortest">มีนา</string>
+    <string name="month_may">พฤษภาคม</string>
+    <string name="month_may_short">พฤษภา</string>
+    <string name="month_may_shortest">พฤษภา</string>
+    <string name="month_november">พฤศจิกายน</string>
+    <string name="month_november_short">พฤศจิกา</string>
+    <string name="month_november_shortest">พฤศจิกา</string>
+    <string name="month_october">ตุลาคม</string>
+    <string name="month_october_short">ตุลา</string>
+    <string name="month_october_shortest">ตุลา</string>
+    <string name="month_september">กันยายน</string>
+    <string name="month_september_short">กันยา</string>
+    <string name="month_september_shortest">กันยา</string>
+    <string name="more">เพิ่มเติม</string>
+    <string name="morning">เช้า</string>
     <string name="mr_button_content_description">ปุ่ม \"แคสต์\"</string>
     <string name="mr_cast_button_connected">ปุ่ม \"แคสต์\" เชื่อมต่อแล้ว</string>
     <string name="mr_cast_button_connecting">ปุ่ม \"แคสต์\" กำลังเชื่อมต่อ</string>
@@ -1339,13 +1476,17 @@ d MMMM"</string>
     <string name="mr_dialog_transferable_header">เล่นในกลุ่ม</string>
     <string name="mr_system_route_name">ระบบ</string>
     <string name="mr_user_route_category_name">อุปกรณ์</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">ไม่สามารถตั้งค่าระหว่างโทรได้</string>
     <string name="music_controls_no_title">ไม่มีชื่อ</string>
     <string name="nav_bar">แถบนำทาง</string>
     <string name="nav_bar_default">(ค่าเริ่มต้น)</string>
     <string name="nav_bar_layout">การจัดวาง</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
+    <string name="night">เย็น</string>
     <string name="no_application">ไม่มี</string>
     <string name="no_auto_saver_action">ไม่เป็นไร</string>
     <string name="no_shortcut">%1$s ไม่รองรับฟีเจอร์การสนทนา</string>
+    <string name="noon">เที่ยงวัน</string>
     <string name="not_default_data_content_description">ไม่ได้ตั้งค่าให้ใช้อินเทอร์เน็ตมือถือ</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="notification_alert_title">ค่าเริ่มต้น</string>
@@ -1414,6 +1555,7 @@ d MMMM"</string>
     <string name="open_lock_screen_magazine_hint_text">เลื่อนไปทางซ้ายสำหรับตัวเลือกเพิ่มเติม</string>
     <string name="open_remote_center_hint_text">ปัดไปทางขวาเพื่อดูส่วนควบคุม</string>
     <string name="open_saver_setting_action">การตั้งค่า</string>
+    <string name="open_xmyzl_hint_text">ปัดไปทางขวาเพื่อเปิด Xiaomi Magic Control</string>
     <string name="orb_search_action">การดำเนินการค้นหา</string>
     <string name="osu_completing_sign_up">กำลังเสร็จสิ้นการลงทะเบียน…</string>
     <string name="osu_connect_failed">ไม่สามารถเชื่อมต่อได้</string>
@@ -1431,6 +1573,8 @@ d MMMM"</string>
     <string name="overlay_display_devices_title">จำลองจอแสดงผลที่สอง</string>
     <string name="overview">ภาพรวม</string>
     <string name="owner_info_settings_edit_text_hint">เช่น แอนดรอยด์ของโจ</string>
+    <string name="pad_zen_mode_warnings_all_time_content">การแจ้งเตือนจะถูกปิดเสียง</string>
+    <string name="pad_zen_mode_warnings_keyguard_content">การแจ้งเตือนจะปิดเสียงเมื่ออุปกรณ์ถูกล็อก</string>
     <string name="phone_hint">เลื่อนไอคอนโทรศัพท์</string>
     <string name="phone_label">เปิดโทรศัพท์</string>
     <string name="phone_locked_foget_password">ลืมรหัสผ่าน?</string>
@@ -1439,10 +1583,12 @@ d MMMM"</string>
     <string name="phone_locked_foget_password_method_content">&lt;Data>คุณต้องลบข้อมูล &lt;font color=#a5220e>ทั้งหมด &lt;/font> บนอุปกรณ์ของคุณ รวมทั้งรูปภาพและรายชื่อผู้ติดต่อ จากนั้นตั้งรหัสผ่านล็อคหน้าจอใหม่.&lt;/Data></string>
     <string name="phone_locked_foget_password_method_next">ถัดไป</string>
     <string name="phone_locked_foget_password_ok">รับทราบ</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>ปิดอุปกรณ์ของคุณ กด &lt;font color=#a5220e>ปุ่มเปิด/ปิดเครื่อง&lt;/font> และ &lt;font color=#a5220e>ปุ่มเพิ่มเสียงค้าง&lt;/font> รอจนกว่าคุณจะเห็นโลโก้ Mi&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>ปิดอุปกรณ์ของคุณ จากนั้นกดปุ่ม &lt;font color=#e6e6e6>[เปิด/ปิด]&lt;/font> และ &lt;font color=#e6e6e6>[ระดับเสียง +]&lt;/font> ค้างไว้จนกว่าคุณจะเห็น &lt;img src=\"\">&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>เลือก&lt;font color=#a5220e>\"ลบออกและรีเซ็ต\"&lt;/font> และรอจนกว่าอุปกรณ์รีบูต.;&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">ลบข้อมูลอย่างไร?</string>
     <string name="phone_locked_string">อุปกรณ์ดังกล่าวถูกล็อกอยู่</string>
+    <string name="phone_locked_string_owner_user">พยายามป้อนรหัสผ่านพื้นที่ปกติไม่สำเร็จหลายครั้งเกินไป อุปกรณ์นี้ถูกล็อกแล้วตอนนี้</string>
+    <string name="phone_locked_string_second_user">พยายามป้อนรหัสผ่านพื้นที่ทับซ้อนไม่สำเร็จหลายครั้งเกินไป อุปกรณ์นี้ถูกล็อกแล้วตอนนี้</string>
     <string name="picture_color_mode">โหมดสีของภาพ</string>
     <string name="picture_color_mode_desc">ใช้ sRGB</string>
     <string name="pip_close">ปิด PIP</string>
@@ -1460,6 +1606,7 @@ d MMMM"</string>
     <string name="pip_play">เล่น</string>
     <string name="pip_skip_to_next">ข้ามไปรายการถัดไป</string>
     <string name="pip_skip_to_prev">ข้ามไปรายการก่อนหน้า</string>
+    <string name="pm">PM</string>
     <string name="pointer_location">กำหนดตำแหน่งพิกัด</string>
     <string name="pointer_location_summary">ภาพซ้อนทับแสดงข้อมูลการแตะในปัจจุบัน</string>
     <string name="power_discharge_by">ใช้ได้อีกประมาณ %1$s (%2$s)</string>
@@ -1525,6 +1672,7 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">ชื่อผู้ให้บริการ DNS ส่วนตัว</string>
     <string name="private_dns_mode_provider_failure">ไม่สามารถเชื่อมต่อได้</string>
     <string name="private_dns_mode_provider_hostname_hint">ป้อนผู้ให้บริการ DNS ส่วนตัว</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">ปัญหาการเชื่อมต่อ ปิดและเปิดอุปกรณ์</string>
     <string name="profile_info_settings_title">ข้อมูลโปรไฟล์</string>
     <string name="profile_owned_footer">อาจมีการตรวจสอบโปรไฟล์</string>
@@ -1658,7 +1806,7 @@ d MMMM"</string>
     <string name="quick_settings_rotation_locked_landscape_label">แนวนอน</string>
     <string name="quick_settings_rotation_locked_portrait_label">แนวตั้ง</string>
     <string name="quick_settings_rotation_unlocked_label">หมุนอัตโนมัติ</string>
-    <string name="quick_settings_rotationlock_label">ห้ามหมุนจอ</string>
+    <string name="quick_settings_rotationlock_label">ทิศทางการล็อค</string>
     <string name="quick_settings_rssi_emergency_only">โทรฉุกเฉินเท่านั้น</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screen_record_label">บันทึกหน้าจอ</string>
@@ -1679,6 +1827,9 @@ d MMMM"</string>
     <string name="quick_settings_user_new_user">ผู้ใช้ใหม่</string>
     <string name="quick_settings_user_title">ผู้ใช้</string>
     <string name="quick_settings_vibrate_label">สั่นเตือน</string>
+    <string name="quick_settings_vowifi_label">โทร WiFi</string>
+    <string name="quick_settings_vowifi_sim1_label">โทร WiFi ซิม 1</string>
+    <string name="quick_settings_vowifi_sim2_label">โทร WiFi ซิม 2</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">เพิ่มความเร็ว</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">ยกเลิก </string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">ยืนยัน</string>
@@ -1716,6 +1867,9 @@ d MMMM"</string>
     <string name="running_process_item_user_label">ผู้ใช้: %1$s</string>
     <string name="runningservices_settings_summary">เรียกดูและควบคุมบริการที่กำลังใช้งานอยู่</string>
     <string name="runningservices_settings_title">บริการที่กำลังใช้งาน</string>
+    <string name="saturday">วันเสาร์</string>
+    <string name="saturday_short">เสาร์</string>
+    <string name="saturday_shortest">เสาร์</string>
     <string name="save">บันทึก</string>
     <string name="saved_network">บันทึกโดย %1$s</string>
     <string name="screen_pinning_can_open_other_apps">แอปที่ตรึงไว้อาจเปิดแอปอื่นๆ</string>
@@ -1791,6 +1945,7 @@ d MMMM"</string>
     <string name="select_webview_provider_dialog_title">ตั้งค่าการใช้ WebView</string>
     <string name="select_webview_provider_title">การใช้ WebView</string>
     <string name="select_webview_provider_toast_text">ทางเลือกนี้ไม่สามารถใช้ได้อีกต่อไป ลองอีกครั้ง</string>
+    <string name="send">ส่ง</string>
     <string name="sensor_privacy_mode">ปิดเซ็นเซอร์</string>
     <string name="shared_data_delete_failure_text">มีข้อผิดพลาดในการลบข้อมูลที่แชร์</string>
     <string name="shared_data_no_accessors_dialog_text">ไม่มีสัญญาเช่าสำหรับข้อมูลที่แชร์นี้ คุณต้องการลบหรือไม่?</string>
@@ -1816,6 +1971,8 @@ d MMMM"</string>
     <string name="show_silently">แสดงการแจ้งเตือนโดยไม่ส่งเสียง</string>
     <string name="show_touches">แสดงการแตะ</string>
     <string name="show_touches_summary">แสดงการตอบสนองสำหรับการแตะ</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content">&lt;Data>กดปุ่ม &lt;font color=#e6e6e6>[เปิด/ปิด]&lt;/font> และ &lt;font color=#e6e6e6>[ระดับเสียง +]&lt;/font> ค้างไว้จนกว่าคุณจะเห็น &lt;img src=\"\">&lt;/Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content">&lt;Data>เลือก &lt;font color=#e6e6e6>[ลบข้อมูล (Wipe data)]&lt;/font> แล้วแตะ &lt;font color=#e6e6e6>[รีบูต (Reboot)]&lt;/font> หลังจากนั้น &lt;/Data></string>
     <string name="sim_state_locked_dialog_title">ซิมการ์ดไม่ถูกต้อง</string>
     <string name="sim_state_locked_puk_dialog_message">คุณป้อนรหัส PUK ไม่ถูกต้องเป็นอย่างน้อย %d ครั้ง ตอนนี้ซิมการ์ดของคุณถูกปิด เปลี่ยนซิมการ์ดนี้กับซิมการ์ดอื่น</string>
     <string name="simulate_color_space">จำลองระบบสี</string>
@@ -1837,6 +1994,7 @@ d MMMM"</string>
     <string name="ssl_ca_cert_warning">"เครือข่ายอาจ
 ถูกตรวจสอบ"</string>
     <string name="standby_bucket_summary">แอปสแตนบาย สถานะ: %s</string>
+    <string name="start_camera_error_try_again">ไม่สามารถเปิดกล้องได้ โปรดลองอีกครั้ง</string>
     <string name="start_dreams">โปรแกรมรักษาหน้าจอ</string>
     <string name="status_bar">แถบสถานะ</string>
     <string name="status_bar_airplane">โหมดบนเครื่องบิน</string>
@@ -1848,6 +2006,8 @@ d MMMM"</string>
     <string name="status_bar_clock_date_time_format_12">E d MMM, h:mm aa</string>
     <string name="status_bar_clock_date_weekday_format">EEEE dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE dd MMMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E
@@ -1886,20 +2046,63 @@ d MMM"</string>
     <string name="structure_face_data_input_error_overly_light">ตอนนี้แสงไฟสว่างเกินไป</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="summary_separator">" / "</string>
+    <string name="sunday">วันอาทิตย์</string>
+    <string name="sunday_short">อาทิตย์</string>
+    <string name="sunday_shortest">อาทิตย์</string>
     <string name="switch_bar_off">ปิด</string>
     <string name="switch_bar_on">เปิด</string>
     <string name="switch_system_user">กลับไปยังพื้นที่ปกติ</string>
     <string name="system_ui_tuner">ตัวรับสัญญาณ UI ระบบ</string>
     <string name="tap_to_renew_subscription_and_connect">แตะเพื่อต่ออายุการสมัครใช้บริการและเชื่อมต่อ</string>
     <string name="tap_to_sign_up">แตะเพื่อเข้าสู่ระบบ</string>
-    <string name="tether_settings_title_all">การแชร์เครือข่ายและฮอตสปอตแบบพกพา</string>
-    <string name="tether_settings_title_bluetooth">แชร์เครือข่ายผ่านบลูทูธ</string>
-    <string name="tether_settings_title_usb">แชร์เครือข่ายผ่าน USB</string>
-    <string name="tether_settings_title_usb_bluetooth">แชร์เครือข่าย</string>
+    <string name="tether_settings_title_all">แชร์เน็ตมือถือและฮอตสปอตแบบพกพา</string>
+    <string name="tether_settings_title_bluetooth">แชร์เน็ตมือถือผ่านบลูทูธ</string>
+    <string name="tether_settings_title_usb">แชร์เน็ตมือถือผ่าน USB</string>
+    <string name="tether_settings_title_usb_bluetooth">แชร์เน็ตมือถือ</string>
     <string name="tether_settings_title_wifi">ฮอตสปอตพกพา</string>
-    <string name="tethering_hardware_offload">การเร่งฮาร์ดแวร์การแชร์เครือข่าย</string>
-    <string name="tethering_hardware_offload_summary">ใช้การเร่งฮาร์ดแวร์การแชร์เครือข่าย หากมี</string>
-    <string name="tethering_settings_not_available">การตั้งค่าการแชร์เครือข่ายไม่พร้อมใช้งานสำหรับผู้ใช้นี้</string>
+    <string name="tethering_hardware_offload">การเร่งฮาร์ดแวร์การแชร์เน็ตมือถือ</string>
+    <string name="tethering_hardware_offload_summary">ใช้การเร่งฮาร์ดแวร์การแชร์เน็ตมือถือ หากมี</string>
+    <string name="tethering_settings_not_available">การตั้งค่าการแชร์เน็ตมือถือไม่พร้อมใช้งานสำหรับผู้ใช้นี้</string>
+    <string name="the_anniversary_of_lifting_martial_law">วันฉลองยกเลิกอัยการศึก</string>
+    <string name="the_anti_aggression_day">วันต่อต้านการกระทำรุนแรง</string>
+    <string name="the_arbor_day">วันอาร์เบอร์</string>
+    <string name="the_armed_forces_day">วันกองทัพจีน</string>
+    <string name="the_armys_day">วัน PLA</string>
+    <string name="the_childrens_day">วันเด็ก</string>
+    <string name="the_chinese_youth_day">วันเยาวชน</string>
+    <string name="the_christmas_day">คริสมาสต์</string>
+    <string name="the_double_ninth_festival">เทศกาลเก้าคู่</string>
+    <string name="the_dragon_boat_festival">เทศกาลแข่งเรือมังกร</string>
+    <string name="the_easter_day">วันอีสเตอร์</string>
+    <string name="the_eve_of_the_spring_festival">วันก่อนตรุษจีน</string>
+    <string name="the_fifth_day">ตรุษจีนวันที่ 5</string>
+    <string name="the_fools_day">วันโกหก</string>
+    <string name="the_forth_day">ตรุษจีนวันที่ 4</string>
+    <string name="the_hksar_establishment_day">วันสถาปนาเขตปกครองพิเศษฮ่องกง</string>
+    <string name="the_international_womens_day">วันสตรี</string>
+    <string name="the_laba_festival">เทศกาลล่าปา</string>
+    <string name="the_labour_day">วันแรงงาน</string>
+    <string name="the_lantern_festival">เทศกาลโคมไฟ</string>
+    <string name="the_mid_autumn_festival">เทศกาลกลางฤดูใบไม้ร่วง</string>
+    <string name="the_national_day">วันชาติ</string>
+    <string name="the_national_father_day">วันเกิดซุนยัตเซ็น</string>
+    <string name="the_new_years_day">ปีใหม่</string>
+    <string name="the_night_of_sevens">เทศกาล Qixi</string>
+    <string name="the_partys_day">วัน CPC</string>
+    <string name="the_peace_day">วันรำลึก</string>
+    <string name="the_retrocession_day">วันฉลองส่งมอบเกาะไต้หวัน</string>
+    <string name="the_second_day">ตรุษจีนวันที่ 2</string>
+    <string name="the_seventh_day">ตรุษจีนวันที่ 7</string>
+    <string name="the_sixth_day">ตรุษจีนวันที่ 6</string>
+    <string name="the_spirit_festival">เทศกาลผี</string>
+    <string name="the_spring_festival">วันตรุษจีน</string>
+    <string name="the_teachers_day">วันครู</string>
+    <string name="the_third_day">ตรุษจีนวันที่ 3</string>
+    <string name="the_tw_childrens_day">วันเด็ก</string>
+    <string name="the_tw_youth_day">วันเยาวชน</string>
+    <string name="the_united_nations_day">วันสหประชาชาติ</string>
+    <string name="the_valentines_day">วันวาเลนไทน์</string>
+    <string name="the_water_lantern_festival">เทศกาลโคมไฟน้ำ</string>
     <string name="thermal_shutdown_dialog_message">"โทรศัพท์ร้อนเกินไปจึงปิดเครื่องเพื่อให้เย็นลง ขณะนี้โทรศัพท์ทำงานเป็นปกติ
 
 โทรศัพท์อาจร้อนเกินไปหากคุณ
@@ -1908,10 +2111,18 @@ d MMM"</string>
 \u0009• ใช้โทรศัพท์ในอุณหภูมิที่สูง"</string>
     <string name="thermal_shutdown_message">ขณะนี้โทรศัพท์ทำงานเป็นปกติ</string>
     <string name="thermal_shutdown_title">โทรศัพท์ปิดไปเพราะร้อนมาก</string>
+    <string name="thursday">วันพฤหัสบดี</string>
+    <string name="thursday_short">พฤหัส</string>
+    <string name="thursday_shortest">พฤหัส</string>
     <string name="tile_unavailable">ไม่มี</string>
+    <string name="time_picker_dialog_title">ตั้งเวลา</string>
+    <string name="time_picker_label_hour">ชม.</string>
+    <string name="time_picker_label_minute">น.</string>
     <string name="time_unit_just_now">เมื่อสักครู่</string>
     <string name="title_convert_fbe">กำลังแปลงเป็นไฟล์ที่เข้ารหัส…</string>
     <string name="title_usb_accessory">อุปกรณ์เสริม USB</string>
+    <string name="today">วันนี้</string>
+    <string name="tomorrow">พรุ่งนี้</string>
     <string name="torch_high_temperature_warning">อุปกรณ์ของคุณร้อนเกินไป ไม่สามารถใช้ไฟฉายได้</string>
     <string name="touch_filtered_warning">เนื่องจากแอปหนึ่งได้บดบังคำขอสิทธิ์ ระบบจึงไม่สามารถยืนยันคำตอบของคุณสำหรับการตั้งค่าได้</string>
     <string name="track_frame_time">เรนเดอร์โปรไฟล์ HWUI</string>
@@ -1944,6 +2155,9 @@ d MMM"</string>
     <string name="tts_status_ok">รองรับ %1$s เต็มรูปแบบ</string>
     <string name="tts_status_requires_network">จำเป็นต้องเชื่อมต่อเครือข่าย ถึงจะรองรับ %1$s</string>
     <string name="tts_status_title">สถานะภาษาเริ่มต้น</string>
+    <string name="tuesday">วันอังคาร</string>
+    <string name="tuesday_short">อังคาร</string>
+    <string name="tuesday_shortest">อังคาร</string>
     <string name="tuner_app">แอป %1$s</string>
     <string name="tuner_circle">แวดวง</string>
     <string name="tuner_full_importance_settings">ส่วนควบคุมการแจ้งเตือนแบบเปิด/ปิด</string>
@@ -2091,11 +2305,15 @@ d MMM"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimal</string>
     <string name="wapi_yes">ใช่</string>
+    <string name="wednesday">วันพุธ</string>
+    <string name="wednesday_short">พุธ</string>
+    <string name="wednesday_shortest">พุธ</string>
     <string name="wifi_ap_unable_to_handle_new_sta">จุดเข้าใช้งานชั่วคราวเต็มรูปแบบ</string>
     <string name="wifi_auto_sel_wapi_cert">เลือกโดยอัตโนมัติ</string>
     <string name="wifi_cant_connect">ไม่สามารถเชื่อมต่อได้</string>
     <string name="wifi_cant_connect_to_ap">"ไม่สามารถเชื่อมต่อไปยัง '%1$s'ได้"</string>
     <string name="wifi_check_password_try_again">ตรวจสอบรหัสผ่านและลองอีกครั้ง</string>
+    <string name="wifi_connected_low_quality">คุณภาพต่ำ</string>
     <string name="wifi_connected_mac_randomization">การสุ่มตัวอย่าง MAC ที่เชื่อมต่อ</string>
     <string name="wifi_connected_no_internet">ไม่มีอินเทอร์เน็ต</string>
     <string name="wifi_coverage_extend">เปิด Wi-Fi ส่วนขยายที่ครอบคลุม</string>
@@ -2122,7 +2340,7 @@ d MMM"</string>
     <string name="wifi_enhanced_mac_randomization_summary">เมื่อเปิดใช้งานโหมดนี้ที่อยู่ MAC ของอุปกรณ์นี้อาจเปลี่ยนแปลงได้ทุกครั้งที่เชื่อมต่อกับเครือข่ายที่เปิดใช้งานการสุ่ม MAC</string>
     <string name="wifi_fail_to_scan">ไม่สามารถสแกนเครือข่ายได้</string>
     <string name="wifi_hand_sel_wapi_cert">ใบรับรอง WAPI</string>
-    <string name="wifi_is_off">Wi-Fi ปิดใช้งานอยู่</string>
+    <string name="wifi_is_off">Wi-Fi ปิดอยู่</string>
     <string name="wifi_limited_connection">จำกัดการเชื่อมต่อ</string>
     <string name="wifi_metered_label">ตามอัตราการใช้</string>
     <string name="wifi_no_internet">ไม่สามารถเชื่อมต่ออินเตอร์เน็ตได้</string>
@@ -2167,6 +2385,7 @@ d MMM"</string>
     <string name="wireless_charge_reset_device_detail">ตรวจสอบให้แน่ใจว่าตำแหน่งของอุปกรณ์ของคุณอยู่บนที่แท่นชาร์จอย่างถูกต้อง</string>
     <string name="wireless_charge_stop">หยุดการชาร์จไร้สาย</string>
     <string name="wrong_password">รหัสผ่านไม่ถูกต้อง</string>
+    <string name="yesterday">เมื่อวาน</string>
     <string name="zen_alarm_warning">คุณจะไม่ได้ยินเสียงปลุกครั้งถัดไปในเวลา %1$s</string>
     <string name="zen_alarm_warning_indef">คุณจะไม่ได้ยินเสียงปลุกครั้งถัดไปในเวลา %1$s เว้นแต่คุณจะปิดการปลุกนี้ไปก่อนแล้ว</string>
     <string name="zen_alarms_introduction">คุณจะไม่ถูกรบกวนจากเสียงและการสั่น ยกเว้นเสียงนาฬิกาปลุก คุณจะยังคงได้ยินสิ่งที่คุณเลือกเล่น เช่น เพลง วิดีโอ และเกม</string>

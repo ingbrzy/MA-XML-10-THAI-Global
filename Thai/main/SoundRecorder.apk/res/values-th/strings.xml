@@ -296,6 +296,7 @@
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -328,6 +329,11 @@
     <string name="network_tip_dialog_title">จำเป็นต้องเชื่อมต่อกับอินเตอร์เน็ต</string>
     <string name="network_unavailable_tip">เชื่อมต่อเครือข่ายและลองอีกครั้ง</string>
     <string name="new_record_name">บันทึกใหม่</string>
+    <string name="new_saf_permission_dialog_content">"อัปเดตสิทธิ์ของตัวบันทึกแล้ว อนุญาตให้โปรแกรมบันทึกเข้าถึงการบันทึกการโทร
+
+วิธีให้สิทธิ์
+แตะ \"%1$s\" แล้วเลือก \"%2$s\""</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">ถัดไป</string>
     <string name="night">เย็น</string>
     <string name="no_content">ยังไม่มีรายการที่นี่</string>
     <string name="no_file">ว่าง</string>
@@ -385,6 +391,8 @@
     <string name="permission_desc">รายละเอียดการอนุญาต</string>
     <string name="permission_dialog_cancel">ยกเลิก</string>
     <string name="permission_dialog_ok">การตั้งค่า</string>
+    <string name="permission_read_phone_state">เข้าถึงข้อมูลอุปกรณ์</string>
+    <string name="permission_read_phone_state_description">สำหรับการเข้าถึงสถานะการโทรเพื่อหยุดการบันทึกโดยอัตโนมัติเมื่อรับสาย</string>
     <string name="permission_record">บันทึกเสียง</string>
     <string name="permission_record_description">เพื่อให้บริการบันทึกเสียง</string>
     <string name="permission_storage">เข้าถึงที่เก็บข้อมูลอุปกรณ์</string>
@@ -625,6 +633,7 @@
     <string name="the_united_nations_day">วันสหประชาชาติ</string>
     <string name="the_valentines_day">วันวาเลนไทน์</string>
     <string name="the_water_lantern_festival">เทศกาลโคมไฟน้ำ</string>
+    <string name="this_folder">ใช้โฟลเดอร์นี้</string>
     <string name="thursday">วันพฤหัสบดี</string>
     <string name="thursday_short">พฤหัส</string>
     <string name="thursday_shortest">พฤหัส</string>

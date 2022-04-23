@@ -60,7 +60,7 @@
     <string name="all_app_category_default">หมวดหมู่</string>
     <string name="all_app_category_entertainment">ความบันเทิง</string>
     <string name="all_app_category_finance_business">การเงินและธุรกิจ</string>
-    <string name="all_app_category_games">เกมส์</string>
+    <string name="all_app_category_games">เกม</string>
     <string name="all_app_category_knowledge_education">ความรู้และการศึกษา</string>
     <string name="all_app_category_lifestyle">ไลฟ์สไตล์</string>
     <string name="all_app_category_news_reading">ข่าวและการอ่าน</string>
@@ -159,7 +159,7 @@
     <string name="auto_add_app_shortcut">วางแอปใหม่ไว้ที่หน้าจอหลัก</string>
     <string name="auto_delete_category_dialog_content">แอปปัจจุบันจะถูกลบออกจากหมวดหมู่นี้และหมวดหมู่จะถูกลบ ลบหมวดหมู่นี้ทันทีหรือไม่?</string>
     <string name="auto_delete_category_dialog_title">กำลังลบหมวดหมู่</string>
-    <string name="auto_disable_screenbuttons_summary">แตะสองครั้งที่ปุ่มนำทางใดๆ เพื่อเปิดใช้งานอีกครั้ง</string>
+    <string name="auto_disable_screenbuttons_summary">ปิดใช้งานปุ่มนำทางโดยอัตโนมัติเมื่อไม่แสดงแถบสถานะ แตะปุ่มการนำทางสองครั้งเพื่อเปิดใช้งานอีกครั้ง</string>
     <string name="auto_disable_screenbuttons_title">ปิดใช้งานปุ่มเมนูลัดโดยอัตโนมัติ</string>
     <string name="back">ย้อนกลับ</string>
     <string name="backup_fail">ไม่สามารถเปิดใช้การสำรองข้อมูลได้</string>
@@ -460,6 +460,7 @@
     <string name="menu_launcher_setting">การตั้งค่าชุดเรียกใช้ระบบ</string>
     <string name="menu_lock">รูปแบบล็อคหน้าจอหลัก</string>
     <string name="menu_more">เพิ่มเติม</string>
+    <string name="menu_no_word">ไม่ต้องแสดงข้อความ</string>
     <string name="menu_picktheme">เลือกธีม</string>
     <string name="menu_reset_scene">รีเซ็ตเป็นการจัดหน้าเป็นค่าเริ่มต้น</string>
     <string name="menu_search">ค้นหา</string>
@@ -472,6 +473,7 @@
     <string name="midnight">กลางคืน</string>
     <string name="minus_one_screen">App vault</string>
     <string name="miui_screen_config_title">การตั้งค่าหน้าจอหลัก</string>
+    <string name="miuix_access_state_desc">ที่เลือกไว้</string>
     <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
@@ -658,12 +660,17 @@
     <string name="recents_smallwindow_text">ปล่อยเพื่อเพิ่ม</string>
     <string name="recents_task_screening">กำลังฉายภาพ</string>
     <string name="recents_title_app_manager">จัดการแอป</string>
-    <string name="recents_title_game">เกมส์</string>
+    <string name="recents_title_game">เกม</string>
     <string name="recents_title_garbage_cleanup">ตัวทำความสะอาด</string>
     <string name="recents_title_garbage_deepclean">ทำความสะอาดเชิงลึก</string>
     <string name="recents_title_market">หาแอป</string>
     <string name="recents_title_security_scan">สแกนความปลอดภัย</string>
     <string name="recents_tv_small_window_text">หน้าต่างลอย</string>
+    <string name="recents_worldcirculate_text">ปล่อยเพื่อเลือก</string>
+    <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
+    <string name="recnets_worldcirculate_display_computer_info">แอปกำลังทำงานบน %s</string>
+    <string name="recnets_worldcirculate_display_default_info">แตะเพื่อนำกลับมาที่นี่</string>
+    <string name="recnets_worldcirculate_display_pad_info">แอปกำลังทำงานบน %s</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">แอปเสนอแนะ</string>
     <string name="recommend_apps_default_title">ว่าง</string>
@@ -731,6 +738,7 @@
     <string name="sort_by_not_defined">เรียงอัตโนมัติ</string>
     <string name="start_activity_failed">ชุดเรียกใช้ระบบไม่ทำงาน</string>
     <string name="starting_preset_app">กำลังเริ่ม…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">ใช้ได้ %1$s จากทั้งหมด %2$s</string>
     <string name="status_bar_recent_memory_info2" />

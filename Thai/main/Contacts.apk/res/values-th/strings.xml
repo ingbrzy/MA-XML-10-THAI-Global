@@ -147,6 +147,7 @@
     <string name="calllog_menu_blacklist">บล็อก</string>
     <string name="calllog_menu_edit_before_call">แก้ไข</string>
     <string name="calllog_menu_send_sms">ส่งข้อความ</string>
+    <string name="calllog_record_none_toast">ไม่มีบันทึกการโทรที่จะแสดง</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dนาที %2$dวิ</string>
     <string name="callrecordview_item_op_time_missed">โทรไม่ติด</string>
     <string name="callrecordview_item_op_time_only_minutes">%d นาที</string>
@@ -502,6 +503,7 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">ชื่อ</string>
     <string name="gallery">คลังภาพ</string>
     <string name="ghostData_company">บริษัท</string>
@@ -627,6 +629,7 @@
     <string name="menu_sync_remove">ลบกลุ่มที่ซิงค์</string>
     <string name="midnight">กลางคืน</string>
     <string name="miprofile_account_type">นามบัตร</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">แก้ไขข้อมูลส่วนตัว</string>
     <string name="miprofile_name">โปรไฟล์ของฉัน</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -720,6 +723,12 @@
     <string name="name_phonetic_middle">การออกเสียงชื่อกลาง</string>
     <string name="name_prefix">คำนำหน้าชื่อ</string>
     <string name="name_suffix">คำลงท้ายชื่อ</string>
+    <string name="new_saf_permission_dialog_content">"อัปเดตสิทธิ์ของรายชื่อผู้ติดต่อแล้ว อนุญาตให้รายชื่อผู้ติดต่อเข้าถึงการบันทึกการโทร
+
+วิธีให้สิทธิ์
+แตะ \"%1$s\" แล้วเลือก \"%2$s\""</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">ถัดไป</string>
+    <string name="new_saf_permission_dialog_title"><b>ต้องการคำร้องขออนุญาต</b></string>
     <string name="next">ถัดไป</string>
     <string name="next_birthday">วันเกิดครั้งต่อไป: %s</string>
     <string name="nfc_vcard_file_name">รายชื่อที่ได้รับผ่าน NFC</string>
@@ -777,6 +786,7 @@
     <string name="permission_retry_dialog_msg_pad">หากต้องการใช้ซิมการ์ดกับแอปนี้และจัดการรายชื่อติดต่อ โปรดอนุญาตให้แอปนี้เข้าถึงและแก้ไขรายชื่อติดต่อ ตลอดจนเข้าถึงข้อมูลอุปกรณ์ได้</string>
     <string name="permission_retry_setting">การตั้งค่า</string>
     <string name="phoneLabelsGroup">โทรศัพท์</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">หมายเลขยาวเกินไป</string>
     <string name="phone_primary">หลัก</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพในเครื่อง</string>
@@ -834,7 +844,7 @@
     <string name="preference_privacy_settings_title">ความเป็นส่วนตัว</string>
     <string name="preference_remove_duplicate">ควบรวมรายชื่อซ้ำเข้าด้วยกัน</string>
     <string name="preference_show_firewall_calllog">แสดงการโทรที่บล็อคในประวัติการโทร</string>
-    <string name="preference_show_yellowpage_tab_description">สมุดหน้าเหลืองอาจไม่ทำงานอย่างถูกต้องเมื่อปิดคุณลักษณะนี้</string>
+    <string name="preference_show_yellowpage_tab_description">สมุดหน้าเหลืองและบริการจะไม่แสดงหากคุณปิดคุณสมบัตินี้</string>
     <string name="preference_show_yellowpage_tab_title">แสดงสมุดหน้าเหลือง</string>
     <string name="preference_simple_mode_title">แสดงรูปภาพและข้อมูล</string>
     <string name="preference_smart_group_company_summary">จัดกลุ่มตามบริษัท</string>
@@ -845,6 +855,7 @@
     <string name="preference_smart_group_location_title">ที่ตั้ง</string>
     <string name="preference_smart_group_title">กลุ่มอัจฉริยะ</string>
     <string name="preference_tone_title">เสียง</string>
+    <string name="preference_yellowpage_function_setting">การตั้งค่าสมุดหน้าเหลือง</string>
     <string name="previous">ก่อนหน้านี้</string>
     <string name="privacy_password_message1">รหัสผ่านการปกป้องความเป็นส่วนตัวสำหรับรูปภาพ, บันทึกย่อและโฟลเดอร์ซ่อน</string>
     <string name="privacy_password_message2">ใช้รหัสผ่านการปกป้องความเป็นส่วนตัวสำหรับรูปภาพ, บันทึกย่อและโฟลเดอร์ซ่อน</string>
@@ -854,6 +865,7 @@
     <string name="privacy_password_title2">ใช้รหัสผ่านการปกป้องความเป็นส่วนตัว</string>
     <string name="privacy_password_title3">อัปเดตรหัสผ่านของคุณ</string>
     <string name="privacy_password_title4">อัปเดตรหัสผ่านแล้ว</string>
+    <string name="privacy_settings_blue_scan_connect">เชื่อมต่อกับอุปกรณ์ใกล้เคียง</string>
     <string name="privacy_settings_call_phone">โทรออก</string>
     <string name="privacy_settings_call_phone_description">สำหรับการโทรผ่านปุ่มลัดหน้าจอหลัก</string>
     <string name="privacy_settings_call_phone_description_for_pad">สำหรับการโทรในแอปของบุคคลที่สาม</string>
@@ -1017,6 +1029,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">ไม่มีสมาชิกกลุ่ม</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">บริษัท</string>
     <string name="smart_group_company_unavailable">ไม่มีข้อมูลบริษัท</string>
     <string name="smart_group_frequency_1">ภายในเดือนที่ผ่านมา</string>
@@ -1058,6 +1071,7 @@
     <string name="starred_contacts">รายการชื่นชอบ</string>
     <string name="status_available">ว่าง</string>
     <string name="status_away">ไม่อยู่</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">ไม่ว่าง</string>
     <string name="strequentList">รายการโปรด</string>
     <string name="success_message_import_from_account">นำเข้ารายชื่อแล้ว</string>
@@ -1116,6 +1130,7 @@
     <string name="the_united_nations_day">วันสหประชาชาติ</string>
     <string name="the_valentines_day">วันวาเลนไทน์</string>
     <string name="the_water_lantern_festival">เทศกาลโคมไฟน้ำ</string>
+    <string name="this_folder">ใช้โฟลเดอร์นี้</string>
     <string name="three_letter">DEF</string>
     <string name="thursday">วันพฤหัสบดี</string>
     <string name="thursday_short">พฤหัส</string>
@@ -1133,6 +1148,7 @@
     <string name="toast_for_failed_saving_nickname">ไม่สามารถบันทึกชื่อเล่น</string>
     <string name="toast_for_saving_nickname">ชื่อเล่นถูกบันทึกแล้ว</string>
     <string name="toast_join_with_empty_contact">พิมพ์ชื่อผู้ติดต่อก่อนที่จะรวม กับชื่ออื่น</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">อนุญาตให้คุณสมบัตินี้เชื่อมต่อกับอุปกรณ์ใกล้เคียงผ่าน บลูทูธ เพื่อให้สามารถนำเข้ารายชื่อจากอุปกรณ์อื่น</string>
     <string name="toast_not_show_camera_perm_req">เพื่อให้สามารถใช้กล้องถ่ายภาพโปรไฟล์ได้ ให้อนุญาตให้แอปนี้ถ่ายภาพและบันทึกวิดีโอก่อน</string>
     <string name="toast_not_show_location_perm_req">หากต้องการนำเข้ารายชื่อติดต่อจากอุปกรณ์อื่นผ่านบลูทูธ ให้อนุญาตให้แอปนี้เข้าถึงตำแหน่งของคุณก่อน</string>
     <string name="toast_not_show_read_calllogs_perm_req">หากต้องการดูประวัติการโทร ให้อนุญาตให้แอปนี้เข้าถึงประวัติการโทรก่อน</string>

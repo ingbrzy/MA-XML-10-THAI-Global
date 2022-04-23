@@ -75,11 +75,24 @@
     <plurals name="lv_video_count">
         <item quantity="other">%d วิดีโอ</item>
     </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">มี %1$1d จาก %2$2d ตอน</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">มี %1$1d จาก %2$2d ตอน</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">ทั้งหมด %d ตอน</item>
+    </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">เหลืออีก %s วินาที</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">เนื้อหาของคุณมีรายการ (%1$s) ที่ละเมิดมาตรฐานชุมชนของเรา บัญชีของคุณถูกระงับ %2$d วัน จนถึง %3$s.</item>

@@ -60,6 +60,7 @@
     <string name="alert_title">การแจ้งเตือนปฏิทิน</string>
     <string name="all_events">กำหนดการทั้งหมด</string>
     <string name="all_records">บันทึกทั้งหมด</string>
+    <string name="already_num">ระยะเวลาหลังจาก %s</string>
     <string name="am">AM</string>
     <string name="anniversary_event_title">ครบรอบปี: %1$s</string>
     <string name="anniversary_secondary_tag">ครบรอบปี</string>
@@ -138,6 +139,7 @@
     <string name="copy">คัดลอก</string>
     <string name="copy_email">คัดลอกที่อยู่อีเมล</string>
     <string name="copy_number">คัดลอกหมายเลขโทรศัพท์</string>
+    <string name="count_down_date_view">นับถอยหลัง</string>
     <string name="countdown_event_title">นับถอยหลัง: %1$s</string>
     <string name="countdown_notify_before_3_day_title">นับถอยหลัง: %1$s ใน %2$d วัน</string>
     <string name="countdown_notify_title">นับถอยหลัง: %1$s</string>
@@ -175,8 +177,10 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="date_today">" (วันนี้)"</string>
+    <string name="date_view">วันที่</string>
     <string name="day">วัน</string>
     <string name="day_view_new_event_hint">กำหนดการใหม่</string>
     <string name="default_reminder_mode">การแจ้งเตือน</string>
@@ -374,6 +378,7 @@
     <string name="import_action">นำเข้า</string>
     <string name="import_birthday">นำเข้าวันเกิด</string>
     <string name="imported">นำเข้าแล้ว</string>
+    <string name="in_progress">ดำเนินการอยู่</string>
     <string name="insert_event_dialog_btn_negative">ไม่ใช่</string>
     <string name="insert_event_dialog_btn_positive">ใช่</string>
     <string name="insert_event_dialog_message">เพิ่มเหตุการณ์นี้ไปยังปฏิทิน?</string>
@@ -390,7 +395,7 @@
     <string name="loading">รอสักครู่…</string>
     <string name="local_calendar_display_name">ปฎิทินในเครื่อง</string>
     <string name="local_owner_account_name">บันทึกไว้ในเครื่องแล้ว</string>
-    <string name="long_date_format">EEEE, dd MMMM yyyy</string>
+    <string name="long_date_format">EEEE dd MMMM yyyy</string>
     <string name="long_holiday_date_place_holder">dd MMMM</string>
     <string name="long_holiday_dates">เริ่มจาก %1$s</string>
     <string name="long_holiday_month_off">วันหยุดประจำเดือน</string>
@@ -405,7 +410,7 @@
     <string name="match_finished">ไม่สามารถตั้งการแจ้งเตือนความจำสำหรับเกมต่อเนื่องและเกมที่แล้วเสร็จ</string>
     <string name="match_select_activity_label">ลีก</string>
     <string name="match_zodiac">จับคู่จักรราศี</string>
-    <string name="medium_date_format">EEE, dd MMMM yyyy</string>
+    <string name="medium_date_format">EEE dd MMMM yyyy</string>
     <string name="mens_date_format_m_d">dd MMM</string>
     <string name="mens_date_format_y_m_d">dd MMM yyyy</string>
     <string name="menstrual_assistant">ประจำเดือน</string>
@@ -525,6 +530,7 @@
     <string name="movie_card_title">ภาพยนตร์</string>
     <string name="movie_card_trailer">ตัวอย่าง</string>
     <string name="name_title_menstruation_today_end">ประจำเดือนคาดว่าจะสิ้นสุดในวันนี้</string>
+    <string name="near_agenda_view">กำหนดการที่จะเกิดขึ้น</string>
     <string name="network_not_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="never">ไม่มี</string>
     <string name="new_event_description">ใหม</string>
@@ -728,9 +734,12 @@
     <string name="size_tera_byte">TB</string>
     <string name="skip">ข้าม</string>
     <string name="small_week_date_format">EEE dd/MM/yyyy</string>
+    <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
+    <string name="spec_agenda_view">กำหนดการพิเศษ</string>
     <string name="start_date_calculate">คำนวณ</string>
     <string name="stats_title">สถิติ</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="still_num">ระยะเวลาที่จะถึง %s</string>
     <string name="storage_permission_denied">อนุญาตการเข้าถึงที่เก็บข้อมูลก่อน</string>
     <string name="subscribe_card">สมัครทันที</string>
     <string name="subscribe_card_success">สมัครแล้ว! ตรวจสอบรายละเอียดในหน้าแรก</string>
@@ -855,6 +864,7 @@
     <string name="today">วันนี้</string>
     <string name="today_at_time_fmt">วันนี้ %s</string>
     <string name="today_icon_voice_contentdescription">กลับไปยังวันนี้</string>
+    <string name="today_no_event">ไม่มีกำหนดการในวันนี้</string>
     <string name="today_no_events">ไม่มีกำหนดการ</string>
     <string name="todays_panchang_title">Panchang ของวันนี้</string>
     <string name="todo_audio_event">"[งานเสียง] "</string>
@@ -920,7 +930,13 @@
     <string name="widget_events">กำหนดการถัดไป</string>
     <string name="widget_get_weather_info">เรียกดูข้อมูลสภาพอากาศ</string>
     <string name="widget_no_events">ไม่มีกำหนดการ</string>
+    <string name="widget_normal_agenda_tip_empty">ไม่มีกำหนดการในวันนี้</string>
+    <string name="widget_normal_agenda_today_done">กิจกรรมทั้งหมดเสร็จสมบูรณ์แล้วสำหรับวันนี้</string>
+    <string name="widget_normal_more_event">กำหนดการเพิ่มเติม</string>
+    <string name="widget_normal_new_event">เพิ่มกำหนดการ</string>
+    <string name="widget_normal_weekN">สัปดาห์ที่ %d</string>
     <string name="widget_select_style">เลือกรูปแบบที่ชอบ</string>
+    <string name="widget_spec_agenda_birth_today">วันนี้</string>
     <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_delete_description">ปฏิทินเป็นแอประบบที่ให้คุณสร้างและจัดการกำหนดการต่างๆ คุณสมบัติบางอย่างจะยังใช้งานได้หลังจากที่คุณลบทางลัดบนหน้าจอหลัก</string>
     <string name="xiaomi_calendar_delete_title">ลบ \"ปฏิทิน\" ออกจากหน้าจอหลัก?</string>

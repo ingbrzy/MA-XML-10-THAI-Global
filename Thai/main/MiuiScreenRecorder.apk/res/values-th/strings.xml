@@ -37,7 +37,7 @@
 แตะเพื่อดู"</string>
     <string name="app_notification_title">บันทึกหน้าจอ</string>
     <string name="auto_stop_title">บันทึกวิดีโอเรียบร้อย</string>
-    <string name="battery_not_allowed" formatted="false">ไม่สามารถบันทึกได้เมื่อแบตเตอรี่ต่ำกว่า 3% ตรวจสอบให้แน่ใจว่าแบตเตอรี่เหลืออย่างน้อย 20%</string>
+    <string name="battery_not_allowed_warning">ไม่สามารถบันทึกได้เมื่อแบตเตอรี่ต่ำกว่า %1$s ตรวจสอบให้แน่ใจว่าแบตเตอรี่เหลืออย่างน้อย %2$s</string>
     <string name="bit_rate">คุณภาพวิดีโอ</string>
     <string name="bit_rate_summary">คุณภาพสูงหมายถึงไฟล์ขนาดใหญ่</string>
     <string name="bubble_text">แตะเพื่อเริ่มการบันทึก</string>
@@ -149,8 +149,8 @@
     <string name="low_battery_for_pad">ชาร์จอุปกรณ์ของคุณก่อนเริ่มการบันทึก</string>
     <string name="low_battery_title">แบตเตอรี่ต่ำ</string>
     <string name="low_battery_warning">แบตเตอรี่ต่ำ หยุกการบันทึกและบันทึกวิดีโอ</string>
-    <string name="low_memory">คุณมีพื้นที่เก็บข้อมูลน้อยกว่า 1GB คุณสามารถบันทึกได้อีก 20 นาที</string>
     <string name="low_memory_for_pad">คุณมีพื้นที่เก็บข้อมูลน้อยกว่า %1$d GB คุณสามารถบันทึกได้ถึง %2$d นาทีในขณะนี้</string>
+    <string name="low_memory_for_phone">คุณมีพื้นที่เก็บข้อมูลน้อยกว่า %1$d GB คุณสามารถบันทึกได้ถึง %2$d นาทีในขณะนี้</string>
     <string name="low_memory_title">พื้นที่จัดเก็บไม่เพียงพอ</string>
     <string name="low_momery_warning">พื้นที่จัดเก็บข้อมูลไม่เพียงพอ หยุกการบันทึกและบันทึกวิดีโอ</string>
     <string name="memory_not_allowed">ไม่มีที่จัดเก็บข้อมูลที่พร้อมใช้งาน เพิ่มที่จัดเก็บข้อมูลเพื่อบันทึก</string>

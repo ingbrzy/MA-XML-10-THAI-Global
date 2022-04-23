@@ -753,6 +753,7 @@ ID:%s
     <string name="homepage_search_hint">ค้นหา</string>
     <string name="homepage_top_card_menu">ท็อป</string>
     <string name="hot_games">ยอดนิยม</string>
+    <string name="i_know">หยุด</string>
     <string name="identity">เลขประจำตัว</string>
     <string name="if_cancel">ยกเลิกการดำเนินการนี้?</string>
     <string name="ignore_add_game_center_dialog_this_week">ไม่ต้องแสดงสัปดาห์นี้</string>

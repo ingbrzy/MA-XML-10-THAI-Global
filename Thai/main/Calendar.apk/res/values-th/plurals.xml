@@ -45,6 +45,9 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">ใน %d นาที</item>
+    </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s วัน</item>
     </plurals>
@@ -141,6 +144,9 @@
     <plurals name="num_picker_hint">
         <item quantity="other">" วัน"</item>
     </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">%d ความคิดเห็นเพิ่มเติม</item>
+    </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">ทุกๆ %1$s ของ %2$s</item>
     </plurals>
@@ -177,10 +183,31 @@
     <plurals name="title_menstruation_predict_period">
         <item quantity="other">วันที่ %1$d โดยประมาณของประจำเดือน</item>
     </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">%d กำหนดการในวันนี้</item>
+    </plurals>
     <plurals name="travel_eta_advice">
         <item quantity="other">%2$s นาทึ ไปยัง %1$s</item>
     </plurals>
     <plurals name="weekN">
+        <item quantity="other">สัปดาห์ที่ %d</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s วัน</item>
+    </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d วัน</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d กำหนดการอยู่ระหว่างดำเนินการ</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">กำหนดการถัดไปใน %d นาที</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">%d กำหนดการในวันพรุ่งนี้</item>
+    </plurals>
+    <plurals name="widget_weekN">
         <item quantity="other">สัปดาห์ที่ %d</item>
     </plurals>
     <plurals name="work_days">

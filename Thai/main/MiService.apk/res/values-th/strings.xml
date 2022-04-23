@@ -99,7 +99,7 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
-    <string name="i_get_it">Got it</string>
+    <string name="i_get_it">รับทราบ</string>
     <string name="icon_add_description">เพิ่มปุ่มลัดหน้าจอหลัก</string>
     <string name="icon_remove_confirm">ลบออก</string>
     <string name="icon_remove_description_content">\"บริการและข้อเสนอแนะ\" เป็นแอประบบ คุณจะยังใช้งานได้ผ่านการตั้งค่าหลังจากที่คุณลบทางลัดบนหน้าจอหลัก</string>
@@ -185,6 +185,9 @@
     <string name="miui_feedback_edit_toast_screenshot_too_large">ไม่สามารถอัปโหลดรูปภาพหรือวิดีโอที่มีขนาดใหญ่กว่า 100MB</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">ป้อนชื่อแอป</string>
     <string name="miui_feedback_main_answer_title">มีคำตอบสำหรับคำถามนี้</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"สายด่วนบริการ: 0120-300-521
+เวลาทำการ: 9:00 - 18:00 (ยกเว้นธนาคารและวันหยุดตามกำหนดการ)
+อีเมล: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">คำถามที่พบบ่อย</string>
     <string name="miui_feedback_main_item_catch_full_log">ได้รับบันทึกการใช้งาน</string>
     <string name="miui_feedback_main_item_customer_service">บริการหลังการขาย</string>
@@ -201,7 +204,7 @@
     <string name="miui_feedback_main_submit_dialog_title">ส่งข้อเสนอแนะ</string>
     <string name="miui_feedback_main_title">ข้อเสนอแนะ</string>
     <string name="miui_feedback_main_withdraw">เพิกถอน</string>
-    <string name="miui_feedback_main_withdraw_consent_hint">หากดำเนินการต่อ คุณจะเพิกถอนความยินยอมของคุณต่อ นโยบายความเป็นส่วนตัว ของ %1$s ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้จะถูกลบออกภายในระยะเวลาที่กำหนดตามกฎหมายและข้อบังคับที่บังคับใช้ เว้นแต่จะกำหนดเป็นอย่างอื่น เนื่องจาก %2$s ให้บริการตามการรวบรวมข้อมูลส่วนบุคคลที่จำเป็น การถอนความยินยอมของคุณจะถือเป็นการปฏิเสธที่จะยอมรับบริการ %3$s เพิกถอนความยินยอมตอนนี้?</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">หากดำเนินการต่อ คุณจะเพิกถอนความยินยอมของคุณต่อ นโยบายความเป็นส่วนตัว ของ %1$s ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้จะถูกลบออกภายในระยะเวลาที่กำหนดตามกฎหมายและข้อบังคับที่บังคับใช้ เว้นแต่จะกำหนดเป็นอย่างอื่น เนื่องจาก %2$s ให้บริการตามการรวบรวมข้อมูลส่วนบุคคลที่จำเป็น การเพิกถอนความยินยอมของคุณจะถือเป็นการปฏิเสธที่จะยอมรับบริการ %3$s เพิกถอนความยินยอมตอนนี้?</string>
     <string name="miui_guide_accessibility_image_desc">รูปภาพ</string>
     <string name="miui_guide_clear_db_service">\"บริการและข้อเสนอแนะ\" กำลังล้างแคชภาษา…</string>
     <string name="miui_guide_footer_desc">คู่มือผู้เริ่มต้นถูกออกแบบมาเพื่อช่วยให้คุณเรียนรู้เพิ่มเติมเกี่ยวกับอุปกรณ์และ MIUI ของคุณ รูปภาพและวิดีโอบางรายการในคู่มือถูกสร้างขึ้นเพื่อการอ้างอิงเท่านั้นและอาจแตกต่างจากผลิตภัณฑ์จริง คุณสมบัติที่อธิบายในคู่มือนี้อาจแตกต่างกันไปตาม รุ่นอุปกรณ์ เวอร์ชั่น MIUI และสภาพแวดล้อมการใช้งานของคุณ</string>
@@ -340,10 +343,10 @@
     <string name="permission_user_protocol">ข้อตกลงการใช้งาน (จำเป็น)</string>
     <string name="pm">PM</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
-    <string name="privacy_policy_update_hint">"%1$s Privacy Policy was updated:
+    <string name="privacy_policy_update_hint">"นโยบายความเป็นส่วนตัวของ %1$s ได้รับการอัปเดตแล้ว:
 %2$s
-Read and agree to the new version of %3$s before you continue."</string>
-    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
+อ่านและยอมรับ %3$s เวอร์ชันใหม่ก่อนจะดำเนินการต่อ"</string>
+    <string name="privacy_policy_update_title">นโยบายความเป็นส่วนตัวที่อัปเดตแล้ว</string>
     <string name="public_authorize_now">การตั้งค่า</string>
     <string name="public_loading_text">รอสักครู่…</string>
     <string name="public_net_error_retry">ลองอีกครั้ง</string>
@@ -413,16 +416,16 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="tuesday">วันอังคาร</string>
     <string name="tuesday_short">อังคาร</string>
     <string name="tuesday_shortest">อังคาร</string>
-    <string name="user_must_known">Attention</string>
-    <string name="user_must_known_content">"You won't be able to keep using our services unless you agree to the new version of our %s. Agree to the updated Privacy Policy now?"</string>
+    <string name="user_must_known">โปรดทราบ</string>
+    <string name="user_must_known_content">คุณจะใช้บริการของเราต่อไปไม่ได้ เว้นแต่คุณจะยอมรับ %s เวอร์ชันใหม่ของเรา ยอมรับนโยบายความเป็นส่วนตัวที่อัปเดตตอนนี้หรือไม่?</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="wednesday">วันพุธ</string>
     <string name="wednesday_short">พุธ</string>
     <string name="wednesday_shortest">พุธ</string>
-    <string name="withdraw_consent_failed">"Couldn't withdraw consent"</string>
-    <string name="withdraw_consent_failed_hint">A server error occurred. Wait a minute or two and try again.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
-    <string name="withdrawing">Withdrawing consent…</string>
+    <string name="withdraw_consent_failed">ไม่สามารถเพิกถอนความยินยอมได้</string>
+    <string name="withdraw_consent_failed_hint">เซิร์ฟเวอร์ผิดพลาด กรุณารอสักครู่และลองอีกครั้ง</string>
+    <string name="withdraw_consent_failed_hint_connect_net">อุปกรณ์ของคุณจำเป็นต้องเชื่อมต่อกับเครือข่ายเพื่อให้คุณสามารถเพิกถอนความยินยอมได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
+    <string name="withdrawing">กำลังเพิกถอนความยินยอม…</string>
     <string name="yesterday">เมื่อวาน</string>
 </resources>

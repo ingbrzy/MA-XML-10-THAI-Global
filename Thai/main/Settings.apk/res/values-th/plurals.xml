@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ในครึ่งชั่วโมง</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ทันที</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">ใน %d นาที</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">เมื่อสักครู่</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+    </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">%d วันที่แล้ว</item>
         <item quantity="one">%d วันที่แล้ว</item>
@@ -86,6 +113,9 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d อุปกรณ์ที่พบ</item>
     </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">ทุก %d วินาที</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d อุปกรณ์</item>
     </plurals>
@@ -139,13 +169,31 @@
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d คนเชื่อมต่ออยู่</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="other">%s ชั่วโมง</item>
         <item quantity="one">1 ชั่วโมง</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ในครึ่งชั่วโมง</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ทันที</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">ใน%d นาที</item>
+    </plurals>
     <plurals name="interact_across_profiles_number_of_connected_apps">
         <item quantity="other">มี %d แอปที่เชื่อมต่ออยู่</item>
         <item quantity="one">มี %d แอปที่เชื่อมต่ออยู่</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">เมื่อสักครู่</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">แอป %1$d แอปจาก %2$d แอปมีสิทธิ์เข้าถึงตำแหน่ง</item>
@@ -229,6 +277,9 @@
     <plurals name="miui_wifi_wakeup_summary">
         <item quantity="other">Wi-Fi จะเปิดโดยอัตโนมัติเมื่ออุปกรณ์ของคุณตรวจพบเครือข่ายที่บันทึกไว้ใกล้ๆ และปิดหลังจาก %d นาทีหากไม่มีการสร้างการเชื่อมต่อ</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">เลือกไว้ %d รายการ</item>
+    </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d ซิม</item>
         <item quantity="one">%1$d ซิม</item>
@@ -260,6 +311,9 @@
     <plurals name="notifications_sent_weekly">
         <item quantity="other">การแจ้งเตือนประมาณ %d ครั้งต่อสัปดาห์</item>
         <item quantity="one">การแจ้งเตือนประมาณ %d ครั้งต่อสัปดาห์</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">มี %d แอปที่ใช้งานอยู่</item>

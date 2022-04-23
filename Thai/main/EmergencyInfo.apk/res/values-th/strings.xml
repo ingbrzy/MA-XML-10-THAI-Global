@@ -302,7 +302,6 @@
     <string name="enable_verbose_vendor_logging">เปิดการบันทึกเวนเดอร์แบบละเอียด</string>
     <string name="enable_verbose_vendor_logging_summary">รวมบันทึกเวนเดอร์เพิ่มเติมเฉพาะอุปกรณ์ไว้ในรายงานข้อบกพร่อง ซึ่งอาจมีข้อมูลส่วนตัว ใช้แบตเตอรี่มากขึ้น และ/หรือใช้พื้นที่เก็บข้อมูลมากขึ้น</string>
     <string name="enabled_by_admin">เปิดใช้โดยผู้ดูแลระบบ</string>
-    <string name="enhanced_connectivity">การเชื่อมต่อที่ปรับปรุงแล้ว</string>
     <string name="enhanced_connectivity_summary">เปิดใช้ฟีเจอร์การเชื่อมต่อที่ปรับปรุงแล้ว</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="external_source_trusted">อนุญาต</string>
@@ -335,7 +334,7 @@
     <string name="ims_reg_status_not_registered">ไม่ได้ลงทะเบียน</string>
     <string name="ims_reg_status_registered">ลงทะเบียนแล้ว</string>
     <string name="ims_reg_title">สถานะการลงทะเบียน IMS</string>
-    <string name="imsi_protection_warning">เครือข่ายนี้ได้รับรหัสที่ไม่ซ้ำกันซึ่งใช้ติดตามตำแหน่งอุปกรณ์ได้ <annotation id="url">ดูข้อมูลเพิ่มเติม</annotation></string>
+    <string name="imsi_protection_warning">เครือข่ายนี้จะได้รับรหัส SIM ซึ่งใช้ติดตามตำแหน่งอุปกรณ์ได้ <annotation id="url">ดูข้อมูลเพิ่มเติม</annotation></string>
     <string name="inactive_app_active_summary">ใช้งานอยู่ แตะเพื่อสลับ</string>
     <string name="inactive_app_inactive_summary">ไม่ได้ใช้งาน แตะเพื่อสลับ</string>
     <string name="inactive_apps_title">แอปที่สแตนด์บายอยู่</string>
@@ -518,7 +517,7 @@
     <string name="tap_to_sign_up">แตะเพื่อลงชื่อสมัครใช้</string>
     <string name="tether_settings_title_all">การปล่อยสัญญาณและฮอตสปอต</string>
     <string name="tether_settings_title_bluetooth">ปล่อยสัญญาณบลูทูธ</string>
-    <string name="tether_settings_title_usb">ปล่อยสัญญาณผ่าน USB</string>
+    <string name="tether_settings_title_usb">เชื่อมต่อเน็ตผ่าน USB</string>
     <string name="tether_settings_title_usb_bluetooth">การปล่อยสัญญาณ</string>
     <string name="tether_settings_title_wifi">ฮอตสปอตแบบพกพาได้</string>
     <string name="tethering_hardware_offload">การเร่งฮาร์ดแวร์การเชื่อมต่ออินเทอร์เน็ตผ่านมือถือ</string>
@@ -609,6 +608,7 @@
     <string name="wifi_cant_connect">ไม่สามารถเชื่อมต่อ</string>
     <string name="wifi_cant_connect_to_ap">ไม่สามารถเชื่อมต่อกับ \"%1$s\"</string>
     <string name="wifi_check_password_try_again">ตรวจสอบรหัสผ่านและลองอีกครั้ง</string>
+    <string name="wifi_connected_low_quality">คุณภาพต่ำ</string>
     <string name="wifi_connected_no_internet">ไม่มีอินเทอร์เน็ต</string>
     <string name="wifi_disabled_by_recommendation_provider">ไม่ได้เชื่อมต่อเนื่องจากเครือข่ายคุณภาพต่ำ</string>
     <string name="wifi_disabled_generic">ปิดอยู่</string>
@@ -622,7 +622,7 @@
     <string name="wifi_enhanced_mac_randomization_summary">เมื่อเปิดใช้โหมดนี้ ที่อยู่ MAC ของอุปกรณ์นี้อาจเปลี่ยนทุกครั้งที่เชื่อมต่อกับเครือข่ายที่มีการเปิดใช้การสุ่ม MAC</string>
     <string name="wifi_fail_to_scan">ไม่สามารถสแกนหาเครือข่าย</string>
     <string name="wifi_limited_connection">การเชื่อมต่อที่จำกัด</string>
-    <string name="wifi_metered_label">มีการวัดปริมาณอินเทอร์เน็ต</string>
+    <string name="wifi_metered_label">แบบจำกัดปริมาณ</string>
     <string name="wifi_no_internet">เข้าถึงอินเทอร์เน็ตไม่ได้</string>
     <string name="wifi_no_internet_no_reconnect">จะไม่เชื่อมต่อโดยอัตโนมัติ</string>
     <string name="wifi_not_in_range">ไม่อยู่ในพื้นที่ให้บริการ</string>

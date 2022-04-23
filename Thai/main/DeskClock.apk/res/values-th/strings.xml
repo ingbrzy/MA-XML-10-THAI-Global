@@ -37,6 +37,7 @@
     <string name="add_clock">เพิ่มนาฬิกา</string>
     <string name="add_common_timer">เพิ่มตัวนับถอยหลัง</string>
     <string name="add_timer">เวลาที่ใช้บ่อย</string>
+    <string name="add_timer_dialog_title">เพิ่มตัวนับถอยหลัง</string>
     <string name="add_timezone_title">เพิ่มเขตเวลา</string>
     <string name="afternoon">บ่าย</string>
     <string name="agree">ยอมรับ</string>
@@ -439,6 +440,10 @@
     <string name="reach_upper_limit">ไม่สามารถเพิ่มตัวนับถอยหลังเพิ่มเติมได้</string>
     <string name="read_external_storage_permission_desc">สำหรับตั้งเสียงเรียกเข้าเอง</string>
     <string name="read_internal_storage">เข้าถึงที่เก็บข้อมูลอุปกรณ์</string>
+    <string name="read_phone_state">เข้าถึงข้อมูลอุปกรณ์</string>
+    <string name="read_phone_state_desc">เข้าถึงสถานะการโทรเมื่อมีเสียงเตือน</string>
+    <string name="read_phone_state_desc_when_request">สำหรับการเข้าถึงสถานะการโทรเพื่อหยุดการเตือนโดยอัตโนมัติเมื่อรับสาย</string>
+    <string name="remark_hint">ป้อนป้ายกำกับ</string>
     <string name="remind_ringtone">เสียงเตือน</string>
     <string name="repeat_count">จำนวนครั้ง</string>
     <string name="repeat_count_value_five">5</string>
@@ -483,6 +488,8 @@
     <string name="shortcut_new_alarm">ตั้งการปลุก</string>
     <string name="shortcut_start_timer">เริ่มนับถอยหลัง</string>
     <string name="shortcut_stop_watch">เริ่มจับเวลา</string>
+    <string name="show_life_post_desc">รายงานตอนเช้าจะไม่แสดงหากคุณปิดคุณสมบัตินี้</string>
+    <string name="show_life_post_lable">แสดงรายงานตอนเช้า</string>
     <string name="shut_down_keep_screen">หน้าจอจะไม่ถูกเปิดไว้</string>
     <string name="shutdown_alarm_alert_enable_summary">สัญญาณเตือนการปิดเครื่องจะดับลงอย่างน้อย 10 นาทีหลังจากที่คุณปิดอุปกรณ์</string>
     <string name="shutdown_alarm_alert_enable_summary_new">เปิดเพื่อให้การปลุกที่ตั้งไว้ดังขึ้นเมื่ออุปกรณ์ของคุณปิดอยู่ เฉพาะการปลุกที่ตั้งไว้อย่างน้อย %d นาทีหลังจากที่คุณปิดอุปกรณ์เท่านั้นที่จะดังขึ้น</string>
@@ -491,10 +498,12 @@
     <string name="shutdown_alarm_enable_summary">เสียงปลุกจะดังหากตั้งไว้อย่างน้อย 10 นาทีหลังจากที่คุณปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="sleep_analysis">สถิติ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
     <string name="sleep_date_provider_text">ข้อมูลการนอนหลับจัดทำโดย Xiaomi Health</string>
+    <string name="sleep_date_provider_text_new">ข้อมูลการนอนหลับจัดทำโดย Mi Fitness</string>
     <string name="sleep_duration">"ระยะเวลาการนอนหลับ: "</string>
     <string name="sleep_duration_avg_text_diff">ระยะเวลาการนอนหลับเฉลี่ย (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">นอนไป %1$s %2$s</string>
@@ -510,6 +519,7 @@
     <string name="sleep_record">ติดตามการนอนหลับ</string>
     <string name="sleep_record_desc">เปิดเพื่อเริ่มการบันทึกข้อมูลการนอนหลับ</string>
     <string name="sleep_record_desc_detailed">ฟังก์ชั่นการติดตามการนอนหลับนั้นมาจาก Xiaomi Health เมื่อเปิดใช้งานแล้ว Xiaomi Health จะบันทึกการนอนหลับของคุณโดยอัตโนมัติตามการใช้งานโทรศัพท์สถิติกิจกรรมรวมถึงการนอนหลับและเวลาตื่นที่คุณตั้งค่า แสดงสถิติในรูปแบบของแผนภูมิ หากต้องการติดตามการนอนหลับที่แม่นยำยิ่งขึ้นอนุญาตให้ Xiaomi Health ทำการเริ่มอัตโนมัติ ข้อมูลที่เกี่ยวข้องทั้งหมดจะถูกเก็บไว้ในอุปกรณ์ของคุณซึ่งช่วยให้คุณจัดการได้อย่างง่ายดาย</string>
+    <string name="sleep_record_desc_detailed_new">การติดตามการนอนหลับมีให้โดยฟีเจอร์การนอนหลับ Mi Fitness หากคุณเปิดคุณสมบัตินี้ Mi Fitness จะรวบรวมและแสดงข้อมูลการนอนหลับของคุณโดยอัตโนมัติตามการใช้งานโทรศัพท์ กิจกรรม เวลาเข้านอนและเวลาตื่นนอนที่คุณตั้งไว้ หากต้องการติดตามการนอนหลับได้แม่นยำยิ่งขึ้น ให้อนุญาตให้ Mi Fitness เริ่มทำงานอัตโนมัติ</string>
     <string name="sleep_record_no_data">สถิติของคุณจะปรากฏที่นี่หลังจาก Xiaomi Health วิเคราะห์ข้อมูลได้เพียงพอ</string>
     <string name="sleep_remind">เตือนความจำเวลานอน</string>
     <string name="sleep_time">เข้านอน</string>
@@ -534,6 +544,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_reset_notification">รีเซ็ตนาฬิกาจับเวลาแล้ว</string>
     <string name="stopwatch_running_notification">นาฬิกาจับเวลา</string>
@@ -542,6 +553,7 @@
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตเพื่อเข้าถึงคุณสมบัติทั้งหมดได้</string>
     <string name="system_permission_main_purpose">ดูเวลา ตั้งค่าการเตือนและตัวจับเวลา โดยใช้นาฬิกาจับเวลา</string>
     <string name="system_permission_purpose">การสร้างการเตือนวันทำงานและการตั้งค่าเสียงเรียกเข้าที่กำหนดเอง</string>
@@ -609,6 +621,7 @@
     <string name="timer_alert_type_beach">ชายหาด</string>
     <string name="timer_alert_type_forest">ป่า</string>
     <string name="timer_alert_type_mute">ค่าเริ่มต้น</string>
+    <string name="timer_alert_type_no">ไม่มี</string>
     <string name="timer_alert_type_rain">ฝนละออง</string>
     <string name="timer_alert_type_spring_rain">ฝนฤดูร้อน</string>
     <string name="timer_alert_type_stove_fire">เตาไฟ</string>
@@ -620,6 +633,9 @@
     <string name="timer_continue">ดำเนินการต่อ</string>
     <string name="timer_continue_timer">จับเวลาต่อ</string>
     <string name="timer_created">เพิ่มตัวจับเวลาเรียบร้อย</string>
+    <string name="timer_desc_use_brush_teeth">แปรงฟัน</string>
+    <string name="timer_desc_use_facial_mask">มาส์กหน้า</string>
+    <string name="timer_desc_use_sleep">งีบ</string>
     <string name="timer_end_time">จับเวลาจะหยุดที่ %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -628,6 +644,7 @@
     <string name="timer_is_paused">ตัวจับเวลาถูกหยุดชั่วคราว</string>
     <string name="timer_item_delete">ลบ</string>
     <string name="timer_item_duration_display">%1$d นาที %2$d วินาที</string>
+    <string name="timer_item_edit">แก้ไข</string>
     <string name="timer_item_label_hint">ชื่อตั้งปลุก</string>
     <string name="timer_item_picker_hour">ชม.</string>
     <string name="timer_item_picker_minute">น.</string>
@@ -657,6 +674,8 @@
     <string name="upcoming_alarm_hint">คุณสามารถปิดการปลุกนี้ได้ทันที</string>
     <string name="update_health_app">อัปเดต Xiaomi Health</string>
     <string name="update_health_app_desc">ฟังก์ชั่นการติดตามการนอนหลับนั้นมาจาก Xiaomi Health โปรดอัปเดต Xiaomi Health เป็นเวอร์ชันล่าสุดเพื่อเข้าถึงคุณลักษณะที่เกี่ยวข้อง</string>
+    <string name="update_health_app_desc_new">คุณลักษณะการติดตามการนอนหลับจัดทำโดย Mi Fitness อัปเดต Mi Fitness เป็นเวอร์ชันล่าสุดเพื่อเข้าถึงคุณสมบัติที่เกี่ยวข้อง</string>
+    <string name="update_health_app_new">อัปเดต Mi Fitness</string>
     <string name="update_it">อัปเดต</string>
     <string name="update_notification_info">กำลังอัปเดตข้อมูลในพื้นหลัง…</string>
     <string name="usage_start">เริ่ม</string>
@@ -681,6 +700,7 @@
     <string name="wednesday_shortest">พุธ</string>
     <string name="week_ringtone_recommend_desc">เสียงปลุกธรรมชาติเล่นเสียงที่แตกต่างกันขึ้นอยู่กับวันที่ ตั้งเป็นนาฬิกาปลุกเริ่มต้น?</string>
     <string name="white_noise">เสียงรบกวนรอบข้าง</string>
+    <string name="white_noise_guide_desc">เพิ่มเสียงพื้นหลังเพื่อให้คุณมีสมาธิ</string>
     <string name="white_noise_selector">เลือกเสียง</string>
     <string name="workday_alarm_clock">การปลุกวันทำงาน</string>
     <string name="worldclock_edit_label">นาฬิกาโลก</string>
@@ -692,6 +712,7 @@
     <string name="worldclock_search_city">ระบุเมือง</string>
     <string name="worldclock_second_time">เวลาใน %s</string>
     <string name="worldclock_second_time_desc">"%s: "</string>
+    <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">นาฬิกา</string>
     <string name="worldclock_world_time">เขตเวลา</string>
     <string name="worldcolock_date_display_prefix">ปัจจุบัน: </string>
