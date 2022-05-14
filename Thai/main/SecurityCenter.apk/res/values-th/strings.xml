@@ -539,7 +539,7 @@
     <string name="app_permission_use_title">การอนุญาต</string>
     <string name="app_running_tip_dialog_negative">ยกเลิก </string>
     <string name="app_running_tip_dialog_positive">ตกลง</string>
-    <string name="app_running_tip_dialog_text">ออกจาก %1$s เพื่อป้องกันไม่ให้ทำงานในพื้นหลัง สิ่งนี้จะเร่งอุปกรณ์ของคุณและลดการใช้พลังงาน</string>
+    <string name="app_running_tip_dialog_text">ออกจากแอปนี้เพื่อป้องกันไม่ให้ทำงานในเบื้องหลัง สิ่งนี้จะเร่งอุปกรณ์ของคุณและลดการใช้พลังงาน</string>
     <string name="app_running_tip_dialog_title">ออกจากแอป</string>
     <string name="app_running_tip_uninstall">ถอนการติดตั้งแอปนี้</string>
     <string name="app_settings_link">การตั้งค่าเพิ่มเติมในแอป</string>
