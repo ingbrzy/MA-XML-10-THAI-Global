@@ -141,6 +141,7 @@
     <string name="hint_volume_down">ลดเสียง</string>
     <string name="hint_volume_up">เพิ่มเสียง</string>
     <string name="home_title_none">เลือกรายการ</string>
+    <string name="invisible_mode_error_tip">คุณอยู่ในโหมดไม่ระบุตัวตน ไม่สามารถบันทึกเสียงได้</string>
     <string name="is_checked">เลือกแล้ว</string>
     <string name="is_go_home">กลับไปยังตัวบันทึกหน้าจอ</string>
     <string name="is_go_home_summary">เปิดหน้าเริ่มต้นของตัวบันทึกหน้าจอหลังจากพักบันทึกชั่วคราว</string>

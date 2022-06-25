@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="about_to_recover">รอสักครู่…</string>
+    <string name="access_denied_info">มีความพยายามมากเกินไป รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="actionbar_button_up_description">ย้อนกลับ</string>
     <string name="afternoon">บ่าย</string>
     <string name="am">AM</string>
@@ -364,6 +365,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="msg_restore_with_metered_network_hint">หากคุณดำเนินการกู้คืนรายการเหล่านี้ ข้อมูลมือถือจะถูกใช้สำหรับการดาวน์โหลด</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> ของไฟล์จะถูกดาวน์โหลด"</string>
     <string name="network_error">เชื่อมต่อกับเครือข่าย</string>
+    <string name="network_error_info">เครือข่ายเกิดข้อผิดพลาด ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
+    <string name="network_timeout_info">ไม่สามารถเชื่อมต่อกับเครือข่าย ลองอีกครั้ง</string>
     <string name="night">เย็น</string>
     <string name="no_account">ยังไม่ได้ลงชื่อเข้าใช้บัญชี Mi</string>
     <string name="no_backup">ไม่มีการสำรองข้อมูลใน Xiaomi คลาวด์</string>
@@ -374,10 +377,13 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">สับสวิทช์สำรอง</string>
     <string name="other_device_main_space">พื้นที่ปกติ</string>
     <string name="other_device_second_space">พื้นที่ทับซ้อน</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">ไม่สามารถกู้คืนรายการในโหมดพีซี ปิดโหมดพีซีแล้วลองอีกครั้ง</string>
     <string name="pm">PM</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="process_whole_recovery">กำลังเรียกคืนค่า \"%s\"</string>
+    <string name="progressbar_title">กำลังตรวจสอบปัญหาด้านความปลอดภัย…</string>
     <string name="provision_back">ย้อนกลับ</string>
     <string name="provision_background_restore_more_data">เรียกคืนค่ารายการเพิ่มเติมในพื้นหลัง</string>
     <string name="provision_error_connect_msg">ทดสอบเครือข่ายแล้วลองอีกครั้ง การสำรองข้อมูลไม่สามารถใช้ได้เมื่ออุปกรณ์ของคุณออฟไลน์</string>
@@ -457,6 +463,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
+    <string name="system_error_info">ระบบไม่ว่าง รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="the_anniversary_of_lifting_martial_law">วันฉลองยกเลิกอัยการศึก</string>
     <string name="the_anti_aggression_day">วันต่อต้านการกระทำรุนแรง</string>
     <string name="the_arbor_day">วันอาร์เบอร์</string>
@@ -514,6 +521,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="tuesday">วันอังคาร</string>
     <string name="tuesday_short">อังคาร</string>
     <string name="tuesday_shortest">อังคาร</string>
+    <string name="unknown_error_info">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="unselected">ไม่ได้เลือกไว้</string>
     <string name="unsupported_home">อัปเดต MIUI เป็นเวอร์ชั่นล่าสุด</string>
     <string name="v7_preference_off">ปิด</string>

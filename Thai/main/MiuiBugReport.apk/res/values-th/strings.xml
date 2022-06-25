@@ -697,7 +697,7 @@ ID:%s
     <string name="system_app_select">แอปของระบบ</string>
     <string name="system_error_info">ระบบไม่ว่าง รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="tab_title_chat">คำถามที่พบบ่อย</string>
-    <string name="tab_title_my_reports">รายงานของฉัน</string>
+    <string name="tab_title_my_reports">ข้อเสนอแนะของฉัน</string>
     <string name="tab_title_preferences">การตั้งค่า</string>
     <string name="tab_title_report">ข้อเสนอแนะ</string>
     <string name="temporary_not_available">คุณลักษณะนี้ยังไม่เปิดให้บริการ</string>

@@ -83,11 +83,6 @@
         <item>เสียง Qualcomm® aptX™</item>
         <item>เสียงQualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>เสียง Qualcomm® aptX™ Adaptive</item>
-        <item>เสียง Qualcomm® aptX™ TWS+</item>
-        <item>LHDC V3/V4</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
@@ -96,13 +91,6 @@
         <item>เสียง Qualcomm® aptX™</item>
         <item>เสียง Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>เสียง Qualcomm® aptX™ Adaptive</item>
-        <item>เสียงQualcomm® aptX™ TWS+</item>
-        <item>LHDC V3/V4</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>ใช้งานตัวแปลงสัญญาณตัวเลือก</item>
-        <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -136,8 +124,6 @@
         <item>ปิดใช้อยู่</item>
         <item>ตัวกรอง</item>
         <item>เปิดใช้งาน</item>
-        <item>ตัวกรองส่วนหัว</item>
-        <item>ตัวกรองแพ็คเก็ตสื่อมีเดีย</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>เพิ่มสีสัน</item>
@@ -180,8 +166,8 @@
         <item>1080p (ปลอดภัย)</item>
         <item>4K</item>
         <item>4K (ปลอดภัย)</item>
-        <item>4K (อัปเกรด)</item>
-        <item>4K (อัปเกรด, ปลอดภัย)</item>
+        <item>4K (อัปสเกล)</item>
+        <item>4K (อัปสเกล, ปลอดภัย)</item>
         <item>720p, 1080p (หน้าจอคู่)</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
@@ -294,6 +280,20 @@
         <item>ไม่สำเร็จ</item>
         <item>บล็อกแล้ว</item>
         <item>หลีกเลี่ยงการเชื่อมต่อที่ไม่ดี</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>กำลังสแกน…</item>
+        <item>กำลังเชื่อมต่อ…</item>
+        <item>กำลังตรวจสอบสิทธิ์…</item>
+        <item>กำลังรับที่อยู่ IP…</item>
+        <item>เชื่อมต่อแล้ว</item>
+        <item>ถูกระงับ</item>
+        <item>กำลังยกเลิกการเชื่อมต่อ…</item>
+        <item>เลิกเชื่อมต่อแล้ว</item>
+        <item>ไม่สำเร็จ</item>
+        <item>ถูกบล็อก</item>
+        <item>หลีกเลี่ยงการเชื่อมต่อกับสัญญาณที่ไม่แรงพอชั่วคราว</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>ปิดภาพเคลื่อนไหว</item>

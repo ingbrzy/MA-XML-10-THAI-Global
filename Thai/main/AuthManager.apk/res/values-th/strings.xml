@@ -166,6 +166,7 @@
     <string name="clipboard_read_allow_once">%1$s ได้เข้าถึงรายการในคลิปบอร์ด</string>
     <string name="clipboard_read_deny_dialog_title">จำกัดการเข้าถึงคลิปบอร์ดสำหรับ %1$s</string>
     <string name="close">ปิด</string>
+    <string name="copy">คัดลอก</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -177,6 +178,7 @@
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="evening">บ่าย</string>
+    <string name="expand_button_title">ขั้นสูง</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -323,6 +325,7 @@
     <string name="night">เย็น</string>
     <string name="no">ไม่</string>
     <string name="noon">เที่ยงวัน</string>
+    <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="notification_click_tip">แตะเพื่อดูรายละเอียด</string>
     <string name="ok">ตกลง</string>
     <string name="perm_action_allow">อนุญาต</string>
@@ -366,6 +369,7 @@
     <string name="permission_warning_template_ask">อนุญาต %1$s สำหรับสิทธิ์ต่อไปนี้?</string>
     <string name="permisson_reject_notice_toast_text2">ไม่ได้รับอนุญาตให้ใช้งาน %1$s</string>
     <string name="pm">PM</string>
+    <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="real_location_off">ตำแหน่งโดยประมาณเปิดอยู่</string>
     <string name="real_location_on">ตำแหน่งโดยประมาณปิดอยู่</string>
     <string name="saturday">วันเสาร์</string>
@@ -390,6 +394,7 @@
     <string name="storage_policy_notify_gallery_title">%1$s ไม่ได้รับอนุญาตให้เข้าถึงคลังภาพ</string>
     <string name="storage_policy_notify_sociality_title">%1$s ไม่ได้รับอนุญาตให้เข้าถึงข้อความในแอปโซเชียลมีเดีย</string>
     <string name="storage_policy_notify_title">%1$s ไม่ได้รับอนุญาตให้เข้าถึงคลังภาพ</string>
+    <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
@@ -444,6 +449,8 @@
     <string name="tuesday">วันอังคาร</string>
     <string name="tuesday_short">อังคาร</string>
     <string name="tuesday_shortest">อังคาร</string>
+    <string name="v7_preference_off">ปิด</string>
+    <string name="v7_preference_on">เปิด</string>
     <string name="virtual_reject_notice_content">ส่งการตอบกลับว่างเปล่าไปยังแอปเพื่อปกป้องข้อมูลส่วนบุคคลของคุณ</string>
     <string name="virtual_reject_notice_title_calendar">เข้าถึงปฏิทินโดย %1$s</string>
     <string name="virtual_reject_notice_title_calllog">เข้าถึงประวัติการโทรโดย %1$s</string>

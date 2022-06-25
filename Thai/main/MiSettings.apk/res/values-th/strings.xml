@@ -652,6 +652,7 @@
     <string name="time_picker_dialog_title">ตั้งเวลา</string>
     <string name="time_picker_label_hour">ชม.</string>
     <string name="time_picker_label_minute">น.</string>
+    <string name="time_placeholder">--</string>
     <string name="title_activity_easy_mode">โหมดง่าย</string>
     <string name="title_mix_match_sound">Nature mix</string>
     <string name="title_mix_match_tips">Tap animals to listen to demos. You can add up to 5 animals to the mix.</string>

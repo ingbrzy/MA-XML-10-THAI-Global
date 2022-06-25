@@ -37,6 +37,7 @@
     <string name="add_private_files">เพิ่มไฟล์</string>
     <string name="add_remote">เพิ่มอุปกรณ์ระยะไกล</string>
     <string name="agree_all">ฉันได้อ่านและยอมรับข้อกำหนดและเงื่อนไขทั้งหมดต่อไปนี้</string>
+    <string name="agree_privacy_policy">ยอมรับนโยบายความเป็นส่วนตัว</string>
     <string name="all">ทั้งหมด</string>
     <string name="already_latest_version">เวอร์ชั่นปัจจุบันเป็นเวอร์ชั่นล่าสุดแล้ว</string>
     <string name="anonymous">ไม่ระบุชื่อ</string>
@@ -207,6 +208,7 @@
     <string name="fcm_fallback_notification_channel_label">เบ็ดเตล็ด</string>
     <string name="feedback_desc">อธิบายปัญหาที่คุณพบ</string>
     <string name="feedback_send_email_body_extra_info">ห้ามลบข้อมูลต่อไปนี้ มันจะช่วยให้เราค้นหาปัญหาได้ดีขึ้น</string>
+    <string name="feeling_ok">เฉยๆ</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">สามารถอ่านได้: </string>
     <string name="file_info_canwrite">สามารถเขียนได้: </string>
@@ -232,6 +234,7 @@
     <string name="ftp_username_hint">ชื่อผู้ใช้</string>
     <string name="gbk_summary">การเข้ารหัสเริ่มต้นของ Windows ภาษาจีนประยุกต์</string>
     <string name="gigabyteShort">GB</string>
+    <string name="great">พอใจมาก</string>
     <string name="grid_order">มุมมองตาราง</string>
     <string name="homepage_tab_recent">ล่าสุด</string>
     <string name="host">โฮสต์</string>
@@ -307,6 +310,7 @@
     <string name="not_connect_user">ไม่สามารถเชื่อมต่อ: %1$s และ %2$s</string>
     <string name="not_installed_documentsui">เอกสาร UI ไม่ได้ติดตั้ง</string>
     <string name="not_support_documentui">เอกสาร UI ไม่สนับสนุนบนอุปกรณ์นี้</string>
+    <string name="not_very_dissatisfied">ไม่พอใจ</string>
     <string name="notif_server_starting">กำลังเริ่มเซิร์ฟเวอร์ FTP…</string>
     <string name="notif_title">เซิร์ฟเวอร์ FTP กำลังทำงาน</string>
     <string name="notification_wechat_expired_empty">WeChat ได้ลบคลิปวีดีโอเหล่านี้ไปแล้ว</string>
@@ -439,6 +443,7 @@
     <string name="s5">สร้างกิจกรรมในปฏิทิน</string>
     <string name="s6">อนุญาตให้โฆษณาสร้างกิจกรรมในปฏิทินไหม</string>
     <string name="s7">โฆษณาทดสอบ</string>
+    <string name="satisfied">พอใจ</string>
     <string name="save_seven_day">ล้างสัปดาห์ละครั้ง</string>
     <string name="scan_code_download_from_play">สแกนรหัส QR นี้เพื่อดาวน์โหลดจาก Play สโตร์</string>
     <string name="search_description">ค้นหาไฟล์ทั้งหมดบนอุปกรณ์</string>
@@ -494,6 +499,8 @@
     <string name="storage_usb">ที่เก็บข้อมูล USB</string>
     <string name="storage_warning">ไม่สามารถใช้งานอุปกรณ์เก็บข้อมูลได้</string>
     <string name="str_clean">ล้าง</string>
+    <string name="switch_to_grid_mode">เปลี่ยนเป็นมุมมองตาราง</string>
+    <string name="switch_to_list_mode">เปลี่ยนเป็นมุมมองรายการ</string>
     <string name="tab_common_app">แอปและโฟลเดอร์</string>
     <string name="tab_more">เพิ่มเติม</string>
     <string name="terabyteShort">TB</string>
@@ -528,6 +535,7 @@
     <string name="user_notice_term_of_service">ข้อตกลงการใช้งาน</string>
     <string name="utf8_summary">รหัสเริ่มต้นระบบ FTP</string>
     <string name="version_name">เวอร์ชั่น </string>
+    <string name="very_dissatisfied">ไม่พอใจมาก</string>
     <string name="view_by_document">เรียกดูในไฟล์</string>
     <string name="wechat_video">วิดีโอจาก %s</string>
     <string name="whatsapp_cache_garbage">แคช</string>

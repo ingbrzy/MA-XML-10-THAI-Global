@@ -496,6 +496,7 @@
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -557,6 +558,7 @@
     <string name="note_sort_way">จัดเรียง</string>
     <string name="notealert_enter">เปิดบันทึก</string>
     <string name="notealert_ok">เลิกแสดง</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">บันทึกย่อ เป็นแอประบบ คุณจะไม่สามารถใช้แอปนี้ได้หลังจากถอนการติดตั้ง</string>
     <string name="notes_description_title">ถอนการติดตั้ง บันทึกย่อ?</string>
     <string name="notification_content_add_todo_from_other_app">คุณได้เพิ่มงานใหม่ แตะเพื่อดู</string>
@@ -946,6 +948,7 @@
     <string name="view_all_notes">เรียกดูทั้งหมด</string>
     <string name="warn_cannot_add_new_bullet">เพิ่มรายการหัวข้อย่อยใหม่ไม่ได้เนื่องจากบันทึกย่อยาวเกินไป</string>
     <string name="warn_cannot_add_new_checkbox">ไม่สามารถเพิ่มช่องทำเครื่องหมายใหม่ได้เนื่องจากบันทึกย่อยาวเกินไป</string>
+    <string name="warn_cannot_add_new_content">เพิ่มเนื้อหาใหม่ไม่ได้เนื่องจากบันทึกย่อยาวเกินไป</string>
     <string name="warn_cannot_add_new_doodle">เพิ่ม Doodle ใหม่ไม่ได้เนื่องจากบันทึกย่อยาวเกินไป</string>
     <string name="warn_cannot_add_new_element">เพิ่มรายการใหม่ไม่ได้เนื่องจากบันทึกย่อยาวเกินไป</string>
     <string name="warn_cannot_add_new_link_card">เพิ่มลิงค์ใหม่ไม่ได้เนื่องจากบันทึกย่อยาวเกินไป</string>
@@ -972,6 +975,8 @@
     <string name="widget_size_item_big">ใหญ่</string>
     <string name="widget_size_item_medium">กลาง</string>
     <string name="widget_size_item_small">เล็ก</string>
+    <string name="widget_size_item_super_big">ใหญ่มาก</string>
+    <string name="widget_size_not_support">อุปกรณ์นี้ไม่รองรับวิดเจ็ตขนาดใหญ่พิเศษ</string>
     <string name="widget_take_notes_title">บันทึกย่อ</string>
     <string name="yesterday">เมื่อวาน</string>
 </resources>

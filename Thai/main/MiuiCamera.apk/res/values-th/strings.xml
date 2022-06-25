@@ -666,6 +666,7 @@
     <string name="edit_smile">ยิ้ม</string>
     <string name="edit_solid">รูปร่าง</string>
     <string name="emoticon">แพ็กสติ๊กเกอร์</string>
+    <string name="empty" />
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="error_fail_to_start_audio_capture">ไม่สามารถเริ่มการถ่ายภาพด้วยเสียงได้</string>
@@ -874,6 +875,9 @@
     <string name="live_sticker_updating">กำลังอัปเดต…</string>
     <string name="live_workspace_title">ฉบับร่าง</string>
     <string name="live_workspace_title_edit">เลือกรายการที่จะลบ</string>
+    <string name="live_workspace_title_pause">หยุด</string>
+    <string name="live_workspace_title_play">เล่น</string>
+    <string name="live_workspace_title_pre_edit">เลือกรายการที่จะลบ</string>
     <string name="location_access_allow">ยอมรับ</string>
     <string name="location_fromkeyguard_not_permission">กล้องไม่ได้รับอนุญาตให้เข้าถึงตำแหน่งของคุณในขณะนี้ ปลดล็อกอุปกรณ์ของคุณก่อน</string>
     <string name="location_permission_des">จดจำตำแหน่งสำหรับรูปภาพและวิดีโอ</string>
@@ -1069,6 +1073,10 @@
     <string name="module_name_multi_camera">มัลติแคม</string>
     <string name="module_name_new_slow_motion">สโลโมชั่น</string>
     <string name="module_name_panorama">พานอรามา</string>
+    <string name="module_name_pixel_108m">108MP</string>
+    <string name="module_name_pixel_48m">48MP</string>
+    <string name="module_name_pixel_50m">50MP</string>
+    <string name="module_name_pixel_64m">64MP</string>
     <string name="module_name_portrait">ภาพบุคคล</string>
     <string name="module_name_professional">โปร</string>
     <string name="module_name_scanner">ตัวสแกน</string>
@@ -1206,6 +1214,7 @@
     <string name="popup_tips_near_range_mode">โฟกัสใกล้</string>
     <string name="popup_tips_privacy_watermark_edit">แก้ไขลายน้ำ</string>
     <string name="portait_effect_entry_blackwhite">ขาวดำ</string>
+    <string name="portait_effect_entry_cold_white">แสงดาว</string>
     <string name="portait_effect_entry_cool">มิ้นท์</string>
     <string name="portait_effect_entry_dusk">พลบค่ำ</string>
     <string name="portait_effect_entry_fairytale">วัยเด็ก</string>
@@ -1223,6 +1232,7 @@
     <string name="portait_effect_entry_riddle">ลูกกวาด</string>
     <string name="portait_effect_entry_romance">โรแมนติก</string>
     <string name="portait_effect_entry_sepia">ซีเปีย</string>
+    <string name="portait_effect_entry_shallots">แสงแดด</string>
     <string name="portait_effect_entry_story">เรื่องราว</string>
     <string name="portait_effect_entry_tea">ชา</string>
     <string name="portrait_bokeh_first_tips">"ใช้โหมดพอร์ทเทรตเพื่อเบลอ
@@ -1285,6 +1295,7 @@
     <string name="pref_camera_auxiliary_close">ปิด</string>
     <string name="pref_camera_auxiliary_exposure_feedback">การตรวจสอบการเปิดรับแสง</string>
     <string name="pref_camera_auxiliary_focus_peak">จุดโฟกัสสูงสุด</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">สูง</string>
     <string name="pref_camera_beautify_entry_low">ต่ำ</string>
     <string name="pref_camera_beautify_entry_normal">ปานกลาง</string>
@@ -1415,7 +1426,7 @@
     <string name="pref_camera_portrait_mode_entry_on">โหมดพอร์ทเทรตเปิดอยู่</string>
     <string name="pref_camera_portrait_mode_title">โหมดพอร์ทเทรต</string>
     <string name="pref_camera_predictive_shutter_description">ติดตามการเคลื่อนไหวเพื่อลดความเบลอของภาพถ่าย เด็ก สัตว์เลี้ยง และวัตถุอื่นๆ</string>
-    <string name="pref_camera_predictive_shutter_title">ติดตามการเคลื่อนไหว</string>
+    <string name="pref_camera_predictive_shutter_title">จับภาพเคลื่อนไหว</string>
     <string name="pref_camera_proximity_lock_summary">ล็อกท่าทางสัมผัสการแตะเมื่อใส่ในกระเป๋าพกพา</string>
     <string name="pref_camera_proximity_lock_title">โหมดพกพา</string>
     <string name="pref_camera_quick_settings">การตั้งค่าด่วน</string>
@@ -1477,10 +1488,12 @@
     <string name="pref_camera_tip_id_card">ตัวสแกน ID</string>
     <string name="pref_camera_touchafaec_entry_off">ปิด</string>
     <string name="pref_camera_touchafaec_entry_on">เปิด</string>
-    <string name="pref_camera_track_focus_intro_description">When you take photos or shoot videos with moving subjects, this feature detects people, cats, and dogs, and keeps them in focus automatically. Additionally, you can also double tap any subject to track movement.</string>
-    <string name="pref_camera_track_focus_intro_goto">Turn on</string>
+    <string name="pref_camera_track_eye_preferred_description">ติดตามการเคลื่อนไหวของดวงตาเพื่อให้ดวงตาอยู่ในโฟกัสเมื่อมีคนอยู่ในเฟรม</string>
+    <string name="pref_camera_track_eye_preferred_title">โฟกัสตรวจจับดวงตา</string>
+    <string name="pref_camera_track_focus_intro_description">เมื่อคุณถ่ายภาพหรือถ่ายวิดีโอด้วยวัตถุที่เคลื่อนไหว คุณสมบัตินี้จะตรวจจับคน แมว และสุนัข และทำให้พวกเขาอยู่ในโฟกัสโดยอัตโนมัติ นอกจากนี้ คุณยังสามารถแตะสองครั้งที่วัตถุใดก็ได้เพื่อติดตามการเคลื่อนไหว</string>
+    <string name="pref_camera_track_focus_intro_goto">เปิดใช้งาน</string>
     <string name="pref_camera_track_focus_preferred_description">ให้ คน แมว และสุนัข ที่เคลื่อนไหว อยู่ในโฟกัสโดยอัตโนมัติหรือแตะสองครั้งที่วัตถุเพื่อติดตาม</string>
-    <string name="pref_camera_track_focus_preferred_title">การติดตามโฟกัส</string>
+    <string name="pref_camera_track_focus_preferred_title">โฟกัสตรวจจับการเคลื่อนไหว</string>
     <string name="pref_camera_ubifocus_title">ปรับจุดโฟกัส</string>
     <string name="pref_camera_ultra_wide_ldc_description">แก้ไขวัตถุที่บิดเบี้ยวโดยอัตโนมัติ</string>
     <string name="pref_camera_ultra_wide_ldc_title">แก้ไขความผิดเพี้ยนของภาพมุมกว้างพิเศษ</string>
@@ -1496,6 +1509,7 @@
     <string name="pref_camera_video_tag_description">แตะ \"แท็ก\" ในขณะที่ถ่ายวิดีโอเพื่อให้สามารถย้อนกลับไปยังช่วงเวลาที่ทำเครื่องหมายไว้ระหว่างการเล่น</string>
     <string name="pref_camera_volumekey_function_entry_shutter">ชัตเตอร์</string>
     <string name="pref_camera_volumekey_function_entry_timer">นับถอยหลังชัตเตอร์</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Timer (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">ระดับเสียง</string>
     <string name="pref_camera_volumekey_function_entry_zoom">ซูม</string>
     <string name="pref_camera_volumekey_function_title">หน้าที่ของปุ่มเพิ่มลดเสียง</string>
@@ -1549,6 +1563,7 @@
     <string name="pref_hdr10_hdr10plus_video_mode_description">บันทึกวิดีโอความละเอียดสูงใน HDR10+/HDR10 เพื่อปรับสีและช่วงไดนามิกให้เหมาะสม วิดีโอที่บันทึกสามารถเล่นได้บนอุปกรณ์ที่รองรับ HDR10+/HDR10 เท่านั้น</string>
     <string name="pref_hdr10_video_mode_description">ปรับสีและความเปรียบต่างให้เหมาะสมกับวิดีโอ 4K และ 8K โดยอัตโนมัติ วิดีโอที่ปรับให้เหมาะสมสามารถเล่นได้บนอุปกรณ์ที่รองรับ HDR10 เท่านั้น</string>
     <string name="pref_hdr10plus_video_mode_description">ปรับสีให้เหมาะสมและปรับความเปรียบต่างสำหรับวิดีโอ 4K และ 8K คุณสมบัตินี้ใช้ได้กับอุปกรณ์ที่รองรับ HDR10+ เท่านั้น</string>
+    <string name="pref_hybrid_video_mode_description">ใช้เทคโนโลยี HLG เพื่อเพิ่มสีสันและช่วงไดนามิกของวิดีโอที่บันทึกด้วยความละเอียดสูง</string>
     <string name="pref_i_n_r_b">ลดสัญญาณรบกวนอัจฉริยะ</string>
     <string name="pref_k_h">หูฟังมอนิเตอร์</string>
     <string name="pref_k_s_i">ตรวจสอบเสียงที่บันทึกโดยใช้หูฟังแบบมีสายเมื่อเชื่อมต่อ</string>

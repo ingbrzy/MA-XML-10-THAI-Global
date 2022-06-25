@@ -27,6 +27,18 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
+    <plurals name="comment_push_merged_message_desc_multiple">
+        <item quantity="other">จาก %3$d คน รวมถึง @%1$s และ @%2$s</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_title">
+        <item quantity="other">คุณมี %1$d ข้อความที่ยังไม่ได้อ่าน</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%1$s วัน</item>
+    </plurals>
+    <plurals name="delete_download_history_confirm">
+        <item quantity="other">ลบ %1$s รายการในประวัติการดาวน์โหลด</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
@@ -48,11 +60,19 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
-        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="today_voted_text_bottom">
+        <item quantity="other">ปิดการลงคะแนนแล้ว โหวตแล้ว %1$d คน</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_1">
+        <item quantity="other">"โหวตแล้ว %1$d คน "</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_2">
+        <item quantity="other">ผลลัพธ์จะประกาศใน %1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="update_apps_selected">
+        <item quantity="other">%d แอปที่เลือกไว้</item>
     </plurals>
 </resources>

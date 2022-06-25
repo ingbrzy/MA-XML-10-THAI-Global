@@ -40,41 +40,8 @@
     <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
-    <string name="access_denied_info">มีความพยายามมากเกินไป รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="account_and_cloud">บัญชี</string>
-    <string name="account_bind_secure_email_title">เพิ่มอีเมลที่ใช้กู้คืนบัญชี</string>
-    <string name="account_bind_secure_phone_title">เพิ่มหมายเลขโทรศัพท์ที่ใช้กู้คืนบัญชี</string>
-    <string name="account_crop_user_avatar">ตัดกรอบภาพ</string>
-    <string name="account_empty_user_name">ป้อนชื่อบัญชี Mi</string>
-    <string name="account_error_all_space_user_name">ชื่อผู้ใช้ไม่สามารถเป็นเครื่องหมายเว้นวรรคทั้งหมดได้</string>
-    <string name="account_error_invalid_user_name">ชื่อไม่สามารถประกอบด้วย &lt;, >, หรือ /</string>
-    <string name="account_error_longer_user_name">ชื่อต้องมีความยาวไม่เกิน 20 ตัว</string>
-    <string name="account_error_shorter_user_name">ชื่อต้องมีความยาวอย่างน้อย 2 อักขระ</string>
-    <string name="account_error_user_birthday">วันเกิดที่คุณป้อนไม่ถูกต้อง</string>
-    <string name="account_error_user_name">ชื่อเล่นนี้ไม่ถูกต้อง ลองชื่ออื่น</string>
-    <string name="account_invalid_user_avatar">รูปภาพไม่ถูกต้อง กรุณาลองใช้ภาพอื่น</string>
-    <string name="account_limit_update_birthday">ไม่สามารถอัปเดตวันเกิดได้ในตอนนี้</string>
     <string name="account_logout">ออกจากระบบ</string>
-    <string name="account_no_set">ไม่ใส่</string>
-    <string name="account_none_bind_info">ไม่ใส่</string>
-    <string name="account_none_user_name">ไม่ใส่</string>
-    <string name="account_secure_info_pref_title">ข้อมูลบัญชี</string>
-    <string name="account_security_info_pref_title">ข้อมูลความปลอดภัย</string>
-    <string name="account_user_avatar">รูปโปรไฟล์</string>
-    <string name="account_user_avatar_from_album">คลังภาพ</string>
-    <string name="account_user_avatar_from_camera">กล้อง</string>
-    <string name="account_user_base_info">ข้อมูลพื้นฐาน</string>
-    <string name="account_user_birthday">วันเกิด</string>
-    <string name="account_user_details">ข้อมูลส่วนบุคคล</string>
-    <string name="account_user_email">อีเมลที่ใช้กู้คืนบัญชี</string>
-    <string name="account_user_gender">เพศ</string>
-    <string name="account_user_id">รหัสบัญชี Mi</string>
-    <string name="account_user_name">ชื่อเล่น</string>
-    <string name="account_user_name_dialog_title">ป้อนชื่อผู้ใช้</string>
-    <string name="account_user_other_info">รายละเอียด</string>
-    <string name="account_user_phone">โทรศัพท์ที่ใช้กู้คืนบัญชี</string>
-    <string name="account_user_region">พื้นที่</string>
-    <string name="action_add_phone">เพิ่มหมายเลขโทรศัพท์</string>
     <string name="action_item_add">เพิ่มไปยัง</string>
     <string name="action_item_add_song">เพิ่มในรายการเพลง</string>
     <string name="action_item_add_to_current_playlist">คิว</string>
@@ -92,10 +59,7 @@
     <string name="action_item_remove_from_favorite">เลิกชื่นชอบ</string>
     <string name="action_item_share">แชร์</string>
     <string name="action_settings">การตั้งค่า</string>
-    <string name="action_update_phone">เปลี่ยนหมายเลขโทรศัพท์</string>
     <string name="actionbar_button_up_description">ย้อนกลับ</string>
-    <string name="activate_email_notice">กรุณายืนยันบัญชีให้เรียบร้อยภายใน 24 ชั่วโมง</string>
-    <string name="activity_not_found_notice">ไม่พบแอป</string>
     <string name="ad_close">ปิด</string>
     <string name="ad_data_exception">ข้อมูลโฆษณาผิดพลาด</string>
     <string name="ad_recommend">แสดงโฆษณา</string>
@@ -105,7 +69,6 @@
     <string name="add_to_last_of_playlist">เพิ่มไว้ท้ายสุดของรายการเพลง</string>
     <string name="add_to_playlist">เพิ่มลงในคิว</string>
     <string name="add_to_playlist_successful">เพิ่มเรียบร้อย</string>
-    <string name="add_to_trust_device">นี้คืออุปกรณ์ที่ฉันเชื่อถือ</string>
     <string name="added_next_play">เพิ่มไปยังเล่นถัดไปแล้ว</string>
     <string name="afternoon">บ่าย</string>
     <string name="agreement_desc">ข้อตกลงการใช้งาน (จำเป็น)</string>
@@ -157,7 +120,6 @@
     <string name="audio_ad_countdown">ข้ามโฆษณาใน %sวิ</string>
     <string name="audio_ad_pass">ข้ามโฆษณา</string>
     <string name="audio_picker_title">เลือกเพลง</string>
-    <string name="auth_fail_warning">เซสชันหมดอายุ เข้าสู่ระบบอีกครั้ง</string>
     <string name="auto_recommend">อัตโนมัติ (แนะนำ)</string>
     <string name="auto_sound_quality">อัตโนมัติ</string>
     <string name="auto_update">อัปเดตโดยอัตโนมัติ</string>
@@ -170,7 +132,6 @@
     <string name="back">ย้อนกลับ</string>
     <string name="back_confirm">แตะอีกครั้งเพื่อเล่นแอปบนพื้นหลังแทน</string>
     <string name="best_experience">ประสบการณ์ที่ดีที่สุด</string>
-    <string name="bind_sign_in_title">เพิ่มบัญชี Mi</string>
     <string name="bluetooth_device">อุปกรณ์เสียงบลูทูธ</string>
     <string name="bottomsheet_action_expand_halfway">ขยายรายการครึ่งหนึ่ง</string>
     <string name="btn_text_edit">แก้ไข</string>
@@ -186,26 +147,20 @@
     <string name="cancel">ยกเลิก</string>
     <string name="cancel_running_download">ยกเลิก</string>
     <string name="cannot_download_to_sdcard_hint">ไม่สามารถดาวน์โหลดรายการไปยังการ์ด SD ได้เนื่องจากข้อจำกัดทางลิขสิทธิ์ รายการจะถูกดาวน์โหลดไปยังที่เก็บข้อมูลภายในแทน</string>
-    <string name="change_activate_email">เปลี่ยนที่อยู่อีเมล</string>
     <string name="change_download_quality">แก้ไขคุณภาพการดาวน์โหลด</string>
-    <string name="change_password">เปลี่ยนรหัสผ่าน</string>
     <string name="character_counter_content_description">ป้อนอักขระแล้ว %1$d จาก %2$d ตัว</string>
     <string name="character_counter_overflowed_content_description">เกินจำนวนอักขระสูงสุด %1$d จาก %2$d</string>
     <string name="checking_new_version">กำลังตรวจสอบเพื่ออัปเดต…</string>
     <string name="choose_download_quality">เลือกคุณภาพการดาวน์โหลด</string>
     <string name="choose_music_lang_pref">ภาษาที่ต้องการสำหรับเพลง</string>
     <string name="choose_stream_quality">เลือกคุณภาพการรับฟัง</string>
-    <string name="choose_to_signin">ใช่</string>
-    <string name="choose_to_signup">ไม่ ฉันต้องการสร้างบัญชี</string>
     <string name="clear_text_end_icon_content_description">ล้างข้อความ</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="click_and_watch_video_tip">แตะเพื่อเล่นมิวสิควิดีโอ</string>
     <string name="click_to_add_album_cover_and_lyric">แตะเพื่อเพิ่มปกอัลบั้มและเนื้อเพลง</string>
     <string name="click_to_shuffle">แตะเพื่อชัฟเฟอร์</string>
     <string name="close">ปิด</string>
-    <string name="close_country_code_content_description">ลบรหัสประเทศ</string>
     <string name="close_music_time">"เวลาที่เหลือ: "</string>
-    <string name="collect_diagnosis_log">รวบรวมบันทึกการใช้</string>
     <string name="columbus_ad_flag_text">โฆษณา</string>
     <string name="columbus_skip_ad">ข้าม</string>
     <string name="comment_format" formatted="false">%s: %s</string>
@@ -228,13 +183,10 @@
     <string name="common_signin_button_text">ลงชื่อเข้าใช้</string>
     <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
     <string name="confirm">ตกลง</string>
-    <string name="confirm_activate_email">ตรวจสอบแล้ว</string>
-    <string name="confirm_bundled_phone_dialog_title">ยืนยันการผูกกับหมายเลขโทรศัพท์</string>
     <string name="confirm_exit">บันทึกการเปลี่ยนแปลง?</string>
-    <string name="confirm_new_pwd">ยืนยันรหัสผ่านใหม่</string>
-    <string name="confirm_unbundled_phone_dialog_message">หมายเลขโทรศัพท์นี้ไม่ได้ผูกกับบัญชี Mi %2$s เมื่อ %1$s หากดำเนินการต่อหมายเลขโทรศัพท์จะไม่ผูกกับบัญชี Mi %3$s อีกต่อไป ดำเนินการต่อหรือไม่?</string>
     <string name="connect_now">เชื่อมต่อ</string>
     <string name="connecting_apk">กำลังเชื่อมต่อ…</string>
+    <string name="content_failed_to_load">ไม่สามารถโหลดเนื้อหาได้</string>
     <string name="copy">คัดลอก</string>
     <string name="create_playlist">สร้างรายการเพลง</string>
     <string name="create_playlist_failure">สร้างรายการเพลงไม่ได้</string>
@@ -272,10 +224,6 @@
     <string name="desktop_lyric_textsize">ข้อความ</string>
     <string name="device_connected">เชื่อมต่อแล้ว</string>
     <string name="device_not_connected">ไม่เชื่อมต่อ</string>
-    <string name="diagnosis_log_send_failed">ไม่สามารถส่งบันทึกได้ ลองอีกครั้ง.</string>
-    <string name="diagnosis_log_sent_format">"ส่งบันทึกการใช้สำเร็จแล้ว
-ID:%s
-ส่งรหัสนี้ไปยังที่ปรึกษา"</string>
     <string name="dialog_cannot_resume">การดาวน์โหลดถูกขัดจังหวะ ไม่สามารถดาวน์โหลดต่อได้</string>
     <string name="dialog_clear_history">ล้างรายการเพลงที่เล่นล่าสุดหรือไม่?</string>
     <string name="dialog_confirm_delete_checkbox_message">ลบไฟล์ในเครื่องด้วย</string>
@@ -327,9 +275,6 @@ ID:%s
     <string name="discover_more_music">ค้นหาเพลงเพิ่มเติม</string>
     <string name="do_not_remind_this_version">ไม่ต้องเตือนฉันเกี่ยวกับเวอร์ชันนี้</string>
     <string name="do_not_support_google_voice_search">Google Voice Search ไม่รองรับบนอุปกรณ์ของคุณ</string>
-    <string name="doing_login">กำลังเข้าระบบ…</string>
-    <string name="doing_query_account">กำลังตรวจสอบข้อมูลบัญชี…</string>
-    <string name="doing_register">กำลังสร้างบัญชีผู้ใช้…</string>
     <string name="download">ดาวน์โหลด</string>
     <string name="download_added_to_list">เพิ่มลงในรายการดาวน์โหลดแล้ว</string>
     <string name="download_apk_desktop_installing">กำลังติดตั้ง</string>
@@ -366,7 +311,9 @@ ID:%s
     <string name="download_method">ดาวน์โหลด</string>
     <string name="download_no_application_title">ไม่สามารถเปิดไฟล์ได้</string>
     <string name="download_paused_in_power_save_mode">การดาวน์โหลดจะถูกหยุดขณะอยู่ในโหมดประหยัดแบตเตอรี่</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">กำลังดาวน์โหลด…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">คุณภาพการดาวน์โหลด</string>
     <string name="download_quality_summary">การตั้งค่าเพิ่มเติมสำหรับเพลงที่ดาวน์โหลด</string>
     <string name="download_queued">อยู่ในคิวแล้ว</string>
@@ -411,7 +358,9 @@ ID:%s
     <string name="empty_page_no_artist">ไม่มีศิลปิน</string>
     <string name="enabled">เปิดใช้งาน</string>
     <string name="enjoy_hungama_pro">สนุกกับ Hungama PRO</string>
+    <string name="enroll_in">ลงทะเบียน</string>
     <string name="enter_garbage_clean">ทำความสะอาดพื้นที่จัดเก็บภายใน</string>
+    <string name="entertainment">ความบันเทิง</string>
     <string name="eq_auto">กำหนดเอง</string>
     <string name="eq_blues">บลูส์</string>
     <string name="eq_classical">คลาสสิค</string>
@@ -432,12 +381,9 @@ ID:%s
     <string name="equalizer">ตัวปรับแต่งเสียง</string>
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
-    <string name="error_dup_binded_email">ที่อยู่อีเมลดังกล่าวผูกไว้กับบัญชี Mi อื่นอยู่ก่อนแล้ว</string>
     <string name="error_icon_content_description">ข้อผิดพลาด</string>
-    <string name="error_invalid_bind_address">ที่อยู่อีเมล์ที่คุณป้อนไม่ถูกต้อง</string>
     <string name="error_not_support">ไม่รองรับ</string>
     <string name="evening">บ่าย</string>
-    <string name="exceed_binded_phone_times_notice">เลขหมายดังกล่าวผูกไว้กับบัญชี Mi อื่นอยู่ก่อนแล้ว</string>
     <string name="exo_controls_fastforward_description">กรอไปข้างหน้า</string>
     <string name="exo_controls_fullscreen_description">โหมดเต็มหน้าจอ</string>
     <string name="exo_controls_hide">ซ่อนตัวควบคุมโปรแกรมเล่น</string>
@@ -464,7 +410,9 @@ ID:%s
     <string name="exo_media_action_repeat_all_description">เล่นซ้ำทั้งหมด</string>
     <string name="exo_media_action_repeat_off_description">ไม่เล่นซ้ำ</string>
     <string name="exo_media_action_repeat_one_description">เล่นซ้ำเพลงเดียว</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">อื่นๆ</string>
     <string name="exo_track_role_closed_captions">คำบรรยาย</string>
     <string name="exo_track_role_commentary">ความคิดเห็น</string>
@@ -482,11 +430,9 @@ ID:%s
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="expired">หมดอายุ</string>
     <string name="exposed_dropdown_menu_content_description">แสดงเมนูแบบเลื่อนลง</string>
-    <string name="facebook_login_btn_content_description">ลงชื่อเข้าใช้ด้วย Facebook</string>
     <string name="facebook_not_installed">ติดตั้ง Facebook ก่อน</string>
     <string name="fail_to_fetch_payment_page_url">ไม่สามารถรับข้อมูลชำระเงินได้</string>
     <string name="fail_to_play">ไม่สามารถเล่นเพลงได้</string>
-    <string name="failed_dup_secure_phone_number">หมายเลขโทรศัพท์นี้ได้ถูกผูกไว้กับบัญชี Mi อื่นอยู่ก่อนแล้ว</string>
     <string name="failed_not_access_sd_card">อนุญาตการเข้าถึง SD การ์ดก่อน</string>
     <string name="failed_obtain_permissions">ไม่สามารถรับสิทธิ์ได้</string>
     <string name="failed_to_connect_hint">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
@@ -517,7 +463,6 @@ ID:%s
     <string name="filter_by_size_prefix">"ซ่อนไฟล์เสียงที่มี่ขนาดต่ำกว่า "</string>
     <string name="filter_by_size_summary">ซ่อนไฟล์เสียงขนาดเล็ก</string>
     <string name="filter_size_unit">%dKB</string>
-    <string name="find_psw">ลืมรหัสผ่าน</string>
     <string name="find_you_tunes">ค้นหาเพลงของคุณ</string>
     <string name="floating_view_dialog_desc">เพลงจะหยุดเล่นถ้าคุณออกจากหน้านี้ ยืนยันออกหรือไม่</string>
     <string name="floating_view_dialog_leave">ออก</string>
@@ -577,7 +522,6 @@ ID:%s
     <string name="fmt_weekday_timezone">W z</string>
     <string name="follow">ติดตาม</string>
     <string name="followed">กำลังติดตาม</string>
-    <string name="for_diagnosis_usage_only">บันทึกใช้สำหรับการวินิจฉัยเท่านั้น</string>
     <string name="format_not_support">ระบบไม่รองรับรูปแบบไฟล์นี้</string>
     <string name="format_unsupported_or_corrupted">ประเภทไฟล์นี้ไม่ได้รับการสนับสนุนหรือไฟล์เสียหาย</string>
     <string name="fragment_title_artist_album">อัลบั้ม</string>
@@ -586,22 +530,15 @@ ID:%s
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
     <string name="gcm_fallback_notification_channel_label">เบ็ดเตล็ด</string>
-    <string name="get_back_pwd">กำลังรีเซ็ตรหัสผ่าน</string>
     <string name="get_more_favorite_content_after_login">ลงชื่อเข้าใช้เพื่อค้นหาเพลงและวิดีโอเพิ่มเติม</string>
     <string name="get_one_day_vip">คุณได้รับ VIP %d วัน!</string>
     <string name="get_one_hour_vip">คุณได้รับ VIP %d ชั่วโมง!</string>
-    <string name="get_ph_ticket">รับรหัส</string>
-    <string name="get_phone_bind_exceed_limit">คุณสามารถผูกหมายเลขโทรศัพท์กับบัญชี Mi ได้เกิน 3 บัญชี ไม่สามารถเพิ่มบัญชีใหม่ได้</string>
-    <string name="get_phone_verifycode_exceed_limit">มีการส่งรหัสยืนยันมายังหมายเลขโทรศัพท์นี้เกินจำนวนครั้งที่กำหนด กรุณารอ 24 ชั่วโมงแล้วลองใหม่อีกครั้ง</string>
     <string name="get_vip">รับ VIP</string>
     <string name="google_account_login">เข้าสู่ระบบด้วย Google</string>
-    <string name="google_login_btn_content_description">ลงชื่อเข้าใช้ด้วย Google</string>
     <string name="goto_local_search">ค้นหาในอุปกรณ์</string>
     <string name="goto_online_search">ค้นหาออนไลน์</string>
-    <string name="goto_sign_up">สร้างบัญชี</string>
     <string name="handle_later">ภายหลัง</string>
     <string name="hd_quality_audio">เสียงคุณภาพ HD</string>
-    <string name="header_help">ความช่วยเหลือ</string>
     <string name="headset_and_audio_effect_category">หูฟังและเสียงเอฟเฟกต์</string>
     <string name="headset_and_audio_effect_summary">หูฟังและตัวปรับแต่งเสียง</string>
     <string name="headset_and_audio_effect_title">หูฟังและเสียงเอฟเฟกต์</string>
@@ -632,7 +569,6 @@ ID:%s
     <string name="hungama_subscribe_title">สมาชิก PRO</string>
     <string name="i_know">ตกลง</string>
     <string name="icon_content_description">ไอคอนกล่องโต้ตอบ</string>
-    <string name="identity">เลขประจำตัว</string>
     <string name="imported">นำเข้าไว้</string>
     <string name="impunity_declaration_content">คุณต้องอ่านและยอมรับ&lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=th_TH\">ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=th_TH\">นโยบายความเป็นส่วนตัว&lt;/a>ของเราก่อนการเริ่มใช้ผลิตภัณฑ์</string>
     <string name="impunity_declaration_ignore">ไม่ต้องแสดงอีก</string>
@@ -642,7 +578,6 @@ ID:%s
     <string name="impunity_declaration_summary">แสดงเงื่อนไขการให้บริการทุกครั้งที่เปิดแอปเพลง</string>
     <string name="impunity_declaration_title">เงื่อนไขการให้บริการ</string>
     <string name="in_searching_please_wait">กำลังค้นหา…</string>
-    <string name="inconsistent_pwd">รหัสผ่านไม่ตรงกัน</string>
     <string name="individuation_card_login_button">ลงชื่อเข้าใช้</string>
     <string name="individuation_card_login_message">ลงชื่อเข้าใช้เพื่อค้นหาเพลงอื่น ๆ ที่คุณจะชอบ</string>
     <string name="individuation_card_title">สำหรับคุณ</string>
@@ -651,17 +586,13 @@ ID:%s
     <string name="individuation_recommend_title">ข้อเสนอแนะ</string>
     <string name="individuation_setting_summary">รับการแนะนำเนื้อหาตามความสนใจของคุณ</string>
     <string name="individuation_setting_title">การแนะนำส่วนบุคคล</string>
-    <string name="input_email_address_notice">ระบบจะใช้อีเมลนี้ในการยืนยันบัญชีของคุณ</string>
     <string name="input_hint_prefix">ป้อน %1$s</string>
-    <string name="input_length_exceeds_limit">ข้อความที่คุณป้อนยาวเกินไป</string>
-    <string name="input_new_pwd">ป้อนรหัสผ่านใหม่</string>
     <string name="installing_apk">กำลังติดตั้ง…</string>
     <string name="insufficient_space">พื้นที่จัดเก็บบนเครื่องของคุณไม่เพียงพอ</string>
     <string name="is_latest_version">เพลงเป็นรุ่นล่าสุดแล้ว!</string>
     <string name="is_scanning">กำลังตรวจสอบพื้นที่จัดเก็บ…</string>
     <string name="is_scanning_support_online">"กำลังตรวจสอบที่จัดเก็บ…
 (ระหว่างรอคุณสามารถฟังเพลงออนไลน์ได้)"</string>
-    <string name="isornot_your_mi_account">นี่คือบัญชี Mi ของคุณ?</string>
     <string name="item_view_role_description">แท็บ</string>
     <string name="joox_account_bind_mi_account">เพิ่มบัญชี Mi</string>
     <string name="joox_account_cancel_login">ยกเลิก</string>
@@ -703,7 +634,6 @@ ID:%s
     <string name="joox_search_result_more">เพิ่มเติม</string>
     <string name="joox_vip_check_to_pay">ซื้อ</string>
     <string name="joox_vip_expired_hint">สมาชิก VIP ของคุณหมดอายุแล้ว เพลงที่ดาวน์โหลดจาก JOOX จะแสดงในการดาวน์โหลดของคุณเท่านั้น</string>
-    <string name="just_a_second">รอสักครู่…</string>
     <string name="just_hit_next">แค่กดถัดไป</string>
     <string name="keep_queued_download">เก็บไว้</string>
     <string name="ktv_playlist">รายการเพลง KTV</string>
@@ -717,7 +647,6 @@ ID:%s
     <string name="listen_anywhere">ฟังได้ทุกที่</string>
     <string name="load_shuffle">กำลังโหลด…</string>
     <string name="loadercontainer_loading">รอสักครู่…</string>
-    <string name="loading">รอสักครู่…</string>
     <string name="loading_hint">รอสักครู่…</string>
     <string name="loading_reached_the_bottom">นั่นคือทั้งหมดสำหรับตอนนี้</string>
     <string name="loading_text">รอสักครู่…</string>
@@ -728,18 +657,13 @@ ID:%s
     <string name="local_page_artist_more">เพลงเพิ่มเติมของ %s</string>
     <string name="local_page_playlist">รายการเพลง</string>
     <string name="local_page_song_download_history">ดาวน์โหลด</string>
-    <string name="login_by_local_phone_long_text">ลงชื่อเข้าใช้ตอนนี้</string>
-    <string name="login_by_local_phone_short_text">ลงชื่อเข้าใช้</string>
     <string name="login_instantly">ลงชื่อเข้าใช้</string>
     <string name="login_mi_account_and_gain_more_rights">ลงชื่อเข้าใช้ด้วยบัญชี Mi ของคุณเพื่อเข้าถึงคุณลักษณะเพิ่มเติม</string>
-    <string name="login_other">บัญชี Mi อื่น</string>
-    <string name="login_register_by_local_phone_long_text">สร้างบัญชี</string>
-    <string name="login_with_sns">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
-    <string name="logout_account">ออกจากระบบ</string>
     <string name="long_press_to_select_lyric">กดค้างเพื่อเลือกไฟล์เพลงในเครื่อง</string>
     <string name="low_sound_quality">ต่ำ</string>
     <string name="lrc_search_failed">ไม่พบเนื้อเพลง</string>
     <string name="lrc_searching">กำลังค้นหา…</string>
+    <string name="ludo_tab_guide">ตรวจสอบห้องดนตรีใหม่ของเรา</string>
     <string name="lyric_is_empty">ไม่พบเนื้อเพลง</string>
     <string name="lyric_label">เนื้อเพลง</string>
     <string name="lyric_open_other_connect">ดาวน์โหลดเนื้อเพลงผ่านเครือข่ายข้อมูลมือถือ</string>
@@ -868,6 +792,7 @@ ID:%s
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -914,16 +839,12 @@ ID:%s
     <string name="nav_app_bar_open_drawer_description">เปิดลิ้นชักการนำทาง</string>
     <string name="network_disable">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="network_error_and_retry">ไม่สามารถเชื่อมต่อได้ แตะเพื่อลองอีกครั้ง</string>
-    <string name="network_error_info">เครือข่ายเกิดข้อผิดพลาด ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
     <string name="network_request_error">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="network_settings_error">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
-    <string name="network_timeout_info">ไม่สามารถเชื่อมต่อกับเครือข่าย ลองอีกครั้ง</string>
     <string name="network_traffic">การใช้งานข้อมูล</string>
     <string name="next_time">ในภายหลัง</string>
     <string name="next_to_play">ถัดไป</string>
-    <string name="nick_name">ชื่อเล่น</string>
     <string name="night">เย็น</string>
-    <string name="no_account">ไม่ได้เข้าสู่ระบบ</string>
     <string name="no_album_info">ไม่มีข้อมูลอัลบั้ม</string>
     <string name="no_artist_info">ไม่มีข้อมูลศิลปิน</string>
     <string name="no_downloads">ไม่พบดาวน์โหลด</string>
@@ -936,7 +857,6 @@ ID:%s
     <string name="no_local_source_find">ไม่พบเพลง</string>
     <string name="no_longer_prompt">ไม่ต้องแสดงอีก</string>
     <string name="no_lyrics">ไม่มีเนื้อเพลง</string>
-    <string name="no_phone">ไม่มีหมายเลขโทรศัพท์</string>
     <string name="no_results_return">ไม่มีผลลัพธ์การค้นหา</string>
     <string name="no_scanned_songs">ไม่มี</string>
     <string name="no_song_downloaded">ไม่พบเพลงเพื่อดาวน์โหลด</string>
@@ -1010,100 +930,9 @@ ID:%s
     <string name="only_pro_can_choose_hd_sound_quality">เสียงระดับ HD ใช้ได้เฉพาะกับสมาชิก PRO เท่านั้น</string>
     <string name="open_online_service">คุณจำเป็นต้องเปิดใช้งานบริการออนไลน์เพื่อใช้คุณลักษณะนี้ เปิดใช้งานทันที?</string>
     <string name="open_service">เปิดใช้งาน</string>
-    <string name="open_settings">การตั้งค่า</string>
     <string name="operation_done_close">ปิด</string>
     <string name="other_song_in_album">เพลงอื่นๆจากอัลบั้มนี้</string>
     <string name="party">ปาร์ตี้</string>
-    <string name="passport_access_denied">ปฏิเสธการเข้าถึง</string>
-    <string name="passport_account_label">บัญชี Mi</string>
-    <string name="passport_account_name">"บัญชี: %1$s "</string>
-    <string name="passport_activate_token_expired">รหัสยืนยันหมดอายุ ลองอีกครั้ง</string>
-    <string name="passport_area_code_title">รหัสพื้นที่</string>
-    <string name="passport_bad_authentication">ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</string>
-    <string name="passport_barcode_add_account_prompt">ในการเพิ่มบัญชี กรุณาสแกนรหัส QR อีกครั้งหนึ่งหลังจากลงชื่อใช้งานแล้ว</string>
-    <string name="passport_can_not_receive_verification_code">ไม่ได้รับรหัสยืนยัน?</string>
-    <string name="passport_captcha_title">ป้อนรหัสที่เห็น</string>
-    <string name="passport_checking_account">กำลังตรวจสอบรหัสผ่าน…</string>
-    <string name="passport_close">ปิด</string>
-    <string name="passport_delete_account">ออกจากระบบ</string>
-    <string name="passport_email">ที่อยู่อีเมล</string>
-    <string name="passport_empty_password">รหัสผ่านไม่สามารถเว้นว่างได้</string>
-    <string name="passport_empty_user_name">ชื่อผู้ใช้ไม่สามารถเว้นว่างได้</string>
-    <string name="passport_error_auth_fail">เซสชันหมดอายุ เข้าสู่ระบบอีกครั้ง</string>
-    <string name="passport_error_device_id">ไม่พบรหัสประจำตัวเครื่อง</string>
-    <string name="passport_error_email">ที่อยู่อีเมล์ที่คุณป้อนไม่ถูกต้อง</string>
-    <string name="passport_error_empty_captcha_code">ป้อน captcha</string>
-    <string name="passport_error_empty_email">ป้อนที่อยู่อีเมลของคุณ</string>
-    <string name="passport_error_empty_phone_num">ป้อนหมายเลขโทรศัพท์</string>
-    <string name="passport_error_empty_pwd">รหัสผ่านไม่สามารถเว้นว่างได้</string>
-    <string name="passport_error_empty_vcode">ป้อนรหัสการตรวจสอบ</string>
-    <string name="passport_error_empty_voice_code">ป้อน captcha</string>
-    <string name="passport_error_illegal_pwd">รหัสผ่านไม่ถูกต้อง</string>
-    <string name="passport_error_network">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
-    <string name="passport_error_no_password_user">คุณยังไม่ได้ตั้งรหัสผ่าน ลงชื่อเข้าใช้ด้วย SMS</string>
-    <string name="passport_error_phone_error">หมายเลขโทรศัพท์ไม่ถูกต้อง</string>
-    <string name="passport_error_server">เซิร์ฟเวอร์ขัดข้อง</string>
-    <string name="passport_error_unknown">ข้อผิดพลาดไม่รู้จัก</string>
-    <string name="passport_error_user_agreement_error">ยอมรับข้อตกลงและเงื่อนไขก่อน</string>
-    <string name="passport_error_user_name">ชื่อผู้ใช้ที่คุณป้อนไม่ถูกต้อง</string>
-    <string name="passport_forget_password"><u>ลืมรหัสผ่าน</u></string>
-    <string name="passport_get_verify_code">ขอรับรหัส</string>
-    <string name="passport_getting_verify_code">รอสักครู่…</string>
-    <string name="passport_identification_expired">รหัสยืนยันหมดอายุ เริ่มต้นใหม่</string>
-    <string name="passport_input_captcha_hint">ป้อนรหัส</string>
-    <string name="passport_input_password_hint">ป้อนรหัสผ่าน</string>
-    <string name="passport_input_phone_hint">ป้อนหมายเลขโทรศัพท์</string>
-    <string name="passport_input_vcode_hint">ป้อนรหัสการตรวจสอบ</string>
-    <string name="passport_input_voice_captcha_hint">ป้อนรหัสยืนยันเสียง</string>
-    <string name="passport_input_voice_hint">ป้อนรหัสเสียง</string>
-    <string name="passport_international_phone_password_login_tip">(หากคุณไม่ได้อยู่ในจีน ป้อนหมายเลขโทรศัพท์ของคุณในฟอร์แมตนี้: +[รหัสประเทศ][หมายเลขโทรศัพท์] เช่น +91 817282982)</string>
-    <string name="passport_log_detail">เรียกดูรายละเอียด</string>
-    <string name="passport_login_failed">ไม่สามารถเข้าสู่ระบบได้</string>
-    <string name="passport_next">ถัดไป</string>
-    <string name="passport_next_step">ถัดไป</string>
-    <string name="passport_password_req_notice">รหัสผ่านจะต้องมีความยาว 8-16 ตัวอักษรและรวมอย่างน้อยสองอย่างต่อไปนี้: ตัวเลขตัวอักษรและสัญลักษณ์พิเศษ (เช่น 123abc@# หรือ 123abc หรือ abc@#)</string>
-    <string name="passport_querying_phone_info">กำลังขอข้อมูลบัญชี…</string>
-    <string name="passport_quick_login_dialog_step2_title">การเข้าสู่ระบบรหัสผ่านแบบสองชั้น</string>
-    <string name="passport_quick_login_dialog_title">ตรวจสอบรหัสผ่าน</string>
-    <string name="passport_quick_login_step2_title">การเข้าสู่ระบบรหัสผ่านแบบสองชั้น</string>
-    <string name="passport_quick_login_title">ป้อนรหัสผ่านของคุณ</string>
-    <string name="passport_re_get_verify_code">ขอรับรหัสอีกครั้ง</string>
-    <string name="passport_reging">กำลังสร้างบัญชีผู้ใช้…</string>
-    <string name="passport_register_restricted">เลขหมายนี้ได้ถูกผูกไว้กับหลายบัญชี กรุณาลองใช้เลขหมายอื่น.</string>
-    <string name="passport_reload_ph_ticket">ส่งอีกครั้ง</string>
-    <string name="passport_relogin_notice">กรุณาลงชื่อเข้าสู่ระบบอีกครั้ง</string>
-    <string name="passport_send_too_many_code">มีการส่งรหัสยืนยันไปยังหมายเลขโทรศัพท์นี้เกินจำนวนครั้งที่กำหนด กรุณารอ 24 ชั่วโมงแล้วลองอีกครั้ง</string>
-    <string name="passport_send_too_many_sms">มีการส่งรหัสยืนยันมายังหมายเลขโทรศัพท์นี้เกินจำนวนครั้งที่กำหนด กรุณารอ 24 ชั่วโมงแล้วลองใหม่อีกครั้ง</string>
-    <string name="passport_sending_vcode">กำลังส่งรหัส…</string>
-    <string name="passport_set_password">ตั้งรหัสผ่าน</string>
-    <string name="passport_set_password_no_phone_msg">เพิ่มหมายเลขโทรศัพท์ของคุณเพื่อปกป้องบัญชีของคุณ</string>
-    <string name="passport_sign_in">ลงชื่อเข้าใช้</string>
-    <string name="passport_sign_in_or_sign_up">ลงชื่อเข้าใช้/สร้างบัญชี</string>
-    <string name="passport_sms_phone_intro">ส่งรหัสไปยัง %1$s</string>
-    <string name="passport_talkback_image_captcha">รหัสยืนยันรูปภาพ</string>
-    <string name="passport_talkback_switch_image_captcha">สลับเป็นรหัสยืนยันรูปภาพ</string>
-    <string name="passport_talkback_switch_voice_captcha">สลับเป็นรหัสยืนยันเสียง</string>
-    <string name="passport_talkback_voice_captcha">เปิดรหัสยืนยันเสียง</string>
-    <string name="passport_timeout_network_error">การร้องขอเครือข่ายเกินเวลาที่กำหนด</string>
-    <string name="passport_trust_device">นี้คืออุปกรณ์ที่ฉันเชื่อถือ</string>
-    <string name="passport_trying_read_verify_code_sms">กำลังรับรหัสยืนยัน…</string>
-    <string name="passport_unknow_error">เกิดข้อผิดพลาดที่ไม่รู้จัก</string>
-    <string name="passport_unknow_host_network_error">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองใหม่อีกครั้ง</string>
-    <string name="passport_unknow_network_error">เครือข่ายขัดข้อง</string>
-    <string name="passport_user_agreement_link">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของ Xiaomi แล้ว&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>ฉันได้อ่านและยอมรับเอกสารดังกล่าวแล้ว: &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของ Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_id_intro">ป้อนรหัสผ่านสำหรับ %1$s</string>
-    <string name="passport_v_code_error">รหัสยืนยันไม่ถูกต้อง</string>
-    <string name="passport_vcode_notification_title">การตรวจสอบการเข้าสู่ระบบของคุณไม่สมบูรณ์</string>
-    <string name="passport_vcode_prompt_long">ป้อนรหัสการตรวจสอบ</string>
-    <string name="passport_vcode_sms_send_prompt">ส่งรหัสไปยัง %s</string>
-    <string name="passport_verification_failed">ไม่สามารถยืนยันได้</string>
-    <string name="passport_verify">ยืนยัน</string>
-    <string name="passport_wechat_not_install">ติดตั้ง WeChat ก่อน</string>
-    <string name="passport_wrong_captcha">รหัสที่คุณป้อนไม่ถูกต้อง</string>
-    <string name="passport_wrong_phone_number_format">รูปแบบของหมายเลขโทรศัพท์ที่คุณป้อนไม่ถูกต้อง</string>
-    <string name="passport_wrong_vcode">รหัสที่คุณป้อนไม่ถูกต้อง</string>
-    <string name="passport_wrong_voice">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="password_toggle_content_description">แสดงรหัสผ่าน</string>
     <string name="paused_by_app">พักชั่วคราวแล้ว</string>
     <string name="paused_in_power_save_mode">หยุดพักเมื่อตัวประหยัดแบตเตอรี่เปิดอยู่</string>
@@ -1122,11 +951,6 @@ ID:%s
     <string name="permission_declaration_title">อนุญาตการเข้าถึง</string>
     <string name="permission_open">อนุญาต</string>
     <string name="permission_required">จำเป็นต้องขออนุญาต</string>
-    <string name="phone_bind_too_many">โทรศัพท์เครื่องนี้ถูกผูกกับบัญชี Mi หลายบัญชีในช่วงระยะเวลาห่างกันไม่นาน กรุณาใช้หมายเลขโทรศัพท์อื่น</string>
-    <string name="phone_hint">หมายเลขโทรศัพท์</string>
-    <string name="phone_num_use_for">หมายเลขโทรศัพท์ใช้สำหรับ:</string>
-    <string name="phone_number">หมายเลขโทรศัพท์</string>
-    <string name="photoPickerNotFoundText">ไม่มีรูปภาพที่พร้อมใช้งาน</string>
     <string name="pick_favorite_song">รายการโปรด</string>
     <string name="pick_local_song">เพลงในเครื่อง</string>
     <string name="pick_recent_song">เล่นล่าสุด</string>
@@ -1165,6 +989,7 @@ ID:%s
     <string name="privacy_authorize_revoking">กำลังยกเลิกการให้สิทธิ์…</string>
     <string name="privacy_desc">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=th_TH</string>
     <string name="privacy_request_desc">"&lt;Data>Mi เพลง จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการสตรีมมิ่งออนไลน์แก่คุณ คุณสามารถเรียนรู้วิธีจัดการข้อมูลที่เรารวบรวมใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ Mi เพลง ในการตั้งค่าได้ทุกเมื่อ
 อ่านและยอมรับ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ก่อนใช้ Mi เพลง
 หากคุณไม่ยินยอมที่จะใช้บริการข้างต้นคุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอปนี้ได้; อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ&lt;/Data>"</string>
@@ -1174,18 +999,11 @@ ID:%s
     <string name="privacy_request_subtitle_offline">ยินดีต้อนรับสู่ Mi เพลง! แอปนี้เป็นเครื่องเล่นในเครื่องสำหรับไฟล์เสียง</string>
     <string name="privacy_request_title">ข้อตกลงและเงื่อนไข</string>
     <string name="pro_member">สมาชิก PRO</string>
-    <string name="progressbar_title">กำลังตรวจสอบปัญหาด้านความปลอดภัย…</string>
     <string name="project_device">โทรศัพท์ Mi</string>
     <string name="prompt_grant_write_settings_permission">อนุญาตให้มีการเปลี่ยนแปลงการตั้งค่าระบบ</string>
-    <string name="protocal_dialog_cancel">ยกเลิก</string>
-    <string name="protocal_dialog_confirm">ตกลง</string>
-    <string name="protocal_dialog_title">โปรดทราบ</string>
-    <string name="psw_hint">รหัสผ่าน</string>
-    <string name="psw_sign_in">ลงชื่อเข้าใช้โดยใช้รหัสผ่าน</string>
     <string name="pulluprefreshrecyclerview_loading_error">ไม่สามารถโหลดได้</string>
     <string name="pulluprefreshrecyclerview_loading_finished">โหลดเรียบร้อยแล้ว</string>
     <string name="pulluprefreshrecyclerview_loading_running">กำลังโหลด…</string>
-    <string name="qq_login_btn_content_description">ลงชื่อเข้าใช้ด้วย QQ</string>
     <string name="queue_is_empty">คิวเล่นว่างเปล่า</string>
     <string name="ready_to_play">เล่นต่อจากนี้</string>
     <string name="recently_played">เล่นล่าสุด</string>
@@ -1193,8 +1011,6 @@ ID:%s
     <string name="recommend_songs_when_playing_audio_files">รับคำแนะนำเพลงขณะฟังเพลง</string>
     <string name="recommended_file_size_download_in_mobile">ใช้เครือข้อมูลมือถือ %s สำหรับการดาวน์โหลดไฟล์นี้?</string>
     <string name="recommended_no_file_size_download_in_mobile">ใช้การเชื่อมต่อเครือข้อมูลมือถือสำหรับการดาวน์โหลดไฟล์นี้?</string>
-    <string name="register_by_local_phone_long_text">สร้างบัญชี</string>
-    <string name="register_by_local_phone_short_text">สร้างบัญชี</string>
     <string name="remove">ลบ</string>
     <string name="remove_download">ลบออก</string>
     <string name="remove_user_privacy_dialog_message">การสับสวิตช์จะเป็นการเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ Mi เพลง เราจะหยุดรวบรวมข้อมูลส่วนบุคคลของคุณ ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้แล้วจะถูกลบภายในช่วงเวลาที่กำหนดตามที่กฎหมายบังคับ Mi เพลง จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการขั้นพื้นฐานแก่คุณ การถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวจะถือเป็นการปฏิเสธที่จะยอมรับบริการตามข้อมูลส่วนบุคคลที่รวบรวม</string>
@@ -1202,25 +1018,11 @@ ID:%s
     <string name="remove_user_privacy_dialog_title">การเพิกถอนความยินยอม</string>
     <string name="repeat_all_notif">เล่นซ้ำเพลงทั้งหมด</string>
     <string name="repeat_current_notif">เล่นซ้ำเพลงที่เปิดอยู่</string>
-    <string name="request_agree">อนุญาต</string>
-    <string name="request_camera_permission_message">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายและข้อบังคับที่เกี่ยวข้อง แอปนี้ต้องการการอนุญาตต่อไปนี้เพื่อให้ทำงานได้ตามปกติ:&lt;br>&lt;br>&lt;b>การใช้กล้องถ่ายรูป (สำหรับตั้งค่ารูปโปรไฟล์ของคุณ)&lt;/b>&lt;br>&lt;br>หากคุณไม่ยินยอมที่จะให้สิทธิ์ดังกล่าว คุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอพนี้ได้ อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ คุณสามารถจำกัดสิทธิ์หรือเพิกถอนการอนุญาตได้ตลอดเวลาในการตั้งค่า</string>
-    <string name="request_cancel">ยกเลิก</string>
-    <string name="request_error_invalid_token">ไม่สามารถยืนยันได้</string>
-    <string name="request_error_network">เครือข่ายเกิดข้อผิดพลาด ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
-    <string name="request_error_unknown">เกิดข้อผิดพลาดของระบบ ย้อนกลับแล้วลองอีกครั้ง</string>
-    <string name="request_gallery_permission_message">อนุญาตให้เข้าถึงคลังภาพ:&lt;br />สำหรับการตั้งค่ารูปโปรไฟล์</string>
     <string name="request_overlay_permission_desc">อนุญาตให้ Mi Music แสดงหน้าต่างลอยเพื่อให้สามารถใช้คุณสมบัตินี้</string>
     <string name="request_privacy_permission_title">อ่านและยอมรับข้อกำหนดและเงื่อนไขด้านล่างเพื่อเข้าถึงบริการทั้งหมดของเรา</string>
     <string name="request_share_info">รอสักครู่…</string>
     <string name="request_subscription_status">รอสักครู่…</string>
-    <string name="resend_active_email">ส่งใหม่</string>
-    <string name="resend_email_reach_limit_message">คุณได้ร้องขอให้ส่งอีเมลเกินจำนวนครั้งที่กำหนด ตรวจสอบดูให้แน่ใจว่าอีเมลที่จะใช้ยืนยันตัวตนไม่ถูกจัดเก็บไว้ในกล่องข้อความขยะ</string>
-    <string name="resend_email_reach_limit_title">เกินจำนวนครั้งที่กำหนดแล้ว</string>
-    <string name="resend_email_success">ส่งเรียบร้อยแล้ว</string>
-    <string name="restart_action">เริ่มต้นใหม่</string>
     <string name="restart_immediate">รีสตาร์ท</string>
-    <string name="restart_phone_bind_message">การส่งข้อความ SMS ผ่านเครือข่ายอาจใช้เวลาสักครู่ คุณต้องการเริ่มใหม่?</string>
-    <string name="restart_phone_bind_title">เปลี่ยนโทรศัพท์ที่ใช้กู้คืนบัญชี</string>
     <string name="retry">ลองอีกครั้ง</string>
     <string name="retry_after_network_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ กรุณาตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง</string>
     <string name="retry_download">ลองอีกครั้ง</string>
@@ -1239,7 +1041,6 @@ ID:%s
     <string name="s5">สร้างกิจกรรมในปฏิทิน</string>
     <string name="s6">อนุญาตให้โฆษณาสร้างกิจกรรมในปฏิทินไหม</string>
     <string name="s7">โฆษณาทดสอบ</string>
-    <string name="same_new_and_old_pwd">รหัสผ่านจะต้องไม่ซ้ำกันกับรหัสผ่านที่ใช้อยู่ในปัจจุบัน</string>
     <string name="saturday">วันเสาร์</string>
     <string name="saturday_short">เสาร์</string>
     <string name="saturday_shortest">เสาร์</string>
@@ -1279,19 +1080,14 @@ ID:%s
     <string name="select_three_languages">คุณสามารถเลือกได้ถึง %d ภาษา</string>
     <string name="selected_count">เลือกไว้ %1$d จากทั้งหมด %2$d</string>
     <string name="send">ส่ง</string>
-    <string name="send_diagnosis_log">ส่งบันทึกการใช้</string>
-    <string name="send_email_activate_message">ส่งอีเมลยืนยันแล้ว</string>
     <string name="send_to_title">ส่งไป (%1$s)</string>
-    <string name="sending">กำลังส่ง…</string>
     <string name="service_and_settings">บริการและการตั้งค่า</string>
-    <string name="service_error">เซิร์ฟเวอร์ขัดข้อง</string>
-    <string name="set_as_alarm_clock_ringtone">เสียงปลุก</string>
+    <string name="set_as_alarm_clock_ringtone">การปลุก</string>
     <string name="set_as_ring">ตั้งเป็นเสียงเรียกเข้า</string>
     <string name="set_online_home_subtitle">เปิดคำแนะนำออนไลน์เมื่อเปิดแอป</string>
     <string name="set_online_home_title">แสดงคำแนะนำออนไลน์เมื่อเริ่มต้น</string>
     <string name="set_ringtones_failed">ไม่สามารถตั้งเป็นเสียงเรียกเข้า</string>
     <string name="set_ringtones_successful">ตั้ง %s เป็นเสียงเรียกเข้าแล้ว</string>
-    <string name="set_success">แก้ไขเรียบร้อย</string>
     <string name="setting_feature_setting">การตั้งค่าคุณลักษณะ</string>
     <string name="settings">การตั้งค่า</string>
     <string name="settings_search_key_notification">การแจ้งเตือนเพลง;เพลง;การแจ้งเตือน;เพลง</string>
@@ -1314,24 +1110,16 @@ ID:%s
     <string name="shuffle_off_notif">ชัฟเฟิลปิดใช้งาน</string>
     <string name="shuffle_on_notif">ชัฟเฟิลเปิดใช้งาน</string>
     <string name="shuffle_play_toast_text">กำลังสุ่มเพลง…</string>
-    <string name="sign_in">กำลังเข้าสู่ระบบ</string>
-    <string name="sign_in_progress">กำลังเข้าระบบ…</string>
-    <string name="sign_in_title">ลงชื่อเข้าใช้ด้วยบัญชี Mi ของคุณ</string>
     <string name="similar_albums">อัลบั้มที่คล้ายกัน</string>
     <string name="similar_playlists">รายการเพลงที่คล้ายกัน</string>
     <string name="similar_songs">เพลงที่คล้ายกัน</string>
     <string name="similar_videos">วิดีโอที่คล้ายกัน</string>
     <string name="skip">ข้าม</string>
-    <string name="skip_query_account">ข้าม</string>
     <string name="sleep_mode">ตั้งเวลาพักหน้าจอ</string>
     <string name="sleep_mode_canceled">โหมดพักหน้าจอปิดใช้งาน</string>
     <string name="sleep_mode_summary">หยุดการเล่นเพลงในเวลาที่กำหนด</string>
     <string name="sleep_mode_title">ตั้งเวลาพักหน้าจอ</string>
     <string name="sliding_pro_center">ศูนย์ PRO</string>
-    <string name="sms_send_success">ส่งเรียบร้อยแล้ว</string>
-    <string name="sns_access_token_expired_warning">เซสชันสิ้นสุดลง กรุณาลงชื่อเข้าสู่ระบบอีกครั้งเพื่อเข้าสู่บัญชีนี้</string>
-    <string name="sns_bind_limit">มีความพยายามมากเกินไป ลองวิธีอื่นๆ ในการลงชื่อเข้าใช้</string>
-    <string name="sns_sign_in">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
     <string name="song_already_in_playlist">เพลงนี้มีอยู่ในรายการเพลงแล้ว</string>
     <string name="song_exist_in_playlist">เพลงนี้มีอยู่ในคิวแล้ว</string>
     <string name="song_info">รายละเอียดเพลง</string>
@@ -1351,6 +1139,7 @@ ID:%s
     <string name="start_to_download">กำลังดาวน์โหลด…</string>
     <string name="start_to_play">กำลังเตรียมเล่น…</string>
     <string name="start_update">กำลังติดตั้งเวอร์ชันใหม่…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">ที่จัดเก็บข้อมูลแอปโคลน</string>
     <string name="storage_internal">ที่จัดเก็บภายใน</string>
     <string name="storage_sd_card">SD การ์ด</string>
@@ -1362,7 +1151,6 @@ ID:%s
     <string name="sunday_shortest">อาทิตย์</string>
     <string name="supplementary_songs">เพลงเพิ่มเติม</string>
     <string name="switch_success">สลับเรียบร้อยแล้ว</string>
-    <string name="system_error_info">ระบบไม่ว่าง รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="tab_album">อัลบั้ม</string>
     <string name="tab_album_list">อัลบั้ม</string>
     <string name="tab_artist">ศิลปิน</string>
@@ -1396,7 +1184,6 @@ ID:%s
     <string name="talkback_pre">เพลงก่อนหน้า</string>
     <string name="talkback_search">ค้นหา</string>
     <string name="talkback_show_navigation_draw">แสดงลิ้นชัก</string>
-    <string name="temporary_not_available">คุณลักษณะนี้ยังไม่เปิดให้บริการ</string>
     <string name="terms_of_service">เงื่อนไขการให้บริการ</string>
     <string name="the_anniversary_of_lifting_martial_law">วันฉลองยกเลิกอัยการศึก</string>
     <string name="the_anti_aggression_day">วันต่อต้านการกระทำรุนแรง</string>
@@ -1441,9 +1228,6 @@ ID:%s
     <string name="thursday">วันพฤหัสบดี</string>
     <string name="thursday_short">พฤหัส</string>
     <string name="thursday_shortest">พฤหัส</string>
-    <string name="ticket_hint">รหัสยืนยัน</string>
-    <string name="ticket_invalid">รหัสที่คุณป้อนไม่ถูกต้อง</string>
-    <string name="ticket_sign_in">ลงชื่อเข้าใช้โดยข้อความ SMS</string>
     <string name="ticket_summary">ซื้อตั๋วชมการแสดง, คอนเสิร์ต, ละครและกิจกรรมอื่นๆ</string>
     <string name="ticket_title">แสดงตั๋ว</string>
     <string name="time_picker_dialog_title">ตั้งเวลา</string>
@@ -1493,18 +1277,13 @@ ID:%s
     <string name="ultra_high_quality">สูงสุด</string>
     <string name="unknown_album_name">อัลบั้มที่ไม่รู้จัก</string>
     <string name="unknown_artist_name">ไม่ทราบชื่อศิลปิน</string>
-    <string name="unknown_error_info">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="unlimited_downloads">การดาวน์โหลดไม่จำกัด</string>
     <string name="unlimited_offline_songs">เพลงแบบออฟไลน์ที่ไม่จำกัด</string>
     <string name="unlimited_skips">ข้ามได้ไม่จำกัด</string>
-    <string name="update_email_address_dialog_message">คุณต้องยืนยันตัวตนของคุณก่อนที่จะอัปเดตอีเมลกู้คืน</string>
-    <string name="update_email_address_dialog_title">อัปเดตอีเมลที่ใช้กู้คืนบัญชี</string>
     <string name="update_now">อัปเดตเดี๋ยวนี้</string>
-    <string name="update_phone_notice">เปลี่ยนการตั้งค่าความปลอดภัย</string>
     <string name="upgrade_music">อัปเดตเพลง</string>
     <string name="upgrade_music_message">ไฟล์อัปเดตพร้อมแล้ว รีสตาร์ทเพื่ออัปเดต</string>
     <string name="upgrading_in_backstage">กำลังอัปเดตในพื้นหลัง…</string>
-    <string name="upload_error_log">อัพโหลดบันทึกการใช้งาน</string>
     <string name="upload_favorite_dialog_title">อัปโหลดเพลงของคุณไปยังคลาวด์เพื่อให้สามารถเข้าถึงได้บนอุปกรณ์ที่ซิงค์อื่นๆ คุณสามารถปิดคุณสมบัตินี้ได้ในการตั้งค่า</string>
     <string name="upload_favorite_setting_summary">การเพิ่มเพลงออนไลน์ในรายการโปรดจะอัปโหลดไปยังระบบคลาวด์และช่วยให้คุณเข้าถึงเพลงเหล่านี้บนอุปกรณ์อื่น</string>
     <string name="upload_favorite_setting_title">ซิงค์เพลง</string>
@@ -1513,21 +1292,8 @@ ID:%s
     <string name="upload_playlist_to_hungama_title">ซิงค์เพลงออนไลน์กับ Hungama เพื่อให้สามารถเข้าถึงได้บนอุปกรณ์อื่นๆ ที่คุณใช้บัญชี Mi ของคุณ</string>
     <string name="upload_playlist_to_hungama_toast">เพลงออนไลน์จะถูกซิงค์กับ Hungama</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
-    <string name="user_agreement_hint_3rd_app">&lt;Data>ฉันได้อ่านและยอมรับ &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของบัญชี Mi&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>, &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของบัญชี Mi รวมถึง &lt;a href=%5$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ China Mobile&lt;/a>&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>, &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของบัญชี Mi รวมถึง &lt;a href=%5$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ บัญชี eSurfing&lt;/a>&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>, &lt;a href=%3$s>ข้อตกลงการใช้งาน&lt;/a>และ&lt;a href=%4$s>นโยบายความเป็นส่วนตัว&lt;/a>ของบัญชี Mi รวมถึง &lt;a href=%5$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ China Unicom&lt;/a>&lt;/Data></string>
-    <string name="user_agreement_hint_default">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a>ของ บัญชี Mi แล้ว&lt;/Data></string>
-    <string name="user_agreement_hint_first_login">เราจะสร้างบัญชีโดยอัตโนมัติหากคุณใช้หมายเลขโทรศัพท์ของคุณเป็นครั้งแรก</string>
-    <string name="user_agreement_hint_with_mobile">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของบัญชี Mi เช่นเดียวกับ&lt;a href=%3$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ China Mobile&lt;/a>&lt;/Data></string>
-    <string name="user_agreement_hint_with_telecom">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของบัญชี Mi เช่นเดียวกับ&lt;a href=%3$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ บัญชี eSurfing&lt;/a>&lt;/Data></string>
-    <string name="user_agreement_hint_with_unicom">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของบัญชี Mi เช่นเดียวกับ&lt;a href=%3$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ China Unicom&lt;/a>&lt;/Data></string>
-    <string name="user_agreement_protocal_dialog_hint_default">"&lt;Data>Read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
-    <string name="user_avatar_update_title">เปลี่ยนรูปประจำตัว</string>
-    <string name="user_avatar_uploading">รอสักครู่…</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=th_TH</string>
     <string name="user_experience_program_open">เนื่องจากข้อจำกัดด้านลิขสิทธิ์ คุณต้องลงทะเบียนใน โปรแกรมประสบการณ์ผู้ใช้ เพื่อให้สามารถเล่นเพลงที่ดาวน์โหลด คุณสามารถทำได้ในการตั้งค่า > รหัสผ่านและความปลอดภัย > ความเป็นส่วนตัว > ลงทะเบียนในโปรแกรมประสบการณ์ผู้ใช้</string>
-    <string name="user_id_hint">อีเมล/เบอร์โทรศัพท์/เลขบัญชี Mi</string>
-    <string name="user_name_phone_number">หมายเลขโทรศัพท์</string>
     <string name="user_playlist_plaza">เพลย์ลิสต์</string>
     <string name="user_privacy_dialog_negative_text">ยกเลิก</string>
     <string name="user_privacy_dialog_positive_count_down_text">เพิกถอน (%ss)</string>
@@ -1539,7 +1305,6 @@ ID:%s
     <string name="user_profile_follow_count">ติดตามอยู่: %s</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
-    <string name="v_code_title">ป้อนรหัสการตรวจสอบ</string>
     <string name="version_info">เวอร์ชั่น</string>
     <string name="video_play_cellular">อุปกรณ์ของคุณไม่ได้เชื่อมต่อกับ Wi-fi ใช้ข้อมูลมือถือหรือไม่?</string>
     <string name="video_replay_btn">เล่นอีกครั้ง</string>
@@ -1552,8 +1317,7 @@ ID:%s
     <string name="wednesday">วันพุธ</string>
     <string name="wednesday_short">พุธ</string>
     <string name="wednesday_shortest">พุธ</string>
-    <string name="weibo_login_btn_content_description">ลงชื่อเข้าใช้ด้วย Weibo</string>
-    <string name="weixin_login_btn_content_description">ลงชื่อเข้าใช้ด้วย WeChat</string>
+    <string name="welcome_to_entertainment">ตรวจสอบคุณสมบัติความบันเทิงใหม่สำหรับเกมเพลงและอีกมากมาย</string>
     <string name="wifi_required_body" formatted="false">"ต้องเชื่อมต่อกับ Wi-Fi ในการดาวน์โหลด %s. 
 
 แตะ %s เพื่อเริ่มต้นการดาวน์โหลดนี้ในครั้งต่อไปที่คุณเชื่อมต่อกับเครือข่าย Wi-Fi"</string>

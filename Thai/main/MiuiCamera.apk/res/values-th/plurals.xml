@@ -31,7 +31,7 @@
         <item quantity="other">โฟกัสแล้ว ตรวจพบ %d ใบหน้า</item>
     </plurals>
     <plurals name="accessibility_timer_burst_count">
-        <item quantity="other">%d ภาพแบบถ่ายต่อเนื่อง</item>
+        <item quantity="other">%d ภาพในภาพถ่ายต่อเนื่อง</item>
     </plurals>
     <plurals name="accessibility_timer_burst_interval">
         <item quantity="other">ช่วงเวลา: %d วินาที</item>
@@ -97,6 +97,6 @@
         <item quantity="other">%1$s รูป</item>
     </plurals>
     <plurals name="toast_burst_snap_finished_summary">
-        <item quantity="other">ถ่ายภาพต่อเนื่องเสร็จสิ้น ถ่ายไปทั้งหมด %1$s รูป</item>
+        <item quantity="other">ภาพถ่ายต่อเนื่องเสร็จสิ้น ถ่ายไปทั้งหมด %1$s รูป</item>
     </plurals>
 </resources>

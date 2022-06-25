@@ -48,8 +48,8 @@
     <string name="add_field">เพิ่มข้อมูลอื่น</string>
     <string name="add_field_toast">ไม่มีฟิลด์เพิ่มเติมที่จะเพิ่ม</string>
     <string name="add_new_account">เพิ่มบัญชีใหม่</string>
-    <string name="add_xiaomi_account_dialog_btn">ใช้บัญชี Mi</string>
-    <string name="add_xiaomi_account_dialog_msg">สำรองข้อมูลรายชื่อของคุณไปยังบัญชี Mi เพื่อให้สามารถเข้าใช้ได้จากทุกที่!</string>
+    <string name="add_xiaomi_account_dialog_btn">ใช้บัญชี Xiaomi</string>
+    <string name="add_xiaomi_account_dialog_msg">สำรองข้อมูลรายชื่อของคุณไปยังบัญชี Xiaomi เพื่อให้สามารถเข้าใช้ได้จากทุกที่!</string>
     <string name="add_xiaomi_account_dialog_title">เลือกบัญชี</string>
     <string name="afternoon">บ่าย</string>
     <string name="aggregation_suggestion_edit_dialog_message">เปลี่ยนเป็นการแก้ไข ผู้ติดต่อชื่อเดียวกันหรือไม่ ข้อมูลที่คุณป้อนจนถึงตอนนี้จะถูกคัดลอก</string>
@@ -148,6 +148,7 @@
     <string name="calllog_menu_edit_before_call">แก้ไข</string>
     <string name="calllog_menu_send_sms">ส่งข้อความ</string>
     <string name="calllog_record_none_toast">ไม่มีบันทึกการโทรที่จะแสดง</string>
+    <string name="calllog_record_searching_toast">กำลังค้นหาบันทึกการโทร…</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dนาที %2$dวิ</string>
     <string name="callrecordview_item_op_time_missed">โทรไม่ติด</string>
     <string name="callrecordview_item_op_time_only_minutes">%d นาที</string>
@@ -503,6 +504,7 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">ชื่อ</string>
     <string name="gallery">คลังภาพ</string>
     <string name="ghostData_company">บริษัท</string>
@@ -559,7 +561,7 @@
     <string name="import_to_xiaomi_account_confirm">นำเข้า</string>
     <string name="import_to_xiaomi_account_progress_finish">นำเข้ารายชื่อผู้ติดต่อแล้ว</string>
     <string name="import_to_xiaomi_account_progress_message">กำลังนำเข้า…</string>
-    <string name="import_to_xiaomi_account_title">นำเข้าไปยังบัญชี Mi</string>
+    <string name="import_to_xiaomi_account_title">นำเข้าไปยังบัญชี Xiaomi</string>
     <string name="import_vcard_dialog_message">นำเข้า vCard?</string>
     <string name="importing_sim_contacts_miui">กำลังนำเข้ารายชื่อจากซิมการ์ด…</string>
     <string name="importing_sim_contacts_miui_prepare">กำลังจัดเตรียมรายชื่อ…</string>
@@ -568,6 +570,11 @@
     <string name="importing_vcard_finished_title">สิ้นสุดการนำเข้า vCard %s</string>
     <string name="insertContactDescription">สร้างรายชื่อ</string>
     <string name="invalidContactMessage">ไม่มีรายชื่อ</string>
+    <string name="invisible_mode_dialog_cancel">ยกเลิก </string>
+    <string name="invisible_mode_dialog_to_close">ปิดใช้งาน</string>
+    <string name="invisible_mode_title">คุณอยู่ในโหมดไม่ระบุตัวตน</string>
+    <string name="invisible_mode_unable_connect_camera">ปิดโหมดไม่ระบุตัวตนเพื่อให้สามารถใช้กล้องได้ ปิดใช้งาน?</string>
+    <string name="invisible_mode_unable_get_location">ปิดโหมดไม่ระบุตัวตนเพื่อให้สามารถใช้บริการระบุตำแหน่งและนำเข้ารายชื่อติดต่อจากอุปกรณ์อื่นผ่านบลูทูธ ปิดใช้งาน?</string>
     <string name="item_offical">ทางการ</string>
     <string name="keep_local">ไม่ต้องซิงค์</string>
     <string name="keep_local_btn">ใช้ที่จัดเก็บในเครื่องของโทรศัพท์</string>
@@ -594,6 +601,9 @@
     <string name="low_memory_toast">คุณลักษณะนี้ไม่สามารถใช้งานได้ เนื่องจากหน่วยความจำเหลือน้อย</string>
     <string name="lunarBirthdayLabelsGroup">วันเกิดตามจันทรคติ</string>
     <string name="make_primary">จดจำตัวเลือกนี้</string>
+    <string name="manage_external_storage_dialog_message">อนุญาตให้แอปนี้เข้าถึงไฟล์ทั้งหมดเพื่อจัดการการบันทึกการโทร</string>
+    <string name="manage_external_storage_dialog_positive">การตั้งค่า</string>
+    <string name="manage_external_storage_dialog_title">ต้องการการอนุญาต</string>
     <string name="map_custom">ดูที่อยู่ %s</string>
     <string name="map_home">ดูที่อยู่บ้าน</string>
     <string name="map_other">ดูที่อยู่</string>
@@ -628,6 +638,7 @@
     <string name="menu_sync_remove">ลบกลุ่มที่ซิงค์</string>
     <string name="midnight">กลางคืน</string>
     <string name="miprofile_account_type">นามบัตร</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">แก้ไขข้อมูลส่วนตัว</string>
     <string name="miprofile_name">โปรไฟล์ของฉัน</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -784,6 +795,7 @@
     <string name="permission_retry_dialog_msg_pad">หากต้องการใช้ซิมการ์ดกับแอปนี้และจัดการรายชื่อติดต่อ โปรดอนุญาตให้แอปนี้เข้าถึงและแก้ไขรายชื่อติดต่อ ตลอดจนเข้าถึงข้อมูลอุปกรณ์ได้</string>
     <string name="permission_retry_setting">การตั้งค่า</string>
     <string name="phoneLabelsGroup">โทรศัพท์</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">หมายเลขยาวเกินไป</string>
     <string name="phone_primary">หลัก</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพในเครื่อง</string>
@@ -819,7 +831,7 @@
     <string name="pref_key_sim_manage2">ตั้งค่าซิมการ์ด 2</string>
     <string name="pref_summary_import_from_account">โอนย้ายรายชื่อจากบัญชี Google และ Exchange ไปยังบัญชี Xiaomi ของฉัน</string>
     <string name="pref_title_account_import">นำเข้ารายชื่อ</string>
-    <string name="pref_title_import_from_account">นำเข้าไปยังบัญชี Mi</string>
+    <string name="pref_title_import_from_account">นำเข้าไปยังบัญชี Xiaomi</string>
     <string name="preference_contacts">รายชื่อ</string>
     <string name="preference_contacts_filter">กำหนดค่ารายชื่อผู้ติดต่อ</string>
     <string name="preference_contacts_more">จัดระเบียบรายชื่อ</string>
@@ -1026,6 +1038,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">ไม่มีสมาชิกกลุ่ม</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">บริษัท</string>
     <string name="smart_group_company_unavailable">ไม่มีข้อมูลบริษัท</string>
     <string name="smart_group_frequency_1">ภายในเดือนที่ผ่านมา</string>
@@ -1067,6 +1080,7 @@
     <string name="starred_contacts">รายการชื่นชอบ</string>
     <string name="status_available">ว่าง</string>
     <string name="status_away">ไม่อยู่</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">ไม่ว่าง</string>
     <string name="strequentList">รายการโปรด</string>
     <string name="success_message_import_from_account">นำเข้ารายชื่อแล้ว</string>
@@ -1170,6 +1184,7 @@
     <string name="unknown_contact_name">รายชื่อที่ไม่รู้จัก</string>
     <string name="unknown_details_add_to_contact">ที่มีอยู่</string>
     <string name="unknown_details_new_contact">เพิ่มใหม่</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">ไม่สามารถแสดงรหัส QR ขณะใช้หน้าจอแยก</string>
     <string name="update_sim_contact_photo_toast">ไม่สามารถตั้งค่ารูปภาพโปรไฟล์จากรายชื่อซิมได้</string>
     <string name="upgrade_in_progress">กำลังอัปเดตรายชื่อผู้ติดต่อ</string>
     <string name="upgrade_out_of_memory">"รายชื่ออยู่ระหว่างขั้นตอนการอัปเกรด 

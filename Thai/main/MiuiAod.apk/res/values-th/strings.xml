@@ -167,6 +167,7 @@ dd/MM"</string>
     <string name="midnight">กลางคืน</string>
     <string name="mini_time">นาฬิกาขนาดเล็ก</string>
     <string name="minimalist_clock">นาฬิกาแบบง่าย</string>
+    <string name="miuix_access_state_desc">ที่เลือกไว้</string>
     <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
@@ -270,7 +271,7 @@ dd/MM"</string>
     <string name="select_notification_notify_style">เลือกเอฟเฟคการแจ้งเตือน</string>
     <string name="send">ส่ง</string>
     <string name="share">แชร์</string>
-    <string name="share_to_community">แชร์ไปยัง Mi Community</string>
+    <string name="share_to_community">แชร์ไปยัง Xiaomi Community</string>
     <string name="show_battery">แสดงสถานะแบตเตอรี่</string>
     <string name="show_battery_status">แสดงสถานะแบตเตอรี่</string>
     <string name="show_lunar">แสดงปฏิทินจีนโบราณ</string>
@@ -283,10 +284,11 @@ dd/MM"</string>
 กำลังจะเกิดขึ้น"</string>
     <string name="standard_clock_panel">มาตรฐาน</string>
     <string name="standard_style">มาตรฐาน</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">จำนวนก้าวนับโดย Xiaomi Health ยอมรับข้อกำหนดในการให้บริการของ Xiaomi Health เพื่อดำเนินการต่อ</string>
     <string name="step_component_info_desc">การนับก้าวจะกลายเป็นรางวัลเมื่อคุณถึงเป้าหมาย จำนวนก้าวนับโดย Xiaomi Health</string>
     <string name="step_component_info_tip">จำนวนก้าวนับโดย Xiaomi Health ติดตั้งหรืออัปเดต Xiaomi Health และยอมรับข้อกำหนดในการให้บริการเพื่อดำเนินการต่อ</string>
-    <string name="step_to_image_community">ค้นหาเพิ่มเติมใน Mi Community</string>
+    <string name="step_to_image_community">ค้นหาเพิ่มเติมใน Xiaomi Community</string>
     <string name="summary">เพื่อลดการใช้พลังงาน รายการจะไม่ปรากฏขึ้นเมื่ออุปกรณ์ของคุณอยู่ในที่มืดเป็นเวลานาน</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
@@ -338,6 +340,7 @@ dd/MM"</string>
     <string name="the_united_nations_day">วันสหประชาชาติ</string>
     <string name="the_valentines_day">วันวาเลนไทน์</string>
     <string name="the_water_lantern_festival">เทศกาลโคมไฟน้ำ</string>
+    <string name="theme_manager_other">รายการเพิ่มเติม</string>
     <string name="thursday">วันพฤหัสบดี</string>
     <string name="thursday_short">พฤหัส</string>
     <string name="thursday_shortest">พฤหัส</string>

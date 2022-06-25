@@ -36,6 +36,7 @@
     <string name="add_alarm">เพิ่มการปลุก</string>
     <string name="add_clock">เพิ่มนาฬิกา</string>
     <string name="add_common_timer">เพิ่มตัวนับถอยหลัง</string>
+    <string name="add_new_sound">เพิ่มเสียงเรียกเข้า</string>
     <string name="add_timer">เวลาที่ใช้บ่อย</string>
     <string name="add_timer_dialog_title">เพิ่มตัวนับถอยหลัง</string>
     <string name="add_timezone_title">เพิ่มเขตเวลา</string>
@@ -64,6 +65,7 @@
     <string name="alarmclock_empty_text">ไม่มีการปลุก</string>
     <string name="alarmclock_silent_hint">การปลุกปิดเสียงอยู่</string>
     <string name="alert">เสียงเรียกเข้า</string>
+    <string name="alert_page_desc">กดค้างไว้แล้วปัดขึ้นเพื่อปิดการปลุก</string>
     <string name="alert_ringtone">เสียงเรียกปลุก</string>
     <string name="alert_vibrate_enable_summary">สั่นเมื่อมีการปลุก</string>
     <string name="alert_volume">เสียงเรียกเข้า</string>
@@ -125,6 +127,7 @@
     <string name="common_timer_selector">เลือกตัวนับถอยหลัง</string>
     <string name="confirm">ยืนยัน</string>
     <string name="confirm_abort">ไม่ต้องบันทึก</string>
+    <string name="confirm_remove_custom_ringtone">หากคุณลบเสียงเรียกเข้านี้ การปลุกและตัวจับเวลาที่ใช้จะเล่นเสียงเรียกเข้าเริ่มต้นแทน ลบเลย?</string>
     <string name="content_desc_keep_screen">ปุ่ม \"เปิดหน้าจอไว้\"</string>
     <string name="continue_operation">ทำต่อ</string>
     <string name="continue_step">ถัดไป</string>
@@ -132,6 +135,7 @@
     <string name="control_set_alarm_with_existing">ตั้งการปลุก: %s</string>
     <string name="copy">คัดลอก</string>
     <string name="current_stopwatch_time">เวลาปัจจุบัน</string>
+    <string name="custom_ringtone_lost_permissions">ไม่สามารถเข้าถึงเสียงนี้ได้</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -147,6 +151,7 @@
     <string name="delete_timer_item_title">ลบรายการตัวจับเวลา</string>
     <string name="delete_timezone_title">ลบเขตเวลา</string>
     <string name="deskclock_sleep_no_disturbance">นาฬิกา - จัดการเวลานอน - โหมด DND</string>
+    <string name="device_sounds">เสียงของอุปกรณ์</string>
     <string name="dialog_confirm_abort">การแก้ไขยังไม่ได้บันทึก บันทึกหรือไม่?</string>
     <string name="dialog_legal_off_day">&lt;Data>ดูเหมือนว่าคุณกำลังใช้การตั้งปลุกวันหยุด คุณสมบัตินี้ต้องเชื่อมต่อกับอินเทอร์เน็ตเพื่อให้ทำงานได้ตามปกติ ก่อนใช้งานคุณลักษณะคุณต้องอ่านและยอมรับใน &lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ยอมรับไหม?&lt;/Data></string>
     <string name="dialog_legal_off_day_desc">นาฬิกาไม่ได้รับอนุญาตให้เชื่อมต่ออินเทอร์เน็ตเพื่ออัปเดตข้อมูลเกี่ยวกับวันหยุด สัญญาณเตือนวันหยุดจะดับลงในวันเสาร์และวันอาทิตย์</string>
@@ -498,6 +503,7 @@
     <string name="shutdown_alarm_enable_summary">เสียงปลุกจะดังหากตั้งไว้อย่างน้อย 10 นาทีหลังจากที่คุณปิดเครื่อง</string>
     <string name="shutdown_alarm_title">การปิดเสียงปลุก</string>
     <string name="silent_alarm_summary">ปิดเสียง</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">ปิดครั้งเดียวเวลา %s</string>
     <string name="sleep_analysis">สถิติ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -543,6 +549,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">รอบแรก</string>
     <string name="stopwatch_reset_notification">รีเซ็ตนาฬิกาจับเวลาแล้ว</string>
     <string name="stopwatch_running_notification">นาฬิกาจับเวลา</string>
@@ -551,8 +558,9 @@
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตเพื่อเข้าถึงคุณสมบัติทั้งหมดได้</string>
-    <string name="system_permission_main_purpose">ดูเวลา ตั้งค่าการเตือนและตัวจับเวลา โดยใช้นาฬิกาจับเวลา</string>
+    <string name="system_permission_main_purpose">ดูเวลา ตั้งค่าการปลุกและตัวจับเวลา โดยใช้นาฬิกาจับเวลา</string>
     <string name="system_permission_purpose">การสร้างการเตือนวันทำงานและการตั้งค่าเสียงเรียกเข้าที่กำหนดเอง</string>
     <string name="system_time_setting">การตั้งค่า</string>
     <string name="system_time_settings_category_title">การตั้งค่าเวลา</string>
@@ -666,6 +674,7 @@
     <string name="tv_blank_list_show_text">ยังไม่มีอะไรที่นี่ ค้นหาตำแหน่งเพื่อเพิ่มลงในนาฬิกาโลกของคุณ</string>
     <string name="tv_world_clock_edit_title1">ตำแหน่งที่แสดงบนหน้าจอหลัก</string>
     <string name="tv_world_clock_edit_title2">ตำแหน่งอื่นที่บันทึกไว้</string>
+    <string name="unknown_ringtone_title">ไม่รู้จัก</string>
     <string name="unselect_all">ไม่เลือกทั้งหมด</string>
     <string name="upcoming_alarm">การปลุกครั้งต่อไป: %s</string>
     <string name="upcoming_alarm_hint">คุณสามารถปิดการปลุกนี้ได้ทันที</string>
@@ -688,7 +697,7 @@
     <string name="volume_button_setting_desc">กำหนดฟังก์ชั่นสำหรับปุ่ม Power และ Volume +/-</string>
     <string name="volume_button_setting_summary">ตั้งฟังก์ชั่นปุ่มระดับเสียงระหว่างการปลุก</string>
     <string name="volume_button_setting_title">ปุ่มระดับเสียง</string>
-    <string name="wake_up_alert">ตั้งปลุก</string>
+    <string name="wake_up_alert">การปลุก</string>
     <string name="wake_up_alert_desc">เล่นเสียงเตือนเมื่อถึงเวลาปลุก</string>
     <string name="wake_up_ringtone">เสียงเรียกปลุก</string>
     <string name="wake_up_time">ตื่นนอน</string>
@@ -698,6 +707,8 @@
     <string name="week_ringtone_recommend_desc">เสียงปลุกธรรมชาติเล่นเสียงที่แตกต่างกันขึ้นอยู่กับวันที่ ตั้งเป็นนาฬิกาปลุกเริ่มต้น?</string>
     <string name="white_noise">เสียงรบกวนรอบข้าง</string>
     <string name="white_noise_guide_desc">เพิ่มเสียงพื้นหลังเพื่อให้คุณมีสมาธิ</string>
+    <string name="white_noise_not_selected">ไม่ได้เลือกไว้</string>
+    <string name="white_noise_selected">เลือกไว้</string>
     <string name="white_noise_selector">เลือกเสียง</string>
     <string name="workday_alarm_clock">การปลุกวันทำงาน</string>
     <string name="worldclock_edit_label">นาฬิกาโลก</string>
@@ -721,4 +732,5 @@
     <string name="worldcolock_timezone_local">เหมือนกับเวลาท้องถิ่น</string>
     <string name="xiaoai_ringtone_title">เสียงเรียกเข้า Mi AI</string>
     <string name="yesterday">เมื่อวาน</string>
+    <string name="your_sounds">เสียงของฉัน</string>
 </resources>

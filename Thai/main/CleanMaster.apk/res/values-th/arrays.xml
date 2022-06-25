@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_process_mode">
+        <item>แจ้งให้ทราบ</item>
+        <item>ล้าง</item>
+        <item>ล้างและแจ้งให้ทราบ</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>ขนาด</item>
+        <item>ชื่อ</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>ที่ใช้บ่อย</item>
+        <item>ขนาด</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>ขนาด</item>
+        <item>ชื่อ</item>
+    </string-array>
+    <string-array name="uninstalled_app_sort_type">
+        <item>ขนาด</item>
+        <item>ที่ใช้บ่อย</item>
+        <item>เวลาการติดตั้ง</item>
+    </string-array>
+    <string-array name="wechat_sort">
+        <item>วันที่</item>
+        <item>ขนาด</item>
+    </string-array>
+</resources>

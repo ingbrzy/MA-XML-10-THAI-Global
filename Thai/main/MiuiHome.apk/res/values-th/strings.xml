@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Icon_name_classic_mode">การตั้งค่าหน้าจอหลัก</string>
     <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
     <string name="abc_action_bar_up_description">กลับ</string>
     <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
@@ -40,7 +41,9 @@
     <string name="accessibility_recent_task_exit">ปิดล่าสุด</string>
     <string name="accessibility_recent_task_locked_state">ล็อกแล้ว</string>
     <string name="accessibility_recent_task_memory_info">หน่วยความจำทั้งหมด: %2$s | หน่วยความจำพร้อมใช้งาน: %1$s แตะสองครั้งเพื่อล้าง</string>
+    <string name="accessibility_recent_task_show_menu">ตัวเลือกเพิ่มเติม</string>
     <string name="accessibility_recent_task_unlocked_state">ปลดล็อกแล้ว</string>
+    <string name="accessibility_recents_item_dismissed">ล้าง %1$s ออกแล้ว</string>
     <string name="accessibility_recents_item_open_app_info">เปิดข้อมูลแอป %s</string>
     <string name="accessibility_splite_screen_primary">เพิ่มเป็นแอปหลักในหน้าจอแยก</string>
     <string name="accessibility_splite_screen_secondary">เพิ่มเป็นแอปรองในหน้าจอแยก</string>
@@ -50,8 +53,10 @@
     <string name="activity_not_unlocked">รอจนกว่าอุปกรณ์ของคุณจะรีบูตอย่างสมบูรณ์ก่อนที่จะเปิดแอป</string>
     <string name="add_custom_category">กำหนดเอง</string>
     <string name="add_screen">เพิ่มหน้าจอ</string>
+    <string name="add_to_workspace">เพิ่มไปยังหน้าจอหลัก</string>
     <string name="added_all_category">เพิ่มแอปทั้งหมดสำเร็จแล้ว</string>
     <string name="afternoon">บ่าย</string>
+    <string name="agree_button">ยอมรับ</string>
     <string name="alexa_notification_add">เพิ่ม</string>
     <string name="alexa_notification_cancel">ไม่ใช่ตอนนี้</string>
     <string name="alexa_notification_content">เพิ่มปุ่มลัด Alexa ไปที่ Control center หรือไม่?</string>
@@ -90,6 +95,7 @@
     <string name="all_apps_slide_up_tips">การปัดขึ้นถูกสงวนไว้สำหรับการเปิดลิ้นชักแอป เปลี่ยนเป็นโหมดหน้าจอหลักปกติแล้วลองอีกครั้ง</string>
     <string name="all_apps_suggestions">ข้อแนะนำแอป</string>
     <string name="am">AM</string>
+    <string name="animation_rate_title">ความเร็วภาพเคลื่อนไหว</string>
     <string name="announce_for_app_move_in_folder">ย้ายไปที่ตำแหน่ง %1$d ในโฟลเดอร์</string>
     <string name="announce_for_checked">%1$s เลือกแล้ว</string>
     <string name="announce_for_choose_default_screen">ตั้งค่าหน้าจอ %1$d เป็นหน้าจอหลักเริ่มต้น</string>
@@ -142,6 +148,13 @@
     <string name="app_category_tools">เครื่องมือ</string>
     <string name="app_category_travel">เดินทาง</string>
     <string name="app_category_vr">VR</string>
+    <string name="app_drawer_double_confirm_description">นี่จะเปลี่ยนเค้าโครงหน้าจอหลักของคุณ คุณจะสามารถย้อนกลับการเปลี่ยนแปลงเหล่านี้ได้ในการตั้งค่าในภายหลัง</string>
+    <string name="app_drawer_double_confirm_title">โปรดทราบ</string>
+    <string name="app_drawer_feature_description">ลิ้นชักแอปเป็นเครื่องมือที่สมบูรณ์แบบสำหรับการจัดเรียงแอปทั้งหมดของคุณ จัดหมวดหมู่แอปโดยอัตโนมัติและค้นหาทุกสิ่งที่คุณต้องการได้ในพริบตา!</string>
+    <string name="app_drawer_guide_description">ค้นหาสิ่งที่คุณต้องการในแอปโปรดของคุณ</string>
+    <string name="app_drawer_guide_title">ลิ้นชักแอป</string>
+    <string name="app_drawer_tip_title">เราได้แทนที่ฟีดเนื้อหาด้วยลิ้นชักแอป</string>
+    <string name="app_install_state">ติดตั้งแล้ว</string>
     <string name="app_name">smallWindow</string>
     <string name="application_name">ตัวเรียกใช้ระบบ</string>
     <string name="apply">นำไปใช้</string>
@@ -164,8 +177,35 @@
     <string name="back">ย้อนกลับ</string>
     <string name="backup_fail">ไม่สามารถเปิดใช้การสำรองข้อมูลได้</string>
     <string name="bad_wallpaper_source_prompt">ไม่สามารถโหลดภาพพื้นหลังได้</string>
+    <string name="branch_feature_description">นอกจากแอปแล้ว Quick Finder ยังสามารถค้นหาเนื้อหาและรายการในแอปออนไลน์</string>
+    <string name="branch_guide_attention">การใช้การค้นหาขั้นสูงจำเป็นต้องแชร์คำขอค้นหารหัส Google Ads และที่อยู่ IP ของคุณกับ Branch Metrics Inc. อ่านและยอมรับ <font color="#B3000000"><a href="http://url1">ข้อกำหนดและเงื่อนไข Discovery ผู้ใช้ปลายทาง</a></font> และ <font color="#B3000000"><a href="http://url2">นโยบายความเป็นส่วนตัว Branch Discovery</a></font> ก่อนใช้คุณสมบัตินี้</string>
+    <string name="branch_guide_description_one">เราจะใส่แอปทั้งหมดของคุณในลิ้นชักแอป หน้าจอหลักของคุณจะดูเรียบร้อยและเป็นระเบียบ</string>
+    <string name="branch_guide_description_three">ด้วยการค้นหาในตัว คุณจะสามารถค้นหาสิ่งที่คุณต้องการได้ในพริบตา!</string>
+    <string name="branch_guide_description_two">ลิ้นชักแอปจะจัดหมวดหมู่แอปโดยอัตโนมัติ</string>
+    <string name="branch_guide_tip_title">ทุกแอปในสถานที่ของตัวเอง</string>
+    <string name="branch_guide_title">พบกับลิ้นชักแอป</string>
+    <string name="branch_guide_type_four_desc">คุณสามารถกลับไปใช้วิธีเดิมๆ ได้ใน 2 ขั้นตอนง่ายๆ</string>
+    <string name="branch_guide_type_four_main">ในการตั้งค่า ไปที่หน้าจอหลัก > หน้าจอหลักและเลือก \"คลาสสิก\"</string>
+    <string name="branch_guide_type_four_step_one">เปิดการตั้งค่า</string>
+    <string name="branch_guide_type_four_step_two">เลือกหน้าจอหลัก</string>
+    <string name="branch_guide_type_one_desc">จัดการแอปของคุณด้วยลิ้นชักแอป</string>
+    <string name="branch_guide_type_one_main">เก็บแอปของคุณไว้ในลิ้นชักแอปเพื่อทำให้หน้าจอหลักของคุณเรียบร้อยและเป็นระเบียบ</string>
+    <string name="branch_new_feature">คุณลักษณะใหม่</string>
+    <string name="branch_privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="branch_search_guide_description">ผลการค้นหาของเราในขณะนี้ครอบคลุมมากยิ่งขึ้น</string>
+    <string name="branch_search_guide_privacy">บริการนี้ขับเคลื่อนโดย Branch Metrics Inc. ข้อมูลตำแหน่งของคุณ คำค้นหา และรหัสโฆษณา Google จะถูกแชร์กับ Branch โปรดอ่านและยอมรับ <font color="#B3000000"><a href="http://url1">ข้อกำหนดและเงื่อนไข</a></font> และ <font color="#B3000000"><a href="http://url2">นโยบายความเป็นส่วนตัว</a></font> ของ Branch ก่อนที่จะใช้บริการนี้</string>
+    <string name="branch_search_guide_title">ค้นหาสิ่งที่คุณต้องการในแอปโปรดของคุณ</string>
+    <string name="branch_terms_condition">ข้อตกลงและเงื่อนไข</string>
+    <string name="branch_tip_title">ด้วย Quick Finder คุณสามารถค้นหาทุกสิ่งที่คุณต้องการได้ในพริบตา</string>
+    <string name="btn_agree">ยอมรับ</string>
+    <string name="btn_cancel">ยกเลิก</string>
+    <string name="btn_close">ปิดใช้งาน</string>
+    <string name="btn_open">เปิดใช้งาน</string>
+    <string name="btn_request_permission">ให้สิทธิ์การใช้งาน</string>
+    <string name="btn_set_right_now">ให้สิทธิ์การใช้งาน</string>
     <string name="buffering">กำลังบัฟเฟอร์…</string>
     <string name="cancel_action">ยกเลิก</string>
+    <string name="cancel_botton">ยกเลิก</string>
     <string name="cancel_btn_label">ยกเลิก</string>
     <string name="cant_edit_lock_screen">ไม่สามารถแก้ไขรูปแบบหน้าจอล็อกได้</string>
     <string name="cant_remove_folder">ไม่สามารถลบโฟลเดอร์ได้</string>
@@ -187,7 +227,10 @@
     <string name="chooser_wallpaper">เลือกภาพพื้นหลังใหม่</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="close">ปิด</string>
+    <string name="close_multi_finger_slide_summary">ท่าทางสัมผัสเหล่านี้จะถูกละเว้นในบางสถานการณ์ (เช่น การเล่นเกมและวิดีโอ)</string>
+    <string name="close_multi_finger_slide_title">ไม่ตอบสนองต่อท่าทางสามและสี่นิ้ว</string>
     <string name="cloud_app_restore_title">รอดำเนินการ</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
     <string name="common_home_search_delete">กำลังลบแถบค้นหา</string>
     <string name="common_home_search_delete_cancle">ยกเลิก</string>
     <string name="common_home_search_delete_confirm">ลบออก</string>
@@ -242,6 +285,7 @@
     <string name="deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="disable_wallpaper_scroll">ภาพพื้นหลังเลื่อนตามไม่ได้</string>
     <string name="download_action">ดาวน์โหลด</string>
+    <string name="drag_icon_to_homescreen_guide">กดไอคอนแอปค้างไว้ แล้วลากเพื่อเพิ่มปุ่มลัดบนหน้าจอหลัก</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
     <string name="drawer_background">พื้นหลัง</string>
@@ -273,9 +317,11 @@
     <string name="emptyplaylist">แตะเพื่อเพิ่มเพลง</string>
     <string name="enable_wallpaper_scroll">ให้ภาพพื้นหลังเลื่อนตามได้</string>
     <string name="encryption">การเข้ารหัส</string>
+    <string name="enter_search_setting_title">เปิดการค้นหาหลังจากเปิดลิ้นชักแอป</string>
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="evening">บ่าย</string>
+    <string name="exit_overview_because_task_stack_changed">ปิดล่าสุดเนื่องจากการเปลี่ยนแปลงที่เกิดขึ้นในพื้นหลัง</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="failed_to_delete_temporary">ไม่สามารถลบออก</string>
     <string name="failed_to_drop">ไม่สามารถย้ายได้</string>
@@ -333,6 +379,8 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_pair_install_shortcut_long_click">กดค้างเพื่อเพิ่มไปยังหน้าจอหลัก</string>
+    <string name="fold_pair_installed_shortcut_launcher">ปุ่มลัดนี้มีอยู่แล้ว</string>
     <string name="folder_name">โฟลเดอร์</string>
     <string name="frame_load_failed">ไม่สามารถโหลดกรอบได้</string>
     <string name="free_style_apps_title">เลือกแอป</string>
@@ -388,11 +436,14 @@
     <string name="gadget_weather_title_14">สภาพอากาศ</string>
     <string name="gadget_weather_title_24">สภาพอากาศ</string>
     <string name="global_search_hint">ค้นหา</string>
+    <string name="got_it_botton">รับทราบ</string>
     <string name="group_folder">โฟลเดอร์ใหม่</string>
     <string name="group_live_folders">โฟลเดอร์</string>
     <string name="group_shortcuts">ปุ่มลัด</string>
     <string name="guide_install_app_msg">แอปนี้ยังไม่ได้ติดตั้งบนเครื่อง ต้องการค้นหาและติดตั้งแอปตอนนี้หรือไม่?</string>
     <string name="guide_install_app_title">ต้องการค้นหาและติดตั้งแอปหรือไม่?</string>
+    <string name="guide_permission_title">ต้องการคำร้องขออนุญาต</string>
+    <string name="guide_privacy_dialog_title">เงื่อนไขการใช้บริการ</string>
     <string name="guide_tips_editing_mode">แตะค้างไว้เพื่อรับวิดเจ็ต</string>
     <string name="home_gesture_content_center">ศูนย์เนื้อหา</string>
     <string name="home_gesture_global_search">ค้นหา</string>
@@ -423,6 +474,9 @@
     <string name="launcher_slide_up_title">เลื่อนขึ้นบนหน้าจอหลัก</string>
     <string name="launcher_sliding_up_gesture">เลื่อนหน้าจอหลักขึ้นเพื่อเปิดการค้นหา</string>
     <string name="launcher_title">หน้าจอหลักและล่าสุด</string>
+    <string name="layout_guide_description">หากคุณไม่ชอบลิ้นชักแอป คุณสามารถกลับไปที่หน้าจอหลักแบบคลาสสิกได้ตลอดเวลา เพียงใช้ทางลัด \"การตั้งค่าหน้าจอหลัก\" และสลับไปมาระหว่างสองโหมด</string>
+    <string name="layout_guide_tip_title">คุณสามารถกลับไปใช้วิธีเดิมๆ ได้ในการแตะเพียงครั้งเดียว</string>
+    <string name="layout_guide_title">วิธีลบลิ้นชักแอป</string>
     <string name="like">เพิ่มรายการโปรด</string>
     <string name="liked">เพิ่มไปยังรายการโปรดแล้ว</string>
     <string name="loading_desktop">รอสักครู่…</string>
@@ -540,8 +594,12 @@
     <string name="mtzgadget_missing_text">วิดเจ็ตไม่สามารถใช้งานได้</string>
     <string name="multi_selecting_tips">เพื่อจัดระเบียบแอป ลากไอคอนและวางที่นี่</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">ปัดขึ้นจากด้านล่างของหน้าจอ จากนั้นปัดไปทางซ้ายหรือขวา</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary_pad">ปัดนิ้วไปทางซ้ายหรือขวาที่ด้านล่างของหน้าจอ</string>
     <string name="navigation_guide_app_quick_switch_summary">ปัดไปทางซ้ายหรือขวาจากตัวแสดงเต็มหน้าจอหรือด้านล่างของหน้าจอ</string>
+    <string name="navigation_guide_app_quick_switch_summary_pad">ปัดไปทางซ้ายหรือขวาจากตัวแสดงเต็มหน้าจอหรือด้านล่างของหน้าจอ</string>
+    <string name="navigation_guide_app_quick_switch_summary_spec_pad">ปัดนิ้วไปทางซ้ายหรือขวาจากด้านล่างของหน้าจอ</string>
     <string name="navigation_guide_app_quick_switch_title">สลับระหว่างแอป</string>
+    <string name="navigation_guide_app_quick_switch_title_spec_with_quotation_pad">สลับระหว่างแอป</string>
     <string name="navigation_guide_app_summary">ปัดนิ้วไปทางซ้ายหรือขวาจากขอบของหน้าจอในพื้นที่ด้านบน</string>
     <string name="navigation_guide_app_title">เรียกใช้ฟังก์ชันแอป</string>
     <string name="navigation_guide_appswitch_anim_summary">ปัดข้ามหน้าจอโดยเริ่มจากขอบเพื่อกลับไปที่แอปก่อนหน้า</string>
@@ -550,24 +608,46 @@
     <string name="navigation_guide_appswitch_summary">ปัดนิ้วไปทางซ้ายหรือขวาจากขอบของหน้าจอและกดค้างไว้สักครู่</string>
     <string name="navigation_guide_appswitch_title">สลับไปยังแอปก่อนหน้า</string>
     <string name="navigation_guide_back_summary">ปัดนิ้วไปทางซ้ายหรือขวาจากขอบของหน้าจอ</string>
+    <string name="navigation_guide_back_summary_pad">ปัดจากด้านข้างมาตรงกลางหน้าจอ</string>
+    <string name="navigation_guide_back_summary_spec_pad">ปัดจากขอบไปที่กึ่งกลางของหน้าจอ</string>
     <string name="navigation_guide_back_title">ย้อนกลับ</string>
+    <string name="navigation_guide_back_title_spec_with_quotation_pad">ย้อนกลับ</string>
     <string name="navigation_guide_dialog_dont_show_again">ไม่ต้องแสดงอีก</string>
     <string name="navigation_guide_dialog_ok">เรียนรู้</string>
     <string name="navigation_guide_dialog_skip">ไม่ใช่ตอนนี้</string>
     <string name="navigation_guide_dialog_summary">เรียนรู้ท่าทางสัมผัสที่คุณสามารถใช้สำหรับการนำทางของระบบ</string>
     <string name="navigation_guide_dialog_title">เรียนรู้ท่าทางสัมผัส</string>
+    <string name="navigation_guide_dock_summary_pad">เลื่อนขึ้นจากด้านล่างของหน้าจอ</string>
+    <string name="navigation_guide_dock_summary_spec_pad">เลื่อนขึ้นจากขอบล่างของหน้าจอ</string>
+    <string name="navigation_guide_dock_title_pad">แสดงชุดไอคอนแอป</string>
+    <string name="navigation_guide_dock_title_spec_pad">แสดงชุดไอคอนแอปภายในแอป</string>
+    <string name="navigation_guide_dock_title_spec_with_quotation_pad">แสดงชุดไอคอนแอปภายในแอป</string>
     <string name="navigation_guide_finish_text">รับทราบ</string>
     <string name="navigation_guide_gesture_line_dialog_summary">รูปแบบลายเส้นใหม่สำหรับการสลับระหว่างแอปจะถูกนำมาใช้หลังจากที่คุณซ่อนตัวแสดงเต็มหน้าจอ เรียนรู้ท่าทางนี้ตอนนี้?</string>
     <string name="navigation_guide_gesture_line_dialog_title">เรียนรู้ท่าทางใหม่</string>
     <string name="navigation_guide_hide_gesture_line_summary">ไม่แสดงตัวแสดงเต็มหน้าจอเมื่อใช้ท่าทางสัมผัสเต็มหน้าจอ</string>
     <string name="navigation_guide_hide_gesture_line_title">ซ่อนตัวแสดงเต็มหน้าจอ</string>
     <string name="navigation_guide_home_summary">ปัดขึ้นจากด้านล่างของหน้าจอ</string>
+    <string name="navigation_guide_home_summary_spec_pad">ปัดขึ้นจากขอบล่างของหน้าจอ</string>
     <string name="navigation_guide_home_title">ไปยังหน้าจอหลัก</string>
+    <string name="navigation_guide_home_title_spec_with_quotation_pad">ไปยังหน้าจอหลัก</string>
+    <string name="navigation_guide_next_spec_pad">ถัดไป</string>
+    <string name="navigation_guide_prev_spec_pad">ย้อนกลับ</string>
     <string name="navigation_guide_prohibit_gesture_hint">ไม่สามารถใช้ท่าทางสัมผัสแบบเต็มหน้าจอขณะดูตัวอย่างได้</string>
+    <string name="navigation_guide_provision_see_more_pad">ดูการสาธิตเพิ่มเติมในการตั้งค่า > หน้าจอหลัก > ท่าทางสัมผัสแบบเต็มหน้าจอ</string>
     <string name="navigation_guide_provision_see_more_pad_with_virtual_key">ดูการสาธิตเพิ่มเติมในการตั้งค่า > หน้าจอหลัก > การนำทางของระบบ</string>
+    <string name="navigation_guide_provision_title_pad">ท่าทางสัมผัสแบบเต็มหน้าจอ</string>
     <string name="navigation_guide_recent_summary">ปัดขึ้นจากด้านล่างของหน้าจอและหยุด</string>
+    <string name="navigation_guide_recent_summary_pad">ปัดขึ้นจากด้านล่างของหน้าจอและหยุด</string>
+    <string name="navigation_guide_recent_summary_spec_pad">ปัดขึ้นจากขอบล่างของหน้าจอ หยุดชั่วคราว แล้วยกนิ้วขึ้น</string>
     <string name="navigation_guide_recent_title">เปิดล่าสุด</string>
+    <string name="navigation_guide_recent_title_spec_with_quotation_pad">เปิดล่าสุด</string>
     <string name="navigation_guide_settings">การสาธิตท่าทางสัมผัส</string>
+    <string name="navigation_position_center">กลาง</string>
+    <string name="navigation_position_left">ซ้าย</string>
+    <string name="navigation_position_right">ขวา</string>
+    <string name="navigation_position_summary">ตำแหน่งที่กำหนดเองของปุ่มนำทางสามารถใช้ได้กับหน้าจอหลักเท่านั้น</string>
+    <string name="navigation_position_title">ตำแหน่งปุ่มนำทาง</string>
     <string name="navigation_set_miui_home_as_default_dialog_cancel">ยกเลิก </string>
     <string name="navigation_set_miui_home_as_default_dialog_message">ไม่สามารถใช้ท่าทางเต็มหน้าจอกับตัวเรียกใช้งานบุคคลที่สาม สลับไปที่ตัวเรียกใช้ระบบและเปิดท่าทางเต็มหน้าจอหรือไม่?</string>
     <string name="navigation_set_miui_home_as_default_dialog_ok">ตกลง</string>
@@ -576,9 +656,11 @@
     <string name="navigation_type_title">การนำทางของระบบ</string>
     <string name="navigation_type_virtual_key">ปุ่ม</string>
     <string name="network_error">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ลองอีกครั้ง</string>
+    <string name="new_feature_title">มีอะไรใหม่</string>
     <string name="night">เย็น</string>
     <string name="no_detail_page">ไม่มีหน้ารายละเอียด</string>
     <string name="no_space_toast">พื้นที่ว่างไม่เพียงพอ</string>
+    <string name="no_space_toast_fold">พื้นที่ตรงนี้ไม่พอ</string>
     <string name="no_space_toast_when_click_widget">พื้นที่ไม่เพียงพอในหน้านี้ ลองลากรายการนี้ไปยังหน้าอื่น</string>
     <string name="noon">เที่ยงวัน</string>
     <string name="normal_wallpaper">ภาพพื้นหลัง</string>
@@ -599,6 +681,7 @@
     <string name="ota_layout_adjustment_content">เค้าโครงหน้าจอหลักภายในและภายนอกได้รับการซิงโครไนซ์ในเวอร์ชันใหม่</string>
     <string name="ota_layout_adjustment_title">รูปแบบหน้าจอหลัก</string>
     <string name="out_of_space">ไม่มีที่ว่างบนหน้าจอหลักแล้ว</string>
+    <string name="pair_icon_name">%1$s | %2$s</string>
     <string name="perfect_icons_switch_summary">แสดงภาพเคลื่อนไหวบนไอคอนแอปของบุคคลที่สาม</string>
     <string name="perfect_icons_switch_title">ภาพไอคอนเคลื่อนไหวทั่วโลก</string>
     <string name="permdesc_install_shortcut">อนุญาตให้แอปเพิ่ม ปุ่มลัดโดยอัตโนมัติ</string>
@@ -618,6 +701,7 @@
     <string name="photo_load_failed">ไม่สามารถโหลดภาพได้</string>
     <string name="please_slide_agian">สไลด์อีกครั้ง</string>
     <string name="pm">PM</string>
+    <string name="popular_search">ยอดนิยม</string>
     <string name="pref_cell_layout_size">เค้าโครงไอคอนแอป</string>
     <string name="pref_enable_drawing_cache_summary">ปิดเพื่อเพิ่มหน่วยความจำ แต่อาจทำให้ประสิทธิภาพการทำงานช้าลง</string>
     <string name="pref_enable_drawing_cache_title">แคชการวาด</string>
@@ -638,6 +722,14 @@
     <string name="privacy_thumbnail_blur_summary">ตัวอย่างแอปเบลอล่าสุด</string>
     <string name="privacy_thumbnail_blur_title">ดูตัวอย่างแอปเบลอ</string>
     <string name="quick_app">แอปด่วน</string>
+    <string name="quick_finder_feature_description">Quick Finder ช่วยให้คุณค้นหาแอปเนื้อหาในแอปและรายการออนไลน์ได้เร็วขึ้น คุณสามารถปิดคุณสมบัตินี้ได้ในการตั้งค่า</string>
+    <string name="quick_finder_tip_title">ค้นหาทุกสิ่งที่คุณต้องการได้เร็วขึ้น</string>
+    <string name="quick_search_all_app_desc">แสดงแอปทั้งหมดในลิ้นชักแอป</string>
+    <string name="quick_search_desc">เปิดการค้นหาหลังจากเปิดลิ้นชักแอป</string>
+    <string name="quick_search_guide_all_apps">แอปทั้งหมด</string>
+    <string name="quick_search_guide_ok_btn">ตกลง</string>
+    <string name="quick_search_guide_quick_search">ค้นหาด่วน</string>
+    <string name="quick_search_guide_title">เลือกโหมดเริ่มต้น</string>
     <string name="recent_apps">เมื่อเร็วๆนี้</string>
     <string name="recent_menu_item_info">ข้อมูล</string>
     <string name="recent_menu_item_lock">ล็อก</string>
@@ -667,6 +759,7 @@
     <string name="recents_title_security_scan">สแกนความปลอดภัย</string>
     <string name="recents_tv_small_window_text">หน้าต่างลอย</string>
     <string name="recents_worldcirculate_text">ปล่อยเพื่อเลือก</string>
+    <string name="recnets_relay_device_info">จาก %s</string>
     <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
     <string name="recnets_worldcirculate_display_computer_info">แอปกำลังทำงานบน %s</string>
     <string name="recnets_worldcirculate_display_default_info">แตะเพื่อนำกลับมาที่นี่</string>
@@ -688,6 +781,8 @@
     <string name="remove_invalidate_gadget_tips">หนึ่งในวิดเจ็ตที่คุณใช้ไม่สามารถใช้ได้อีกต่อไป คุณสามารถเพิ่มอันอื่นๆได้</string>
     <string name="remove_sys_app_content">คุณจะสามารถเพิ่มทางลัดบนหน้าจอหลักได้อีกครั้งในการตั้งค่า > แอป > จัดการทางลัดบนหน้าจอหลัก ลบออกเลยไหม?</string>
     <string name="remove_sys_app_title">ลบปุ่มลัดหน้าจอหลัก?</string>
+    <string name="request_permission_msg">POCO Launcher ต้องการสิทธิ์บางอย่างเพื่อให้คุณสามารถใช้งานฟังก์ชั่นเต็มรูปแบบได้</string>
+    <string name="request_permission_title">ต้องการคำร้องขออนุญาต</string>
     <string name="reset_cate_tip_content">หากคุณดำเนินการต่อ ค่าเริ่มต้นของกลุ่มแอปจะถูกคืนค่า ดำเนินการต่อหรือไม่?</string>
     <string name="reset_cate_tip_title">เรียกคืนค่ากลุ่มเริ่มต้น</string>
     <string name="reset_description_first_time">คุณสามารถคืนค่ารูปแบบจาก %1$s ภายใน 2 ชั่วโมง</string>
@@ -703,6 +798,8 @@
     <string name="screen_cells_config_title">รูปแบบหน้าจอหลัก</string>
     <string name="screen_locked_toast">การจัดเรียงหน้าจอหลักล็อกอยู่</string>
     <string name="screen_number">หน้าจอที่ %d</string>
+    <string name="search_bar_hint_content">ค้นหาแอปและเนื้อหา</string>
+    <string name="search_guide_btn">รับทราบ</string>
     <string name="search_in_apps_store">ค้นหา \"%1$s\" ใน %2$s</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="search_no_result">ไม่พบผลลัพธ์การค้นหาใดๆ</string>
@@ -711,6 +808,7 @@
     <string name="select_photo">รูปภาพ</string>
     <string name="send">ส่ง</string>
     <string name="server_error">เซิร์ฟเวอร์ผิดพลาด กรุณารอสักครู่และลองอีกครั้ง</string>
+    <string name="service_double_attention">ฟังก์ชันการค้นหาขั้นสูงให้บริการโดย Branch Metrics Inc. เพื่อให้คุณลักษณะนี้ใช้งานได้เราจำเป็นต้องแชร์คำขอค้นหารหัส Google Ads และที่อยู่ IP ของคุณกับ Branch Metrics Inc. อ่านและยอมรับ <font color="#B3000000"><a href="http://url1">ข้อกำหนดและเงื่อนไข Discovery ผู้ใช้ปลายทาง</a></font> และ <font color="#B3000000"><a href="http://url2">นโยบายความเป็นส่วนตัว Branch Discovery</a></font> ก่อนใช้คุณสมบัตินี้</string>
     <string name="setting_wallpaper_tip">ปรับภาพโดยจีบนิ้วเข้าออกหรือปัด</string>
     <string name="settings">ตั้งค่า</string>
     <string name="settings_shortcut">การตั้งค่า</string>
@@ -726,6 +824,7 @@
     <string name="show_most_popular_apps_you_used">แสดงแอปที่ใช้บ่อยที่สุดในลิ้นชัก</string>
     <string name="show_recents_recommend_title">แสดงคำแนะนำ</string>
     <string name="slide_to_open_newhome">ปัดขึ้นเพื่อเปิดศูนย์เนื้อหา</string>
+    <string name="small_window">หน้าต่างลอย</string>
     <string name="small_window_button_complete">เสร็จสิ้น</string>
     <string name="small_window_edit_content">คุณสามารถเพิ่มผู้ใช้ได้สูงสุดถึง %d แอป</string>
     <string name="small_window_edit_title">แอปปัจจุบัน</string>
@@ -738,6 +837,7 @@
     <string name="sort_by_not_defined">เรียงอัตโนมัติ</string>
     <string name="start_activity_failed">ชุดเรียกใช้ระบบไม่ทำงาน</string>
     <string name="starting_preset_app">กำลังเริ่ม…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">ใช้ได้ %1$s จากทั้งหมด %2$s</string>
     <string name="status_bar_recent_memory_info2" />
@@ -747,12 +847,14 @@
     <string name="status_installing">กำลังติดตั้ง</string>
     <string name="status_paused">หยุดพัก</string>
     <string name="status_pending">กำลังรอ</string>
+    <string name="suggestions">ข้อเสนอแนะ</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
     <string name="swipe_the_desktop_to_the_left">ปัดซ้ายบนหน้าจอหลัก</string>
     <string name="swipe_the_desktop_to_the_right">ปัดขวาบนหน้าจอหลัก</string>
+    <string name="switch_on_button">เปิดใช้งาน</string>
     <string name="switch_personal_assistant_app_vault">App vault</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">ไม่มี</string>
@@ -763,6 +865,10 @@
     <string name="system_shortcuts_remove">ลบออก</string>
     <string name="system_text">อัตโนมัติ</string>
     <string name="task_access_locked_app_msg">เปิดใช้ล็อกแอปแล้ว</string>
+    <string name="term_of_service">ข้อตกลงและเงื่อนไข</string>
+    <string name="terms_of_services_one">ยินดีต้อนรับสู่ ลิ้นชักแอป และ ค้นหาด่วน ค้นหาด่วน ช่วยให้คุณค้นหา แอป เนื้อหาในแอป และรายการออนไลน์ได้เร็วขึ้น อ่านและยอมรับ <font color="#B3000000"><a href="http://url1">นโยบายความเป็นส่วนตัว</a></font> ของ Xiaomi ก่อนใช้คุณสมบัติเหล่านี้</string>
+    <string name="terms_of_services_three">คุณสามารถปิดคุณลักษณะนี้ได้ในการตั้งค่า</string>
+    <string name="terms_of_services_two">การใช้การค้นหาขั้นสูงจำเป็นต้องแบ่งปันข้อมูลส่วนบุคคลที่จำเป็น รวมถึงคำค้นหารหัสโฆษณาของ Google และที่อยู่ IP ด้วย Branch Metrics Inc. Branch จะประมวลผลข้อมูลส่วนบุคคลของคุณตาม <font color="#B3000000"><a href="http://url1">นโยบายความเป็นส่วนตัว Branch Discovery</a></font> อ่านและยอมรับ <font color="#B3000000"><a href="http://url2">ข้อกำหนดและเงื่อนไขผู้ใช้ปลายทาง Discovery</a></font> และ <font color="#B3000000"><a href="http://url3">นโยบายความเป็นส่วนตัว Branch Discovery</a></font> ก่อนใช้คุณสมบัตินี้</string>
     <string name="the_anniversary_of_lifting_martial_law">วันฉลองยกเลิกอัยการศึก</string>
     <string name="the_anti_aggression_day">วันต่อต้านการกระทำรุนแรง</string>
     <string name="the_arbor_day">วันอาร์เบอร์</string>
@@ -829,6 +935,11 @@
     <string name="tuesday">วันอังคาร</string>
     <string name="tuesday_short">อังคาร</string>
     <string name="tuesday_shortest">อังคาร</string>
+    <string name="uni_search_permission_content">เปิดใช้คุณสมบัติการค้นหาออนไลน์ (ให้บริการค้นหาโดย Branch)</string>
+    <string name="uni_search_permission_msg">อนุญาตให้ POCO Launcher เข้าถึงตำแหน่งและผู้ติดต่อของคุณเพื่อเพิ่มประสิทธิภาพการค้นหา</string>
+    <string name="uni_search_permission_title">พัฒนาวิธีการค้นหา</string>
+    <string name="uni_search_setting_summary">ค้นหาเนื้อหาภายในแอปโดยตรง</string>
+    <string name="uni_search_setting_title">โหมดการสืบค้นในแอป</string>
     <string name="uninstall">ถอนการติดตั้ง</string>
     <string name="uninstall_dialog_message">เมื่อถอนการติดตั้งแล้วข้อมูลในแอปทั้งหมดจะถูกลบออก</string>
     <string name="uninstall_dialog_title_format">ถอนการติดตั้ง %s?</string>
@@ -839,6 +950,7 @@
     <string name="uninstall_xspace_dialog_title_format">ถอนการติดตั้งคู่ \"%s\"?</string>
     <string name="unknown_artist_name">ศิลปินที่ไม่รู้จัก</string>
     <string name="unnamed_folder_name">โฟลเดอร์</string>
+    <string name="upgrade_remove_small_window_in_recents">คุณสามารถใช้แถบด้านข้างเพื่อเปิดแอปในหน้าต่างลอยได้</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="wallpaper">ภาพพื้นหลัง</string>

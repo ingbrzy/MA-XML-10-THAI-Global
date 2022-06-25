@@ -204,6 +204,7 @@
     <string name="low_battery_error_for_pad">เหลือแบตเตอรี่น้อยกว่า %s หยุดและจัดเก็บเสียงที่บันทึกของคุณเพื่อป้องกันการสูญหาย</string>
     <string name="low_battery_error_title">แบตเตอรี่ต่ำ</string>
     <string name="lyric_item_point_count">%1$d ถึง %2$d</string>
+    <string name="manage_external_storage">เข้าถึงไฟล์ทั้งหมด</string>
     <string name="mark_point_list_title">ทำเครื่องหมายไว้</string>
     <string name="material_clock_toggle_content_description">เลือก AM หรือ PM</string>
     <string name="material_hour_selection">เลือกชั่วโมง</string>
@@ -296,6 +297,7 @@
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -571,6 +573,7 @@
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
+    <string name="sync_desc_state_complete">ซิงค์กับคลาวด์แล้ว: %1$s</string>
     <string name="tab_all">ทั้งหมด</string>
     <string name="tab_apps">แอป</string>
     <string name="tab_call">การโทร</string>

@@ -235,6 +235,11 @@ Xiaomi Health จะแจ้งเตือนคุณเกี่ยวกั
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>
     <string name="dialog_sleep_record_auto_start">หากต้องการติดตามการนอนหลับที่แม่นยำยิ่งขึ้น โปรดอนุญาตให้ Xiaomi Health ทำการเริ่มอัตโนมัติ</string>
     <string name="dialog_sure">ตกลง</string>
+    <string name="dialog_upgrade_description">"1. การออกแบบใหม่
+2. ซิงค์ข้อมูลระหว่างอุปกรณ์
+3. ดูข้อมูลด้านสุขภาพจาก Health, Xiaomi Wear และแอปอื่นๆ ในที่เดียว"</string>
+    <string name="dialog_upgrade_positive_btn">อัปเดต</string>
+    <string name="dialog_upgrade_title">Mi Fitness</string>
     <string name="dialog_user_agreement_purpose">ยินดีต้อนรับสู่ Xiaomi Health! คุณสามารถใช้แอปนี้เพื่อ นับก้าว ติดตามการนอนหลับ ประจำเดือน และน้ำหนัก รวมถึงซิงค์สถิติของคุณกับคลาวด์</string>
     <string name="dialog_user_agreement_purpose2">ยินดีต้อนรับสู่ Xiaomi Health คุณสามารถใช้แอปนี้เพื่อนับขั้นตอนวิเคราะห์การนอนช่วงเวลาติดตามน้ำหนักการบันทึกและอื่นๆ</string>
     <string name="disable">ปิด</string>
