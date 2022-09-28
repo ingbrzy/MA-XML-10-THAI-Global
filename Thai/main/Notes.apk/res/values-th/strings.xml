@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="access_denied_info">มีความพยายามมากเกินไป รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="action_collapse">ซ่อน</string>
     <string name="action_expand">แสดงเพิ่มเติม</string>
     <string name="action_folder_description">เรียกดูโฟลเดอร์</string>
@@ -137,6 +138,7 @@
     <string name="dlg_hide_message">กำลังซ่อน…</string>
     <string name="dlg_info_creating_message">กำลังสร้างภาพ…</string>
     <string name="dlg_info_save_to_gallery_message">บันทึกภาพไปยังคลังภาพ…</string>
+    <string name="dlg_info_save_to_local_message">กำลังบันทึก…</string>
     <string name="dlg_message_password_reset">รหัสผ่านบันทึกย่อซ่อนจะถูกแทนที่ด้วยรหัสผ่านป้องกันความเป็นส่วนตัวสำหรับข้อความ รูปภาพและโฟลเดอร์ซ่อน</string>
     <string name="dlg_message_set_password">รหัสผ่านป้องกันความเป็นส่วนตัวสำหรับข้อความ รูปภาพและโฟลเดอร์ซ่อน</string>
     <string name="dlg_message_use_privacy_password">ใช้รหัสผ่านการปกป้องความเป็นส่วนตัวสำหรับข้อความ รูปภาพและโฟลเดอร์ซ่อน</string>
@@ -496,6 +498,7 @@
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -522,6 +525,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">แตะเพื่อสลับไปใช้การเลือกวัน</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">สลับไปใช้โหมดป้อนข้อมูลข้อความ</string>
     <string name="mtrl_picker_toggle_to_year_selection">แตะเพื่อสลับไปใช้การเลือกปี</string>
+    <string name="network_error_info">เครือข่ายเกิดข้อผิดพลาด ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
+    <string name="network_timeout_info">ไม่สามารถเชื่อมต่อกับเครือข่าย ลองอีกครั้ง</string>
     <string name="new_app_name">Mi บันทึกย่อ</string>
     <string name="new_audio_create_cancel_talkback_des">ยกเลิกแล้ว</string>
     <string name="new_audio_create_done_talkback_des">สร้างแล้ว</string>
@@ -552,11 +557,14 @@
     <string name="note_mindnote_entrance_hint_newversion">"เริ่มพิมพ์ "</string>
     <string name="note_mindnote_entrance_icon_text">สร้าง Mind Maps</string>
     <string name="note_mindnote_entrance_icon_text_newversion">สร้างแผนภูมิความคิด</string>
+    <string name="note_mindnote_not_support_in_phone_model">แก้ไขแผนที่ความคิดบนอุปกรณ์นี้ไม่ได้</string>
     <string name="note_module_name">บันทึกย่อ</string>
     <string name="note_not_text_stub">ไม่มีข้อความ</string>
     <string name="note_sort_way">จัดเรียง</string>
+    <string name="note_write_hint">เริ่มเขียน</string>
     <string name="notealert_enter">เปิดบันทึก</string>
     <string name="notealert_ok">เลิกแสดง</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">บันทึกย่อ เป็นแอประบบ คุณจะไม่สามารถใช้แอปนี้ได้หลังจากถอนการติดตั้ง</string>
     <string name="notes_description_title">ถอนการติดตั้ง บันทึกย่อ?</string>
     <string name="notification_content_add_todo_from_other_app">คุณได้เพิ่มงานใหม่ แตะเพื่อดู</string>
@@ -619,6 +627,8 @@
     <string name="permission_phone_state_desc">สำหรับหยุดการบันทึกข้อความเสียงระหว่างการโทร</string>
     <string name="permission_read_contact_desc">เชื่อมโยงบันทึกย่อที่สร้างขึ้นระหว่างการโทรกับผู้ติดต่อ</string>
     <string name="permission_storage_desc">สำหรับการบันทึกตัวบันทึกย่อเป็นภาพ</string>
+    <string name="permission_storage_desc_new_v12">สำหรับใส่รูปภาพลงในโน้ตและบันทึกโน้ตเป็นรูปภาพ</string>
+    <string name="permission_storage_desc_pad_new_v12">สำหรับใส่รูปภาพลงในโน้ตและบันทึกโน้ตเป็นรูปภาพ</string>
     <string name="permission_storage_desc_pad_v12">สำหรับใส่รูปภาพลงในโน้ตและบันทึกโน้ตเป็นรูปภาพ</string>
     <string name="permission_storage_desc_v12">สำหรับใส่รูปภาพลงในโน้ตและบันทึกโน้ตเป็นรูปภาพ</string>
     <string name="permission_xiaoai_desc">&lt;Data>Mi AI จะรวบรวมการบันทึกเสียงและ ID อุปกรณ์ของคุณเพื่อถอดเสียงและสร้างบันทึกเสียง เรียนรู้เพิ่มเติมใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> Mi AI&lt;/Data></string>
@@ -656,6 +666,7 @@
     <string name="privacy_note_content_empty">ยังไม่มีรายการ</string>
     <string name="private_entry_available">ปล่อยเพื่อเปิดโฟลเดอร์ส่วนตัว</string>
     <string name="private_entry_default">ดึงลงเพื่อเปิดโฟลเดอร์ส่วนตัว</string>
+    <string name="progressbar_title">กำลังตรวจสอบปัญหาด้านความปลอดภัย…</string>
     <string name="quick_note_link_default_text">URL</string>
     <string name="quick_note_new_user_guide">บันทึกย่อช่วยให้คุณสร้างบันทึกย่อและข้อความที่ตัดตอนมา</string>
     <string name="recover_notes_hint">เกิดข้อผิดพลาด เข้าไปที่ i.mi.com เพื่อกู้คืนบันทึกย่อ</string>
@@ -704,6 +715,9 @@
     <string name="save_to_gallery_failure_message">บันทึกไม่ได้</string>
     <string name="save_to_gallery_icon_name">บันทึกไปยังคลังภาพ</string>
     <string name="save_to_gallery_success_message">บันทึกเรียบร้อยแล้ว</string>
+    <string name="save_to_local_failure_message">ไม่สามารถบันทึกได้</string>
+    <string name="save_to_local_icon_name">บันทึก</string>
+    <string name="save_to_local_success_message">บันทึกเรียบร้อยแล้ว</string>
     <string name="search">บันทึกย่อ</string>
     <string name="search_hint">ค้นหาบันทึกย่อ</string>
     <string name="search_keyword_notes">บันทึกย่อ;ความจำ</string>
@@ -765,6 +779,7 @@
     <string name="sync_note_folder">%1$s และ %2$s</string>
     <string name="sync_note_todo">%1$s และ %2$s</string>
     <string name="sync_tips">แตะเพื่อซิงค์บันทึกย่อไว้บนคลาวด์</string>
+    <string name="system_error_info">ระบบไม่ว่าง รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="the_anniversary_of_lifting_martial_law">วันฉลองยกเลิกอัยการศึก</string>
     <string name="the_anti_aggression_day">วันต่อต้านการกระทำรุนแรง</string>
     <string name="the_arbor_day">วันอาร์เบอร์</string>
@@ -940,6 +955,7 @@
     <string name="tuesday_shortest">อังคาร</string>
     <string name="unclassfied_folder_name">ไม่มีหมวดหมู่</string>
     <string name="undo">เลิกทำ</string>
+    <string name="unknown_error_info">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="unknown_source">ไม่ทราบที่มา</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>

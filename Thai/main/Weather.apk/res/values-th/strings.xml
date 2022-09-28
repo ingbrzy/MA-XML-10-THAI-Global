@@ -127,6 +127,7 @@
     <string name="content_desc_activity_main_add_city">เพิ่มเมือง</string>
     <string name="content_desc_activity_main_add_city_manage">จัดการเมือง</string>
     <string name="content_desc_activity_main_more_settings">การตั้งค่าเพิ่มเติม</string>
+    <string name="content_desc_activity_main_page">หน้า %1$d ของ %2$d</string>
     <string name="content_desc_back_button">ย้อนกลับ</string>
     <string name="content_desc_city_manage_del">ลบ</string>
     <string name="content_desc_close_button">ปิด</string>
@@ -162,6 +163,7 @@
     <string name="dynamic_weather">สภาพอากาศ</string>
     <string name="early_morning">เช้า</string>
     <string name="edit_city">จัดการเมือง</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">กำลังอัปเดต…</string>
     <string name="empty_view_net_unavailable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="empty_view_refresh">ลองอีกครั้ง</string>
@@ -271,13 +273,22 @@
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
     <string name="hourly_forcast_now">ขณะนี้</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">ติดตั้งตอนนี้</string>
     <string name="indices_title_chance_of_rain">โอกาสที่จะเกิดฝนตก</string>
     <string name="indices_title_feel">รู้สึกจริง</string>
     <string name="indices_title_pressure">ความกดอากาศ</string>
+    <string name="indices_title_uv">UV</string>
     <string name="indices_title_wind_speed">ความเร็วลม</string>
+    <string name="indices_wind_direction_east">ตะวันออก</string>
+    <string name="indices_wind_direction_north">เหนือ</string>
+    <string name="indices_wind_direction_south">ใต้</string>
+    <string name="indices_wind_direction_west">ตะวันตก</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">รังสียูวี</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">เปิดใช้บริการตำแหน่งพิกัด</string>
     <string name="location_tag">ค้นหาตำแหน่งพิกัด</string>
     <string name="manager_city_option_add_home">เพิ่มไปยังหน้าเริ่มต้น</string>
@@ -377,7 +388,7 @@
     <string name="particulate_matter_not_exceeded">ปกติ</string>
     <string name="particulate_matter_serious_exceeded">สูงมาก</string>
     <string name="permission_device_info">ข้อมูลอุปกรณ์</string>
-    <string name="permission_device_introduce">สำหรับการรับรู้ ID อุปกรณ์ตามรุ่นของอุปกรณ์และ IMEI รวมถึงการให้บริการที่มีการแปลตามภาษาที่ต้องการ</string>
+    <string name="permission_device_introduce">สำหรับการจดจำอุปกรณ์ตามรุ่นอุปกรณ์และให้บริการที่แปลตามการตั้งค่าภาษา</string>
     <string name="permission_exit">ออก</string>
     <string name="permission_privacy">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
     <string name="permission_select_all">เลือกทั้งหมด</string>
@@ -426,6 +437,8 @@
     <string name="send">ส่ง</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
+    <string name="setting_notification_manager">การแจ้งเตือน</string>
+    <string name="setting_used_to_push_reminder">รับการแจ้งเตือนสภาพอากาศและคำเตือน</string>
     <string name="settings">การตั้งค่า</string>
     <string name="settings_atmospheric_pressure_atm">บรรยากาศมาตรฐาน (atm)</string>
     <string name="settings_atmospheric_pressure_hpa">เฮกโตปาสกาล (hPa)</string>
@@ -437,6 +450,7 @@
     <string name="share_menu_title">แชร์</string>
     <string name="share_subject">แชร์</string>
     <string name="share_weather_desc">\#MIUI สภาพอากาศ#วันนี้ %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ไม่สามารถจัดเก็บภาพหน้าจอได้</string>
     <string name="shortcut_short_label_24_hour_forecast">พยากรณ์อากาศ 24 ชั่วโมง</string>

@@ -27,21 +27,29 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$sชั่วโมง %2$s"</item>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">รายงานโดย %d ผู้ใช้ MIUI</item>
     </plurals>
-    <plurals name="character_pitch_minus">
-        <item quantity="other">ลดระยะห่างระหว่างอักขระ ระยะห่างระหว่างอักขระ %s</item>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">กำลังวางสายภายใน %1$s วิ…</item>
     </plurals>
-    <plurals name="character_pitch_plus">
-        <item quantity="other">เพิ่มระยะห่างระหว่างอักขระ ระยะห่างระหว่างอักขระ %s</item>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">%d สายสนทนาที่บันทึกไว้</item>
     </plurals>
-    <plurals name="choose_long_gif_limit_toast_tip">
-        <item quantity="other">"ระยะเวลาในการเล่นภาพเคลื่อนไหวต้องไม่เกิน %d วินาที
-ภาพเคลื่อนไหวที่ยาวกว่านั้นจะหยุดที่จุดนี้"</item>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">โทรใหม่ %d ครั้ง</item>
     </plurals>
-    <plurals name="count_selected">
-        <item quantity="other">เลือกไว้ %d รายการ</item>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s คน</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d ชั่วโมง</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d นาที</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d วินาที</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
@@ -61,18 +69,8 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">เมื่อสักครู่</item>
     </plurals>
-    <plurals name="line_spacing_puls">
-        <item quantity="other">เพิ่มระยะห่างบรรทัดระยะห่างบรรทัด %s</item>
-    </plurals>
-    <plurals name="lines_pacing_minus">
-        <item quantity="other">ลดระยะห่างบรรทัดระยะห่างบรรทัด %s</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
-    </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
-        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>

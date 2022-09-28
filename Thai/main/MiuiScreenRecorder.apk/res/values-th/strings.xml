@@ -33,7 +33,7 @@
     <string name="app_name">บันทึกหน้าจอ</string>
     <string name="app_notification_channel_record_complete">การแจ้งเตือนเกี่ยวกับการบันทึกที่เสร็จสิ้น</string>
     <string name="app_notification_info">บันทึกหน้าจอทำงานอยู่ด้านหลัง</string>
-    <string name="app_notification_record_complete">"บันทึกหน้าจอไปที่คลังภาพ
+    <string name="app_notification_record_saved">"บันทึกเรียบร้อยแล้ว
 แตะเพื่อดู"</string>
     <string name="app_notification_title">บันทึกหน้าจอ</string>
     <string name="auto_stop_title">บันทึกวิดีโอเรียบร้อย</string>

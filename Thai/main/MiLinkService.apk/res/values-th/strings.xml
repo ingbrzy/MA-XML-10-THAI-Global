@@ -35,13 +35,13 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
+    <string name="cast_image_des">แนะนำวิธีการฉายภาพ</string>
     <string name="casting_tips">กำลังฉายภาพ…</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="close">ปิด</string>
     <string name="close_hotspot_hint">ปิดฮอตสปอตแบบพกพาก่อนที่จะฉายภาพ</string>
     <string name="close_slave_wifi_hint">ตัดการเชื่อมต่อจากเครือข่าย Wi-Fi เสริมก่อนฉายภาพ</string>
     <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
-    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="connect_device_fail">ไม่สามารถเชื่อมต่ออุปกรณ์ได้</string>
@@ -65,7 +65,7 @@
     <string name="dialog_connect_verify_perssion_fail">ไม่สามารถอนุญาตการส่งทางทีวีของคุณ รอสักครู่หรือสองนาทีแล้วลองอีกครั้ง</string>
     <string name="dialog_connected">เชื่อมต่อแล้ว</string>
     <string name="dialog_connecting">กำลังเชื่อมต่อ…</string>
-    <string name="dialog_location_permission_message">แอปนี้ต้องเข้าถึงตำแหน่งของคุณจึงจะสามารถค้นหาจอภาพภายนอกในบริเวณใกล้เคียงได้ เลือก \"อนุญาตตลอด\" ในขณะที่ให้การอนุญาตนี้เพื่อหลีกเลี่ยงข้อผิดพลาดที่อาจเกิดขึ้น</string>
+    <string name="dialog_location_permission_message">แอปนี้ต้องเข้าถึงตำแหน่งของคุณจึงจะสามารถค้นหาจอภาพภายนอกในบริเวณใกล้เคียงได้ เลือก \"อนุญาตตลอดเวลา\" ในขณะที่ให้การอนุญาตนี้เพื่อหลีกเลี่ยงข้อผิดพลาดที่อาจเกิดขึ้น</string>
     <string name="dialog_location_permission_title">ต้องการการอนุญาต</string>
     <string name="dialog_miplay_permission_message">อนุญาตให้ ฉายภาพ บันทึกเสียง เข้าถึงไฟล์ในที่เก็บข้อมูลภายใน และเข้าถึงตำแหน่งพิกัดของคุณเพื่อให้สามารถใช้คุณสมบัตินี้ได้ตามปกติ แตะ \"การตั้งค่า\" และเลือก \"การอนุญาตแอป\" เพื่อดำเนินการต่อ</string>
     <string name="dialog_miplay_permission_positive">การตั้งค่า</string>
@@ -89,7 +89,7 @@
     <string name="dialog_scanning_device">กำลังค้นหาอุปกรณ์ใกล้เคียง…</string>
     <string name="dialog_scanning_precondition">เปิด Wi-Fi และบลูทูธบนโทรศัพท์ของคุณเพื่อใช้จอแสดงผลแบบไร้สาย</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
-    <string name="dialog_scanning_precondition_new_global">เปิด Wi-Fi บลูทูธ และบริการตำแหน่งพิกัด เพื่อใช้ฉายภาพ เปิดเลยไหม?</string>
+    <string name="dialog_scanning_precondition_new_global">เปิด Wi-Fi และบริการตำแหน่งพิกัด เพื่อใช้ฉายภาพ เปิดเลยไหม?</string>
     <string name="dialog_select_tv">เลือกอุปกรณ์ (%1$d)</string>
     <string name="dialog_show_help">ความช่วยเหลือ</string>
     <string name="disconnect">หยุดการฉายภาพหน้าจอ</string>
@@ -164,6 +164,7 @@
     <string name="global_privacy_main">ฉายรายการจากหน้าจอโทรศัพท์ของคุณบนจอภาพภายนอกที่ใหญ่กว่า</string>
     <string name="global_privacy_negative">ไม่เห็นด้วย</string>
     <string name="global_privacy_positive">ยอมรับ</string>
+    <string name="global_privacy_screencast">ขณะบันทึกหรือฉายภาพ บริการที่มีฟีเจอร์นี้สามารถบันทึกข้อมูลสำคัญใดๆ ที่แสดงบนหน้าจอหรือเล่นจากอุปกรณ์ของคุณ รวมถึงข้อมูลที่ละเอียดอ่อน เช่น เสียง รหัสผ่าน ข้อมูลการชำระเงิน รูปภาพ และข้อความ.</string>
     <string name="global_privacy_tip">&lt;Data>เราจำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการขั้นพื้นฐานแก่คุณและเพิ่มประสิทธิภาพกระบวนการคัดเลือกนักแสดง คุณสามารถเรียนรู้วิธีที่เราจัดการกับข้อมูลที่เรารวบรวมได้ใน &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวในการตั้งค่าได้ทุกเมื่อ&lt;/Data></string>
     <string name="hang_up">ปิดฉายภาพด้วยหน้าจอ</string>
     <string name="hang_up_alert_dialog_content">ส่งต่อเมื่อหน้าจออุปกรณ์ของคุณปิดอยู่ คุณสมบัตินี้ลดการใช้พลังงาน กดปุ่มเปิด/ปิดเพื่อเปิดหน้าจออีกครั้ง</string>
@@ -367,6 +368,8 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="privacy_permission_nfc_desc">สำหรับการจับคู่อุปกรณ์โดยใช้ NFC</string>
     <string name="privacy_permission_optional">สิทธิ์เพิ่มเติม</string>
     <string name="privacy_permission_optional_desc">ใช้สำหรับคุณสมบัติเพิ่มเติมในขณะที่คุณใช้งาน</string>
+    <string name="privacy_permission_screencast">การเข้าถึงข้อมูลบนหน้าจอ</string>
+    <string name="privacy_permission_screencast_desc">ขณะบันทึกหรือฉายภาพ บริการที่มีฟีเจอร์นี้สามารถบันทึกข้อมูลสำคัญใดๆ ที่แสดงบนหน้าจอหรือเล่นจากอุปกรณ์ของคุณ รวมถึงข้อมูลที่ละเอียดอ่อน เช่น เสียง รหัสผ่าน ข้อมูลการชำระเงิน รูปภาพ และข้อความ</string>
     <string name="privacy_permission_wlan">เปิดและปิด Wi-Fi</string>
     <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
     <string name="privacy_permission_wlan_desc">สำหรับการค้นหาอุปกรณ์ใกล้เคียง</string>
@@ -427,7 +430,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="screen_projection_example_gallery_summary">แตะปุ่มแชร์ใต้รายการในแอปคลังภาพเพื่อแสดงบนจอภาพภายนอก</string>
     <string name="screen_projection_example_gallery_title">รูปภาพและวิดีโอ</string>
     <string name="screen_projection_example_game_summary">Game Turbo ช่วยให้คุณสามารถฉายภาพเกมไปยังจอภาพภายนอก ใช้ทางลัดในกล่องเครื่องมือ Game Turbo เพื่อเปิดคุณสมบัตินี้</string>
-    <string name="screen_projection_example_game_title">เกมส์</string>
+    <string name="screen_projection_example_game_title">เกม</string>
     <string name="screen_projection_help">ช่วยเหลือ</string>
     <string name="screen_projection_sample_summary">ฉายภาพ เอกสาร, เกม, ภาพถ่าย และวิดีโอ</string>
     <string name="screen_projection_sample_title">ตัวอย่าง</string>

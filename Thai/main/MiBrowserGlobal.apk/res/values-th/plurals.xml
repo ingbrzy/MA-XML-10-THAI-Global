@@ -46,10 +46,18 @@
         <item quantity="other">%1$d วันก่อน</item>
     </plurals>
     <plurals name="download_business_v5_edit_mode_title">
-        <item quantity="other">%1$d ถูกเลือก</item>
+        <item quantity="other">เลือกไว้ %1$d รายการ</item>
     </plurals>
     <plurals name="download_dialog_confirm_delete_downloads_message">
         <item quantity="other">ลบ %d การทำงานนี้?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">กรอไปข้างหน้า %d วินาที</item>
+        <item quantity="one">กรอไปข้างหน้า %d วินาที</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">กรอกลับ %d วินาที</item>
+        <item quantity="one">กรอกลับ %d วินาที</item>
     </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d รายการ</item>
@@ -81,8 +89,14 @@
     <plurals name="in_num_minutes">
         <item quantity="other">ใน%d นาที</item>
     </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">ป้องกันแล้ว %d ครั้ง</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">ดาวน์โหลด %d รายการเรียบร้อย</item>
+        <item quantity="other">ดาวน์โหลด %1$s รายการเรียบร้อย</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">เมื่อสักครู่</item>
@@ -111,11 +125,17 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">ป้องกันแล้ว %s ครั้ง</item>
+    </plurals>
     <plurals name="players">
         <item quantity="other">%d ผู้เล่น</item>
     </plurals>
     <plurals name="pref_adblock_counts">
         <item quantity="other">บล็อกไปแล้ว %d โฆษณา</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">พบ %1$d ผลลัพธ์</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s คำขอค้นหา</item>
@@ -132,11 +152,17 @@
     <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">เพลงยอดนิยม %d เพลง</item>
     </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d แท็บ</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">เลือกไว้ %1$d รายการ</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
         <item quantity="other">คุณไม่ได้ดูวิดีโอโปรด %d รายการเป็นเวลานานแล้ว</item>
+    </plurals>
+    <plurals name="video_views">
+        <item quantity="other">ดู %s</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">ดูวิดีโอใหม่ %1$d รายการ</item>
@@ -149,5 +175,35 @@
     </plurals>
     <plurals name="vote_all_people">
         <item quantity="other">โหวต %d คน</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">บล็อกไปแล้ว %d โฆษณา</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">อนุญาตแล้ว %d ครั้ง</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">จำกัดแล้ว %d ครั้ง</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">หยุดแล้ว %d ครั้ง</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">บล็อกไปแล้ว %s โฆษณา</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">อนุญาตแล้ว %s ครั้ง</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">จำกัดแล้ว %s ครั้ง</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">หยุดแล้ว %s ครั้ง</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s วัน</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s ครั้ง</item>
     </plurals>
 </resources>

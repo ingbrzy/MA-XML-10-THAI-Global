@@ -87,6 +87,10 @@
         <item>กำหนดการนี้และในอนาคต</item>
         <item>กำหนดการทั้งหมด</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>ราศีเมถุน</item>
@@ -137,6 +141,11 @@
         <item>pisces</item>
         <item>ราศีมีน</item>
         <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>ปิด</item>
+        <item>สำหรับทุกกำหนดการ</item>
+        <item>สำหรับกำหนดการที่มีเวลา</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>เสมอ</item>

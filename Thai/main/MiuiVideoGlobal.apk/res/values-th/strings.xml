@@ -123,6 +123,7 @@
     <string name="cast_closed_captions_unavailable">คำบรรยายไม่พร้อมใช้งาน</string>
     <string name="cast_connecting_to_device">กำลังเชื่อมต่อ %1$s</string>
     <string name="cast_disconnect">ยกเลิกการเชื่อมต่อ</string>
+    <string name="cast_dynamic_group_name_format">%1$s + %2$d</string>
     <string name="cast_expanded_controller_ad_image_description">ภาพที่แสดงขณะที่เครื่องรับการแคสต์กำลังเล่นโฆษณา</string>
     <string name="cast_expanded_controller_ad_in_progress">โฆษณาอยู่ระหว่างดำเนินการ...</string>
     <string name="cast_expanded_controller_background_image">ปกอัลบั้ม</string>
@@ -134,6 +135,7 @@
     <string name="cast_forward">กรอไปข้างหน้า</string>
     <string name="cast_forward_10">กรอไปข้างหน้า 10 วินาที</string>
     <string name="cast_forward_30">กรอไปข้างหน้า 30 วินาที</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">สด</string>
     <string name="cast_mute">ปิดเสียง</string>
     <string name="cast_notification_connected_message">เชื่อมต่อ %1$s แล้ว</string>
@@ -166,6 +168,8 @@
     <string name="choose">เลือก</string>
     <string name="choose_to_signin">ใช่</string>
     <string name="choose_to_signup">ไม่ ฉันต้องการสร้างบัญชี</string>
+    <string name="chromecast_connecting">กำลังเชื่อมต่อกับ Chromecast…</string>
+    <string name="chromecast_playing">คุณกำลังดูวิดีโอนี้ด้วย Chromecast</string>
     <string name="clear_text_end_icon_content_description">ล้างข้อความ</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="click_to_open_pip">แตะเพื่อเปลี่ยนเป็นการแสดงภาพซ้อนภาพ</string>
@@ -233,6 +237,7 @@
     <string name="continue_play">ดำเนินการต่อ</string>
     <string name="controller_bar_edit">แก้ไข</string>
     <string name="copy">คัดลอก</string>
+    <string name="copy_toast_msg">คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว</string>
     <string name="data_empty">ไม่มีรายการ</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -244,6 +249,8 @@ Mi วิดีโอ พร้อมสำหรับการอัปเด�
 อัปเดตแอปทันทีเพื่อดูคุณสมบัติใหม่ๆ ของเรา!
 ทีม Mi วิดีโอ"</string>
     <string name="description">รายละเอียด</string>
+    <string name="desktop_widget_local_media">ไฟล์สื่อมีเดีย</string>
+    <string name="desktop_widget_new">ใหม่</string>
     <string name="detail_select_source">เลือกแหล่งที่มาของการเล่น</string>
     <string name="diagnosis_log_send_failed">ไม่สามารถส่งบันทึกได้ ลองอีกครั้ง.</string>
     <string name="diagnosis_log_sent_format">"ส่งบันทึกการใช้สำเร็จแล้ว
@@ -381,6 +388,9 @@ ID:%s
     <string name="failed_dup_secure_phone_number">หมายเลขโทรศัพท์นี้ได้ถูกผูกไว้กับบัญชี Mi อื่นอยู่ก่อนแล้ว</string>
     <string name="failed_to_fetch_data">ไม่สามารถโหลดข้อมูลได้</string>
     <string name="failure">ไม่สามารถดาวน์โหลดได้</string>
+    <string name="fallback_menu_item_copy_link">คัดลอกลิงก์</string>
+    <string name="fallback_menu_item_open_in_browser">เปิดในเบราว์เซอร์</string>
+    <string name="fallback_menu_item_share_link">แชร์ลิงก์</string>
     <string name="favor_movie">ภาพยนตร์</string>
     <string name="favor_online_video">วิดีโอ</string>
     <string name="favor_playlist">รายการเพลง</string>
@@ -538,6 +548,7 @@ ID:%s
     <string name="galleryplus_notification_linkvideo_title4">วิดีโอหลายร้อยรายการ ฟรีในระยะเวลาจำกัด</string>
     <string name="galleryplus_notification_linkvideo_title5">สตรีมรายการโปรดของคุณฟรี</string>
     <string name="galleryplus_notification_try_now_btn">ลองใช้เลย</string>
+    <string name="galleryplus_notification_type_link_video">เปลี่ยนเป็นวิดีโอในเครื่อง</string>
     <string name="galleryplus_online_cta">Mi Video ต้องเชื่อมต่ออินเทอร์เน็ตเพื่อทำงานตามปกติ ยอมรับหรือไม่?</string>
     <string name="galleryplus_online_cta_agree">ยอมรับ</string>
     <string name="galleryplus_online_cta_disagree">ไม่เห็นด้วย</string>
@@ -642,8 +653,10 @@ ID:%s
     <string name="incentive_exchange">แลกใช้</string>
     <string name="incentive_exchange_code">รหัส</string>
     <string name="incentive_exchange_code_copy">คัดลอก</string>
+    <string name="incentive_exchange_code_copy_and_start">ใช้</string>
     <string name="incentive_exchange_details">รายละเอียด</string>
     <string name="incentive_exchange_details_current">ยอดสั่งซื้อ</string>
+    <string name="incentive_exchange_details_dotask">รับคะแนน</string>
     <string name="incentive_exchange_details_total">ยอดเงินคงเหลือ</string>
     <string name="incentive_exchange_empty_tip">ยังไม่มีอะไรที่นี่ แลกคะแนนเพื่อเริ่มต้น</string>
     <string name="incentive_exchange_expire_tip">คะแนนที่ไม่ได้รับสิทธิ์จะหายไปในเวลาเที่ยงคืน</string>
@@ -651,6 +664,7 @@ ID:%s
     <string name="incentive_exchange_successful">แลกเรียบร้อย</string>
     <string name="incentive_exchange_tip">คะแนนเหล่านี้ใช้ได้เฉพาะวันนี้เท่านั้น</string>
     <string name="incentive_login_for_claim">ลงชื่อเข้าใช้บัญชี Google ของคุณเพื่อรับคะแนน</string>
+    <string name="incentive_login_success_for_already_claimd">ลงชื่อเข้าใช้สำเร็จ ได้รับคะแนนแล้ว</string>
     <string name="incentive_login_tip">ลงชื่อเข้าใช้เพื่อรับคะแนนและรับรางวัล</string>
     <string name="incentive_my_points">คะแนนของฉัน</string>
     <string name="incentive_popup_window_share">แชร์เพื่อรับคะแนน</string>
@@ -666,10 +680,16 @@ ID:%s
     <string name="incentive_task_title_novice">สำหรับผู้มาใหม่</string>
     <string name="incentive_task_to_get">เริ่ม</string>
     <string name="incentive_task_to_login">ลงชื่อเข้าใช้</string>
+    <string name="incentive_toast_share_success_new">แชร์เรียบร้อยแล้ว</string>
+    <string name="incentive_toast_subscribe_success_new">สมัครเรียบร้อยแล้ว</string>
+    <string name="incentive_ui_tab_earn_credits">คะแนน</string>
     <string name="incentive_view_all_prizes">ดูรางวัลทั้งหมด</string>
     <string name="incentive_view_details">รายละเอียด</string>
     <string name="inconsistent_pwd">รหัสผ่านไม่ตรงกัน</string>
     <string name="init_channels">เรียกคืนค่าเริ่มต้น</string>
+    <string name="inline_auto_play_tip">"กำลังใช้เน็ตมือถือ… "</string>
+    <string name="inline_auto_play_to_set">การตั้งค่า</string>
+    <string name="inline_mute_click_tip">แตะเพื่อเปิดเสียง</string>
     <string name="input_email_address_notice">ระบบจะใช้อีเมลนี้ในการยืนยันบัญชีของคุณ</string>
     <string name="input_new_pwd">ป้อนรหัสผ่านใหม่</string>
     <string name="input_size_tips_new">คุณสามารถป้อนได้มากสุด %d ตัวอักษร</string>
@@ -684,6 +704,7 @@ ID:%s
     <string name="item_download_path">ตำแหน่งการดาวน์โหลด</string>
     <string name="item_download_path_setting">การตั้งค่าตำแหน่งดาวน์โหลด</string>
     <string name="item_setting_go_back">การเพิกถอนความยินยอม</string>
+    <string name="item_title_for_search_page_hot">ยอดนิยม</string>
     <string name="item_title_unknown">ไม่ทราบชื่อ</string>
     <string name="item_view_role_description">แท็บ</string>
     <string name="just_a_second">รอสักครู่…</string>
@@ -695,8 +716,14 @@ ID:%s
     <string name="later">ภายหลัง</string>
     <string name="live_now">สดอยู่ตอนนี้</string>
     <string name="live_title">Live TV</string>
+    <string name="live_tv_dialog_item_passed">โปรแกรมนี้สิ้นสุดแล้ว ติดตามในครั้งต่อไป!</string>
+    <string name="live_tv_dialog_subscirbe_button">ติดตาม</string>
+    <string name="live_tv_dialog_subscirbe_tips">ติดตาม %1$s และไม่พลาดทุกตอน</string>
     <string name="live_tv_title">Live TV</string>
+    <string name="live_tv_toast_item_subscirbe">คุณสมัครรับข้อมูลโปรแกรมนี้แล้ว</string>
     <string name="loading">รอสักครู่…</string>
+    <string name="local_adjust_zoom_mode_hint">คุณกำลังรับชมอยู่ที่ %s</string>
+    <string name="local_crop_zoom_mode">รูปภาพถูกครอบตัด</string>
     <string name="local_diversion_all_local_videos">วิดีโอทั้งหมดบนอุปกรณ์</string>
     <string name="local_diversion_close_recommend">ปิด</string>
     <string name="local_diversion_download_more_video">วิดีโอเพิ่มเติม</string>
@@ -714,6 +741,7 @@ ID:%s
     <string name="local_push_setting_power_tag">แจ้งเตือนเกี่ยวกับวีดีโอในเครื่อง</string>
     <string name="local_push_title">ยอดนิยมของวันนี้</string>
     <string name="local_push_video_title">สแกนหาวิดีโอท้องถิ่นใหม่</string>
+    <string name="local_stretch_zoom_mode">รูปภาพถูกยืดออก</string>
     <string name="local_video_create_a_new_playlist">เพลย์ลิสต์ใหม่</string>
     <string name="local_video_date">วันที่</string>
     <string name="local_video_dialog_default">ค่าเริ่มต้น</string>
@@ -734,6 +762,7 @@ ID:%s
     <string name="local_video_size">ขนาด</string>
     <string name="local_video_space">ถูกครอบครอง: %s</string>
     <string name="local_video_time">ระยะเวลา</string>
+    <string name="local_zoom_adjust_button">สลับโหมดการแสดงผล</string>
     <string name="lock_screen">หน้าจอล็อก</string>
     <string name="login">ลงชื่อเข้าใช้</string>
     <string name="login_tip">ลงชื่อเข้าใช้เพื่อให้สามารถรับการตอบรับของข้อเสนอแนะของคุณจากเรา</string>
@@ -761,6 +790,7 @@ ID:%s
     <string name="lp_video_zoom_title">ซูม</string>
     <string name="lv_advance_sound">ปรับแต่งเสียง</string>
     <string name="lv_airkan_control_device_des">ควบคุมการเล่นได้โดยการแตะที่แถบด้านล่าง</string>
+    <string name="lv_airkan_device_my_device">อุปกรณ์ของฉัน</string>
     <string name="lv_airkan_device_xiaomi_phone">โทรศัพท์ Mi ของฉัน</string>
     <string name="lv_airkan_playing">กำลังฉายภาพบน %s</string>
     <string name="lv_airkan_tips">แตะเพื่อฉาย</string>
@@ -839,10 +869,10 @@ ID:%s
     <string name="lv_subtitle_no_subtitle">บางคำบรรยายไม่พร้อมใช้งาน</string>
     <string name="lv_subtitle_non_subtitle_file">ไม่มีไฟล์คำบรรยาย</string>
     <string name="lv_subtitle_offset_add_1s_new">+%d วิ</string>
-    <string name="lv_subtitle_offset_add_dot5s_new">+%f วิ</string>
+    <string name="lv_subtitle_offset_add_dot5s_new">+%.1f วิ</string>
     <string name="lv_subtitle_offset_normal">ห้ามย้ายคำบรรยาย</string>
     <string name="lv_subtitle_offset_sub_1s_new">-%d วิ</string>
-    <string name="lv_subtitle_offset_sub_dot5s_new">-%f วิ</string>
+    <string name="lv_subtitle_offset_sub_dot5s_new">-%.1f วิ</string>
     <string name="lv_subtitle_onlinesub_language">ภาษา: %s</string>
     <string name="lv_subtitle_onlinesub_loading">กำลังโหลดคำบรรยาย…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">กำลังโหลดคำบรรยาย…</string>
@@ -969,10 +999,11 @@ ID:%s
     <string name="month_september_shortest">กันยา</string>
     <string name="more">เพิ่มเติม</string>
     <string name="morning">เช้า</string>
-    <string name="mr_button_content_description">ปุ่ม \"แคสต์\"</string>
-    <string name="mr_cast_button_connected">ปุ่ม \"แคสต์\" เชื่อมต่อแล้ว</string>
-    <string name="mr_cast_button_connecting">ปุ่ม \"แคสต์\" กำลังเชื่อมต่อ</string>
-    <string name="mr_cast_button_disconnected">ปุ่ม \"แคสต์\" ยกเลิกการเชื่อมต่อแล้ว</string>
+    <string name="mr_button_content_description">แคสต์</string>
+    <string name="mr_cast_button_connected">แคสต์ เชื่อมต่อแล้ว</string>
+    <string name="mr_cast_button_connecting">แคสต์ กำลังเชื่อมต่อ</string>
+    <string name="mr_cast_button_disconnected">แคสต์ เลิกเชื่อมต่อแล้ว</string>
+    <string name="mr_cast_dialog_title_view_placeholder">ไม่มีข้อมูล</string>
     <string name="mr_chooser_searching">กำลังค้นหาอุปกรณ์</string>
     <string name="mr_chooser_title">แคสต์ไปยัง</string>
     <string name="mr_controller_album_art">ปกอัลบั้ม</string>
@@ -988,6 +1019,9 @@ ID:%s
     <string name="mr_controller_stop">หยุด</string>
     <string name="mr_controller_stop_casting">หยุดแคสต์</string>
     <string name="mr_controller_volume_slider">แถบเลื่อนปรับระดับเสียง</string>
+    <string name="mr_dialog_default_group_name">กลุ่ม</string>
+    <string name="mr_dialog_groupable_header">เพิ่มอุปกรณ์</string>
+    <string name="mr_dialog_transferable_header">เล่นในกลุ่ม</string>
     <string name="mr_system_route_name">ระบบ</string>
     <string name="mr_user_route_category_name">อุปกรณ์</string>
     <string name="mtrl_badge_numberless_content_description">การแจ้งเตือนใหม่</string>
@@ -996,6 +1030,7 @@ ID:%s
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -1063,6 +1098,7 @@ ID:%s
     <string name="notification_recall_desc">Mi วิดีโอ สามารถแจ้งเตือนคุณเกี่ยวกับวิดีโอยอดนิยมและการสมัครสมาชิกของคุณ</string>
     <string name="notification_recall_title">เปิดการแจ้งเตือน</string>
     <string name="notification_tool">กล่องเครื่องมือ</string>
+    <string name="notification_type_channel_music">การเล่นเพลง</string>
     <string name="notify_apk_installed">ดาวน์โหลดเรียบร้อย</string>
     <string name="offline_notification_text">แตะเพื่อเปิดโฆษณา</string>
     <string name="offline_notification_title">ดูโฆษณาที่คุณบันทึกไว้ขณะออฟไลน์</string>
@@ -1073,7 +1109,12 @@ ID:%s
     <string name="offline_opt_in_title">เปิดโฆษณาเมื่อคุณกลับมาออนไลน์</string>
     <string name="ok">ตกลง</string>
     <string name="online_play_hint">ตัวอย่างเช่น: http://www.example.com/video.mp4</string>
+    <string name="online_play_start_loading_tip">รอสักครู่…</string>
+    <string name="online_play_start_ready_loading_tip_b">กำลังโหลด %.2f B/s</string>
+    <string name="online_play_start_ready_loading_tip_kb">กำลังโหลด %.2f KB/s</string>
+    <string name="online_play_start_ready_loading_tip_mb">กำลังโหลด %.2f MB/s</string>
     <string name="online_play_title">ป้อน URL</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">การสมัครสมาชิกล่าสุด</string>
     <string name="order_recently_updated">อัปเดตล่าสุด</string>
     <string name="out_of_memory_background_playback_is_suspended">หยุดเล่นบนพื้นหลังชั่วคราวเนื่องจากหน่วยความจำไม่เพียงพอ</string>
@@ -1434,6 +1475,7 @@ ID:%s
     <string name="popup_click_for_download_video">ดาวน์โหลดวิดีโอ</string>
     <string name="popup_pip_activate_button">การตั้งค่า</string>
     <string name="popup_pip_not_activated">อนุญาตให้ Mi วิดีโอ ใช้การแสดงภาพซ้อนภาพก่อน</string>
+    <string name="popup_recommend_text">ค้นพบวิดีโออื่นๆ ที่คุณจะหลงรัก</string>
     <string name="popup_window_home_tip">ดาวน์โหลดวิดีโอออนไลน์</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacy_agree_subtitle">การยินยอมตามนโยบายความเป็นส่วนตัวทำให้คุณสามารถใช้คุณสมบัติทั้งหมดของ Mi วิดีโอ</string>
@@ -1534,6 +1576,15 @@ ID:%s
     <string name="sending">กำลังส่ง…</string>
     <string name="service_error">เซิร์ฟเวอร์ขัดข้อง</string>
     <string name="set_success">แก้ไขเรียบร้อย</string>
+    <string name="settings_inline_auto_play">เล่นอัตโนมัติเสมอ</string>
+    <string name="settings_inline_auto_play_close">ปิดการเล่นอัตโนมัติ</string>
+    <string name="settings_inline_auto_play_tip_close_forever">ปิดเสมอ</string>
+    <string name="settings_inline_auto_play_tip_close_month">ปิดหนึ่งเดือน</string>
+    <string name="settings_inline_auto_play_tip_open">เปิด</string>
+    <string name="settings_inline_auto_play_tip_title">การแจ้งเตือนการใช้ข้อมูลมือถือ</string>
+    <string name="settings_inline_auto_play_title">เล่นอัตโนมัติ</string>
+    <string name="settings_inline_auto_play_wify">เล่นอัตโนมัติบน Wi-Fi เท่านั้น</string>
+    <string name="settings_inline_title">หน้าเริ่มต้นเล่นอัตโนมัติ</string>
     <string name="settings_manager_hidden_folder">จัดการวีดีโอที่ซ่อนอยู่</string>
     <string name="share">แบ่งปัน</string>
     <string name="share_fail">ไม่สามารถแชร์ได้ ตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
@@ -1554,13 +1605,14 @@ ID:%s
     <string name="small_video_load_more_hint">ปัดขึ้นเพื่อเล่นวิดีโอเพิ่มเติม</string>
     <string name="small_video_snack_download_description">ดาวน์โหลด SnackVideo เพื่อดูวิดีโอล่าสุดจากผู้สร้างที่คุณชื่นชอบ</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
-    <string name="small_video_tab_expose_hint">Tap for more short videos</string>
+    <string name="small_video_tab_expose_hint">แตะเพื่อดูวิดีโอสั้นเพิ่มเติม</string>
     <string name="sms_send_success">ส่งเรียบร้อยแล้ว</string>
     <string name="sns_access_token_expired_warning">เซสชันสิ้นสุดลง กรุณาลงชื่อเข้าสู่ระบบอีกครั้งเพื่อเข้าสู่บัญชีนี้</string>
     <string name="sns_bind_limit">มีความพยายามมากเกินไป ลองวิธีอื่นๆ ในการลงชื่อเข้าใช้</string>
     <string name="sns_sign_in">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
     <string name="source">"แหล่งที่มา: "</string>
     <string name="start_download_tip">เพิ่มลงในคิวแล้ว ตรวจสอบความคืบหน้าในโปรไฟล์ > ดาวน์โหลด</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD การ์ด</string>
     <string name="storage_internal_sdcard">พื้นที่จัดเก็บข้อมูลในเครื่อง</string>
     <string name="submit">ส่ง</string>
@@ -1831,6 +1883,12 @@ ID:%s
     <string name="welcome_tip_into_mivideo">เริ่มต้นใช้งาน</string>
     <string name="welcome_tip_skip">ข้าม</string>
     <string name="welcome_tip_title">ยินดีต้อนรับสู่ Mi วิดีโอ</string>
+    <string name="widget_local_video">วิดีโอในเครื่อง</string>
+    <string name="widget_local_video_click">แตะเพื่อดูวิดีโอที่จัดเก็บไว้ในอุปกรณ์ของคุณ</string>
+    <string name="widget_more_channel">ช่องทางเพิ่มเติม</string>
+    <string name="widget_more_channel_click">แตะเพื่อดูช่องทีวี</string>
+    <string name="widget_trending_click">แตะเพื่อดูวิดีโอยอดนิยมของวันนี้</string>
+    <string name="widget_trending_today">ยอดนิยมของวันนี้</string>
     <string name="yesterday">เมื่อวานนี้ </string>
     <string name="yt_subscription_notification_setting_title">การแจ้งเตือนการสมัครสมาชิก</string>
     <string name="ytb_account">บัญชี</string>

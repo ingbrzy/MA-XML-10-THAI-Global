@@ -55,6 +55,8 @@
     <string name="agenda_tomorrow">พรุ่งนี้ %1$s</string>
     <string name="agenda_view">กำหนดการ</string>
     <string name="alarm_label">ปิด</string>
+    <string name="alarm_open_reminder">เปิดการเตือนความจำ</string>
+    <string name="alarm_reminder_already">การแจ้งเตือนเปิดอยู่</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">หมดอายุแล้ว</string>
     <string name="alert_title">การแจ้งเตือนปฏิทิน</string>
@@ -90,6 +92,7 @@
     <string name="birthday_term">วันเกิด</string>
     <string name="button_record_menstruation">บันทึก</string>
     <string name="calendar_permission_desc">จัดการเหตุการณ์</string>
+    <string name="calendar_privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="can_not_create_long_event">ชื่อกำหนดการยาวเกินไป</string>
     <string name="can_not_modify_allday_event">ไม่สามารถเปลี่ยนกำหนดการทั้งวันได้</string>
     <string name="can_not_modify_event">ไม่สามารถเปลี่ยนกำหนดการได้</string>
@@ -145,7 +148,7 @@
     <string name="countdown_notify_title">นับถอยหลัง: %1$s</string>
     <string name="countdown_secondary_tag">นับถอยหลัง</string>
     <string name="countdown_today">วันนี้</string>
-    <string name="create_an_account_desc">"ปฏิทินใช้งานได้ดีกับ บัญชี Mi 
+    <string name="create_an_account_desc">"ปฏิทินใช้งานได้ดีกับ บัญชี Xiaomi 
 
 • เข้าถึงได้จากเว็บเบราว์เซอร์ก็ได้ 
 • สำรองข้อมูลกำหนดการของคุณอย่างปลอดภัย"</string>
@@ -177,11 +180,13 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="date_today">" (วันนี้)"</string>
     <string name="date_view">วันที่</string>
     <string name="day">วัน</string>
     <string name="day_view_new_event_hint">กำหนดการใหม่</string>
+    <string name="default_reminder_later_time">ช่วงเวลาตั้งต้นสำหรับ \"เตือนภายหลัง\"</string>
     <string name="default_reminder_mode">การแจ้งเตือน</string>
     <string name="delete_menstruation_record_confirm">ลบบันทึกนี้?</string>
     <string name="delete_recurring_event_title">ลบ %s?</string>
@@ -212,8 +217,10 @@
     <string name="edit_event_label">รายละเอียด</string>
     <string name="edit_event_no_reminder_value">ไม่ต้องเตือนอีก</string>
     <string name="edit_event_reminder_3_days_before">และเตือน %d วันก่อน</string>
+    <string name="edit_event_reminder_3_days_before_time">เตือนก่อน %d วันด้วย</string>
     <string name="edit_event_reminder_summary">ในวันนั้นที่ %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d วันล่วงหน้าและในวันนั้นที่ %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%1$d วันก่อน และตอน %1$s ณ วันที่กำหนด</string>
     <string name="edit_event_reminder_text">%1$s วันนั้น %2$s</string>
     <string name="edit_event_reminder_time">เวลาที่แจ้งเตือน</string>
     <string name="edit_event_reminder_with_another_day_text">%1$s, %2$sวันนั้น%3$s</string>
@@ -222,6 +229,14 @@
     <string name="edit_event_tab_birthday">วันเกิด</string>
     <string name="edit_event_tab_countdown">นับถอยหลัง</string>
     <string name="edit_event_tab_event">กำหนดการ</string>
+    <string name="edit_event_title_create_agenda">สร้างกิจกรรม</string>
+    <string name="edit_event_title_create_anniversary">สร้างวันครบรอบ</string>
+    <string name="edit_event_title_create_birthday">สร้างวันเกิด</string>
+    <string name="edit_event_title_create_countdown">สร้างเคาท์ดาวน์</string>
+    <string name="edit_event_title_edit_agenda">แก้ไขกำหนดการ</string>
+    <string name="edit_event_title_edit_anniversary">แก้ไขวันครบรอบ</string>
+    <string name="edit_event_title_edit_birthday">แก้ไขวันเกิด</string>
+    <string name="edit_event_title_edit_countdown">แก้ไขเคาท์ดาวน์</string>
     <string name="edit_event_to_label">ถึง</string>
     <string name="edit_your_long_holidays">แก้ไขวันหยุด</string>
     <string name="ee_dd_short_month">EEE dd MMM</string>
@@ -390,7 +405,9 @@
     <string name="item_num_selected">เลือกแล้ว%1$dรายการ</string>
     <string name="language_change_confirmation">เปลี่ยนเรียบร้อยแล้ว คุณสามารถเปลี่ยนภาษาในการตั้งค่าปฏิทิน</string>
     <string name="launch_weather_comment">แตะที่นี่เพื่อดูข้อมูลสภาพอากาศ</string>
-    <string name="load_more_hint">โหลดกำหนดการจาก %1$d</string>
+    <string name="load_more_events">ดู %d กำหนดการ</string>
+    <string name="load_more_events_default">ดูกำหนดการปีต่อไป</string>
+    <string name="load_more_hint">ดู %1$d กำหนดการ</string>
     <string name="loading">รอสักครู่…</string>
     <string name="local_calendar_display_name">ปฎิทินในเครื่อง</string>
     <string name="local_owner_account_name">บันทึกไว้ในเครื่องแล้ว</string>
@@ -543,6 +560,7 @@
     <string name="no_internet_dialog_message">อุปกรณ์ของคุณจำเป็นต้องเชื่อมต่อกับเครือข่ายเพื่อให้คุณสามารถเพิกถอนความยินยอมได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
     <string name="no_internet_dialog_title">เกิดข้อผิดพลาด</string>
     <string name="no_long_holidays">ไม่มีวันหยุดยาวที่กำลังมาถึง</string>
+    <string name="no_more_events">ไม่มีกำหนดการที่จะแสดงแล้ว</string>
     <string name="no_network">"ไม่สามารถเชื่อมต่อกับเครือข่ายได้
 กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง"</string>
     <string name="no_network_btn">ลองอีกครั้ง</string>
@@ -596,6 +614,7 @@
     <string name="panchang_yog">ยอก</string>
     <string name="partner_compatibility">ความเข้ากันได้ของคนรัก</string>
     <string name="path_calendar_settings">แอประบบ/ปฏิทิน/การตั้งค่า</string>
+    <string name="permission_description">รายละเอียดการอนุญาต</string>
     <string name="picker_day">วันที่เลือก: %1$d ปัดในแนวตั้งเพื่อเลือก</string>
     <string name="picker_month">เดือนที่เลือก: %1$d ปัดในแนวตั้งเพื่อเลือก</string>
     <string name="picker_year">ปีที่เลือก: %1$d ปัดในแนวตั้งเพื่อเลือก</string>
@@ -609,14 +628,20 @@
     <string name="pref_title_notification_remind">วิธีการแจ้งการเตือน</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="preferences_additional_cal_default">0</string>
+    <string name="preferences_alarms_category_title">ส่งเสียงเตือน</string>
+    <string name="preferences_alarms_sound">เสียง</string>
+    <string name="preferences_alarms_vibrateWhen">สั่น</string>
     <string name="preferences_alerts_ringtone_title">เสียง</string>
     <string name="preferences_alerts_vibrateWhen_title">สั่นเตือน</string>
     <string name="preferences_alerts_vibrate_title">การสั่นเตือนและเสียงเรียกเข้า</string>
+    <string name="preferences_allow_remind">อนุญาตให้แจ้งเตือน</string>
     <string name="preferences_default_allday_reminder_title">ค่าเริ่มต้นเวลาแจ้งเตือนทั้งวัน</string>
     <string name="preferences_default_reminder_dialog">ค่าเริ่มต้นเวลาแจ้งเตือน</string>
     <string name="preferences_default_reminder_title">ค่าเริ่มต้นเวลาแจ้งเตือน</string>
     <string name="preferences_home_tz_title">โซนเวลาบ้าน</string>
     <string name="preferences_notification_ringtone_title">เสียง</string>
+    <string name="preferences_popup_alert_smart_summary_new">กำหนดการที่มีเวลาคือกำหนดการที่มีเวลาที่แน่นอน</string>
+    <string name="preferences_popup_alert_title">แจ้งเตือนแบบป๊อปอัป</string>
     <string name="preferences_show_indic_date_title">แสดงปฏิทินอินเดีย</string>
     <string name="preferences_title">ปฏิทิน</string>
     <string name="preferences_use_home_tz_descrip">แสดงปฏิทินและเวลากำหนดการในเขตเวลาบ้านของคุณเมื่อเดินทาง</string>
@@ -624,12 +649,18 @@
     <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">เริ่มสัปดาห์</string>
     <string name="preferences_week_start_day_title">เริ่มสัปดาห์</string>
+    <string name="privacy_and_permissions">การอนุญาตและความเป็นส่วนตัว</string>
     <string name="privacy_card_description">ยอมรับนโยบายความเป็นส่วนตัวของเราเพื่อเข้าถึงคุณลักษณะทั้งหมด</string>
     <string name="privacy_policy_dialog_agree">ยอมรับ</string>
     <string name="privacy_policy_dialog_dont_agree">ไม่เห็นด้วย</string>
     <string name="privacy_policy_dialog_message">&lt;Data>ยินดีต้อนรับสู่ ปฏิทิน!&lt;br/>คุณสามารถใช้แอปนี้เพื่อ สร้างและจัดการกิจกรรม ตั้งเตือนความจำ และรับข้อมูลเพิ่มเติมเฉพาะสำหรับตำแหน่งของคุณ&lt;br/>ปฏิทินจำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการขั้นพื้นฐานแก่คุณ คุณสามารถเรียนรู้วิธีจัดการข้อมูลที่เรารวบรวมได้ใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา&lt;br/>อ่านและยอมรับ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%3$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเราก่อนใช้งาน ปฏิทิน คุณสามารถถอนการยินยอมต่อนโยบายความเป็นส่วนตัวของปฏิทินในการตั้งค่าได้ทุกเมื่อ&lt;br/> หากคุณไม่ยอมรับนโยบายความเป็นส่วนตัวของเราคุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอปนี้ได้ อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ&lt;/Data></string>
     <string name="privacy_policy_dialog_title">ข้อตกลงและเงื่อนไข</string>
     <string name="privacy_revoke_switch_text">การเพิกถอนความยินยอม</string>
+    <string name="pull_refresh_events">เรียกดู %d กำหนดการ</string>
+    <string name="pull_refresh_events_default">ดูกำหนดการปีที่แล้ว</string>
+    <string name="pull_refresh_progress_load_finish">โหลดเรียบร้อยแล้ว</string>
+    <string name="pull_refresh_progress_loading">รอสักครู่…</string>
+    <string name="pull_refresh_progress_release_to_load">ปล่อยเพื่อโหลด</string>
     <string name="pull_to_refresh_hint">ลากเพื่อโหลดกำหนดการจาก %1$d</string>
     <string name="recorded_menstruation">บันทึกรอบประจำเดือน</string>
     <string name="refresh">รีเฟรช</string>
@@ -686,6 +717,8 @@
     <string name="search_calendar">วันที่;สุริยคติ;จันทรคติ;ปฏิทินประจำปี;ฟอร์จูน;หัวเรื่อง;การประชุม;การแจ้งเตือน;การหยุดงาน;วันหยุด;วันเกิด;2016; 2017;เทศกาลฤดูใบไม้ผลิ;วันปีใหม่;วันแรงงานโลก;เทศกาลไหว้พระจันทร์</string>
     <string name="search_calendar_edit_event">ประชุม;การแจ้งเตือน;หัวเรื่อง</string>
     <string name="search_calendar_settings">ปฏิทิน;หัวเรื่อง;การแจ้งเตือน</string>
+    <string name="search_events">ค้นหากำหนดการ</string>
+    <string name="search_history">ประวัติการค้นหา</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="second_saturday_holiday">ทุกวันเสาร์ที่สองคือวันหยุด</string>
     <string name="select_date">ระบุวัน</string>
@@ -705,7 +738,9 @@
     <string name="setting_features_title">การตั้งค่าคุณลักษณะ</string>
     <string name="setting_holiday_display_desc">การ์ดวันหยุดจะอยู่ด้านล่างกำหนดการของคุณในหน้าแรก</string>
     <string name="setting_holiday_reminder">การแจ้งเตือนวันหยุด</string>
+    <string name="setting_import_events">นำเข้ากำหนดการ</string>
     <string name="setting_others">เพิ่มเติม</string>
+    <string name="setting_show_reject_agenda">แสดงกำหนดการที่ถูกปฏิเสธ</string>
     <string name="setting_title_about">เกี่ยวกับ</string>
     <string name="setting_title_holiday_display">แสดงวันหยุด</string>
     <string name="setting_title_import_todo">นำเข้างาน</string>
@@ -768,6 +803,10 @@
     <string name="tab_title_day">วัน</string>
     <string name="tab_title_month">เดือน</string>
     <string name="tab_title_week">สัปดาห์</string>
+    <string name="tab_view_day">วัน</string>
+    <string name="tab_view_month">เดือน</string>
+    <string name="tab_view_week">สัปดาห์</string>
+    <string name="tab_view_year">ปี</string>
     <string name="talk_back_read_date">%1$s (%2$s ตามปฏิทินจันทรคติ)</string>
     <string name="talk_back_setting">การตั้งค่า</string>
     <string name="talk_back_tab_switch">สลับระหว่างมุมมอง</string>
@@ -939,7 +978,7 @@
     <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_delete_description">ปฏิทินเป็นแอประบบที่ให้คุณสร้างและจัดการกำหนดการต่างๆ คุณสมบัติบางอย่างจะยังใช้งานได้หลังจากที่คุณลบทางลัดบนหน้าจอหลัก</string>
     <string name="xiaomi_calendar_delete_title">ลบ \"ปฏิทิน\" ออกจากหน้าจอหลัก?</string>
-    <string name="xiaomi_calendar_display_name">ปฏิทินบัญชี Mi</string>
+    <string name="xiaomi_calendar_display_name">ปฏิทินบัญชี Xiaomi</string>
     <string name="year">ปี</string>
     <string name="yearly">ประจำทุกปี (ทุกวันที่ %s ของทุกปี)</string>
     <string name="yearly_plain">ทุกปี</string>

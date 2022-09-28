@@ -62,6 +62,19 @@
         <item>ไอโฟน</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="pref_web_permissions">
+        <item>จำกัด</item>
+        <item>ถามก่อน</item>
+        <item>อนุญาต</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>จำกัด</item>
+        <item>ถามก่อน</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>จำกัด</item>
+        <item>อนุญาต</item>
+    </string-array>
     <string-array name="setting_swipe_up_target">
         <item>ค้นหา</item>
         <item>ข่าวสาร</item>

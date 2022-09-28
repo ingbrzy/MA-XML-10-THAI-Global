@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
     <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="access_denied_info">มีความพยายามมากเกินไป รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="actionbar_button_up_description">ย้อนกลับ</string>
     <string name="add_remark_hint">ใส่ข้อสังเกตของคุณทีนี่</string>
     <string name="add_remark_tip">แตะเพื่อเพิ่มข้อสังเกต</string>
@@ -85,6 +86,8 @@
     <string name="dialog_privacy_revoke_tips">หลังจากที่คุณยกเลิกการให้สิทธิ์ แอปจะหยุดรวบรวมข้อมูลและข้อมูลที่เกี่ยวข้องทั้งหมดจะถูกลบออกจากเซิร์ฟเวอร์ ซึ่งอาจทำให้แอปไม่สามารถใช้งานได้ เพิกถอนการให้สิทธิ์หรือไม่? เพื่อความปลอดภัยของบัญชีของคุณให้ลงชื่อเข้าใช้ i.mi.com ก่อนที่จะยกเลิกการให้สิทธิ์สำหรับบริการ Xiaomi คลาวด์</string>
     <string name="dialog_title_storage_full">พื้นที่ไม่เพียงพอ</string>
     <string name="download">ดาวน์โหลด</string>
+    <string name="download_pause">หยุดดาวน์โหลดชั่วคราว แตะเพื่อดำเนินการต่อ</string>
+    <string name="downloading">กำลังดาวน์โหลด แตะเพื่อหยุดชั่วคราว</string>
     <string name="duration_format_hour">%sชม.</string>
     <string name="duration_format_minute">%sน</string>
     <string name="duration_format_second">%sวิ</string>
@@ -220,9 +223,9 @@
     <string name="material_timepicker_text_input_mode_description">สลับไปโหมดป้อนข้อความเพื่อป้อนเวลา</string>
     <string name="menu">เมนู</string>
     <string name="message_file_size_error">การบันทึกเสียงมาถึงความยาวสูงสุดที่รองรับได้โดย %s แล้ว</string>
-    <string name="mi_account_msg">ลงชื่อเข้าใช้ด้วยบัญชี Mi เพื่อคัดลอกไฟล์ในคลาวด์และรับ 60 นาทีแรกฟรี</string>
+    <string name="mi_account_msg">ลงชื่อเข้าใช้ด้วยบัญชี Xiaomi เพื่อคัดลอกไฟล์ในคลาวด์และรับ 60 นาทีแรกฟรี</string>
     <string name="mi_account_ok">เข้าสู่ระบบ</string>
-    <string name="mi_account_title">ลงชื่อเข้าใช้ด้วยบัญชี Mi</string>
+    <string name="mi_account_title">ลงชื่อเข้าใช้ด้วยบัญชี Xiaomi</string>
     <string name="midnight">กลางคืน</string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
     <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
@@ -297,6 +300,7 @@
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -323,6 +327,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">แตะเพื่อสลับไปใช้การเลือกวัน</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">สลับไปใช้โหมดป้อนข้อมูลข้อความ</string>
     <string name="mtrl_picker_toggle_to_year_selection">แตะเพื่อสลับไปใช้การเลือกปี</string>
+    <string name="network_error_info">เครือข่ายเกิดข้อผิดพลาด ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
+    <string name="network_timeout_info">ไม่สามารถเชื่อมต่อกับเครือข่าย ลองอีกครั้ง</string>
     <string name="network_tip_dialog_cancel">ไม่เห็นด้วย</string>
     <string name="network_tip_dialog_content">ตัวบันทึกจำเป็นต้องเชื่อมต่อกับอินเตอร์เน็ตเพื่อให้ทำงานได้ปกติ ยอมรับไหม?</string>
     <string name="network_tip_dialog_ok">ยอมรับ</string>
@@ -422,6 +428,7 @@
     <string name="privacy_policy_title">นโยบายความเป็นส่วนตัว</string>
     <string name="privacy_settings">ความเป็นส่วนตัว</string>
     <string name="progress">แถบความคืบหน้าการเล่น</string>
+    <string name="progressbar_title">กำลังตรวจสอบปัญหาด้านความปลอดภัย…</string>
     <string name="recognition_button_add_to_queue">เพิ่มลงในคิว</string>
     <string name="recognition_button_cancel">ในภายหลัง</string>
     <string name="recognition_button_start">ถอดความ</string>
@@ -573,6 +580,7 @@
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
     <string name="sync_desc_state_complete">ซิงค์กับคลาวด์แล้ว: %1$s</string>
+    <string name="system_error_info">ระบบไม่ว่าง รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="tab_all">ทั้งหมด</string>
     <string name="tab_apps">แอป</string>
     <string name="tab_call">การโทร</string>
@@ -655,6 +663,7 @@
     <string name="tuesday_shortest">อังคาร</string>
     <string name="uninstall_warning_content">บันทึกเสียง เป็นแอประบบ คุณจะไม่สามารถบันทึกและถอดเสียงและสายสนทนาได้หลังจากที่คุณถอนการติดตั้ง</string>
     <string name="uninstall_warning_title">ถอนการติดตั้งบันทึกเสียง?</string>
+    <string name="unknown_error_info">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="usage_description">กำลังทำสำเนารายการเสียงและซิงค์กับคลาวด์</string>
     <string name="user_feedback">ข้อเสนอแนะ</string>
     <string name="v7_preference_off">ปิด</string>
