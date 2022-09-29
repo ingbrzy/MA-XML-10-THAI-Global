@@ -360,9 +360,7 @@ ID:%s
     <string name="download_method">ดาวน์โหลด</string>
     <string name="download_no_application_title">ไม่สามารถเปิดไฟล์ได้</string>
     <string name="download_paused_in_power_save_mode">การดาวน์โหลดจะถูกหยุดขณะอยู่ในโหมดประหยัดแบตเตอรี่</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">กำลังดาวน์โหลด…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">คุณภาพการดาวน์โหลด</string>
     <string name="download_quality_summary">การตั้งค่าเพิ่มเติมสำหรับเพลงที่ดาวน์โหลด</string>
     <string name="download_queued">อยู่ในคิวแล้ว</string>
@@ -471,9 +469,7 @@ ID:%s
     <string name="exo_media_action_repeat_all_description">เล่นซ้ำทั้งหมด</string>
     <string name="exo_media_action_repeat_off_description">ไม่เล่นซ้ำ</string>
     <string name="exo_media_action_repeat_one_description">เล่นซ้ำเพลงเดียว</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">อื่นๆ</string>
     <string name="exo_track_role_closed_captions">คำบรรยาย</string>
     <string name="exo_track_role_commentary">ความคิดเห็น</string>
@@ -870,7 +866,6 @@ ID:%s
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -1165,7 +1160,6 @@ ID:%s
     <string name="privacy_authorize_revoking">กำลังยกเลิกการให้สิทธิ์…</string>
     <string name="privacy_desc">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=th_TH</string>
     <string name="privacy_request_desc">"&lt;Data>Mi เพลง จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการสตรีมมิ่งออนไลน์แก่คุณ คุณสามารถเรียนรู้วิธีจัดการข้อมูลที่เรารวบรวมใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ Mi เพลง ในการตั้งค่าได้ทุกเมื่อ
 อ่านและยอมรับ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ก่อนใช้ Mi เพลง
 หากคุณไม่ยินยอมที่จะใช้บริการข้างต้นคุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอปนี้ได้; อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ&lt;/Data>"</string>
@@ -1344,7 +1338,6 @@ ID:%s
     <string name="start_to_download">กำลังดาวน์โหลด…</string>
     <string name="start_to_play">กำลังเตรียมเล่น…</string>
     <string name="start_update">กำลังติดตั้งเวอร์ชันใหม่…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">ที่จัดเก็บข้อมูลแอปโคลน</string>
     <string name="storage_internal">ที่จัดเก็บภายใน</string>
     <string name="storage_sd_card">SD การ์ด</string>
@@ -1516,7 +1509,6 @@ ID:%s
     <string name="user_agreement_hint_with_mobile">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของบัญชี Mi เช่นเดียวกับ&lt;a href=%3$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ China Mobile&lt;/a>&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของบัญชี Mi เช่นเดียวกับ&lt;a href=%3$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ บัญชี eSurfing&lt;/a>&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>ฉันได้อ่านและยอมรับ&lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a>และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของบัญชี Mi เช่นเดียวกับ&lt;a href=%3$s>ข้อกำหนดและเงื่อนไขของบริการตรวจสอบความถูกต้องของ China Unicom&lt;/a>&lt;/Data></string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=th_TH</string>
     <string name="user_avatar_update_title">เปลี่ยนรูปประจำตัว</string>
     <string name="user_avatar_uploading">รอสักครู่…</string>
     <string name="user_experience_program_open">เนื่องจากข้อจำกัดด้านลิขสิทธิ์ คุณต้องลงทะเบียนใน โปรแกรมประสบการณ์ผู้ใช้ เพื่อให้สามารถเล่นเพลงที่ดาวน์โหลด คุณสามารถทำได้ในการตั้งค่า > รหัสผ่านและความปลอดภัย > ความเป็นส่วนตัว > ลงทะเบียนในโปรแกรมประสบการณ์ผู้ใช้</string>
