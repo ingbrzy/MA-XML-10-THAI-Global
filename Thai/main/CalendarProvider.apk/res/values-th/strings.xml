@@ -23,6 +23,5 @@
     <string name="holiday_update_summary">แตะเพื่ออัปเดตข้อมูลปฏิทิน</string>
     <string name="holiday_update_title">มีการอัปเดตสำหรับแอป</string>
     <string name="provider_label">ปฏิทิน</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">กำลังอัปเดตฐานข้อมูลปฏิทิน…</string>
 </resources>

@@ -28,20 +28,24 @@
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="abc_slice_duration_days">
-        <item quantity="other">%d วันที่แล้ว</item>
-        <item quantity="one">%d วันที่แล้ว</item>
+        <item quantity="other">%d วันที่ผ่านมา</item>
+        <item quantity="one">%d วันที่ผ่านมา</item>
     </plurals>
     <plurals name="abc_slice_duration_min">
-        <item quantity="other">%d นาทีที่แล้ว</item>
-        <item quantity="one">%d นาทีที่แล้ว</item>
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+        <item quantity="one">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="abc_slice_duration_years">
-        <item quantity="other">%d ปีที่แล้ว</item>
-        <item quantity="one">%d ปีที่แล้ว</item>
+        <item quantity="other">%d ปีที่ผ่านมา</item>
+        <item quantity="one">%d ปีที่ผ่านมา</item>
     </plurals>
     <plurals name="controls_number_of_favorites">
         <item quantity="other">เพิ่มตัวควบคุม %s ตัวแล้ว</item>
         <item quantity="one">เพิ่มตัวควบคุม %s ตัวแล้ว</item>
+    </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">ทำงานอยู่ %s แอป</item>
+        <item quantity="one">ทำงานอยู่ %s แอป</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
@@ -113,22 +117,6 @@
         <item quantity="other">รหัส PUK ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้งก่อนที่ซิมจะไม่สามารถใช้งานได้อย่างถาวร</item>
         <item quantity="one">รหัส PUK ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้งก่อนที่ซิมจะไม่สามารถใช้งานได้อย่างถาวร</item>
     </plurals>
-    <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">ไม่มีการปลดล็อกอุปกรณ์มา %d ชั่วโมงแล้ว ยืนยันรหัสผ่าน</item>
-        <item quantity="one">ไม่มีการปลดล็อกอุปกรณ์มา %d ชั่วโมงแล้ว ยืนยันรหัสผ่าน</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">ไม่มีการปลดล็อกอุปกรณ์มา %d ชั่วโมงแล้ว ยืนยันรูปแบบ</item>
-        <item quantity="one">ไม่มีการปลดล็อกอุปกรณ์มา %d ชั่วโมงแล้ว ยืนยันรูปแบบ</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">ไม่มีการปลดล็อกอุปกรณ์มา %d ชั่วโมงแล้ว ยืนยัน PIN</item>
-        <item quantity="one">ไม่มีการปลดล็อกอุปกรณ์มา %d ชั่วโมงแล้ว ยืนยัน PIN</item>
-    </plurals>
-    <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">ลองอีกครั้งใน %d วินาที</item>
-        <item quantity="one">ลองอีกครั้งใน 1 วินาที</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">เมื่อสักครู่</item>
     </plurals>
@@ -170,9 +158,5 @@
     <plurals name="user_limit_reached_message">
         <item quantity="other">คุณเพิ่มผู้ใช้ได้สูงสุด %d คน</item>
         <item quantity="one">สร้างผู้ใช้ได้เพียง 1 คนเท่านั้น</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
-        <item quantity="one">มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
     </plurals>
 </resources>

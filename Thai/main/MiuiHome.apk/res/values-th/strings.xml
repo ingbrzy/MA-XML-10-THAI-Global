@@ -301,6 +301,7 @@
     <string name="dual_app">แอปโคลน</string>
     <string name="early_morning">เช้า</string>
     <string name="edit">แก้ไข</string>
+    <string name="edit_folder">แก้ไขโฟลเดอร์</string>
     <string name="edit_folder_title">แก้ไขชื่อโฟลเดอร์</string>
     <string name="edit_mode_dual_app">สร้างแอปโคลน</string>
     <string name="edit_mode_group">กลุ่ม</string>
@@ -387,9 +388,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_pair_install_shortcut_launcher_success">สร้างเรียบร้อยแล้ว</string>
     <string name="fold_pair_install_shortcut_long_click">กดค้างเพื่อเพิ่มไปยังหน้าจอหลัก</string>
     <string name="fold_pair_installed_shortcut_launcher">ปุ่มลัดนี้มีอยู่แล้ว</string>
     <string name="folder_name">โฟลเดอร์</string>
+    <string name="folder_picker_big_2x2_9_text">XXL</string>
+    <string name="folder_picker_big_text">ขยาย</string>
+    <string name="folder_picker_default_text">ปกติ</string>
+    <string name="folder_picker_options_tab_text">ขนาด</string>
+    <string name="folder_picker_sliding_button_tab_text">แนะนำแอปไฮไลท์</string>
+    <string name="folder_picker_tab_text">โฟลเดอร์</string>
     <string name="frame_load_failed">ไม่สามารถโหลดกรอบได้</string>
     <string name="free_style_apps_title">เลือกแอป</string>
     <string name="free_style_drawer_title">แอปทั้งหมด</string>
@@ -469,6 +477,7 @@
     <string name="icon_style">รูปแบบ</string>
     <string name="image_too_small_message">รูปภาพต้นฉบับขนาดเล็กเกินไป</string>
     <string name="install">ติดตั้ง</string>
+    <string name="intelligent_exposed_button_summary_text">ใช้คำแนะนำอัจฉริยะตามการใช้งานแอปของคุณเพื่อเน้นแอปในโฟลเดอร์ที่ขยายใหญ่</string>
     <string name="invalid_contact_shortcut">รายชื่อไม่ถูกต้อง</string>
     <string name="is_setting_wallpaper_message">กำลังตั้งค่าภาพพื้นหลัง…</string>
     <string name="is_system_wallpaper_message">ไม่สามารถลบไฟล์ของระบบได้</string>
@@ -554,6 +563,7 @@
     <string name="minus_one_screen">App vault</string>
     <string name="miui_screen_config_title">การตั้งค่าหน้าจอหลัก</string>
     <string name="miui_widget_menu_replace_text">สลับ</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">App vault ไม่รองรับวิดเจ็ตขนาดนี้</string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
     <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
@@ -580,6 +590,8 @@
     <string name="monday">วันจันทร์</string>
     <string name="monday_short">จันทร์</string>
     <string name="monday_shortest">จันทร์</string>
+    <string name="monochrome_summary">เปลี่ยนสีพื้นหลังสำหรับไอคอนที่เข้ากันได้</string>
+    <string name="monochrome_title">สีพื้นหลัง</string>
     <string name="month_april">เมษายน</string>
     <string name="month_april_short">เมษา</string>
     <string name="month_april_shortest">เมษา</string>
@@ -624,6 +636,7 @@
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -795,6 +808,8 @@
     <string name="quick_search_guide_quick_search">ค้นหาด่วน</string>
     <string name="quick_search_guide_title">เลือกโหมดเริ่มต้น</string>
     <string name="recent_apps">เมื่อเร็วๆนี้</string>
+    <string name="recent_menu_item_add_pair">สร้างปุ่มลัดหน้าจอหลักสำหรับชุดหน้าจอแยกนี้</string>
+    <string name="recent_menu_item_add_pair_first_toast">สร้างปุ่มลัดหน้าจอหลักสำหรับชุดหน้าจอแยกนี้</string>
     <string name="recent_menu_item_info">ข้อมูล</string>
     <string name="recent_menu_item_lock">ล็อก</string>
     <string name="recent_menu_item_multi_window">แยก</string>
@@ -901,6 +916,7 @@
     <string name="sort_by_not_defined">เรียงอัตโนมัติ</string>
     <string name="start_activity_failed">ชุดเรียกใช้ระบบไม่ทำงาน</string>
     <string name="starting_preset_app">กำลังเริ่ม…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">ใช้ได้ %1$s จากทั้งหมด %2$s</string>
     <string name="status_bar_recent_memory_info2" />
@@ -983,6 +999,8 @@
     <string name="title_select_shortcut">เลือกปุ่มลัด</string>
     <string name="toast_drag_to_assistant_reject">กำลังเริ่มต้น App vault…</string>
     <string name="toast_screen_icons_misplaced">เรียกคืนจากแหล่งข้อมูลอื่นๆ บางไอคอนอาจจะอยู่ผิดที่</string>
+    <string name="toast_split_app_unsupported">แอปนี้ไม่รองรับการแบ่งหน้าจอ</string>
+    <string name="toast_split_select_app">แตะแอปเพื่อใช้ หน้าจอแยก</string>
     <string name="today">วันนี้</string>
     <string name="toggle_select_title">เลือกสวิตซ์</string>
     <string name="toggle_title">สวิตซ์</string>
@@ -1033,8 +1051,12 @@
     <string name="widget_global_search">ค้นหา</string>
     <string name="widget_quick_function">ฟังค์ชั่นปุ่มลัด</string>
     <string name="widgets_preview_title">เพิ่มวิดเจ็ต</string>
+    <string name="work_mode_off_detailed_text">แอปงานจะส่งการแจ้งเตือน ใช้แบตเตอรี่ หรือเข้าถึงตำแหน่งของคุณไม่ได้</string>
     <string name="work_mode_off_label">การแจ้งเตือนปิดอยู่และแอปไม่สามารถใช้ได้ในขณะนี้</string>
+    <string name="work_mode_off_text">แอปงานปิดอยู่</string>
     <string name="work_mode_on_label">จัดการโดยองค์กรของคุณ</string>
+    <string name="work_mode_toggle_off">ปิดแอปงาน</string>
+    <string name="work_mode_toggle_on">เปิดแอปงาน</string>
     <string name="work_profile_first_content">ข้อมูลส่วนบุคคลจะแยกและซ่อนจากแอปงาน</string>
     <string name="work_profile_got_button">รับทราบ</string>
     <string name="work_profile_next_button">ถัดไป</string>

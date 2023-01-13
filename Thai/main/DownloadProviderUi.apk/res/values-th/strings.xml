@@ -81,8 +81,10 @@
     <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="delete_download">ลบ</string>
     <string name="dialog_btn_cancel">ยกเลิก </string>
+    <string name="dialog_btn_force_download">ดาวน์โหลด</string>
     <string name="dialog_btn_ok">ตกลง</string>
     <string name="dialog_btn_ok_disabled_net">การตั้งค่าเครือข่าย</string>
+    <string name="dialog_btn_wait_wifi">รอเครือข่าย Wi-Fi</string>
     <string name="dialog_clipboard_permission_message">อนุญาตให้ดาวน์โหลดเข้าถึงรายการในคลิปบอร์ดเพื่อเพิ่ม URL ที่คัดลอกโดยอัตโนมัติหรือไม่?</string>
     <string name="dialog_clipboard_permission_title">ต้องการคำร้องขออนุญาต</string>
     <string name="dialog_confirm_delete_checkbox_message">ลบไฟล์ในเครื่องด้วย</string>
@@ -90,8 +92,11 @@
     <string name="dialog_file_missing_body">ไม่พบไฟล์ บางทีไฟล์อาจถูกลบไปแล้ว</string>
     <string name="dialog_file_missing_title">ไม่สามารถเปิดไฟล์ได้</string>
     <string name="dialog_msg_disabled_net">%1$s ถูกจำกัดการดาวน์โหลดบนเครือข่ายปัจจุบัน แตะที่การตั้งค่าเครือข่ายเพื่อไปยังแอปความปลอดภัย</string>
+    <string name="dialog_msg_net_disallowed_by_app">การดาวน์โหลดนี้จะเริ่มโดยอัตโนมัติเมื่ออุปกรณ์ของคุณเชื่อมต่อกับ Wi-Fi ดาวน์โหลดเลยไหม?</string>
+    <string name="dialog_msg_net_slow">ดูเหมือนว่าอาจใช้เวลานานเกินไปในการดาวน์โหลดรายการนี้โดยใช้เครือข่ายปัจจุบัน ยืนยันดาวน์โหลด?</string>
     <string name="dialog_msg_recommend">คุณจะไม่สามารถดูแหล่งที่แนะนำหลังจากที่ปิดแล้ว</string>
     <string name="dialog_title_disabled_net">เข้าถึงอินเตอร์เน็ต</string>
+    <string name="dialog_title_download">รอเครือข่าย Wi-Fi</string>
     <string name="dialog_title_recommend">ปิดใช้งานเนื้อหาแนะนำ</string>
     <string name="download_complete">ดาวน์โหลด</string>
     <string name="download_error">ไม่สามารถดาวน์โหลดได้</string>

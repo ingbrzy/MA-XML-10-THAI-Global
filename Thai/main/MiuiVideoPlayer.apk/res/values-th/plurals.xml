@@ -30,14 +30,28 @@
     <plurals name="comment_model_watch_reply">
         <item quantity="other">เรียกดู %d การตอบกลับ</item>
     </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">เลือกแล้ว %s ดาว</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">กรอไปข้างหน้า %d วินาที</item>
+        <item quantity="one">กรอไปข้างหน้า %d วินาที</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">กรอกลับ %d วินาที</item>
+        <item quantity="one">กรอกลับ %d วินาที</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">ดูวิดีโออีก %s วินาทีเพื่อรับคะแนนและแลกของรางวัล</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">กำลังกลับไปที่หน้าหลักภายใน %1$d วินาที…</item>
     </plurals>
-    <plurals name="follower">
-        <item quantity="other">%d ผู้ติดตาม</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">ดู %s ครั้ง</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">ในอีก 1 ชั่วโมง</item>
@@ -51,8 +65,60 @@
     <plurals name="in_num_minutes">
         <item quantity="other">ใน%d นาที</item>
     </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">คุณได้รับ %d คะแนน!</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d คะแนน</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">ลงชื่อเข้าใช้เพื่อรับสิทธิ์และรับ %d คะแนนพิเศษ</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d วินาที</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">ดูทั้งหมด %d นาทีเพื่อรับคะแนน! เสร็จสิ้นภารกิจตอนนี้?</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"คุณมี %d แต้มที่จะรับสิทธิ์
+เฉพาะวันนี้เท่านั้น"</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">คุณได้ดู %d นาทีในวันนี้</item>
+    </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">แชร์เรียบร้อยแล้ว คุณได้รับ %d คะแนน</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">สมัครเรียบร้อยแล้ว คุณได้รับ %d คะแนน</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">รับ %d คะแนน!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">เสร็จสิ้นภาระกิจวันนี้! คุณได้รับ %d คะแนน</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">คุณรับชม %1$1d วิและได้รับ %2$2d คะแนน!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">ดูวิดีโอแบบสุ่มเพื่อรับ %d คะแนน</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">ดูวิดีโอ %1$1d วินาทีเพื่อรับ %2$2d คะแนน</item>
+    </plurals>
+    <plurals name="incentive_toast_share_success">
+        <item quantity="other">ได้รับ %d คะแนน แชร์ต่อไปเพื่อรับมากขึ้น</item>
+    </plurals>
+    <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">ได้รับ %d คะแนน สมัครสมาชิกเพื่อรับมากขึ้น</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">เมื่อสักครู่</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d วิดีโอ</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d โฟลเดอร์</item>
@@ -94,6 +160,15 @@
         <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
         <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d เพลง</item>
+    </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">แชร์สำเร็จแล้ว คุณได้รับ %d คะแนน อ้างสิทธิ์ใน Points Center</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">สมัครสมาชิกสำเร็จแล้ว คุณได้รับ %d คะแนน อ้างสิทธิ์ใน Points Center</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">เนื้อหาของคุณมีรายการ (%1$s) ที่ละเมิดมาตรฐานชุมชนของเรา บัญชีของคุณถูกระงับ %2$d วัน จนถึง %3$s.</item>
     </plurals>
@@ -114,6 +189,9 @@
     </plurals>
     <plurals name="plus_edit_top_titletext">
         <item quantity="other">เลือกแล้ว %s รายการ</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">ลบ %s ไฟล์อย่างถาวร?</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">ขนาดไฟล์: %.2fKB</item>
@@ -147,6 +225,12 @@
     </plurals>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">เพิ่มสูงสุด %d คั่นหน้า</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">ซ่อน %d ไฟล์ที่เลือกไว้?</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s ไลค์</item>
     </plurals>
     <plurals name="video_view_count">
         <item quantity="other">ดู %d ครั้ง</item>

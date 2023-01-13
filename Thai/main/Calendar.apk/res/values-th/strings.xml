@@ -91,6 +91,7 @@
     <string name="birthday_saved">บันทึกวันเกิดแล้ว</string>
     <string name="birthday_term">วันเกิด</string>
     <string name="button_record_menstruation">บันทึก</string>
+    <string name="calendar_account_settings">การตั้งค่าบัญชี</string>
     <string name="calendar_permission_desc">จัดการเหตุการณ์</string>
     <string name="calendar_privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="can_not_create_long_event">ชื่อกำหนดการยาวเกินไป</string>
@@ -112,6 +113,7 @@
     <string name="change">เปลี่ยน</string>
     <string name="change_response_title">เปลี่ยนการตอบสนอง</string>
     <string name="change_zodiac">เปลี่ยนราศี</string>
+    <string name="check_new_version">ตรวจสอบหาอัปเดต</string>
     <string name="chips_action_cancel">ยกเลิก</string>
     <string name="chips_action_copy">คัดลอก</string>
     <string name="chips_permission_text">อนุญาตให้แนะนำรายชื่อติดต่อ</string>
@@ -180,6 +182,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="date_today">" (วันนี้)"</string>
     <string name="date_view">วันที่</string>
@@ -194,6 +197,7 @@
     <string name="description_calendar_edit_event">แอประบบ/ปฏิทิน/หัวเรื่อง</string>
     <string name="directory_searching_fmt">กำลังค้นหา %s…</string>
     <string name="discard_label">ยกเลิก </string>
+    <string name="display_to_calendar">แสดงในปฏิทิน</string>
     <string name="does_not_repeat">กำหนดการแบบครั้งเดียว</string>
     <string name="dropdown_delete_button_desc">นำ %s ออกจากผู้รับ</string>
     <string name="early_morning">เช้า</string>
@@ -387,6 +391,7 @@
     <string name="horoscope">ดวงชะตา</string>
     <string name="horoscope_card_title">ดวงชะตาวันนี้</string>
     <string name="horoscope_select_activity_label">เลือกสัญลักษณ์ราศี</string>
+    <string name="hour_1">%d ชั่วโมง</string>
     <string name="image_processing">ภาพยังไม่พร้อม</string>
     <string name="import_action">นำเข้า</string>
     <string name="import_birthday">นำเข้าวันเกิด</string>
@@ -451,6 +456,10 @@
     <string name="mesens_card_title_today_begin">รอบเดือนอาจเริ่มในวันนี้</string>
     <string name="mesens_card_title_tomorrow_begin">รอบเดือนอาจเริ่มในวันพรุ่งนี้</string>
     <string name="midnight">กลางคืน</string>
+    <string name="minutes_10">%d นาที</string>
+    <string name="minutes_15">%d นาที</string>
+    <string name="minutes_30">%d นาที</string>
+    <string name="minutes_5">%d นาที</string>
     <string name="missing_name">(ไม่มีชื่อ)</string>
     <string name="missing_required_permission">คุณถูกจำกัดสิทธิ์ที่จำเป็น</string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
@@ -713,7 +722,6 @@
     <string name="save">บันทึก</string>
     <string name="saving_event">บันทึกกำหนดการแล้ว</string>
     <string name="saving_event_with_guest">กำลังส่งอัปเดต…</string>
-    <string name="search_calendar">วันที่;สุริยคติ;จันทรคติ;ปฏิทินประจำปี;ฟอร์จูน;หัวเรื่อง;การประชุม;การแจ้งเตือน;การหยุดงาน;วันหยุด;วันเกิด;2016; 2017;เทศกาลฤดูใบไม้ผลิ;วันปีใหม่;วันแรงงานโลก;เทศกาลไหว้พระจันทร์</string>
     <string name="search_calendar_edit_event">ประชุม;การแจ้งเตือน;หัวเรื่อง</string>
     <string name="search_calendar_settings">ปฏิทิน;หัวเรื่อง;การแจ้งเตือน</string>
     <string name="search_events">ค้นหากำหนดการ</string>
@@ -753,6 +761,9 @@
     <string name="share_image_label">แชร์ผ่าน</string>
     <string name="share_title">แชร์</string>
     <string name="short_date_format">dd MMM</string>
+    <string name="shortcut_new_event">เพิ่มกำหนดการ</string>
+    <string name="shortcut_next_agenda">กำหนดการถัดไป</string>
+    <string name="shortcut_settings">การตั้งค่า</string>
     <string name="show_day_view">แสดงวัน</string>
     <string name="show_indic_date_summary">ปฏิทินอินเดียจะใช้ได้เมื่อใดภาษาหนึ่งของอินเดียถูกกำหนดให้เป็นภาษาของระบบของคุณ</string>
     <string name="show_menstruation_info">แสดงข้อมูลการมีประจำเดือน</string>
@@ -792,6 +803,7 @@
     <string name="subtitle_mi_calendar_predict_menstruation">บันทึกและประมาณการรอบเดือนที่จะเกิดขึ้นโดยใช้ปฏิทิน</string>
     <string name="subtitle_record_and_start_predict">บันทึกประจำเดือนเพื่อประเมินว่าช่วงเวลาใดที่จะเริ่มต้น</string>
     <string name="subtitle_stick_record">บันทึกช่วงเวลาของคุณเพื่อรับการทำนายที่แม่นยำยิ่งขึ้น</string>
+    <string name="suggestions_and_feedback">ข้อเสนอแนะ</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>

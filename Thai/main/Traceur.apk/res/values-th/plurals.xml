@@ -4,12 +4,4 @@
         <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
         <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
     </plurals>
-    <plurals name="num_categories_selected">
-        <item quantity="other">เลือกไว้ %d หมวดหมู่</item>
-        <item quantity="one">เลือกไว้ %d หมวดหมู่</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
-        <item quantity="one">มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
-    </plurals>
 </resources>

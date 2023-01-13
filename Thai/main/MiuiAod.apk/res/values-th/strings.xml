@@ -259,6 +259,8 @@ dd/MM"</string>
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_cancel">ยกเลิก</string>
+    <string name="mtrl_picker_confirm">ตกลง</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -285,6 +287,8 @@ dd/MM"</string>
     <string name="mtrl_picker_toggle_to_day_selection">แตะเพื่อสลับไปใช้การเลือกวัน</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">สลับไปใช้โหมดป้อนข้อมูลข้อความ</string>
     <string name="mtrl_picker_toggle_to_year_selection">แตะเพื่อสลับไปใช้การเลือกปี</string>
+    <string name="mtrl_timepicker_cancel">ยกเลิก</string>
+    <string name="mtrl_timepicker_confirm">ตกลง</string>
     <string name="my_style_title">ธีมของฉัน</string>
     <string name="night">เย็น</string>
     <string name="noon">เที่ยงวัน</string>
@@ -323,6 +327,8 @@ dd/MM"</string>
     <string name="select_notification_animation_style">เลือกเอฟเฟคพิเศษ</string>
     <string name="select_notification_notify_style">เลือกเอฟเฟคการแจ้งเตือน</string>
     <string name="send">ส่ง</string>
+    <string name="settings_view_btn_check_off">ปิด</string>
+    <string name="settings_view_btn_check_on">เปิด</string>
     <string name="share">แชร์</string>
     <string name="share_to_community">แชร์ไปยัง Xiaomi Community</string>
     <string name="show_battery">แสดงสถานะแบตเตอรี่</string>
@@ -337,6 +343,7 @@ dd/MM"</string>
 กำลังจะเกิดขึ้น"</string>
     <string name="standard_clock_panel">มาตรฐาน</string>
     <string name="standard_style">มาตรฐาน</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">จำนวนก้าวนับโดย Xiaomi Health ยอมรับข้อกำหนดในการให้บริการของ Xiaomi Health เพื่อดำเนินการต่อ</string>
     <string name="step_component_info_desc">การนับก้าวจะกลายเป็นรางวัลเมื่อคุณถึงเป้าหมาย จำนวนก้าวนับโดย Xiaomi Health</string>
     <string name="step_component_info_tip">จำนวนก้าวนับโดย Xiaomi Health ติดตั้งหรืออัปเดต Xiaomi Health และยอมรับข้อกำหนดในการให้บริการเพื่อดำเนินการต่อ</string>

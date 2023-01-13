@@ -33,6 +33,7 @@
     <string name="cancel">ยกเลิก </string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="close">ปิด</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -125,7 +126,13 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="grant_permission_go_and_set_2">การตั้งค่า</string>
+    <string name="grant_permission_item">%s</string>
+    <string name="grant_permission_remind_title">ต้องการการอนุญาต</string>
+    <string name="grant_permission_storage">อนุญาตให้แอปนี้เข้าถึงที่เก็บข้อมูล</string>
+    <string name="grant_permission_text">ตัวแก้ไขคลังภาพ ต้องการการอนุญาตต่อไปนี้จึงจะสามารถทำงานได้ตามปกติ: %s แตะ \"การตั้งค่า\" เพื่อให้อนุญาต</string>
     <string name="midnight">กลางคืน</string>
+    <string name="miuix_access_state_desc">ที่เลือกไว้</string>
     <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
@@ -204,6 +211,7 @@
     <string name="night">เย็น</string>
     <string name="noon">เที่ยงวัน</string>
     <string name="ok">ตกลง</string>
+    <string name="open">เปิด</string>
     <string name="pm">PM</string>
     <string name="refocus_discard_confirm_message">บันทึกการเปลี่ยนแปลง?</string>
     <string name="refocus_discard_negative_btn">ละทิ้ง</string>
@@ -246,6 +254,14 @@
     <string name="refocus_type_relighting_small_face">ใบหน้ามีขนาดเล็กเกินไปที่จะใช้เอฟเฟ็กซ์สตูดิโอ</string>
     <string name="refocus_type_static">เบลอ</string>
     <string name="refocus_type_video">เส้นทางแสง</string>
+    <string name="saf_operation_guide_1">"ตัวแก้ไขคลังภาพต้องได้รับอนุญาตจากคุณจึงจะสามารถปกป้องและจัดการข้อมูลของคุณได้ "</string>
+    <string name="saf_operation_guide_2">หากต้องการให้การอนุญาต ให้แตะ \"%1$s\" จากนั้นเลือก \"%2$s\"</string>
+    <string name="saf_operation_guide_param1">ถัดไป</string>
+    <string name="saf_operation_guide_param2">เข้าถึงโฟลเดอร์นี้</string>
+    <string name="saf_requester_cancel">ยกเลิก </string>
+    <string name="saf_requester_title">อนุญาตให้ตัวแก้ไขคลังภาพเข้าถึง \"%s\"</string>
+    <string name="saf_secret_album">อัลบั้มส่วนตัว</string>
+    <string name="saf_secret_album_guide">แอปนี้ต้องการการอนุญาตเพื่อแสดงรายการจากอัลบั้มส่วนตัวของคุณ</string>
     <string name="saturday">วันเสาร์</string>
     <string name="saturday_short">เสาร์</string>
     <string name="saturday_shortest">เสาร์</string>

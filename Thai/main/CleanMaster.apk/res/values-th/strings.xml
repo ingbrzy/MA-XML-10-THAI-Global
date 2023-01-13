@@ -215,6 +215,7 @@
     <string name="conn_of_function_safe">การเชื่อมต่อเครือข่ายของแอปความปลอดภัย</string>
     <string name="connecting">กำลังเชื่อมต่อ…</string>
     <string name="copy">คัดลอก</string>
+    <string name="copy_toast_msg">คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -301,6 +302,7 @@
     <string name="download">ดาวน์โหลด</string>
     <string name="downloading">กำลังดาวน์โหลด</string>
     <string name="early_morning">เช้า</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">ว่าง</string>
     <string name="empty_content_no_privacy">ไม่มี</string>
     <string name="empty_content_no_similar_image">ไม่มีรูปภาพ</string>
@@ -318,6 +320,15 @@
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="evening">บ่าย</string>
+    <string name="exo_download_completed">การดาวน์โหลดเสร็จสมบูรณ์</string>
+    <string name="exo_download_description">ดาวน์โหลด</string>
+    <string name="exo_download_downloading">กำลังดาวน์โหลด</string>
+    <string name="exo_download_failed">การดาวน์โหลดล้มเหลว</string>
+    <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
+    <string name="exo_download_paused">การดาวน์โหลดหยุดชั่วคราว</string>
+    <string name="exo_download_paused_for_network">กำลังรอเครือข่ายเพื่อดาวน์โหลด</string>
+    <string name="exo_download_paused_for_wifi">กำลังรอ Wi-Fi เพื่อดาวน์โหลด</string>
+    <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="facebook_clean_exit_confirm_cancel">ให้สแกนต่อ</string>
     <string name="facebook_clean_exit_confirm_msg">ยังไม่เสร็จสิ้นการสแกน Facebook หยุดการสแกนเดี๋ยวนี้หรือไม่?</string>
@@ -328,6 +339,9 @@
     <string name="facebook_group_gif">GIFs</string>
     <string name="facebook_group_image">รูปภาพ</string>
     <string name="facebook_group_video">วิดีโอ</string>
+    <string name="fallback_menu_item_copy_link">คัดลอกลิงก์</string>
+    <string name="fallback_menu_item_open_in_browser">เปิดในเบราว์เซอร์</string>
+    <string name="fallback_menu_item_share_link">แชร์ลิงก์</string>
     <string name="file">ไฟล์</string>
     <string name="file_not_found">ไม่พบไฟล์</string>
     <string name="flow_rank_title">การใช้ข้อมูล</string>
@@ -477,6 +491,7 @@
     <string name="hints_garbage_cleanup_result_safe">ไม่พบสิ่งผิดปกติ</string>
     <string name="hints_garbage_handle_item_content">%1$d รายการ, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">ว่าง</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">ใช้งานน้อย</string>
     <string name="hints_installed_app_near">ใช้งานเมื่อเร็วๆนี้</string>
     <string name="hints_installed_app_never">ไม่เคยใช้งาน</string>

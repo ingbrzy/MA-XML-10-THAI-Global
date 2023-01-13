@@ -49,6 +49,13 @@
         <item>ค่าเริ่มต้น</item>
         <item>คลาสสิก</item>
     </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>ค่าเริ่มต้น</item>
+        <item>สีน้ำเงิน</item>
+        <item>สีเขียว</item>
+        <item>สีม่วง</item>
+        <item>สีน้ำตาล</item>
+    </string-array>
     <string-array name="transformation_entries">
         <item>สไลด์</item>
         <item>จางหาย</item>

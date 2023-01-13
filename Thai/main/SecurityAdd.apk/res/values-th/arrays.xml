@@ -19,6 +19,14 @@
         <item>2X</item>
         <item>4X</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_anti">
+        <item>2X</item>
+        <item>4X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>สมดุล</item>
+        <item>คุณภาพสูง</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>ความเร็วสูง</item>
         <item>สมดุล</item>

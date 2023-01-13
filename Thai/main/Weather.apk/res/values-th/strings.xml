@@ -70,8 +70,8 @@
     <string name="aqi_alert_channel_name">แจ้งเตือน AQI</string>
     <string name="aqi_data_source">ขับเคลื่อนด้วยคลาวด์สีสัน</string>
     <string name="aqi_desc">ดัชนีคุณภาพอากาศ</string>
-    <string name="aqi_detail_24_hours">พยากรณ์อากาศ 24 ชั่วโมง</string>
-    <string name="aqi_detail_5_days">พยากรณ์อากาศ 5 วัน</string>
+    <string name="aqi_detail_24_hours">พยากรณ์ %d ชั่วโมง</string>
+    <string name="aqi_detail_5_days">พยากรณ์ %d วัน</string>
     <string name="aqi_detail_co_unit">หน่วย: mg/m³</string>
     <string name="aqi_detail_title">ดัชนีคุณภาพอากาศ</string>
     <string name="aqi_detail_unit">หน่วย: µg/m³</string>
@@ -163,6 +163,7 @@
     <string name="dynamic_weather">สภาพอากาศ</string>
     <string name="early_morning">เช้า</string>
     <string name="edit_city">จัดการเมือง</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">กำลังอัปเดต…</string>
     <string name="empty_view_net_unavailable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="empty_view_refresh">ลองอีกครั้ง</string>
@@ -272,6 +273,7 @@
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
     <string name="hourly_forcast_now">ขณะนี้</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">ติดตั้งตอนนี้</string>
     <string name="indices_title_chance_of_rain">โอกาสที่จะเกิดฝนตก</string>
@@ -283,15 +285,16 @@
     <string name="indices_wind_direction_north">เหนือ</string>
     <string name="indices_wind_direction_south">ใต้</string>
     <string name="indices_wind_direction_west">ตะวันตก</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">รังสียูวี</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">เปิดใช้บริการตำแหน่งพิกัด</string>
     <string name="location_tag">ค้นหาตำแหน่งพิกัด</string>
     <string name="manager_city_option_add_home">เพิ่มไปยังหน้าเริ่มต้น</string>
     <string name="manager_city_option_view_on_home">ดูบนหน้าเริ่มต้น</string>
     <string name="midnight">กลางคืน</string>
     <string name="minute_rain">พยากรณ์หยาดน้ำฟ้า</string>
-    <string name="minute_rain_after_an_hour">ในอีก 1 ชั่วโมง</string>
-    <string name="minute_rain_after_two_hour">ในอีก 2 ชั่วโมง</string>
     <string name="minute_rain_feedback_subtitle">บอกเราหน่อยว่าสภาพอากาศเป็นอย่างไร</string>
     <string name="minute_rain_feedback_title">ข้อมูลสภาพอากาศไม่ถูกต้อง</string>
     <string name="minute_rain_now">ขณะนี้</string>
@@ -364,7 +367,6 @@
     <string name="morning">เช้า</string>
     <string name="network_unavailable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="night">เย็น</string>
-    <string name="night_not_disturb_settings_summary">ปิดเสียงแจ้งเตือนระหว่าง 23:00 - 7:00 น.</string>
     <string name="night_not_disturb_settings_title">ห้ามรบกวนเวลากลางคืน</string>
     <string name="no_data">ไม่มีข้อมูล</string>
     <string name="no_internet_message">อุปกรณ์ของคุณจำเป็นต้องเชื่อมต่อกับเครือข่ายเพื่อให้คุณสามารถเพิกถอนความยินยอมได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
@@ -445,9 +447,10 @@
     <string name="share_menu_title">แชร์</string>
     <string name="share_subject">แชร์</string>
     <string name="share_weather_desc">\#MIUI สภาพอากาศ#วันนี้ %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ไม่สามารถจัดเก็บภาพหน้าจอได้</string>
-    <string name="shortcut_short_label_24_hour_forecast">พยากรณ์อากาศ 24 ชั่วโมง</string>
+    <string name="shortcut_short_label_24_hour_forecast">พยากรณ์ %d ชั่วโมง</string>
     <string name="shortcut_short_label_recent_forecast">ตรวจสอบสภาพอากาศ</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -564,7 +567,7 @@
     <string name="unit">หน่วย</string>
     <string name="unit_temperature">หน่วยอุณหภูมิ</string>
     <string name="unit_wind">หน่วยความเร็วลม</string>
-    <string name="update_night_setting_summary_text">อัปเดตข้อมูลสภาพอากาศระหว่าง 3:00 และ 07:00</string>
+    <string name="update_night_setting_summary_text">อัปเดตข้อมูลสภาพอากาศระหว่าง %1$s และ %2$s</string>
     <string name="update_night_setting_title_text">อัปเดตคืนนี้โดยอัตโนมัติ</string>
     <string name="update_notification_info">กำลังอัปเดตข้อมูลในพื้นหลัง…</string>
     <string name="updated_a_moment_ago">อัปเดตเมื่อสักครู่</string>
@@ -575,10 +578,8 @@
     <string name="video_banner_weather_forecast">พยากรณ์อากาศ</string>
     <string name="video_banner_weather_update">อัปเดตสภาพอากาศล่าสุด</string>
     <string name="view_forecast_item_yesterday">เมื่อวานนี้</string>
-    <string name="view_indexes_item_day_after_tommorrow">ใน 2 วัน</string>
     <string name="view_indexes_item_today">วันนี้</string>
     <string name="view_indexes_item_tommorrow">พรุ่งนี้</string>
-    <string name="warning_weather_day_and_night_settings_summary">รับข้อมูลสรุปสภาพอากาศรายวันเวลา 7:00 น. และ 19:00 น.</string>
     <string name="warning_weather_day_and_night_settings_title">ผลสรุปรายวัน</string>
     <string name="weather_alert_channel_name">แจ้งเตือน</string>
     <string name="weather_aqi_full_air_quality_forcast">พยากรณ์คุณภาพอากาศแบบเต็ม</string>
@@ -593,6 +594,7 @@
     <string name="wednesday_shortest">พุธ</string>
     <string name="welcome_app_title">ยินดีต้อนรับเข้าสู่ สภาพอากาศ!</string>
     <string name="wind_direction_no_data">ลม</string>
+    <string name="wind_power">%d</string>
     <string name="wind_unit">"%1$s กม/ชม
 "</string>
     <string name="xiaomi_weather_description_content">สภาพอากาศ เป็นแอประบบ คุณจะไม่สามารถดูข้อมูลสภาพอากาศหรือใช้วิดเจ็ตที่เกี่ยวข้องได้หลังจากที่คุณถอนการติดตั้งแอป</string>

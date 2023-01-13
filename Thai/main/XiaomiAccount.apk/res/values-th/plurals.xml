@@ -30,6 +30,9 @@
     <plurals name="area_code_search_result_size">
         <item quantity="other">พบ %d ผลลัพธ์</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d คน</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>

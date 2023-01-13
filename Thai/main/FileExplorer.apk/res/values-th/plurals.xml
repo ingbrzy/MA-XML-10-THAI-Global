@@ -42,6 +42,9 @@
     <plurals name="days_ago">
         <item quantity="other">%1$d วันก่อน</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">ลบ %1$d ไฟล์จากอุปกรณ์ทั้งหมดและระบบคลาวด์ของคุณ? ไฟล์ Mi ไดรฟ์ สามารถกู้คืนได้จากรายการที่เพิ่งลบไป</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">ลบ %1$d ไฟล์?</item>
     </plurals>
@@ -101,6 +104,15 @@
     </plurals>
     <plurals name="more_gems">
         <item quantity="other">รวบรวมเพิ่ม &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> เพชรเพื่อเข้าร่วมการจับรางวัล</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">ไม่สามารถซิงค์ %1$s ไฟล์ได้</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"ซิงค์แล้ว %1$s ไฟล์ | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">กำลังรอการเชื่อมต่อเครือข่าย เหลือ %1$s ไฟล์</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">เลือกไว้ %1$d รายการ</item>

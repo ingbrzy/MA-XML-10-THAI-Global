@@ -65,6 +65,7 @@
     <string name="australian_magpie">นกกางเขนดงออสเตรเลีย</string>
     <string name="authorization_btn_text">เริ่ม</string>
     <string name="authorization_tips">ต้องการการอนุญาต</string>
+    <string name="avalible_per_day">ระยะเวลาเซสชัน</string>
     <string name="baboon_info">The olive baboon lives in groups with developed social ranking depending on the dominance of each individual.</string>
     <string name="back">ย้อนกลับ</string>
     <string name="bear_info">Bears are the largest land carnivores. They live in cold regions and are known for their keen sense of smell.</string>
@@ -114,6 +115,9 @@
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">คาปิบาราส เป็นสัตว์ฟันแทะกึ่งน้ำกึ่งสัตว์กินพืชที่สามารถกลั้นหายใจใต้น้ำได้ครั้งละไม่เกิน 5 นาที</string>
+    <string name="category_limit_notify_title">แจ้งเตือนเวลาหน้าจอ</string>
+    <string name="category_list_expand">เพิ่มเติม</string>
+    <string name="category_list_packup">ซ่อน</string>
     <string name="category_other">อื่นๆ</string>
     <string name="chacma_baboon">Chacma baboon</string>
     <string name="cheetah">Cheetah</string>
@@ -125,11 +129,14 @@
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="click_to_save">Tap \"Done\" to set a general ringtone.</string>
     <string name="close">ปิด</string>
+    <string name="closed_high_refresh_options">แอปที่ไม่ได้ใช้อัตราการรีเฟรชสูง</string>
     <string name="color_gamut">ขอบเขตสี</string>
     <string name="common_brushtail">Brushtail possum</string>
     <string name="common_ostrich">Ostrich</string>
+    <string name="compulsor_tip">หน้าจอหลัก</string>
     <string name="contact_description">แตะปุ่มลัดหน้าจอหลักเพื่อโทรออก</string>
     <string name="contact_title">ปุ่มลัดรายชื่อ</string>
+    <string name="continue_time">ระยะเวลาเซสชัน</string>
     <string name="contrast_ratio">ความเปรียบต่าง</string>
     <string name="control_center_title">เวลาหน้าจอวันนี้</string>
     <string name="control_center_title_new">เรียกใช้วันนี้</string>
@@ -141,6 +148,8 @@
     <string name="created_successfully">สร้างสำเร็จแล้ว</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">ตั้งค่า</string>
+    <string name="customize_high_refresh_summary">คุณลักษณะนี้สนับสนุนอัตราการรีเฟรชสูงถึง %d Hz อัตราการรีเฟรชที่เหมาะสมสามารถเลือกได้โดยอัตโนมัติตามการตั้งค่าอุปกรณ์</string>
+    <string name="customize_high_refresh_title">แอปที่ใช้อัตราการรีเฟรชสูง</string>
     <string name="customize_radio_btn_summary">ต้องการอัตราการรีเฟรชที่เลือก</string>
     <string name="customize_radio_btn_title">กำหนดเอง</string>
     <string name="dall_sheep">Dall sheep</string>
@@ -164,6 +173,8 @@
     <string name="desktop_widget_not_support">"สถิติเวลาอยู่หน้าจอ
 ไม่ได้สร้างในพื้นที่ทับซ้อน"</string>
     <string name="desktop_widget_screen_use_time">เวลาหน้าจอ</string>
+    <string name="device_limit_enable">เปิด</string>
+    <string name="device_limit_un_enable">ปิด</string>
     <string name="display_description">ไอคอนที่ใหญ่กว่า ข้อความขนาดใหญ่ รกตาน้อยลง</string>
     <string name="display_title">รายการที่ใหญ่กว่า</string>
     <string name="dynamic_ringtone_desc">"We've explored different ecosystems and recreated their distinct sounds. Start exploring the sounds of nature with us!"</string>
@@ -294,7 +305,11 @@
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d ถึง %d นาที</string>
     <string name="focus_mode_timer_pick_dialog_title">ป้อนระยะเวลา</string>
     <string name="focus_time_exception_tip">ดูเหมือนว่าเวลาของระบบเปลี่ยนไป ปิดโหมดโฟกัสแล้ว</string>
+    <string name="follow_apps_settings">ตามการตั้งค่าแอป</string>
     <string name="follow_sim1">ใช้การตั้งค่าใช้ซิม 1</string>
+    <string name="force_rest">ใช้การพักเซสชัน</string>
+    <string name="force_rest_summary">หยุดพักเมื่อถึงขีดจำกัดที่กำหนดไว้</string>
+    <string name="force_rest_time">ระยะเวลาการพัก</string>
     <string name="fps_high">สูง</string>
     <string name="fps_nature_summary">อัตราการรีเฟรชสูงสุดช่วยให้ทุกอย่างคมชัดและชัดเจน</string>
     <string name="fps_nature_title">สูงสุด</string>
@@ -327,6 +342,16 @@
     <string name="green_peafowl">นกยูงไทย</string>
     <string name="green_warbler_finch">นกกระจิบ-กระจอกเขียว</string>
     <string name="grey_headed_flying_fox">ค้างคาวจิ้งจอกหัวเทา</string>
+    <string name="guard_item_app_summary">ถอนการติดตั้งแอปจากระยะไกล</string>
+    <string name="guard_item_app_title">จัดการแอป</string>
+    <string name="guard_item_browser_summary">ควบคุมการเข้าถึงแอปและเนื้อหา</string>
+    <string name="guard_item_browser_title">การจำกัด</string>
+    <string name="guard_item_call_summary">อนุญาตให้ผู้ติดต่อบางรายสามารถโทรออกได้</string>
+    <string name="guard_item_call_title">การสื่อสาร</string>
+    <string name="guard_item_eye_protect_summary">มอนิเตอร์ท่าทาง</string>
+    <string name="guard_item_eye_protect_title">สบายตา</string>
+    <string name="guard_range_from">จาก</string>
+    <string name="guard_range_to">ถึง</string>
     <string name="harp_seal">Harp seal</string>
     <string name="harpy_eagle">Harpy eagle</string>
     <string name="has_applied">Applied</string>
@@ -334,11 +359,14 @@
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">อัตราการรีเฟรชหน้าจอสูง การใช้พลังงานที่สูงขึ้น</string>
     <string name="high_fps_tip_footer">การใช้อัตราการรีเฟรชที่สูงขึ้นทำให้ประสบการณ์การรับชมราบรื่นขึ้น แต่ใช้พลังงานมากกว่า</string>
+    <string name="high_refresh_options_title">แอปที่รองรับ</string>
     <string name="hippopotamus">Hippo</string>
+    <string name="holiday_limit">วันหยุด</string>
     <string name="hsv_space_color">พื้นที่สี HSV</string>
     <string name="hsv_space_color_hue">โทนสี</string>
     <string name="hsv_space_color_saturation">ความอิ่มสี</string>
     <string name="hsv_space_color_value">ค่า</string>
+    <string name="in_forbidden_period">การใช้งานถูกจำกัดในขณะนี้</string>
     <string name="intelligent_radio_btn_summary">ปรับอัตราการรีเฟรชแบบไดนามิกตามสถานการณ์เพื่อสร้างสมดุลระหว่างประสิทธิภาพกับการใช้พลังงาน</string>
     <string name="intelligent_radio_btn_title">ค่าเริ่มต้น (แนะนำ)</string>
     <string name="intelligent_recognition_item_summary">ใช้เสียงเรียกเข้าที่กำหนดไว้สำหรับการโทรจากบริการจัดส่งและรถแท็กซี่ คุณสมบัตินี้จะทำงานเมื่อตั้งค่า %s เป็นเสียงเรียกเข้าเริ่มต้นของคุณ</string>
@@ -379,6 +407,7 @@
     <string name="less_than_one">&lt; %d</string>
     <string name="lion">Lion</string>
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
+    <string name="loading_error">ไม่สามารถโหลดรายการได้</string>
     <string name="lock_summary">ป้องกันข้อมูลส่วนตัวของคุณ</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
     <string name="low_flicker_mode">แสงน้อย</string>
@@ -478,6 +507,8 @@
     <string name="nature_mix_summary">Create a custom mix</string>
     <string name="nazca_booby">นาซกาบูบี้</string>
     <string name="network_error">เครือข่ายผิดพลาด ลองอีกครั้ง</string>
+    <string name="new_customize_high_refresh_title">อัตราการรีเฟรชสูง</string>
+    <string name="next_day">"(วันถัดไป) "</string>
     <string name="night">เย็น</string>
     <string name="nine_banded_armadillo">Armadillo</string>
     <string name="no_matching">ไม่พบแอปที่ใช้เปิดลิงก์นี้</string>
@@ -493,6 +524,7 @@
     <string name="notification_sound">เสียงการแจ้งเตือน</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Olive baboon</string>
+    <string name="opened_high_refresh_options">แอปที่ใช้อัตราการรีเฟรชสูง</string>
     <string name="orange_winged_amazon">Orange-winged amazon</string>
     <string name="orca">Killer whale</string>
     <string name="ostrich_info">นกกระจอกเทศเป็นนกที่บินไม่ได้ขนาดใหญ่ในแอฟริกาซึ่งวางไข่ที่ใหญ่ที่สุดในบรรดาสัตว์บกที่มีชีวิต</string>
@@ -558,6 +590,7 @@
     <string name="sea_otter">Sea otter</string>
     <string name="seal_info">Seals are marine mammals that can move quickly in deep waters, feeding on fish and shrimps.</string>
     <string name="search_app_name">ค้นหาแอป</string>
+    <string name="search_app_tips">ค้นหาแอป</string>
     <string name="search_empty">ไม่พบแอป</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="send">ส่ง</string>
@@ -569,6 +602,13 @@
     <string name="silver_pheasant">ไก่ฟ้าหลังขาว</string>
     <string name="sim_slot_1">" (ซิม 1)"</string>
     <string name="sim_slot_2">" (ซิม 2)"</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skywalker_hoolock_gibbon">ชะนีคิ้วขาวสกายวอล์คเกอร์</string>
     <string name="small_ground_finch">นกกระจิบดินขนาดเล็ก</string>
     <string name="sms_delivered_sound_title">ข้อความที่ส่งแล้ว</string>
@@ -589,6 +629,8 @@
     <string name="steady_on_screen_notification_title">วางโทรศัพท์ของคุณและหยุดพัก</string>
     <string name="steady_on_screen_notification_title_pad">วางอุปกรณ์ของคุณและหยุดพัก</string>
     <string name="steady_on_screen_notify">แจ้งเตือนเกี่ยวกับการใช้งานอย่างต่อเนื่อง</string>
+    <string name="steady_on_screen_notify_new">หยุดพัก</string>
+    <string name="steady_on_screen_ntf_msg">คุณลักษณะทั้งหมดจะพร้อมใช้งานอีกครั้งใน %1$s</string>
     <string name="steady_on_screen_setting">จำกัดเวลาสำหรับเซสชันที่ต่อเนื่อง</string>
     <string name="steady_on_screen_summary">จำกัดเวลาสำหรับเซสชันที่ต่อเนื่อง</string>
     <string name="stop_app_timer">ปิดเวลาหน้าจอ</string>
@@ -649,6 +691,12 @@
     <string name="thursday">วันพฤหัสบดี</string>
     <string name="thursday_short">พฤหัส</string>
     <string name="thursday_shortest">พฤหัส</string>
+    <string name="time_over_back_home">หน้าจอหลัก</string>
+    <string name="time_over_delayed_use">เพิกเฉย</string>
+    <string name="time_over_not_delayed_use">รับทราบ</string>
+    <string name="time_over_today">"ไม่มีเวลาเหลืออีกแล้ว
+สำหรับวันนี้"</string>
+    <string name="time_over_today_use">"เซสชั่นวันนี้: "</string>
     <string name="time_picker_dialog_title">ตั้งเวลา</string>
     <string name="time_picker_label_hour">ชม.</string>
     <string name="time_picker_label_minute">น.</string>
@@ -677,6 +725,7 @@
     <string name="tuesday_shortest">อังคาร</string>
     <string name="two_toed_sloths">Two-toed sloth</string>
     <string name="two_toed_sloths_info">Two-toed sloths can easily travel from tree to tree in the canopies of the rainforests.</string>
+    <string name="unavailable_per_day">การพัก</string>
     <string name="unlock_times_per_day">"ค่าเฉลี่ยรายวัน: "</string>
     <string name="unlock_times_per_hour">"ปลดล็อคต่อชั่วโมง: "</string>
     <string name="usage_agree">ยอมรับ</string>
@@ -712,8 +761,10 @@
     <string name="usage_device_limit_app_prolong_time3">เพิ่ม 60 นาที</string>
     <string name="usage_device_limit_app_prolong_time4">ไม่ต้องจำกัดวันนี้</string>
     <string name="usage_device_limit_app_prolong_time5">เพิ่มเวลาครั้งเดียว</string>
+    <string name="usage_device_limit_forbidden_period">การใช้งานถูกจำกัดระหว่าง %1$s ถึง %2$s</string>
     <string name="usage_device_limit_notifation_summary_start">คุณจะถึงขีดจำกัดใน %1$s</string>
     <string name="usage_device_limit_notifation_title">เวลาที่เหลืออยู่วันนี้</string>
+    <string name="usage_device_limit_start_forbidden_period">การใช้งานจะถูกจำกัดระหว่าง %1$s ถึง %2$s (เหลืออีก %3$s)</string>
     <string name="usage_device_limit_time_over">คุณถึงขีดจำกัดของวันนี้แล้ว (%1$s)</string>
     <string name="usage_exit">ออก</string>
     <string name="usage_focus_focus_premission_main_summary">แอปนี้ต้องเข้าถึงข้อมูลบัญชีของคุณเพื่อบันทึกสถิติการใช้งานโหมดโฟกัส</string>
@@ -745,6 +796,8 @@
     <string name="usage_home_premission_second_summary_double_link_prefix">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้องหากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเพิกถอนการอนุญาตได้ใน เวลาหน้าจอ > การตั้งค่า > ปิดเวลาหน้าจอ</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>ก่อนใช้งานแอปนี้ อ่านและยอมรับใน &lt;a href='%1s'>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href='%2s'>นโยบายความเป็นส่วนตัว&lt;/a>.&lt;/Data> ของเรา"</string>
     <string name="usage_home_premission_second_summary_new">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้องหากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเพิกถอนการอนุญาตได้ใน เวลาหน้าจอ > การตั้งค่า > ปิดเวลาหน้าจอ หากคุณมีข้อสงสัยเกี่ยวกับความเป็นส่วนตัว คุณสามารถติดต่อเราได้ที่ privacy@xiaomi.com.</string>
+    <string name="usage_new_category_limit_summary">กำหนดขีดจำกัดการใช้งานรายวันสำหรับแอปทั้งหมดในหมวดหมู่นี้</string>
+    <string name="usage_new_category_limit_title">จำกัดการใช้งานสำหรับหมวดหมู่แอป</string>
     <string name="usage_new_home_app_limit_summary">ตั้งค่า จำกัด เวลาหน้าจอรายวันสำหรับแอปนี้</string>
     <string name="usage_new_home_app_limit_title">จำกัดเวลาหน้าจอ</string>
     <string name="usage_new_home_average">"เฉลี่ย "</string>
@@ -826,7 +879,7 @@
     <string name="usage_state_category">หมวดหมู่</string>
     <string name="usage_state_channel_mouth">30 วันที่ผ่านมา</string>
     <string name="usage_state_channel_week">7 วันที่ผ่านมา</string>
-    <string name="usage_state_date">D MMM</string>
+    <string name="usage_state_date">d MMM</string>
     <string name="usage_state_device_limit_summary">ตั้งค่าจำกัดเวลาหน้าจอรายวันสำหรับอุปกรณ์ของคุณ</string>
     <string name="usage_state_device_limit_title">จำกัดเวลาหน้าจอของอุปกรณ์</string>
     <string name="usage_state_device_noti_today_tip_title">การแจ้งเตือนระหว่าง %1$d:00 และ %2$d:00</string>
@@ -969,6 +1022,7 @@
     <string name="willow_grouse_info">นกวิลโลว์ตามิเกนกินพืชเป็นอาหารมาเกือบตลอดชีวิตและส่วนใหญ่อาศัยอยู่ในถิ่นที่อยู่ใต้อัลไพน์และกึ่งขั้วโลกใต้</string>
     <string name="wolf">หมาป่า</string>
     <string name="wombat">Wombat</string>
+    <string name="workday_limit">วันทำงาน</string>
     <string name="yellow_necked_spurfowl">นกกระสาคอเหลือง</string>
     <string name="yellow_throated_marten">หมาไม้</string>
     <string name="yesterday">เมื่อวาน</string>

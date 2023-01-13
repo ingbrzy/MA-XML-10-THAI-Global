@@ -29,8 +29,10 @@
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="access_limit">ข้อจำกัดในการเข้าถึง</string>
     <string name="access_tips">ไม่สามารถเข้าถึงรายการ ลองใช้ Android Storage Access Framework แทน</string>
+    <string name="action_cache_to_local">ดาวน์โหลดลงเครื่อง</string>
     <string name="action_mode_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="action_mode_select_all">เลือกทั้งหมด</string>
+    <string name="action_release_file_cache">ล้างแคช</string>
     <string name="actionbar_button_up_description">ย้อนกลับ</string>
     <string name="ad_download">ดาวน์โหลด</string>
     <string name="add_private">ทำให้ไฟล์เป็นส่วนตัว</string>
@@ -66,6 +68,16 @@
     <string name="can_not_send_with_too_many">ไม่สามารถส่งไฟล์จำนวนมากในคราวเดียว</string>
     <string name="cancel">ยกเลิก</string>
     <string name="cancel_error">ไม่สามารถลบออกได้ กรุณาลองอีกครั้ง</string>
+    <string name="cancel_mi_drive">ยกเลิกบริการ Mi ไดรฟ์</string>
+    <string name="cancel_mi_drive_alert_description" formatted="false">ล้างรายการทั้งหมดจาก Mi ไดรฟ์ เพื่อให้สามารถยกเลิกบริการได้ ทำตามขั้นตอนเหล่านี้เพื่อล้างรายการ:&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1>%1d&lt;/xliff:g> ในหน้าเริ่มต้นของ Mi ไดรฟ์ ให้กดรายการค้างไว้เพื่อให้ปุ่ม \"เลือกทั้งหมด\" ปรากฏขึ้น ใช้ปุ่มนี้เพื่อเลือกไฟล์ได้สูงสุด 200 ไฟล์ในแต่ละครั้งและลบออก&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%2d&lt;/xliff:g> หลังจากนี้ ให้ล้างรายการที่เพิ่งลบไป</string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g> เราขอแนะนำให้สำรองข้อมูลรายการของคุณก่อนที่จะลบ โดยไปที่ i.mi.com คลิก Mi ไดรฟ์ และดาวน์โหลดรายการของคุณไปยังคอมพิวเตอร์&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g> โปรดทราบว่ารายการที่เพิ่งลบไปล่าสุดไม่สามารถกู้คืนได้หลังจากที่คุณลบออกแล้ว</string>
+    <string name="cancel_mi_drive_confirm_button">ยกเลิกบริการ</string>
+    <string name="cancel_mi_drive_confirm_description">หากดำเนินการต่อ คุณจะยกเลิกบริการ Mi ไดรฟ์ เราจะยุติการรวบรวมข้อมูลส่วนบุคคลของคุณและข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้จะถูกลบออกภายในระยะเวลาที่กำหนดตามกฎหมายและข้อบังคับที่บังคับใช้เว้นแต่จะกำหนดเป็นอย่างอื่น</string>
+    <string name="cancel_mi_drive_confirm_hint">การยกเลิกบริการ Mi ไดรฟ์ จะไม่ส่งผลต่อการใช้งานผลิตภัณฑ์และบริการ Xiaomi อื่นๆ ของคุณ หากคุณต้องการลบบัญชี Xiaomi คุณสามารถทำได้&lt;font color=#0097FF>&lt;a href=%1$s>ที่นี่&lt;/a>&lt;/font></string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>รายการต่อไปนี้จะถูกลบออกอย่างถาวรหลังจากยกเลิกบริการ:&lt;/font>&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g> รายการทั้งหมดใน Mi ไดรฟ์ รวมถึงแต่ไม่จำกัดเฉพาะเอกสาร ไฟล์ส่วนตัว และรายการที่ถูกลบ&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g> สิทธิ์ของอุปกรณ์ การตั้งค่า และเนื้อหาแคชอื่นๆ&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g> ประวัติการอัปโหลดและดาวน์โหลด Mi ไดรฟ์</string>
+    <string name="cancel_mi_drive_privacy_revoked_retry">เปิดใช้งาน Mi ไดรฟ์ แล้วลองอีกครั้ง</string>
+    <string name="cancel_mi_drive_success">ยกเลิกบริการเรียบร้อย</string>
+    <string name="cancel_mi_drive_title">ยกเลิกบริการ</string>
     <string name="cancel_msg">ยกเลิกการเลือกทั้งหมด?</string>
     <string name="cancel_operation">ยกเลิกการดำเนินการ</string>
     <string name="cancel_success">ย้ายไฟล์ไปยัง %s เรียบร้อยแล้ว</string>
@@ -75,6 +87,7 @@
     <string name="category_all">ไฟล์ทั้งหมด</string>
     <string name="category_apk">ไฟล์ APK</string>
     <string name="category_bluetooth">บลูทูธ</string>
+    <string name="category_cloud_drive">Mi ไดรฟ์</string>
     <string name="category_document">เอกสาร</string>
     <string name="category_download">ดาวน์โหลด</string>
     <string name="category_editor_mode">แก้ไข</string>
@@ -110,6 +123,26 @@
     <string name="click_to_switch_volume_pad">แตะที่นี่เพื่อสลับกันระหว่างที่จัดเก็บข้อมูลภายในกับ SD การ์ด</string>
     <string name="clock_in">กำลังเช็คอิน…</string>
     <string name="close">ปิด</string>
+    <string name="cloud_copy_to_local_title">บันทึกไปยัง…</string>
+    <string name="cloud_drive_files">ไฟล์ Mi ไดรฟ์</string>
+    <string name="cloud_drive_not_login_summary">ไม่ได้ลงชื่อเข้าใช้</string>
+    <string name="cloud_drive_settings">การตั้งค่า Mi ไดรฟ์</string>
+    <string name="cloud_empty_hint_text">"ยังไม่มีอะไรที่นี่
+ลองย้ายไฟล์จากอุปกรณ์ของคุณไปยัง Mi ไดรฟ์"</string>
+    <string name="cloud_guide_summary_text">ซิงค์รายการของคุณกับอุปกรณ์ทั้งหมดของคุณโดยอัตโนมัติ</string>
+    <string name="cloud_guide_title_text">ซิงค์ด้วย Mi ไดรฟ์</string>
+    <string name="cloud_permission_storage_desc">สำหรับบันทึกรูปภาพและเอกสารลงในอุปกรณ์ของคุณ</string>
+    <string name="cloud_recycle_bin">รายการที่ถูกลบล่าสุด</string>
+    <string name="cloud_space_full">ที่เก็บข้อมูลบนคลาวด์เต็ม อัปเกรดแผนบริการพื้นที่เก็บข้อมูลของคุณเพื่อให้สามารถอัปโหลดรายการได้มากขึ้น</string>
+    <string name="cloud_transfer_download_error">ไม่สามารถดาวน์โหลดได้</string>
+    <string name="cloud_transfer_download_loading">กำลังดาวน์โหลด</string>
+    <string name="cloud_transfer_downloading">กำลังดาวน์โหลด</string>
+    <string name="cloud_transfer_pause">หยุดชั่วคราว</string>
+    <string name="cloud_transfer_upload_error">ไม่สามารถอัปโหลดได้</string>
+    <string name="cloud_transfer_uploading">กำลังอัปโหลด</string>
+    <string name="cloud_transfer_wait_download">กำลังรอดาวน์โหลด</string>
+    <string name="cloud_transfer_wait_network">รออินเตอร์เน็ต</string>
+    <string name="cloud_transfer_wait_upload">กำลังรออัปโหลด</string>
     <string name="compress_fail">ไม่สามารถบีบอัดได้ มีไฟล์ชื่อนี้อยู่ก่อนแล้ว</string>
     <string name="compress_fail_unknown">ไม่สามารถบีบอัดไฟล์ได้ พื้นที่จัดเก็บเต็มหรือเกิดข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="compress_message">บีบอัดไฟล์ไปยัง…</string>
@@ -124,6 +157,10 @@
     <string name="copy_to">คัดลอกไปยัง…</string>
     <string name="create_folder">สร้าง</string>
     <string name="create_shortcut_success">เพิ่มปุ่มลัดเรียบร้อย</string>
+    <string name="cta_function_account_operation">สำหรับการลงชื่อเข้าใช้บัญชี Xiaomi ของคุณอย่างรวดเร็ว</string>
+    <string name="data_consume_dialog_message">คุณกำลังใช้ข้อมูลมือถือ หากคุณดำเนินการต่อ จะใช้ %s ของข้อมูล</string>
+    <string name="data_consume_dialog_title">ใช้งานเครือข่ายข้อมูลมือถือ?</string>
+    <string name="data_consume_dialog_upload_title">อัปโหลดการใช้ข้อมูลมือถือ</string>
     <string name="data_consumption_cancel">ไม่เห็นด้วย</string>
     <string name="data_consumption_checkbox_hint">ไม่ต้องแสดงอีก</string>
     <string name="data_consumption_confirm">ตกลง</string>
@@ -157,7 +194,14 @@
     <string name="delete_folder">ลบโฟลเดอร์นี้?</string>
     <string name="des_hide_pwd">ซ่อนรหัสผ่าน</string>
     <string name="des_show_pwd">แสดงรหัสผ่าน</string>
+    <string name="dialog_account_permission_denied_msg">อนุญาตให้แอปนี้เข้าถึงบัญชีอุปกรณ์เพื่อให้สามารถลงชื่อเข้าใช้ Mi ไดรฟ์ คุณสามารถให้สิทธิ์นี้ใน การตั้งค่า</string>
+    <string name="dialog_account_permission_denied_negative_button">ยกเลิก </string>
+    <string name="dialog_account_permission_denied_positive_button">การตั้งค่า</string>
+    <string name="dialog_account_permission_denied_title">ต้องการการอนุญาต</string>
     <string name="dialog_keep_choice">จดจำตัวเลือกของฉัน</string>
+    <string name="dialog_open_mi_drive_button">รับทราบ</string>
+    <string name="dialog_open_mi_drive_err">รีสตาร์ท Mi ไดรฟ์ แล้วลองอีกครั้ง</string>
+    <string name="dialog_open_mi_drive_title">ข้อผิดพลาดเซิร์ฟเวอร์</string>
     <string name="dialog_select_type">เลือกประเภท</string>
     <string name="dialog_type_audio">เสียง</string>
     <string name="dialog_type_image">รูปภาพ</string>
@@ -199,6 +243,7 @@
     <string name="error_not_support">ไม่รองรับ</string>
     <string name="error_open_file_failed_no_app_found">ไม่พบแอปที่สามารถดำเนินการไฟล์นี้ได้</string>
     <string name="evening">บ่าย</string>
+    <string name="exception_net_not_available">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
     <string name="exit">ออก</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="extended_storage_file_can_not_open">ไม่สามารถเปิดไฟล์ได้ คัดลอกไปยังที่จัดเก็บข้อมูลภายใน</string>
@@ -211,6 +256,7 @@
     <string name="favorite_photo">รูปถ่าย</string>
     <string name="favorite_ringtone">เสียงเรียกเข้า</string>
     <string name="favorite_screen_cap">ภาพหน้าจอ</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">สามารถอ่านได้: </string>
     <string name="file_info_canwrite">สามารถเขียนได้: </string>
     <string name="file_info_ishidden">ซ่อนอยู่: </string>
@@ -307,6 +353,7 @@
     <string name="guide_three_title">จัดเรียงปุ่มลัดใหม่</string>
     <string name="guide_two_summary">รูปภาพและภาพหน้าจอของคลังภาพถูกซ่อนไว้โดยค่าเริ่มต้น</string>
     <string name="guide_two_title">ดูแต่รายการที่จำเป็น</string>
+    <string name="h5_ppt_to_pdf_introduce_title">เกี่ยวกับการสร้าง PDFs</string>
     <string name="hint_switch_to_grid_mode">เปลี่ยนเป็นมุมมองตาราง</string>
     <string name="hint_switch_to_list_mode">เปลี่ยนเป็นมุมมองรายการ</string>
     <string name="home_action_up">ย้อนกลับ</string>
@@ -315,10 +362,14 @@
     <string name="homepage_tab_file_view_phone">พื้นที่จัดเก็บข้อมูล</string>
     <string name="homepage_tab_recent">ล่าสุด</string>
     <string name="hot_sticker">สติกเกอร์</string>
+    <string name="hybrid_provider">ให้บริการโดย %1$s</string>
     <string name="if_cancel">ยกเลิกการดำเนินการนี้?</string>
     <string name="image_loading_error">ไม่สามารถโหลดภาพได้</string>
     <string name="imm_str_storage">พื้นที่จัดเก็บข้อมูล</string>
     <string name="import_files_from_old_phones">นำเข้าจากอุปกรณ์เก่า</string>
+    <string name="install_media_editor_button_text">ดาวน์โหลด</string>
+    <string name="install_media_editor_message">หากต้องการแก้ไขรายการ ให้ดาวน์โหลดปลั๊กอินก่อน ดาวน์โหลดเดี๋ยวนี้?</string>
+    <string name="install_media_editor_title">ต้องใช้ปลั๊กอิน</string>
     <string name="instruction">ใส่ที่อยู่ต่อไปนี้ไปยังไคลเอนต์ FTP: </string>
     <string name="instruction_pre_pad">จัดการไฟล์บนอุปกรณ์นี้โดยใช้คอมพิวเตอร์</string>
     <string name="instruction_pre_phone">จัดการไฟล์บนอุปกรณ์นี้โดยใช้คอมพิวเตอร์</string>
@@ -343,6 +394,7 @@
     <string name="make_private_msg_1">ทำให้ไฟล์นี้เป็นแบบส่วนตัวหรือไม่?</string>
     <string name="make_private_msg_2">ทำให้ไฟล์เหล่านี้เป็นส่วนตัวหรือไม่?</string>
     <string name="make_private_msg_3">ไฟล์ทั้งหมดในโฟลเดอร์นี้จะถูกทำให้เป็นส่วนตัว</string>
+    <string name="manage_cloud_space">จัดการที่เก็บข้อมูลบนคลาวด์</string>
     <string name="menu_item_cleanup">ทำความสะอาด</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_router">เราเตอร์</string>
@@ -359,6 +411,12 @@
     <string name="mi_router_label">เราเตอร์</string>
     <string name="mi_share">Mi แชร์</string>
     <string name="midnight">กลางคืน</string>
+    <string name="midrive_display_related">แสดงผล</string>
+    <string name="midrive_get_cloudvideo_file">รอสักครู่…</string>
+    <string name="midrive_hide_recent_cloud_files">ไม่แสดงไฟล์ Mi ไดรฟ์ ในรายการล่าสุด</string>
+    <string name="midrive_not_found">ไม่สามารถเข้าถึงรายการนี้ได้</string>
+    <string name="midrive_overseas_unavailable">คุณลักษณะนี้มีเฉพาะในจีนแผ่นดินใหญ่เท่านั้น</string>
+    <string name="midrive_reset_privacy_and_check_availability_retry">ไม่สามารถเปิด Mi ไดรฟ์ ได้ ลองอีกครั้ง</string>
     <string name="midriver_install_button_text">ติดตั้ง</string>
     <string name="midriver_not_install_title">ถอนการติดตั้ง Mi ไดรฟ์ แล้ว</string>
     <string name="mirror_can_not_drag_mask">ลากเพื่อใช้ Mi แชร์</string>
@@ -464,6 +522,7 @@
     <string name="need_read_storage_permission">ตัวจัดการไฟล์ ต้องการสิทธิ์ในการเข้าถึงที่เก็บข้อมูลของอุปกรณ์เพื่อให้ทำงานได้ตามปกติ</string>
     <string name="network_not_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="new_folder_name">โฟลเดอร์ใหม่</string>
+    <string name="new_storage_info_detail">ฟรี: %1$s | ทั้งหมด: %2$s</string>
     <string name="next">ถัดไป</string>
     <string name="night">เย็น</string>
     <string name="no">ไม่ใช่</string>
@@ -472,6 +531,9 @@
     <string name="no_enough_storage_indication">หน่วยความจำโทรศัพท์เต็ม</string>
     <string name="no_enough_storage_title">พื้นที่จัดเก็บไม่เพียงพอ</string>
     <string name="no_file">ว่าง</string>
+    <string name="no_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
+    <string name="no_network_error_message">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
+    <string name="no_network_error_title">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="no_permission">ให้สิทธิ์ที่จำเป็นในการเข้าถึงคุณลักษณะนี้</string>
     <string name="no_wifi">ไม่มีเครือข่าย Wi-Fi</string>
     <string name="noon">เที่ยงวัน</string>
@@ -481,16 +543,29 @@
     <string name="not_use">ไม่ใช่ตอนนี้</string>
     <string name="notif_server_starting">กำลังเริ่มเซิร์ฟเวอร์ FTP…</string>
     <string name="notif_title">เซิร์ฟเวอร์ FTP กำลังทำงาน</string>
+    <string name="notification_title_sync_result">ซิงค์เสร็จแล้ว</string>
+    <string name="notification_title_syncing">กำลังซิงค์…</string>
+    <string name="notification_title_syncing_with_count">กำลังซิงค์รายการ ไฟล์ที่เหลืออยู่: %1$s</string>
     <string name="online_not_support">ไม่สามารถดูไฟล์ออนไลน์ได้ในขณะนี้</string>
+    <string name="open_cloud_drive">เปิดใช้งาน Mi ไดรฟ์</string>
     <string name="open_or_close_wlan">เปิดและปิด Wi-Fi</string>
     <string name="open_private_folder">ปล่อยเพื่อดูไฟล์ส่วนตัว</string>
     <string name="operation_add_fav">กำลังเพิ่มไปยังรายการโปรด…</string>
+    <string name="operation_batch_failed_err">ดำเนินการนี้ให้เสร็จสิ้นสำหรับหลายไฟล์ไม่ได้</string>
+    <string name="operation_cache_use_data">ดาวน์โหลด</string>
+    <string name="operation_cache_use_free_network">รอเครือข่าย Wi-Fi</string>
     <string name="operation_cancel">ยกเลิก</string>
+    <string name="operation_cloud_copy_to_local">บันทึกไปยัง…</string>
     <string name="operation_compress">บีบอัด</string>
     <string name="operation_compressing">กำลังบีบอัด…</string>
     <string name="operation_copy">คัดลอก</string>
     <string name="operation_create_folder">สร้างโฟลเดอร์</string>
     <string name="operation_create_folder_message">ตั้งชื่อโฟลเดอร์</string>
+    <string name="operation_create_folder_name_conflict">ไม่สามารถสร้างโฟลเดอร์ได้ มีโฟลเดอร์ชื่อนี้อยู่แล้ว</string>
+    <string name="operation_create_folder_name_illegal_char">ไม่สามารถสร้างโฟลเดอร์ได้ ชื่อโฟลเดอร์มีอักขระที่ไม่รองรับ</string>
+    <string name="operation_create_folder_network_not_available">ไม่สามารถสร้างโฟลเดอร์ได้ ตรวจสอบการตั้งค่าเครือข่ายและลองอีกครั้ง</string>
+    <string name="operation_create_folder_not_support_for_overseas">ไม่สามารถสร้างโฟลเดอร์ได้ คุณลักษณะนี้มีเฉพาะในจีนแผ่นดินใหญ่เท่านั้น</string>
+    <string name="operation_create_folder_other">ไม่สามารถสร้างโฟลเดอร์ได้</string>
     <string name="operation_decompressing">กำลังแตกไฟล์…</string>
     <string name="operation_del_fav">กำลังนำออกจากรายการโปรด…</string>
     <string name="operation_delete">ลบ</string>
@@ -498,28 +573,59 @@
     <string name="operation_delete_confirm_message_folder">"ข้อมูลในโฟลเดอร์ทั้งหมดถูกลบ
 "</string>
     <string name="operation_deleting">กำลังลบ…</string>
+    <string name="operation_download">ดาวน์โหลด</string>
+    <string name="operation_download_error_no_space">ที่จัดเก็บข้อมูลไม่เพียงพอ</string>
+    <string name="operation_download_error_other">ระบบเกิดข้อผิดพลาด กรุณารอสักครู่และลองอีกครั้ง</string>
+    <string name="operation_download_error_title">ไม่สามารถดาวน์โหลดได้</string>
+    <string name="operation_editor">แก้ไข</string>
     <string name="operation_encrypt_summary">เข้ารหัสไฟล์ในโฟลเดอร์ส่วนตัว การถอดรหัสไฟล์ขนาดใหญ่อาจใช้เวลานานกว่าที่คาดไว้</string>
     <string name="operation_encrypt_title">เข้ารหัสไฟล์ส่วนตัว</string>
     <string name="operation_favorite">เพิ่มไปยังรายการโปรด</string>
+    <string name="operation_file_downloading_err">ไม่สามารถดำเนินการนี้ได้ รอให้ไฟล์นี้ดาวน์โหลดเสร็จและลองอีกครั้ง</string>
+    <string name="operation_file_exist_err">ดำเนินการนี้ไม่สำเร็จ ไฟล์นี้มีอยู่แล้ว</string>
+    <string name="operation_file_not_found_err">ดำเนินการนี้ไม่สำเร็จ ไม่พบไฟล์ต้นฉบับ</string>
+    <string name="operation_gallary">เรียกดูในคลังภาพ</string>
     <string name="operation_hide_sys">ไม่แสดงไฟล์ที่ซ่อน</string>
     <string name="operation_info">รายละเอียด</string>
     <string name="operation_move">ย้าย</string>
     <string name="operation_moving">กำลังย้าย…</string>
     <string name="operation_new_folder">สร้างโฟลเดอร์</string>
+    <string name="operation_no_network_err">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
+    <string name="operation_not_support_directory_rename">โฟลเดอร์นี้ไม่สามารถเปลี่ยนชื่อได้</string>
+    <string name="operation_not_support_err">ไม่สามารถดำเนินการนี้ได้</string>
     <string name="operation_open">เปิด</string>
     <string name="operation_open_mode">เปิดด้วย</string>
     <string name="operation_other_apps">เปิดบนแอปอื่น</string>
     <string name="operation_paste">วาง</string>
     <string name="operation_paste_to_folder">วางไปยังโฟลเดอร์</string>
     <string name="operation_pasting">กำลังคัดลอก…</string>
+    <string name="operation_pic_to_pdf">สร้าง PDF</string>
     <string name="operation_refresh">รีเฟรช</string>
     <string name="operation_rename">เปลี่ยนชื่อ</string>
+    <string name="operation_rename_err">ไม่สามารถเปลี่ยนชื่อได้</string>
     <string name="operation_rename_message">ป้อนชื่อใหม่</string>
+    <string name="operation_retry">ลองอีกครั้ง</string>
     <string name="operation_send">ส่ง</string>
     <string name="operation_send_to_pc">ย้ายไปยังคอมพิวเตอร์</string>
+    <string name="operation_set_pic_wallpaper">ตั้งเป็นภาพพื้นหลัง</string>
     <string name="operation_show_privacy_policy">แสดงนโยบายความเป็นส่วนตัว</string>
     <string name="operation_show_sys">แสดงไฟล์ที่ซ่อน</string>
+    <string name="operation_sync_cloud_data_error">เซิร์ฟเวอร์ผิดพลาด กรุณารอสักครู่และลองอีกครั้ง</string>
     <string name="operation_unfavorite">ลบออกจากรายการโปรด</string>
+    <string name="operation_unknown_err">ไม่สามารถดำเนินการนี้ได้</string>
+    <string name="operation_upload_buy_space">อัปเกรด</string>
+    <string name="operation_upload_delete">ลบ</string>
+    <string name="operation_upload_err_file_not_found">ดูเหมือนว่าไฟล์นี้ไม่มีอยู่</string>
+    <string name="operation_upload_err_file_size_zero">ไม่สามารถอัปโหลดไฟล์เปล่า</string>
+    <string name="operation_upload_err_full_space">ที่เก็บข้อมูลบนคลาวด์เต็ม อัปเกรดแผนบริการพื้นที่เก็บข้อมูลของคุณเพื่อให้สามารถอัปโหลดรายการได้มากขึ้น</string>
+    <string name="operation_upload_err_illegal_char">ชื่อไฟล์นี้มีอักขระที่ไม่รองรับ</string>
+    <string name="operation_upload_err_larger_than_4g">ไม่สามารถอัปโหลดไฟล์ที่มีขนาดใหญ่กว่า %d GB</string>
+    <string name="operation_upload_err_not_support_overseas">เฉพาะผู้ใช้ในจีนแผ่นดินใหญ่เท่านั้นที่สามารถอัปโหลดรายการได้ในขณะนี้</string>
+    <string name="operation_upload_err_other">ระบบเกิดข้อผิดพลาด กรุณารอสักครู่และลองอีกครั้ง</string>
+    <string name="operation_upload_error_title">ไม่สามารถอัปโหลดได้</string>
+    <string name="operation_upload_retry">ลองอีกครั้ง</string>
+    <string name="operation_upload_save_to_local">บันทึกไปยัง…</string>
+    <string name="operation_upload_use_data">อัปโหลด</string>
     <string name="otg_data_transfer_success">โอนเรียบร้อยแล้ว</string>
     <string name="otg_data_transferring">กำลังโอนไฟล์…อย่าตัดการเชื่อมต่อที่จัดเก็บข้อมูลภายนอก</string>
     <string name="otg_file_security_note">OGTSecurity</string>
@@ -529,9 +635,16 @@
     <string name="partial_encrypt_success">ไม่สามารถตั้งไฟล์บางส่วนให้เป็นไฟล์ลับได้ กรุณาลองอีกครั้ง</string>
     <string name="path_name_email">อีเมล</string>
     <string name="perm_manage_external_storage">เข้าถึงไฟล์ทั้งหมด</string>
+    <string name="permission_account_desc">สำหรับการเข้าถึงข้อมูลบัญชีที่จัดเก็บไว้ในอุปกรณ์ของคุณ</string>
+    <string name="permission_account_desc_pad">สำหรับการเข้าถึงข้อมูลบัญชีที่จัดเก็บไว้ในอุปกรณ์ของคุณ</string>
+    <string name="permission_account_title">เข้าถึงบัญชีอุปกรณ์</string>
+    <string name="permission_account_title_pad">เข้าถึงบัญชีอุปกรณ์</string>
     <string name="permission_denial">ไม่สามารถเข้าถึงไฟล์ได้ อนุญาตให้ตัวจัดการไฟล์เข้าถึงไฟล์ในการตั้งค่า</string>
     <string name="permission_description">รายละเอียดการอนุญาต</string>
     <string name="permission_required">ไม่สามารถเข้าถึงไฟล์ได้ อนุญาตให้ตัวจัดการไฟล์เข้าถึงไฟล์ในการตั้งค่า</string>
+    <string name="permission_storage_desc_pad">สำหรับบันทึกรูปภาพและเอกสารลงในอุปกรณ์ของคุณ</string>
+    <string name="permission_storage_title">เข้าถึงที่เก็บข้อมูลอุปกรณ์</string>
+    <string name="permission_storage_title_pad">เข้าถึงที่เก็บข้อมูลอุปกรณ์</string>
     <string name="phone">พื้นที่จัดเก็บภายใน</string>
     <string name="phone_storage">พื้นที่จัดเก็บ</string>
     <string name="phone_storage_apk_title">ไฟล์ APK: </string>
@@ -550,6 +663,7 @@
     <string name="pick_folder">เลือกโฟลเดอร์</string>
     <string name="pm">PM</string>
     <string name="port_range">พอร์ตต้องอยู่ระหว่าง 1024-65535</string>
+    <string name="pre_privacy_recall">การเพิกถอนความยินยอม</string>
     <string name="pref_permission_allowed">ยินยอมแล้ว</string>
     <string name="pref_permission_manage_key_storage">เข้าถึงรูปภาพและไฟล์บนอุปกรณ์</string>
     <string name="pref_permission_not_allowed">ไม่ได้รับการยินยอม</string>
@@ -557,6 +671,14 @@
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="privacy_policy_renew">นโยบายความเป็นส่วนตัวที่อัปเดตแล้ว</string>
     <string name="privacy_policy_renew_content">&lt;Data>&lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของตัวจัดการไฟล์ได้รับการอัปเดตแล้ว เพื่อให้เข้าใจถึงสิทธิ์ของคุณในฐานะผู้ใช้ตลอดจนวิธีที่เราใช้ข้อมูลของคุณอย่างถ่องแท้ โปรดอ่านและยอมรับนโยบายความเป็นส่วนตัวเวอร์ชันใหม่ก่อนที่จะดำเนินการต่อ&lt;/Data></string>
+    <string name="privacy_recall_alert_description" formatted="false">ล้างรายการทั้งหมดจาก Mi ไดรฟ์ เพื่อให้สามารถเพิกถอนความยินยอมได้ ทำตามขั้นตอนเหล่านี้เพื่อล้างรายการ:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g> ในหน้าเริ่มต้นของ Mi ไดรฟ์ ให้กดรายการค้างไว้เพื่อให้ปุ่ม \"เลือกทั้งหมด\" ปรากฏขึ้น ใช้ปุ่มนี้เพื่อเลือกไฟล์ได้สูงสุด 200 ไฟล์ในแต่ละครั้งและลบออก&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g> หลังจากนี้ ให้ล้างรายการที่เพิ่งลบไป</string>
+    <string name="privacy_recall_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g> เราขอแนะนำให้สำรองข้อมูลรายการของคุณก่อนที่จะลบ โดยไปที่ i.mi.com คลิก Mi ไดรฟ์ และดาวน์โหลดรายการของคุณไปยังคอมพิวเตอร์&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g> โปรดทราบว่ารายการที่เพิ่งลบไปล่าสุดไม่สามารถกู้คืนได้หลังจากที่คุณลบออกแล้ว</string>
+    <string name="privacy_recall_confirm_button">เพิกถอน</string>
+    <string name="privacy_recall_confirm_description">หากดำเนินการต่อ คุณจะเพิกถอนความยินยอมต่อนโยบายความเป็นส่วนตัวของตัวจัดการไฟล์ เราจะยุติการรวบรวมข้อมูลส่วนบุคคลของคุณ ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้จะถูกลบออกภายในระยะเวลาที่กำหนดตามกฎหมายและข้อบังคับที่บังคับใช้ เว้นแต่จะกำหนดเป็นอย่างอื่น</string>
+    <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>รายการต่อไปนี้จะถูกลบออกอย่างถาวรหลังจากถอนความยินยอม:&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g> รายการทั้งหมดใน Mi ไดรฟ์ รวมถึงแต่ไม่จำกัดเฉพาะเอกสาร ไฟล์ส่วนตัว และรายการที่ถูกลบ&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g> สิทธิ์ของอุปกรณ์ การตั้งค่า และเนื้อหาแคชอื่นๆ&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g> ประวัติการอัพโหลดและดาวน์โหลด Mi ไดรฟ์</string>
+    <string name="privacy_recall_success">เพิกถอนคำยินยอมเรียบร้อยแล้ว</string>
+    <string name="privacy_recall_title">การเพิกถอนความยินยอม</string>
+    <string name="privacy_recalling">กำลังเพิกถอนความยินยอม…</string>
     <string name="private_files">ส่วนตัว</string>
     <string name="private_folder">ไฟล์ส่วนบุคคล</string>
     <string name="private_folder_no_file_hints">กดไฟล์หรือโฟลเดอร์ค้างไว้เพื่อทำให้เป็นส่วนตัว</string>
@@ -568,11 +690,15 @@
     <string name="pull_to_enter_private">ดึงลงเพื่อเปิดโฟลเดอร์ส่วนตัว</string>
     <string name="qq_msg">เนื่องจากข้อจำกัดของ Android 11 ตัวจัดการไฟล์จึงไม่สามารถเข้าถึงและแสดงเอกสาร QQ ได้</string>
     <string name="qq_title">ไม่สามารถเข้าถึงเอกสาร WeChat ได้</string>
+    <string name="query_quota_exception">เซิร์ฟเวอร์ผิดพลาด กรุณารอสักครู่และลองอีกครั้ง</string>
+    <string name="query_quota_searching">รอสักครู่…</string>
     <string name="recent_hide_camera_and_screenshots">อย่าแสดงรายการคลังภาพและภาพหน้าจอระหว่างไฟล์ล่าสุด</string>
+    <string name="recent_hide_cloud_drive_files">ไม่แสดงไฟล์ Mi ไดรฟ์ ในรายการล่าสุด</string>
     <string name="refresh_success">รีเฟรชเสร็จสิ้น</string>
     <string name="reinstall_midriver_message">ติดตั้งอีกครั้งตอนนี้?</string>
     <string name="release_enter_private">ปล่อยเพื่อเปิดโฟลเดอร์ส่วนตัว</string>
     <string name="remainder_size">คงเหลือ: %s</string>
+    <string name="reminder_card_title">โปรดทราบ</string>
     <string name="rename_alert">หากคุณแก้ไขนามสกุลไฟล์ อาจทำให้ไม่สามารถเปิดไฟล์ได้</string>
     <string name="rename_alert2">ไฟล์ที่มีชื่อขึ้นต้นด้วย \".\" จะถูกซ่อนโดยระบบโดยอัตโนมัติ ใช้ชื่อนี้ต่อไปไหม?</string>
     <string name="rename_failed">ไม่สามารถเปลี่ยนชื่อ %1$s ได้</string>
@@ -629,6 +755,7 @@
     <string name="set_pattern">อัปเดตรหัสผ่านของคุณ</string>
     <string name="set_pattern_btn">ตั้ง</string>
     <string name="set_pattern_msg">ตั้งรหัสผ่านของคุณอีกครั้ง รหัสผ่านการปกป้องความเป็นส่วนตัวยังใช้งานได้กับภาพถ่ายข้อความและบันทึกย่อ</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">เล็กกว่า %d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
@@ -746,9 +873,12 @@
     <string name="unknown_error">เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ รอสักครู่หรือสองครั้งแล้วลองอีกครั้ง</string>
     <string name="unlock_pattern_msg">รหัสผ่านการปกป้องความเป็นส่วนตัวยังใช้งานได้กับภาพถ่ายข้อความและบันทึกย่อ</string>
     <string name="unlock_pattern_title">รหัสผ่านใหม่</string>
+    <string name="update_no_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง</string>
     <string name="upload_user_photo">อัปโหลด</string>
     <string name="usb_label">USB</string>
     <string name="use">ใช้</string>
+    <string name="use_mobile_data_update_summary">ใช้ข้อมูลมือถือเพื่อซิงค์การเปลี่ยนแปลงโดยอัตโนมัติกับไฟล์ที่ดาวน์โหลดจาก Mi ไดรฟ์</string>
+    <string name="use_mobile_data_update_title">ซิงค์ผ่านเครือข่ายมือถือ</string>
     <string name="use_to_all">นำไปใช้กับทุกอย่าง</string>
     <string name="used">ใช้แล้ว</string>
     <string name="user_guide_continue_use">ตกลง</string>
@@ -757,7 +887,12 @@
     <string name="utf8_title">UTF-8</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
+    <string name="video_data_consume_dialog_confirm">ดำเนินต่อ</string>
+    <string name="video_data_consume_dialog_title">ใช้งานข้อมูลมือถือ?</string>
     <string name="view_type">ดู</string>
+    <string name="web_sso_login_fail">กรุณาลงชื่อเข้าใช้อีกครั้ง</string>
+    <string name="web_sso_login_message">กำลังเข้าสู่ระบบ…</string>
+    <string name="webview_reload">ลองอีกครั้ง</string>
     <string name="wechat_msg">เนื่องจากข้อจำกัดของ Android 11 ตัวจัดการไฟล์ไม่สามารถเข้าถึงและแสดงเอกสารที่แสดงตัวอย่างใน WeChat เปิดและบันทึกเอกสารใน WeChat เพื่อให้ปรากฏที่นี่</string>
     <string name="wechat_title">ไม่สามารถเข้าถึงเอกสาร WeChat ได้</string>
     <string name="wechat_video">วิดีโอจาก %s</string>

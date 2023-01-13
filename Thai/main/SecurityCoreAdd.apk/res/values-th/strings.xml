@@ -43,6 +43,7 @@
     <string name="air_space_exit">ออกจากพื้นที่</string>
     <string name="air_space_setting">การตั้งค่าพื้นที่</string>
     <string name="airspace_users_full">ไม่สามารถสร้างพื้นที่ทำงานเพิ่มเติม</string>
+    <string name="alwaysUsePrompt">จดจำตัวเลือกนี้</string>
     <string name="am">AM</string>
     <string name="appData">แอปที่ติดตั้ง</string>
     <string name="app_name">ส่วนหลักด้านความปลอดภัย</string>
@@ -264,8 +265,7 @@
     <string name="green_guard_title3">จัดการแอป</string>
     <string name="greenguard_child_des">จัดการอุปกรณ์ของเพื่อนและครอบครัวของคุณ</string>
     <string name="greenguard_child_des_title">สแกนรหัส QR เพื่อเพิ่มอุปกรณ์</string>
-    <string name="greenguard_functional_description">"จัดการอุปกรณ์จากระยะไกล ดูข้อมูลตำแหน่ง 
-ควบคุมการติดตั้งแอพและจำกัดการใช้งาน"</string>
+    <string name="greenguard_functional_description">จัดการอุปกรณ์จากระยะไกล ดูข้อมูลตำแหน่ง และควบคุมแอปที่ติดตั้ง</string>
     <string name="greenguard_install_cancle">ไม่ ขอบคุณ</string>
     <string name="greenguard_install_confirm">ติดตั้ง</string>
     <string name="greenguard_install_message">ปกป้องครอบครัว เป็นแอปในระบบ คุณไม่จำเป็นต้องใช้อินเตอร์เน็ตเพื่อติดตั้ง</string>
@@ -692,6 +692,7 @@
     <string name="xspace_guide_description">"ทุกบัญชี
 สมควรมีแอปของมันเอง"</string>
     <string name="xspace_guide_title">ลองแอปโคลน</string>
+    <string name="xspace_head">แอปโคลน</string>
     <string name="xspace_header">แอปโคลน</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font>สร้างแอปโคลนสำเร็จแล้ว &lt;/font>&lt;font color=#0D84FF>เปิดเดี๋ยวนี้&lt;/font></string>
@@ -707,6 +708,7 @@
     <string name="xspace_notification_error">ลงชื่อเข้าใช้ WeChat คู่แล้วลองอีกครั้ง</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">ลบบัญชีแอปโคลน</string>
+    <string name="xspace_resolver_activity_title">เลือกแอป</string>
     <string name="xspace_setting_label">การตั้งค่าแอปโคลน</string>
     <string name="xspace_settins">ตั้งค่า</string>
     <string name="xspace_start">สร้าง</string>

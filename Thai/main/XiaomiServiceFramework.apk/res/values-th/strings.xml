@@ -3,7 +3,7 @@
     <string name="accept">ยอมรับ</string>
     <string name="app_name">กรอบการให้บริการของ Xiaomi</string>
     <string name="error_device_id_message">"รหัสอุปกรณ์ไม่ถูกต้อง: %s
- อุปกรณ์ต้องมีรหัส IMEI หรือที่อยู่ MAC ขอรับรหัสอุปกรณ์ที่ถูกต้องไม่ได้, คุณลักษณะของบัญชี Mi และ Xiaomi คลาวด์บางอย่างจะใช้งานไม่ได้"</string>
+ อุปกรณ์ต้องมีรหัส IMEI หรือที่อยู่ MAC ขอรับรหัสอุปกรณ์ที่ถูกต้องไม่ได้, คุณลักษณะของบัญชี Xiaomi และ Xiaomi คลาวด์บางอย่างจะใช้งานไม่ได้"</string>
     <string name="error_device_id_title">ไม่พบรหัสประจำตัวอุปกรณ์ที่ถูกต้อง</string>
     <string name="explain_send_sms_permission_button">ยืนยัน</string>
     <string name="explain_send_sms_permission_msg">เปิดใช้ %s กรอบการทำงานของ Xiaomi จะส่งข้อความ SMS เพื่อยืนยันหมายเลขโทรศัพท์ของคุณ คุณจะต้องเสียค่าบริการข้อความ SMS ให้กับทางผู้ให้บริการ</string>

@@ -37,6 +37,12 @@
         <item>เสียงไมค์</item>
         <item>เสียงของระบบ</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>ไม่มี</item>
+        <item>ไมโครโฟน</item>
+        <item>ระบบ</item>
+        <item>ทั้งคู่</item>
+    </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>ที่จัดเก็บภายใน</item>
         <item>ที่เก็บข้อมูลภายนอก</item>

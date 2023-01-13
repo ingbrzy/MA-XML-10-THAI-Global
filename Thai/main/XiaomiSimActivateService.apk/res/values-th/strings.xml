@@ -260,6 +260,7 @@
     <string name="search_menu_title">ค้นหา</string>
     <string name="send">ส่ง</string>
     <string name="sim_activate_failed">ไม่สามารถเปิดใช้บริการได้</string>
+    <string name="sim_activate_notificat_channel">การแจ้งเตือนการเปิดใช้งาน</string>
     <string name="sim_activate_prepare">เปิดใช้บริการ</string>
     <string name="sim_activated_failed_msg">ไม่สามารถเปิดใช้บริการได้ แตะเพื่อลองอีกครั้ง</string>
     <string name="sim_unactivated_feature_title">ไม่ได้เปิดใช้งาน \"%s\"</string>

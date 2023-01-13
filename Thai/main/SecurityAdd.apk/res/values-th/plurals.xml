@@ -49,9 +49,18 @@
         <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d วันที่เหลือก่อนที่เซสชั่นการเพิ่มความเร็วของเครือข่ายจะสิ้นสุดลง ต่ออายุเซสชันเพื่อหลีกเลี่ยงปัญหาความเร็วเครือข่าย</item>
+        <item quantity="other">เซสชันการเพิ่มความเร็วเครือข่ายของคุณจะสิ้นสุดใน %d วัน คุณอาจเริ่มประสบกับความล่าช้าของเครือข่าย ต่ออายุเซสชันเลยไหม?</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ชม.</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s นาที</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">เวลาอยู่หน้าจอเหลืออยู่ %s นาที</item>
     </plurals>
 </resources>

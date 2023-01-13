@@ -126,6 +126,9 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d สายไม่ได้รับ</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">ถูกเลือก %1$d รายการ</item>
     </plurals>

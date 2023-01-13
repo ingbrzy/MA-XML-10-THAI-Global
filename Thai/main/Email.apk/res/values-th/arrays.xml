@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="all_month_str">
-        <item>ม.ค.</item>
-        <item>ก.พ.</item>
-        <item>มี.ค.</item>
-        <item>เม.ย.</item>
-        <item>พ.ค.</item>
-        <item>มิ.ย.</item>
-        <item>ก.ค.</item>
-        <item>ส.ค.</item>
-        <item>ก.ย.</item>
-        <item>ต.ค.</item>
-        <item>พ.ย.</item>
-        <item>ธ.ค.</item>
-    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>คืนนี้</item>
         <item>พรุ่งนี้</item>
@@ -22,29 +8,12 @@
         <item>เดือนหน้า</item>
         <item>เลือกวัน</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>เล็กมาก</item>
-        <item>เล็ก</item>
-        <item>ปกติ</item>
-        <item>ใหญ่</item>
-        <item>ใหญ่มาก</item>
-    </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>ที่อ่านล่าสุด</item>
         <item>รูปแบบ</item>
         <item>ชื่อ</item>
         <item>ผู้ส่ง</item>
         <item>วันเวลาที่ได้รับ</item>
-    </string-array>
-    <string-array name="moveto_folder_sections">
-        <item>ระบบ</item>
-        <item>ที่ใช้บ่อย</item>
-        <item>ทุกโฟลเดอร์</item>
-    </string-array>
-    <string-array name="prefEntries_autoAdvance">
-        <item>อีเมลที่ใหม่กว่า</item>
-        <item>อีเมลที่เก่ากว่า</item>
-        <item>กล่องขาเข้า</item>
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>ทั้งหมด</item>

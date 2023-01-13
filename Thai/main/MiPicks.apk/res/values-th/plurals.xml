@@ -27,17 +27,58 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
+    <plurals name="app_detail_download_count">
+        <item quantity="other">ดาวน์โหลด %1$s แล้ว</item>
+    </plurals>
+    <plurals name="app_detail_sub_count">
+        <item quantity="other">%1$s การสั่งซื้อล่วงหน้า</item>
+    </plurals>
+    <plurals name="app_selected_recall_dialog">
+        <item quantity="other">เลือกไว้ %1$d แอป</item>
+    </plurals>
+    <plurals name="click_to_use_debug_mode">
+        <item quantity="other">เปลี่ยนเป็นโหมดแก้ไขข้อบกพร่องด้วย %1$d ขั้นตอน</item>
+    </plurals>
+    <plurals name="collapse_update_apps_hint_v1">
+        <item quantity="other">แตะเพื่อแสดงแอปทั้งหมด %1$d แอป</item>
+    </plurals>
     <plurals name="comment_push_merged_message_desc_multiple">
-        <item quantity="other">จาก %3$d คน รวมถึง @%1$s และ @%2$s</item>
+        <item quantity="other">จาก %1$d คน รวมถึง @%2$s และ @%3$s</item>
     </plurals>
     <plurals name="comment_push_merged_message_title">
         <item quantity="other">คุณมี %1$d ข้อความที่ยังไม่ได้อ่าน</item>
+    </plurals>
+    <plurals name="comment_score_count">
+        <item quantity="other">%1$s คะแนน</item>
     </plurals>
     <plurals name="day">
         <item quantity="other">%1$s วัน</item>
     </plurals>
     <plurals name="delete_download_history_confirm">
-        <item quantity="other">ลบ %1$s รายการในประวัติการดาวน์โหลด</item>
+        <item quantity="other">ลบ %1$s รายการ?</item>
+    </plurals>
+    <plurals name="detail_comment_comment_limit_5">
+        <item quantity="other">ความคิดเห็นต้องมีอย่างน้อย %1$d ตัวอักษร</item>
+    </plurals>
+    <plurals name="detail_comment_tip_max_num">
+        <item quantity="other">รีวิวสามารถพิมพ์ได้ถึง %1$d อักษร</item>
+    </plurals>
+    <plurals name="download_list_delete_all_confirm_message">
+        <item quantity="other">ลบ %1$d การดาวน์โหลด รวมถึง %2$s?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">กรอไปข้างหน้า %d วินาที</item>
+        <item quantity="one">กรอไปข้างหน้า %d วินาที</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">กรอกลับ %d วินาที</item>
+        <item quantity="one">กรอกลับ %d วินาที</item>
+    </plurals>
+    <plurals name="game_sub_list_online_sub_count">
+        <item quantity="other">%s สั่งซื้อล่วงหน้า</item>
+    </plurals>
+    <plurals name="guide_recommend_serval_apps_selected">
+        <item quantity="other">เลือกไว้ %1$d แอป</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
@@ -54,14 +95,44 @@
     <plurals name="in_num_minutes">
         <item quantity="other">ใน%d นาที</item>
     </plurals>
+    <plurals name="install_all_description">
+        <item quantity="other">ยืนยันติดตั้งแอป %1$s รวมถึง %2$s?</item>
+    </plurals>
+    <plurals name="install_on_data_description">
+        <item quantity="other">การดาวน์โหลดแอปโดยใช้ข้อมูลมือถืออาจมีค่าธรรมเนียมเพิ่มเติม ยืนยันยดาวน์โหลด %1$s แอป รวมถึง %2$s?</item>
+    </plurals>
+    <plurals name="install_on_metered_wifi_description">
+        <item quantity="other">คุณเชื่อมต่อกับ ฮอตสปอต Wi-Fi แล้ว การดาวน์โหลดแอปอาจมีค่าธรรมเนียมข้อมูลเพิ่มเติมสำหรับอุปกรณ์ที่คุณเชื่อมต่อ ยืนยันดาวน์โหลด %1$s แอป รวมถึง %2$s?</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%1$s รายการที่เลือกไว้</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">เมื่อสักครู่</item>
+    </plurals>
+    <plurals name="mi_protect_dialog_manual_inspect_desc">
+        <item quantity="other">เราทำการทดสอบความสอดคล้องด้วยตนเอง %d ในแอปยอดนิยมส่วนใหญ่</item>
+    </plurals>
+    <plurals name="mini_card_gp_num_reviews">
+        <item quantity="other">%s รีวิว</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
+    <plurals name="native_install_count">
+        <item quantity="other">ดาวน์โหลด %s ครั้ง</item>
+    </plurals>
+    <plurals name="notif_apps_has_new_update">
+        <item quantity="other">คุณสามารถอัปเดตได้ &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> แอป</item>
+    </plurals>
+    <plurals name="notification_installing">
+        <item quantity="other">กำลังติดตั้งแอป%1$s</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="text_points">
+        <item quantity="other">%1$3d เหรียญ</item>
     </plurals>
     <plurals name="today_voted_text_bottom">
         <item quantity="other">ปิดการลงคะแนนแล้ว โหวตแล้ว %1$d คน</item>
@@ -72,7 +143,22 @@
     <plurals name="today_voting_text_bottom_2">
         <item quantity="other">ผลลัพธ์จะประกาศใน %1$d ชั่วโมง</item>
     </plurals>
-    <plurals name="update_apps_selected">
-        <item quantity="other">%d แอปที่เลือกไว้</item>
+    <plurals name="uninstall_all_v1">
+        <item quantity="other">ถอนการติดตั้งแอป %1$s</item>
+    </plurals>
+    <plurals name="update_notification_bubble_text">
+        <item quantity="other">%1$d อัปเดต</item>
+    </plurals>
+    <plurals name="update_on_data_description">
+        <item quantity="other">การอัปเดตแอปโดยใช้ข้อมูลมือถืออาจมีค่าธรรมเนียมเพิ่มเติม ยืนยันยอัปเดต %1$s แอป รวมถึง %2$s?</item>
+    </plurals>
+    <plurals name="update_on_metered_wifi_description">
+        <item quantity="other">คุณเชื่อมต่อกับ ฮอตสปอต Wi-Fi แล้ว การอัปเดตแอปอาจมีค่าธรรมเนียมข้อมูลเพิ่มเติมสำหรับอุปกรณ์ที่คุณเชื่อมต่อ ยืนยันอัปเดต %1$s แอป รวมถึง %2$s?</item>
+    </plurals>
+    <plurals name="update_time_relative_to_today">
+        <item quantity="other">%1$d วันที่แล้ว</item>
+    </plurals>
+    <plurals name="upgrade_all_description">
+        <item quantity="other">อัปเดตแอป %1$s รวมถึง %2$s?</item>
     </plurals>
 </resources>

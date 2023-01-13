@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="emode_app_groups">
-        <item>แอประบบ</item>
-        <item>แอปอื่นๆ</item>
-        <item>แอปที่เลือก</item>
-    </string-array>
     <string-array name="hmode_app_classify1">
         <item>กำหนดเอง</item>
         <item>ตัวประหยัดแบตเตอรี่ MIUI</item>
@@ -16,18 +11,5 @@
     <string-array name="pc_manage_active_app_items">
         <item>ให้แอปสลีป</item>
         <item>ประหยัดพลังงาน</item>
-    </string-array>
-    <string-array name="power_mode_entries">
-        <item>ประสิทธิภาพ</item>
-        <item>สมดุล</item>
-    </string-array>
-    <string-array name="thermal_entries">
-        <item>โหมดควบคุมอุณหภูมิเริ่มต้น</item>
-        <item>โหมดประสิทธิภาพ</item>
-    </string-array>
-    <string-array name="thermal_summaries">
-        <item>จัดลำดับความสำคัญของการควบคุมอุณหภูมิ</item>
-        <item>จัดลำดับความสำคัญของประสิทธิภาพ</item>
-        <item>ไม่ได้รับการสนับสนุนจากตัวประหยัดแบตเตอรี่ขั้นสูง</item>
     </string-array>
 </resources>

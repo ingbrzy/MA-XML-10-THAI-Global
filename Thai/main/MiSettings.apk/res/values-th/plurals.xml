@@ -27,6 +27,9 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">เหลืออีก %2$d นาทีสำหรับ \"%1$s\" วันนี้</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
@@ -57,8 +60,17 @@
     <plurals name="steady_on_screen_notification_summary">
         <item quantity="other">คุณใช้อุปกรณ์ของคุณเป็นเวลา %d นาทีอย่างต่อเนื่อง</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">พัก %d นาที</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d นาที</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">คุณใช้อุปกรณ์นี้มา %d นาทีแล้ว</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">คุณสามารถเพิ่มได้สูงสุด %d การพัก</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">เวลาหน้าจอวันนี้เท่ากับค่าเฉลี่ย %d-วัน ของคุณ</item>

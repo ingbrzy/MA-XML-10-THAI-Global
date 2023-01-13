@@ -146,13 +146,21 @@
     <string name="am">AM</string>
     <string name="app_cache">แคช</string>
     <string name="app_library_category_entertainment">ความบันเทิง</string>
+    <string name="app_library_category_financial_management">การเงิน</string>
     <string name="app_library_category_games">เกม</string>
+    <string name="app_library_category_health_and_exercise">สุขภาพ</string>
+    <string name="app_library_category_individualization">ส่วนบุคคล</string>
     <string name="app_library_category_information">สื่อ</string>
     <string name="app_library_category_lifestyle">ไลฟ์สไตล์</string>
+    <string name="app_library_category_originality">ความคิดสร้างสรรค์</string>
     <string name="app_library_category_others">อื่นๆ</string>
     <string name="app_library_category_productivity">ผลผลิต</string>
+    <string name="app_library_category_reading_and_information">ข่าวสาร</string>
+    <string name="app_library_category_shopping_and_food">ช้อปปิ้ง</string>
     <string name="app_library_category_social">โซเชียล</string>
+    <string name="app_library_category_travel">ท่องเที่ยว</string>
     <string name="app_library_category_utility">เครื่องมือ</string>
+    <string name="app_library_category_work_and_efficiency">ผลผลิต</string>
     <string name="app_library_title">แอป</string>
     <string name="app_name_bluetooth">บลูทูธ</string>
     <string name="app_name_camera">กล้อง</string>
@@ -171,6 +179,7 @@
     <string name="app_update_install">พร้อมติดตั้งการอัปเดตแล้ว</string>
     <string name="application">แอป</string>
     <string name="application_name">เบราว์เซอร์</string>
+    <string name="application_upgrade">อัปเดต</string>
     <string name="aqi_quality_index_break">อันตรายอย่างรุนแรง</string>
     <string name="aqi_quality_index_dangerous">เป็นอันตราย</string>
     <string name="aqi_quality_index_good">ดีมาก</string>
@@ -202,6 +211,7 @@
     <string name="bookmark_btn_select_all">เลือกทั้งหมด</string>
     <string name="bookmark_btn_select_none">ยกเลิกการเลือกทั้งหมด</string>
     <string name="bookmark_cannot_save_url">ไม่สามารถคั่นหน้าลิงก์ URL นี้ได้</string>
+    <string name="bookmark_file_privacy_nightmode_moved_here">ปุ่มลัดคุณลักษณะและโหมดการเรียกดูสามารถพบได้ที่นี่</string>
     <string name="bookmark_folder_needs_title">ป้อนชื่อกลุ่ม</string>
     <string name="bookmark_group_lable">กลุ่ม</string>
     <string name="bookmark_needs_title">ที่คั่นหน้าจำเป็นต้องมีชื่อ</string>
@@ -296,9 +306,12 @@
     <string name="choose_to_signin">ใช่</string>
     <string name="choose_to_signup">ไม่ ฉันต้องการสร้างบัญชี</string>
     <string name="choosertitle_sharevia">แชร์ผ่าน</string>
+    <string name="clean_cache">ล้างแคช</string>
     <string name="clear">ล้าง</string>
     <string name="clear_history">ลบประวัติ</string>
     <string name="clear_most_visited">ประวัติล่าสุด</string>
+    <string name="clear_result_page_more_content">ค้นหาเพิ่มเติม</string>
+    <string name="clear_result_page_show_more">ดูเพิ่มเติม</string>
     <string name="clear_search_history">ลบประวัติ</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="cleared_garbage">ล้าง %d MB ของถังขยะ</string>
@@ -317,6 +330,7 @@
     <string name="close_all_tab_alert_title">ปิดแท็บทั้งหมด</string>
     <string name="close_cant_recommand">คุณจะไม่ได้รับบริการเนื้อหาส่วนบุคคลหากคุณปิดคุณสมบัตินี้</string>
     <string name="close_cloud_tab_tip">ปิดเมนูคลาวด์แท็บบน %s หรือไม่?</string>
+    <string name="close_desktop">ปิดเวอร์ชันเดสก์ท็อป</string>
     <string name="cloud_loading_tips">ลากลงเพื่อซิงค์</string>
     <string name="cloud_no_new_data_toast">ข้อมูลในคลาวด์เป็นปัจจุบันแล้ว</string>
     <string name="cloud_sync_closed_toast">ไม่สามารถอัปเดตได้เนื่องจากการซิงค์ถูกปิด</string>
@@ -415,6 +429,7 @@
     <string name="contextmenu_webpage_snapshot">บันทึกหน้าเพจ</string>
     <string name="continue_reading">อ่านต่อ</string>
     <string name="copy">คัดลอก</string>
+    <string name="copy_toast_msg">คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว</string>
     <string name="copy_url">คัดลอก URL</string>
     <string name="core_functions_of_browser">คุณสมบัติหลักที่ปลายนิ้วของคุณ</string>
     <string name="could_not_load_data">ไม่สามารถกำลังโหลดข้อมูลได้ รีเฟรชและลองอีกครั้ง</string>
@@ -426,7 +441,7 @@
     <string name="current_version_pc">เดสท็อป</string>
     <string name="current_version_phone">โทรศัพท์</string>
     <string name="custom">ป้อน URL</string>
-    <string name="custom_head_card_text">เชื่ออยู่เสมอว่าสิ่งดีๆ กำลังจะเกิดขึ้น</string>
+    <string name="custom_head_card_text">เชื่ออยู่เสมอว่าสิ่งมหัศจรรย์บางอย่างกำลังจะเกิดขึ้น</string>
     <string name="custom_head_card_text_incognito">"คุณอยู่ในโหมดไม่ระบุตัวตน!
 หน้าที่คุณเปิดจะไม่ปรากฏอยู่ในประวัติการเข้าชม"</string>
     <string name="custom_page_guide_content">ที่คั่นหน้า การตั้งค่าและเครื่องมืออยู่ที่นี่แล้ว!</string>
@@ -473,6 +488,7 @@ ID:%s
     <string name="display__quick_entry_of_search">แสดงปุ่มลัดคุณสมบัติในหน้าต่างแจ้งเตือน</string>
     <string name="doc_viewer_label">Reader (Mi เบราว์เซอร์)</string>
     <string name="doc_viewer_open_out_file_prompt">หากต้องการเปิดและดูไฟล์ที่ได้รับจากแหล่งภายนอก แอปนี้จำเป็นต้องสร้างสำเนาของไฟล์ก่อน ดำเนินการต่อ?</string>
+    <string name="doc_viewer_user_guide_profile">ดูรายการที่คุณกำลังเรียกดูที่นี่</string>
     <string name="document_download_background_btn">ดาวน์โหลดในพื้นหลัง</string>
     <string name="document_download_cancel_btn">ยกเลิก </string>
     <string name="document_download_failed">ไม่สามารถดาวน์โหลดได้</string>
@@ -646,17 +662,16 @@ ID:%s
     <string name="exo_controls_pause_description">หยุด</string>
     <string name="exo_controls_play_description">เล่น</string>
     <string name="exo_controls_playback_speed">ความเร็ว</string>
-    <string name="exo_controls_playback_speed_normal">ปกติ</string>
     <string name="exo_controls_previous_description">ก่อนหน้า</string>
-    <string name="exo_controls_repeat_all_description">เล่นซ้ำทั้งหมด</string>
-    <string name="exo_controls_repeat_off_description">ไม่เล่นซ้ำ</string>
-    <string name="exo_controls_repeat_one_description">เล่นซ้ำเพลงเดียว</string>
+    <string name="exo_controls_repeat_all_description">โหมดปัจจุบัน: เล่นซ้ำทั้งหมด สลับโหมดเล่นซ้ำ</string>
+    <string name="exo_controls_repeat_off_description">โหมดปัจจุบัน: ไม่เล่นซ้ำ สลับโหมดเล่นซ้ำ</string>
+    <string name="exo_controls_repeat_one_description">โหมดปัจจุบัน: เล่นซ้ำรายการเดียว สลับโหมดเล่นซ้ำ</string>
     <string name="exo_controls_rewind_description">กรอกลับ</string>
     <string name="exo_controls_seek_bar_description">ความคืบหน้าในการเล่น</string>
     <string name="exo_controls_settings_description">การตั้งค่า</string>
     <string name="exo_controls_show">แสดงแผงควบคุมโปรแกรมเล่น</string>
-    <string name="exo_controls_shuffle_off_description">ปิดการสุ่มเพลงอยู่</string>
-    <string name="exo_controls_shuffle_on_description">เปิดการสุ่มเพลงอยู่</string>
+    <string name="exo_controls_shuffle_off_description">เปิดใช้โหมดสุ่มเพลง</string>
+    <string name="exo_controls_shuffle_on_description">ปิดใช้โหมดสุ่มเพลง</string>
     <string name="exo_controls_stop_description">หยุด</string>
     <string name="exo_controls_vr_description">โหมด VR</string>
     <string name="exo_download_completed">การดาวน์โหลดเสร็จสมบูรณ์</string>
@@ -664,6 +679,9 @@ ID:%s
     <string name="exo_download_downloading">กำลังดาวน์โหลด</string>
     <string name="exo_download_failed">การดาวน์โหลดล้มเหลว</string>
     <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
+    <string name="exo_download_paused">การดาวน์โหลดหยุดชั่วคราว</string>
+    <string name="exo_download_paused_for_network">กำลังรอเครือข่ายเพื่อดาวน์โหลด</string>
+    <string name="exo_download_paused_for_wifi">กำลังรอ Wi-Fi เพื่อดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
@@ -687,11 +705,13 @@ ID:%s
     <string name="experience_improve">โปรแกรมประสบการณ์ผู้ใช้</string>
     <string name="external_app_restricted_access_error">Mi เบราว์เซอร์ ไม่สามารถเข้าถึงรายการนี้ได้</string>
     <string name="failed_dup_secure_phone_number">หมายเลขโทรศัพท์นี้ได้ถูกผูกไว้กับบัญชี Mi อื่นอยู่ก่อนแล้ว</string>
+    <string name="fallback_menu_item_copy_link">คัดลอกลิงก์</string>
+    <string name="fallback_menu_item_open_in_browser">เปิดในเบราว์เซอร์</string>
+    <string name="fallback_menu_item_share_link">แชร์ลิงก์</string>
     <string name="fast_search_title">ค้นหาด่วน</string>
     <string name="fast_than">อยู่เหนือกว่า %1$s%% ของผู้ใช้ทั้งหมด</string>
     <string name="fb_login_tips">ลงชื่อเข้าใช้เพื่อดาวน์โหลดวิดีโอจาก Facebook</string>
     <string name="fb_register_btn">สร้างบัญชี</string>
-    <string name="fcm_fallback_notification_channel_label">เบ็ดเตล็ด</string>
     <string name="featured_this_week">โดดเด่นในสัปดาห์นี้</string>
     <string name="feedback_bad">ไม่</string>
     <string name="feedback_general">ค่อนข้าง</string>
@@ -724,6 +744,7 @@ ID:%s
     <string name="file_picker">เลือกที่จัดเก็บ</string>
     <string name="filename_empty_alert_message">ป้อนชื่อไฟล์</string>
     <string name="filename_illegal_alert_message">อักขระบางตัวจะถูกลบออกจากชื่อไฟล์ที่ตั้งไว้</string>
+    <string name="files_stored_in_the_phone">ไฟล์ที่อยู่ในเครื่องนี้</string>
     <string name="find_garbage">พบขยะ %d MB</string>
     <string name="find_new_version">อัปเดตใหม่พร้อมใช้งาน</string>
     <string name="find_on_page_cancel">ยกเลิก </string>
@@ -801,6 +822,7 @@ ID:%s
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
+    <string name="game_center">เกม</string>
     <string name="game_center_recommend_play">เล่น</string>
     <string name="game_center_recommend_title">แนะนำเพื่อคุณ</string>
     <string name="game_play">เล่น</string>
@@ -870,6 +892,10 @@ ID:%s
     <string name="homepage_setting">การตั้งค่าหน้าเริ่มต้น</string>
     <string name="homepage_top_card_menu">ท็อป</string>
     <string name="hot_games">ยอดนิยม</string>
+    <string name="hot_news_notify_summary">พุชการแจ้งเตือนสำหรับข่าวเด่น</string>
+    <string name="hot_news_notify_tips_light">คุณสามารถปิดการแจ้งเตือนข่าวสารได้ใน &lt;font color=\"#0D84FF\">การตั้งค่า&lt;/font></string>
+    <string name="hot_news_notify_title">การแจ้งเตือนข่าว</string>
+    <string name="hour_minute">%1$s %2$s</string>
     <string name="i_know">หยุด</string>
     <string name="identity">เลขประจำตัว</string>
     <string name="if_cancel">ยกเลิกการดำเนินการนี้?</string>
@@ -952,6 +978,8 @@ ID:%s
     <string name="loading_tips">ลากลงเพื่อรีเฟรชหน้าจอ</string>
     <string name="local_apps">แอปในเครื่อง</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">ไฟล์ในเครื่อง</string>
+    <string name="local_video_player_label">ตัวเล่นวิดีโอ (Mi เบราว์เซอร์)</string>
     <string name="location_permission_name">เข้าถึงตำแหน่ง</string>
     <string name="lockpattern_continue_button_text">ถัดไป</string>
     <string name="lockpattern_need_to_confirm">ยืนยันรูปแบบปลดล็อค</string>
@@ -980,6 +1008,7 @@ ID:%s
     <string name="media_error_video_not_exist">ไม่พบวิดีโอนี้</string>
     <string name="memory_clear_nothing_result">ไม่มีอะไรให้ล้างในแคช</string>
     <string name="memory_clear_result">ล้างแล้ว %1$s</string>
+    <string name="memory_management">จัดการพื้นที่จัดเก็บข้อมูล</string>
     <string name="memory_usage">หน่วยความจำ</string>
     <string name="menu_addtodesk">เพิ่มไปยังหน้าจอหลัก</string>
     <string name="menu_exit_nightmode">ออก</string>
@@ -1079,6 +1108,7 @@ ID:%s
     <string name="month_september_short">กันยา</string>
     <string name="month_september_shortest">กันยา</string>
     <string name="more">เพิ่มเติม</string>
+    <string name="more_convenient_features_and_content">ดูว่ามีเครื่องมือและเนื้อหาใหม่ใดบ้างที่เบราว์เซอร์นำเสนอ!</string>
     <string name="more_description">เมนู</string>
     <string name="more_info">เรียนรู้เพิ่มเติม</string>
     <string name="more_option">ตัวเลือกอื่นๆ</string>
@@ -1265,6 +1295,7 @@ ID:%s
     <string name="my_account">บัญชีของฉัน</string>
     <string name="my_cahnnel">ช่องสัญญาณของฉัน</string>
     <string name="my_channel">ช่องของฉัน</string>
+    <string name="my_prize_entry">รางวัลของฉัน</string>
     <string name="name_empty">คุณต้องป้อนชื่อ</string>
     <string name="nav_bottom_bar_back">ย้อนกลับ</string>
     <string name="nav_bottom_bar_close_all">ปิดทั้งหมด</string>
@@ -1318,6 +1349,7 @@ ID:%s
     <string name="no_network">กรุณาตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</string>
     <string name="no_phone">ไม่มีหมายเลขโทรศัพท์</string>
     <string name="no_recent_files">ไม่พบไฟล์ล่าสุด</string>
+    <string name="no_scalable_applications">แอปทุกแอปเป็นปัจจุบันแล้ว</string>
     <string name="no_space_alert_cancel">ในภายหลัง</string>
     <string name="no_space_alert_clean">เพิ่มพื้นที่</string>
     <string name="no_space_alert_text">พื้นที่จัดเก็บไม่เพียงพอ</string>
@@ -1349,6 +1381,7 @@ ID:%s
     <string name="novel_continue_read_popup">อ่าน</string>
     <string name="novel_tab_popup">ดูหนังสือใหม่ล่าสุดของคุณที่นี่</string>
     <string name="novel_tab_popup_ok">ตกลง</string>
+    <string name="occupy">ใช้งานไป %s</string>
     <string name="offline_notification_text">แตะเพื่อเปิดโฆษณา</string>
     <string name="offline_notification_title">ดูโฆษณาที่คุณบันทึกไว้ขณะออฟไลน์</string>
     <string name="offline_opt_in_confirm">ตกลง</string>
@@ -1359,6 +1392,7 @@ ID:%s
     <string name="ok">ตกลง</string>
     <string name="one_prefect_author">คลีเอเตอร์</string>
     <string name="open_app_confirm_message">อนุญาตให้หน้านี้เปิด %s?</string>
+    <string name="open_desktop">เปลี่ยนเป็นเวอร์ชันเดสก์ท็อปสำเร็จแล้ว</string>
     <string name="open_google_gaid">เพื่อให้สามารถใช้คุณลักษณะนี้ได้ ตรวจสอบให้แน่ใจว่าคุณไม่ได้เลือกไม่ใช้การปรับเปลี่ยนโฆษณาในแบบของคุณใน การตั้งค่า > Google > โฆษณา</string>
     <string name="open_personalized_services">เปิดใช้งานบริการส่วนบุคคลเพื่อให้สามารถใช้คุณสมบัตินี้ได้</string>
     <string name="open_private_folder">ปล่อยเพื่อแสดงโฟลเดอร์ซ่อน</string>
@@ -1371,6 +1405,7 @@ ID:%s
     <string name="operation_rename">เปลี่ยนชื่อ</string>
     <string name="operation_rename_message">ป้อนชื่อใหม่</string>
     <string name="operation_send">ส่ง</string>
+    <string name="opr_activity_title">ดูซีซันและรับรางวัล</string>
     <string name="other_channel">แตะเพื่อเพิ่มช่องสัญญาณ</string>
     <string name="page_info">ข้อมูลเพจ</string>
     <string name="page_info_address">ที่อยู่:</string>
@@ -1537,6 +1572,7 @@ ID:%s
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_window_attempt">อนุญาตให้เว็ปไซต์นี้เปิดหน้าต่างป๊อปอัพ?</string>
     <string name="positive_confirm_message">ปิดใช้งาน</string>
+    <string name="power_saving_settings">ประหยัดแบตเตอรี่</string>
     <string name="pref_accessibility">สิ่งอำนวยความสะดวก</string>
     <string name="pref_accessibility_title">สิ่งอำนวยความสะดวก</string>
     <string name="pref_adblock_summary">หน้าอาจโหลดช้าลงเมื่อเปิดคุณสมบัตินี้</string>
@@ -1750,6 +1786,7 @@ ID:%s
     <string name="pwa_hint_added_success">เพิ่มเรียบร้อยแล้ว</string>
     <string name="qr_code_title">รหัส QR</string>
     <string name="qr_description">สแกนรหัส QR</string>
+    <string name="quick_access_to_common_functions">เข้าถึงคุณสมบัติที่คุณชื่นชอบได้อย่างรวดเร็ว</string>
     <string name="quick_search_and_access_to_functions">การค้นหาด่วนช่วยให้คุณเข้าถึงคุณสมบัติที่คุณใช้บ่อยที่สุดได้อย่างง่ายดาย</string>
     <string name="quicklink_bookmark_save">บันทึกไปยัง</string>
     <string name="quicklink_cannot_save_url">ไม่สามารถเพิ่มหน้าลิงก์ URL นี้ได้</string>
@@ -1767,6 +1804,9 @@ ID:%s
     <string name="quicklinks_most_visited">เพิ่มไปยังหน้าเริ่มต้น</string>
     <string name="quicklinks_most_visited_subtitle">แสดงเว็บที่เข้าเยี่ยมชมล่าสุดในแท็บใหม่</string>
     <string name="quicklinks_most_visited_title">เพิ่มไปยังหน้าเริ่มต้น</string>
+    <string name="reading__business_recommend_at_end_more">ดูเพิ่มเติม</string>
+    <string name="reading__business_recommend_at_end_other_docs">อ่านเพิ่มเติม</string>
+    <string name="reading__business_recommend_at_end_title">เนื้อหาแนะนำ</string>
     <string name="reading__cancel">ยกเลิก</string>
     <string name="reading__menu_open_with_another_app">เปิดด้วยแอปอื่น</string>
     <string name="reading__menu_play">สไลด์โชว์</string>
@@ -1774,6 +1814,7 @@ ID:%s
     <string name="reading__menu_search">ค้นหา</string>
     <string name="reading__menu_share">แชร์</string>
     <string name="reading__menu_thumbnail">รูปขนาดย่อของหน้า</string>
+    <string name="reading__reading_end">สิ้นสุด</string>
     <string name="reading__reading_first_page">หน้านี้เป็นหน้าแรก</string>
     <string name="reading__reading_last_page">หน้านี้เป็นหน้าสุดท้าย</string>
     <string name="reading__search_cancel">ยกเลิก</string>
@@ -1892,6 +1933,9 @@ ID:%s
     <string name="search_bar_hint_content">ค้นหาแอปและเนื้อหา</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">ไป</string>
+    <string name="search_card_online_rec_app">แอปมาร์เก็ต</string>
+    <string name="search_card_online_rec_app_install">ติดตั้ง</string>
+    <string name="search_card_online_rec_app_open">เปิด</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">ไม่พบข้อมูล</string>
@@ -1966,6 +2010,8 @@ ID:%s
     <string name="setting_searchable_content">รายการที่ค้นหาได้</string>
     <string name="setting_sms_content">เนื้อหา SMS</string>
     <string name="setting_swipe_up">ปัดนิ้วขึ้นบนหน้าจอ</string>
+    <string name="settings_search_online_apps">แอปมาร์เก็ต</string>
+    <string name="settings_search_online_apps_desc">เนื้อหาจากแอปมาร์เก็ต</string>
     <string name="share_image_text">ดูซิว่าฉันแชร์อะไร! @MIUI</string>
     <string name="share_page_text">ดูซิว่าฉันแชร์อะไร: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">ดูซิว่าฉันแชร์อะไร: %1$s</string>
@@ -2002,6 +2048,11 @@ ID:%s
     <string name="speed_test_no_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ ตรวจสอบการตั้งค่าเครือข่ายของคุณและลองอีกครั้ง</string>
     <string name="speed_test_ping">ความหน่วง</string>
     <string name="speed_test_upload">อัปโหลด</string>
+    <string name="sport_card_match_week">สัปดาห์ที่ %d</string>
+    <string name="sports_card_match_season">ซีซั่น</string>
+    <string name="sports_card_match_status_1">กำลังจะมาถึง</string>
+    <string name="sports_card_match_status_2">ดำเนินการอยู่</string>
+    <string name="sports_card_match_status_3">เสร็จสิ้น</string>
     <string name="ssl_bad_clock_date_settings">ตั้งวันที่</string>
     <string name="ssl_bad_clock_warning" formatted="false">การเชื่อมต่อส่วนตัวไปยัง %s1 ไม่สามารถสร้างได้เนื่องจากวันที่และเวลาของอุปกรณ์ (%s2) ไม่ถูกต้อง</string>
     <string name="ssl_bad_expired_warning">ช่องนี้จัดทำโดย %1$s อย่างไรก็ตามวันที่และเวลาที่ตั้งไว้บนอุปกรณ์ของคุณ (%2$s) ไม่อนุญาตให้สร้างการเชื่อมต่อที่ปลอดภัยกับ %1$s คุณสามารถตั้งวันที่และเวลาที่ถูกต้องหรือแตะ \"ดำเนินการต่อ\" หากคุณยังต้องการใช้ช่องนี้</string>
@@ -2118,6 +2169,7 @@ ID:%s
     <string name="the_united_nations_day">วันสหประชาชาติ</string>
     <string name="the_valentines_day">วันวาเลนไทน์</string>
     <string name="the_water_lantern_festival">เทศกาลโคมไฟน้ำ</string>
+    <string name="third_image_viewer_label">โปรแกรมดูรูปภาพ (Mi เบราว์เซอร์)</string>
     <string name="thursday">วันพฤหัสบดี</string>
     <string name="thursday_short">พฤหัส</string>
     <string name="thursday_shortest">พฤหัส</string>
@@ -2150,6 +2202,11 @@ ID:%s
     <string name="translation_query_error_network">ไม่สามารถแปลได้ ตรวจสอบการตั้งค่าเครือข่ายและลองอีกครั้ง</string>
     <string name="translation_result_empty">ไม่สามารถแปลได้ โปรดลองอีกครั้ง</string>
     <string name="translation_to">แปลข้อมูลไปเป็น</string>
+    <string name="trash_cleaner_unit_b">B</string>
+    <string name="trash_cleaner_unit_gb">GB</string>
+    <string name="trash_cleaner_unit_kb">KB</string>
+    <string name="trash_cleaner_unit_mb">MB</string>
+    <string name="trash_cleaner_unit_tb">TB</string>
     <string name="trending_apps_more">เพิ่มเติม</string>
     <string name="tuesday">วันอังคาร</string>
     <string name="tuesday_short">อังคาร</string>
@@ -2168,6 +2225,7 @@ ID:%s
     <string name="update_no_network_toast">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="update_now">อัปเดตเดี๋ยวนี้</string>
     <string name="update_phone_notice">เปลี่ยนการตั้งค่าความปลอดภัย</string>
+    <string name="upgrade">อัปเดต</string>
     <string name="upload_error_log">อัพโหลดบันทึกการใช้งาน</string>
     <string name="upload_usage_statistics">เปิดเพื่อแชร์สถิติการใช้งานกับเราเมื่อเปิดโหมดไม่ระบุตัวตน</string>
     <string name="uploads_disabled">การอัปโหลดไฟล์ถูกจำกัด</string>
@@ -2356,10 +2414,13 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_desc">แสดงรูปภาพย่อของหน้าเว็บที่เยี่ยมชมก่อนหน้านี้</string>
     <string name="web_tag_tips">แตะที่นี่เพื่อกลับไปดูหน้าเว็บอีกครั้ง</string>
     <string name="web_tag_title">รูปภาพย่อของหน้าเว็บ</string>
+    <string name="web_tools_moved_here">เครื่องมือถูกย้ายที่นี่</string>
     <string name="web_video_accelerate">ความเร็ว</string>
+    <string name="web_video_default_time">%1$s :%2$s</string>
     <string name="web_video_download">ดาวน์โหลด</string>
     <string name="web_video_download_no_access">ต้องการการอนุญาตในการดาวน์โหลดรายการ</string>
     <string name="web_video_enable_long_click_toast">เล่นที่ความเร็ว %dX</string>
+    <string name="web_video_float_drag_msg">ลากเพื่อปรับขนาด</string>
     <string name="web_video_list_more">เพิ่มเติม</string>
     <string name="web_video_list_playing">กำลังเล่น</string>
     <string name="web_video_list_replay">เล่นใหม่</string>

@@ -47,6 +47,7 @@
     <string name="calibrate_failed">การปรับเทียบล้มเหลว</string>
     <string name="calibrate_failed_no_location">ไม่สามารถปรับเทียบค่าได้</string>
     <string name="calibrate_failed_timeout">ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้</string>
+    <string name="calibrate_new_tip">เอียงอุปกรณ์ของคุณอย่างแม่นยำเพื่อหมุนลูกบอลไปรอบๆ วงกลม</string>
     <string name="calibrate_rotate_again">ลองอีกครั้ง</string>
     <string name="calibrate_success">ปรับเทียบแล้ว</string>
     <string name="calibrate_tip">ถือเครื่องไว้ในมือและจัดระดับลาดเอียงเพื่อให้ลูกบอลตกลงกลางรูที่กำหนด</string>
@@ -228,7 +229,7 @@
     <string name="morning">เช้า</string>
     <string name="new_cta_app_purpose">ดูเส้นทางและพิกัด</string>
     <string name="new_cta_v2_app_purpose">แสดง ทิศทาง พิกัด ความดันบรรยากาศ และระดับความสูงปัจจุบัน</string>
-    <string name="new_permission_camera_desc">สำหรับการปรับเทียบ</string>
+    <string name="new_permission_camera_desc">สำหรับแสดงตัวอย่างสด</string>
     <string name="new_permission_location_desc">สำหรับการแสดงพิกัด</string>
     <string name="night">เย็น</string>
     <string name="noon">เที่ยงวัน</string>

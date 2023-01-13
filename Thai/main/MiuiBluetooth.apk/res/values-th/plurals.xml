@@ -60,14 +60,7 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
-        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">เชื่อมต่ออุปกรณ์ %1$d แล้ว</item>
     </plurals>
 </resources>

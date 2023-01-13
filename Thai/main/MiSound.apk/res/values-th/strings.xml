@@ -150,7 +150,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="four_note">การทดสอบจะใช้เวลาประมาณ 3 นาทีจึงจะเสร็จสมบูรณ์</string>
+    <string name="four_note">การทดสอบจะใช้เวลาประมาณ %d นาที</string>
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
@@ -270,6 +270,7 @@
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -307,7 +308,7 @@
     <string name="music_audio_effect_settings">การตั้งค่าเอฟเฟกต์เสียง</string>
     <string name="music_audio_visual_wake_lock">เปิดหน้าจอเสมอ</string>
     <string name="music_audio_visual_wake_lock_summary">ไม่ปิดหน้าจอเมื่อแสดงเอฟเฟ็กต์ภาพ</string>
-    <string name="music_below_thirty_years">อายุไม่เกิน 30 ปี</string>
+    <string name="music_below_thirty_years">ไม่เกิน %d ปี</string>
     <string name="music_customized_sound_summary">ปรับแต่งระดับเสียงตามการรับรู้ของคุณ</string>
     <string name="music_customized_sound_title">การปรับระดับเสียง</string>
     <string name="music_delete">ลบ</string>
@@ -404,10 +405,10 @@
     <string name="music_sound_num">ค่าที่กำหนดเอง %s</string>
     <string name="music_sound_sample">ค่าที่ระบบตั้งไว้</string>
     <string name="music_sure_to_delete_sound_msg">ลบค่าที่ตั้งไว้ที่เลือกไว้หรือไม่</string>
-    <string name="music_thirty_to_sixty_years">30-60 ปี</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d ปี</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">หูฟัง Headset USB ไม่รองรับ</string>
-    <string name="music_upper_sixty_years">อายุมากกว่า 60 ปี</string>
+    <string name="music_upper_sixty_years">มากกว่า %d ปี</string>
     <string name="name">ชื่อ</string>
     <string name="night">เย็น</string>
     <string name="noon">เที่ยงวัน</string>
@@ -512,7 +513,8 @@
     <string name="sound_transmission_start">เริ่ม</string>
     <string name="sound_transmission_stop">หยุดชั่วคราว</string>
     <string name="sound_transmission_title">ไมค์ไร้สาย</string>
-    <string name="spatial_audio_summary">ปรับเสียงสมจริงตามการเคลื่อนไหวของศีรษะ</string>
+    <string name="spatial_audio">เสียงสมจริง</string>
+    <string name="spatial_audio_summary">สัมผัสประสบการณ์การดื่มด่ำและความรู้สึกของพื้นที่เมื่อเล่นเสียงผ่านหูฟัง</string>
     <string name="speaker_scenario_resume">คืนค่าเอฟเฟกต์ดั้งเดิม</string>
     <string name="start_test_sound">เริ่มการทดสอบ</string>
     <string name="status_bar_notification_info_overflow">999+</string>

@@ -32,6 +32,7 @@
     <string name="am">AM</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="close">ปิด</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
     <string name="copy">คัดลอก</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -105,6 +106,7 @@
     <string name="icon_remove_description_content">\"บริการและข้อเสนอแนะ\" เป็นแอประบบ คุณจะยังใช้งานได้ผ่านการตั้งค่าหลังจากที่คุณลบทางลัดบนหน้าจอหลัก</string>
     <string name="icon_remove_description_title">นำ \"บริการและข้อเสนอแนะ\" ออกจากหน้าจอหลักหรือไม่?</string>
     <string name="mi_service_app_name">บริการและข้อเสนอแนะ</string>
+    <string name="mi_service_back">ย้อนกลับ</string>
     <string name="midnight">กลางคืน</string>
     <string name="miservice_channel_update_notification_info">\"บริการและข้อเสนอแนะ\" กำลังขอข้อมูลออนไลน์…</string>
     <string name="miservice_notification_boot_content">เรียนรู้เพิ่มเติมเกี่ยวกับสิ่งที่ MIUI สามารถทำได้</string>
@@ -114,7 +116,7 @@
     <string name="miservice_notification_open_feedback_title">แนะนำ \"บริการและข้อเสนอแนะ\"</string>
     <string name="miservice_notification_scan_content">ใช้ตัวสแกนเพื่อแปลคำและวลี</string>
     <string name="miservice_notification_scan_title">แปลได้อย่างรวดเร็ว</string>
-    <string name="miui_feedback_answer_detail_community">คุณสามารถหาคำตอบสำหรับคำถามของคุณได้ในชุมชน Mi</string>
+    <string name="miui_feedback_answer_detail_community">คุณสามารถหาคำตอบสำหรับคำถามของคุณได้ใน Xiaomi Community</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">ใช่</string>
     <string name="miui_feedback_answer_detail_feedback_result">ขอบคุณสำหรับข้อเสนอแนะของคุณ!</string>
     <string name="miui_feedback_answer_detail_feedback_title">ข้อมูลนี้มีประโยชน์หรือไม่?</string>
@@ -182,7 +184,6 @@
     <string name="miui_feedback_edit_toast_module_required">เลือกรายการ</string>
     <string name="miui_feedback_edit_toast_more_desc_required">คำอธิบายของคุณควรจะยาวกว่านี้</string>
     <string name="miui_feedback_edit_toast_problem_class_required">เลือกหมวดหมู่</string>
-    <string name="miui_feedback_edit_toast_screenshot_too_large">ไม่สามารถอัปโหลดรูปภาพหรือวิดีโอที่มีขนาดใหญ่กว่า 100MB</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">ป้อนชื่อแอป</string>
     <string name="miui_feedback_main_answer_title">มีคำตอบสำหรับคำถามนี้</string>
     <string name="miui_feedback_main_customer_service_onfo_for_jp">"สายด่วนบริการ: 0120-300-521
@@ -205,15 +206,6 @@
     <string name="miui_feedback_main_title">ข้อเสนอแนะ</string>
     <string name="miui_feedback_main_withdraw">เพิกถอน</string>
     <string name="miui_feedback_main_withdraw_consent_hint">หากดำเนินการต่อ คุณจะเพิกถอนความยินยอมของคุณต่อ นโยบายความเป็นส่วนตัว ของ %1$s ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้จะถูกลบออกภายในระยะเวลาที่กำหนดตามกฎหมายและข้อบังคับที่บังคับใช้ เว้นแต่จะกำหนดเป็นอย่างอื่น เนื่องจาก %2$s ให้บริการตามการรวบรวมข้อมูลส่วนบุคคลที่จำเป็น การเพิกถอนความยินยอมของคุณจะถือเป็นการปฏิเสธที่จะยอมรับบริการ %3$s เพิกถอนความยินยอมตอนนี้?</string>
-    <string name="miui_guide_accessibility_image_desc">รูปภาพ</string>
-    <string name="miui_guide_clear_db_service">\"บริการและข้อเสนอแนะ\" กำลังล้างแคชภาษา…</string>
-    <string name="miui_guide_footer_desc">คู่มือผู้เริ่มต้นถูกออกแบบมาเพื่อช่วยให้คุณเรียนรู้เพิ่มเติมเกี่ยวกับอุปกรณ์และ MIUI ของคุณ รูปภาพและวิดีโอบางรายการในคู่มือถูกสร้างขึ้นเพื่อการอ้างอิงเท่านั้นและอาจแตกต่างจากผลิตภัณฑ์จริง คุณสมบัติที่อธิบายในคู่มือนี้อาจแตกต่างกันไปตาม รุ่นอุปกรณ์ เวอร์ชั่น MIUI และสภาพแวดล้อมการใช้งานของคุณ</string>
-    <string name="miui_guide_item_complete">เสร็จสิ้น</string>
-    <string name="miui_guide_item_new">ใหม่</string>
-    <string name="miui_guide_item_progress">เสร็จสิ้นแล้ว %1$d/%2$d</string>
-    <string name="miui_guide_menu_privacy">นโยบายความเป็นส่วนตัว</string>
-    <string name="miui_guide_top_bar_sub_title">เรียนรู้สิ่งที่ MIUI สามารถทำได้</string>
-    <string name="miui_guide_top_bar_title">คู่มือสำหรับผู้เริ่มต้น</string>
     <string name="miui_main_back">ย้อนกลับ</string>
     <string name="miui_main_bottom_bar_feedback">ข้อเสนอแนะ</string>
     <string name="miui_main_bottom_bar_guide">คู่มือสำหรับผู้เริ่มต้น</string>
@@ -222,6 +214,10 @@
     <string name="miui_main_control_center_desc">หรือเปลี่ยนไปใช้เวอร์ชันเก่าใน การตั้งค่า > การแจ้งเตือนและศูนย์ควบคุม</string>
     <string name="miui_main_control_center_open">ศูนย์ควบคุมใหม่</string>
     <string name="miui_main_control_center_title">ปัดเพื่อสลับระหว่างหน้าต่างแจ้งเตือนและศูนย์ควบคุม</string>
+    <string name="miui_main_icon_callback">ปุ่มลัดหน้าจอหลัก</string>
+    <string name="miui_main_icon_callback_create">สร้าง</string>
+    <string name="miui_main_icon_callback_desc">สร้างปุ่มลัดหน้าจอหลักตอนนี้?</string>
+    <string name="miui_main_icon_callback_nocreate">ยกเลิก</string>
     <string name="miui_main_mirror_tab_desc1">เชื่อมต่อโดยอัตโนมัติ</string>
     <string name="miui_main_mirror_tab_desc2">ดูภาพบนหน้าจอที่ใหญ่ขึ้น</string>
     <string name="miui_main_mirror_tab_desc3">แชร์ไฟล์ได้ในพริบตา</string>
@@ -325,11 +321,11 @@
     <string name="permission_china_version_msg">&lt;Data>ก่อนที่จะใช้ \"บริการและข้อเสนอแนะ\", คุณต้องอ่านและยอมรับใน &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา แอปนี้ต้องเชื่อมต่อกับอินเทอร์เน็ตเพื่อให้ทำงานได้ตามปกติ&lt;/Data></string>
     <string name="permission_complete">เสร็จสิ้น</string>
     <string name="permission_contacts_info">เข้าถึงข้อมูลบัญชี</string>
-    <string name="permission_contacts_introduce">สำหรับลงชื่อเข้าสู่ระบบโดยใช้บัญชี Mi</string>
+    <string name="permission_contacts_introduce">สำหรับลงชื่อเข้าสู่ระบบโดยใช้บัญชี Xiaomi</string>
     <string name="permission_device_info">เข้าถึงข้อมูลอุปกรณ์</string>
     <string name="permission_device_introduce">เพื่อกำหนดระยะเวลาการรับประกันแบบจำกัด</string>
     <string name="permission_exit">ออก</string>
-    <string name="permission_external_storage_introduce">สำหรับการบันทึกและอัปโหลดความคิดเห็นของคุณ</string>
+    <string name="permission_external_storage_introduce">สำหรับการบันทึกและอัปโหลดข้อเสนอแนะของคุณ</string>
     <string name="permission_first_start_network_title">ข้อกำหนดและเงื่อนไข</string>
     <string name="permission_imei_disable_desc">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ต</string>
     <string name="permission_imei_enable_desc">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตและให้การอนุญาตที่จำเป็นตามรายการด้านบน</string>

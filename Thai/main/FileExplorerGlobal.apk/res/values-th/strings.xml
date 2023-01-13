@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
-    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_bar_up_description">กลับ</string>
     <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
-    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
     <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
     <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
     <string name="abc_capital_off">ปิด</string>
     <string name="abc_capital_on">เปิด</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -19,10 +19,10 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">เมนู+</string>
     <string name="abc_search_hint">ค้นหา…</string>
-    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
-    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_query">คำค้นหา</string>
     <string name="abc_searchview_description_search">ค้นหา</string>
-    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
     <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
     <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
     <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
@@ -83,7 +83,7 @@
     <string name="category_file">ไฟล์</string>
     <string name="category_folder">โฟลเดอร์</string>
     <string name="category_installed_app">ติดตั้งแอปแล้ว</string>
-    <string name="category_midrive">Mi Drive</string>
+    <string name="category_midrive">Mi ไดรฟ์</string>
     <string name="category_move_limit_notice">คุณสามารถย้ายจาก 3 ถึง 7 รายการไปด้านบนของหน้าจอ</string>
     <string name="category_music">เพลง</string>
     <string name="category_other">อื่นๆ</string>
@@ -131,9 +131,11 @@
     <string name="confirm_know">ตกลง</string>
     <string name="connection_error">เชื่อมต่อไม่ได้</string>
     <string name="connection_lost">ตัดการเชื่อมต่อ</string>
+    <string name="copy">คัดลอก</string>
     <string name="copy_failed">คัดลอกไม่ได้</string>
     <string name="copy_to">คัดลอกไปยัง…</string>
     <string name="copy_to_internal_storage_first">คัดลอกรายการไปยังที่จัดเก็บข้อมูลภายในก่อน</string>
+    <string name="copy_toast_msg">คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว</string>
     <string name="dark_mode">โหมดมืด</string>
     <string name="dark_mode_notice_message">ธีมสีเข้มใช้ได้แล้วในขณะนี้!</string>
     <string name="decompress_cancel">ยกเลิก</string>
@@ -172,6 +174,7 @@
     <string name="display_name">แสดงชื่อ</string>
     <string name="domain">โดเมน</string>
     <string name="download_success">ดาวน์โหลดเรียบร้อย</string>
+    <string name="drag_not_support_with_dir">ลากแล้วส่งโฟลเดอร์ไม่ได้</string>
     <string name="empty_by_forbid_access">ไม่สามารถแสดงเนื้อหาของโฟลเดอร์นี้ได้ที่นี่เนื่องจากข้อจำกัดของ แอนดรอยด์</string>
     <string name="enable_documentsui">เปิด %s การตั้งค่า > แอปที่ติดตั้งก่อน</string>
     <string name="enable_sd_card">การ์ด SD เสียหายหรือถูกตัดการเชื่อมต่อ</string>
@@ -194,12 +197,16 @@
     <string name="error_invalid_path">โฟลเดอร์จัดเก็บไม่ถูกต้อง</string>
     <string name="error_not_support">ไม่รองรับ</string>
     <string name="error_open_file_failed_no_app_found">ไม่พบแอปที่สามารถดำเนินการไฟล์นี้ได้</string>
+    <string name="expand_button_title">ขั้นสูง</string>
     <string name="explicit">ชัดเจน</string>
     <string name="extended_storage_file_can_not_open">ไม่สามารถเปิดไฟล์ได้ คัดลอกไปยังที่จัดเก็บข้อมูลภายใน</string>
     <string name="extract">แตก</string>
     <string name="fail_to_create_folder_unknown">ไม่สามารถสร้างโฟลเดอร์ได้</string>
     <string name="failed_not_access_sd_card">อนุญาตการเข้าถึง SD การ์ดก่อน</string>
     <string name="failed_obtain_permissions">ไม่สามารถรับสิทธิ์ได้</string>
+    <string name="fallback_menu_item_copy_link">คัดลอกลิงก์</string>
+    <string name="fallback_menu_item_open_in_browser">เปิดในเบราว์เซอร์</string>
+    <string name="fallback_menu_item_share_link">แชร์ลิงก์</string>
     <string name="favorite_notice_message">"คุณสามารถเพิ่มโฟลเดอร์ในรายการโปรดได้ในขณะนี้
 กดที่โฟลเดอร์ค้างไว้แล้วแตะ \"เพิ่มเติม\" เพื่อเพิ่ม"</string>
     <string name="favorite_photo">รูปภาพ</string>
@@ -309,6 +316,7 @@
     <string name="not_connect">ไม่สามารถเชื่อมต่อได้</string>
     <string name="not_connect_user">ไม่สามารถเชื่อมต่อ: %1$s และ %2$s</string>
     <string name="not_installed_documentsui">เอกสาร UI ไม่ได้ติดตั้ง</string>
+    <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="not_support_documentui">เอกสาร UI ไม่สนับสนุนบนอุปกรณ์นี้</string>
     <string name="not_very_dissatisfied">ไม่พอใจ</string>
     <string name="notif_server_starting">กำลังเริ่มเซิร์ฟเวอร์ FTP…</string>
@@ -391,6 +399,7 @@
     <string name="port">พอร์ต</string>
     <string name="port_range">หมายเลขพอร์ตต้องอยู่ระหว่าง 1024-65535</string>
     <string name="possible_permissions">สิทธิ์เพิ่มเติม</string>
+    <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacy_accept">ยอมรับและดำเนินการต่อ</string>
     <string name="privacy_cancel"><u>ไม่เห็นด้วย</u></string>
     <string name="privacy_desc">ยินดีต้อนรับสู่ ตัวจัดการไฟล์! นอกจากคุณสมบัติพื้นฐานแล้วแอปนี้ยังให้บริการดังต่อไปนี้:</string>
@@ -499,6 +508,7 @@
     <string name="storage_usb">ที่เก็บข้อมูล USB</string>
     <string name="storage_warning">ไม่สามารถใช้งานอุปกรณ์เก็บข้อมูลได้</string>
     <string name="str_clean">ล้าง</string>
+    <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="switch_to_grid_mode">เปลี่ยนเป็นมุมมองตาราง</string>
     <string name="switch_to_list_mode">เปลี่ยนเป็นมุมมองรายการ</string>
     <string name="tab_common_app">แอปและโฟลเดอร์</string>
@@ -534,6 +544,8 @@
     <string name="user_notice_privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="user_notice_term_of_service">ข้อตกลงการใช้งาน</string>
     <string name="utf8_summary">รหัสเริ่มต้นระบบ FTP</string>
+    <string name="v7_preference_off">ปิด</string>
+    <string name="v7_preference_on">เปิด</string>
     <string name="version_name">เวอร์ชั่น </string>
     <string name="very_dissatisfied">ไม่พอใจมาก</string>
     <string name="view_by_document">เรียกดูในไฟล์</string>

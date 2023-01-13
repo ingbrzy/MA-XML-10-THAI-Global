@@ -237,6 +237,7 @@
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacy_settings">ความเป็นส่วนตัว</string>
     <string name="quit_recording">ยุติการบันทึกหน้าจอ</string>
+    <string name="record_time_too_short">วิดีโอที่บันทึกสั้นเกินไป</string>
     <string name="recording_failure">ไม่สามารถบันทึกได้ เริ่มต้นใหม่</string>
     <string name="recording_max_size">การบันทึกถูกหยุด และบันทึกเนื่องจากขนาดของไฟล์วิดีโอถึงขีดจำกัด เริ่มต้นการบันทึกจากตำแหน่งที่คุณค้างไว้หากยังไม่เสร็จสิ้น</string>
     <string name="recording_without_mic">ไมโครโฟนไม่ว่างและไม่สามารถบันทึกเสียงได้</string>

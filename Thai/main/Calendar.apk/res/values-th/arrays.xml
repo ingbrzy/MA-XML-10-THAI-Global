@@ -16,10 +16,6 @@
         <item>ราศีเมษ</item>
         <item>21/3 - 19/4</item>
     </string-array>
-    <string-array name="bundesliga">
-        <item>2</item>
-        <item>บูนเดสลิกา</item>
-    </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>ราศีกรกฎ</item>
@@ -37,39 +33,6 @@
     <string-array name="date_calculate_spinner">
         <item>ไปข้างหน้า</item>
         <item>ย้อนหลัง</item>
-    </string-array>
-    <string-array name="dates">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
     </string-array>
     <string-array name="default_reminder_labels">
         <item>เวลากำหนดการ</item>
@@ -106,10 +69,6 @@
         <item>Dhul-Qadah</item>
         <item>Dhul-Hijjah</item>
     </string-array>
-    <string-array name="la_liga">
-        <item>3</item>
-        <item>ลาลิก้า</item>
-    </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>ราศีสิงห์</item>
@@ -119,10 +78,6 @@
         <item>libra</item>
         <item>ราศีตุล</item>
         <item>23/9 - 23/10</item>
-    </string-array>
-    <string-array name="ligue_1">
-        <item>5</item>
-        <item>Ligue 1</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>วันอาทิตย์</item>
@@ -291,10 +246,6 @@
         <item>ราศีพิจิก</item>
         <item>24/10 - 22/11</item>
     </string-array>
-    <string-array name="serie_a">
-        <item>1</item>
-        <item>กัลโช่ซิลิอา</item>
-    </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>ราศีพฤษภ</item>
@@ -387,13 +338,6 @@
         <item>โอ๊คแลนด์</item>
         <item>ฟิจิ</item>
         <item>ตองกา</item>
-    </string-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>3 ชั่วโมงก่อน</item>
-        <item>4 ชั่วโมงก่อน</item>
-        <item>5 ชั่วโมงก่อน</item>
-        <item>6 ชั่วโมงก่อน</item>
-        <item>ก่อน 1 วัน</item>
     </string-array>
     <string-array name="vikrami_samvat_month_names">
         <item>Chaitra</item>

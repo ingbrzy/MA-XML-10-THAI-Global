@@ -33,11 +33,25 @@
     <plurals name="dialog_app_rating_choose_star">
         <item quantity="other">เลือกแล้ว %s ดาว</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">กรอไปข้างหน้า %d วินาที</item>
+        <item quantity="one">กรอไปข้างหน้า %d วินาที</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">กรอกลับ %d วินาที</item>
+        <item quantity="one">กรอกลับ %d วินาที</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">ดูวิดีโออีก %s วินาทีเพื่อรับคะแนนและแลกของรางวัล</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">กำลังกลับไปที่หน้าหลักภายใน %1$d วินาที…</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">ดู %s ครั้ง</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">ในอีก 1 ชั่วโมง</item>
@@ -146,6 +160,9 @@
         <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
         <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d เพลง</item>
+    </plurals>
     <plurals name="new_incentive_toast_share_success">
         <item quantity="other">แชร์สำเร็จแล้ว คุณได้รับ %d คะแนน อ้างสิทธิ์ใน Points Center</item>
     </plurals>
@@ -208,6 +225,9 @@
     </plurals>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">เพิ่มสูงสุด %d คั่นหน้า</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">ซ่อน %d ไฟล์ที่เลือกไว้?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s ไลค์</item>

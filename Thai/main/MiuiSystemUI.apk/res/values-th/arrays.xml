@@ -17,6 +17,7 @@
         <item>มากที่สุด 3 กระบวนการ</item>
         <item>มากที่สุด 4 กระบวนการ</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -82,6 +83,8 @@
         <item>เสียง Qualcomm® aptX™</item>
         <item>เสียง Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>เสียง Qualcomm® aptX™ Adaptive</item>
+        <item>เสียง Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>ใช้การเลือกของระบบ (ค่าเริ่มต้น)</item>
@@ -90,6 +93,8 @@
         <item>เสียง Qualcomm® aptX™</item>
         <item>เสียง Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>เสียง Qualcomm® aptX™ Adaptive</item>
+        <item>เสียง Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -264,6 +269,11 @@
         <item>ปิด</item>
         <item>เปิด</item>
     </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>ไม่พร้อมใช้งาน</item>
+        <item>ปิด</item>
+        <item>เปิด</item>
+    </string-array>
     <string-array name="tile_states_controls">
         <item>ไม่พร้อมใช้งาน</item>
         <item>ปิด</item>
@@ -310,6 +320,16 @@
         <item>เปิด</item>
     </string-array>
     <string-array name="tile_states_night">
+        <item>ไม่พร้อมใช้งาน</item>
+        <item>ปิด</item>
+        <item>เปิด</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>ไม่มีจำหน่าย</item>
+        <item>ปิด</item>
+        <item>เปิด</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
         <item>ไม่พร้อมใช้งาน</item>
         <item>ปิด</item>
         <item>เปิด</item>
@@ -378,6 +398,12 @@
         <item>เร็ว</item>
         <item>เร็วมาก</item>
         <item>เร็วที่สุด</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>เลื่อนนิ้วไปทางซ้าย</item>
+        <item>เลื่อนนิ้วลง</item>
+        <item>เลื่อนนิ้วไปทางขวา</item>
+        <item>เลื่อนนิ้วขึ้น</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>การชาร์จ</item>

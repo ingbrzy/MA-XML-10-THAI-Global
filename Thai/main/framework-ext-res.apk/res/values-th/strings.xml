@@ -13,6 +13,7 @@
     <string name="android_ringtone_default_with_actual">เสียงเริ่มต้น (%1$s)</string>
     <string name="android_ringtone_silent">ไม่มี</string>
     <string name="android_ringtone_unknown">เสียงเรียกเข้าที่ไม่รู้จัก</string>
+    <string name="app_continuity_channel_name">การปรับเลย์เอาต์ของแอป</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">ไม่สามารถเปิดรหัสการชำระเงิน Alipay</string>
     <string name="application_cannot_open_alipay_scanner">ไม่สามารถเปิดตัวสแกน Alipay ได้</string>
@@ -111,6 +112,10 @@
     <string name="crystal">คริสตัล</string>
     <string name="cut">ตัด</string>
     <string name="dance">แด๊นซ์</string>
+    <string name="dark_mode_enable">เปิดใช้งาน</string>
+    <string name="dark_mode_suggest_message">คุณสามารถเปลี่ยนเป็นโหมดมืดโดยอัตโนมัติเมื่อพระอาทิตย์ตกเพื่อรับประสบการณ์การรับชมที่สะดวกสบายยิ่งขึ้น</string>
+    <string name="dark_mode_suggest_title">เริ่มมืดแล้ว</string>
+    <string name="dark_mode_suggest_toast">โหมดมืดจะเปิดโดยอัตโนมัติเมื่อพระอาทิตย์ตกและปิดเมื่อพระอาทิตย์ขึ้นจากนี้ไป</string>
     <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="daydream">ฝันกลางวัน</string>
     <string name="default_device_name">อุปกรณ์ไม่รู้จัก</string>
@@ -130,6 +135,7 @@
     <string name="dewdrops">น้ำค้างยามเช้า</string>
     <string name="digitaluniverse">จักรวาลดิจิตอล (สเตอริโอ)</string>
     <string name="disable_nfc">ปิด NFC สำหรับการชาร์จแบบไร้สาย</string>
+    <string name="disable_nfc_haptic_reverse">ปิด NFC และการสั่นเพื่อชาร์จไร้สายย้อนกลับ</string>
     <string name="disable_nfc_reverse">ปิดการชาร์จแบบไร้สายย้อนกลับปิด NFC สำหรับการชาร์จแบบไร้สายย้อนกลับ</string>
     <string name="echo">อีโค้</string>
     <string name="eighthours">8 ชั่วโมง</string>
@@ -137,6 +143,7 @@
     <string name="enable_livetalk_title">เปิดใช้แพ็คเกจเสริม</string>
     <string name="enable_midrop">เปิดใช้งาน</string>
     <string name="enable_nfc">ไม่ชาร์จอีกต่อไป NFC เปิดอีกครั้ง</string>
+    <string name="enable_nfc_haptic_reverse">หยุดการชาร์จแบบย้อนกลับ NFC และการสั่นกลับมาเปิดแล้ว</string>
     <string name="enable_nfc_reverse">ไม่ชาร์จย้อนกลับอีกต่อไป NFC เปิดอีกครั้ง</string>
     <string name="expect">ตื่นเต้น</string>
     <string name="fadein">เฟดอิน</string>
@@ -154,6 +161,7 @@
     <string name="flip_screen_camera_tip">หมุนกลับอุปกรณ์เพื่อใช้กล้อง</string>
     <string name="flute">ฟลุ้ต</string>
     <string name="fm_record_smaple_prefix_miui">บันทึกวิทยุ FM</string>
+    <string name="fold_small_not_split">หน้าจอด้านนอกไม่รองรับการแบ่งหน้าจอ</string>
     <string name="force_exit_message">บังคับปิด %1$s</string>
     <string name="force_exit_skip_message">ไม่สามารถปิด %1$s ได้ เนื่องจากระบบกำลังใช้งานอยู่</string>
     <string name="fourhours">2 ชั่วโมง</string>
@@ -163,6 +171,7 @@
     <string name="fp_nav_center_action_choose_dlg_title">เปิดใช้งานปุ่มแตะลัด</string>
     <string name="freeform_exchange_tip">ปล่อยเพื่อเปิดแอป</string>
     <string name="freeform_exchange_tip2">ลากไปที่มุมเพื่อยกเลิก</string>
+    <string name="freeform_exchange_tip3">เปิดหน้าต่างลอยในโหมดเต็มหน้าจอ</string>
     <string name="frenchchic">ชิค</string>
     <string name="frequent_email">อีเมลที่ใช้บ่อย</string>
     <string name="frequent_phrases">คำที่ถูกใช้บ่อย</string>
@@ -204,6 +213,13 @@
     <string name="international_livetalk_enable">ใช้แพ็คเกจเสริมสำหรับการโทรระหว่างประเทศ</string>
     <string name="key_btn_ok">ตกลง</string>
     <string name="key_btn_space">ว่าง</string>
+    <string name="keyboard_connect_failed">ไม่สามารถเชื่อมต่อแป้นพิมพ์ได้ ลองต่ออีกครั้ง</string>
+    <string name="keyboard_identity_reject_confirm">รับทราบ</string>
+    <string name="keyboard_identity_reject_message">ดูเหมือนว่าแป้นพิมพ์ของคุณจะใช้งานไม่ได้กับอุปกรณ์นี้</string>
+    <string name="keyboard_identity_transfer_error_message">ไม่สามารถเชื่อมต่อแป้นพิมพ์ได้ ลองอีกครั้ง</string>
+    <string name="keyboard_upgrade_failed">ไม่สามารถอัปเดตแป้นพิมพ์ได้</string>
+    <string name="keyboard_upgrade_start">กำลังอัปเดตแป้นพิมพ์…</string>
+    <string name="keyboard_upgrade_success">อัปเดตแป้นพิมพ์เรียบร้อยแล้ว</string>
     <string name="kungfu">กังฟู</string>
     <string name="leisure">สันทนาการ</string>
     <string name="livetalk_not_enable">แพ็คเกจเสริมปิดใช้งาน</string>
@@ -235,6 +251,8 @@
     <string name="miremix">Mi (Remix)</string>
     <string name="miui_forbid_poweroff_when_device_locked">ไม่สามารถปิดเครื่องได้ อุปกรณ์ถูกล็อก</string>
     <string name="miui_multiwindow_not_support_cvw">ปรับขนาดหน้าต่างของแอปนี้ไม่ได้</string>
+    <string name="miui_multiwindow_not_support_small_window">%1$s ไม่รองรับหน้าต่างลอย</string>
+    <string name="miui_multiwindow_not_support_split">%1$s ไม่รองรับการแบ่งหน้าจอ</string>
     <string name="miui_screen_ratio_hint">แจ้งอัตราหน้าจอ</string>
     <string name="miui_screen_ratio_hint_dont_show_again">ไม่ต้องแสดงอีก</string>
     <string name="miui_screen_ratio_hint_go_to_settings">ไปที่เมนูการตั้งค่า</string>
@@ -262,6 +280,7 @@
     <string name="oneplus_phone">OnePlus</string>
     <string name="open_close_tip_action">รับทราบ</string>
     <string name="open_close_tip_content">หากต้องการปิดหน้าต่างลอยให้กดแถบแอ็คชั่นค้างไว้แล้วปัดนิ้วขึ้น</string>
+    <string name="open_miui_optimization">เปิดใช้การเพิ่มประสิทธิภาพ MIUI ก่อน</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="orange">ส้ม</string>
@@ -309,8 +328,19 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_action">รีสตาร์ท</string>
+    <string name="relaunch_dialog_alwaysUsePrompt">จดจำตัวเลือกนี้</string>
+    <string name="relaunch_dialog_button_cancel">ยกเลิก </string>
+    <string name="relaunch_dialog_button_confirm">รีสตาร์ท</string>
+    <string name="relaunch_dialog_message">แอปนี้สามารถปรับขนาดได้หลังจากรีสตาร์ทเท่านั้น การเปลี่ยนแปลงที่ไม่ได้บันทึกทั้งหมดจะสูญหายไปหากคุณรีสตาร์ทแอปทันที รีสตาร์ท?</string>
+    <string name="relaunch_dialog_title">รีสตาร์ท \"%s\" ทันที?</string>
+    <string name="relaunch_fold_notification_content">แอปนี้อาจแสดงไม่ถูกต้องบนหน้าจอนี้ รีสตาร์ทแอปเพื่อปรับเลย์เอาต์</string>
+    <string name="relaunch_notification_title">รีสตาร์ท \"%s\"</string>
+    <string name="relaunch_unfold_notification_content">แอปนี้อาจแสดงไม่ถูกต้องบนหน้าจอนี้ รีสตาร์ทแอปเพื่อปรับเลย์เอาต์</string>
     <string name="remain">คงเหลือ: %s</string>
     <string name="replace">แทนที่</string>
+    <string name="rescuepartyplus_config_reset_context">ข้อมูลบางส่วนอาจถูกล้าง แตะเพื่อดูรายละเอียด</string>
+    <string name="rescuepartyplus_config_reset_title">การซ่อมแซมระบบเสร็จสมบูรณ์</string>
     <string name="resolver_app_recommend_flag">แนะนำ</string>
     <string name="resolver_checkbox_always">เสมอ</string>
     <string name="resolver_checkbox_once">ครั้งเดียว</string>
@@ -325,6 +355,11 @@
     <string name="rog_phone">ROG</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">โทรศัพท์ Samsung</string>
+    <string name="sc_notification_warning_content">หากแอปแสดงไม่ถูกต้อง คุณสามารถกู้คืนมุมมองเริ่มต้นของแอปหรือเปลี่ยนการตั้งค่าการแสดงแอปได้ในการตั้งค่า</string>
+    <string name="sc_notification_warning_restore">เรียกคืนค่า</string>
+    <string name="sc_notification_warning_settings">การตั้งค่า</string>
+    <string name="sc_notification_warning_title">ค่ากำหนดการแสดงแอป</string>
+    <string name="sc_relaunch_dialog_message">แอปนี้อาจแสดงไม่ถูกต้องบนหน้าจอนี้ รีสตาร์ทแอปเพื่อปรับเลย์เอาต์</string>
     <string name="scanning_device_tips">ค้นหาอุปกรณ์บริเวณใกล้เคียง…ตรวจสอบให้แน่ใจว่าอุปกรณ์อื่นๆอยู่ในโหมดเปิดการมองเห็น</string>
     <string name="screen_button_notification_text">หากต้องการเปิดใช้งาน กดปุ่มโฮมและปุ่มเปิด/ปิดเครื่องพร้อมกัน</string>
     <string name="screen_button_notification_title">ปิดใช้งานปุ่มลัด</string>
@@ -348,7 +383,7 @@
     <string name="security_permission_validate_warning">ขอบคุณที่มีส่วนช่วยพัฒนา MIUI ให้ดียิ่งขึ้น!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi และข้อมูลมือถือเปิดใช้งานแล้ว</string>
     <string name="security_permission_xiaomi_account_missed_text">ป้อนหมายเลขบัญชี Mi ของคุณ</string>
-    <string name="security_share_text">ป้องกันความเป็นส่วนตัว</string>
+    <string name="security_share_text">ปกป้องความเป็นส่วนตัว</string>
     <string name="select">เลือก</string>
     <string name="select_all">เลือกทั้งหมด</string>
     <string name="send_files_by">แชร์ไฟล์ผ่าน</string>
@@ -357,6 +392,7 @@
     <string name="set_password_action">ตั้งรหัสผ่าน</string>
     <string name="set_password_message">ตั้งรหัสผ่านเพื่อใช้คุณลักษณะนี้</string>
     <string name="set_password_title">ตั้งรหัสผ่าน</string>
+    <string name="shortcut_no_support_on_pc_mode">โหมด PC ยังไม่รองรับท่าทางนี้</string>
     <string name="shutdown_confirm_title">ปิดเครื่องตอนนี้?</string>
     <string name="shutdown_progress">กำลังปิดเครื่อง…</string>
     <string name="silence_mode">โหมดปิดเสียง</string>
@@ -418,6 +454,8 @@
     <string name="status_bar_toggle_wifi_ap">ฮอตสปอต</string>
     <string name="stoneskimming_preview">ไฟขั้นบันได</string>
     <string name="stop_operate_camera_frequently">คุณเปิดกล้องหน้าบ่อยเกินไป</string>
+    <string name="stylus_pen_mask_screenshot">แตะหน้าจอเพื่อถ่ายภาพหน้าจอ</string>
+    <string name="stylus_pen_mask_text">แตะหน้าจอเพื่อเริ่มเขียน</string>
     <string name="subinfo_default_name">ซิม %d</string>
     <string name="sunlight_notification_content">ปรับความสว่างต่อแสงโดยรอบโดยอัตโนมัติ</string>
     <string name="sunlight_notification_title">เปิดโหมดแสงแดด</string>
@@ -446,6 +484,7 @@
     <string name="unknown_caller">เลขหมายที่ไม่รู้จัก</string>
     <string name="unrecognized_manufacture">ไม่ทราบ</string>
     <string name="unrecognized_model">อุปกรณ์ไม่รู้จัก</string>
+    <string name="unreplace_freeform_count_max">ไม่สามารถเปิดหน้าต่างลอยเพิ่มได้</string>
     <string name="user_authentication_failed">การรับรองล้มเหลว -29-</string>
     <string name="user_switching_dialog_switch_into_kid_space">เปลี่ยนเป็น Kid space…</string>
     <string name="user_switching_dialog_switch_out_kid_space">ออกจาก Kid space…</string>

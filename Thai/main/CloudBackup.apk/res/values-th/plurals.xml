@@ -27,6 +27,9 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">ดูเหมือนว่าคุณไม่ได้สำรองข้อมูลรายการเป็นเวลา %s สัปดาห์ สร้างข้อมูลสำรองเพื่อหลีกเลี่ยงการสูญเสียสิ่งสำคัญ</item>
+    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s สำรองข้อมูล (%2$s)</item>
     </plurals>
@@ -54,13 +57,13 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">%d แอปในอุปกรณ์นี้</item>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">สำรองข้อมูลแล้ว %d แอป</item>
     </plurals>
-    <plurals name="restore_app_order_normal">
-        <item quantity="other">สำคัญทั่วไป: %d แอป</item>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">คืนค่าแล้ว %d แอป</item>
     </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">สำคัญมาก: %d แอป</item>
+    <plurals name="session_time_remain">
+        <item quantity="other">เหลืออีกประมาณ %s นาที</item>
     </plurals>
 </resources>
