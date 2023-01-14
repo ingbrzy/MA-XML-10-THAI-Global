@@ -195,7 +195,6 @@
     <string name="b_contacts_remove_tips">ลบที่อยู่นี้ออกจากรายการบล็อก?</string>
     <string name="back">ย้อนกลับ</string>
     <string name="bcc">สำเนาลับถึง</string>
-    <string name="bcc_heading">"สำเนาลับถึง: "</string>
     <string name="blank_feedback_toast">ข้อเสนอแนะไม่สามารถเว้นว่างได้</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">เขียนอีเมล</string>
@@ -206,7 +205,6 @@
     <string name="cancel">ยกเลิก</string>
     <string name="cancel_action">ยกเลิก</string>
     <string name="cc">สำเนาถึง</string>
-    <string name="cc_attribution">สำเนาถึง: %1$s&lt;br></string>
     <string name="cc_bcc">สำเนา/สำเนาลับ</string>
     <string name="cc_heading">"สำเนาถึง: "</string>
     <string name="certificate_add_failed">ไม่สามารถเพิ่มใบรับรอง \"%s\" ได้</string>
@@ -230,7 +228,6 @@
     <string name="click_to_reload">แตะหน้าจอเพื่อรีเฟรช</string>
     <string name="close">ปิด</string>
     <string name="collapse_recipient_details">ซ่อนรายละเอียดผู้รับ</string>
-    <string name="colon">:</string>
     <string name="compose">เขียน</string>
     <string name="compose_event">คำเชิญ</string>
     <string name="compose_paste_address_oob">อักขระมากเกินไป</string>
@@ -471,7 +468,6 @@
     <string name="installation_failed">การติดตั้งไม่สำเร็จ</string>
     <string name="installing_module">กำลังติดตั้งโมดูล:</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="load_from_remote">ค้นหาในกล่องข้อความบนเซิร์ฟเวอร์</string>
     <string name="load_more">โหลดเพิ่มเติม</string>
     <string name="loading_conversation">กำลังโหลด…</string>
@@ -873,7 +869,6 @@
     <string name="size_tera_byte">TB</string>
     <string name="smtp_password_error">รหัสผ่านสำหรับเซิร์ฟเวอร์อีเมลขาออกไม่ถูกต้อง</string>
     <string name="sort_attachment">เรียงตาม</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_select_all">เลือกทั้งหมด</string>
     <string name="str_select_none">ยกเลิกที่เลือกทั้งหมด</string>
     <string name="subject_and_snippet">%1$s - %2$s</string>

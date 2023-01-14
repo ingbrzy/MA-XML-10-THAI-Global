@@ -575,7 +575,6 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>

@@ -1452,7 +1452,6 @@ mm"</string>
     <string name="monitoring_description_personal_profile_named_vpn">แอปส่วนตัวเชื่อมต่ออินเทอร์เน็ตผ่าน%1$s ผู้ให้บริการ VPN สามารถดูกิจกรรมที่คุณทำในเครือข่ายซึ่งรวมถึงอีเมลและข้อมูลการท่องเว็บได้</string>
     <string name="monitoring_description_two_named_vpns">อุปกรณ์นี้เชื่อมต่ออินเทอร์เน็ตผ่าน %1$s และ %2$s ผู้ดูแลระบบไอทีสามารถดูกิจกรรมที่คุณทำในเครือข่าย ซึ่งรวมถึงอีเมลและข้อมูลการท่องเว็บได้</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s อาจเข้าถึงข้อมูลที่เชื่อมโยงกับอุปกรณ์นี้ จัดการแอป และเปลี่ยนการตั้งค่าอุปกรณ์ได้
 
 หากมีคำถาม โปรดติดต่อ %2$s"</string>
@@ -1531,7 +1530,6 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -1561,7 +1559,6 @@ mm"</string>
     <string name="music_controls_no_title">ไม่มีชื่อ</string>
     <string name="nav_bar">แถบนำทาง</string>
     <string name="nav_bar_layout">การจัดวาง</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">%1$s ส่งรูปภาพ</string>
     <string name="new_notification_text_content_description">%1$s ส่งข้อความ: %2$s</string>
     <string name="new_status_content_description">%1$s มีการอัปเดตสถานะ: %2$s</string>
@@ -1767,7 +1764,6 @@ mm"</string>
     <string name="private_dns_mode_provider">ชื่อโฮสต์ของผู้ให้บริการ DNS ส่วนตัว</string>
     <string name="private_dns_mode_provider_failure">เชื่อมต่อไม่ได้</string>
     <string name="private_dns_mode_provider_hostname_hint">ป้อนชื่อโฮสต์ของผู้ให้บริการ DNS</string>
-    <string name="process_kernel_label">ระบบปฏิบัติการ Android</string>
     <string name="profile_connect_timeout_subtext">เกิดปัญหาในการเชื่อมต่อ ปิดอุปกรณ์แล้วเปิดใหม่อีกครั้ง</string>
     <string name="profile_info_settings_title">ข้อมูลโปรไฟล์</string>
     <string name="qr_code_scanner_title">สแกนคิวอาร์โค้ด</string>
@@ -2107,8 +2103,6 @@ mm"</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E d MMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE dd MMMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E

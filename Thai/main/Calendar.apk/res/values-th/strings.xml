@@ -182,7 +182,6 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="date_today">" (วันนี้)"</string>
     <string name="date_view">วันที่</string>
