@@ -886,7 +886,6 @@ ID:%s
     <string name="face_name_edit">แก้ไข</string>
     <string name="face_name_input">ป้อนชื่อ</string>
     <string name="face_recommend">ข้อเสนอแนะ</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="facebook_login_btn_content_description">ลงชื่อเข้าใช้ด้วย Facebook</string>
     <string name="fail_hint">ดำเนินการไม่เสร็จสิ้น</string>
     <string name="fail_reason_migrate">กำลังประมวลผลรายการ… โปรดรอสักครู่แล้วลองอีกครั้ง</string>
@@ -902,7 +901,6 @@ ID:%s
     <string name="feedback_my_reports">ข้อเสนอแนะ</string>
     <string name="feedback_problem">รายงานปัญหา</string>
     <string name="feedback_suggest">ส่งข้อเสนอแนะ</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">ไม่สามารถพิมพ์รายการนี้ได้</string>
     <string name="file_cannot_screen_throw">ไม่สามารถฉายรายการนี้ได้</string>
     <string name="file_sending">กำลังโอนไฟล์…</string>
@@ -1170,7 +1168,6 @@ ID:%s
     <string name="grant_permission_go_and_set">ตั้งค่า</string>
     <string name="grant_permission_go_and_set_2">การตั้งค่า</string>
     <string name="grant_permission_go_and_set_3">การตั้งค่า</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">ต้องการการอนุญาต</string>
     <string name="grant_permission_manage_storage_unlock">ปลดล็อกอุปกรณ์ของคุณและอนุญาตให้แอปนี้เข้าถึงไฟล์ทั้งหมดเพื่อให้สามารถดูรายการได้</string>
     <string name="grant_permission_shortcut">อนุญาตให้แอปนี้สร้างทางลัดหน้าจอหลักก่อน</string>
@@ -1967,7 +1964,6 @@ ID:%s
     <string name="people_page_label">บุคคล</string>
     <string name="people_page_photo">รูปภาพย่อของบุคคล</string>
     <string name="people_page_unname">ไม่มีชื่อ</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">สำหรับการลงชื่อเข้าใช้และจัดการบัญชีระบบ</string>
     <string name="permission_account_name">เข้าถึงบัญชี</string>
     <string name="permission_clipboard_desc">สำหรับการเข้าถึงและบันทึกรายการไปยังคลิปบอร์ด</string>
@@ -2000,7 +1996,6 @@ ID:%s
     <string name="photo_editor_beautify_auto">อัตโนมัติ</string>
     <string name="photo_editor_beauty_compare">ต้นฉบับ</string>
     <string name="photo_editor_common_download_failed">ไม่สามารถดาวน์โหลดปลั๊กอิน ตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
-    <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_common_download_finish">ดาวน์โหลดปลั๊กอินเรียบร้อย</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">ดูเหมือนว่าคุณไม่ได้เชื่อมต่อกับ Wi-Fi ดาวน์โหลดปลั๊กอิน (%1$d MB) โดยใช้ข้อมูลมือถือหรือไม่?</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">ดาวน์โหลดปลั๊กอิน</string>
@@ -2087,7 +2082,6 @@ ID:%s
     <string name="photo_editor_talkback_crop_9_18">9:18</string>
     <string name="photo_editor_talkback_crop_free">อิสระ</string>
     <string name="photo_editor_talkback_crop_mirror">กระจก</string>
-    <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">ต้นฉบับ</string>
     <string name="photo_editor_talkback_crop_reset">รีเซ็ต</string>
     <string name="photo_editor_talkback_crop_right_rotate">หมุน 90 องศา</string>
@@ -2416,18 +2410,13 @@ ID:%s
     <string name="screen_editor_btn_save">บันทึก</string>
     <string name="screen_editor_btn_shell_off">ลบเฟรมอุปกรณ์</string>
     <string name="screen_editor_btn_shell_on">เพิ่มเฟรมอุปกรณ์</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_crop_disallowed_with_shell">ไม่สามารถตัดภาพภาพหน้าจอที่มีเฟรมอุปกรณ์</string>
     <string name="screen_editor_delete_dialog_msg">ลบภาพหน้าจอนี้หรือไม่?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">เสร็จสิ้น</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">ไม่สามารถเพิ่มเฟรมอุปกรณ์ให้กับภาพหน้าจอที่ถูกตัดภาพ</string>
     <string name="screen_editor_shell_net_error">เชื่อมต่อกับเครือข่ายเพื่อดาวน์โหลดเฟรมอุปกรณ์</string>
     <string name="screen_editor_shell_res_downloading">กำลังดาวน์โหลดเฟรมอุปกรณ์…</string>
     <string name="screen_editor_shell_storage_insufficient">ไม่สามารถดาวน์โหลดเฟรมอุปกรณ์ได้เนื่องจากพื้นที่เก็บข้อมูลไม่เพียงพอ</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ยกเลิก </string>
     <string name="screen_save_dialog_btn_delete">ลบภาพหน้าจอ</string>
     <string name="screen_save_dialog_btn_save">บันทึกไปยังคลังภาพ</string>
@@ -2577,7 +2566,6 @@ ID:%s
     <string name="share_album_cancel_share">หยุดแชร์</string>
     <string name="share_album_change_background">เปลี่ยนรูปภาพพื้นหลัง</string>
     <string name="share_album_create_failed">ไม่สามารถสร้างอัลบั้มแชร์ได้</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">หยุดแชร์</string>
     <string name="share_album_exit_confirm">คุณจะไม่สามารถเข้าถึงรายการทั้งหมดในอัลบั้มนี้ได้อีกหากดำเนินการต่อ บันทึกรายการสำคัญทั้งหมดก่อนออกเดินทาง</string>
     <string name="share_album_exit_confirm_title">ออกจากกลุ่มนี้?</string>
@@ -2649,7 +2637,6 @@ ID:%s
     <string name="share_with_family">แชร์ไปยังครอบครัว</string>
     <string name="sharer_quota_fulfiled">คุณได้แชร์อัลบั้มนี้ให้แก่สมาชิกครบจำนวนที่ระบบกำหนดแล้ว</string>
     <string name="show_cloud_albumlist_summary">รายการใหม่จากอัลบั้มที่เลือกจะไม่ถูกอัปโหลดไปยังระบบคลาวด์หลังจากที่คุณปิดการซิงค์</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">แสดงและจัดการอัลบั้มที่ซ่อนไว้</string>
     <string name="show_hidden_album_title">แสดงอัลบั้มที่ซ่อนไว้</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">ย้ายเรียบร้อย ไปยังอัลบั้มอื่นๆ เพื่อเรียกดู</string>
