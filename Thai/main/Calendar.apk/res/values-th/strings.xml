@@ -52,6 +52,7 @@
     <string name="additional_calendar_note">ปฏิทินเพิ่มเติมบางฉบับอาจไม่พร้อมใช้งานหรือแตกต่างกันไปขึ้นอยู่กับปัจจัยที่ไม่แน่นอน</string>
     <string name="afternoon">บ่าย</string>
     <string name="agenda_month_empty_hint">ไม่มีกำหนดการในวันนี้</string>
+    <string name="agenda_not_today_empty_hint">ยังไม่มีกิจกรรมที่นี่ แตะเพื่อสร้าง</string>
     <string name="agenda_tomorrow">พรุ่งนี้ %1$s</string>
     <string name="agenda_view">กำหนดการ</string>
     <string name="alarm_label">ปิด</string>
@@ -182,6 +183,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
     <string name="date_today">" (วันนี้)"</string>
     <string name="date_view">วันที่</string>
@@ -194,6 +196,8 @@
     <string name="delete_this_event_title">ลบกำหนดการนี้?</string>
     <string name="description_calendar">แอประบบ/ปฏิทิน</string>
     <string name="description_calendar_edit_event">แอประบบ/ปฏิทิน/หัวเรื่อง</string>
+    <string name="description_calendar_huangli" />
+    <string name="description_calendar_subscribe_group" />
     <string name="directory_searching_fmt">กำลังค้นหา %s…</string>
     <string name="discard_label">ยกเลิก </string>
     <string name="display_to_calendar">แสดงในปฏิทิน</string>
@@ -270,6 +274,7 @@
     <string name="event_info_when">เมื่อ</string>
     <string name="event_info_where">ที่ไหน</string>
     <string name="event_reminder_allday_day_zero">ในวันนั้นที่ %2$s</string>
+    <string name="event_reminder_custom">กำหนดเอง</string>
     <string name="event_reminder_value_zero">ก่อนกำหนดการ</string>
     <string name="event_title">หัวเรื่อง</string>
     <string name="event_view">เรียกดูกำหนดการ</string>
@@ -389,6 +394,7 @@
     <string name="holidays_title">วันหยุด</string>
     <string name="horoscope">ดวงชะตา</string>
     <string name="horoscope_card_title">ดวงชะตาวันนี้</string>
+    <string name="horoscope_partner" />
     <string name="horoscope_select_activity_label">เลือกสัญลักษณ์ราศี</string>
     <string name="hour_1">%d ชั่วโมง</string>
     <string name="image_processing">ภาพยังไม่พร้อม</string>
@@ -422,6 +428,8 @@
     <string name="long_holiday_week_off">วันหยุดประจำสัปดาห์</string>
     <string name="long_month_date_format">dd MMMM yyyy</string>
     <string name="lunar_date">วันทางจันทรคติ</string>
+    <string name="lunar_day" />
+    <string name="lunar_to_solar" />
     <string name="manage_holidays">จัดการวันหยุด</string>
     <string name="manage_title">จัดการ</string>
     <string name="mark_end">ประจำเดือนสิ้นสุด</string>
@@ -579,7 +587,7 @@
     <string name="no_visiable_calendar_title">เพิ่มบัญชี</string>
     <string name="none">ไม่มี</string>
     <string name="noon">เที่ยงวัน</string>
-    <string name="not_more_than_three_weekday">คุณสามารถเลือกได้มากสุด 3 วัน</string>
+    <string name="not_more_than_three_weekday">คุณสามารถเลือกได้ถึง %d วัน</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="notes_hint">แตะเพื่อเพิ่มงาน</string>
     <string name="notes_reminders_channel">แจ้งเตือนบันทึกย่อ</string>
@@ -594,6 +602,10 @@
     <string name="notes_weekly">รายสัปดาห์</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">การแจ้งเตือนของปฏิทิน</string>
+    <string name="notification_open_setting_button_exit">ไม่ ขอบคุณ</string>
+    <string name="notification_open_setting_button_ok">อนุญาต</string>
+    <string name="notification_open_setting_message">คุณจะไม่สามารถรับการแจ้งเตือนเกี่ยวกับกิจกรรมได้ เว้นแต่คุณจะอนุญาตให้ปฏิทินส่งการแจ้งเตือนถึงคุณ</string>
+    <string name="notification_open_setting_title">อณุญาตการแจ้งเตือนปฏิทิน?</string>
     <string name="numbers">%d</string>
     <string name="pack_up">收起</string>
     <string name="panchang_amanta">อามาวาสยันตะ</string>
@@ -621,6 +633,7 @@
     <string name="panchang_yog">ยอก</string>
     <string name="partner_compatibility">ความเข้ากันได้ของคนรัก</string>
     <string name="path_calendar_settings">แอประบบ/ปฏิทิน/การตั้งค่า</string>
+    <string name="permission_denial">ให้สิทธิ์เพื่อให้สามารถใช้คุณสมบัตินี้ได้</string>
     <string name="permission_description">รายละเอียดการอนุญาต</string>
     <string name="picker_day">วันที่เลือก: %1$d ปัดในแนวตั้งเพื่อเลือก</string>
     <string name="picker_month">เดือนที่เลือก: %1$d ปัดในแนวตั้งเพื่อเลือก</string>
@@ -634,7 +647,6 @@
     <string name="pref_title_no_remind">ไม่ต้องแจ้งเตือน</string>
     <string name="pref_title_notification_remind">วิธีการแจ้งการเตือน</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
-    <string name="preferences_additional_cal_default">0</string>
     <string name="preferences_alarms_category_title">ส่งเสียงเตือน</string>
     <string name="preferences_alarms_sound">เสียง</string>
     <string name="preferences_alarms_vibrateWhen">สั่น</string>
@@ -653,9 +665,9 @@
     <string name="preferences_title">ปฏิทิน</string>
     <string name="preferences_use_home_tz_descrip">แสดงปฏิทินและเวลากำหนดการในเขตเวลาบ้านของคุณเมื่อเดินทาง</string>
     <string name="preferences_use_home_tz_title">ใช้โซนเวลาบ้าน</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">เริ่มสัปดาห์</string>
     <string name="preferences_week_start_day_title">เริ่มสัปดาห์</string>
+    <string name="premission_description_notice">สำหรับส่งการแจ้งเตือนเกี่ยวกับกิจกรรมและวันหยุด</string>
     <string name="privacy_and_permissions">การอนุญาตและความเป็นส่วนตัว</string>
     <string name="privacy_card_description">ยอมรับนโยบายความเป็นส่วนตัวของเราเพื่อเข้าถึงคุณลักษณะทั้งหมด</string>
     <string name="privacy_policy_dialog_agree">ยอมรับ</string>
@@ -681,6 +693,8 @@
     <string name="remind_title_menstruation_start">แจ้งเตือนเมื่อเริ่มมีประจำเดือน</string>
     <string name="remind_title_record">แจ้งเตือนให้บันทึก</string>
     <string name="repeat_activity_label">กำหนดการซ้ำ</string>
+    <string name="repeat_alarm_close_title">นี่เป็นเหตุการณ์ที่เกิดขึ้นซ้ำๆ ปิดการปลุกเตือน?</string>
+    <string name="repeat_alarm_open_title">นี่เป็นเหตุการณ์ที่เกิดขึ้นซ้ำๆ ตั้งปลุกเตือน?</string>
     <string name="repeat_custom_activity_label">กำหนดเอง</string>
     <string name="repeat_custom_prompt_daily">ทุก %1$s</string>
     <string name="repeat_custom_prompt_sentence">ตั้งกำหนดการซ้ำในทุก %1$s</string>
@@ -702,6 +716,7 @@
     <string name="repeat_label_frequency">ความถี่ของกำหนดการ</string>
     <string name="repeat_label_interval">ทุกๆ</string>
     <string name="repeat_label_week">สัปดาห์</string>
+    <string name="repeat_lunar_yearly" />
     <string name="repeat_month_day_splitter">" "</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">ทำซ้ำ</string>
@@ -722,7 +737,9 @@
     <string name="saving_event">บันทึกกำหนดการแล้ว</string>
     <string name="saving_event_with_guest">กำลังส่งอัปเดต…</string>
     <string name="search_calendar_edit_event">ประชุม;การแจ้งเตือน;หัวเรื่อง</string>
+    <string name="search_calendar_huangli" />
     <string name="search_calendar_settings">ปฏิทิน;หัวเรื่อง;การแจ้งเตือน</string>
+    <string name="search_calendar_subscribe_group" />
     <string name="search_events">ค้นหากำหนดการ</string>
     <string name="search_history">ประวัติการค้นหา</string>
     <string name="search_menu_title">ค้นหา</string>
@@ -740,7 +757,7 @@
     <string name="setting_about_summary">เวอร์ชั่น:</string>
     <string name="setting_accounts">บัญชีปฏิทิน</string>
     <string name="setting_change_language">เลือกภาษาของปฏิทิน</string>
-    <string name="setting_desc_import_todo">นำเข้างานที่กำหนดเวลาจาก บันทึกย่อ</string>
+    <string name="setting_desc_import_todo">นำเข้างานที่ละเอียดอ่อนด้านเวลาจากบันทึกย่อ</string>
     <string name="setting_features_title">การตั้งค่าคุณลักษณะ</string>
     <string name="setting_holiday_display_desc">การ์ดวันหยุดจะอยู่ด้านล่างกำหนดการของคุณในหน้าแรก</string>
     <string name="setting_holiday_reminder">การแจ้งเตือนวันหยุด</string>
@@ -777,6 +794,10 @@
     <string name="size_tera_byte">TB</string>
     <string name="skip">ข้าม</string>
     <string name="small_week_date_format">EEE dd/MM/yyyy</string>
+    <string name="solar_lunar_convert_date" />
+    <string name="solar_lunar_convert_description" />
+    <string name="solar_lunar_convert_tab" />
+    <string name="solar_to_lunar" />
     <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
     <string name="spec_agenda_view">กำหนดการพิเศษ</string>
     <string name="start_date_calculate">คำนวณ</string>

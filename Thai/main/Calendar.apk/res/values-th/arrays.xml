@@ -2,9 +2,9 @@
 <resources>
     <string-array name="additional_cal_dialog_labels">
         <item>ไม่มี</item>
-        <item>Hijri Samvat</item>
-        <item>Shaka Samvat</item>
-        <item>Vikrami Samvat</item>
+        <item>ปฏิทินอิสลาม</item>
+        <item>ปฏิทินแห่งชาติของอินเดีย</item>
+        <item>ปฏิทินวิกรม</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
@@ -29,6 +29,10 @@
     <string-array name="change_response_labels">
         <item>เฉพาะกำหนดการนี้</item>
         <item>กำหนดการทั้งหมดในซีรีส์</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>ปิดใช้งานครั้งเดียว</item>
+        <item>ปิดเสมอ</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>ไปข้างหน้า</item>
@@ -78,6 +82,10 @@
         <item>libra</item>
         <item>ราศีตุล</item>
         <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>เปิดใช้งานครั้งเดียว</item>
+        <item>เปิดใช้เสมอ</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>วันอาทิตย์</item>
