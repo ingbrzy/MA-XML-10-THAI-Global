@@ -396,7 +396,6 @@
     <string name="somepc_send_muchfile_files">%1$s กำลังส่งมากกว่า %2$d ไฟล์ถึงคุณ…</string>
     <string name="start_receive_much_files_from_pc">กำลังรับมากกว่า %2$d ไฟล์จาก %1$s…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="sub_title_mishare_switch">คุณลักษณะนี้จะปิดโดยอัตโนมัติหลังจากผ่านไป %d นาที</string>
     <string name="success_receive_much_file_from_pc">ได้รับมากกว่า %2$d ไฟล์จาก %1$s แตะเพื่อดู</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
@@ -458,8 +457,6 @@
     <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
     <string name="tips_prompt_enable_midrop">Mi แชร์</string>
     <string name="to_feedback">รายงาน</string>
-    <string name="toast_auto_close_in_minutes">Mi แชร์ จะปิดหลังจาก %d นาที</string>
-    <string name="toast_transfering">กำลังโอนรายการ ลองอีกครั้งในภายหลัง</string>
     <string name="today">วันนี้</string>
     <string name="tomorrow">พรุ่งนี้</string>
     <string name="transfer_intercept_to_remote">ส่งไม่ได้: %1$s</string>
@@ -467,10 +464,8 @@
     <string name="transfer_to_pc_summary_new">&lt;Data>เวอร์ชันล่าสุดของ MIUI+ ที่ติดตั้งบน Mi Notebooks เข้ากันได้กับ Mi แชร์ คุณสามารถตรวจสอบรายชื่อแล็ปท็อปรุ่นที่รองรับได้บนเว็บไซต์ MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>) หากแล็ปท็อปของคุณอยู่ในรายการแต่ไม่ได้ติดตั้ง MIUI+ ไว้ ให้อัปเดต BIOS ของแล็ปท็อปและไดรเวอร์อะแดปเตอร์เครือข่าย แล้วดาวน์โหลด MIUI+&lt;/Data></string>
     <string name="transfer_to_pc_title">ส่งไฟล์ไปยังคอมพิวเตอร์</string>
     <string name="transfer_to_phone_summary">เปิด Mi แชร์ โดยใช้สับสวิตซ์ในแถบการแจ้งเตือน หลังจากนั้นคุณจะสามารถเห็นอุปกรณ์ใกล้เคียงเมื่อคุณเริ่มแชร์ภาพถ่ายหรือไฟล์ แตะอุปกรณ์ของผู้รับเพื่อส่งรายการที่คุณแชร์</string>
-    <string name="transfer_to_phone_summary_new">เปิดใช้งาน Mi แชร์ ในศูนย์ควบคุมเพื่อให้สามารถส่งและรับรายการได้อย่างง่ายดาย หลังจากเปิดใช้งาน คุณสามารถแชร์รายการกับอุปกรณ์ใกล้เคียงเป็นเวลา %d นาทีก่อนที่รายการจะปิดโดยอัตโนมัติ</string>
     <string name="transfer_to_phone_title">ส่งไฟล์ไปยังโทรศัพท์</string>
     <string name="transfer_to_summary">เปิด Mi แชร์ โดยใช้สับสวิตซ์ในแถบการแจ้งเตือน หลังจากนั้นคุณจะสามารถเห็นอุปกรณ์ใกล้เคียงเมื่อคุณเริ่มแชร์ภาพถ่ายหรือไฟล์ แตะอุปกรณ์ของผู้รับเพื่อส่งรายการที่คุณแชร์</string>
-    <string name="transfer_to_summary_new">เปิดใช้งาน Mi แชร์ ในศูนย์ควบคุมเพื่อให้สามารถส่งและรับรายการได้อย่างง่ายดาย หลังจากเปิดใช้งาน คุณสามารถแชร์รายการกับอุปกรณ์ใกล้เคียงเป็นเวลา %d นาทีก่อนที่รายการจะปิดโดยอัตโนมัติ</string>
     <string name="transfer_to_title">ส่งไฟล์ไปยังอุปกรณ์มือถือ</string>
     <string name="tuesday">วันอังคาร</string>
     <string name="tuesday_short">อังคาร</string>

@@ -302,6 +302,7 @@
     <string name="download">ดาวน์โหลด</string>
     <string name="downloading">กำลังดาวน์โหลด</string>
     <string name="early_morning">เช้า</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">ว่าง</string>
     <string name="empty_content_no_privacy">ไม่มี</string>
     <string name="empty_content_no_similar_image">ไม่มีรูปภาพ</string>
@@ -490,6 +491,7 @@
     <string name="hints_garbage_cleanup_result_safe">ไม่พบสิ่งผิดปกติ</string>
     <string name="hints_garbage_handle_item_content">%1$d รายการ, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">ว่าง</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">ใช้งานน้อย</string>
     <string name="hints_installed_app_near">ใช้งานเมื่อเร็วๆนี้</string>
     <string name="hints_installed_app_never">ไม่เคยใช้งาน</string>
