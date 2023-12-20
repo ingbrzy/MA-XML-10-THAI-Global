@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
-        <item>:::1839:::%1$s : มีปัญหาในการเชื่อมต่อคุณกับ Verizon Wi-Fi Access เนื่องจากข้อผิดพลาด 16384</item>
+        <item>:::1839:::%1$s : มีปัญหาในการเชื่อมต่อคุณกับ Verizon Wi-Fi (ข้อผิดพลาด = 16384)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
-        <item>:::1839:::%1$s : มีปัญหาในการเชื่อมต่อคุณกับ Verizon Wi-Fi Access เนื่องจากข้อผิดพลาด 16385</item>
+        <item>:::1839:::%1$s : มีปัญหาในการเชื่อมต่อคุณกับ Verizon Wi-Fi (ข้อผิดพลาด = 16385)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
         <item>:::1839:::%1$s : คุณไม่สามารถเชื่อมต่อกับ Verizon Wi-Fi Access จากนอกพื้นที่ให้บริการของ Verizon (ข้อผิดพลาด = 32760)</item>
@@ -28,9 +28,9 @@
         <item>:::1839:::%1$s : Verizon Wi-Fi Access ไม่พร้อมให้บริการจากตำแหน่งของคุณ โปรดลองอีกครั้งในภายหลังหรือลองจากตำแหน่งอื่น (ข้อผิดพลาด = 32766)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
-        <item>:::1839:::%1$s : มีปัญหาในการเชื่อมต่อคุณกับ Verizon Wi-Fi Access โปรดลองอีกครั้งในภายหลังหรือลองจากตำแหน่งอื่น</item>
+        <item>:::1839:::%1$s : มีปัญหาในการเชื่อมต่อคุณกับ Verizon Wi-Fi Access โปรดลองอีกครั้งในภายหลังหรือลองจากตำแหน่งอื่น (ข้อผิดพลาด = 32767)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
-        <item>:::1839:::%1$s : มีปัญหาในการเชื่อมต่อคุณกับ Verizon Wi-Fi Access</item>
+        <item>:::1839:::%1$s : มีปัญหาในการเชื่อมต่อคุณกับ Verizon Wi-Fi (ข้อผิดพลาด = ที่ไม่รู้จัก)</item>
     </string-array>
 </resources>

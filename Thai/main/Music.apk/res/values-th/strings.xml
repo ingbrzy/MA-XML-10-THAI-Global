@@ -64,10 +64,15 @@
     <string name="actionbar_button_up_description">ย้อนกลับ</string>
     <string name="ad_close">ปิด</string>
     <string name="ad_data_exception">ข้อมูลโฆษณาผิดพลาด</string>
+    <string name="ad_flag_text">โฆษณา</string>
     <string name="ad_recommend">แสดงโฆษณา</string>
     <string name="ad_setting">การตั้งค่าเพิ่มเติม</string>
     <string name="add">เพิ่ม</string>
     <string name="add_music">เพิ่มเพลง</string>
+    <string name="add_songs_manually_bottom">เพิ่ม</string>
+    <string name="add_songs_manually_home">เพิ่มเพลงด้วยตนเอง</string>
+    <string name="add_songs_manually_setting">เพิ่มเพลงด้วยตนเอง</string>
+    <string name="add_songs_to_playlist">เพิ่มในเพลย์ลิสต์</string>
     <string name="add_to_last_of_playlist">เพิ่มไว้ท้ายสุดของรายการเพลง</string>
     <string name="add_to_playlist">เพิ่มลงในคิว</string>
     <string name="add_to_playlist_successful">เพิ่มเรียบร้อย</string>
@@ -98,6 +103,13 @@
     <string name="app_disable_description_content">Mi เพลง เป็นแอประบบ หากคุณปิดใช้งาน การดำเนินการนี้อาจส่งผลต่อการใช้งานแอปอื่นๆ ของคุณ ยืนยันปิดการใช้งาน?</string>
     <string name="app_disable_description_title">ปิดใช้งานแอประบบหรือไม่?</string>
     <string name="app_label">ดาวน์โหลด</string>
+    <string name="app_notify_dialog_btn_desc">การตั้งค่า</string>
+    <string name="app_notify_dialog_check_desc">เปิดวิดเจ็ตหน้าต่างแจ้งเตือน แต่ไม่อนุญาตให้มีการแจ้งเตือนแบบถาวร</string>
+    <string name="app_notify_dialog_path">การตั้งค่า > การแจ้งเตือน และ แถบสถานะ > การแจ้งเตือนของแอป > เพลง</string>
+    <string name="app_notify_dialog_path_10">การตั้งค่า > การแจ้งเตือน และ แถบสถานะ > การแจ้งเตือนของแอป > เพลง</string>
+    <string name="app_notify_dialog_path_8">การตั้งค่า > การแจ้งเตือน และ แถบสถานะ > การแจ้งเตือนของแอป > เพลง</string>
+    <string name="app_notify_dialog_subtitle">เปิดการแจ้งเตือนสำหรับ Mi เพลง เพื่อให้สามารถควบคุมการเล่นเพลงในแถบการแจ้งเตือน</string>
+    <string name="app_notify_dialog_title">จำเป็นต้องขออนุญาต</string>
     <string name="app_permission_confirm">รับทราบ</string>
     <string name="app_permission_optional">สิทธิ์เพิ่มเติม</string>
     <string name="app_permission_require">สิทธิ์ที่จำเป็น</string>
@@ -108,8 +120,10 @@
     <string name="app_permission_use_group_phone_desc">สำหรับบริการพุช Google</string>
     <string name="app_permission_use_group_storage">ที่เก็บข้อมูล</string>
     <string name="app_permission_use_group_storage_desc">สำหรับการค้นหาและเล่นเพลงที่บันทึกไว้ในอุปกรณ์</string>
+    <string name="app_resident_push_switch">อนุญาตการแจ้งเตือนอย่างถาวร</string>
     <string name="apply_for_the_following_permissions">แอปนี้ขอการอนุญาตดังต่อไปนี้:</string>
     <string name="apply_permissions_greater_than_pie">คุณสามารถให้สิทธิ์นี้ในการตั้งค่า > แอป > สิทธิ์ > สิทธิ์ > ไฟล์และสื่อ > ดนตรี</string>
+    <string name="apply_permissions_greater_than_tiramisu">คุณสามารถให้สิทธิ์นี้ได้ในการตั้งค่า > แอป > การอนุญาต > การอนุญาต > เพลงและเสียง/ภาพถ่ายและวิดีโอ > เพลง</string>
     <string name="apply_permissions_less_than_pie">คุณสามารถให้สิทธิ์นี้ในการตั้งค่า > แอป > สิทธิ์ > สิทธิ์ > การเข้าถึงและเปลี่ยนแปลงไฟล์ในที่จัดเก็บข้อมูลภายใน > เพลง</string>
     <string name="apply_permissions_tips_content">อนุญาตให้แอปนี้เข้าถึงไฟล์เพื่อค้นหาเพลงบนอุปกรณ์ของคุณ</string>
     <string name="artist">ศิลปิน</string>
@@ -141,7 +155,7 @@
     <string name="avoid_to_use_traffic_summary">ห้ามใช้เครือข่ายมือถือในการเรียกฟังเพลง</string>
     <string name="avoid_to_use_traffic_title">สอบถามก่อนเมื่อใช้งานข้อมูลมือถือเพื่อเล่นเพลง</string>
     <string name="back">ย้อนกลับ</string>
-    <string name="back_confirm">แตะอีกครั้งเพื่อเล่นแอปบนพื้นหลังแทน</string>
+    <string name="back_confirm">แตะอีกครั้งเพื่อออก</string>
     <string name="best_experience">ประสบการณ์ที่ดีที่สุด</string>
     <string name="billion_char">%sB</string>
     <string name="bluetooth_device">อุปกรณ์เสียงบลูทูธ</string>
@@ -207,6 +221,7 @@
     <string name="create_playlist">สร้างรายการเพลง</string>
     <string name="create_playlist_failure">สร้างรายการเพลงไม่ได้</string>
     <string name="create_playlist_input_hint">ป้อนชื่อเพลย์ลิสต์</string>
+    <string name="create_shortcut_for_playlist">สร้างปุ่มลัดหน้าจอหลักเพลย์ลิสต์หรือไม่?</string>
     <string name="current_album">ปกอัลบั้มปัจจุบัน</string>
     <string name="current_lyric">เนื้อเพลงปัจจุบัน</string>
     <string name="current_version">เวอร์ชั่นปัจจุบัน</string>
@@ -327,7 +342,9 @@
     <string name="download_method">ดาวน์โหลด</string>
     <string name="download_no_application_title">ไม่สามารถเปิดไฟล์ได้</string>
     <string name="download_paused_in_power_save_mode">การดาวน์โหลดจะถูกหยุดขณะอยู่ในโหมดประหยัดแบตเตอรี่</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">กำลังดาวน์โหลด…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">คุณภาพการดาวน์โหลด</string>
     <string name="download_quality_summary">การตั้งค่าเพิ่มเติมสำหรับเพลงที่ดาวน์โหลด</string>
     <string name="download_queued">อยู่ในคิวแล้ว</string>
@@ -435,7 +452,9 @@
     <string name="exo_media_action_repeat_all_description">เล่นซ้ำทั้งหมด</string>
     <string name="exo_media_action_repeat_off_description">ไม่เล่นซ้ำ</string>
     <string name="exo_media_action_repeat_one_description">เล่นซ้ำเพลงเดียว</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">อื่นๆ</string>
     <string name="exo_track_role_closed_captions">คำบรรยาย</string>
     <string name="exo_track_role_commentary">ความคิดเห็น</string>
@@ -559,9 +578,11 @@
     <string name="get_more_favorite_content_after_login">ลงชื่อเข้าใช้เพื่อค้นหาเพลงและวิดีโอเพิ่มเติม</string>
     <string name="get_one_day_vip">คุณได้รับ VIP %d วัน!</string>
     <string name="get_one_hour_vip">คุณได้รับ VIP %d ชั่วโมง!</string>
+    <string name="get_one_minute_vip">คุณได้รับ VIP %d นาที!</string>
     <string name="get_vip">รับ VIP</string>
     <string name="go_agree">ตกลง</string>
     <string name="google_account_login">เข้าสู่ระบบด้วย Google</string>
+    <string name="google_download_music">ดาวน์โหลด %1$s ด้วย Google</string>
     <string name="goto_local_search">ค้นหาในอุปกรณ์</string>
     <string name="goto_online_search">ค้นหาออนไลน์</string>
     <string name="handle_later">ภายหลัง</string>
@@ -569,11 +590,19 @@
     <string name="headset_and_audio_effect_category">หูฟังและเสียงเอฟเฟกต์</string>
     <string name="headset_and_audio_effect_summary">หูฟังและตัวปรับแต่งเสียง</string>
     <string name="headset_and_audio_effect_title">หูฟังและเสียงเอฟเฟกต์</string>
+    <string name="hgm_failed_to_connect_hint">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง หากปัญหาคือข้อผิดพลาดของเซิร์ฟเวอร์ hungama เราจะแก้ไขโดยเร็วที่สุด</string>
+    <string name="hgm_has_offline">ไม่สามารถเล่นเพลงจาก hungama ได้</string>
+    <string name="hgm_network_request_error_toast">ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ hungama ได้ ลองอีกครั้ง</string>
     <string name="hgm_vip_btn_desc">เริ่มทดลองใช้ฟรี</string>
     <string name="hgm_vip_high_quality">ดาวน์โหลดคุณภาพสูง</string>
     <string name="hgm_vip_no_ads">ไม่มีโฆษณาหรือข้อจำกัด</string>
     <string name="hide_album">ซ่อนปกอัลบั้ม</string>
     <string name="hide_lyric">ซ่อนเนื้อเพลง</string>
+    <string name="hide_or_add_songs_manually">แสดงเพลงที่ซ่อนไว้</string>
+    <string name="hide_reason_folder">โฟลเดอร์ที่ซ่อน</string>
+    <string name="hide_reason_other">เหตุผลอื่น</string>
+    <string name="hide_reason_size">ใหญ่กว่า %1$s</string>
+    <string name="hide_songs_title">เพลงที่ซ่อนอยู่</string>
     <string name="hifi_quality">คุณภาพ Hi-Fi</string>
     <string name="high_sound_quality">สูง</string>
     <string name="higher_quality_music">เสียงคุณภาพสูง</string>
@@ -587,6 +616,7 @@
     <string name="home_tab_recommend">ออนไลน์</string>
     <string name="home_tab_search">ค้นหา</string>
     <string name="hot_icon_in_fast_indexer">H</string>
+    <string name="hot_recommend">ยอดนิยมตอนนี้</string>
     <string name="hungama_batch_download_alert_summary">เฉพาะสมาชิกแบบ Gold เท่านั้นที่สามารถดาวน์โหลดได้หลายเพลง สมัครเป็นสมาชิก Gold ตอนนี้?</string>
     <string name="hungama_batch_download_alert_summary_toast">การสมัครสมาชิกเพื่อดาวน์โหลดเพลย์ลิสต์ทั้งหมด</string>
     <string name="hungama_download_subscription_toast">สมัครสมาชิก hungama Music เพื่อดาวน์โหลดเพลงนี้</string>
@@ -665,6 +695,10 @@
     <string name="joox_search_result_more">เพิ่มเติม</string>
     <string name="joox_vip_check_to_pay">ซื้อ</string>
     <string name="joox_vip_expired_hint">สมาชิก VIP ของคุณหมดอายุแล้ว เพลงที่ดาวน์โหลดจาก JOOX จะแสดงในการดาวน์โหลดของคุณเท่านั้น</string>
+    <string name="jump_to_ytb_dialog_cancel">ยกเลิก </string>
+    <string name="jump_to_ytb_dialog_desc">คุณกำลังจะออกจาก Mi เพลง และเปิด YouTube เปิด YouTube เลยไหม?</string>
+    <string name="jump_to_ytb_dialog_ok">ยืนยัน</string>
+    <string name="jump_to_ytb_dialog_title">ออกจาก Mi เพลง</string>
     <string name="just_hit_next">แค่กดถัดไป</string>
     <string name="keep_queued_download">เก็บไว้</string>
     <string name="ktv_playlist">รายการเพลง KTV</string>
@@ -681,9 +715,19 @@
     <string name="loading_hint">รอสักครู่…</string>
     <string name="loading_reached_the_bottom">นั่นคือทั้งหมดสำหรับตอนนี้</string>
     <string name="loading_text">รอสักครู่…</string>
+    <string name="local_download_download">ดาวน์โหลด</string>
+    <string name="local_download_hint">เปิด Wi-Fi ก่อนดาวน์โหลด</string>
+    <string name="local_download_item">ดาวน์โหลดฟรี</string>
+    <string name="local_download_title">เลือกเพลงที่จะดาวน์โหลด</string>
+    <string name="local_download_toast">กำลังดาวน์โหลด…</string>
+    <string name="local_download_toast_notify">กำลังดาวน์โหลด ตรวจสอบความคืบหน้าในหน้าต่างแจ้งเตือน</string>
     <string name="local_header_title">เพลงในเครื่อง</string>
     <string name="local_music">เพลงในเครื่อง</string>
     <string name="local_music_is_not_available">ไม่มีเพลงบนอุปกรณ์ของคุณ</string>
+    <string name="local_out_dialog_cancel">ยกเลิก</string>
+    <string name="local_out_dialog_desc">คุณกำลังจะเปิดแอปอื่นที่ไม่ได้เชื่อมโยงกับ Mi เพลง</string>
+    <string name="local_out_dialog_ok">ตกลง</string>
+    <string name="local_out_dialog_title">ออกจาก Mi เพลง</string>
     <string name="local_page_album_more">เรียกดูทั้งหมด</string>
     <string name="local_page_artist_more">เพลงเพิ่มเติมของ %s</string>
     <string name="local_page_playlist">รายการเพลง</string>
@@ -701,6 +745,13 @@
     <string name="lyric_label">เนื้อเพลง</string>
     <string name="lyric_open_other_connect">ดาวน์โหลดเนื้อเพลงผ่านเครือข่ายข้อมูลมือถือ</string>
     <string name="lyric_setting">การตั้งค่าเนื้อเพลง</string>
+    <string name="lyrics_guide_button_text">ลองดู</string>
+    <string name="lyrics_guide_four">กลับไปที่หน้าเนื้อเพลงเพื่อดู</string>
+    <string name="lyrics_guide_one">แตะผลการค้นหาเพื่อเลือก</string>
+    <string name="lyrics_guide_three">แก้ไขและบันทึกเนื้อเพลง</string>
+    <string name="lyrics_guide_title">วิธีค้นหาและบันทึกเนื้อเพลง</string>
+    <string name="lyrics_guide_two">เลือกเนื้อเพลงที่คุณต้องการและคัดลอก</string>
+    <string name="lyrics_popup_title">แตะเพื่อค้นหาเนื้อเพลง</string>
     <string name="material_clock_toggle_content_description">เลือก AM หรือ PM</string>
     <string name="material_hour_selection">เลือกชั่วโมง</string>
     <string name="material_hour_suffix">%1$s นาฬิกา</string>
@@ -744,15 +795,15 @@
     <string name="miuishare_title_more">เพิ่มเติม</string>
     <string name="miuishare_title_share">แชร์</string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
     <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
-    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
-    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
@@ -826,6 +877,7 @@
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -931,6 +983,7 @@
     <string name="ok">ตกลง</string>
     <string name="one_day_vip">VIP %d วัน</string>
     <string name="one_hour_vip">VIP %d ชั่วโมง</string>
+    <string name="one_minute_vip">VIP %d นาที</string>
     <string name="online_apk_acquired">โหลดแล้ว %d%%</string>
     <string name="online_apk_acquiring">กำลังโหลด… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">ดาวน์โหลดไม่ได้เนื่องจากพื้นที่จัดเก็บไม่เพียงพอ</string>
@@ -1194,9 +1247,10 @@
     <string name="privacy_authorize_revoking">กำลังยกเลิกการให้สิทธิ์…</string>
     <string name="privacy_desc">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
-    <string name="privacy_request_desc">"&lt;Data>Mi เพลง จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการสตรีมมิ่งออนไลน์แก่คุณ คุณสามารถเรียนรู้วิธีจัดการข้อมูลที่เรารวบรวมใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ Mi เพลง ในการตั้งค่าได้ทุกเมื่อ
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=th_TH</string>
+    <string name="privacy_request_desc"><Data>"Mi เพลง จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการสตรีมมิ่งออนไลน์แก่คุณ คุณสามารถเรียนรู้วิธีจัดการข้อมูลที่เรารวบรวมใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ Mi เพลง ในการตั้งค่าได้ทุกเมื่อ
 อ่านและยอมรับ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ก่อนใช้ Mi เพลง
-หากคุณไม่ยินยอมที่จะใช้บริการข้างต้นคุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอปนี้ได้; อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ&lt;/Data>"</string>
+หากคุณไม่ยินยอมที่จะใช้บริการข้างต้นคุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอปนี้ได้; อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ"</Data></string>
     <string name="privacy_request_subtitle">"ยินดีต้อนรับสู่ Mi เพลง! แอปนี้ให้บริการดังต่อไปนี้:
 - เครื่องเล่นเสียงในเครื่อง
 - บริการสตรีมออนไลน์"</string>
@@ -1209,9 +1263,9 @@
     <string name="pulluprefreshrecyclerview_loading_finished">โหลดเรียบร้อยแล้ว</string>
     <string name="pulluprefreshrecyclerview_loading_running">กำลังโหลด…</string>
     <string name="queue_is_empty">คิวเล่นว่างเปล่า</string>
-    <string name="read_and_agree_hungama_protocol">&lt;Data>ฉันได้อ่านและยอมรับ&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัวของ hungama &lt;/a>&lt;/font>&lt;/Data></string>
-    <string name="read_and_agree_joox_protocol">&lt;Data>ฉันได้อ่านและยอมรับ&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัวของ JOOX&lt;/a>&lt;/font>&lt;/Data></string>
-    <string name="read_and_agree_mi_protocol">&lt;Data>ฉันได้อ่านและยอมรับ &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a>&lt;/font> และ &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a>&lt;/font> ของ Xiaomi&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol"><Data>ฉันได้อ่านและยอมรับ&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัวของ hungama &lt;/a>&lt;/font></Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>ฉันได้อ่านและยอมรับ&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัวของ JOOX&lt;/a>&lt;/font></Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>ฉันได้อ่านและยอมรับ &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a>&lt;/font> และ &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a>&lt;/font> ของ Xiaomi</Data></string>
     <string name="read_and_agree_protocol">อ่านและยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเราก่อนที่จะดำเนินการต่อ</string>
     <string name="ready_to_play">เล่นต่อจากนี้</string>
     <string name="recently_played">เล่นล่าสุด</string>
@@ -1219,7 +1273,6 @@
     <string name="recommend_songs_when_playing_audio_files">รับคำแนะนำเพลงขณะฟังเพลง</string>
     <string name="recommended_file_size_download_in_mobile">ใช้เครือข้อมูลมือถือ %s สำหรับการดาวน์โหลดไฟล์นี้?</string>
     <string name="recommended_no_file_size_download_in_mobile">ใช้การเชื่อมต่อเครือข้อมูลมือถือสำหรับการดาวน์โหลดไฟล์นี้?</string>
-    <string name="refresh">รีเฟรช</string>
     <string name="remove">ลบ</string>
     <string name="remove_download">ลบออก</string>
     <string name="remove_user_privacy_dialog_message">การสับสวิตช์จะเป็นการเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ Mi เพลง เราจะหยุดรวบรวมข้อมูลส่วนบุคคลของคุณ ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้แล้วจะถูกลบภายในช่วงเวลาที่กำหนดตามที่กฎหมายบังคับ Mi เพลง จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการขั้นพื้นฐานแก่คุณ การถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวจะถือเป็นการปฏิเสธที่จะยอมรับบริการตามข้อมูลส่วนบุคคลที่รวบรวม</string>
@@ -1236,6 +1289,7 @@
     <string name="retry_after_network_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ กรุณาตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง</string>
     <string name="retry_download">ลองอีกครั้ง</string>
     <string name="revoke_upload_playlist_to_hungama_toast">เพลงออนไลน์จะไม่ถูกซิงค์กับ hungama</string>
+    <string name="reward_received">คุณได้รับสมาชิกวีไอพี!</string>
     <string name="ringtone_editing">ตัวแก้ไขเสียงเรียกเข้า</string>
     <string name="ringtone_not_support">ระบบไม่รองรับประเภทไฟล์ของเพลงนี้</string>
     <string name="ringtone_selected">เลือกแล้ว</string>
@@ -1286,6 +1340,7 @@
     <string name="select_local_cover">เลือกหน้าปกในเครื่อง</string>
     <string name="select_local_lyric">เลือกไฟล์</string>
     <string name="select_local_lyric_file">เลือกไฟล์เพลงในเครื่อง</string>
+    <string name="select_lyrics_copy">เลือกและคัดลอกข้อความเนื้อเพลง</string>
     <string name="select_none">ไม่เลือกทั้งหมด</string>
     <string name="select_one_language">เลือกอย่างน้อย %d ภาษา</string>
     <string name="select_three_languages">คุณสามารถเลือกได้ถึง %d ภาษา</string>
@@ -1329,6 +1384,7 @@
     <string name="similar_songs">เพลงที่คล้ายกัน</string>
     <string name="similar_videos">วิดีโอที่คล้ายกัน</string>
     <string name="skip">ข้าม</string>
+    <string name="skip_ad">ข้าม</string>
     <string name="sleep_mode">ตั้งเวลาพักหน้าจอ</string>
     <string name="sleep_mode_canceled">โหมดพักหน้าจอปิดใช้งาน</string>
     <string name="sleep_mode_summary">หยุดการเล่นเพลงในเวลาที่กำหนด</string>
@@ -1344,6 +1400,7 @@
     <string name="song_offline">ไม่สามารถเล่นเพลงนี้ได้อีก</string>
     <string name="song_picker_complete">เสร็จสิ้น</string>
     <string name="song_quality_category">เพลง</string>
+    <string name="song_swipe_navigation">ปัดไปทางซ้ายหรือขวาเพื่อเปลี่ยนเพลง</string>
     <string name="songgroup_pick_album">อัลบั้ม</string>
     <string name="songgroup_pick_playlist">รายการเพลง</string>
     <string name="sort_by_name">ชื่อ</string>
@@ -1353,6 +1410,7 @@
     <string name="start_to_download">กำลังดาวน์โหลด…</string>
     <string name="start_to_play">กำลังเตรียมเล่น…</string>
     <string name="start_update">กำลังติดตั้งเวอร์ชันใหม่…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">ที่จัดเก็บข้อมูลแอปโคลน</string>
     <string name="storage_internal">ที่จัดเก็บภายใน</string>
     <string name="storage_sd_card">SD การ์ด</string>
@@ -1492,6 +1550,127 @@
     <string name="tomorrow">พรุ่งนี้</string>
     <string name="top_chart_title">อันดับเพลง</string>
     <string name="track_play_history_after_login">ลงชื่อเข้าใช้เพื่อดูประวัติการเล่น</string>
+    <string name="tt_00_00">00:00</string>
+    <string name="tt_ad">โฆษณา</string>
+    <string name="tt_ad_clicked_text">โฆษณาที่คลิกแล้ว</string>
+    <string name="tt_ad_close_text">ปิดโฆษณาแล้ว</string>
+    <string name="tt_ad_data_error">Response data error</string>
+    <string name="tt_ad_is_closed">ปิดโฆษณา</string>
+    <string name="tt_ad_logo_txt">AD</string>
+    <string name="tt_ad_showed_text">โฆษณาที่แสดง</string>
+    <string name="tt_adslot_empty">No request ad slot</string>
+    <string name="tt_adslot_id_error">Illegal ad slot id</string>
+    <string name="tt_adslot_size_empty">Empty ad slot size</string>
+    <string name="tt_adtype_not_match_rit">Ad slot id error</string>
+    <string name="tt_app_empty">No request app</string>
+    <string name="tt_app_name">tt_open_ad_sdk</string>
+    <string name="tt_auto_play_cancel_text">ยกเลิก</string>
+    <string name="tt_banner_ad_load_image_error">Banner loading failed</string>
+    <string name="tt_cancel">ยกเลิก</string>
+    <string name="tt_choose_language">th</string>
+    <string name="tt_click_to_replay">แตะเพื่อเล่นซ้ำ</string>
+    <string name="tt_comment_num">%1$s รีวิว</string>
+    <string name="tt_comment_num_backup">%1$s รีวิว</string>
+    <string name="tt_comment_score">การประเมินผล</string>
+    <string name="tt_confirm_download">คุณไม่ได้เชื่อมต่อกับเครือข่าย Wi-Fi แน่ใจหรือไม่ว่าคุณต้องการดาวน์โหลด</string>
+    <string name="tt_confirm_download_have_app_name">กำลังเตรียมดาวน์โหลด %s แอป</string>
+    <string name="tt_content_type">Http content type error</string>
+    <string name="tt_count_down_view">ข้าม</string>
+    <string name="tt_dislike_header_tv_back">ย้อนกลับ</string>
+    <string name="tt_dislike_header_tv_title">เลือก</string>
+    <string name="tt_error_access_method_pass">Illegal access method</string>
+    <string name="tt_error_ad_type">Illegal ad type</string>
+    <string name="tt_error_adtype_differ">Ad type error</string>
+    <string name="tt_error_apk_sign_check_error">Illegal apk sha1 value</string>
+    <string name="tt_error_code_adcount_error">Incorrect number of ad</string>
+    <string name="tt_error_code_click_event_error">Click event error</string>
+    <string name="tt_error_image_size">Illegal image size</string>
+    <string name="tt_error_media_id">Illegal media id</string>
+    <string name="tt_error_media_type">Illegal media type</string>
+    <string name="tt_error_new_register_limit">New ad slot exceeded daily request limit</string>
+    <string name="tt_error_origin_ad_error">Origin type error</string>
+    <string name="tt_error_package_name">Package name error</string>
+    <string name="tt_error_redirect">Redirect error</string>
+    <string name="tt_error_request_invalid">Invalid request</string>
+    <string name="tt_error_slot_id_app_id_differ">SlotId and AppId match error</string>
+    <string name="tt_error_splash_ad_type">Splash ad type error</string>
+    <string name="tt_error_union_os_error">Os type error</string>
+    <string name="tt_error_union_sdk_too_old">Sdk version too low</string>
+    <string name="tt_error_unknow">Unknown error</string>
+    <string name="tt_error_verify_reward">Reward verify error</string>
+    <string name="tt_feedback_experience_text">เราจะปรับปรุงการให้บริการของเราต่อไป</string>
+    <string name="tt_feedback_submit_text">คุณได้ส่งคำติชมมาแล้ว คุณไม่จำเป็นต้องส่งอีกครั้ง</string>
+    <string name="tt_feedback_thank_text">ขอบคุณสำหรับคำติชม</string>
+    <string name="tt_frequent_call_erroe">Ad requests are too frequent</string>
+    <string name="tt_full_screen_skip_tx">ข้าม</string>
+    <string name="tt_get_reward">แจกรางวัลแล้ว</string>
+    <string name="tt_insert_ad_load_image_error">Interstitial loading failed</string>
+    <string name="tt_label_cancel">ยกเลิก</string>
+    <string name="tt_label_ok">ตกลง</string>
+    <string name="tt_load_creative_icon_error">Icon loading failed</string>
+    <string name="tt_load_creative_icon_response_error">Icon loading error</string>
+    <string name="tt_load_failed_text">การโหลดโฆษณาล้มเหลว</string>
+    <string name="tt_load_success_text">โหลดโฆษณาสำเร็จแล้ว</string>
+    <string name="tt_msgPlayable">เล่นจนจบเพื่อรับรางวัล</string>
+    <string name="tt_negtiveBtnBtnText">ออก</string>
+    <string name="tt_negtive_txt">ยกเลิก</string>
+    <string name="tt_net_error">Network error</string>
+    <string name="tt_no_ad">No ad</string>
+    <string name="tt_no_ad_parse">Parsing data without ad</string>
+    <string name="tt_no_network">ไม่มีการเชื่อมต่อเครือข่าย โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="tt_no_thank_you">ไม่เป็นไร ขอบคุณ</string>
+    <string name="tt_parse_fail">Parsing error</string>
+    <string name="tt_permission_denied">คุณได้ปิดการใช้งานสิทธิ์ที่จำเป็น โปรดเปิดใช้งานสิทธิ์</string>
+    <string name="tt_postiveBtnText">ดูต่อ</string>
+    <string name="tt_postiveBtnTextPlayable">เล่นต่อ</string>
+    <string name="tt_postive_txt">ตกลง</string>
+    <string name="tt_privacy_title">นโยบายความเป็นส่วนตัว</string>
+    <string name="tt_reder_ad_load_timeout">Template loading timeout</string>
+    <string name="tt_render_diff_template_invalid">Template diff invalid</string>
+    <string name="tt_render_fail_meta_invalid">Template invalid</string>
+    <string name="tt_render_fail_template_parse_error">Template parsing error</string>
+    <string name="tt_render_fail_timeout">Render timeout</string>
+    <string name="tt_render_fail_unknown">Render failed unknown</string>
+    <string name="tt_render_main_template_invalid">Main template invalid</string>
+    <string name="tt_render_render_parse_error">Render parsing failed</string>
+    <string name="tt_request_body_error">Request entity is empty</string>
+    <string name="tt_request_pb_error">Http request pb error</string>
+    <string name="tt_reward_feedback">คำติชม</string>
+    <string name="tt_reward_full_skip">ข้ามหลังจาก %1$s วิ</string>
+    <string name="tt_reward_msg">ดูวิดีโอให้จบเพื่อรับรางวัล</string>
+    <string name="tt_reward_screen_skip_tx">ข้าม</string>
+    <string name="tt_reward_video_show_error">เกิดข้อผิดพลาดในการแสดงผลวิดีโอรางวัล</string>
+    <string name="tt_ror_code_show_event_error">Show event error</string>
+    <string name="tt_skip_ad_time_text">ข้ามหลังจาก %ds วินาที</string>
+    <string name="tt_splash_ad_load_image_error">Splash loading failed</string>
+    <string name="tt_splash_cache_expired_error">Cache expired</string>
+    <string name="tt_splash_cache_parse_error">Cache parsing failed</string>
+    <string name="tt_splash_not_have_cache_error">No splash cache</string>
+    <string name="tt_splash_skip_tv">3 วิ | ข้าม</string>
+    <string name="tt_sys_error">System error</string>
+    <string name="tt_tip">พรอมต์</string>
+    <string name="tt_toast_ad_on_rewarded">Ad on rewarded</string>
+    <string name="tt_toast_later_download">Download later</string>
+    <string name="tt_toast_no_ad">No Ad to Show, Please Load Ad</string>
+    <string name="tt_toast_start_loading">Start Loading</string>
+    <string name="tt_toast_tiktok_ad_failed">TikTok Ad Failed to load, error code is:</string>
+    <string name="tt_try_now">ลองตอนนี้</string>
+    <string name="tt_txt_skip">ข้าม</string>
+    <string name="tt_unlike">ไม่สนใจ</string>
+    <string name="tt_video_bytesize">ข้อมูล</string>
+    <string name="tt_video_bytesize_M">M</string>
+    <string name="tt_video_bytesize_MB">MB</string>
+    <string name="tt_video_continue_play">เล่นต่อ</string>
+    <string name="tt_video_dial_phone">โทรเลย</string>
+    <string name="tt_video_download_apk">ดาวน์โหลดเลย</string>
+    <string name="tt_video_mobile_go_detail">ดูเลย</string>
+    <string name="tt_video_retry_des">การโหลดล้มเหลว คลิกเพื่อลองอีกครั้ง</string>
+    <string name="tt_video_retry_des_txt">การโหลดล้มเหลว โปรดลองอีกครั้ง</string>
+    <string name="tt_video_without_wifi_tips">การเล่นเนื้อหานี้จะใช้อินเทอร์เน็ต %.2f MB</string>
+    <string name="tt_wap_empty">No request wap</string>
+    <string name="tt_web_title_default">โฆษณา</string>
+    <string name="tt_will_play">วิดีโอกำลังจะเล่น</string>
+    <string name="tt_yes_i_agree">ใช่ ฉันยอมรับ</string>
     <string name="tuesday">วันอังคาร</string>
     <string name="tuesday_short">อังคาร</string>
     <string name="tuesday_shortest">อังคาร</string>
@@ -1513,6 +1692,7 @@
     <string name="upload_playlist_to_hungama_title">ซิงค์เพลงออนไลน์กับ hungama เพื่อให้สามารถเข้าถึงได้บนอุปกรณ์อื่นๆ ที่คุณใช้บัญชี Xiaomi ของคุณ</string>
     <string name="upload_playlist_to_hungama_toast">เพลงออนไลน์จะถูกซิงค์กับ hungama</string>
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=th_TH</string>
     <string name="user_experience_program_open">เนื่องจากข้อจำกัดด้านลิขสิทธิ์ คุณต้องลงทะเบียนใน โปรแกรมประสบการณ์ผู้ใช้ เพื่อให้สามารถเล่นเพลงที่ดาวน์โหลด คุณสามารถทำได้ในการตั้งค่า > รหัสผ่านและความปลอดภัย > ความเป็นส่วนตัว > ลงทะเบียนในโปรแกรมประสบการณ์ผู้ใช้</string>
     <string name="user_playlist_plaza">เพลย์ลิสต์</string>
     <string name="user_privacy_dialog_negative_text">ยกเลิก</string>
@@ -1526,6 +1706,7 @@
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="version_info">เวอร์ชั่น</string>
+    <string name="video_loading_fail">ไม่สามารถโหลดวิดีโอได้</string>
     <string name="video_play_cellular">อุปกรณ์ของคุณไม่ได้เชื่อมต่อกับ Wi-fi ใช้ข้อมูลมือถือหรือไม่?</string>
     <string name="video_replay_btn">เล่นอีกครั้ง</string>
     <string name="video_retry_btn">ลองอีกครั้ง</string>
@@ -1534,10 +1715,22 @@
     <string name="vip_required_with_song">%sมีให้สำหรับสมาชิกแบบ Gold เท่านั้น ข้ามเพลงนี้ไปในตอนนี้</string>
     <string name="voice_search_first_hint">ลองการค้นหาด้วยเสียง!</string>
     <string name="watch_video">ดูวีดีโอ</string>
+    <string name="web_reward_dialog_cancle">ยกเลิก </string>
+    <string name="web_reward_dialog_ok">ออก</string>
     <string name="wednesday">วันพุธ</string>
     <string name="wednesday_short">พุธ</string>
     <string name="wednesday_shortest">พุธ</string>
     <string name="welcome_to_entertainment">ตรวจสอบคุณสมบัติความบันเทิงใหม่สำหรับเกมเพลงและอีกมากมาย</string>
+    <string name="whitelist_add_exist">เพลงบางเพลงอยู่ในรายการเพลงในเครื่องแล้วและจะไม่แสดงที่นี่</string>
+    <string name="whitelist_add_failed">ไม่สามารถเพิ่มไฟล์ได้</string>
+    <string name="whitelist_desc_1">หาก Mi เพลง ไม่พบเพลงที่คุณกำลังมองหาบนอุปกรณ์ของคุณ คุณสามารถเพิ่มได้ด้วยตนเอง</string>
+    <string name="whitelist_desc_2">ไฟล์เหล่านี้จะแสดงแม้ว่าขนาดไฟล์และความยาวของเพลงจะไม่ตรงกันหรืออยู่ในโฟลเดอร์ที่ซ่อนอยู่</string>
+    <string name="whitelist_dialog_content">ไฟล์ที่ถูกลบจะไม่ปรากฏในข้อยกเว้นของ Mi เพลง อีกต่อไป แต่จะไม่ถูกลบออกจากอุปกรณ์ของคุณ ลบออกเลยไหม?</string>
+    <string name="whitelist_dialog_title">ลบไฟล์?</string>
+    <string name="whitelist_entrance_desc">เพิ่มไฟล์ด้วยตนเองที่ Mi เพลง ไม่พบโดยอัตโนมัติ</string>
+    <string name="whitelist_entrance_text_1">"ไม่พบเพลง "</string>
+    <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
+    <string name="whitelist_title">รายการยกเว้นไฟล์</string>
     <string name="wifi_required_body" formatted="false">"ต้องเชื่อมต่อกับ Wi-Fi ในการดาวน์โหลด %s. 
 
 แตะ %s เพื่อเริ่มต้นการดาวน์โหลดนี้ในครั้งต่อไปที่คุณเชื่อมต่อกับเครือข่าย Wi-Fi"</string>
@@ -1546,6 +1739,10 @@
     <string name="you_can_switch_mode_in_settings">คุณสามารถสลับระหว่างโหมดในการตั้งค่า</string>
     <string name="you_may_like">คุณอาจจะชอบ</string>
     <string name="you_might_like_it">คุณอาจชอบ</string>
+    <string name="youtube_delete_dialog_cancel">ยกเลิก </string>
+    <string name="youtube_delete_dialog_desc">ลบเพลงนี้ออกจากรายการโปรดตอนนี้?</string>
+    <string name="youtube_delete_dialog_ok">ลบออก</string>
+    <string name="youtube_delete_dialog_title">ลบออกจากรายการโปรด</string>
     <string name="youtube_download_canl">ยกเลิก </string>
     <string name="youtube_download_fail_net">ไม่สามารถเชื่อมต่อกับเครือข่ายได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง</string>
     <string name="youtube_download_fail_source">เกิดข้อผิดพลาด รอประมาณ1-2นาทีแล้วลองอีกครั้ง</string>
@@ -1557,6 +1754,12 @@
     <string name="youtube_download_suc">ดาวน์โหลดเรียบร้อยแล้ว</string>
     <string name="youtube_play_history">ประวัติการเล่น</string>
     <string name="youtube_share_guide_tip">คุณสามารถแชร์วิดีโอกับเพื่อนๆ ได้แล้ว</string>
+    <string name="youtube_store_dialog_desc">คุณสามารถค้นหาวิดีโอออนไลน์ที่คุณเพิ่มไว้ในรายการโปรดได้ที่นี่ หากเคยโหลดวิดีโอมาก่อน คุณจะไม่จำเป็นต้องใช้ข้อมูลมือถือเพื่อดูอีกครั้งในครั้งต่อไป</string>
+    <string name="youtube_store_dialog_ok">รับทราบ</string>
     <string name="youtube_tab_explore">ค้นหา</string>
     <string name="youtube_tab_playlist">เพลย์ลิสต์</string>
+    <string name="youtube_tab_popular">ยอดนิยม</string>
+    <string name="youtube_tab_radar">เรดาร์</string>
+    <string name="youtube_tab_shorts">วีดีโอสั้น</string>
+    <string name="youtube_tab_trend">มาแรง</string>
 </resources>

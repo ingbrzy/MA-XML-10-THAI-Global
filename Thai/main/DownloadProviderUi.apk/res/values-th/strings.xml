@@ -74,6 +74,7 @@
     <string name="continue_download">ดำเนินการต่อ</string>
     <string name="copy">คัดลอก</string>
     <string name="copy_info">คัดลอกไปยังคลิปบอร์ดแล้ว คุณสามารถแชร์กับเพื่อนได้!</string>
+    <string name="copy_toast_msg">คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -131,8 +132,20 @@
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="evening">บ่าย</string>
+    <string name="exo_download_completed">การดาวน์โหลดเสร็จสมบูรณ์</string>
+    <string name="exo_download_description">ดาวน์โหลด</string>
+    <string name="exo_download_downloading">กำลังดาวน์โหลด</string>
+    <string name="exo_download_failed">การดาวน์โหลดล้มเหลว</string>
+    <string name="exo_download_notification_channel_name">ดาวน์โหลด</string>
+    <string name="exo_download_paused">การดาวน์โหลดหยุดชั่วคราว</string>
+    <string name="exo_download_paused_for_network">กำลังรอเครือข่ายเพื่อดาวน์โหลด</string>
+    <string name="exo_download_paused_for_wifi">กำลังรอ Wi-Fi เพื่อดาวน์โหลด</string>
+    <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="extend">เพิ่มเติม</string>
+    <string name="fallback_menu_item_copy_link">คัดลอกลิงก์</string>
+    <string name="fallback_menu_item_open_in_browser">เปิดในเบราว์เซอร์</string>
+    <string name="fallback_menu_item_share_link">แชร์ลิงก์</string>
     <string name="file_size">ขนาด:</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -190,6 +203,9 @@
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
     <string name="gigabyteShort_per_seconds">GB/วิ</string>
+    <string name="icon_create_failure">ไม่สามารถเพิ่มปุ่มลัดได้</string>
+    <string name="icon_create_success">เพิ่มปุ่มลัดเรียบร้อย</string>
+    <string name="icon_restore">แตะเพื่อเพิ่มทางลัดหน้าจอหลักสำหรับดาวน์โหลด</string>
     <string name="info_download_progress">แสดงความคืบหน้าในการดาวน์โหลด</string>
     <string name="info_flow_show">แสดงเนื้อหาที่แนะนำ</string>
     <string name="insufficient_space">พื้นที่จัดเก็บไม่เพียงพอ</string>
@@ -212,15 +228,15 @@
     <string name="midnight">กลางคืน</string>
     <string name="missing_title">&lt;ไม่รู้จัก></string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
     <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
-    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
-    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
@@ -306,6 +322,7 @@
     <string name="preferences_title">การตั้งค่า</string>
     <string name="privacy_agree_dialog_msg">&lt;Data>ยินดีต้อนรับสู่ ดาวน์โหลด! คุณสามารถใช้แอปนี้เพื่อดาวน์โหลดไฟล์&lt;BR>ดาวน์โหลด จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการที่สร้างสถิติการดาวน์โหลดแก่คุณ คุณสามารถเรียนรู้วิธีจัดการข้อมูลที่เรารวบรวมได้ใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา&lt;BR>อ่านและยอมรับ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเราก่อนใช้งาน ดาวน์โหลด&lt;BR>คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของการดาวน์โหลดในการตั้งค่าได้ทุกเมื่อ หากคุณไม่ยอมรับนโยบายความเป็นส่วนตัวของเราคุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอปนี้ได้ อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ&lt;/Data></string>
     <string name="privacy_agree_dialog_title">ข้อตกลงและเงื่อนไข</string>
+    <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="privacy_revoke_dialog_later">ยกเลิก </string>
     <string name="privacy_revoke_dialog_msg">การสับสวิตช์จะเป็นการเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของ ดาวน์โหลด เราจะหยุดรวบรวมข้อมูลส่วนบุคคลของคุณ ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้แล้วจะถูกลบภายในช่วงเวลาที่กำหนดตามที่กฎหมายบังคับ ดาวน์โหลด จำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการที่สร้างสถิติการดาวน์โหลด การถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวจะถือเป็นการปฏิเสธที่จะยอมรับบริการตามข้อมูลส่วนบุคคลที่รวบรวม</string>
     <string name="privacy_revoke_dialog_ok">เพิกถอน</string>

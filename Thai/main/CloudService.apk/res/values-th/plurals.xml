@@ -4,13 +4,13 @@
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+        <item quantity="other">%d ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+        <item quantity="other">ใน %d ชั่วโมง</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ในครึ่งชั่วโมง</item>
@@ -26,6 +26,9 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">พื้นที่เก็บข้อมูลไม่เพียงพอ ไม่สามารถซิงค์รูปภาพ %d</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d รายการบล็อก</item>
@@ -81,6 +84,9 @@
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">ลองอีกครั้งใน %d วินาที</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">ไม่สามารถซิงค์ได้ &lt;font color=#F22424>%s รายการ&lt;/font></item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">ไม่สามารถซิงค์ %s รายการได้</item>
     </plurals>
@@ -116,6 +122,9 @@
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">พื้นที่เก็บข้อมูลเต็ม ไม่สามารถซิงค์ &lt;font color=#F22424>%d แอป&lt;/font></item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>

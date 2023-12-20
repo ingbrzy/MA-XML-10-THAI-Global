@@ -23,6 +23,13 @@
     <string name="bugreport_unreadable_text">ไม่สามารถอ่านไฟล์รายงานข้อบกพร่อง</string>
     <string name="bugreport_updating_title">กำลังเพิ่มรายละเอียดในรายงานข้อบกพร่อง</string>
     <string name="bugreport_updating_wait">โปรดรอสักครู่…</string>
+    <string name="call_notification_answer_action">รับสาย</string>
+    <string name="call_notification_answer_video_action">วิดีโอ</string>
+    <string name="call_notification_decline_action">ปฏิเสธ</string>
+    <string name="call_notification_hang_up_action">วางสาย</string>
+    <string name="call_notification_incoming_text">สายเรียกเข้า</string>
+    <string name="call_notification_ongoing_text">สายที่สนทนาอยู่</string>
+    <string name="call_notification_screening_text">กำลังสกรีนสายเรียกเข้า</string>
     <string name="save">บันทึก</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

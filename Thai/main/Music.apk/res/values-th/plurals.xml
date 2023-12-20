@@ -36,13 +36,13 @@
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+        <item quantity="other">%d ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+        <item quantity="other">ใน %d ชั่วโมง</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ในครึ่งชั่วโมง</item>
@@ -107,6 +107,9 @@
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
+    <plurals name="hide_reason_duration">
+        <item quantity="other">น้อยกว่า %1$d วิ</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">ในอีก 1 ชั่วโมง</item>
     </plurals>
@@ -127,6 +130,9 @@
     </plurals>
     <plurals name="list_header_follow_count">
         <item quantity="other">ติดตามอยู่ %d คน</item>
+    </plurals>
+    <plurals name="media_store_new_songs_add">
+        <item quantity="other">%d เพลงใหม่</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
@@ -149,6 +155,9 @@
     </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d ผู้ติดตาม</item>
+    </plurals>
+    <plurals name="reward_seconds_remaining">
+        <item quantity="other">สมาชิก VIP ใน %d วินาที</item>
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">กำลังเตรียมส่งเพลง %d เพลง</item>
@@ -176,5 +185,14 @@
     </plurals>
     <plurals name="vip_remain_days_hint">
         <item quantity="other">เหลืออีก %d วัน</item>
+    </plurals>
+    <plurals name="web_reward_dialog_title">
+        <item quantity="other">หากคุณดูเป็นเวลา %d วินาที คุณจะได้รับรางวัลเป็นสมาชิก VIP ออกหรือไม่?</item>
+    </plurals>
+    <plurals name="whitelist_multi_added">
+        <item quantity="other">เพิ่มแล้ว %d ไฟล์</item>
+    </plurals>
+    <plurals name="whitelist_multi_added_before">
+        <item quantity="other">%d ไฟล์ถูกเพิ่มก่อนหน้านี้</item>
     </plurals>
 </resources>

@@ -4,13 +4,13 @@
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+        <item quantity="other">%d ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+        <item quantity="other">ใน %d ชั่วโมง</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ในครึ่งชั่วโมง</item>
@@ -27,14 +27,8 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
-    <plurals name="age_label_days">
-        <item quantity="other">%d วัน</item>
-    </plurals>
-    <plurals name="age_label_months">
-        <item quantity="other">%d เดือน</item>
-    </plurals>
-    <plurals name="age_label_yrs">
-        <item quantity="other">ปี</item>
+    <plurals name="delete_msg">
+        <item quantity="other">ลบ %d รายการเดี๋ยวนี้?</item>
     </plurals>
     <plurals name="entries">
         <item quantity="other">%d รายการ</item>
@@ -57,9 +51,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">เมื่อสักครู่</item>
     </plurals>
-    <plurals name="loan_repayment_detail">
-        <item quantity="other">รายละเอียดชำระคืน (%d ปี)</item>
-    </plurals>
     <plurals name="loan_repayment_detail_unit">
         <item quantity="other">รายละเอียดชำระคืน (%d ปี), CNY</item>
     </plurals>
@@ -72,10 +63,31 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
+    <plurals name="select_items">
+        <item quantity="other">เลือก %d รายการ</item>
+    </plurals>
     <plurals name="tenure_months">
         <item quantity="other">%d เดือน</item>
     </plurals>
     <plurals name="tenure_years">
         <item quantity="other">%d ปี</item>
+    </plurals>
+    <plurals name="unit_data_display_data_b">
+        <item quantity="other">ไบต์</item>
+    </plurals>
+    <plurals name="unit_data_display_data_gb">
+        <item quantity="other">กิกะไบต์</item>
+    </plurals>
+    <plurals name="unit_data_display_data_kb">
+        <item quantity="other">กิโลไบต์</item>
+    </plurals>
+    <plurals name="unit_data_display_data_mb">
+        <item quantity="other">เมกะไบต์</item>
+    </plurals>
+    <plurals name="unit_data_display_data_pb">
+        <item quantity="other">เพตะไบต์</item>
+    </plurals>
+    <plurals name="unit_data_display_data_tb">
+        <item quantity="other">เทราไบต์</item>
     </plurals>
 </resources>

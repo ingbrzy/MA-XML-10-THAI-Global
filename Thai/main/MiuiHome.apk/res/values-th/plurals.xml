@@ -33,12 +33,6 @@
     <plurals name="announce_for_unread">
         <item quantity="other">%2$s ยังไม่อ่านจาก %1$s</item>
     </plurals>
-    <plurals name="delete_wallpapers_message">
-        <item quantity="other">ลบภาพพื้นหลัง %1$d ภาพ?</item>
-    </plurals>
-    <plurals name="editing_mode_title">
-        <item quantity="other">เลือก %1$d รายการ</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
@@ -68,7 +62,7 @@
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">ลบ %1$d แอปออกจากหน้าจอหลัก?</item>
+        <item quantity="other">ลบ %1$d รายการออกจากหน้าจอหลัก?</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">หน้า %1$d, %2$d แอป</item>

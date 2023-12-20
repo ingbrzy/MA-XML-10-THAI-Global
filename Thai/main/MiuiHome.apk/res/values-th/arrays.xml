@@ -5,49 +5,10 @@
         <item>สมดุล</item>
         <item>เร็ว</item>
     </string-array>
-    <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
-    <string-array name="cell_layout_size_values">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
     <string-array name="editing_mode_entries">
         <item>ภาพพื้นหลัง</item>
         <item>วิดเจ็ต</item>
         <item>การตั้งค่า</item>
-    </string-array>
-    <string-array name="gadget_weather_image">
-        <item>แจ่มใส</item>
-        <item>มีเมฆ</item>
-        <item>หมอกหนา</item>
-        <item>มีหมอกลง</item>
-        <item>ฝนฟ้าคะนองรุนแรง</item>
-        <item>ฝนฟ้าคะนอง</item>
-        <item>ฝนตกหนักมาก</item>
-        <item>ฟ้าคะนอง</item>
-        <item>ฝนซู่</item>
-        <item>ฝนตกหนัก</item>
-        <item>ฝนตก</item>
-        <item>ฝนละออง</item>
-        <item>ลูกเห็บตก</item>
-        <item>พายุหิมะ</item>
-        <item>หิมะตกหนา</item>
-        <item>หิมะตกหนัก</item>
-        <item>หิมะตก</item>
-        <item>หิมะตกเล็กน้อย</item>
-        <item>พายะทรายรุนแรง</item>
-        <item>พายุทราย</item>
-        <item>พายุทรายเล็กน้อย</item>
-        <item>พายุทราย</item>
-        <item>ลูกเห็บใหญ่</item>
-        <item>ทัศนวิสัยต่ำ</item>
-        <item>มีเมฆหมอก</item>
-    </string-array>
-    <string-array name="gadget_weather_theme_type_entries">
-        <item>ค่าเริ่มต้น</item>
-        <item>คลาสสิก</item>
     </string-array>
     <string-array name="monochrome_color_entries">
         <item>ค่าเริ่มต้น</item>
@@ -55,6 +16,15 @@
         <item>สีเขียว</item>
         <item>สีม่วง</item>
         <item>สีน้ำตาล</item>
+    </string-array>
+    <string-array name="no_word_model_entries">
+        <item>ปิด</item>
+        <item>ที่ไหนก็ได้</item>
+        <item>บนวิดเจ็ต</item>
+    </string-array>
+    <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>ปิด</item>
+        <item>ที่ไหนก็ได้</item>
     </string-array>
     <string-array name="transformation_entries">
         <item>สไลด์</item>
@@ -64,11 +34,5 @@
         <item>เรียงซ้อน</item>
         <item>หมุน</item>
         <item>ลูกบาศก์</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_entries">
-        <item>ธีมเริ่มต้น</item>
-        <item>กลาง</item>
-        <item>ซ้าย</item>
-        <item>ขวา</item>
     </string-array>
 </resources>

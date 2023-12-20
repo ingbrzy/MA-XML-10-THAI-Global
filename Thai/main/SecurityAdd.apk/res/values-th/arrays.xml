@@ -27,6 +27,20 @@
         <item>สมดุล</item>
         <item>คุณภาพสูง</item>
     </string-array>
+    <string-array name="gb_gpu_custom_fps_gear">
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>ต่ำ</item>
+        <item>มาตรฐาน</item>
+        <item>สูง</item>
+        <item>สูงสุด</item>
+        <item>ค่าเริ่มต้น</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>ความเร็วสูง</item>
         <item>สมดุล</item>

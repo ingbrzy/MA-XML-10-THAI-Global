@@ -44,6 +44,7 @@
     <string name="agree">ยอมรับ</string>
     <string name="am">AM</string>
     <string name="app_all_purpose">ยินดีต้อนรับสู่ ตัวจัดการไฟล์! คุณสามารถใช้แอปนี้เพื่อจัดการไฟล์ที่เก็บไว้ในอุปกรณ์ของคุณ</string>
+    <string name="app_all_purpose_global">ยินดีต้อนรับสู่ตัวจัดการไฟล์! คุณสามารถใช้แอปนี้เพื่อดูตัวอย่างและจัดการไฟล์ที่จัดเก็บไว้ในอุปกรณ์ของคุณ</string>
     <string name="app_all_purpose_pad">ยินดีต้อนรับสู่ ตัวจัดการไฟล์! คุณสามารถใช้แอปนี้เพื่อจัดการไฟล์ที่เก็บไว้ในอุปกรณ์ของคุณ</string>
     <string name="app_function">จัดการไฟล์บนอุปกรณ์ของคุณ</string>
     <string name="app_name">ตัวจัดการไฟล์</string>
@@ -52,7 +53,7 @@
     <string name="app_name_downloadedrom">แพ็คเกจ</string>
     <string name="app_name_downloads">ดาวน์โหลด</string>
     <string name="app_name_market">แอปสโตร์</string>
-    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miui">แหล่งข้อมูลระบบ</string>
     <string name="app_name_miuimusic">เพลง</string>
     <string name="app_name_miuiringtone">เสียงเรียกเข้า</string>
     <string name="app_name_miuiwallpaper">ภาพพื้นหลัง</string>
@@ -65,6 +66,13 @@
     <string name="by_name">ชื่อ</string>
     <string name="by_size">ขนาด</string>
     <string name="by_type">ประเภท</string>
+    <string name="call_notification_answer_action">รับสาย</string>
+    <string name="call_notification_answer_video_action">วิดีโอ</string>
+    <string name="call_notification_decline_action">ปฏิเสธ</string>
+    <string name="call_notification_hang_up_action">วางสาย</string>
+    <string name="call_notification_incoming_text">สายเรียกเข้า</string>
+    <string name="call_notification_ongoing_text">สายที่สนทนาอยู่</string>
+    <string name="call_notification_screening_text">กำลังสกรีนสายเรียกเข้า</string>
     <string name="can_not_send_with_too_many">ไม่สามารถส่งไฟล์จำนวนมากในคราวเดียว</string>
     <string name="cancel">ยกเลิก</string>
     <string name="cancel_error">ไม่สามารถลบออกได้ กรุณาลองอีกครั้ง</string>
@@ -145,6 +153,7 @@
     <string name="cloud_transfer_wait_download">กำลังรอดาวน์โหลด</string>
     <string name="cloud_transfer_wait_network">รออินเตอร์เน็ต</string>
     <string name="cloud_transfer_wait_upload">กำลังรออัปโหลด</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
     <string name="compress_fail">ไม่สามารถบีบอัดได้ มีไฟล์ชื่อนี้อยู่ก่อนแล้ว</string>
     <string name="compress_fail_unknown">ไม่สามารถบีบอัดไฟล์ได้ พื้นที่จัดเก็บเต็มหรือเกิดข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="compress_message">บีบอัดไฟล์ไปยัง…</string>
@@ -160,6 +169,7 @@
     <string name="create_folder">สร้าง</string>
     <string name="create_shortcut_success">เพิ่มปุ่มลัดเรียบร้อย</string>
     <string name="cta_function_account_operation">สำหรับการลงชื่อเข้าใช้บัญชี Xiaomi ของคุณอย่างรวดเร็ว</string>
+    <string name="cta_use_sync_midrive_file">สำหรับการซิงค์ไฟล์ไปยัง Mi ไดรฟ์</string>
     <string name="data_consume_dialog_message">คุณกำลังใช้ข้อมูลมือถือ หากคุณดำเนินการต่อ จะใช้ %s ของข้อมูล</string>
     <string name="data_consume_dialog_title">ใช้งานเครือข่ายข้อมูลมือถือ?</string>
     <string name="data_consume_dialog_upload_title">อัปโหลดการใช้ข้อมูลมือถือ</string>
@@ -179,6 +189,7 @@
     <string name="decompress_destination_error">ไม่สามารถแตกไฟล์ไปยังตำแหน่งดังกล่าวได้</string>
     <string name="decompress_encrypted_rar_not_supported">ไม่รองรับการเข้ารหัสไฟล์ RAR</string>
     <string name="decompress_fail">ไม่สามารถแตกไฟล์ได้</string>
+    <string name="decompress_fail_contains_special_characters">ไม่สามารถบีบอัดได้ ชื่อของไฟล์บีบอัดต้องไม่มีอักขระพิเศษ</string>
     <string name="decompress_input_password">ป้อนรหัสผ่าน</string>
     <string name="decompress_password_error">รหัสผ่านที่คุณป้อนไม่ถูกต้อง</string>
     <string name="decompress_success">การแตกไฟล์เสร็จสิ้น</string>
@@ -211,6 +222,9 @@
     <string name="dialog_type_video">วิดีโอ</string>
     <string name="disk_available">ใช้งานได้: </string>
     <string name="disk_total">รวม: </string>
+    <string name="display_all_dirs">โฟลเดอร์ทั้งหมด</string>
+    <string name="display_hide_sys_dirs">โฟลเดอร์ระบบที่ซ่อนอยู่</string>
+    <string name="display_mode">แสดงผล</string>
     <string name="display_setting">รายการที่แสดง</string>
     <string name="doc_all">ทั้งหมด</string>
     <string name="downloading">กำลังดาวน์โหลด</string>
@@ -261,6 +275,7 @@
     <string name="favorite_photo">รูปถ่าย</string>
     <string name="favorite_ringtone">เสียงเรียกเข้า</string>
     <string name="favorite_screen_cap">ภาพหน้าจอ</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">สามารถอ่านได้: </string>
     <string name="file_info_canwrite">สามารถเขียนได้: </string>
     <string name="file_info_ishidden">ซ่อนอยู่: </string>
@@ -330,10 +345,11 @@
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
-    <string name="ftp_account_req_notice">ชื่อผู้ใช้และรหัสผ่านต้องคำนึงถึงขนาดตัวพิมพ์และต้องมี %1$d-%2$d อักขระ คุณสามารถรวม ตัวอักษรภาษาอังกฤษ สัญลักษณ์พิเศษ และตัวเลขได้</string>
+    <string name="ftp_account_req_notice">ชื่อผู้ใช้และรหัสผ่านควรมี %1$d–%2$d อักขระ คำนึงถึงขนาดตัวพิมพ์และไม่ควรมีอักขระพิเศษ</string>
     <string name="ftp_anonymous_login">เข้าสู่ระบบแบบนิรนาม</string>
     <string name="ftp_anonymous_warning_msg">คุณสมบัติการลบข้อมูลระบุตัวตนอาจก่อให้เกิดความเสี่ยงด้านความปลอดภัย ใช้คุณลักษณะนี้ต่อไปหรือไม่?</string>
     <string name="ftp_anonymous_warning_title">โปรดทราบ</string>
+    <string name="ftp_invalid_username">ชื่อผู้ใช้ต้องไม่มีอักขระพิเศษ ป้อนชื่ออื่น</string>
     <string name="ftp_invalid_username_or_password">ชื่อผู้ใช้หรือรหัสผ่านที่คุณป้อนไม่ถูกต้อง</string>
     <string name="ftp_open_port_error">ไม่สามารถเปิดพอร์ต ตรวจสอบการเชื่อมต่อเครือข่ายหรือตั้งค่าหมายเลขพอร์ตใหม่</string>
     <string name="ftp_password_hint">รหัสผ่าน</string>
@@ -341,6 +357,7 @@
     <string name="ftp_transfer_secure">ความปลอดภัย</string>
     <string name="ftp_username_and_passworld">ลงชื่อเข้าใช้</string>
     <string name="ftp_username_hint">ชื่อผู้ใช้</string>
+    <string name="func_settings">การตั้งค่าคุณลักษณะ</string>
     <string name="function_file_operation">สำหรับการแสดงหรือแก้ไขไฟล์</string>
     <string name="function_set_private">สำหรับการดูและเข้ารหัสไฟล์</string>
     <string name="function_use_imei">สำหรับการเข้าถึง IMEI และการเข้ารหัสไฟล์</string>
@@ -378,6 +395,7 @@
     <string name="instruction_pre_pad">จัดการไฟล์บนอุปกรณ์นี้โดยใช้คอมพิวเตอร์</string>
     <string name="instruction_pre_phone">จัดการไฟล์บนอุปกรณ์นี้โดยใช้คอมพิวเตอร์</string>
     <string name="internal_storage">ที่จัดเก็บภายใน</string>
+    <string name="internal_storage_device">อุปกรณ์</string>
     <string name="just_now">เมื่อสักครู่</string>
     <string name="lack_perm_msg">ตัวจัดการไฟล์ ต้องการการอนุญาตต่อไปนี้เพื่อให้ทำงานตามปกติ: &lt;b>%s&lt;/b></string>
     <string name="lack_perm_title">ต้องการการอนุญาต</string>
@@ -401,6 +419,7 @@
     <string name="manage_cloud_space">จัดการที่เก็บข้อมูลบนคลาวด์</string>
     <string name="menu_item_cleanup">ทำความสะอาด</string>
     <string name="menu_item_ftp">FTP</string>
+    <string name="menu_item_midrop">โอนไฟล์</string>
     <string name="menu_item_router">เราเตอร์</string>
     <string name="menu_item_search">ค้นหา</string>
     <string name="menu_item_sort">เรียงตาม</string>
@@ -448,20 +467,23 @@
     <string name="mirror_tip_refresh">รีเฟรช</string>
     <string name="mirror_tip_show_type">เรียงตาม</string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
     <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
-    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
-    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_select_all_description">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_select_item">เลือกรายการ</string>
+    <string name="miuix_navigator_content_switch_description">แสดงแถบด้านข้าง</string>
+    <string name="miuix_navigator_multiple_choice">เลือก</string>
+    <string name="miuix_navigator_navigator_switch_description">ซ่อนแถบด้านข้าง</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">รีเฟรชสำเร็จแล้ว</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">กำลังรีเฟรช…</string>
@@ -521,6 +543,8 @@
     <string name="mtp_device">อุปกรณ์สื่อมีเดีย (MTP)</string>
     <string name="mtp_label">MTP</string>
     <string name="name_empty">ป้อนชื่อ</string>
+    <string name="navigator_label_all_files">ไฟล์ทั้งหมด</string>
+    <string name="navigator_label_external_devices">อุปกรณ์ภายนอก</string>
     <string name="need_open_content">อนุญาตให้ตัวจัดการไฟล์เข้าถึงรูปภาพและไฟล์ของคุณเพื่อใช้คุณสมบัตินี้</string>
     <string name="need_open_permission">ต้องการการอนุญาต</string>
     <string name="need_read_storage_permission">ตัวจัดการไฟล์ ต้องการสิทธิ์ในการเข้าถึงที่เก็บข้อมูลของอุปกรณ์เพื่อให้ทำงานได้ตามปกติ</string>
@@ -563,6 +587,8 @@
     <string name="operation_compress">บีบอัด</string>
     <string name="operation_compressing">กำลังบีบอัด…</string>
     <string name="operation_copy">คัดลอก</string>
+    <string name="operation_copy_clipboard">คัดลอกไปยังคลิปบอร์ด</string>
+    <string name="operation_copy_local">คัดลอกไปยังโฟลเดอร์</string>
     <string name="operation_create_folder">สร้างโฟลเดอร์</string>
     <string name="operation_create_folder_message">ตั้งชื่อโฟลเดอร์</string>
     <string name="operation_create_folder_name_conflict">ไม่สามารถสร้างโฟลเดอร์ได้ มีโฟลเดอร์ชื่อนี้อยู่แล้ว</string>
@@ -573,6 +599,7 @@
     <string name="operation_decompressing">กำลังแตกไฟล์…</string>
     <string name="operation_del_fav">กำลังนำออกจากรายการโปรด…</string>
     <string name="operation_delete">ลบ</string>
+    <string name="operation_delete_confirm_dcim_message_folder">DCIM เป็นโฟลเดอร์คลังภาพ หากคุณลบโฟลเดอร์นี้ รายการทั้งหมดที่อยู่ภายในจะถูกลบออกจากคลังภาพอย่างถาวรด้วย ต้องการลบโฟลเดอร์นี้หรือไม่?</string>
     <string name="operation_delete_confirm_message">ลบ?</string>
     <string name="operation_delete_confirm_message_folder">"ข้อมูลในโฟลเดอร์ทั้งหมดถูกลบ
 "</string>
@@ -636,7 +663,7 @@
     <string name="overwrite_msg">\"%s\" มีอยู่แล้ว แตะเพื่อแทนที่ด้วยไฟล์ใหม่</string>
     <string name="pad">แท็บเล็ต</string>
     <string name="pad_homepage_tab_file_view_phone">แท็บเล็ต</string>
-    <string name="pad_start_phone">พื้นที่จัดเก็บ</string>
+    <string name="pad_start_phone">พื้นที่จัดเก็บข้อมูล</string>
     <string name="partial_cancel_successful">ไม่สามารถลบไฟล์บางไฟล์ได้ ย้ายไฟล์ตกค้างไปยัง %s</string>
     <string name="partial_delete_failure">ไม่สามารถลบไฟล์บางส่วนได้ กรุณาลองอีกครั้ง</string>
     <string name="partial_encrypt_success">ไม่สามารถตั้งไฟล์บางส่วนให้เป็นไฟล์ลับได้ กรุณาลองอีกครั้ง</string>
@@ -648,12 +675,16 @@
     <string name="permission_account_title_pad">เข้าถึงบัญชีอุปกรณ์</string>
     <string name="permission_denial">ไม่สามารถเข้าถึงไฟล์ได้ อนุญาตให้ตัวจัดการไฟล์เข้าถึงไฟล์ในการตั้งค่า</string>
     <string name="permission_description">รายละเอียดการอนุญาต</string>
+    <string name="permission_group_description_phone">เมื่อคุณตั้งค่าไฟล์ให้เป็นส่วนตัว แอปนี้จะรวบรวม IMEI ของอุปกรณ์เพื่อจุดประสงค์ในการจดจำ การจัดเก็บ และการปลดล็อค</string>
+    <string name="permission_group_description_storage_space">เข้าถึงและเพิ่มรายการไปยังที่เก็บข้อมูล</string>
+    <string name="permission_group_name_phone">โทรศัพท์</string>
+    <string name="permission_group_name_storage_space">พื้นที่จัดเก็บ</string>
     <string name="permission_required">ไม่สามารถเข้าถึงไฟล์ได้ อนุญาตให้ตัวจัดการไฟล์เข้าถึงไฟล์ในการตั้งค่า</string>
     <string name="permission_storage_desc_pad">สำหรับบันทึกรูปภาพและเอกสารลงในอุปกรณ์ของคุณ</string>
     <string name="permission_storage_title">เข้าถึงที่เก็บข้อมูลอุปกรณ์</string>
     <string name="permission_storage_title_pad">เข้าถึงที่เก็บข้อมูลอุปกรณ์</string>
-    <string name="phone">พื้นที่จัดเก็บภายใน</string>
-    <string name="phone_storage">พื้นที่จัดเก็บ</string>
+    <string name="phone">พื้นที่จัดเก็บข้อมูล</string>
+    <string name="phone_storage">พื้นที่จัดเก็บข้อมูล</string>
     <string name="phone_storage_apk_title">ไฟล์ APK: </string>
     <string name="phone_storage_audio_title">เพลง: </string>
     <string name="phone_storage_cal">กำลังตรวจสอบ…</string>
@@ -670,6 +701,7 @@
     <string name="pick_folder">เลือกโฟลเดอร์</string>
     <string name="pm">PM</string>
     <string name="port_range">พอร์ตต้องอยู่ระหว่าง 1024-65535</string>
+    <string name="positive_order">ไปข้างหน้า</string>
     <string name="pre_privacy_recall">การเพิกถอนความยินยอม</string>
     <string name="pref_permission_allowed">ยินยอมแล้ว</string>
     <string name="pref_permission_manage_key_storage">เข้าถึงรูปภาพและไฟล์บนอุปกรณ์</string>
@@ -677,7 +709,7 @@
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="privacy_policy_renew">นโยบายความเป็นส่วนตัวที่อัปเดตแล้ว</string>
-    <string name="privacy_policy_renew_content">&lt;Data>&lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของตัวจัดการไฟล์ได้รับการอัปเดตแล้ว เพื่อให้เข้าใจถึงสิทธิ์ของคุณในฐานะผู้ใช้ตลอดจนวิธีที่เราใช้ข้อมูลของคุณอย่างถ่องแท้ โปรดอ่านและยอมรับนโยบายความเป็นส่วนตัวเวอร์ชันใหม่ก่อนที่จะดำเนินการต่อ&lt;/Data></string>
+    <string name="privacy_policy_renew_content"><Data>&lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของตัวจัดการไฟล์ได้รับการอัปเดตแล้ว เพื่อให้เข้าใจถึงสิทธิ์ของคุณในฐานะผู้ใช้ตลอดจนวิธีที่เราใช้ข้อมูลของคุณอย่างถ่องแท้ โปรดอ่านและยอมรับนโยบายความเป็นส่วนตัวเวอร์ชันใหม่ก่อนที่จะดำเนินการต่อ</Data></string>
     <string name="privacy_recall_alert_description" formatted="false">ล้างรายการทั้งหมดจาก Mi ไดรฟ์ เพื่อให้สามารถเพิกถอนความยินยอมได้ ทำตามขั้นตอนเหล่านี้เพื่อล้างรายการ:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g> ในหน้าเริ่มต้นของ Mi ไดรฟ์ ให้กดรายการค้างไว้เพื่อให้ปุ่ม \"เลือกทั้งหมด\" ปรากฏขึ้น ใช้ปุ่มนี้เพื่อเลือกไฟล์ได้สูงสุด 200 ไฟล์ในแต่ละครั้งและลบออก&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g> หลังจากนี้ ให้ล้างรายการที่เพิ่งลบไป</string>
     <string name="privacy_recall_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g> เราขอแนะนำให้สำรองข้อมูลรายการของคุณก่อนที่จะลบ โดยไปที่ i.mi.com คลิก Mi ไดรฟ์ และดาวน์โหลดรายการของคุณไปยังคอมพิวเตอร์&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g> โปรดทราบว่ารายการที่เพิ่งลบไปล่าสุดไม่สามารถกู้คืนได้หลังจากที่คุณลบออกแล้ว</string>
     <string name="privacy_recall_confirm_button">เพิกถอน</string>
@@ -699,6 +731,9 @@
     <string name="qq_title">ไม่สามารถเข้าถึงเอกสาร WeChat ได้</string>
     <string name="query_quota_exception">เซิร์ฟเวอร์ผิดพลาด กรุณารอสักครู่และลองอีกครั้ง</string>
     <string name="query_quota_searching">รอสักครู่…</string>
+    <string name="recent_file_by_source">แหล่งที่มาของไฟล์</string>
+    <string name="recent_file_sort_by_date">วันที่</string>
+    <string name="recent_file_sort_type">เรียงตาม</string>
     <string name="recent_hide_camera_and_screenshots">อย่าแสดงรายการคลังภาพและภาพหน้าจอระหว่างไฟล์ล่าสุด</string>
     <string name="recent_hide_cloud_drive_files">ไม่แสดงไฟล์ Mi ไดรฟ์ ในรายการล่าสุด</string>
     <string name="refresh_success">รีเฟรชเสร็จสิ้น</string>
@@ -720,6 +755,7 @@
     <string name="request_timeout">การร้องขอเครือข่ายเกินเวลาที่กำหนด</string>
     <string name="reset_password">เปลี่ยนรหัสผ่าน</string>
     <string name="restoring">กำลังเรียกคืนค่า…</string>
+    <string name="reverse_order">ย้อนกลับ</string>
     <string name="rlv_last_refreshing_time">อัปเดตล่าสุด %1$s</string>
     <string name="rlv_loading_more">รอสักครู่…</string>
     <string name="rlv_pull_to_refresh">ลากลงเพื่อรีเฟรช</string>
@@ -733,6 +769,7 @@
     <string name="search_app_more">เพิ่มเติม</string>
     <string name="search_category">หมวดหมู่</string>
     <string name="search_category_folder">โฟลเดอร์</string>
+    <string name="search_category_type">ค้นหาตามหมวดหมู่</string>
     <string name="search_description">ค้นหาไฟล์ทั้งหมดบนอุปกรณ์</string>
     <string name="search_empty_view_hint">ไม่พบข้อมูล</string>
     <string name="search_error_hint">ค้นหา</string>
@@ -748,11 +785,13 @@
     <string name="search_more_category">เพิ่มเติม</string>
     <string name="search_result">ผลลัพธ์</string>
     <string name="search_result_more">เพิ่มเติม</string>
+    <string name="search_text_hint">ค้นหาไฟล์</string>
     <string name="search_title">ค้นหา</string>
     <string name="search_title_hint">ค้นหา</string>
     <string name="select_dest_folder">เลือกโฟลเดอร์</string>
     <string name="select_image">รูปภาพ</string>
     <string name="select_music">ไฟล์เสียง</string>
+    <string name="select_pdf">เลือก PDF</string>
     <string name="select_video">ไฟล์วิดีโอ</string>
     <string name="select_volume">เลือกตำแหน่งพื้นที่จัดเก็บ</string>
     <string name="send">ส่ง</string>
@@ -762,6 +801,7 @@
     <string name="set_pattern">อัปเดตรหัสผ่านของคุณ</string>
     <string name="set_pattern_btn">ตั้ง</string>
     <string name="set_pattern_msg">ตั้งรหัสผ่านของคุณอีกครั้ง รหัสผ่านการปกป้องความเป็นส่วนตัวยังใช้งานได้กับภาพถ่ายข้อความและบันทึกย่อ</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">เล็กกว่า %d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
@@ -774,8 +814,10 @@
     <string name="sort_hint_name">จัดเรียงตามชื่อ</string>
     <string name="sort_hint_time">จัดเรียงตามวันเวลา</string>
     <string name="sort_hint_type">จัดเรียงตามประเภท</string>
+    <string name="sort_mode">เรียงลำดับ</string>
     <string name="sort_size_asc">เล็กไปใหญ่</string>
     <string name="sort_size_desc">ใหญ่ไปเล็ก</string>
+    <string name="sort_type">ตัวกรอง</string>
     <string name="start_all">เรียกดูทั้งหมด</string>
     <string name="start_doc">เอกสาร</string>
     <string name="start_phone">ไฟล์</string>
@@ -863,6 +905,7 @@
     <string name="title_select_volume">เลือกโฟลเดอร์</string>
     <string name="to_open">การตั้งค่า</string>
     <string name="to_setting">การตั้งค่า</string>
+    <string name="toast_copy_clipboard">เพิ่มไปยังคลิปบอร์ดแล้ว</string>
     <string name="toast_file_not_can_read">ไม่มีแอปที่สามารถดำเนินการได้</string>
     <string name="today">วันนี้</string>
     <string name="tomorrow">พรุ่งนี้</string>
@@ -898,7 +941,10 @@
     <string name="v7_preference_on">เปิด</string>
     <string name="video_data_consume_dialog_confirm">ดำเนินต่อ</string>
     <string name="video_data_consume_dialog_title">ใช้งานข้อมูลมือถือ?</string>
+    <string name="view_mode_grid">กรอบ</string>
+    <string name="view_mode_list">รายการ</string>
     <string name="view_type">ดู</string>
+    <string name="view_type_mode">แผนผัง</string>
     <string name="web_sso_login_fail">กรุณาลงชื่อเข้าใช้อีกครั้ง</string>
     <string name="web_sso_login_message">กำลังเข้าสู่ระบบ…</string>
     <string name="webview_reload">ลองอีกครั้ง</string>

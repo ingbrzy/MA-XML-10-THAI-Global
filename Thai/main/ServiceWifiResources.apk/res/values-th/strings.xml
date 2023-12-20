@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">ยอมรับ</string>
+    <string name="apm_enabled_first_time_message">อุปกรณ์จำว่าจะต้องเปิด Wi-Fi ไว้ในโหมดบนเครื่องบิน ปิด Wi-Fi หากคุณไม่ต้องการให้เปิดไว้</string>
+    <string name="apm_enabled_first_time_title">Wi-Fi เปิดอยู่</string>
     <string name="decline">ปฏิเสธ</string>
     <string name="dlg_ok">ตกลง</string>
+    <string name="notification_channel_apm_alerts">การแจ้งเตือนเกี่ยวกับ APM</string>
     <string name="notification_channel_network_alerts">การแจ้งเตือนเครือข่าย</string>
     <string name="notification_channel_network_available">มีเครือข่ายพร้อมใช้งาน</string>
     <string name="notification_channel_network_status">สถานะเครือข่าย</string>
@@ -21,6 +24,10 @@
 %1$s
 
 "</string>
+    <string name="wifi_ca_cert_dialog_message_expiration_text">"วันหมดอายุของใบรับรอง:
+%1$s
+
+"</string>
     <string name="wifi_ca_cert_dialog_message_hint">"อนุญาตให้เครือข่ายนี้เชื่อมต่อเฉพาะในกรณีที่ข้อมูลด้านล่างดูถูกต้อง
 
 "</string>
@@ -36,12 +43,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"ลายเซ็น:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"ลายนิ้วมือ SHA-256:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">ไม่เชื่อมต่อ</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">ยังต้องการเชื่อมต่อ</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">ยกเลิกการเชื่อมต่อเลย</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">เชื่อมต่อเสมอ</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">เครือข่าย %1$s ไม่มีใบรับรอง</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">ดูวิธีเพิ่มใบรับรอง</string>
     <string name="wifi_ca_cert_dialog_preT_title">ยืนยันเครือข่ายนี้ไม่ได้</string>
@@ -82,14 +89,29 @@
     <string name="wifi_enable_request_dialog_negative_button">ไม่อนุญาต</string>
     <string name="wifi_enable_request_dialog_positive_button">อนุญาต</string>
     <string name="wifi_enable_request_dialog_title">อนุญาตให้ %1$s เปิด Wi‑Fi ใช่ไหม</string>
+    <string name="wifi_enabled_apm_first_time_message">หากเปิด Wi-Fi ไว้ อุปกรณ์จะจำว่าต้องเปิด Wi-Fi ในครั้งถัดไปที่คุณอยู่ในโหมดบนเครื่องบิน</string>
+    <string name="wifi_enabled_apm_first_time_title">Wi‑Fi จะเปิดในโหมดบนเครื่องบิน</string>
     <string name="wifi_interface_priority_approve">อนุญาต</string>
+    <string name="wifi_interface_priority_interface_name_ap">ฮอตสปอต Wi-Fi</string>
+    <string name="wifi_interface_priority_interface_name_ap_bridge">ฮอตสปอต Wi-Fi</string>
+    <string name="wifi_interface_priority_interface_name_nan">Wi‑Fi Aware</string>
+    <string name="wifi_interface_priority_interface_name_p2p">Wi-Fi Direct</string>
+    <string name="wifi_interface_priority_interface_name_sta">STA</string>
     <string name="wifi_interface_priority_message">การดำเนินการนี้อาจทำให้เกิดปัญหากับ %3$s</string>
     <string name="wifi_interface_priority_message_plural">การดำเนินการนี้อาจทำให้เกิดปัญหากับแอปเหล่านี้: %3$s</string>
     <string name="wifi_interface_priority_reject">ไม่อนุญาต</string>
     <string name="wifi_interface_priority_title">%1$s ต้องการใช้ทรัพยากรเครือข่าย</string>
+    <string name="wifi_network_disabled_by_admin_button">ปิด</string>
+    <string name="wifi_network_disabled_by_admin_message">ผู้ดูแลระบบปิดใช้ %1$s</string>
+    <string name="wifi_network_disabled_by_admin_title">เครือข่ายไม่พร้อมใช้งาน</string>
+    <string name="wifi_network_switch_dialog_negative_button">ไม่เปลี่ยน</string>
+    <string name="wifi_network_switch_dialog_positive_button">เปลี่ยน</string>
+    <string name="wifi_network_switch_dialog_title_bad_internet">%1$s มีคุณภาพต่ำ เปลี่ยนเป็น %2$s ไหม</string>
+    <string name="wifi_network_switch_dialog_title_no_internet">ดูเหมือนว่า %1$s จะไม่ได้เชื่อมต่ออินเทอร์เน็ต เปลี่ยนเป็น %2$s ไหม</string>
     <string name="wifi_p2p_enter_pin_message">พิมพ์ PIN ที่ต้องการ:</string>
     <string name="wifi_p2p_frequency_conflict_message">โทรศัพท์จะยกเลิกการเชื่อมต่อกับ WiFi ชั่วคราวในขณะที่เชื่อมต่อกับ %1$s</string>
     <string name="wifi_p2p_from_message">จาก:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0,plural, =1{ตอบรับภายใน # วินาที}other{ตอบรับภายใน # วินาที}}</string>
     <string name="wifi_p2p_invitation_sent_title">ส่งข้อความเชิญแล้ว</string>
     <string name="wifi_p2p_invitation_to_connect_title">ข้อความเชิญเพื่อเชื่อมต่อ</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
