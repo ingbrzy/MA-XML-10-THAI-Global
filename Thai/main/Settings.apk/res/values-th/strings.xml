@@ -1816,7 +1816,6 @@ aptX Adaptive: โหมด Codec"</string>
 หากคุณได้ทำการใดๆข้างต้นไปแล้ว เพิ่มบัญชี Mi ของคุณอีกครั้ง; มิฉะนั้นคุณจะไม่สามารถปลดล็อกอุปกรณ์ของคุณได้"</string>
     <string name="bootloader_tips_ok">รับทราบ</string>
     <string name="bootloader_tips_warning">อย่าตัดการเชื่อมต่อจากเครือข่าย, ลงชื่อออกจากบัญชี Mi,​ ดำเนินการคืนค่าเริ่มต้นจากโรงงาน หรือลบข้อมูลระบบ</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">ฟังก์ชั่นของปุ่มเพิ่มเติม</string>
     <string name="bottomsheet_action_expand_halfway">ขยายรายการครึ่งหนึ่ง</string>
     <string name="breathing_light_color_menu_title">สีของไฟ</string>
@@ -2921,7 +2920,6 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="dialog_wifi_context">คุณต้องเชื่อมต่ออินเทอร์เน็ตเพื่อตั้งค่าอุปกรณ์ของคุณ อาจมีการใช้ข้อมูลมือถือเว้นแต่คุณจะเชื่อมต่อกับ Wi-Fi การใช้ข้อมูลมือถืออาจทำให้เกิดค่าธรรมเนียมเพิ่มเติมจากผู้ให้บริการ ใช้เน็ตมือถือต่อไปไหม?</string>
     <string name="dialog_wifi_title">ใช้ข้อมูลมือถือ</string>
     <string name="dialog_yes">ใช่</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">หมายเหตุ: หลังจากรีบูตแอปนี้จะไม่เริ่มจนกว่าคุณจะปลดล็อกอุปกรณ์ของคุณ</string>
     <string name="disable_overlays">ปิดใช้งานการวางซ้อน HW</string>
     <string name="disable_overlays_summary">ใช้ GPU ในการจัดวางองค์ประกอบหน้าจอเสมอ</string>
@@ -3007,7 +3005,6 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="dndm_auto_button_title">ใช้โหมดห้ามรบกวนเวลานี้ตลอด</string>
     <string name="dndm_auto_setting_group">กำหนดเวลา</string>
     <string name="dndm_auto_time_setting">ตั้งเวลา</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">ถึง</string>
     <string name="dndm_auto_time_turn_off_title">ปิดใช้โหมดห้ามรบกวนโดยอัตโนมัติ</string>
     <string name="dndm_auto_time_turn_on">จาก</string>
@@ -4706,7 +4703,6 @@ Xiaomi คลาวด์
     <string name="lights_title">ไฟ LED</string>
     <string name="line_breaking_summary">เพิ่มประสิทธิภาพการตัดบรรทัดย่อหน้า</string>
     <string name="line_breaking_title">เพิ่มประสิทธิภาพข้อความ</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="link_turbo_prompt">สถิติในหน้านี้แสดงจำนวนข้อมูลที่ใช้สำหรับเพิ่มความเร็วการเชื่อมต่อ Wi-Fi เท่านั้น สถิติเหล่านี้ไม่ได้สะท้อนการใช้งานข้อมูลมือถือจริง</string>
     <string name="link_turbo_settings_all_app_display_loading">รอสักครู่…</string>
     <string name="link_turbo_settings_all_app_reach_max">คุณสามารถเลือกได้มากสุด 15 แอป</string>
@@ -5314,7 +5310,6 @@ PIN จะช่วยปกป้องโทรศัพท์ในกรณ�
     <string name="memory_usage">การใช้หน่วยความจำ</string>
     <string name="memory_usage_apps">หน่วยความจำที่แอปใช้</string>
     <string name="memory_usage_apps_summary">{count,plural, =1{1 แอปใช้หน่วยความจำในช่วง {time}ที่ผ่านมา}other{# แอปใช้หน่วยความจำในช่วง {time}ที่ผ่านมา}}</string>
-    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">ใช้หน่วยความจำเฉลี่ย %1$s ใน 3 ชั่วโมงล่าสุด</string>
     <string name="memorycard_calculating">กำลังคำนาณ…</string>
     <string name="memtag_footer">คุณจะต้องรีสตาร์ทอุปกรณ์เพื่อเปิดหรือปิดการป้องกันหน่วยความจำขั้นสูง และอาจสังเกตเห็นว่าประสิทธิภาพของอุปกรณ์ช้าลงเมื่อฟีเจอร์นี้เปิดอยู่</string>
@@ -6071,7 +6066,6 @@ PIN จะช่วยปกป้องโทรศัพท์ในกรณ�
     <string name="nfc_more_details">ดูข้อมูลเพิ่มเติม</string>
     <string name="nfc_more_title">เพิ่มเติม…</string>
     <string name="nfc_notification_mode_title">การแจ้งเตือนการอ่านการ์ด NFC</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">ตั้งเป็นค่าเริ่มต้น</string>
     <string name="nfc_payment_btn_text_update">อัปเดต</string>
     <string name="nfc_payment_default">แอปชำระเงินเริ่มต้น</string>
@@ -6668,7 +6662,6 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="power_cell">เครือข่ายมือถือ</string>
     <string name="power_center">การเพิ่มประสิทธิภาพแบตเตอรี่</string>
     <string name="power_charge_remaining">อีก %1$s จะชาร์จเต็ม</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - อีก %2$s จึงจะเต็ม</string>
     <string name="power_charging_future_paused">%1$s - เพิ่มประสิทธิภาพการชาร์จ</string>
     <string name="power_charging_limited">%1$s - เพิ่มประสิทธิภาพการชาร์จ</string>
@@ -6725,7 +6718,6 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="power_remaining_less_than_duration_only">เหลือน้อยกว่า %1$s</string>
     <string name="power_remaining_more_than_subtext">เหลืออีกกว่า %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">เหลืออีกกว่า %1$s</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">หน้าจอ</string>
     <string name="power_settings_title">ประสิทธิภาพของระบบ</string>
     <string name="power_suggestion_battery_run_out">แบตเตอรี่อาจหมดภายใน %1$s</string>
@@ -6976,7 +6968,6 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="privileged_action_disable_sub_dialog_title">ต้องการปิดใช้ %1$s ไหม</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">ปิดซิมใช่ไหม</string>
     <string name="process_dex2oat_label">การเพิ่มประสิทธิภาพแอป</string>
-    <string name="process_kernel_label">ระบบปฏิบัติการ Android</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_network_tethering">การเชื่อมต่ออินเทอร์เน็ตผ่านมือถือ</string>
     <string name="process_provider_in_use_description">ตัวให้บริการ %1$s ถูกใช้งานอยู่</string>
@@ -7770,7 +7761,6 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="security_encryption_attention_3">คุณจะต้องตั้งค่าการล็อกหน้าจอใหม่</string>
     <string name="security_encryption_attention_4">ตรวจสอบให้แน่ใจว่าคุณจำการล็อกหน้าจอไม่เช่นนั้นคุณจะต้องทำการรีเซ็ตแบบเต็มและลบข้อมูลทั้งหมดในอุปกรณ์</string>
     <string name="security_encryption_attention_info">คุณสามารถเข้ารหัสบัญชี, การตั้งค่า, แอปที่ดาวน์โหลดไว้และข้อมูล, สื่อมีเดียและไฟล์อื่นๆ ในนั้น</string>
-    <string name="security_encryption_attention_symbol">.</string>
     <string name="security_encryption_attention_title">ข้อสำคัญ</string>
     <string name="security_encryption_close_dialog_info">การเลือกที่จะไม่เข้ารหัสอุปกรณ์โดยใช้การล็อกหน้าจออาจทำให้บริการบางอย่างของ Google ไม่สามารถใช้งานได้</string>
     <string name="security_encryption_close_dialog_title">กลับไปที่การเข้ารหัสระบบเริ่มต้น</string>
@@ -8365,7 +8355,6 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">ข้ามไปก่อน</string>
     <string name="skip_label">ข้าม</string>
@@ -8583,10 +8572,8 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="status_bar_app_enable_keyguard">หน้าจอล็อก</string>
     <string name="status_bar_app_enable_message">ป้าย</string>
     <string name="status_bar_carrier_settings_no_sim_card">ไม่พบซิมการ์ด</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">การแจ้งเตือนและแถบสถานะ</string>
     <string name="status_bar_settings_all_app_display_loading">รอสักครู่…</string>
-    <string name="status_bar_settings_carrier_sim">"ซิม %1$s: "</string>
     <string name="status_bar_settings_manage_notification">การแจ้งเตือนแอป</string>
     <string name="status_bar_settings_notification_bar">แถบการแจ้งเตือน</string>
     <string name="status_bar_settings_status_bar">แถบสถานะ</string>
@@ -8909,7 +8896,6 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_quick_control_all_devices">แสดงการควบคุมทีวี ลำโพง และรถยนต์ที่อยู่ใกล้เคียงในศูนย์ควบคุม</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_first_day_of_week">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
@@ -9827,7 +9813,6 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="vision_settings_title">การตั้งค่าการมองเห็น</string>
     <string name="voice_access">การควบคุมด้วยเสียง</string>
     <string name="voice_assist">Mi AI</string>
-    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">พูด</string>
     <string name="voice_helper_title">ผู้ช่วยเสียง</string>
     <string name="voice_input_output_settings">อินพุตและเอาต์พุตเสียง</string>
@@ -10993,11 +10978,9 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
     <string name="zone_auto_summaryOff">ใช้เวลาที่กำหนดโดยเครือข่ายผู้ให้บริการ</string>
     <string name="zone_auto_summaryOn">ใช้เวลาที่กำหนดโดยเครือข่ายผู้ให้บริการ</string>
     <string name="zone_auto_title">ตั้งเขตเวลาอัตโนมัติ</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer_first_sentence">ใช้ %1$s %2$s</string>
     <string name="zone_info_footer_no_dst">ใช้ %1$s ไม่มีเวลาออมแสง</string>
     <string name="zone_info_footer_second_sentence">%1$s เริ่มในวันที่ %2$s</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">เรียงตามตัวอักษร</string>
     <string name="zone_list_menu_sort_by_timezone">เรียงตามเขตเวลา</string>
     <string name="zone_menu_by_offset">เลือกตามความต่างเวลา UTC</string>

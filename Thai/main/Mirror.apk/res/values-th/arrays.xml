@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="buffer_size_values">
-        <item>\@null</item>
-        <item>%1$d KB</item>
-        <item>%1$d KB</item>
-        <item>%1$d KB</item>
-        <item>%1$d KB</item>
-        <item>%1$d MB</item>
-    </string-array>
     <string-array name="miui15_settings_search_mirror">
         <item>บริการเชื่อมต่อระหว่างอุปกรณ์</item>
         <item>การเชื่อมต่อและการแชร์/บริการเชื่อมต่อระหว่างอุปกรณ์</item>
