@@ -4,13 +4,13 @@
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+        <item quantity="other">%d ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+        <item quantity="other">ใน %d ชั่วโมง</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ในครึ่งชั่วโมง</item>
@@ -28,13 +28,13 @@
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="delete_confirm_text">
-        <item quantity="other">ลบการบันทึกหน้าจอ %1$d?</item>
+        <item quantity="other">ลบ %1$d การบันทึกหน้าจอ?</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="home_title_selected">
-        <item quantity="other">เลือก %1$d รายการ</item>
+        <item quantity="other">เลือกไว้ %1$d รายการ</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">ในอีก 1 ชั่วโมง</item>

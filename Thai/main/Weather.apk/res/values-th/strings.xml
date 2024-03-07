@@ -33,7 +33,7 @@
     <string name="abrupt_weather_settings_summary_type">รับการแจ้งเตือนเกี่ยวกับปริมาณน้ำฝนที่คาดหวังการเปลี่ยนแปลงคุณภาพอากาศและการเปลี่ยนแปลงที่สำคัญอื่นๆ</string>
     <string name="act_find_city_hint">ป้อนตำแหน่งพิกัด</string>
     <string name="act_find_city_hot_city_title">เมืองยอดนิยม</string>
-    <string name="act_location_error_to_find_city">ไม่สามารถรับข้อมูลตำแหน่ง คุณสามารถเพิ่มเมืองด้วยตนเอง</string>
+    <string name="act_location_error_to_find_city">ไม่สามารถรับข้อมูลตำแหน่ง คุณสามารถเพิ่มตำแหน่งพิกัดด้วยตนเอง</string>
     <string name="act_set_city_find_side">กำลังระบุตำแหน่ง</string>
     <string name="act_set_city_find_side_error">หาตำแหน่งพิกัดของเครื่องไม่พบ</string>
     <string name="act_weather_find_city_added">เพิ่มเมืองแล้ว</string>
@@ -78,17 +78,11 @@
     <string name="aqi_fifteen_dates_time_format">d/M</string>
     <string name="aqi_publish_time">อัปเดตเมื่อ %1$s</string>
     <string name="aqi_quality_co_desc">คาร์บอนมอนอกไซด์</string>
-    <string name="aqi_quality_co_pad">CO: %1$s</string>
     <string name="aqi_quality_no2_desc">ไนโตรเจนไดออกไซด์</string>
-    <string name="aqi_quality_no2_pad">NO₂: %1$s</string>
     <string name="aqi_quality_o3_desc">โอโซน</string>
-    <string name="aqi_quality_o3_pad">O₃: %1$s</string>
     <string name="aqi_quality_pm10_desc">ฝ่นละอองในอากาศ(PM10)</string>
-    <string name="aqi_quality_pm10_pad">PM10: %1$s</string>
     <string name="aqi_quality_pm25_desc">ฝ่นละอองในอากาศขนาดเล็ก(PM2.5)</string>
-    <string name="aqi_quality_pm25_pad">PM2.5: %1$s</string>
     <string name="aqi_quality_so2_desc">ซัลเฟอร์ไดออกไซด์</string>
-    <string name="aqi_quality_so2_pad">SO₂: %1$s</string>
     <string name="aqi_station_best_quality_station">อากาศดีบริเวณใกล้เคียง</string>
     <string name="aqi_station_min_distance_station">สถานีที่ใกล้ที่สุด</string>
     <string name="aqi_title_pad">AQI: %1$s</string>
@@ -163,6 +157,7 @@
     <string name="dynamic_weather">สภาพอากาศ</string>
     <string name="early_morning">เช้า</string>
     <string name="edit_city">จัดการเมือง</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">กำลังอัปเดต…</string>
     <string name="empty_view_net_unavailable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="empty_view_refresh">ลองอีกครั้ง</string>
@@ -213,8 +208,8 @@
     <string name="feedback_result_fail_no_choice">เลือกเงื่อนไขสภาพอากาศปัจจุบัน</string>
     <string name="feedback_result_fail_no_reason">ขอบคุณสำหรับข้อเสนอแนะ!</string>
     <string name="feedback_result_fail_same_type">ดูเหมือนว่ารายงานของคุณจะไม่แตกต่างจากสภาพอากาศในขณะนี้ ลองอีกครั้ง</string>
-    <string name="feedback_result_success">ส่งเรียบร้อยแล้วขอขอบคุณสำหรับข้อเสนอแนะของคุณ</string>
-    <string name="feedback_sandy">มีทรายมาก</string>
+    <string name="feedback_result_success">ส่งเรียบร้อยแล้ว ขอขอบคุณสำหรับข้อเสนอแนะของคุณ</string>
+    <string name="feedback_sandy">พายุฝุ่น</string>
     <string name="feedback_sunny">แจ่มใส</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -272,18 +267,21 @@
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
     <string name="hourly_forcast_now">ขณะนี้</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">ติดตั้งตอนนี้</string>
     <string name="indices_title_chance_of_rain">โอกาสที่จะเกิดฝนตก</string>
     <string name="indices_title_feel">รู้สึกจริง</string>
     <string name="indices_title_pressure">ความกดอากาศ</string>
     <string name="indices_title_uv">UV</string>
-    <string name="indices_title_wind_speed">ความเร็วลม</string>
     <string name="indices_wind_direction_east">ตะวันออก</string>
     <string name="indices_wind_direction_north">เหนือ</string>
     <string name="indices_wind_direction_south">ใต้</string>
     <string name="indices_wind_direction_west">ตะวันตก</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">รังสียูวี</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">เปิดใช้บริการตำแหน่งพิกัด</string>
     <string name="location_tag">ค้นหาตำแหน่งพิกัด</string>
     <string name="manager_city_option_add_home">เพิ่มไปยังหน้าเริ่มต้น</string>
@@ -294,17 +292,16 @@
     <string name="minute_rain_feedback_title">ข้อมูลสภาพอากาศไม่ถูกต้อง</string>
     <string name="minute_rain_now">ขณะนี้</string>
     <string name="minute_rain_progress_indicator_original_time">- -</string>
-    <string name="missing_required_permission">คุณได้ปิดใช้การอนุญาตที่จำเป็น</string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
     <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
-    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
-    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
@@ -392,8 +389,8 @@
     <string name="privacy_grant_or_revoke_settings">การเพิกถอนความยินยอม</string>
     <string name="privacy_grant_success">อนุมัติการให้สิทธิ์เรียบร้อยแล้ว</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
-    <string name="privacy_policy_msg">&lt;Data>แอปนี้มีคุณสมบัติดังต่อไปนี้:&lt;br/>• ข้อมูลสภาพอากาศเฉพาะสำหรับตำแหน่งของคุณ&lt;br/>• พยากรณ์อากาศ&lt;br/>• คำเตือนสภาพอากาศ&lt;br/>&lt;br/>สภาพอากาศจำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการขั้นพื้นฐานแก่คุณ คุณสามารถเรียนรู้วิธีที่เราจัดการกับข้อมูลที่เรารวบรวมได้ใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> อ่านและยอมรับ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%3$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเราก่อนใช้ สภาพอากาศ คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของสภาพอากาศในการตั้งค่าได้ทุกเมื่อ&lt;/Data></string>
-    <string name="privacy_policy_msg_for_gp">&lt;Data>แอปนี้มีคุณสมบัติดังต่อไปนี้:&lt;br/>• ข้อมูลสภาพอากาศเฉพาะสำหรับตำแหน่งของคุณ&lt;br/>• พยากรณ์อากาศ&lt;br/>• คำเตือนสภาพอากาศ&lt;br/>&lt;br/>สภาพอากาศจำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นรวมถึงข้อมูลตำแหน่งเพื่อให้คุณลักษณะเหล่านี้พร้อมใช้งานแม้ว่าแอปจะปิดหรือไม่ได้ใช้งานก็ตาม คุณสามารถเรียนรู้วิธีที่เราจัดการกับข้อมูลที่เรารวบรวมได้ใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> อ่านและยอมรับ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%3$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเราก่อนใช้ สภาพอากาศ คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของสภาพอากาศในการตั้งค่าได้ทุกเมื่อ&lt;/Data></string>
+    <string name="privacy_policy_msg"><Data>แอปนี้มีคุณสมบัติดังต่อไปนี้:&lt;br/>• ข้อมูลสภาพอากาศเฉพาะสำหรับตำแหน่งของคุณ&lt;br/>• พยากรณ์อากาศ&lt;br/>• คำเตือนสภาพอากาศ&lt;br/>&lt;br/>สภาพอากาศจำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการขั้นพื้นฐานแก่คุณ คุณสามารถเรียนรู้วิธีที่เราจัดการกับข้อมูลที่เรารวบรวมได้ใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> อ่านและยอมรับ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%3$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเราก่อนใช้ สภาพอากาศ คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของสภาพอากาศในการตั้งค่าได้ทุกเมื่อ</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>แอปนี้มีคุณสมบัติดังต่อไปนี้:&lt;br/>• ข้อมูลสภาพอากาศเฉพาะสำหรับตำแหน่งของคุณ&lt;br/>• พยากรณ์อากาศ&lt;br/>• คำเตือนสภาพอากาศ&lt;br/>&lt;br/>สภาพอากาศจำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นรวมถึงข้อมูลตำแหน่งเพื่อให้คุณลักษณะเหล่านี้พร้อมใช้งานแม้ว่าแอปจะปิดหรือไม่ได้ใช้งานก็ตาม คุณสามารถเรียนรู้วิธีที่เราจัดการกับข้อมูลที่เรารวบรวมได้ใน &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> อ่านและยอมรับ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%3$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเราก่อนใช้ สภาพอากาศ คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวของสภาพอากาศในการตั้งค่าได้ทุกเมื่อ</Data></string>
     <string name="privacy_revoke_success">ยกเลิกการให้สิทธิ์เรียบร้อยแล้ว</string>
     <string name="privacy_settings">นโยบายความเป็นส่วนตัว</string>
     <string name="pull_fresh_updated">อัปเดตเสร็จสิ้น</string>
@@ -412,10 +409,6 @@
     <string name="realtime_wind_default_title">ลม</string>
     <string name="refresh_fail">ไม่สามารถเชื่อมเครือข่ายได้</string>
     <string name="reminder_from_xiaomi_weather_app">Mi แจ้งเตือนสภาพอากาศ</string>
-    <string name="request_cta_connect_net">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตและให้การอนุญาตที่จำเป็นตามรายการด้านบน</string>
-    <string name="request_permission_location_dialog_content">สำหรับการแสดงข้อมูลสภาพอากาศที่เกี่ยวข้องในตำแหน่งปัจจุบันของคุณ</string>
-    <string name="request_permission_main_purpose">แสดงข้อมูลสภาพอากาศ</string>
-    <string name="request_permission_storage_dialog_content">สำหรับการแชร์ข้อมูลสภาพอากาศในรูปแบบภาพ</string>
     <string name="revoke_fail">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="revoke_privacy_policy_title">การเพิกถอนความยินยอม</string>
     <string name="saturday">วันเสาร์</string>
@@ -441,7 +434,7 @@
     <string name="share_button">แชร์</string>
     <string name="share_menu_title">แชร์</string>
     <string name="share_subject">แชร์</string>
-    <string name="share_weather_desc">\#MIUI สภาพอากาศ#วันนี้ %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ไม่สามารถจัดเก็บภาพหน้าจอได้</string>
     <string name="shortcut_short_label_24_hour_forecast">พยากรณ์ %d ชั่วโมง</string>
@@ -568,9 +561,6 @@
     <string name="user_agreement">ข้อตกลงการใช้งาน</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
-    <string name="video_banner_regional_weather_update">อัปเดตสภาพอากาศในภูมิภาค</string>
-    <string name="video_banner_weather_forecast">พยากรณ์อากาศ</string>
-    <string name="video_banner_weather_update">อัปเดตสภาพอากาศล่าสุด</string>
     <string name="view_forecast_item_yesterday">เมื่อวานนี้</string>
     <string name="view_indexes_item_today">วันนี้</string>
     <string name="view_indexes_item_tommorrow">พรุ่งนี้</string>
@@ -589,12 +579,9 @@
     <string name="welcome_app_title">ยินดีต้อนรับเข้าสู่ สภาพอากาศ!</string>
     <string name="wind_direction_no_data">ลม</string>
     <string name="wind_power">%d</string>
-    <string name="wind_unit">"%1$s กม/ชม
-"</string>
+    <string name="wind_unit">%1$s กม/ชม</string>
     <string name="xiaomi_weather_description_content">สภาพอากาศ เป็นแอประบบ คุณจะไม่สามารถดูข้อมูลสภาพอากาศหรือใช้วิดเจ็ตที่เกี่ยวข้องได้หลังจากที่คุณถอนการติดตั้งแอป</string>
-    <string name="xiaomi_weather_description_content_remove">สภาพอากาศ เป็นแอประบบ คุณจะไม่สามารถดูข้อมูลสภาพอากาศหรือใช้วิดเจ็ตที่เกี่ยวข้องได้หลังจากที่คุณลบปุ่มลัดหน้าจอหลักออก</string>
     <string name="xiaomi_weather_description_title">ถอนการติดตั้ง \"สภาพอากาศ\"?</string>
-    <string name="xiaomi_weather_description_title_remove">ลบ \"สภาพอากาศ\" ออกจากหน้าจอหลัก?</string>
     <string name="yes_vote_ratio">สำหรับ %1$s%%</string>
     <string name="yesterday">เมื่อวาน</string>
 </resources>

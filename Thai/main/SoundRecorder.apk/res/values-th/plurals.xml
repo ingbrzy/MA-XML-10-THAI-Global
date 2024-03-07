@@ -4,13 +4,13 @@
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+        <item quantity="other">%d ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+        <item quantity="other">ใน %d ชั่วโมง</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ในครึ่งชั่วโมง</item>
@@ -79,9 +79,6 @@
     <plurals name="recovery_failed_dialog_message">
         <item quantity="other">ไม่สามารถเรียกคืนได้ %d รายการ เนื่องจากข้อผิดพลาดที่ไม่รู้จัก</item>
     </plurals>
-    <plurals name="search_alll_records_hint">
-        <item quantity="other">%d การบันทึก</item>
-    </plurals>
     <plurals name="search_app_records_hint">
         <item quantity="other">%d การบันทึก</item>
     </plurals>
@@ -96,9 +93,6 @@
     </plurals>
     <plurals name="search_result">
         <item quantity="other">พบ %d การบันทึก</item>
-    </plurals>
-    <plurals name="text_btn_list_with_message">
-        <item quantity="other">%d บันทึกใหม่</item>
     </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">เหลืออีก %d วัน</item>

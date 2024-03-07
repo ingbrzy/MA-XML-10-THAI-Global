@@ -4,13 +4,13 @@
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+        <item quantity="other">%d ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+        <item quantity="other">ใน %d ชั่วโมง</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ในครึ่งชั่วโมง</item>
@@ -60,9 +60,6 @@
     <plurals name="in_num_minutes">
         <item quantity="other">ใน%d นาที</item>
     </plurals>
-    <plurals name="item_terms">
-        <item quantity="other">%1$s รายการ</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">เมื่อสักครู่</item>
     </plurals>
@@ -84,9 +81,6 @@
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">เหลือ %d วินาที</item>
-    </plurals>
-    <plurals name="toast_notes_hidden_count">
-        <item quantity="other">ซ่อน %1$s บันทึกเรียบร้อย</item>
     </plurals>
     <plurals name="toast_notes_unhidden_count">
         <item quantity="other">ยกเลิกการซ่อน %1$s บันทึกเรียบร้อย</item>

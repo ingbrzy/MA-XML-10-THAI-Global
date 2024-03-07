@@ -10,6 +10,7 @@
     <string name="download_queued">อยู่ในคิวแล้ว</string>
     <string name="download_remaining">เหลืออีก %s</string>
     <string name="download_running">กำลังดาวน์โหลด</string>
+    <string name="download_running_percent">กำลังดาวน์โหลด %s</string>
     <string name="download_unknown_title">&lt;ไม่มีชื่อ></string>
     <string name="notif_title_file_size">ทั้งหมด %1$d</string>
     <string name="notif_title_single_downloading">กำลังดาวน์โหลด %1$s</string>
@@ -32,7 +33,6 @@
     <string name="permlab_downloadManager">เข้าถึงการดาวน์โหลด</string>
     <string name="permlab_downloadManagerAdvanced">คุณลักษณะขั้นสูงของการดาวน์โหลด</string>
     <string name="permlab_downloadWithoutNotification">ดาวน์โหลดไฟล์ได้โดยไม่ต้องแจ้งเตือน</string>
-    <string name="permlab_seeAllExternal">ดูการดาวน์โหลดทั้งหมดในที่จัดเก็บข้อมูล USB</string>
     <string name="root_downloads">ดาวน์โหลด</string>
     <string name="wifi_recommended_body">"การดาวน์โหลด %1$s ในขณะนี้อาจทำอายุแบตเตอรี่สั้นลง และ/หรือมีปริมาณการใช้เครือข่ายมือถือเกินควรอันอาจจะทำให้เสียค่าใช้จ่ายที่เรียกเก็บจากผู้ให้บริการโครงข่ายขึ้นกับแพ็จเก็จที่กำหนด
 

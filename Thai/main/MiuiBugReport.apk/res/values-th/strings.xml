@@ -79,6 +79,7 @@
     <string name="bugreport_dump_start_notification_title">กำลังสร้างรายงานข้อบกพร่อง…</string>
     <string name="bugreport_tool_log_dumping_desc">ใช้เวลาดำเนินการประมาณ 1 นาที</string>
     <string name="bugreport_tool_log_dumping_title">กำลังสร้างรายงานข้อผิดพลาด</string>
+    <string name="can_not_add_more_image">ไม่สามารถเพิ่มรูปภาพหรือวิดีโอได้อีก</string>
     <string name="catch_full_log_action_cancel">ยกเลิก </string>
     <string name="catch_full_log_action_complete">เสร็จสิ้นและอัปโหลด</string>
     <string name="catch_full_log_action_start">เริ่ม</string>
@@ -156,6 +157,15 @@ ID:%s
     <string name="discard_draft_dialog_content">การแก้ไขใดๆที่คุณได้กระทำในรายงานนี้จะหายไปด้วย</string>
     <string name="discard_draft_dialog_title">ยกเลิกแบบร่างนี้?</string>
     <string name="doing_query_account">กำลังตรวจสอบข้อมูลบัญชี…</string>
+    <string name="dynamic_dialog_content">คุณกำลังจะเริ่มสร้างบันทึกแบบไดนามิก ประกอบด้วยบันทึกการทำงานของซอฟต์แวร์ (เช่น การเรียกระบบ) ขณะที่กำลังสร้างบันทึกไดนามิก อุปกรณ์ของคุณอาจค้างหรือร้อนขึ้น ซึ่งเป็นเรื่องปกติ เมื่อสร้างบันทึกแล้ว คุณลักษณะนี้จะถูกปิด อย่าลืมส่งความคิดเห็นของคุณให้ทันเวลาหากปัญหาเกิดขึ้นอีก เมื่อแตะ \"ยอมรับ\" ด้านล่าง แสดงว่าคุณยินยอมให้เรารวบรวมข้อมูลข้างต้นในขณะที่สร้างบันทึก จากนั้นจึงอัปโหลดบันทึกไปยังเซิร์ฟเวอร์ของเราเพื่อช่วยวินิจฉัยและแก้ไขปัญหาที่คุณรายงาน</string>
+    <string name="dynamic_dialog_negative_text">ไม่เห็นด้วย</string>
+    <string name="dynamic_dialog_notification_text">เมื่อสร้างบันทึกแล้ว คุณลักษณะนี้จะถูกปิด</string>
+    <string name="dynamic_dialog_notification_title">กำลังสร้างบันทึกแบบไดนามิก…</string>
+    <string name="dynamic_dialog_positive_text">ยอมรับ</string>
+    <string name="dynamic_dialog_title">คำชี้แจงความเป็นส่วนตัว</string>
+    <string name="dynamic_log_load_text">รอสักครู่…</string>
+    <string name="dynamic_log_restore_toast_text">กำลังกู้คืนบันทึกแบบไดนามิก…</string>
+    <string name="dynamic_log_title">บันทึกแบบไดนามิก</string>
     <string name="early_morning">เช้า</string>
     <string name="empty" />
     <string name="eras_ad">หลังคริสตกาล</string>
@@ -187,7 +197,7 @@ ID:%s
     <string name="facebook_login_btn_content_description">ลงชื่อเข้าใช้ด้วย Facebook</string>
     <string name="failed_to_fetch_fql">รับข้อมูลคำถามที่พบบ่อยไม่ได้ ตรวจสอบการเชื่อมต่อเครือข่าย</string>
     <string name="feedback_account_inconsistent_login_hint">ดูเหมือนว่าคุณเปลี่ยนบัญชี ลงชื่อเข้าใช้บัญชี Xiaomi ก่อนหน้าของคุณ</string>
-    <string name="feedback_account_login_hint">ลงชื่อเข้าใช้บัญชี Xiaomi ของคุณก่อน</string>
+    <string name="feedback_account_login_hint">ลงชื่อเข้าใช้บัญชี Xiaomi!</string>
     <string name="feedback_answer_detail_feedback_resolved">ใช่</string>
     <string name="feedback_answer_detail_feedback_result">ขอบคุณสำหรับข้อเสนอแนะ!</string>
     <string name="feedback_answer_detail_feedback_title">สิ่งนี้มีประโยชน์หรือไม่?</string>
@@ -212,7 +222,7 @@ ID:%s
 %1$d. คุณพบปัญหานี้ในแอปใดหรือหน้าใด?
 %2$d. เกิดปัญหานี้ขึ้นหลังจากการกระทำใด?
 %3$d. แจ้งข้อมูลเพิ่มเติมที่อาจช่วยเราแก้ไขปัญหา"</string>
-    <string name="feedback_description_hint_suggestion">บอกเราว่าคุณต้องการปรับปรุง MIUI อย่างไร</string>
+    <string name="feedback_description_hint_suggestion">บอกเราว่าเราจะปรับปรุงได้อย่างไร</string>
     <string name="feedback_description_suggest_hint">ฉันอยากให้คุณสามารถเพิ่มคุณลักษณะใหม่ () เนื่องจากฉันต้องการ ()</string>
     <string name="feedback_detail_copy_toast">คัดลอกไปยังคลิปบอร์ด</string>
     <string name="feedback_detail_feedback_attach">ไฟล์แนบ</string>
@@ -239,13 +249,13 @@ ID:%s
     <string name="feedback_evaluation_success_dialog_content">ขอบคุณสำหรับข้อเสนอแนะ!</string>
     <string name="feedback_evaluation_success_dialog_title">ให้คะแนนเรียบร้อยแล้ว</string>
     <string name="feedback_guess">คาดเดา:</string>
-    <string name="feedback_history_remind_login_desc">เข้าสู่ระบบด้วยบัญชี Mi ของคุณเพื่อดูรายละเอียดและความคืบหน้ารายงานของคุณ</string>
+    <string name="feedback_history_remind_login_desc">เข้าสู่ระบบด้วยบัญชี Xiaomi ของคุณเพื่อดูรายละเอียดและความคืบหน้ารายงานของคุณ</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA คีย์: %s</string>
     <string name="feedback_jira_key_place_holder">กำลังสร้าง Jira…</string>
     <string name="feedback_package_log_failed">บีบอัดบันทึกการใช้ไม่ได้</string>
     <string name="feedback_remind_login_btn">ลงชื่อเข้าใช้</string>
-    <string name="feedback_report_remind_login_desc">ลงชื่อเข้าสู่ระบบบัญชี Mi ของคุณเพื่อให้วิศวกรสามารถติดต่อกับคุณได้</string>
+    <string name="feedback_report_remind_login_desc">ลงชื่อเข้าสู่ระบบบัญชี Xiaomi ของคุณเพื่อให้วิศวกรสามารถติดต่อกับคุณได้</string>
     <string name="feedback_report_remind_login_desc2">คุณยังสามารถติดตามความคืบหน้ารายงานของคุณได้ใน \"ข้อเสนอแนะของฉัน\"</string>
     <string name="feedback_reproductivity_everytime">ตลอดเวลา</string>
     <string name="feedback_reproductivity_occasionally">เป็นครั้งคราว</string>
@@ -366,6 +376,10 @@ ID:%s
     <string name="hint_feedback_main">อธิบายเกี่ยวกับปัญหาที่พบ</string>
     <string name="i_get_it">รับทราบ</string>
     <string name="i_know">รับทราบ</string>
+    <string name="icon_add_description">เพิ่มปุ่มลัดหน้าจอหลัก</string>
+    <string name="icon_remove_confirm">ลบออก</string>
+    <string name="icon_remove_description_content">\"บริการและข้อเสนอแนะ\" เป็นแอประบบ คุณจะยังใช้งานได้ผ่านการตั้งค่าหลังจากที่คุณลบทางลัดบนหน้าจอหลัก</string>
+    <string name="icon_remove_description_title">นำ \"บริการและข้อเสนอแนะ\" ออกจากหน้าจอหลักหรือไม่?</string>
     <string name="input_email_address_notice">ระบบจะใช้อีเมลนี้ในการยืนยันบัญชีของคุณ</string>
     <string name="issue_search">ค้นหา</string>
     <string name="jump_full_log_dialog_cancel">ยกเลิก</string>
@@ -374,7 +388,7 @@ ID:%s
     <string name="jump_full_log_dialog_title">สร้างบันทึก</string>
     <string name="kr_authorization_agree">ยอมรับ</string>
     <string name="kr_authorization_contact">บัญชี</string>
-    <string name="kr_authorization_contact_desc">สำหรับการเข้าถึงข้อมูลบัญชี Mi เพื่อระบุอุปกรณ์</string>
+    <string name="kr_authorization_contact_desc">สำหรับการเข้าถึงข้อมูลบัญชี Xiaomi เพื่อระบุอุปกรณ์</string>
     <string name="kr_authorization_exit">ออก</string>
     <string name="kr_authorization_function">ส่ง ข้อเสนอแนะ สร้างบันทึก ดูคำถามที่ถามบ่อย</string>
     <string name="kr_authorization_log_protocol">บันทึกของโปรโตคอล (ไม่ระบุก็ได้)</string>
@@ -400,21 +414,116 @@ ID:%s
     <string name="logout_account">ออกจากระบบ</string>
     <string name="menu_copy">คัดลอก</string>
     <string name="message_label">ข้อความ</string>
+    <string name="mi_service_app_name">บริการและข้อเสนอแนะ</string>
+    <string name="mi_service_back">ย้อนกลับ</string>
     <string name="mi_service_dialog_cancel">ออก</string>
     <string name="mi_service_dialog_confirm">เปิด</string>
     <string name="mi_service_dialog_content">คุณลักษณะข้อเสนอแนะทั้งหมดถูกย้ายไปที่แอป \"บริการและข้อเสนอแนะ\" ใหม่ แอปข้อเสนอแนะจะถูกลบออกจากหน้าจอหลักของคุณ แตะ \"เปิด\" เพื่อลอง\"บริการและข้อเสนอแนะ\"</string>
     <string name="mi_service_dialog_title">แนะนำ \"บริการและข้อเสนอแนะ\"</string>
     <string name="midnight">กลางคืน</string>
+    <string name="miui_feedback_answer_detail_community">คุณสามารถหาคำตอบสำหรับคำถามของคุณได้ใน Xiaomi Community</string>
+    <string name="miui_feedback_answer_detail_feedback_resolved">ใช่</string>
+    <string name="miui_feedback_answer_detail_feedback_result">ขอบคุณสำหรับข้อเสนอแนะของคุณ!</string>
+    <string name="miui_feedback_answer_detail_feedback_title">ข้อมูลนี้มีประโยชน์หรือไม่?</string>
+    <string name="miui_feedback_answer_detail_feedback_unresolved">ไม่ใช่</string>
+    <string name="miui_feedback_answer_detail_menu_online_service">ขอความช่วยเหลือออนไลน์</string>
+    <string name="miui_feedback_answer_detail_menu_phone_service">ติดต่อบริการลูกค้า</string>
+    <string name="miui_feedback_answer_detail_relative_tip">ข้อมูลที่เกี่ยวข้อง</string>
+    <string name="miui_feedback_answer_detail_title">รายละเอียด</string>
+    <string name="miui_feedback_edit_action_submit">ส่ง</string>
+    <string name="miui_feedback_edit_add_original_images">เพิ่มรูปภาพ</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">หากปัญหาที่คุณรายงานนั้นเกี่ยวกับคุณภาพจากภาพของกล้อง เพิ่มรูปต้นฉบับ (ไม่ครอบตัด) เพื่อช่วยเราค้นหาปัญหา เพิ่มรูปถ่ายตอนนี้?</string>
+    <string name="miui_feedback_edit_choose_module">เลือกรายการ</string>
+    <string name="miui_feedback_edit_choose_module_hint">จำเป็นต้องระบุ</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">เวลา</string>
+    <string name="miui_feedback_edit_choose_reproductivity">การทำสำเนา</string>
+    <string name="miui_feedback_edit_choose_third_app_name">เลือกชื่อแอป</string>
+    <string name="miui_feedback_edit_contact_info_hint">หมายเลขโทรศัพท์/อีเมล</string>
+    <string name="miui_feedback_edit_delete_images">ลบรูปภาพ</string>
+    <string name="miui_feedback_edit_desc_hint">อธิบายปัญหาที่คุณพบ</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">บอกเราว่าคุณต้องการปรับปรุง MIUI อย่างไร</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">กลับมาที่ฉบับร่าง</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_discard">ยกเลิก</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_content">การแก้ไขใดๆที่คุณได้กระทำในรายงานนี้จะหายไปด้วย</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_title">ยกเลิกแบบร่าง?</string>
+    <string name="miui_feedback_edit_hint">รายงานข้อผิดพลาดเวลาที่คุณพบปัญหาเพื่อช่วยให้เราแก้ปัญหาได้เร็วขึ้น กรุณาใช้ภาษาไทยหรืออังกฤษ</string>
+    <string name="miui_feedback_edit_hint_gone">ปิดข้อความ</string>
+    <string name="miui_feedback_edit_hint_optional">เลือก</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">รอเครือข่าย Wi-Fi</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">อัปโหลด</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_content">ดูเหมือนว่าคุณกำลังเชื่อมต่อกับเครือข่ายแบบชำระเงิน การอัปโหลดบันทึกอาจมีค่าใช้จ่ายเพิ่มเติม</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_title">คำเตือนการใช้ข้อมูล</string>
+    <string name="miui_feedback_edit_need_phone_state_permission">อนุญาตให้แอปเข้าถึงข้อมูลอุปกรณ์เพื่อให้แอปอ่าน IMEI ของคุณ ซึ่งจะช่วยระบุปัญหา แตะ \"ตกลง\" เพื่อเปิดการตั้งค่า</string>
+    <string name="miui_feedback_edit_need_storage_permission">อนุญาตให้แอปเข้าถึงที่เก็บข้อมูลอุปกรณ์เพื่อให้สามารถแนบรูปภาพและวิดีโอกับข้อเสนอแนะของคุณ แตะ \"ตกลง\" เพื่อเปิดการตั้งค่า</string>
+    <string name="miui_feedback_edit_permission_denied_title">จำกัดสิทธิ์: %1$s</string>
+    <string name="miui_feedback_edit_phone_state_permission_name">เข้าถึงข้อมูลอุปกรณ์</string>
+    <string name="miui_feedback_edit_reproductivity_everytime">ตลอดเวลา</string>
+    <string name="miui_feedback_edit_reproductivity_occasionally">เป็นครั้งคราว</string>
+    <string name="miui_feedback_edit_reproductivity_often">ใช้บ่อย</string>
+    <string name="miui_feedback_edit_reproductivity_once">ครั้งเดียว</string>
+    <string name="miui_feedback_edit_select_images">เพิ่มรูปภาพหรือวิดีโอสั้น</string>
+    <string name="miui_feedback_edit_select_modem_log">เพิ่มบันทึกโมเด็ม</string>
+    <string name="miui_feedback_edit_select_modem_log_not_select_desc">ไม่ได้เลือก \"เพิ่มโมเด็มบันทึกการใช้\"</string>
+    <string name="miui_feedback_edit_select_modem_log_select_desc">เลือก \"เพิ่มโมเด็มบันทึกการใช้\"</string>
+    <string name="miui_feedback_edit_select_original_images">เพิ่มภาพต้นฉบับหรือวิดีโอสั้น</string>
+    <string name="miui_feedback_edit_select_problem">ปัญหา</string>
+    <string name="miui_feedback_edit_select_problem_not_select_desc">ไม่ได้เลือก \"ปัญหา\"</string>
+    <string name="miui_feedback_edit_select_problem_select_desc">เลือก \"ปัญหา\"</string>
+    <string name="miui_feedback_edit_select_suggestion">ข้อเสนอแนะ</string>
+    <string name="miui_feedback_edit_select_suggestion_not_select_desc">ไม่ได้เลือก \"ข้อแนะนำ\"</string>
+    <string name="miui_feedback_edit_select_suggestion_select_desc">เลือก \"ข้อแนะนำ\"</string>
+    <string name="miui_feedback_edit_select_upload_log">แนบบันทึกการใช้</string>
+    <string name="miui_feedback_edit_select_upload_log_not_select_desc">ไม่ได้เลือก \"เพิ่มบันทึกการใช้\"</string>
+    <string name="miui_feedback_edit_select_upload_log_select_desc">เลือก \"เพิ่มบันทึกการใช้\"</string>
+    <string name="miui_feedback_edit_storage_permission_name">เข้าถึงที่เก็บข้อมูลอุปกรณ์</string>
+    <string name="miui_feedback_edit_submit_dialog_cancel">ไม่เห็นด้วย</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">ยอมรับ</string>
+    <string name="miui_feedback_edit_submit_dialog_content">"&lt;Data>You must agree to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a> to be able to use Feedback. The issues you report along with the items you attach (might contain personal information, as well as the information about your device and network) will be uploaded to MIUI's servers. This will help us locate and solve the problems you report.&lt;/Data>"</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">"&lt;Data>Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers. Logs may contain personal info and your location data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a>.&lt;/Data>"</string>
+    <string name="miui_feedback_edit_submit_dialog_not_show_again">ไม่ต้องแสดงอีก</string>
+    <string name="miui_feedback_edit_submit_dialog_title">ส่งรายงาน</string>
+    <string name="miui_feedback_edit_submit_directly">ส่ง</string>
+    <string name="miui_feedback_edit_title_occurrence_time">เลือกเวลา</string>
+    <string name="miui_feedback_edit_title_reproductivity">เลือกการทำสำเนา</string>
+    <string name="miui_feedback_edit_toast_description_required">อธิบายปัญหาก่อน</string>
+    <string name="miui_feedback_edit_toast_module_required">เลือกรายการ</string>
+    <string name="miui_feedback_edit_toast_more_desc_required">คำอธิบายของคุณควรจะยาวกว่านี้</string>
+    <string name="miui_feedback_edit_toast_problem_class_required">เลือกหมวดหมู่</string>
+    <string name="miui_feedback_edit_toast_third_packagename_required">ป้อนชื่อแอป</string>
+    <string name="miui_feedback_main_answer_title">มีคำตอบสำหรับคำถามนี้</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"สายด่วนบริการ: 0120-300-521
+เวลาทำการ: 9:00 - 18:00 (ยกเว้นธนาคารและวันหยุดตามกำหนดการ)
+อีเมล: service.jp@xiaomi.com"</string>
+    <string name="miui_feedback_main_frequent_question_title">คำถามที่พบบ่อย</string>
+    <string name="miui_feedback_main_item_catch_full_log">บันทึกการใช้</string>
+    <string name="miui_feedback_main_item_customer_service">บริการหลังการขาย</string>
+    <string name="miui_feedback_main_item_feedback_list">ข้อเสนอแนะของฉัน</string>
+    <string name="miui_feedback_main_item_official_progress">Repair progress</string>
+    <string name="miui_feedback_main_item_official_progress_hint">Update repair progress regularly in Xiaomi Community</string>
+    <string name="miui_feedback_main_menu_view_privacy">นโยบายความเป็นส่วนตัว</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">การเพิกถอนความยินยอม</string>
+    <string name="miui_feedback_main_search_footer">นี่ไม่ใช่คำถามที่คุณต้องการถาม?</string>
+    <string name="miui_feedback_main_search_footer_submit">ส่งข้อเสนอแนะ</string>
+    <string name="miui_feedback_main_search_issue">ป้อนคำค้นที่จะใช้ค้นหา</string>
+    <string name="miui_feedback_main_search_no_answer">ไม่พบผลลัพธ์การค้นหา</string>
+    <string name="miui_feedback_main_start_submit">ส่งข้อเสนอแนะ</string>
+    <string name="miui_feedback_main_submit_dialog_confirm">ส่ง</string>
+    <string name="miui_feedback_main_submit_dialog_content">ดูเหมือนว่าเราไม่พบวิธีแก้ไขปัญหาของคุณ คุณสามารถส่งข้อเสนอแนะให้เราได้</string>
+    <string name="miui_feedback_main_submit_dialog_title">ส่งข้อเสนอแนะ</string>
+    <string name="miui_feedback_main_title">ข้อเสนอแนะ</string>
+    <string name="miui_feedback_main_withdraw">เพิกถอน</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">หากดำเนินการต่อ คุณจะเพิกถอนความยินยอมของคุณต่อ นโยบายความเป็นส่วนตัว ของ %1$s ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้จะถูกลบออกภายในระยะเวลาที่กำหนดตามกฎหมายและข้อบังคับที่บังคับใช้ เว้นแต่จะกำหนดเป็นอย่างอื่น เนื่องจาก %2$s ให้บริการตามการรวบรวมข้อมูลส่วนบุคคลที่จำเป็น การเพิกถอนความยินยอมของคุณจะถือเป็นการปฏิเสธที่จะยอมรับบริการ %3$s เพิกถอนความยินยอมตอนนี้?</string>
+    <string name="miui_feedback_note_install_xiaomi_community">Install Xiaomi Community to be able to use this feature.</string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
     <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
-    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
-    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
@@ -495,6 +604,7 @@ ID:%s
     <string name="month_september_shortest">กันยา</string>
     <string name="more">เพิ่มเติม</string>
     <string name="morning">เช้า</string>
+    <string name="net_daig_network_repair">ซ่อมเครือข่าย</string>
     <string name="net_diag_cancel">ยกเลิก</string>
     <string name="net_diag_continue">ดำเนินการต่อ</string>
     <string name="net_diag_dialog_msg">การทดสอบเครือข่ายของคุณจะช่วยให้คุณตรวจพบปัญหาและปรับปรุงการเชื่อมต่อของคุณ</string>
@@ -509,9 +619,15 @@ ID:%s
     <string name="net_diag_entry_network_protocol">โปรโตคอลเครือข่าย</string>
     <string name="net_diag_entry_network_rssi">คุณภาพสัญญาณ</string>
     <string name="net_diag_entry_router_topology">เส้นทางเครือข่าย</string>
+    <string name="net_diag_fix_guide_window_msg">เกิดข้อผิดพลาดของเครือข่าย แตะเพื่อแก้ไขปัญหา</string>
+    <string name="net_diag_fixing">กำลังซ่อมเครื่อข่าย การดำเนินการนี้อาจใช้เวลาสักครู่</string>
     <string name="net_diag_header_internet">อินเตอร์เน็ต</string>
     <string name="net_diag_header_router">เราเตอร์</string>
     <string name="net_diag_header_this_device">อุปกรณ์นี้</string>
+    <string name="net_diag_repair_msg">ในระหว่างขั้นตอนนี้ Wi-Fi จะถูกตัดการเชื่อมต่อและเชื่อมต่อใหม่อีกครั้ง ซ่อมตอนนี้?</string>
+    <string name="net_diag_repair_msg_china">ในระหว่างขั้นตอนนี้ WLAN จะถูกตัดการเชื่อมต่อและเชื่อมต่อใหม่อีกครั้ง ซ่อมตอนนี้?</string>
+    <string name="net_diag_repair_static_ip_msg">การกำหนดค่าเครือข่ายอาจถูกรีเซ็ตในระหว่างขั้นตอนนี้ ซ่อมตอนนี้?</string>
+    <string name="net_diag_repair_title">ซ่อมเครือข่าย?</string>
     <string name="net_diag_title">ทดสอบเครือข่าย</string>
     <string name="net_diag_toast_cellular_data">หากต้องการทดสอบเครือข่าย ให้ปิดข้อมูลมือถือก่อน</string>
     <string name="net_diag_toast_other_networks">หากต้องการทดสอบเครือข่าย ให้เชื่อมต่อ Wi-Fi และยกเลิกการเชื่อมต่อกับเครือข่ายอื่นก่อน</string>
@@ -530,6 +646,7 @@ ID:%s
     <string name="non_system_app_select">แอปที่ดาวน์โหลด</string>
     <string name="noon">เที่ยงวัน</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
+    <string name="not_support_service_in_maintenance_mode">บริการนี้ไม่พร้อมใช้งานในโหมดการบำรุงรักษา</string>
     <string name="nothing">--</string>
     <string name="open_feedback_main">เพิ่มเติม</string>
     <string name="open_settings">การตั้งค่า</string>
@@ -626,6 +743,26 @@ ID:%s
     <string name="passport_wrong_phone_number_format">รูปแบบของหมายเลขโทรศัพท์ที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_wrong_vcode">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_wrong_voice">รหัสที่คุณป้อนไม่ถูกต้อง</string>
+    <string name="permission_agree">ยอมรับ</string>
+    <string name="permission_china_version_msg">&lt;Data>ก่อนที่จะใช้ \"บริการและข้อเสนอแนะ\", คุณต้องอ่านและยอมรับใน &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา แอปนี้ต้องเชื่อมต่อกับอินเทอร์เน็ตเพื่อให้ทำงานได้ตามปกติ&lt;/Data></string>
+    <string name="permission_complete">เสร็จสิ้น</string>
+    <string name="permission_contacts_info">เข้าถึงข้อมูลบัญชี</string>
+    <string name="permission_contacts_introduce">สำหรับลงชื่อเข้าสู่ระบบโดยใช้บัญชี Xiaomi</string>
+    <string name="permission_device_info">เข้าถึงข้อมูลอุปกรณ์</string>
+    <string name="permission_device_introduce">เพื่อกำหนดระยะเวลาการรับประกันแบบจำกัด</string>
+    <string name="permission_exit">ออก</string>
+    <string name="permission_external_storage_introduce">สำหรับการบันทึกและอัปโหลดข้อเสนอแนะของคุณ</string>
+    <string name="permission_first_start_network_title">ข้อกำหนดและเงื่อนไข</string>
+    <string name="permission_imei_disable_desc">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ต</string>
+    <string name="permission_imei_enable_desc">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตและให้การอนุญาตที่จำเป็นตามรายการด้านบน</string>
+    <string name="permission_location_introduce">สำหรับแสดงจุดบริการใกล้เคียง</string>
+    <string name="permission_main_purpose">แสดงการสาธิตคุณสมบัติ ส่งข้อเสนอแนะ และสมัครใช้บริการหลังการขาย</string>
+    <string name="permission_privacy">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
+    <string name="permission_region_version_msg">&lt;Data>ก่อนที่จะใช้ \"บริการและข้อเสนอแนะ\", คุณต้องอ่านและยอมรับใน &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา&lt;/Data></string>
+    <string name="permission_select_all">เลือกทั้งหมด</string>
+    <string name="permission_storage">พื้นที่จัดเก็บข้อมูล</string>
+    <string name="permission_storage_introduce">สำหรับบันทึกรายการบนอุปกรณ์ของคุณ</string>
+    <string name="permission_user_protocol">ข้อตกลงการใช้งาน (จำเป็น)</string>
     <string name="phone_auto_login_register_with_local_number">สร้างบัญชี</string>
     <string name="photoPickerNotFoundText">ไม่มีรูปภาพที่พร้อมใช้งาน</string>
     <string name="please_download_gallery">ติดตั้งคลังภาพเพื่อดู</string>
@@ -641,6 +778,14 @@ ID:%s
     <string name="progressbar_title">กำลังตรวจสอบปัญหาด้านความปลอดภัย…</string>
     <string name="protocal_dialog_confirm">ตกลง</string>
     <string name="protocal_dialog_title">โปรดทราบ</string>
+    <string name="public_authorize_now">การตั้งค่า</string>
+    <string name="public_loading_text">รอสักครู่…</string>
+    <string name="public_net_error_retry">ลองอีกครั้ง</string>
+    <string name="public_net_error_sub_title">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
+    <string name="public_net_error_title">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
+    <string name="public_open_feedback_service">เริ่ม</string>
+    <string name="public_please_authorize">ต้องการการอนุญาตในการดำเนินการต่อ</string>
+    <string name="public_welcome_use_feedback_service">ยินดีต้อนรับสู่ บริการและข้อเสนอแนะ! คุณสามารถใช้แอปนี้เพื่อส่งความคิดเห็น ดูคำถามที่พบบ่อย สมัครขอคืนและเปลี่ยนสินค้า และอื่นๆ</string>
     <string name="qq_login_btn_content_description">ลงชื่อเข้าใช้ด้วย QQ</string>
     <string name="refresh">รีเฟรช</string>
     <string name="register_by_local_phone_long_text">สร้างบัญชี</string>
@@ -650,7 +795,7 @@ ID:%s
     <string name="reply_option_log_hint">ระบุหรือไม่ก็ได้</string>
     <string name="reply_select_log_hint">เลือกบันทึก</string>
     <string name="reply_successful">ตอบกลับเรียบร้อยแล้ว</string>
-    <string name="report_miui">รายงานปัญหา</string>
+    <string name="report_miui">ส่งข้อเสนอแนะ</string>
     <string name="request_agree">อนุญาต</string>
     <string name="request_camera_permission_message">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายและข้อบังคับที่เกี่ยวข้อง แอปนี้ต้องการการอนุญาตต่อไปนี้เพื่อให้ทำงานได้ตามปกติ:&lt;br>&lt;br>&lt;b>การใช้กล้องถ่ายรูป (สำหรับตั้งค่ารูปโปรไฟล์ของคุณ)&lt;/b>&lt;br>&lt;br>หากคุณไม่ยินยอมที่จะให้สิทธิ์ดังกล่าว คุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอพนี้ได้ อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ คุณสามารถจำกัดสิทธิ์หรือเพิกถอนการอนุญาตได้ตลอดเวลาในการตั้งค่า</string>
     <string name="request_cancel">ยกเลิก</string>
@@ -685,9 +830,9 @@ ID:%s
     <string name="stop_full_log_dialog_title">สร้างบันทึกการใช้งาน…</string>
     <string name="submit_dialog_cancel">ไม่เห็นด้วย</string>
     <string name="submit_dialog_confirm">ยอมรับ</string>
-    <string name="submit_dialog_content">&lt;Data>อ่านและยอมรับ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"%2$s\">ข้อตกลงผู้ใช้&lt;/a> ก่อนส่งข้อเสนอแนะ ปัญหาที่คุณรายงานพร้อมกับรายการที่คุณแนบ (รวมถึงบันทึกที่อาจมีข้อมูลส่วนบุคคลตลอดจนข้อมูลเกี่ยวกับอุปกรณ์และเครือข่ายของคุณ) จะถูกอัปโหลดไปยังเซิร์ฟเวอร์ของ MIUI วิธีนี้จะช่วยให้เราค้นหาและแก้ไขปัญหาที่คุณรายงานได้ หากคุณรายงานปัญหาที่เกี่ยวข้องกับอุปกรณ์หลายเครื่องบันทึกจากอุปกรณ์อื่นๆ ที่ใช้บัญชี Mi ของคุณจะถูกอัปโหลดด้วย&lt;/Data></string>
-    <string name="submit_dialog_content_global">&lt;Data>ความคิดเห็นของคุณพร้อมกับไฟล์แนบ (ถ้ามี) และบันทึก (คุณสามารถยกเลิกการเลือกช่องรายการที่คุณไม่ต้องการอัปโหลด) จะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI โดยอาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> ของเราแล้ว&lt;/Data></string>
-    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>ความคิดเห็นของคุณพร้อมกับไฟล์แนบ (ถ้ามี), บันทึก (คุณสามารถยกเลิกการเลือกช่องรายการที่คุณไม่ต้องการอัปโหลด), หมายเลขโทรศัพท์ หรือ อีเมล จะถูกส่งไปยังเซิร์ฟเวอร์ของ MIUI โดยอาจมีข้อมูลส่วนตัวและข้อมูลตำแหน่งพิกัดของคุณ การเลือก \"ยอมรับ\" หมายความว่าคุณได้อ่านและยอมรับต่อ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"%2$s\">ข้อตกลงการใช้งาน&lt;/a> ของเราแล้ว&lt;/Data></string>
+    <string name="submit_dialog_content">&lt;Data>อ่านและยอมรับ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"%2$s\">ข้อตกลงผู้ใช้&lt;/a> ก่อนส่งข้อเสนอแนะ ปัญหาที่คุณรายงานพร้อมกับรายการที่คุณแนบ (รวมถึงบันทึกที่อาจมีข้อมูลส่วนบุคคลตลอดจนข้อมูลเกี่ยวกับอุปกรณ์และเครือข่ายของคุณ) จะถูกอัปโหลดไปยังเซิร์ฟเวอร์ของเรา วิธีนี้จะช่วยให้เราค้นหาและแก้ไขปัญหาที่คุณรายงานได้ หากคุณรายงานปัญหาที่เกี่ยวข้องกับอุปกรณ์หลายเครื่องบันทึกจากอุปกรณ์อื่นๆ ที่ใช้บัญชี Xiaomi ของคุณจะถูกอัปโหลดด้วย&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>ความคิดเห็นของคุณ พร้อมด้วยไฟล์แนบ (ถ้ามี) และบันทึก (คุณสามารถยกเลิกการเลือกช่องสำหรับรายการที่คุณไม่ต้องการอัปโหลดได้) จะถูกส่งไปยังเซิร์ฟเวอร์ของเรา บันทึกอาจมีข้อมูลส่วนบุคคลและข้อมูลตำแหน่งของคุณ การเลือก \"ตกลง\" หมายความว่าคุณได้อ่านและยอมรับ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"%2$s\"> ของเราแล้ว ข้อตกลงการใช้งาน&lt;/a>&lt;/Data></string>
+    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>ความคิดเห็นของคุณ พร้อมด้วยไฟล์แนบ (ถ้ามี) และบันทึก (คุณสามารถยกเลิกการเลือกช่องสำหรับรายการที่คุณไม่ต้องการอัปโหลดได้) จะถูกส่งไปยังเซิร์ฟเวอร์ของเรา บันทึกอาจมีข้อมูลส่วนบุคคลและข้อมูลตำแหน่งของคุณ การเลือก \"ตกลง\" หมายความว่าคุณได้อ่านและยอมรับ &lt;a href=\"%1$s\">นโยบายความเป็นส่วนตัว&lt;/a> และ &lt;a href=\"%2$s\"> ของเราแล้ว ข้อตกลงการใช้งาน&lt;/a>&lt;/Data></string>
     <string name="submit_dialog_not_show_again">ไม่ต้องแสดงอีก</string>
     <string name="submit_dialog_title">ส่งรายงาน</string>
     <string name="submit_feedback_info_failed">ไม่สามารถส่งรายงานได้</string>

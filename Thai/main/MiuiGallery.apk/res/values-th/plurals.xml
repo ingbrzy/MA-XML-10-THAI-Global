@@ -4,13 +4,13 @@
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+        <item quantity="other">%d ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+        <item quantity="other">ใน %d ชั่วโมง</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ในครึ่งชั่วโมง</item>
@@ -129,8 +129,8 @@
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพจาก Xiaomi คลาวด์และอุปกรณ์ที่ซิงค์ทั้งหมด?</item>
+    <plurals name="delete_brust_title">
+        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพ?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพ?</item>
@@ -144,14 +144,11 @@
     <plurals name="delete_media_from_local">
         <item quantity="other">ลบ %d รายการ?</item>
     </plurals>
-    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">ลบ %d รูปภาพจากอุปกรณ์และ Xiaomi คลาวด์ทั้งหมด?</item>
+    <plurals name="delete_media_title">
+        <item quantity="other">ลบ %d รายการ?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพจากอุปกรณ์นี้?</item>
-    </plurals>
-    <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">ลบ %d วีดีโอจากอุปกรณ์และ Xiaomi คลาวด์ทั้งหมด?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">ไม่สามารถดาวน์โหลด %1$d ไฟล์ได้</item>
@@ -233,9 +230,6 @@
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">รวมทั้งหมด %1$d รายการ</item>
-    </plurals>
-    <plurals name="photo_editor_talkback_crop_scale_value">
-        <item quantity="other">หมุน %d องศา</item>
     </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d วัน</item>
@@ -360,6 +354,9 @@
     <plurals name="send_processing_files_error">
         <item quantity="other">ไม่สามารถแชร์ กำลังประมวลผล %d ภาพ …</item>
     </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">เลือกได้ถึง %d รายการที่จะส่ง</item>
+    </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%2$d วิดีโอจาก %1$s</item>
     </plurals>
@@ -433,7 +430,7 @@
         <item quantity="other">%d วิดีโอ</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">มี %d รูปภาพและวิดีโอยังไม่ได้สำรองข้อมูล</item>
+        <item quantity="other">%d รายการยังไม่ถูกซิงค์</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d รายการ มีขนาดใหญ่เกินไปที่จะสำรองข้อมูล</item>
@@ -473,6 +470,12 @@
         <item quantity="other"></item>
         <item quantity="one"></item>
     </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">ไม่สามารถโอนได้ %1$d รายการ</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">ไม่สามารถโอน %1$d รายการ ไปที่ i.mi.com เพื่อดาวน์โหลด</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d รายการที่เลือกจะถูกลบออกจากคลาวด์และอุปกรณ์ที่ซิงค์ทั้งหมดอย่างถาวร ยืนยันลบหรือไม่?</item>
     </plurals>
@@ -490,6 +493,12 @@
     </plurals>
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">รายการต่างๆสามารถเก็บไว้ที่นี่ได้นานถึง %1$d วัน (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">สามารถจัดเก็บรายการได้ที่นี่เป็นเวลา %1$s วัน แตะเพื่อขยายระยะเวลานี้</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">รายการที่ลบจะถูกเก็บไว้ในคลาวด์เป็นเวลา %1$d วัน</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">รายการต่างๆสามารถเก็บไว้ที่นี่ได้นานถึง %1$d วัน อัปเกรดแผนของคุณเพื่อขยายช่วงเวลานี้</item>

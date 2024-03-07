@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>รวมแอป</item>
+        <item>การเชื่อมต่อระหว่างกัน/รวมแอป</item>
+        <item>คุณสมบัติรถยนต์</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>การเชื่อมต่อระหว่างกัน</item>
+        <item>การเชื่อมต่อระหว่างกัน/การเชื่อมต่อระหว่างกัน</item>
+        <item>การเชื่อมต่อระหว่างอุปกรณ์, บริการเชื่อมต่อระหว่างอุปกรณ์, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, การเชื่อมต่ออัจฉริยะ, Mi Smart Hub, การเชื่อมต่อระหว่างกัน, Duo, โทรศัพท์ Xiaomi, แล็ปท็อป Xiaomi, มัลติสกรีน, Duet, ฉายภาพ, รวมแอป, แฮนด์ออฟ, แฮนด์ออฟแอป, มิเรอร์, ระบบนิเวศ Xiaomi การเชื่อมต่ออุปกรณ์</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>ความเป็นส่วนตัว</item>
+        <item>การเชื่อมต่อระหว่างกัน/ความเป็นส่วนตัว</item>
+        <item>ความเป็นส่วนตัวและการเชื่อมต่อระหว่างกัน ความเป็นส่วนตัว</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>การเชื่อมต่อโครงข่าย Xiaomi</item>
+        <item>การเชื่อมต่อระหว่างกัน/การเชื่อมต่อโครงข่าย Xiaomi</item>
+        <item>บริการเชื่อมต่อโครงข่าย Xiaomi การเชื่อมต่อโครงข่าย Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>แฮนด์ออฟแอป</item>
+        <item>การเชื่อมต่อระหว่างกัน/แฮนด์ออฟแอป</item>
+        <item>ถ่ายโอนแอป แฮนด์ออฟ ถ่ายโอน</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>การโทร</item>
+        <item>การเชื่อมต่อระหว่างกัน/การโทร</item>
+        <item>การโทร</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>ความช่วยเหลือเครือข่าย</item>
+        <item>ารเชื่อมต่อระหว่างกัน/ความช่วยเหลือกเครือข่าย</item>
+        <item>ความช่วยเหลือด้านเครือข่าย การเชื่อมต่ออินเทอร์เน็ต การแชร์ฮอตสปอต</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>หน้าจอหลัก+</item>
+        <item>การเชื่อมต่อระหว่างกัน/หน้าจอหลัก+</item>
+        <item>หน้าจอหลัก+, Mi Smart Hub, การแชร์หน้าจอ</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>คลิปบอร์ด</item>
+        <item>การเชื่อมต่อระหว่างกัน/คลิปบอร์ด</item>
+        <item>คลิปบอร์ด</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>การแจ้งเตือนข้ามอุปกรณ์</item>
+        <item>การเชื่อมต่อระหว่างกัน/การแจ้งเตือน</item>
+        <item>การแจ้งเตือนข้ามอุปกรณ์</item>
+    </string-array>
+</resources>

@@ -27,6 +27,15 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">%2$d ไฟล์ รวมถึง%1$s ถูกปฏิเสธ</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">ได้รับ %2$d ไฟล์ รวมถึง%1$s</item>
+    </plurals>
+    <plurals name="download_title_multi">
+        <item quantity="other">%2$d ไฟล์ รวมถึง%1$s</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>

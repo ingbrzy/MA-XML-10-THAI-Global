@@ -4,13 +4,13 @@
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+        <item quantity="other">%d ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+        <item quantity="other">ใน %d ชั่วโมง</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ในครึ่งชั่วโมง</item>
@@ -36,11 +36,26 @@
     <plurals name="adblock_total_counts">
         <item quantity="other">บล็อกแล้ว %d โฆษณา</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">ไม่ได้สแกนเป็นเวลา %d วัน</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">ตรวจสอบ %1$d บทความใหม่</item>
     </plurals>
     <plurals name="auto_play_next_tips">
         <item quantity="other">เล่นวิดีโอถัดไปใน %d วินาที</item>
+    </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">คุณไม่ได้สแกนอุปกรณ์ของคุณใน %d วัน สแกนเดี๋ยวนี้?</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">วัน</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">คุณไม่ได้เพิ่มประสิทธิภาพอุปกรณ์ของคุณใน %d วัน เพิ่มประสิทธิภาพเลยไหม?</item>
+    </plurals>
+    <plurals name="count_likes">
+        <item quantity="other">%s ไลค์</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d วันก่อน</item>
@@ -113,6 +128,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+    </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">ล่าสุด %d วัน</item>
     </plurals>
@@ -146,8 +165,8 @@
     <plurals name="pref_adblock_counts">
         <item quantity="other">บล็อกไปแล้ว %d โฆษณา</item>
     </plurals>
-    <plurals name="reading__search_resultful">
-        <item quantity="other">พบ %1$d ผลลัพธ์</item>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">%d วิดีโอแนะนำใหม่</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s คำขอค้นหา</item>
@@ -220,5 +239,8 @@
     </plurals>
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s ครั้ง</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">สัปดาห์ที่แล้ว Mi เบราว์เซอร์ ได้เพิ่มความเร็วในการโหลดหน้าเว็บให้กับคุณ %d ครั้ง!</item>
     </plurals>
 </resources>

@@ -29,6 +29,13 @@
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="accessing_notification_title">กำลังเข้าถึงไฟล์จาก %1$s</string>
     <string name="app_label">โฮสต์ MTP</string>
+    <string name="call_notification_answer_action">รับสาย</string>
+    <string name="call_notification_answer_video_action">วิดีโอ</string>
+    <string name="call_notification_decline_action">ปฏิเสธ</string>
+    <string name="call_notification_hang_up_action">วางสาย</string>
+    <string name="call_notification_incoming_text">สายเรียกเข้า</string>
+    <string name="call_notification_ongoing_text">สายที่สนทนาอยู่</string>
+    <string name="call_notification_screening_text">กำลังสกรีนสายเรียกเข้า</string>
     <string name="downloads_app_label">ดาวน์โหลด</string>
     <string name="error_busy_device">อุปกรณ์อีกเครื่องหนึ่งไม่ว่าง คุณไม่สามารถโอนไฟล์จนกว่าอุปกรณ์จะสามารถใช้ได้</string>
     <string name="error_locked_device">ไม่พบไฟล์ อุปกรณ์อีกเครื่องหนึ่งอาจล็อกอยู่ หากเป็นเช่นนั้น ให้ปลดล็อกและลองอีกครั้ง</string>

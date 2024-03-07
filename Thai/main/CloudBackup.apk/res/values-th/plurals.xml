@@ -4,13 +4,13 @@
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+        <item quantity="other">%d ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+        <item quantity="other">ใน %d ชั่วโมง</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ในครึ่งชั่วโมง</item>
@@ -32,6 +32,12 @@
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s สำรองข้อมูล (%2$s)</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d วันนับตั้งแต่การสำรองข้อมูลครั้งล่าสุด | ข้อมูลใหม่: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d วันนับตั้งแต่การสำรองข้อมูลครั้งล่าสุด</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>

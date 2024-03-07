@@ -4,10 +4,9 @@
         <item>กล้อง</item>
         <item>คลังภาพ</item>
     </string-array>
-    <string-array name="common_folder_operations">
-        <item>新建</item>
-        <item>重命名</item>
-        <item>删除</item>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_columns</item>
+        <item>@string/setting_big_screen_layout_flat</item>
     </string-array>
     <string-array name="contact_entries">
         <item>ชื่อ</item>
@@ -22,20 +21,6 @@
         <item>ที่อยู่</item>
         <item>บันทึกย่อ</item>
     </string-array>
-    <string-array name="first_guide_contents">
-        <item>ยินดีต้อนรับเข้าสู่บันทึกย่อ!</item>
-        <item>จดบันทึกย่อ</item>
-        <item>คุณสามารถใส่ข้อความ ภาพ และบันทึกเสียงในบันทึกย่อของคุณ ไลบรารีที่หลากหลายลักษณะและแบบอักษรจะทำให้การเขียนง่ายดูสวยงาม</item>
-        <item>ตรวจสอบรายการและการช่วยเตือนจะช่วยคุณเมื่อคุณต้องการเครื่องมือพื้นฐาน และมีประสิทธิภาพมากขึ้นสำหรับการวางแผนการเดินทางครั้งต่อไปของคุณ</item>
-        <item>แชร์บันทึกย่อ</item>
-        <item>คุณสามารถสร้างภาพหน้าจอแนวยาวในบันทึกย่อโดยอัตโนมัติได้ และแบ่งปันกับเพื่อนของคุณได้</item>
-        <item>สร้างและสลับระหว่างโฟลเดอร์</item>
-        <item>กดลูกศรด้านล่างเพื่อสร้างโฟลเดอร์ใหม่ หรือสลับกับที่มีอยู่</item>
-    </string-array>
-    <string-array name="folder_operations">
-        <item>เปลี่ยนชื่อ</item>
-        <item>ลบ</item>
-    </string-array>
     <string-array name="font_size_names">
         <item>เล็ก</item>
         <item>ปานกลาง</item>
@@ -46,15 +31,8 @@
         <item>ตามวันที่สร้าง</item>
         <item>ตามวันที่แก้ไข</item>
     </string-array>
-    <string-array name="second_guide_contents">
-        <item>บันทึกเสียง</item>
-        <item>สร้างบันทึกย่อโดยใช้เครื่องมือในการพูดเป็นข้อความ ซึ่งติดตั้งการบันทึกเสียงต้นฉบับของคุณไว้ในบันทึกย่อ</item>
-    </string-array>
-    <string-array name="second_guide_contents_pad_or_inter">
-        <item>บันทึกเสียง</item>
-        <item>คุณสามารถสร้างบันทึกเสียงได้ตอนนี้ เพียงแตะไอคอน บันเสียงของคุณ และบันทึกไฟล์เสียงในบันทึก</item>
-    </string-array>
-    <string-array name="system_folder_operations">
-        <item>新建</item>
+    <string-array name="setting_phone_note_layout_way">
+        <item>@string/action_mode_switcher_list_description</item>
+        <item>@string/action_mode_switcher_grid_description</item>
     </string-array>
 </resources>

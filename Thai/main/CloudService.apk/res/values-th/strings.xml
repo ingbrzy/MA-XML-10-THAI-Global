@@ -79,6 +79,24 @@
     <string name="cloud_storage_upgrade_text">อัปเกรด</string>
     <string name="cloud_storage_upgrade_text_now">อัปเกรด</string>
     <string name="cloud_storage_zero_upgrade_button_text_now">อัปเกรดฟรี</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้</string>
+    <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_install_button">ติดตั้ง</string>
+    <string name="common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">ความพร้อมใช้งานของบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="common_google_play_services_unsupported_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+    <string name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_wear_update_text">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_signin_button_text">ลงชื่อเข้าใช้</string>
+    <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
     <string name="confirm_save">เก็บไว้</string>
     <string name="connect_network">เชื่อมต่อกับ Wi-Fi หรือใส่ซิมการ์ด</string>
     <string name="connect_network_china">เชื่อมต่อกับ WLAN หรือใส่ซิมการ์ด</string>
@@ -164,6 +182,8 @@
     <string name="feedback_custom_hint">อธิบายปัญหาที่คุณพบที่นี่ หากคุณจะให้คำแนะนำเรา เรายินดีที่จะรับรายละเอียดเพิ่มเติม!</string>
     <string name="find_device">ค้นหาอุปกรณ์</string>
     <string name="find_device_dspt_provision">ในกรณีที่เครื่องโทรศัพท์ของคุณหาย คุณสามารถเข้าไปที่ &lt;font color=#0097FF>%s&lt;/font> เพื่อค้นหาพิกัดเครื่อง ทำการล็อกหรือรีเซ็ต โดยคุณสามารถเปิด-ปิดคุณลักษณะนี้ได้ตลอดเวลาในเมนูการตั้งค่า</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">โดยการเปิดใช้งานค้นหาอุปกรณ์นี้ คุณยอมรับใน <u><a href="app://com.miui.cloudservice.gdpr.license"> นโยบายความเป็นส่วนตัว</a></u>ของเรา ปิดคุณสมบัตินี้หากคุณต้องการเพิกถอนความยินยอม</string>
     <string name="find_device_operation_failure_rpc">ไม่สามารถดำเนินการได้เนื่องจากข้อผิดพลาด RPC</string>
     <string name="find_device_permissions_footer">แตะ \"ยินยอม\" เพื่อให้การอนุญาตที่คุณเลือก</string>

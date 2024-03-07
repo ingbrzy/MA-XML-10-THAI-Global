@@ -32,9 +32,8 @@
     <string name="am">AM</string>
     <string name="app_name">บันทึกหน้าจอ</string>
     <string name="app_notification_channel_record_complete">การแจ้งเตือนเกี่ยวกับการบันทึกที่เสร็จสิ้น</string>
-    <string name="app_notification_info">บันทึกหน้าจอทำงานอยู่ด้านหลัง</string>
-    <string name="app_notification_record_saved">"บันทึกเรียบร้อยแล้ว
-แตะเพื่อดู"</string>
+    <string name="app_notification_info">กำลังบันทึกหน้าจอ…</string>
+    <string name="app_notification_record_saved">บันทึกการบันทึกหน้าจอแล้ว แตะเพื่อดู</string>
     <string name="app_notification_title">บันทึกหน้าจอ</string>
     <string name="auto_stop_title">บันทึกวิดีโอเรียบร้อย</string>
     <string name="battery_not_allowed_warning">ไม่สามารถบันทึกได้เมื่อแบตเตอรี่ต่ำกว่า %1$s ตรวจสอบให้แน่ใจว่าแบตเตอรี่เหลืออย่างน้อย %2$s</string>
@@ -42,9 +41,9 @@
     <string name="bit_rate_summary">คุณภาพสูงหมายถึงไฟล์ขนาดใหญ่</string>
     <string name="bubble_text">แตะเพื่อเริ่มการบันทึก</string>
     <string name="button_back">ย้อนกลับ</string>
-    <string name="button_clear_storage">ล้างขยะเพื่อเพิ่มพื้นที่</string>
+    <string name="button_clear_storage">เพิ่มพื้นที่</string>
     <string name="button_confirm">ตกลง</string>
-    <string name="button_goon_recorder">ทำต่อ</string>
+    <string name="button_goon_recorder">ดำเนินการต่อ</string>
     <string name="cancel_edit">ยกเลิก</string>
     <string name="cannot_change_frames">อัตราเฟรมสามารถปรับแต่งเฉพาะสำหรับการบันทึกที่มีอัตราเฟรมคงที่เท่านั้น</string>
     <string name="cannot_change_parames">ไม่สามารถแก้ไขพารามิเตอร์ขณะบันทึกได้</string>
@@ -72,7 +71,7 @@
     <string name="evening">บ่าย</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="first_using_mic_dialog_message">บันทึกหน้าจอต้องการเข้าถึงของไมโครโฟนเพื่อบันทึกเสียง อนุญาตหรือไม่?</string>
-    <string name="first_using_mic_dialog_title">สิทธิ์ที่จำเป็น</string>
+    <string name="first_using_mic_dialog_title">ต้องการการอนุญาต</string>
     <string name="fixed_frame_rate">แก้ไขอัตราเฟรม</string>
     <string name="fixed_frame_rate_summary">การบันทึกวิดีโอที่มีอัตราเฟรมคงที่ช่วยเพิ่มการเล่นบนแพลตฟอร์มโซเชียลมีเดียและทำให้แบตเตอรี่ใช้งานได้นานขึ้น</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -137,12 +136,12 @@
     <string name="hint_back">ย้อนกลับ</string>
     <string name="hint_home">หน้าจอหลัก</string>
     <string name="hint_menu">เมนู</string>
-    <string name="hint_power">แบตเตอรี่</string>
+    <string name="hint_power">เปิด/ปิดเครื่อง</string>
     <string name="hint_volume_down">ลดเสียง</string>
     <string name="hint_volume_up">เพิ่มเสียง</string>
     <string name="home_title_none">เลือกรายการ</string>
     <string name="invisible_mode_error_tip">คุณอยู่ในโหมดไม่ระบุตัวตน ไม่สามารถบันทึกเสียงได้</string>
-    <string name="is_checked">เลือกแล้ว</string>
+    <string name="is_checked">เลือกไว้</string>
     <string name="is_go_home">กลับไปยังตัวบันทึกหน้าจอ</string>
     <string name="is_go_home_summary">เปิดหน้าเริ่มต้นของตัวบันทึกหน้าจอหลังจากพักบันทึกชั่วคราว</string>
     <string name="loopback_sound">ลำโพง</string>
@@ -158,15 +157,15 @@
     <string name="mic_sound">ไมค์</string>
     <string name="midnight">กลางคืน</string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
     <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
-    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
-    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
@@ -224,7 +223,7 @@
     <string name="night">เย็น</string>
     <string name="no_recorder_info">ไม่มีวิดีโอ</string>
     <string name="no_recorder_info2">แตะปุ่มเพื่อเริ่มบันทึก</string>
-    <string name="no_sound">เงียบ</string>
+    <string name="no_sound">ปิดเสียง</string>
     <string name="noon">เที่ยงวัน</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="operation_delete">ลบ</string>
@@ -236,6 +235,7 @@
     <string name="pm">PM</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacy_settings">ความเป็นส่วนตัว</string>
+    <string name="protect_oneself_when_recording">กำลังบันทึกการโทร ปกป้องความเป็นส่วนตัวของคุณและผู้อื่นในขณะที่ใช้คุณสมบัตินี้</string>
     <string name="quit_recording">ยุติการบันทึกหน้าจอ</string>
     <string name="record_time_too_short">วิดีโอที่บันทึกสั้นเกินไป</string>
     <string name="recording_failure">ไม่สามารถบันทึกได้ เริ่มต้นใหม่</string>

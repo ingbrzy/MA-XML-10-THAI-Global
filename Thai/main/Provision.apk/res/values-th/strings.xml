@@ -221,6 +221,8 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="input_method_setting">เลือกแป้นพิมพ์</string>
     <string name="install_preinstall_app">กำลังโหลดแอปต่างๆ…</string>
     <string name="interconnection_communication_introduction">บริการสื่อสารทางอินเทอร์เน็ตของ Xiaomi ช่วยให้คุณค้นพบ เชื่อมต่อ และสื่อสารกับอุปกรณ์ Xiaomi อื่นๆ</string>
+    <string name="interconnection_service_global_item_title">การเชื่อมต่อโครงข่าย Xiaomi</string>
+    <string name="interconnection_service_global_label">&lt;Data>การเชื่อมต่อระหว่าง Xiaomi ช่วยให้อุปกรณ์ของคุณโต้ตอบกันแบบไร้สาย การสลับสวิตช์นี้แสดงว่าคุณยอมรับ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a >.&lt;/Data> ของ การเชื่อมต่อโครงข่าย Xiaomi</string>
     <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
 \u0009\u0009互传：
 \u0009\u0009读写设备上的照片及文件
@@ -294,6 +296,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009用于发送及接收传输的文件
 如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
 因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
+    <string name="interconnection_service_summary_global">คุณสมบัติการเชื่อมต่อโครงข่าย Xiaomi อาจแตกต่างกันไปขึ้นอยู่กับรุ่นอุปกรณ์และเวอร์ชันของระบบ เยี่ยมชมเว็บไซต์อย่างเป็นทางการของระบบเพื่อเรียนรู้เพิ่มเติม</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">หากอุปกรณ์ของคุณหายไป คุณจะไม่สามารถป้องกันไม่ให้ผู้อื่นใช้งานและเข้าถึงข้อมูลของคุณได้เว้นแต่คุณจะตั้งค่าล็อกหน้าจอไว้ ยืนยันข้าม?</string>
     <string name="item_facerecognition">ปลดล็อกด้วยใบหน้า</string>

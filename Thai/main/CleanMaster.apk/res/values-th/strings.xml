@@ -52,6 +52,7 @@
     <string name="activity_title_uninstall_apps">แอป</string>
     <string name="activity_title_video">ลบวิดีโอ</string>
     <string name="activity_title_white_list">รายการยกเว้น</string>
+    <string name="ad_flag_text">โฆษณา</string>
     <string name="ad_install_success_dialog_lunch">เปิด</string>
     <string name="ad_install_success_dialog_title">ติดตั้ง %1$s เรียบร้อยแล้ว เปิดทันที?</string>
     <string name="afternoon">บ่าย</string>
@@ -239,6 +240,7 @@
     <string name="dc_item_title_wechat_chat">ล้างประวัติ WeChat</string>
     <string name="dc_storage_cleaned">เพิ่มพื้นที่แล้ว %s</string>
     <string name="dc_storage_info">พื้นที่ว่าง %1$s |ทั้งหมด %2$s</string>
+    <string name="dc_storage_info_new">คงเหลือ %1$s</string>
     <string name="deep_clean_completed_tips">ล้างเรียบร้อยแล้ว</string>
     <string name="deep_clean_data_path_clean_title">ล้างแคช</string>
     <string name="deep_clean_uninstall_completed_tips">ถอนการติดตั้งเรียบร้อยแล้ว</string>
@@ -302,6 +304,7 @@
     <string name="download">ดาวน์โหลด</string>
     <string name="downloading">กำลังดาวน์โหลด</string>
     <string name="early_morning">เช้า</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">ว่าง</string>
     <string name="empty_content_no_privacy">ไม่มี</string>
     <string name="empty_content_no_similar_image">ไม่มีรูปภาพ</string>
@@ -462,7 +465,6 @@
     <string name="guide_dc_dialog_negative">ยกเลิก </string>
     <string name="guide_dc_dialog_positive">ตกลง</string>
     <string name="guide_dc_dialog_title">ที่เก็บข้อมูลเหลือน้อย</string>
-    <string name="guide_secure_dialog_message">ประสิทธิภาพอุปกรณ์ของคุณต่ำกว่า 80 เพิ่มประสิทธิภาพตอนนี้หรือไม่?</string>
     <string name="guide_secure_dialog_message_new">คะแนนการเพิ่มประสิทธิภาพของอุปกรณ์ของคุณต่ำกว่า %d คะแนน เพิ่มประสิทธิภาพเลยไหม?</string>
     <string name="guide_secure_dialog_negative">ยกเลิก </string>
     <string name="guide_secure_dialog_positive">เพิ่มประสิทธิภาพ</string>
@@ -490,6 +492,7 @@
     <string name="hints_garbage_cleanup_result_safe">ไม่พบสิ่งผิดปกติ</string>
     <string name="hints_garbage_handle_item_content">%1$d รายการ, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">ว่าง</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">ใช้งานน้อย</string>
     <string name="hints_installed_app_near">ใช้งานเมื่อเร็วๆนี้</string>
     <string name="hints_installed_app_never">ไม่เคยใช้งาน</string>
@@ -539,6 +542,7 @@
     <string name="last_check_canceled">การสแกนครั้งล่าสุดถูกยกเลิก</string>
     <string name="load_only_under_wlan">ใช้ Wi-Fi ในการโหลดเท่านั้น</string>
     <string name="location_not_found">ไม่พบไฟล์</string>
+    <string name="lock_device_toast">อุปกรณ์นี้ถูกล็อค ปลดล็อคเพื่อใช้ ตัวทำความสะอาด</string>
     <string name="login_immediately">ลงชื่อเข้าใช้</string>
     <string name="long_click_dialog_summary">กดค้างเพื่อเพิ่มรายการยกเว้น</string>
     <string name="long_click_dialog_title">แจ้งเตือน</string>
@@ -566,15 +570,15 @@
     <string name="menu_view">เรียกดูในโฟลเดอร์</string>
     <string name="midnight">กลางคืน</string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
     <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
-    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
-    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
@@ -638,6 +642,9 @@
     <string name="msg_update_error_code_success">เสร็จสิ้น</string>
     <string name="msg_update_error_code_unknown_error">เซิร์ฟเวอร์ไม่ว่าง รอสักครู่แล้วลองอีกครั้ง</string>
     <string name="name_debuglog_dir">บันทึกการแก้ปัญหา BSP</string>
+    <string name="native_body">เนื้อความ</string>
+    <string name="native_headline">บรรทัดแรก</string>
+    <string name="native_media_view">มุมมองสื่อ</string>
     <string name="nb_clear_set">ล้างหน่วยความจำแคช เรียกดูแบตเตอรี่และข้อมูลรายการบล็อกในหน้าต่างการแจ้งเตือน</string>
     <string name="network_not_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="news_change">แก้ไข</string>
@@ -744,12 +751,7 @@
     <string name="pref_title_open_optimizer_cloud_scan">อัปโหลดชื่อไฟล์</string>
     <string name="pref_title_open_optimizer_memory_scan">สแกนหน่วยความจำ</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
-    <string name="privacy_app_desc">บัญชีและรหัสผ่าน</string>
-    <string name="privacy_app_desc_message">บัญชี, รหัสผ่านและข้อความ</string>
-    <string name="privacy_app_desc_search">บัญชี, รหัสผ่านและประวัติการค้นหา</string>
-    <string name="privacy_app_desc_setting">บัญชี, รหัสผ่านและการตั้งค่า</string>
     <string name="privacy_browser_desc">รายการที่ถูกค้นหา</string>
-    <string name="privacy_cache_desc">บัญชี รหัสผ่าน ประวัติ การตั้งค่าและอื่นๆ</string>
     <string name="privacy_cache_empty">ไม่พบข้อมูลส่วนตัว</string>
     <string name="privacy_cache_scaning">กำลังตรวจสอบ…</string>
     <string name="privacy_cache_title">ข้อมูลส่วนบุคคล</string>
@@ -807,6 +809,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_ad">ข้าม</string>
     <string name="sponsored">ให้การสนับสนุน</string>
     <string name="start_downloading_app">กำลังดาวน์โหลด: %1$s</string>
     <string name="start_install">ติดตั้งตอนนี้</string>
@@ -868,9 +871,7 @@
     <string name="time_picker_label_hour">ชม.</string>
     <string name="time_picker_label_minute">น.</string>
     <string name="tips_low_storage_dialog_cancel">ยกเลิก </string>
-    <string name="tips_low_storage_dialog_msg_qq">ขนาดแคชของ QQ มากถึง 3GB อาจทำให้อุปกรณ์ของคุณทำงานช้าลง ล้างแคช QQ เดี๋ยวนี้หรือไม่?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">ขนาดแคชของ QQ ถึง %d GB ซึ่งอาจทำให้อุปกรณ์ของคุณช้าลง ล้างแคช QQ เลยไหม?</string>
-    <string name="tips_low_storage_dialog_msg_storage">คุณใช้พื้นที่เก็บข้อมูล 90% ถอนการติดตั้งแอปที่คุณไม่ได้ใช้</string>
     <string name="tips_low_storage_dialog_msg_storage_new">คุณใช้พื้นที่เก็บข้อมูล %s ถอนการติดตั้งแอปที่คุณไม่ได้ใช้</string>
     <string name="tips_low_storage_dialog_msg_wechat_new">ขนาดแคชของ WeChat ถึง %d GB ซึ่งอาจทำให้อุปกรณ์ของคุณช้าลง ล้างแคช WeChat เลยไหม?</string>
     <string name="tips_low_storage_dialog_ok">ล้าง</string>
@@ -938,6 +939,7 @@
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="virus_scan">สแกนไวรัส</string>
+    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wechat_chat_data_type_cache">หน่วยความจำแคช WeChat</string>
     <string name="wechat_chat_data_type_cache_desc">คุณจะสามารถเรียกคืนค่าไฟล์เหล่านี้หลังจากคุณเชื่อมต่ออินเตอร์เน็ต</string>
     <string name="wechat_chat_data_type_chat">ประวัติแชท</string>

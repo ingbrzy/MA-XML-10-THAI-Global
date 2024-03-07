@@ -4,13 +4,13 @@
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+        <item quantity="other">%d ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+        <item quantity="other">ใน %d ชั่วโมง</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ในครึ่งชั่วโมง</item>
@@ -47,10 +47,6 @@
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">เลือกไว้ %d รายการ</item>
-    </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
-        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>

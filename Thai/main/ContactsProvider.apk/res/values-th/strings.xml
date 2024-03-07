@@ -16,7 +16,6 @@
     <string name="provider_label">รายชื่อ</string>
     <string name="sharedUserLabel">แอปหลักแอนดรอยด์</string>
     <string name="sim_state_changed">เปลี่ยนซิมการ์ดแล้ว</string>
-    <string name="third_party_delete_contact_info">\"%s\" กำลังพยายามลบผู้ติดต่อของคุณ การดำเนินการนี้จะไม่สำเร็จเมื่อใช้แอปในค่ายอื่น หากต้องการลบผู้ติดต่อควรใช้แอปที่อยู่ในรายชื่อ MIUI</string>
     <string name="update_accounts_changed">บัญชีมีการเปลี่ยนแปลง</string>
     <string name="upgrade_out_of_memory_notification_text">แตะเพื่อเสร็จสิ้นการอัปเดต</string>
     <string name="upgrade_out_of_memory_notification_ticker">ต้องใช้หน่วยความจำมากกว่านี้เพื่ออัปเดต</string>

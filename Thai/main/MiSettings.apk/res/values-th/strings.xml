@@ -47,8 +47,10 @@
     <string name="anti_flicker_mode">ป้องกันภาพสั่นไหว</string>
     <string name="anti_flicker_mode_categroy">โหมด</string>
     <string name="anti_flicker_mode_summary">ป้องกันการกะพริบเป็นวงกว้างและลดอาการปวดตาในสภาวะแสงน้อย</string>
+    <string name="anti_flicker_mode_summary_new">ใช้ DC dimming ในที่แสงน้อยเพื่อลดอาการปวดตา</string>
     <string name="anti_flicker_title">โหมดป้องกันภาพสั่นไหว</string>
     <string name="app_name">การตั้งค่า</string>
+    <string name="app_use">เวลาหน้าจอแอป</string>
     <string name="application_sound">การแจ้งเตือนของแอป</string>
     <string name="apply_ringtone">Apply</string>
     <string name="arctic_fox">Arctic fox</string>
@@ -111,7 +113,6 @@
     <string name="branch_whipbird">วงศ์นกเดินดง</string>
     <string name="brown_pelican">นกกระทุงสีน้ำตาล</string>
     <string name="calendar_sound">การแจ้งเตือนกิจกรรม</string>
-    <string name="calendar_tip">เสียงเตือนความจำเหตุการณ์ใช้งานได้สำหรับการเตือนปฏิทินบันทึกย่อและงานต่างๆ</string>
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">คาปิบาราส เป็นสัตว์ฟันแทะกึ่งน้ำกึ่งสัตว์กินพืชที่สามารถกลั้นหายใจใต้น้ำได้ครั้งละไม่เกิน 5 นาที</string>
@@ -159,7 +160,7 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
     <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
-    <string name="dc_light_hint_enable_title">การแจ้งเตือน</string>
+    <string name="dc_light_hint_enable_title">โปรดทราบ</string>
     <string name="dc_light_hint_normal">การลดแสง DC อาจส่งผลกระทบต่อวิธีการแสดงบางรายการ</string>
     <string name="dc_light_hint_normal_anit">โหมดป้องกันภาพสั่นไหวอาจส่งผลต่อวิธีการแสดงรายการบางรายการ</string>
     <string name="dc_light_hint_normal_other">โหมดป้องกันภาพสั่นไหวอาจส่งผลต่ออัตราการรีเฟรชและวิธีการแสดงบางรายการ</string>
@@ -307,6 +308,10 @@
     <string name="focus_time_exception_tip">ดูเหมือนว่าเวลาของระบบเปลี่ยนไป ปิดโหมดโฟกัสแล้ว</string>
     <string name="follow_apps_settings">ตามการตั้งค่าแอป</string>
     <string name="follow_sim1">ใช้การตั้งค่าใช้ซิม 1</string>
+    <string name="footer_global_fps">"
+%1$d เมื่อคุณเปิดโหมดประสิทธิภาพ อัตรารีเฟรชจะเปลี่ยนเป็นค่าสูงสุดของระบบที่ %2$d Hz การตั้งค่าแอปที่มีอัตราการรีเฟรชสูงจะไม่สามารถใช้งานได้ชั่วคราว"</string>
+    <string name="footer_max_fps" formatted="false">"
+%d อัตราการรีเฟรชสามารถปรับได้สูงสุด %s Hz สำหรับแอปและเกมที่รองรับ"</string>
     <string name="force_rest">ใช้การพักเซสชัน</string>
     <string name="force_rest_summary">หยุดพักเมื่อถึงขีดจำกัดที่กำหนดไว้</string>
     <string name="force_rest_time">ระยะเวลาการพัก</string>
@@ -419,18 +424,21 @@
     <string name="marabou_stork">Marabou stork</string>
     <string name="marabou_stork_info">นกกระสา มาราบู เป็นนกขนาดใหญ่เป็นสัตว์กินของเน่าบ่อย</string>
     <string name="masked_palm_civet">อีเห็นเครือ</string>
+    <string name="max_fps_string">สูงถึง %s Hz</string>
     <string name="medium_tree_finch">นกกระจิบต้นไม้ขนาดกลาง</string>
+    <string name="mi_transfer_banner_summary">รองรับอุปกรณ์หลายยี่ห้อ</string>
+    <string name="mi_transfer_banner_title">โอนรายการจากอุปกรณ์เก่าของคุณ</string>
     <string name="midnight">กลางคืน</string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
     <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
-    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
-    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
@@ -582,6 +590,7 @@
     <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_fps_unit_power_save">%dHz (ประหยัดแบตเตอรี่)</string>
     <string name="screen_fps_unit_smooth">%dHz (คุณภาพที่ดีกว่า)</string>
+    <string name="screen_fps_unit_string">%s Hz</string>
     <string name="screen_original_gamut">ขั้นสูง</string>
     <string name="screen_original_gamut_summary">แสดงเนื้อหาของหน้าจอทั้งหมดในขอบเขตสีที่กว้างที่สุดเท่าที่จะทำได้</string>
     <string name="screen_paper_mode_apps_loading">รอสักครู่…</string>
@@ -640,6 +649,7 @@
     <string name="stop_summary">สถิติเวลาและข้อมูลหน้าจอทั้งหมดจะถูกลบเมื่อคุณปิดคุณลักษณะนี้</string>
     <string name="suggestion">ข้อเสนอแนะ</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
+    <string name="summary_max_fps_for_intelligent">ปรับอัตราการรีเฟรชแบบไดนามิกให้สูงถึง %s Hz ตามสถานการณ์เพื่อสร้างความสมดุลระหว่างประสิทธิภาพกับการใช้พลังงาน</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
@@ -794,7 +804,7 @@
 แอปนี้จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องได้รับการอนุญาตต่อไปนี้เพื่อรวบรวมข้อมูลส่วนตัวของคุณ:"</string>
     <string name="usage_home_premission_second_summary">เพื่อให้สามารถทำงานได้ตามปกติแอปนี้ต้องรวบรวมข้อมูลส่วนบุคคลของคุณ เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้องหากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเพิกถอนการอนุญาตได้ใน เวลาหน้าจอ > การตั้งค่า > ปิดเวลาหน้าจอ</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>ก่อนใช้งานแอปนี้ อ่านและยอมรับใน &lt;a href='%1s'>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href='%2s'>นโยบายความเป็นส่วนตัว&lt;/a>.&lt;/Data> ของเรา"</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"ก่อนใช้งานแอปนี้ อ่านและยอมรับใน &lt;a href='%1s'>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href='%2s'>นโยบายความเป็นส่วนตัว&lt;/a>."</Data> ของเรา</string>
     <string name="usage_home_premission_second_summary_new">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้องหากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเพิกถอนการอนุญาตได้ใน เวลาหน้าจอ > การตั้งค่า > ปิดเวลาหน้าจอ หากคุณมีข้อสงสัยเกี่ยวกับความเป็นส่วนตัว คุณสามารถติดต่อเราได้ที่ privacy@xiaomi.com.</string>
     <string name="usage_new_category_limit_summary">กำหนดขีดจำกัดการใช้งานรายวันสำหรับแอปทั้งหมดในหมวดหมู่นี้</string>
     <string name="usage_new_category_limit_title">จำกัดการใช้งานสำหรับหมวดหมู่แอป</string>
@@ -842,7 +852,7 @@
     <string name="usage_optional_title">สิทธิ์เพิ่มเติม</string>
     <string name="usage_permisison_agree_desc_o">ในการจัดทำสถิติเวลาหน้าจอให้กับคุณ แอปนี้จะต้องรวบรวมข้อมูลต่อไปนี้: จำนวนครั้งที่คุณปลดล็อคอุปกรณ์ รายการแอปของคุณพร้อมกับระยะเวลาการใช้งานที่สอดคล้องกัน</string>
     <string name="usage_permisison_agree_desc_p">ในการจัดทำสถิติเวลาหน้าจอและโหมดโฟกัสให้กับคุณ แอปนี้จะต้องรวบรวมข้อมูลต่อไปนี้: จำนวนครั้งที่คุณปลดล็อคอุปกรณ์ รายการแอปของคุณพร้อมกับระยะเวลาการใช้งานที่สอดคล้องกัน จำนวนครั้งที่หน้าจอสว่างขึ้น และการตั้งค่าโหมดโฟกัส</string>
-    <string name="usage_permission_double_link" formatted="false">"&lt;Data>แอปนี้ต้องเชื่อมต่ออินเทอร์เน็ตและรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้สามารถทำงานได้ตามปกติ เพื่อทำความเข้าใจสิทธิ์ของคุณอย่างเต็มที่ในฐานะผู้ใช้รวมถึงวิธีการที่เราใช้ข้อมูลของคุณ โปรดอ่านและยอมรับ &lt;a href='%1s'>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href='%2s'>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา&lt;/Data>"</string>
+    <string name="usage_permission_double_link" formatted="false"><Data>"แอปนี้ต้องเชื่อมต่ออินเทอร์เน็ตและรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้สามารถทำงานได้ตามปกติ เพื่อทำความเข้าใจสิทธิ์ของคุณอย่างเต็มที่ในฐานะผู้ใช้รวมถึงวิธีการที่เราใช้ข้อมูลของคุณ โปรดอ่านและยอมรับ &lt;a href='%1s'>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href='%2s'>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา"</Data></string>
     <string name="usage_permission_main_desc">"ยินดีต้อนรับสู่เวลาหน้าจอ!
 แอปนี้ต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องได้รับการอนุญาตต่อไปนี้เพื่อให้สามารถทำงานได้ตามปกติ:"</string>
     <string name="usage_permission_title">โปรดทราบ</string>

@@ -9,7 +9,7 @@
         <item>ไม่สามารถเข้าถึงเครือข่าย เชื่อมต่อ Wi-Fi ใหม่หรือรีบูตเราเตอร์</item>
     </string-array>
     <string-array name="net_diag_err_link_quality_china">
-        <item>Poor WLAN connection. Switch wireless bands or reboot the router.</item>
+        <item>การเชื่อมต่อ Wi-Fi ไม่ดี สลับย่านความถี่ไร้สายหรือรีบูตเราเตอร์</item>
         <item>"Can't access network. Reconnect to WLAN or reboot the router."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity">
@@ -17,7 +17,7 @@
         <item>การเข้าถึงเครือข่ายถูกจำกัด ปรับเวลาในอุปกรณ์นี้และตรวจสอบการตั้งค่าเครือข่ายของเราเตอร์</item>
         <item>ข้อผิดพลาดของเครือข่าย ตรวจสอบการตั้งค่าพร็อกซี HTTP</item>
         <item>ข้อผิดพลาดของเครือข่าย ตรวจสอบว่าเราเตอร์สามารถเข้าถึงอินเทอร์เน็ตได้หรือไม่</item>
-        <item>ไม่สามารถเชื่อมต่อกับเครือข่าย เชื่อมต่อ Wi-Fi ใหม่หรือรีบูตเราเตอร์</item>
+        <item>ไม่สามารถเข้าถึงเครือข่าย เชื่อมต่อ Wi-Fi ใหม่หรือรีบูตเราเตอร์</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
         <item>ต้องมีการตรวจสอบสิทธิ์ในการเข้าถึงเครือข่าย</item>
@@ -29,7 +29,7 @@
     <string-array name="net_diag_err_network_dns">
         <item>ข้อผิดพลาดของเซิร์ฟเวอร์ DNS ตรวจสอบการกำหนดค่า DNS ของเราเตอร์</item>
         <item>ความล่าช้าที่สำคัญจากเซิร์ฟเวอร์ DNS ตรวจสอบการกำหนดค่า DNS ของเราเตอร์</item>
-        <item>ไม่สามารถเข้าถึงเกตเวย์ได้ เชื่อมต่อ Wi-Fi ใหม่หรือรีบูตเราเตอร์</item>
+        <item>ไม่สามารถเข้าถึงเครือข่าย เชื่อมต่อ Wi-Fi ใหม่หรือรีบูตเราเตอร์</item>
     </string-array>
     <string-array name="net_diag_err_network_dns_china">
         <item>ข้อผิดพลาดของเซิร์ฟเวอร์ DNS ตรวจสอบการกำหนดค่า DNS ของเราเตอร์</item>

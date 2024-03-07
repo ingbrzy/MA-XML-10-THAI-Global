@@ -4,13 +4,13 @@
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+        <item quantity="other">%d ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+        <item quantity="other">ใน %d ชั่วโมง</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ในครึ่งชั่วโมง</item>
@@ -35,12 +35,6 @@
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">เสียงเรียกเข้า %1$d ครั้ง</item>
-    </plurals>
-    <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d หมายเลขโทรศัพท์</item>
-    </plurals>
-    <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">ลบ %d หมายเลขโทรศัพท์?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d รายชื่อหรือรูปภาพซิงค์ไม่ได้</item>
@@ -84,11 +78,11 @@
     <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d เลขหมาย</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">ระบบจำกัดจำนวนผู้รับข้อความไม่เกินครั้งละ %d รายการ</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
-    </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d รายการ</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d รายชื่อ</item>
@@ -155,9 +149,6 @@
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">พบ %d</item>
-    </plurals>
-    <plurals name="search_group_contacts_result">
-        <item quantity="other">%s ผลลัพธ์</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">เลือกได้ไม่เกิน %1$d ไม่สามารถเลือกทั้งหมดได้</item>

@@ -2,7 +2,7 @@
 <resources>
     <string-array name="hmode_app_classify1">
         <item>กำหนดเอง</item>
-        <item>ตัวประหยัดแบตเตอรี่ MIUI</item>
+        <item>ตัวประหยัดแบตเตอรี่</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>แอปใช้งาน</item>

@@ -36,6 +36,8 @@
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
     <string name="bottomsheet_action_expand_halfway">ขยายรายการครึ่งหนึ่ง</string>
+    <string name="cast_auth_count_down">ป้อนโค้ดจาก \"%1$s\" เพื่อเริ่มฉายภาพ (%2$dวิ)</string>
+    <string name="cast_auth_title">ป้อนรหัส</string>
     <string name="cast_image_des">แนะนำวิธีการฉายภาพ</string>
     <string name="casting_tips">กำลังฉายภาพ…</string>
     <string name="character_counter_content_description">ป้อนอักขระแล้ว %1$d จาก %2$d ตัว</string>
@@ -43,10 +45,11 @@
     <string name="clear_text_end_icon_content_description">ล้างข้อความ</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="close">ปิด</string>
+    <string name="close_auxiliary_wifi_hint">ปิด \"เพิ่มความเร็ว Wi-Fi แบบย่านความถี่คู่\" เพื่อให้สามารถส่งได้</string>
+    <string name="close_auxiliary_wifi_hint_china">Turn off \"Dual band WLAN speed boost\" to be able to cast</string>
+    <string name="close_dp_casting_hint">ถอดสายเคเบิลแล้วลองอีกครั้ง</string>
     <string name="close_hotspot_hint">ปิดฮอตสปอตแบบพกพาก่อนที่จะฉายภาพ</string>
     <string name="close_hotspot_hint_DFS">หากต้องการโอนรายการไปยังทีวี ให้ปิดฮอตสปอตก่อน</string>
-    <string name="close_slave_wifi_hint">ตัดการเชื่อมต่อจากเครือข่าย Wi-Fi เสริมก่อนฉายภาพ</string>
-    <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
     <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
@@ -65,6 +68,7 @@
     <string name="device_desc_trust">อุปกรณ์ที่เชื่อถือได้</string>
     <string name="dialog_can_not_find_device">ไม่พบอุปกรณ์ใกล้ๆ</string>
     <string name="dialog_cancle">ยกเลิก </string>
+    <string name="dialog_close">ปิดใช้งาน</string>
     <string name="dialog_connect_fail">เชื่อมต่อไม่ได้</string>
     <string name="dialog_connect_retry">แตะเพื่อลองอีกครัั้ง</string>
     <string name="dialog_connect_verify_perssion">อนุญาตให้ส่งสัญญาณบนทีวีของคุณก่อน</string>
@@ -79,8 +83,8 @@
     <string name="dialog_nearbydevice_permission_message">อนุญาตให้อุปกรณ์นี้เข้าถึงอุปกรณ์ใกล้เคียงเพื่อใช้ฟีเจอร์การแคสต์</string>
     <string name="dialog_nearbydevice_permission_title">จำเป็นต้องขออนุญาต</string>
     <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
-    <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g> เชื่อมต่อทั้งอุปกรณ์เคลื่อนที่และทีวีกับเครือข่าย Wi-Fi เดียวกัน&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. ในทีวีบางรุ่น คุณสมบัตินี้จะใช้ได้เฉพาะเมื่อเปิดการสะท้อนหน้าจอ ดู &lt;a href=milink://com.milink.service/specification>\"ความช่วยเหลือ\"&lt;/a> เพื่อเรียนรู้เพิ่มเติม&lt;/Data></string>
-    <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
+    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g> เชื่อมต่อทั้งอุปกรณ์เคลื่อนที่และทีวีกับเครือข่าย Wi-Fi เดียวกัน&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. ในทีวีบางรุ่น คุณสมบัตินี้จะใช้ได้เฉพาะเมื่อเปิดการสะท้อนหน้าจอ ดู &lt;a href=milink://com.milink.service/specification>\"ความช่วยเหลือ\"&lt;/a> เพื่อเรียนรู้เพิ่มเติม</Data></string>
+    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.</Data></string>
     <string name="dialog_ok">ตกลง</string>
     <string name="dialog_only_suport_content">สตรีมรูปภาพ วิดีโอ หรือเพลง</string>
     <string name="dialog_open_wifi_bt">เปิดใช้งาน</string>
@@ -94,6 +98,9 @@
     <string name="dialog_scan_message_china">"%1$d. Connect both your mobile device and TV to the same WLAN network.
 
 %2$d. View \"Help\" to learn more."</string>
+    <string name="dialog_scanning_close_dual_wifi_china">Turn off \"Dual band WLAN speed boost\" to be able to cast. Turn this feature off now?</string>
+    <string name="dialog_scanning_close_dual_wifi_global">ปิด \"เพิ่มความเร็ว Wi-Fi แบบย่านความถี่คู่\" เพื่อให้สามารถส่งได้ ปิดฟีเจอร์นี้ตอนนี้เลยไหม?</string>
+    <string name="dialog_scanning_close_tethering">ปิดฮอตสปอตเพื่อให้สามารถฉายภาพได้ ปิดฮอตสปอตตอนนี้เลยไหม?</string>
     <string name="dialog_scanning_device">กำลังค้นหาอุปกรณ์ใกล้เคียง…</string>
     <string name="dialog_scanning_precondition">เปิด Wi-Fi และบลูทูธบนโทรศัพท์ของคุณเพื่อใช้จอแสดงผลแบบไร้สาย</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
@@ -101,11 +108,13 @@
     <string name="dialog_select_tv">เลือกอุปกรณ์ (%1$d)</string>
     <string name="dialog_show_help">ความช่วยเหลือ</string>
     <string name="disconnect">หยุดการฉายภาพหน้าจอ</string>
+    <string name="dp_casting_start_hint">เชื่อมต่อผ่านสายเคเบิล การฉายภาพสิ้นสุดลงแล้ว</string>
     <string name="dual_wifi_warning_china">Turn off dual WLAN and try again</string>
     <string name="dual_wifi_warning_global">ปิดใช้งาน Wi-Fi คู่ แล้วลองอีกครั้ง</string>
     <string name="early_morning">เช้า</string>
     <string name="empty" />
     <string name="enable_screen_projection_summary">ฉายภาพเนื้อหาของหน้าจอไปยังจอภาพภายนอก</string>
+    <string name="enable_screen_projection_summary_new">ส่งหน้าจออุปกรณ์เคลื่อนที่ไปยังทีวีใกล้เคียงและจอภาพภายนอกอื่นๆ</string>
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="error_icon_content_description">ข้อผิดพลาด</string>
@@ -168,24 +177,32 @@
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
     <string name="global_privacy">ข้อตกลงและเงื่อนไข</string>
-    <string name="global_privacy_detail">&lt;Data>อ่านและยอมรับ &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ก่อนใช้แอปนี้&lt;br>หากคุณไม่ยินยอมที่จะใช้บริการข้างต้นคุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอปนี้ได้ อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ&lt;/Data></string>
+    <string name="global_privacy_detail"><Data>อ่านและยอมรับ &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ก่อนใช้แอปนี้&lt;br>หากคุณไม่ยินยอมที่จะใช้บริการข้างต้นคุณจะไม่สามารถใช้คุณสมบัติบางอย่างของแอปนี้ได้ อย่างไรก็ตามฟังก์ชันพื้นฐานจะยังคงพร้อมใช้งานสำหรับคุณ</Data></string>
     <string name="global_privacy_explain">ยินดีต้อนรับสู่ ฉายภาพ! แอปนี้ให้บริการดังต่อไปนี้:</string>
     <string name="global_privacy_feature">ใช้หน้าต่างย่อขนาด ฉายภาพโดยปิดหน้าจอ และซ่อนรายการส่วนตัว</string>
     <string name="global_privacy_main">ฉายรายการจากหน้าจอโทรศัพท์ของคุณบนจอภาพภายนอกที่ใหญ่กว่า</string>
     <string name="global_privacy_negative">ไม่เห็นด้วย</string>
     <string name="global_privacy_positive">ยอมรับ</string>
     <string name="global_privacy_screencast">ขณะบันทึกหรือฉายภาพ บริการที่มีฟีเจอร์นี้สามารถบันทึกข้อมูลสำคัญใดๆ ที่แสดงบนหน้าจอหรือเล่นจากอุปกรณ์ของคุณ รวมถึงข้อมูลที่ละเอียดอ่อน เช่น เสียง รหัสผ่าน ข้อมูลการชำระเงิน รูปภาพ และข้อความ.</string>
-    <string name="global_privacy_tip">&lt;Data>เราจำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการขั้นพื้นฐานแก่คุณและเพิ่มประสิทธิภาพกระบวนการคัดเลือกนักแสดง คุณสามารถเรียนรู้วิธีที่เราจัดการกับข้อมูลที่เรารวบรวมได้ใน &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวในการตั้งค่าได้ทุกเมื่อ&lt;/Data></string>
+    <string name="global_privacy_tip"><Data>เราจำเป็นต้องรวบรวมข้อมูลส่วนบุคคลที่จำเป็นเพื่อให้บริการขั้นพื้นฐานแก่คุณและเพิ่มประสิทธิภาพกระบวนการฉายภาพ คุณสามารถเรียนรู้วิธีที่เราจัดการกับข้อมูลที่เรารวบรวมได้ใน &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา คุณสามารถเพิกถอนความยินยอมของคุณต่อนโยบายความเป็นส่วนตัวในการตั้งค่าได้ทุกเมื่อ</Data></string>
     <string name="hang_up">ปิดฉายภาพด้วยหน้าจอ</string>
     <string name="hang_up_alert_dialog_content">ส่งต่อเมื่อหน้าจออุปกรณ์ของคุณปิดอยู่ คุณสมบัตินี้ลดการใช้พลังงาน กดปุ่มเปิด/ปิดเพื่อเปิดหน้าจออีกครั้ง</string>
     <string name="hang_up_alert_dialog_neg">ยกเลิก </string>
     <string name="hang_up_alert_dialog_pos">ตกลง</string>
     <string name="hang_up_alert_dialog_title">กำลังจะฉายภาพโดยปิดหน้าจอ…</string>
+    <string name="head_toast_connecting">กำลังเชื่อมต่อ…</string>
+    <string name="head_toast_fail">ไม่สามารถเชื่อมต่อได้</string>
+    <string name="head_toast_success">เชื่อมต่อเรียบร้อย</string>
+    <string name="help_page_question_1st_01_international">"%1$d เมื่ออุปกรณ์ที่คุณกำลังแคสต์ไปคือ Xiaomi TV ให้เปิด Miracast
+%2$d เมื่ออุปกรณ์ที่คุณกำลังแคสต์ไปไม่ใช่ทีวี Xiaomi ตรวจสอบให้แน่ใจว่าทีวีรองรับ Miracast และฟีเจอร์นี้เปิดอยู่ คุณสมบัตินี้อาจมีชื่อที่แตกต่างกันในทีวีบางรุ่น เช่น การแสดงผลแบบไร้สาย การสะท้อนหน้าจอ หรือหน้าจอหลายจอ"</string>
+    <string name="help_page_setp_1st_02_international">%1$d ทีวีบางยี่ห้ออาจเปิด Miracast ไว้โดยอัตโนมัติ</string>
+    <string name="help_page_step_1st_01_international">%1$d เปิด Miracast บน Xiaomi TV ของคุณ</string>
     <string name="help_page_text_01">ความช่วยเหลือ</string>
     <string name="help_page_text_02">การฉายภาพคืออะไร?</string>
     <string name="help_page_text_03">การฉายภาพคือการฉายรายการจากหน้าจอโทรศัพท์ของคุณไปบนจอภาพภายนอกที่ใหญ่กว่า ช่วยให้คุณสามารถแบ่งปันภาพและวิดีโอกับเพื่อนและครอบครัวของคุณโดยไม่ต้องใช้ข้อมูลมือถือ</string>
     <string name="help_page_text_04">ฉันจะฉายรายการบนหน้าจอที่ใหญ่ขึ้นได้อย่างไร?</string>
     <string name="help_page_text_05">ขั้นตอนที่ %1$d: ตรวจสอบอุปกรณ์และสภาพแวดล้อมเครือข่ายของคุณ</string>
+    <string name="help_page_text_05_new">ขั้นตอนที่ %1$d: ตรวจสอบอุปกรณ์และสภาพแวดล้อมเครือข่ายของคุณ</string>
     <string name="help_page_text_06">"%1$d. Xiaomi TVs, set-top boxes, projectors:
 Connect both your mobile device and external monitor to the same WLAN network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
 Note: Older TV models might not support casting across different networks.
@@ -196,13 +213,33 @@ If the two devices can't be connected to the same network, turn on Miracast on y
 หมายเหตุ: ทีวีรุ่นเก่าอาจไม่รองรับการส่งสัญญาณข้ามเครือข่ายที่แตกต่างกัน
 %2$d. หากคุณใช้ทีวี กล่องรับสัญญาณ หรือโปรเจคเตอร์ของแบรนด์อื่นๆ ให้เชื่อมต่อทั้งอุปกรณ์เคลื่อนที่และจอภาพภายนอกของคุณเข้ากับเครือข่าย Wi-Fi เดียวกัน
 หากอุปกรณ์ทั้งสองไม่สามารถเชื่อมต่อกับเครือข่ายเดียวกันให้เปิด Miracast บนจอภาพภายนอกของคุณ ชื่อฟังก์ชั่น Miracast อาจแตกต่างกันไป"</string>
+    <string name="help_page_text_06_new_1">ทีวี Xiaomi กล่องรับสัญญาณ และโปรเจคเตอร์:</string>
+    <string name="help_page_text_06_new_2">"%1$d ตรวจสอบให้แน่ใจว่าอุปกรณ์เคลื่อนที่และจอภาพภายนอกของคุณเชื่อมต่อกับเครือข่าย Wi-Fi เดียวกัน
+%2$d ในทีวี Xiaomi บางรุ่น คุณสามารถตั้งค่าการแคสต์จากทีวี รวมถึงปรับแต่งการค้นหาอุปกรณ์และวิธีการยืนยันได้"</string>
+    <string name="help_page_text_06_new_3">*คุณสามารถตั้งค่ากำหนดแคสต์สำหรับทีวีของคุณได้ในการตั้งค่าการฉายภาพ</string>
+    <string name="help_page_text_06_new_4">ทีวีที่ไม่ใช่ Xiaomi กล่องรับสัญญาณ และโปรเจคเตอร์:</string>
+    <string name="help_page_text_06_new_5">"%1$d ตรวจสอบให้แน่ใจว่าอุปกรณ์เคลื่อนที่และจอภาพภายนอกของคุณเชื่อมต่อกับเครือข่าย Wi-Fi เดียวกัน
+%2$d ในทีวีบางยี่ห้อ คุณจะต้องเปิด Miracast ก่อนจึงจะแคสต์ได้"</string>
+    <string name="help_page_text_06_new_6">เรียนรู้เพิ่มเติม</string>
     <string name="help_page_text_08">ขั้นตอนที่ %1$d: เปิดการฉายภาพ</string>
+    <string name="help_page_text_08_new">ขั้นตอนที่ %1$d: เปิดการฉายภาพ</string>
     <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
     <string name="help_page_text_09_global">แตะสวิตซ์ \"ส่ง\" ในแถบการแจ้งเตือนของอุปกรณ์ เปิด Wi-Fi และบลูทูธเพื่อการเชื่อมต่อที่เสถียรยิ่งขึ้น</string>
+    <string name="help_page_text_09_new_1">เปิดการแคสต์ในศูนย์ควบคุมของอุปกรณ์ จากนั้นค้นหาจอภาพภายนอก</string>
     <string name="help_page_text_10">หากคุณต้องการฉายภาพ รูปถ่าย วิดีโอ เกม หรืองานนำเสนอ คุณสามารถใช้คุณสมบัติการฉายภาพในตัวในแอปที่เกี่ยวข้องได้</string>
     <string name="help_page_text_11">ขั้นตอนที่ %1$d: เลือกอุปกรณ์</string>
+    <string name="help_page_text_11_new">ขั้นตอนที่ %1$d: เลือกอุปกรณ์</string>
     <string name="help_page_text_12">เลือกอุปกรณ์ภายนอกจากรายการอุปกรณ์ที่มีอยู่เพื่อเริ่มส่ง</string>
+    <string name="help_page_text_12_new_1">เลือกอุปกรณ์ภายนอกจากรายการอุปกรณ์ที่มีอยู่เพื่อเริ่มส่ง</string>
     <string name="help_page_text_13">ไม่สามารถเชื่อมต่อกับอุปกรณ์ภายนอกได้?</string>
+    <string name="help_page_text_13_act_label_1">คำถามที่พบบ่อย</string>
+    <string name="help_page_text_13_desc_1">"%1$d ตรวจสอบให้แน่ใจว่าอุปกรณ์เคลื่อนที่และจอภาพภายนอกของคุณเชื่อมต่อกับเครือข่าย Wi-Fi หรือฮอตสปอตเดียวกัน
+%2$d ตรวจสอบให้แน่ใจว่าสภาพแวดล้อมเครือข่ายมีเสถียรภาพ หากไม่เป็นเช่นนั้น ให้ลองรีสตาร์ทเราเตอร์ของคุณหรือเปลี่ยนไปใช้แบนด์เครือข่าย %3$d GHz
+%4$d เมื่อทำการแคสต์ไปยังทีวี Xiaomi ให้เปิดคุณสมบัติการแคสต์แบบไร้สายบนทีวี อยู่ในหน้าแคสต์ขณะเชื่อมต่อ
+%5$d LAN สาธารณะขนาดใหญ่บางแห่ง เช่น บริษัทและโรงเรียนไม่รองรับความสามารถในการค้นหาอุปกรณ์บน LAN เดียวกัน"</string>
+    <string name="help_page_text_13_desc_2">ทีวีบางรุ่นใช้การเชื่อมต่อที่ไม่ใช่ LAN ขณะแคสต์ เป็นเรื่องปกติที่อุปกรณ์เหล่านี้จะถูกตัดการเชื่อมต่อจากเครือข่าย โดยปกติจะเชื่อมต่อใหม่ภายใน %1$d-%2$d วินาทีหลังจากสิ้นสุดการฉายภาพ</string>
+    <string name="help_page_text_13_summary_1">ไม่สามารถเชื่อมต่อกับอุปกรณ์ภายนอกได้</string>
+    <string name="help_page_text_13_summary_2">เครือข่ายหยุดชะงักขณะฉายภาพ</string>
     <string name="help_page_text_14">"%1$d. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
 Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If there aren't any networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your mobile device and the external monitor, and turn on Miracast on your TV.
 %2$d. If you're casting on a Xiaomi device for the first time, you need to complete verification.
@@ -218,6 +255,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="help_page_text_17">"คุณสามารถฉายรายการต่างๆจากโทรศัพท์ Mi ของคุณบนทีวี Mi รุ่นส่วนใหญ่ที่มีความสามารถบลูทูธโดยไม่ต้องเปิด Miracast ด้วยตนเอง
 หากคุณต้องการเปิด Miracast ให้กดปุ่ม [MENU] และเลือก แอปของฉัน > ฉายภาพ > Miracast"</string>
     <string name="help_page_text_17_1">ฝ่ายรองรับลูกค้า Xiaomi: 400-100-5678</string>
+    <string name="help_page_text_17_content">คุณสามารถฉายรายการจากโทรศัพท์ Xiaomi ของคุณบนทีวี Xiaomi ส่วนใหญ่ที่มีความสามารถบลูทูธ โดยไม่ต้องเปิด Miracast ด้วยตนเอง หากคุณต้องการเปิด Miracast ให้กดปุ่ม [MENU] และเริ่มส่งโดยใช้ตัวเลือกสำหรับโทรศัพท์ Android อื่นๆ</string>
     <string name="help_page_text_18">Samsung TV</string>
     <string name="help_page_text_19">ขั้นแรกตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณรองรับ Miracast ในบางรุ่นคุณสามารถกดปุ่ม [SOURCE] บนรีโมทคอนโทรลจากนั้นเลือก \"Screen Mirroring\" คุณลักษณะนี้จะเปิดใช้งานตามค่าเริ่มต้นในรุ่นต่างๆ</string>
     <string name="help_page_text_20">ฝ่ายรองรับลูกค้า Samsung: 400-810-5858</string>
@@ -280,15 +318,15 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="material_timepicker_text_input_mode_description">สลับไปโหมดป้อนข้อความเพื่อป้อนเวลา</string>
     <string name="midnight">กลางคืน</string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือก</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_select_all">เลือกทั้งหมด</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
     <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
-    <string name="miuix_appcompat_deselect_all">ไม่เลือก</string>
-    <string name="miuix_appcompat_deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
@@ -350,6 +388,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -398,13 +437,13 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="paipai_error_dialog_msg">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองอีกครั้ง</string>
     <string name="paipai_error_dialog_negative">รับทราบ</string>
     <string name="password_toggle_content_description">แสดงรหัสผ่าน</string>
-    <string name="path_setting_cast">การเชื่อมต่อและแชร์/ฉายภาพ</string>
-    <string name="path_setting_cast_demo">การเชื่อมต่อและแชร์/ฉายภาพ/การสาธิต</string>
-    <string name="path_setting_cast_demo_document">การเชื่อมต่อและแชร์/ฉายภาพ/การสาธิต/เอกสาร</string>
-    <string name="path_setting_cast_demo_gallery">การเชื่อมต่อและแชร์/ฉายภาพ/การสาธิต/รูปภาพและวีดีโอ</string>
-    <string name="path_setting_cast_demo_game">การเชื่อมต่อและแชร์/ฉายภาพ/การสาธิต/เกมส์</string>
-    <string name="path_setting_cast_feature">การเชื่อมต่อและแชร์/ฉายภาพ/คุณลักษณะพิเศษ</string>
-    <string name="path_setting_cast_help">การเชื่อมต่อและแชร์/ฉายภาพ/ช่วยเหลือ</string>
+    <string name="path_setting_cast">ตัวเลือกการเชื่อมต่อเพิ่มเติม/ฉายภาพ</string>
+    <string name="path_setting_cast_demo">ตัวเลือกการเชื่อมต่อเพิ่มเติม/ฉายภาพ/ตัวอย่าง</string>
+    <string name="path_setting_cast_demo_document">ตัวเลือกการเชื่อมต่อเพิ่มเติม/ฉายภาพ/ตัวอย่าง/เอกสาร</string>
+    <string name="path_setting_cast_demo_gallery">ตัวเลือกการเชื่อมต่อเพิ่มเติม/ฉายภาพ/ตัวอย่าง/ภาพถ่ายและวิดีโอ</string>
+    <string name="path_setting_cast_demo_game">ตัวเลือกการเชื่อมต่อเพิ่มเติม/ฉายภาพ/ตัวอย่าง/เกม</string>
+    <string name="path_setting_cast_feature">ตัวเลือกการเชื่อมต่อเพิ่มเติม/ฉายภาพ/คุณสมบัติพิเศษ</string>
+    <string name="path_setting_cast_help">ตัวเลือกการเชื่อมต่อเพิ่มเติม/ฉายภาพ/ช่วยเหลือ</string>
     <string name="permission_allowed">ยินยอมแล้ว</string>
     <string name="permission_uballowed">ไม่ได้รับการยินยอม</string>
     <string name="pm">PM</string>
@@ -412,7 +451,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="privacy_agree">ยอมรับ</string>
     <string name="privacy_detail">อนุญาตให้แอปนี้เชื่อมต่ออินเทอร์เน็ตและให้การอนุญาตที่จำเป็นก่อนดำเนินการต่อ</string>
-    <string name="privacy_detail_extra">&lt;Data>คุณลักษณะบางอย่างจัดทำโดยผู้ให้บริการบุคคลที่สาม HappyCast ก่อนที่จะใช้คุณสมบัตินี้ โปรดอ่านและยอมรับ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว HappyCast&lt;/a> และ &lt;a href=%2$s>คำชี้แจงทางกฎหมาย HappyCast&lt;/a>&lt;/Data></string>
+    <string name="privacy_detail_extra"><Data>คุณลักษณะบางอย่างจัดทำโดยผู้ให้บริการบุคคลที่สาม HappyCast ก่อนที่จะใช้คุณสมบัตินี้ โปรดอ่านและยอมรับ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว HappyCast&lt;/a> และ &lt;a href=%2$s>คำชี้แจงทางกฎหมาย HappyCast&lt;/a></Data></string>
     <string name="privacy_explain">ยินดีต้อนรับสู่การฉายภาพ! การฉายภาพช่วยให้สามารถฉายรายการจากหน้าจอโทรศัพท์ของคุณไปบนจอภาพภายนอกที่ใหญ่กว่า แอปนี้ต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องได้รับการอนุญาตต่อไปนี้เพื่อให้สามารถทำงานได้ตามปกติ:</string>
     <string name="privacy_negative">ออก</string>
     <string name="privacy_permission_ble">เปิดและปิดบลูทูธ</string>
@@ -440,7 +479,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="privacy_revoke_confirm_message">คุณจะไม่สามารถใช้งานคุณสมบัติการแคสต์ต่อไปได้ เว้นแต่คุณจะอนุญาตให้เราให้บริการของเราตามการรวบรวมข้อมูลส่วนบุคคลที่จำเป็น เพิกถอนความยินยอมในนโยบายความเป็นส่วนตัวของ HappyCast หรือไม่?</string>
     <string name="privacy_revoke_confirm_sure">ตกลง</string>
     <string name="privacy_revoke_confirm_title">ใช้บริการไม่ได้</string>
-    <string name="privacy_revoke_dialog_agree">ตกลง</string>
+    <string name="privacy_revoke_dialog_agree">ยอมรับ</string>
     <string name="privacy_revoke_dialog_message">หากดำเนินการต่อ คุณจะเพิกถอนความยินยอมของคุณต่อ นโยบายความเป็นส่วนตัว ของ HappyCast ข้อมูลส่วนบุคคลที่รวบรวมและเก็บรักษาไว้จะถูกลบออกภายในระยะเวลาที่กำหนดตามกฎหมายและข้อบังคับที่บังคับใช้ เว้นแต่จะกำหนดเป็นอย่างอื่น เนื่องจาก HappyCast ให้บริการตามการรวบรวมข้อมูลส่วนบุคคลที่จำเป็น การเพิกถอนความยินยอมของคุณจะถือเป็นการปฏิเสธที่จะยอมรับบริการ HappyCast เพิกถอนความยินยอมตอนนี้?</string>
     <string name="privacy_revoke_dialog_revoke">เพิกถอน</string>
     <string name="privacy_revoke_dialog_title">การเพิกถอนความยินยอม</string>
@@ -454,18 +493,18 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="privacy_setting_show_lelink_policy">ดูนโยบายความเป็นส่วนตัว HappyCast</string>
     <string name="privacy_setting_show_policy">ดูนโยบายความเป็นส่วนตัว</string>
     <string name="privacy_setting_show_user_agreement">ดูข้อตกลงการใช้งาน</string>
-    <string name="privacy_text_1">"&lt;Data>ยินดีต้อนรับสู่การฉายภาพ! การฉายภาพช่วยให้ฉายรายการจากหน้าจอโทรศัพท์ของคุณไปบนจอภาพภายนอกที่ใหญ่กว่า
+    <string name="privacy_text_1"><Data>"ยินดีต้อนรับสู่การฉายภาพ! การฉายภาพช่วยให้ฉายรายการจากหน้าจอโทรศัพท์ของคุณไปบนจอภาพภายนอกที่ใหญ่กว่า
 เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง คุณลักษณะบางอย่างจัดทำโดยผู้ให้บริการบุคคลที่สาม HappyCast ก่อนที่จะใช้คุณสมบัตินี้ให้อ่านและยอมรับ &lt;a href=%2$s>คำชี้แจงทางกฎหมาย HappyCast&lt;/a> และ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว HappyCast&lt;/a>
-เพื่อให้สามารถทำงานได้ตามปกติ แอปนี้ต้องเชื่อมต่ออินเทอร์เน็ตและต้องได้รับการอนุญาตดังต่อไปนี้พื่อรวบรวมข้อมูลส่วนตัวของคุณ:&lt;/Data>"</string>
-    <string name="privacy_text_2">"&lt;Data>หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณคุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว
-อ่านและยอมรับ &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ก่อนที่จะใช้คุณสมบัตินี้&lt;/Data>"</string>
+เพื่อให้สามารถทำงานได้ตามปกติ แอปนี้ต้องเชื่อมต่ออินเทอร์เน็ตและต้องได้รับการอนุญาตดังต่อไปนี้พื่อรวบรวมข้อมูลส่วนตัวของคุณ:"</Data></string>
+    <string name="privacy_text_2"><Data>"หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณคุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกถอนการติดตั้งแอปนี้ออกจากระบบหรือจำกัดการอนุญาตในการตั้งค่าในกรณีดังกล่าว
+อ่านและยอมรับ &lt;a href=%1$s>ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=%2$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา ก่อนที่จะใช้คุณสมบัตินี้"</Data></string>
     <string name="privacy_text_pemission">"　　•เข้าถึงและบันทึกรูปภาพบนอุปกรณ์ของคุณเพื่อฉายรายการเหล่านี้บนจอภาพภายนอก
 　　•บันทึกการโทรและเสียงเพื่อส่งสัญญาณเสียงไปยังอุปกรณ์ภายนอก
 　　•เข้าถึงหมายเลขโทรศัพท์ IMEI และ IMSI เพื่อระบุอุปกรณ์ของคุณ
 　　•เข้าถึงตำแหน่งของคุณเพื่อค้นหาอุปกรณ์ที่ใกล้เคียง"</string>
     <string name="privacy_title">โปรดทราบ</string>
     <string name="privacy_update_dialog_negative_btn">ยกเลิก </string>
-    <string name="privacy_update_dialog_positive_btn">ตกลง</string>
+    <string name="privacy_update_dialog_positive_btn">ยอมรับ</string>
     <string name="privacy_update_dialog_quit">ออก</string>
     <string name="private_protect">ซ่อนรายการส่วนตัว</string>
     <string name="required_permissions">android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;</string>
@@ -480,22 +519,38 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="scan_wifi_label_global">เชื่อมต่อกับ Wi-Fi</string>
     <string name="screen_projection">ฉายภาพ</string>
     <string name="screen_projection_characteristics">คุณลักษณะพิเศษ</string>
+    <string name="screen_projection_characteristics_cast_summary">ส่งเนื้อหาหน้าจอไปยังทีวีใกล้เคียง</string>
+    <string name="screen_projection_characteristics_hang_up_summary_new">ปิดหน้าจออุปกรณ์เคลื่อนที่ขณะฉายภาพเพื่อประหยัดแบตเตอรี่และหลีกเลี่ยงความร้อนสูงเกินไป</string>
     <string name="screen_projection_characteristics_off_screen_summary">คุณสามารถฉายภายต่อได้เมื่อหน้าจออุปกรณ์ปิดอยู่ คุณสมบัตินี้จะลดการใช้พลังงาน</string>
     <string name="screen_projection_characteristics_off_screen_title">ปิดฉายภาพด้วยหน้าจอ</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">ไม่แสดง การแจ้งเตือนแบบลอย สายเรียกเข้า และรายการส่วนตัวอื่นๆ บนจอภาพภายนอก</string>
     <string name="screen_projection_characteristics_privacy_protect_title">ซ่อนรายการส่วนตัว</string>
+    <string name="screen_projection_characteristics_private_summary_new">ปกป้องความเป็นส่วนตัวของคุณ: ขณะฉายภาพ อุปกรณ์ของคุณจะไม่แสดงการแจ้งเตือนแบบลอย สายเรียกเข้า และรายการส่วนตัวอื่นๆ</string>
     <string name="screen_projection_characteristics_small_window_summary">ย่อหน้าต่างที่กำลังใช้งานเพื่อให้สามารถใช้คุณสมบัติอื่นๆ ของโทรศัพท์ของคุณได้</string>
+    <string name="screen_projection_characteristics_small_window_summary_new">ฉายภาพหน้าจอและแสดงเนื้อหาในหน้าต่างลอยขณะใช้งานแอปอื่น</string>
     <string name="screen_projection_characteristics_small_window_title">ย่อหน้าต่าง</string>
+    <string name="screen_projection_entrance_list">ดูอุปกรณ์ที่พร้อมใช้งาน</string>
+    <string name="screen_projection_entrance_list_new">ดูรายการอุปกรณ์ที่สามารถแคสต์ได้</string>
+    <string name="screen_projection_example_document_hint_miui15">* รายการจะแสดงบนทีวีใกล้เคียง</string>
+    <string name="screen_projection_example_document_hint_new"><Data>*หากต้องการใช้คุณลักษณะนี้ ให้ไปที่ ไฟล์ > เอกสาร แล้วแตะ &lt;img src=../drawable/ic_cast_icon_photo.png/> ไอคอน</Data></string>
     <string name="screen_projection_example_document_summary">แสดงงานนำเสนอบนจอภาพภายนอกในขณะที่ใช้โทรศัพท์ของคุณเพื่อสลับระหว่างสไลด์และดูบันทึกย่อ ไปที่ ตัวจัดการไฟล์ > เอกสาร เพื่อลองใช้คุณสมบัตินี้</string>
+    <string name="screen_projection_example_document_summary_miui15">แสดงสไลด์นำเสนอบนทีวีในขณะที่ใช้อุปกรณ์นี้เป็นรีโมท</string>
     <string name="screen_projection_example_document_title">เอกสาร</string>
+    <string name="screen_projection_example_gallery_hint_miui15">*หากต้องการส่งรูปภาพและวิดีโอ ให้เลือกรายการในคลังภาพ แตะ \"แชร์\" แล้วแตะไอคอน \"ฉายภาพ\"</string>
+    <string name="screen_projection_example_gallery_hint_new"><Data>*หากต้องการใช้คุณสมบัตินี้ ไปที่แกลเลอรี เลือกรูปภาพ แตะ \"ส่ง\" ที่แถบด้านล่าง แล้วแตะ &lt;img src=../drawable/ic_cast_icon_photo.png/> ไอคอน</Data></string>
     <string name="screen_projection_example_gallery_summary">แตะปุ่มแชร์ใต้รายการในแอปคลังภาพเพื่อแสดงบนจอภาพภายนอก</string>
+    <string name="screen_projection_example_gallery_summary_miui15">ดูภาพถ่ายและวิดีโอของคุณบนหน้าจอทีวี</string>
     <string name="screen_projection_example_gallery_title">รูปภาพและวิดีโอ</string>
+    <string name="screen_projection_example_game_hint_miui15">"*หากต้องการแคสต์เกม ให้แตะ \"ฉายภาพ\" ใน Game Turbo ขณะเล่น
+ตรวจสอบให้แน่ใจว่าคุณได้เปิด Game Turbo ก่อนฉายภาพเกม"</string>
     <string name="screen_projection_example_game_summary">Game Turbo ช่วยให้คุณสามารถฉายภาพเกมไปยังจอภาพภายนอก ใช้ทางลัดในกล่องเครื่องมือ Game Turbo เพื่อเปิดคุณสมบัตินี้</string>
+    <string name="screen_projection_example_game_summary_miui15">ดูเซสชันการเล่นเกมของคุณบนทีวี</string>
     <string name="screen_projection_example_game_title">เกม</string>
     <string name="screen_projection_help">ช่วยเหลือ</string>
     <string name="screen_projection_sample_summary">ฉายภาพ เอกสาร, เกม, ภาพถ่าย และวิดีโอ</string>
     <string name="screen_projection_sample_title">ตัวอย่าง</string>
     <string name="screen_projection_title">ฉายภาพ</string>
+    <string name="screen_projection_title_miui15">ฉายภาพ</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="send">ส่ง</string>
     <string name="show_result_on_tv">ดูผลลัพธ์บนทีวี</string>
@@ -553,6 +608,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="thursday_short">พฤหัส</string>
     <string name="thursday_shortest">พฤหัส</string>
     <string name="tile_label">ฉายภาพ</string>
+    <string name="tile_label_v2">บริการเชื่อมต่อระหว่างกัน</string>
     <string name="time_picker_dialog_title">ตั้งเวลา</string>
     <string name="time_picker_label_hour">ชม.</string>
     <string name="time_picker_label_minute">น.</string>
@@ -570,7 +626,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="today">วันนี้</string>
     <string name="tomorrow">พรุ่งนี้</string>
     <string name="trust_device_desc">อุปกรณ์เหล่านี้จะปรากฏที่นี่ก่อนเมื่ออยู่ใกล้ๆ</string>
-    <string name="trust_device_dialog_desc">&lt;Data>%s จะปรากฏขึ้นในอุปกรณ์ที่มีก่อนเมื่ออยู่ใกล้ๆ หากคุณทำเครื่องหมายว่าเชื่อถือได้&lt;br>&lt;br>คุณสามารถ &lt;a href=milink://com.milink.service/trust>จัดการอุปกรณ์ที่เชื่อถือได้&lt;/a> ในการตั้งค่า&lt;/Data></string>
+    <string name="trust_device_dialog_desc"><Data>%s จะปรากฏขึ้นในอุปกรณ์ที่มีก่อนเมื่ออยู่ใกล้ๆ หากคุณทำเครื่องหมายว่าเชื่อถือได้&lt;br>&lt;br>คุณสามารถ &lt;a href=milink://com.milink.service/trust>จัดการอุปกรณ์ที่เชื่อถือได้&lt;/a> ในการตั้งค่า</Data></string>
     <string name="trust_device_dialog_pos">เชื่อถือ</string>
     <string name="trust_device_dialog_title">เชื่อถืออุปกรณ์นี้?</string>
     <string name="trust_device_manager">จัดการอุปกรณ์ที่เชื่อถือได้</string>

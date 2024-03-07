@@ -4,13 +4,13 @@
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+        <item quantity="other">%d ชั่วโมงที่แล้ว</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+        <item quantity="other">ใน %d ชั่วโมง</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ในครึ่งชั่วโมง</item>
@@ -30,23 +30,14 @@
     <plurals name="add_game_notification_title">
         <item quantity="other">เพิ่ม %d เกมแล้ว</item>
     </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">เพิ่ม %d แอปแล้ว</item>
+    </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d แอป</item>
     </plurals>
     <plurals name="app_behavior_dashboard_total_usage_item">
         <item quantity="other">%d แอป</item>
-    </plurals>
-    <plurals name="app_behavior_desc_allow">
-        <item quantity="other">อนุญาต %3$d ครั้ง ระหว่าง %1$s และ %2$s</item>
-    </plurals>
-    <plurals name="app_behavior_desc_allow_minute">
-        <item quantity="other">อนุญาตแล้ว %2$d ครั้ง เมื่อ %1$s</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny">
-        <item quantity="other">จำกัด %3$d ครั้ง ระหว่าง %1$s และ %2$s</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny_minute">
-        <item quantity="other">ปฏิเสธแล้ว %2$d ครั้ง เมื่อ %1$s</item>
     </plurals>
     <plurals name="app_behavior_desc_duration_usage">
         <item quantity="other">อนุญาต %3$d ครั้ง ระหว่าง %1$s และ %2$s</item>
@@ -57,32 +48,8 @@
     <plurals name="app_behavior_desc_duration_usage_time_end">
         <item quantity="other">ใช้ไป %1$d นาที จนถึง %2$s</item>
     </plurals>
-    <plurals name="app_behavior_desc_virtual">
-        <item quantity="other">ส่งกลับ %3$d ข้อความเปล่าระหว่าง %1$s และ %2$s</item>
-    </plurals>
-    <plurals name="app_behavior_desc_virtual_minute">
-        <item quantity="other">ส่งกลับ %2$d ข้อความเปล่า เมื่อ %1$s</item>
-    </plurals>
-    <plurals name="app_behavior_notification_audio_more">
-        <item quantity="other">แอป %2$d รวมถึง %1$1s กำลังบันทึกเสียง</item>
-    </plurals>
-    <plurals name="app_behavior_notification_camera_more">
-        <item quantity="other">แอป %2$d รวมถึง %1$1s กำลังถ่ายรูป</item>
-    </plurals>
-    <plurals name="app_behavior_notification_location_more">
-        <item quantity="other">แอป %2$d รวมถึง %1$1s กำลังเข้าถึงตำแหน่งของคุณ</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_off">
-        <item quantity="other">คุณจะไม่ได้รับแจ้งเกี่ยวกับการกระทำที่ละเอียดอ่อนที่ดำเนินการโดย %1$d แอป</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_on">
-        <item quantity="other">คุณจะได้รับแจ้งเกี่ยวกับการกระทำที่ละเอียดอ่อนที่ดำเนินการโดย %1$d แอป</item>
-    </plurals>
-    <plurals name="app_behavior_wakepath_multiple">
-        <item quantity="other">%1$1s เปิดใช้ %2$d แอป</item>
-    </plurals>
-    <plurals name="app_behavior_wakepath_multiple_single">
-        <item quantity="other">แอปนี้เปิดใช้ %1$d แอปอื่นๆ</item>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">บันทึกพฤติกรรมของแอปจะถูกจัดเก็บไว้ในอุปกรณ์นี้เป็นเวลา %d วัน การปิดฟีเจอร์นี้จะลบบันทึกพฤติกรรมของแอปทั้งหมด และไม่แนะนำ</item>
     </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">อนุญาต %d การอนุญาต</item>
@@ -95,6 +62,9 @@
     </plurals>
     <plurals name="app_manager_uninstall_notify_summary">
         <item quantity="other">ถอนการติดตั้ง %d แอป</item>
+    </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">อัปเดต %d แอป</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">ใช้เมื่อ %d วันก่อน</item>
@@ -154,6 +124,12 @@
         <item quantity="other">กรอกลับ %d วินาที</item>
         <item quantity="one">กรอกลับ %d วินาที</item>
     </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s ชม.</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s นาที</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">ค้นหาจาก %d แอป</item>
     </plurals>
@@ -184,6 +160,12 @@
     <plurals name="game_booster_incoming_call_duration_p2">
         <item quantity="other">%1$s</item>
     </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">การเป็นสมาชิก Game Turbo ของคุณจะหมดอายุใน %d วัน</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">การเป็นสมาชิก Game Turbo ของคุณจะหมดอายุใน %d วัน ต่ออายุตอนนี้เพื่อเพลิดเพลินกับการเล่นเกมที่ราบรื่น</item>
+    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d คนกำลังเล่น</item>
     </plurals>
@@ -213,6 +195,11 @@
     </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">รับทราบ (%d วิ)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"หมายเหตุ:
+·ภาพที่ได้รับการปรับปรุงจะไม่สามารถใช้ได้เมื่อเปิดโหมดประหยัดแบตเตอรี่หรืออุปกรณ์ของคุณร้อนเกินไป
+·อัตราเฟรมอัจฉริยะจะแสดงผลลัพธ์ที่ดีที่สุดเมื่อเกมของคุณตั้งค่าให้แสดงอย่างน้อย %d เฟรมต่อวินาที"</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"ลองใช้ตัวเปลี่ยนเสียงตอนนี้
@@ -258,8 +245,14 @@
     <plurals name="hints_auto_start_disable_title">
         <item quantity="other">%d แอปไม่สามารถเริ่มต้นทำงานอัตโนมัติ</item>
     </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d แอปไม่ได้รับอนุญาตให้เริ่มทำงานในพื้นหลัง</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d แอปสามารถเริ่มต้นทำงานอัตโนมัติ</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d แอปสามารถเริ่มทำงานในพื้นหลังได้</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">%d แอปไม่ได้รับรูท</item>
@@ -359,10 +352,13 @@
         <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d วันที่เหลือก่อนที่เซสชั่นการเพิ่มความเร็วของเครือข่ายจะสิ้นสุดลง ต่ออายุเซสชันเพื่อหลีกเลี่ยงปัญหาความเร็วเครือข่าย</item>
+        <item quantity="other">เซสชันการเพิ่มความเร็วเครือข่ายของคุณจะสิ้นสุดใน %d วัน คุณอาจเริ่มประสบกับความล่าช้าของเครือข่าย ต่ออายุเซสชันเลยไหม?</item>
     </plurals>
     <plurals name="network_restrict_count">
         <item quantity="other">"การเข้าถึงเครือข่ายถูกจำกัดสำหรับ &lt;font color='#ff0000'>%d:&lt;/font> แอป"</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">ไม่ได้เพิ่ม %d แอป</item>
     </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">ไม่ได้สแกนความปลอดภัย %d วันแล้ว</item>
@@ -380,7 +376,7 @@
         <item quantity="other">ลบ %d APK ที่เหลือ</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d ปัญหาการใช้งานแบตเตอรี่</item>
+        <item quantity="other">%d รายการที่มีการใช้พลังงานสูง</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">เพิ่มประสิทธิภาพ %d รายการเพื่อประหยัดแบตเตอรี่</item>
@@ -415,6 +411,9 @@
     <plurals name="om_running_apps_num">
         <item quantity="other">%d แอป</item>
     </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d แอปรวมถึง %1$s อาจเป็นอันตราย</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
     </plurals>
@@ -426,6 +425,12 @@
     </plurals>
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" นาที"</item>
+    </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d รายการ</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">อุปกรณ์ของคุณแบตเตอรี่หมด กำลังเข้าสู่โหมดไฮเบอร์เนตใน %1$d วินาที</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s วัน</item>
@@ -475,11 +480,17 @@
     <plurals name="power_20s_shutdown">
         <item quantity="other">อุปกรณ์ของคุณจะปิดใน %d วินาที</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ชม.</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s นาที</item>
+    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">ครั้ง</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d ปัญหาการใช้งานแบตเตอรี่</item>
+        <item quantity="other">%d รายการที่มีการใช้พลังงานสูง</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d วัน "</item>
@@ -496,11 +507,14 @@
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d นาที "</item>
     </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">เพิ่มประสิทธิภาพการใช้แบตเตอรี่ใน %d สถานการณ์</item>
+    </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">แก้ไข %d ปัญหาการใช้แบตเตอรี่</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">คุณสามารถแก้ไข %d ปัญหาการใช้งานแบตเตอรี่ได้</item>
+        <item quantity="other">คุณสามารถเพิ่มประสิทธิภาพการใช้พลังงานสำหรับ %d รายการ</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" %d รายการที่สามารถเพิ่มประสิทธิภาพได้"</item>
@@ -534,6 +548,15 @@
     </plurals>
     <plurals name="power_main_battery_last_minute">
         <item quantity="other">ใช้ได้อีก %s นาที</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">เวลาอยู่หน้าจอเหลืออยู่ %s นาที</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">เปิดเพื่อเพิ่ม %s นาที ของเวลาหน้าจอ</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">รับทราบ (%d)</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">รับทราบ (%dวิ)</item>
@@ -605,7 +628,7 @@
         <item quantity="other">พบปัญหาแบตเตอรี่ %d แก้ไขมัน</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">แก้ไข %d ปัญหาแบตเตอรี่</item>
+        <item quantity="other">เพิ่มประสิทธิภาพ %d รายการด้วยการใช้พลังงานสูง</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">คืนค่าจากโรงงาน (%ds)</item>
@@ -643,8 +666,14 @@
     <plurals name="st_show_num_number">
         <item quantity="other">%d หมายเลข</item>
     </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">กำลังแก้ไข %1$d สิทธิ์</item>
+    </plurals>
     <plurals name="storage_fbo_number_unit">
         <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> ชิ้นส่วน</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">พบการอัปเดตสำหรับ %d แอป.</item>
@@ -663,6 +692,9 @@
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">ล้าง %d ไวรัสแล้ว</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d ไวรัสหรือแอปที่มีความเสี่ยง</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d แอป</item>
@@ -688,6 +720,9 @@
     </plurals>
     <plurals name="virus_clear_dialog_content">
         <item quantity="other">ล้าง %d แอปที่เลือก?</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s แอป</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">แอปอันตราย: %d</item>

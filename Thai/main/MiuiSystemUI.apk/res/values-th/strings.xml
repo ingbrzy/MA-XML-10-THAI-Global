@@ -940,6 +940,8 @@
     <string name="keyguard_indication_charging_time_wireless">%2$s • กำลังชาร์จแบบไร้สาย • จะเต็มในอีก %1$s</string>
     <string name="keyguard_indication_trust_unlocked">ปลดล็อกไว้โดย TrustAgent</string>
     <string name="keyguard_left_mi_wallet">Mi Wallet</string>
+    <string name="keyguard_left_remotecentral">รีโมท Mi</string>
+    <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">ไฟฉาย</string>
     <string name="keyguard_left_view_lock_wallpaper">ภาพพื้นหลังรายวัน</string>
     <string name="keyguard_loading_to_editor_tips">กำลังเปิดตัวแก้ไขหน้าจอล็อก…</string>
@@ -1221,6 +1223,7 @@ mm"</string>
     <string name="monitoring_description_personal_profile_named_vpn">แอปส่วนตัวเชื่อมต่ออินเทอร์เน็ตผ่าน%1$s ผู้ให้บริการ VPN สามารถดูกิจกรรมที่คุณทำในเครือข่ายซึ่งรวมถึงอีเมลและข้อมูลการท่องเว็บได้</string>
     <string name="monitoring_description_two_named_vpns">อุปกรณ์นี้เชื่อมต่ออินเทอร์เน็ตผ่าน %1$s และ %2$s ผู้ดูแลระบบไอทีสามารถดูกิจกรรมที่คุณทำในเครือข่าย ซึ่งรวมถึงอีเมลและข้อมูลการท่องเว็บได้</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s อาจเข้าถึงข้อมูลที่เชื่อมโยงกับอุปกรณ์นี้ จัดการแอป และเปลี่ยนการตั้งค่าอุปกรณ์ได้
 
 หากมีคำถาม โปรดติดต่อ %2$s"</string>
@@ -1420,8 +1423,6 @@ mm"</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>เลือก&lt;font color=#a5220e>\"ลบออกและรีเซ็ต\"&lt;/font> และรอจนกว่าอุปกรณ์รีบูต.;&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">ลบข้อมูลอย่างไร?</string>
     <string name="phone_locked_string">อุปกรณ์ดังกล่าวถูกล็อกอยู่</string>
-    <string name="phone_locked_string_owner_user">พยายามป้อนรหัสผ่านพื้นที่ปกติไม่สำเร็จหลายครั้งเกินไป อุปกรณ์นี้ถูกล็อกแล้วตอนนี้</string>
-    <string name="phone_locked_string_second_user">พยายามป้อนรหัสผ่านพื้นที่ทับซ้อนไม่สำเร็จหลายครั้งเกินไป อุปกรณ์นี้ถูกล็อกแล้วตอนนี้</string>
     <string name="pip_close">ปิด</string>
     <string name="pip_collapse">ยุบ</string>
     <string name="pip_edu_text">กดปุ่ม <annotation icon="home_icon"> หน้าแรก </annotation> สองครั้งเพื่อเปิดการควบคุม</string>
@@ -1823,6 +1824,8 @@ mm"</string>
     <string name="status_bar_clock_date_format_12">E d MMM</string>
     <string name="status_bar_clock_date_time_format">E d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E d MMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">อีเทอร์เน็ต</string>
     <string name="status_bar_settings_auto_rotation">หมุนหน้าจออัตโนมัติ</string>
     <string name="status_bar_work">โปรไฟล์งาน</string>

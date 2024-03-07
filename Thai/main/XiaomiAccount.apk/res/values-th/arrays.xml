@@ -4,6 +4,10 @@
         <item>ผู้ชาย</item>
         <item>ผู้หญิง</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>ชาย</item>
+        <item>หญิง</item>
+    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>บัญชี</item>
         <item>เพิ่มและจัดการบัญชีบุคคลที่สาม</item>
@@ -11,8 +15,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>บัญชี</item>
-        <item>เพิ่มและจัดการบัญชีบุคคลที่สาม</item>
-        <item>บัญชี;SNS;WeChat;QQ;บัญชี Mi;บัญชี;บัญชี Xiaomi</item>
+        <item>ดู WeChat ที่เชื่อมต่อของคุณและบัญชี SNS อื่นๆ</item>
+        <item>การอนุญาต;SNS;WeChat;บัญชี Xiaomi;บัญชี</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>เปลี่ยนรหัสผ่าน</item>
@@ -33,11 +37,6 @@
         <item>ช่วยเหลือ</item>
         <item>รับความช่วยเหลือและการสนับสนุนบัญชี Xiaomi</item>
         <item>บัญชี Mi;บัญชี;บัญชี Xiaomi;ช่วยเหลือเกี่ยวกับบัญชี;ศูนย์ช่วยเหลือ</item>
-    </string-array>
-    <string-array name="settings_search_login_2_step_verify">
-        <item>การตรวจสอบแบบสองชั้น</item>
-        <item>ตั้งค่าการตรวจสอบแบบสองชั้นสำหรับบัญชี Xiaomi ของคุณ</item>
-        <item>ลงชื่อเข้าใช้;เข้าสู่ระบบ;สองชั้น;การตรวจสอบ;Xiaomi;บัญชี;บัญชี Mi;บัญชี;บัญชี Xiaomi</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>ความปลอดภัยบัญชี</item>
