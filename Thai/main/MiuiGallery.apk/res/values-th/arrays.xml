@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>ชาย</item>
-        <item>หญิง</item>
-    </string-array>
     <string-array name="activities_title">
         <item>วันพิเศษ</item>
         <item>วันที่ต้องจดจำ</item>
@@ -65,6 +61,14 @@
         <item>Into the wild</item>
         <item>Wild and free</item>
     </string-array>
+    <string-array name="global_backup_display_title">
+        <item>@string/backup_google_name</item>
+        <item>@string/backup_onedrive_single_name</item>
+    </string-array>
+    <string-array name="global_backup_display_value">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="group_people_title">
         <item>งานสังสรรค์ของเรา</item>
         <item>รายล้อมด้วยผองเพื่อน</item>
@@ -119,6 +123,11 @@
         <item>เพื่อนใหม่และเพื่อนเก่า</item>
         <item>ปีที่แล้วได้อยู่ร่วมกัน</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>ย้าย</item>
+        <item>คัดลอก</item>
+        <item>@string/cancel</item>
+    </string-array>
     <string-array name="month">
         <item>มกราคม</item>
         <item>กุมภาพันธ์</item>
@@ -158,6 +167,10 @@
         <item>ด้วยกัน</item>
         <item>เวลาที่ดี</item>
         <item>ในเวลาเดียวกัน</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>ชาย</item>
+        <item>หญิง</item>
     </string-array>
     <string-array name="people_travel_title">
         <item>Where the road takes us</item>

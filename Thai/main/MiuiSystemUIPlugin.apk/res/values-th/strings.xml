@@ -188,7 +188,7 @@
     <string name="kddi_miui_toast_zen_standard_to_off">โหมดปิดเสียงถูกปิดแล้ว สายเข้าและการแจ้งเตือนจะไม่ถูกปิดเสียง</string>
     <string name="kddi_miui_toast_zen_to_standard">เปลี่ยนเป็น โหมดปิดเสียง แล้ว สายเข้าและการแจ้งเตือนจะถูกปิดเสียง</string>
     <string name="loading">ไม่ทราบสถานะ</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="midnight">กลางคืน</string>
     <string name="miplay_accessibility_cast">เลือกอุปกรณ์</string>
     <string name="miplay_accessibility_cover">ภาพปก</string>
@@ -201,6 +201,8 @@
     <string name="miplay_bluetooth_share_des_text">"ผู้ใช้หูฟังเอียร์บัด Xiaomi: เปิดกล่องชาร์จหรือกดปุ่มเคสค้างไว้สำหรับ %dวิ
  ผู้ใช้หูฟังเอียร์บัดที่ไม่ใช่ Xiaomi: รีเซ็ตหูฟังของคุณ ในการตั้งค่า บลูทูธ จากนั้นจึงเชื่อมต่อ"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">เพิ่มหูฟังเพื่อแชร์เสียง</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">แชร์เสียงเสร็จแล้ว</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">เพิ่มหูฟังเพื่อแชร์เสียง</string>
     <string name="miplay_bluetooth_share_subTitle_text">แบ่งปันเสียงของอุปกรณ์กับบุคคลอื่น</string>
     <string name="miplay_bluetooth_share_title_text">แชร์เสียง</string>
     <string name="miplay_detail_divider_title">ลำโพง</string>

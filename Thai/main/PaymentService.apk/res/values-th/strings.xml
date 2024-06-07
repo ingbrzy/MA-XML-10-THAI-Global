@@ -396,6 +396,7 @@ ID:%s
     <string name="sns_access_token_expired_warning">เซสชันสิ้นสุดลง กรุณาลงชื่อเข้าสู่ระบบอีกครั้งเพื่อเข้าสู่บัญชีนี้</string>
     <string name="sns_bind_limit">มีความพยายามมากเกินไป ลองวิธีอื่นๆ ในการลงชื่อเข้าใช้</string>
     <string name="sns_sign_in">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>

@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalbum_total_songs">
-        <item quantity="other">Total %d songs</item>
+        <item quantity="other">ทั้งหมด %d เพลง</item>
     </plurals>
     <plurals name="Nassociate_songs">
         <item quantity="other">กำลังค้นหาปกอัลบั้มและเนื้อเพลง (%1$d/%2$d)</item>
     </plurals>
     <plurals name="Ndialog_renew_content">
-        <item quantity="other">"Your subscription is expiring in %d days.
-Do you want us to help renew it?"</item>
+        <item quantity="other">"การสมัครสมาชิกของคุณจะหมดอายุใน%dวัน
+คุณต้องการให้เราช่วยต่ออายุหรือไม่?"</item>
     </plurals>
     <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">You can download %1$d free songs. Download %2$s now?</item>
+        <item quantity="other">คุณสามารถดาวน์โหลดเพลงฟรีได้%1$dเพลง จะดาวน์โหลด %2$s ตอนนี้หรือไม่?</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">Player will stop in %d minutes</item>
+        <item quantity="other">ปิดเครื่องเล่นในอีก %d นาที</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">"Created on %1$s 
-total %2$d songs"</item>
+        <item quantity="other">"สร้างในเพลง %1$s 
+ ทั้งหมด %2$d เพลง"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d song added to playlist</item>
+        <item quantity="other">เพิ่ม %d เพลงไปยังรายชื่อเพลงแล้ว</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d songs</item>
+        <item quantity="other">%d เพลง</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d songs removed from playlist</item>
+        <item quantity="other">นำเพลง %d เพลงออกจากรายชื่อเพลงแล้ว\"</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d similar songs</item>
+        <item quantity="other">%d เพลงที่คล้ายกัน</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">1 ชั่วโมงที่แล้ว</item>
@@ -69,16 +69,16 @@ total %2$d songs"</item>
         <item quantity="other">%1$d เพลง</item>
     </plurals>
     <plurals name="comment_count">
-        <item quantity="other">%d comments</item>
+        <item quantity="other">%d ความคิดเห็น</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%d days ago</item>
+        <item quantity="other">%d วันที่ผ่านมา</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">Delete %d songs?</item>
+        <item quantity="other">ลบ %d เพลง?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Remove %d songs?</item>
+        <item quantity="other">ลบ %d เพลง?</item>
     </plurals>
     <plurals name="dialog_request_delete_permission_descript">
         <item quantity="other">%d ของเพลงที่เลือกจะถูกจัดเก็บไว้ในโฟลเดอร์ภายนอก ให้การอนุญาตที่จำเป็นในการลบ</item>
@@ -95,7 +95,7 @@ total %2$d songs"</item>
         <item quantity="other">ดู %s ครั้ง</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">%d free downloads left</item>
+        <item quantity="other">เหลือดาวน์โหลดฟรีอีก %d ครั้ง</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
@@ -119,10 +119,10 @@ total %2$d songs"</item>
         <item quantity="other">เมื่อสักครู่</item>
     </plurals>
     <plurals name="list_header_fans_count">
-        <item quantity="other">%d followers</item>
+        <item quantity="other">%d ผู้ติดตาม</item>
     </plurals>
     <plurals name="list_header_follow_count">
-        <item quantity="other">Following %d people</item>
+        <item quantity="other">ติดตามอยู่ %d คน</item>
     </plurals>
     <plurals name="media_store_new_songs_add">
         <item quantity="other">%d เพลงใหม่</item>
@@ -135,43 +135,43 @@ total %2$d songs"</item>
         <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">%d items selected</item>
+        <item quantity="other">เลือก %d รายการแล้ว</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
     <plurals name="reader_count">
-        <item quantity="other">%d followers</item>
+        <item quantity="other">%d ผู้ติดตาม</item>
     </plurals>
     <plurals name="reward_seconds_remaining">
         <item quantity="other">สมาชิก VIP ใน %d วินาที</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">%d songs will be sent</item>
+        <item quantity="other">%d เพลงจะถูกส่งไป</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
+        <item quantity="other">ข้าม %d เพลง เปิดใช้งานบริการออนไลน์ในการตั้งค่าเพื่อฟัง</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Songs have been favorited.</item>
+        <item quantity="other">เพลงได้รับการชื่นชอบ</item>
     </plurals>
     <plurals name="songs_count">
-        <item quantity="other">%d songs</item>
+        <item quantity="other">%d เพลง</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Crossfade between songs: %d seconds</item>
+        <item quantity="other">Crossfade ระหว่างเพลง: %d วินาที</item>
     </plurals>
     <plurals name="task_guide">
-        <item quantity="other">Earn %1$d coins today</item>
+        <item quantity="other">ได้รับ %1$d เหรียญวันนี้</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">Videos</item>
+        <item quantity="other">วิดีโอ</item>
     </plurals>
     <plurals name="video_play_count">
-        <item quantity="other">%1$s views</item>
+        <item quantity="other">ดู %1$s ครั้ง</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">%d days remaining</item>
+        <item quantity="other">เหลือ %d วัน</item>
     </plurals>
     <plurals name="web_reward_dialog_title">
         <item quantity="other">หากคุณดูเป็นเวลา %d วินาที คุณจะได้รับรางวัลเป็นสมาชิก VIP ออกหรือไม่?</item>

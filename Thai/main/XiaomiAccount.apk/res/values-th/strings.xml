@@ -93,18 +93,14 @@
     <string name="binded">เชื่อมต่อแล้ว</string>
     <string name="binded_description" formatted="false">"%s ได้เชื่อมต่อกับบัญชี Xiaomi ของคุณแล้ว
 คุณสามารถลงชื่อเข้าใช้บัญชี Xiaomi โดยใช้ %s ได้ตอนนี้"</string>
-    <string name="bottomsheet_action_expand_halfway">ขยายรายการครึ่งหนึ่ง</string>
     <string name="button_agree">ยอมรับ</string>
     <string name="button_close">ปิด</string>
     <string name="button_refuse">ไม่เห็นด้วย</string>
     <string name="button_unbind">ตัดการเชื่อมต่อ</string>
     <string name="cancel">ยกเลิก </string>
     <string name="change_password">เปลี่ยนรหัสผ่าน</string>
-    <string name="character_counter_content_description">ป้อนอักขระแล้ว %1$d จาก %2$d ตัว</string>
-    <string name="character_counter_overflowed_content_description">เกินจำนวนอักขระสูงสุด %1$d จาก %2$d</string>
     <string name="check_apk_update">ตรวจสอบหาอัปเดต</string>
     <string name="child_account_system_ad_disable_hint">คุณลักษณะนี้ไม่สามารถใช้ได้กับบัญชีย่อย</string>
-    <string name="clear_text_end_icon_content_description">ล้างข้อความ</string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="close">ปิด</string>
     <string name="close_drawer">ปิดเมนูการนำทาง</string>
@@ -116,7 +112,7 @@
     <string name="cloud_member_status_non_vip">อัปเกรด</string>
     <string name="cloud_member_vipname_free">ฟรี</string>
     <string name="cloud_member_vipname_mega">เมก้า</string>
-    <string name="cloud_member_vipname_premium">พรีเมี่ยม</string>
+    <string name="cloud_member_vipname_premium">พรีเมียม</string>
     <string name="cloud_member_vipname_ultra">อัลตร้า</string>
     <string name="cloud_service">Xiaomi คลาวด์</string>
     <string name="cloud_service_cloud_open">เปิดใช้งาน</string>
@@ -208,13 +204,11 @@
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="error_dup_binded_email">ที่อยู่อีเมลนี้ได้ถูกผูกไว้กับบัญชี Xiaomi อื่นอยู่ก่อนแล้ว</string>
-    <string name="error_icon_content_description">ข้อผิดพลาด</string>
     <string name="error_invalid_bind_address">ที่อยู่อีเมลที่คุณป้อนไม่ถูกต้อง</string>
     <string name="evening">บ่าย</string>
     <string name="exceed_binded_phone_times_notice">หมายเลขโทรศัพท์นี้ได้ถูกผูกไว้กับบัญชี Xiaomi อื่นอยู่ก่อนแล้ว</string>
     <string name="exit">ออก</string>
     <string name="expand_button_title">ขั้นสูง</string>
-    <string name="exposed_dropdown_menu_content_description">แสดงเมนูแบบเลื่อนลง</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_login">ลงชื่อเข้าใช้ด้วย Facebook</string>
     <string name="failed_dup_secure_phone_number">หมายเลขโทรศัพท์นี้ได้ถูกผูกไว้กับบัญชี Xiaomi อื่นอยู่ก่อนแล้ว</string>
@@ -341,7 +335,6 @@
     <string name="help_center">ช่วยเหลือ</string>
     <string name="i_agree">ตกลง</string>
     <string name="i_agree_continue">ยอมรับ</string>
-    <string name="icon_content_description">ไอคอนกล่องโต้ตอบ</string>
     <string name="identity">เลขประจำตัว</string>
     <string name="in_progress">กำลังดำเนินการ</string>
     <string name="inconsistent_pwd">รหัสผ่านไม่ตรงกัน</string>
@@ -350,7 +343,6 @@
     <string name="input_new_pwd">ป้อนรหัสผ่านใหม่</string>
     <string name="input_ps">ป้อนรหัสผ่าน</string>
     <string name="io_error_title">ยืนยันเครือข่ายของคุณ</string>
-    <string name="item_view_role_description">แท็บ</string>
     <string name="just_a_second">รอสักครู่…</string>
     <string name="keep_phone_ticket_login">ลงชื่อเข้าใช้ด้วยรหัสยืนยัน</string>
     <string name="kr_license_desc">คุณต้องยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเราก่อนใช้บริการบัญชี Xiaomi และ Xiaomi คลาวด์</string>
@@ -370,18 +362,6 @@
     <string name="login_with_other">ตัวเลือกเพิ่มเติม</string>
     <string name="logout_account">ลงชื่อออก</string>
     <string name="logout_failed">ไม่สามารถลงชื่อออก</string>
-    <string name="material_clock_toggle_content_description">เลือก AM หรือ PM</string>
-    <string name="material_hour_selection">เลือกชั่วโมง</string>
-    <string name="material_hour_suffix">%1$s นาฬิกา</string>
-    <string name="material_minute_selection">เลือกนาที</string>
-    <string name="material_minute_suffix">%1$s นาที</string>
-    <string name="material_timepicker_am">AM</string>
-    <string name="material_timepicker_clock_mode_description">สลับไปโหมดนาฬิกาเพื่อป้อนเวลา</string>
-    <string name="material_timepicker_hour">ชั่วโมง</string>
-    <string name="material_timepicker_minute">นาที</string>
-    <string name="material_timepicker_pm">PM</string>
-    <string name="material_timepicker_select_time">เลือกเวลา</string>
-    <string name="material_timepicker_text_input_mode_description">สลับไปโหมดป้อนข้อความเพื่อป้อนเวลา</string>
     <string name="mi_account">บัญชีของฉัน</string>
     <string name="mi_health">Xiaomi Health</string>
     <string name="midnight">กลางคืน</string>
@@ -398,6 +378,7 @@
     <string name="miuix_appcompat_delete_description">ลบ</string>
     <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_edit">แก้ไข</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
@@ -452,42 +433,10 @@
     <string name="month_september_shortest">กันยา</string>
     <string name="more">เพิ่มเติม</string>
     <string name="morning">เช้า</string>
-    <string name="mtrl_badge_numberless_content_description">การแจ้งเตือนใหม่</string>
-    <string name="mtrl_chip_close_icon_content_description">นำ %1$s ออก</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">การแจ้งเตือนใหม่มากกว่า %1$d รายการ</string>
-    <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
-    <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
-    <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
-    <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
-    <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
-    <string name="mtrl_picker_day_of_week_column_header">คอลัมน์ของวัน: %1$s</string>
-    <string name="mtrl_picker_invalid_format">รูปแบบไม่ถูกต้อง</string>
-    <string name="mtrl_picker_invalid_format_example">ตัวอย่าง: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">ใช้: %1$s</string>
-    <string name="mtrl_picker_invalid_range">ช่วงไม่ถูกต้อง</string>
-    <string name="mtrl_picker_navigate_to_year_description">ไปที่ปี %1$s</string>
-    <string name="mtrl_picker_out_of_range">วันที่ไม่อยู่ในช่วงที่อนุญาต: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">วันที่เริ่มต้น – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – วันที่สิ้นสุด</string>
-    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-    <string name="mtrl_picker_range_header_title">เลือกช่วง</string>
-    <string name="mtrl_picker_range_header_unselected">วันที่เริ่มต้น – วันที่สิ้นสุด</string>
-    <string name="mtrl_picker_save">บันทึก</string>
-    <string name="mtrl_picker_text_input_date_hint">วันที่</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">วันที่สิ้นสุด</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">วันที่เริ่มต้น</string>
-    <string name="mtrl_picker_text_input_day_abbr">ว</string>
-    <string name="mtrl_picker_text_input_month_abbr">ด</string>
-    <string name="mtrl_picker_text_input_year_abbr">ป</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">สลับไปใช้โหมดป้อนข้อมูลปฏิทิน</string>
-    <string name="mtrl_picker_toggle_to_day_selection">แตะเพื่อสลับไปใช้การเลือกวัน</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">สลับไปใช้โหมดป้อนข้อมูลข้อความ</string>
-    <string name="mtrl_picker_toggle_to_year_selection">แตะเพื่อสลับไปใช้การเลือกปี</string>
     <string name="multi_user_not_show_sync_activity_message_1">ดูเหมือนว่าคุณกำลังใช้พื้นที่ปกติ ของบัญชี Xiaomi อยู่</string>
     <string name="multi_user_not_show_sync_activity_message_2">ในกรณีดังกล่าว ข้อมูลทั้งหมดจะถูกซิงค์ไปยังพื้นที่ทับซ้อนของคุณเพื่อหลีกเลี่ยงปัญหานี้ กรุณาอย่าเปิดการซิงค์กับคลาวด์</string>
     <string name="multi_user_not_show_sync_activity_title">อย่าเปิดใช้การซิงค์กับคลาวด์</string>
-    <string name="my_device_title">เครื่องของฉัน</string>
+    <string name="my_device_title">อุปกรณ์ปัจจุบัน</string>
     <string name="navigation_menu">เมนูการนำทาง</string>
     <string name="need_install_wechat">กรุณาติดตั้ง WeChat ก่อน</string>
     <string name="network_error">เครือข่ายผิดพลาด</string>
@@ -820,7 +769,6 @@
     <string name="passport_wrong_phone_number_format">รูปแบบของหมายเลขโทรศัพท์ที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_wrong_vcode">รหัสที่คุณป้อนไม่ถูกต้อง</string>
     <string name="passport_wrong_voice">รหัสที่คุณป้อนไม่ถูกต้อง</string>
-    <string name="password_toggle_content_description">แสดงรหัสผ่าน</string>
     <string name="password_view_hide_password">ซ่อนรหัสผ่าน</string>
     <string name="password_view_show_password">แสดงรหัสผ่าน</string>
     <string name="permission_group_contacts">รายชื่อผู้ติดต่อ</string>
@@ -982,7 +930,7 @@
 %2$d หากคุณรีเซ็ตรหัสผ่านไม่ได้หรือมีคนล็อกอุปกรณ์ไว้ ให้ไปที่ i.mi.com เพื่อปลดล็อก
 %3$d หมายเลขปลดล็อคของคุณ: %4$s"</string>
     <string name="update_apk_version_later">ไม่ใช่ตอนนี้</string>
-    <string name="update_apk_version_now">อัปเดต</string>
+    <string name="update_apk_version_now">ติดตั้ง</string>
     <string name="update_email_address_dialog_message">คุณต้องยืนยันตัวตนก่อนจึงจะสามารถอัปเดตอีเมลได้</string>
     <string name="update_email_address_dialog_title">อัปเดตอีเมล</string>
     <string name="update_phone_notice">เปลี่ยนการตั้งค่าความปลอดภัย</string>
@@ -994,7 +942,6 @@
     <string name="user_agreement_read_phone_permission_desc">สำหรับลงชื่อเข้าสู่ระบบด้วยหมายเลขโทรศัพท์</string>
     <string name="user_agreement_read_phone_permission_title">อ่านหมายเลขโทรศัพท์</string>
     <string name="user_agreement_use_account_msg">บัญชี Xiaomi ช่วยให้คุณเข้าถึงบริการทั้งหมดที่มีให้โดย Xiaomi</string>
-    <string name="user_agreement_wifi_permission_title">เปิดและปิด Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">สำหรับการตรวจสอบสภาพแวดล้อมการลงชื่อเข้าใช้สำหรับปัญหาด้านความปลอดภัย</string>
     <string name="user_agreement_wlan_permission_title_china">เปิดและปิด WLAN</string>
     <string name="user_avatar_update_title">เปลี่ยนรูปประจำตัว</string>

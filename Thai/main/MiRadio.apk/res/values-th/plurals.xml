@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sleep_duration_hour_values">
+        <item quantity="other">%d ชั่วโมง</item>
+    </plurals>
+    <plurals name="sleep_duration_minutes_values">
+        <item quantity="other">%d นาที</item>
+    </plurals>
     <plurals name="toast_channel_searched">
         <item quantity="other">สแกนแล้ว %1$d สถานี</item>
     </plurals>

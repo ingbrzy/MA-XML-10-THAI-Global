@@ -122,10 +122,14 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_title_empty">เลือกรายการ</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">เพิ่มเติม</string>
     <string name="miuix_appcompat_cancel_description">ยกเลิก </string>
+    <string name="miuix_appcompat_cloud_state_disabled">การซิงค์กับคลาวด์ถูกปิด</string>
+    <string name="miuix_appcompat_cloud_state_finished">ซิงค์กับคลาวด์เรียบร้อยแล้ว</string>
+    <string name="miuix_appcompat_cloud_state_syncing">กำลังซิงค์กับคลาวด์…</string>
     <string name="miuix_appcompat_confirm_description">ยืนยัน</string>
     <string name="miuix_appcompat_delete_description">ลบ</string>
     <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
+    <string name="miuix_appcompat_edit">แก้ไข</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
@@ -139,6 +143,11 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">นั่นคือทั้งหมดตอนนี้</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">รอสักครู่…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ไม่สามารถโหลดรายการได้</string>
+    <string name="miuix_search_action_mode_cancel">ยกเลิก </string>
+    <string name="miuix_search_history_clear">ล้างประวัติการค้นหา</string>
+    <string name="miuix_search_history_default_title">ประวัติการค้นหา</string>
+    <string name="miuix_search_recommendation_default_title">คุณอาจสนใจสิ่งเหล่านี้</string>
+    <string name="miuix_search_recommendation_item_del_des">ลบ</string>
     <string name="monday">วันจันทร์</string>
     <string name="monday_short">จันทร์</string>
     <string name="monday_shortest">จันทร์</string>
@@ -361,6 +370,7 @@ mm"</string>
     <string name="saturday_shortest">เสาร์</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="send">ส่ง</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>

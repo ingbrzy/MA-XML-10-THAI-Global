@@ -88,6 +88,7 @@
     <string name="fast_connect_device_battery">แบตเตอรี่</string>
     <string name="fast_connect_device_box">เคส</string>
     <string name="fast_connect_device_box_name">%1$s กล่อง</string>
+    <string name="fast_connect_device_button_audio_share_fail">รับทราบ</string>
     <string name="fast_connect_device_connect_cancel">ยกเลิก </string>
     <string name="fast_connect_device_connect_ok">เชื่อมต่อ</string>
     <string name="fast_connect_device_connect_retry">ลองอีกครั้ง</string>
@@ -96,6 +97,12 @@
     <string name="fast_connect_device_headset_l">ซ้าย</string>
     <string name="fast_connect_device_headset_r">ขวา</string>
     <string name="fast_connect_device_headset_reset">กดค้างที่ปุ่มบนเคส</string>
+    <string name="fast_connect_device_message_audio_share">แชร์เสียงของอุปกรณ์นี้กับหูฟังคู่นี้</string>
+    <string name="fast_connect_device_replace_current_device">สลับอุปกรณ์</string>
+    <string name="fast_connect_device_start_audio_share">แชร์</string>
+    <string name="fast_connect_device_title_audio_share">ฟังไปพร้อมกับ %1$s</string>
+    <string name="fast_connect_device_title_audio_share_fail">ไม่สามารถเชื่อมต่อกับ %1$s ได้ ลองอีกครั้ง</string>
+    <string name="fast_connect_device_title_audio_share_success">กำลังฟังไปพร้อมกับ %1$s</string>
     <string name="fast_connect_device_title_connect_fail">ไม่สามารถเชื่อมต่อกับ %1$s ได้</string>
     <string name="fast_connect_device_title_connecting">กำลังเชื่อมต่อ…</string>
     <string name="fast_connect_device_title_find_headset">ค้นหา %1$s</string>

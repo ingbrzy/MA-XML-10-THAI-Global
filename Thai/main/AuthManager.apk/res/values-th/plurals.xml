@@ -27,9 +27,6 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
-    <plurals name="clipboard_read_ai_deny_more">
-        <item quantity="other">บล็อก %2$d พยายามเข้าถึงคลิปบอร์ดสำหรับ %1$s</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>

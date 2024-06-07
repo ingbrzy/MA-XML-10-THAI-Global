@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>ชาย</item>
-        <item>หญิง</item>
-    </string-array>
     <string-array name="exo_controls_playback_speeds">
         <item>0.25x</item>
         <item>0.5x</item>
@@ -35,6 +31,10 @@
         <item>มุมมองที่รุนแรง</item>
         <item>โฆษณาแฝง</item>
         <item>ไม่ชอบเลย</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>ชาย</item>
+        <item>หญิง</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>ย้อนกลับ/ไปข้างหน้า</item>
@@ -83,10 +83,6 @@
     <string-array name="pref_web_permissions_sub_two">
         <item>จำกัด</item>
         <item>อนุญาต</item>
-    </string-array>
-    <string-array name="setting_swipe_up_target">
-        <item>ค้นหา</item>
-        <item>ข่าวสาร</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>ลบ</item>

@@ -343,6 +343,9 @@
     <string name="app_manager_copy_pkg_to_clip">คัดลอกไปยังคลิปบอร์ดแล้ว</string>
     <string name="app_manager_data_size">ข้อมูลผู้ใช้</string>
     <string name="app_manager_default_cleared">ล้างแล้ว</string>
+    <string name="app_manager_default_close_summary">ไม่ได้ตั้งค่าเริ่มต้น</string>
+    <string name="app_manager_default_open_summary">คุณเลือกที่จะเปิดแอปพลิเคชันนี้ตามค่าเริ่มต้นสำหรับการดำเนินการบางอย่าง</string>
+    <string name="app_manager_default_open_title">ล้างค่าเริ่มต้น</string>
     <string name="app_manager_defaults_setting">แอปที่เป็นค่าเริ่มต้น</string>
     <string name="app_manager_details_electric_title">แบตเตอรี่</string>
     <string name="app_manager_details_storage_title">ที่จัดเก็บข้อมูล</string>
@@ -968,6 +971,7 @@
     <string name="card_main_private_space_summary">การใช้พื้นที่ทับซ้อนเปรียบได้กับการมีมือถือสองเครื่อง</string>
     <string name="card_main_private_space_title">พื้นที่ทับซ้อน</string>
     <string name="card_main_sectool_title">เครื่องมือ</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">จัดการวิดีโอ</string>
     <string name="card_main_whatsappclean_title">ตัวทำความสะอาด WhatsApp</string>
     <string name="card_main_xspace_action">สร้าง</string>
@@ -1337,6 +1341,7 @@
     <string name="dynamic_performance_optimization_title">ประสิทธิภาพแบบไดนามิก</string>
     <string name="early_morning">เช้า</string>
     <string name="edit_phone_num">แก้ไขหมายเลขโทรศัพท์ซิม</string>
+    <string name="ellipsis">…</string>
     <string name="email">อีเมล</string>
     <string name="empty" />
     <string name="empty_app">ไม่พบแอป</string>
@@ -1414,7 +1419,9 @@
     <string name="exo_download_paused_for_wifi">กำลังรอ Wi-Fi เพื่อดาวน์โหลด</string>
     <string name="exo_download_removing">กำลังนำรายการที่ดาวน์โหลดออก</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">โมโน</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">อื่นๆ</string>
     <string name="exo_track_role_closed_captions">คำบรรยาย</string>
     <string name="exo_track_role_commentary">ความคิดเห็น</string>
@@ -1601,6 +1608,7 @@
     <string name="fod_finger_notice_title">วางนิ้วมือของคุณลงบนหน้าจอ</string>
     <string name="fod_finger_windows_tips">ยืนยันลายนิ้วมือของคุณ</string>
     <string name="fod_tips_split_screen_more_than_half">ป้อนรหัสผ่าน</string>
+    <string name="fold_application_mode_name">เค้าโครงแอป</string>
     <string name="forbid_autobright_summary">ความสว่างอัตโนมัติจะถูกปิดระหว่างที่คุณเล่นและเรียกคืนค่าหลังจากที่ดำเนินการเสร็จ</string>
     <string name="forbid_autobright_title">แก้ไขความสว่างหน้าจอ</string>
     <string name="foreground_traffic">เบื้องหน้า %s</string>
@@ -2599,6 +2607,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="menu_text_license_manager">การอนุญาต</string>
     <string name="menu_text_networkassistants">การใช้ข้อมูล</string>
     <string name="menu_text_networkassistants_danger">ใช้เกินไป %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">คงเหลือ %s</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2607,6 +2616,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="menu_text_optimize_manage">เพิ่มความเร็ว</string>
     <string name="menu_text_optimize_manage_1">เพิ่มความเร็ว</string>
     <string name="menu_text_power_manager">แบตเตอรี่</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">ลบออกจากรายการยกเว้น</string>
     <string name="menu_white">เพิ่มไปยังรายการยกเว้น</string>
     <string name="mi_ime_not_used">ใช้แป้นพิมพ์ที่ได้รับอนุญาตจาก Xiaomi</string>
@@ -2715,6 +2725,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -3246,7 +3257,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="pc_wireless_charging_special_stand_summary2">ติดตั้งอุปกรณ์ของคุณบนขาตั้งที่มาพร้อมกับเครื่องชาร์จไร้สายเพื่อประสิทธิภาพการชาร์จที่ดีที่สุด</string>
     <string name="pc_wireless_charging_special_stand_title">ใช้แท่นชาร์จที่ให้มา</string>
     <string name="pc_wireless_handle_connected">เชื่อมต่ออุปกรณ์แล้ว</string>
-    <string name="pc_wireless_handle_title">ด้ามจับกล้องไร้สาย</string>
+    <string name="pc_wireless_handle_title">ด้ามจับกล้อง</string>
     <string name="pc_work_in_save_mode">ตัวประหยัดแบตเตอรี่</string>
     <string name="pc_work_in_super_save_mode">ตัวประหยัดแบตเตอรี่อัลตร้า</string>
     <string name="pc_xiaoai_create_auto_task">งานใหม่จาก Mi AI</string>
@@ -3426,7 +3437,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="pm_remember_choice">จดจำตัวเลือกนี้</string>
     <string name="pm_root_success_notification_infomation">คุณแน่ใจว่าคุณเข้าใจถึงความเสี่ยงของการรูทเครื่องนี้</string>
     <string name="pm_root_success_notification_title">อนุญาตให้เข้าถึงรูท</string>
-    <string name="popular_action_anti_spam_title_global">บล็อกสายเรียกเข้าและข้อความ</string>
+    <string name="popular_action_anti_spam_title_global">Block spam calls</string>
     <string name="popular_action_app_lock_title_global">ป้องกันแอปด้วยล็อกแอป</string>
     <string name="popular_action_card_title">คุณสมบัติยอดนิยม</string>
     <string name="popular_action_first_aid_title_global">สำหรับผู้ใช้ใหม่</string>
@@ -3482,6 +3493,11 @@ Xiaomi Gaming Cooler"</string>
     <string name="power_center_dialog_msg_top">เมื่อเปิดโหมดประหยัดพลังงาน ระบบจะดำเนินการปรับให้เหมาะสมดังต่อไปนี้:</string>
     <string name="power_center_hints_scan_danger_result">คุณสามารถแก้ไขปัญหาแบตเตอรี่ได้ตอนนี้</string>
     <string name="power_center_list_item_auto_brightness">ปรับความสว่างหน้าจอโดยอัตโนมัติ</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ชม.</string>
     <string name="power_center_list_item_close_bluetooth">ปิดใช้งานบลูทูธ</string>
     <string name="power_center_list_item_deep_save_title">การตั้งค่าขั้นสูง</string>
@@ -3794,6 +3810,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="pref_normal_traffic_limit">ดำเนินการเมื่อมีการใช้แพ็คเกจข้อมูลเกิน</string>
     <string name="pref_open_adjust_traffic">ดึงสถิติการใช้เครือข่ายข้อมูลมือถือทุกวันจากผู้ให้บริการของคุณ</string>
     <string name="pref_operator_not_set">ไม่ได้ตั้งผู้ให้บริการ</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">เมื่อคุณใช้เกินแพ็คเกจข้อมูลของคุณ</string>
     <string name="pref_package_traffic_settings">แพ็คเกจข้อมูล</string>
     <string name="pref_pkg_begin_date">วันที่รีเซ็ตรอบการใช้</string>
@@ -4094,6 +4111,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="privacy_using_record">บันทึกเสียง</string>
     <string name="privacyapp_number_masked_text">เนื้อหาการแจ้งเตือนถูกซ่อน</string>
     <string name="privacyapp_number_unmasked_text">เนื้อหาการแจ้งเตือนสามารถซ่อนได้</string>
+    <string name="process_kernel_label">แอนดรอยด์</string>
     <string name="process_mediaserver_label">เซิร์ฟเวอร์สื่อมีเดีย</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">โฆษณา</string>
@@ -5329,7 +5347,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="vb_video_effects_spatial_summary_new">สัมผัสพื้นที่และทิศทางที่ดีขึ้นสำหรับเสียงที่รองรับเมื่อใช้หูฟัง</string>
     <string name="vb_video_effects_srs_premium_sound">เสียง</string>
     <string name="vb_video_super_division">อัปสเกล</string>
-    <string name="vb_video_super_division_desc">"อัปสเกลความละเอียดโดยอัตโนมัติเมื่ออยู่ที่ ≤720p
+    <string name="vb_video_super_division_desc">"อัปสเกลความละเอียดโดยอัตโนมัติเมื่ออยู่ที่ ≤720P
 
 การใช้คุณสมบัตินี้จะเพิ่มการใช้พลังงาน
 
@@ -5379,6 +5397,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="virus_update_tips_title">คำเตือน</string>
     <string name="virus_wait_network_dialog_message">ขณะนี้โทรศัพท์ของคุณไม่ได้เชื่อมต่อกับ Wi-Fi ใช้การเชื่อมต่อข้อมูลมือถือหรือไม่?</string>
     <string name="vtb_ai_subtitle">คำบรรยาย</string>
+    <string name="vtb_ai_subtitle_intl">คำบรรยาย AI</string>
     <string name="vtb_func_desc">เกี่ยวกับคุณลักษณะนี้</string>
     <string name="vtb_func_display_style_desc0">AI สามารถจดจำ ผู้คน สัตว์ พืช ท้องฟ้า อาคาร และวัตถุอื่นๆ ที่แสดงในวิดีโอและปรับปรุงสิ่งเหล่านี้ได้แบบไดนามิก</string>
     <string name="vtb_func_display_style_desc1">เอฟเฟกต์ที่เลือกจะไม่ถูกนำไปใช้กับวิดีโอ HDR บนอุปกรณ์ที่เลือก</string>

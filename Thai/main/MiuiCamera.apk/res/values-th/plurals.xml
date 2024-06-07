@@ -42,12 +42,6 @@
     <plurals name="accessibility_vv_duartion">
         <item quantity="other">ระยะเวลา: %d วินาที</item>
     </plurals>
-    <plurals name="cinemaster_toast_camera_overflow">
-        <item quantity="other">คุณสามารถเชื่อมต่อได้ถึง %d กล้องกับเครือข่ายเดียวกัน</item>
-    </plurals>
-    <plurals name="cinemaster_toast_monitor_overflow">
-        <item quantity="other">คุณสามารถเชื่อมต่อได้ถึง %d มอนิเตอร์กับเครือข่ายเดียวกัน</item>
-    </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">คุณสามารถสร้างได้ถึง %d การโคลนในแต่ละครั้ง</item>
     </plurals>
@@ -65,9 +59,6 @@
     </plurals>
     <plurals name="fastmotion_pro_sec_unit">
         <item quantity="other">%1$d วินาที</item>
-    </plurals>
-    <plurals name="friend_mode_display_first_dialog">
-        <item quantity="other">เปิดตัวจับเวลา (%1$d วินาที) รูปภาพจะถูกถ่ายโอนไปยังอุปกรณ์นี้</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
@@ -95,9 +86,6 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
-    </plurals>
-    <plurals name="number_unit_seconds_split">
-        <item quantity="other">%d วิ</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
         <item quantity="other">อุปกรณ์ของคุณร้อนเกินไป กล้องจะปิดลงใน %d วินาที รูปภาพหรือวิดีโอของคุณจะถูกบันทึกโดยอัตโนมัติ</item>

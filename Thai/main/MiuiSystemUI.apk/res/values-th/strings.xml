@@ -1223,6 +1223,7 @@ mm"</string>
     <string name="monitoring_description_personal_profile_named_vpn">แอปส่วนตัวเชื่อมต่ออินเทอร์เน็ตผ่าน%1$s ผู้ให้บริการ VPN สามารถดูกิจกรรมที่คุณทำในเครือข่ายซึ่งรวมถึงอีเมลและข้อมูลการท่องเว็บได้</string>
     <string name="monitoring_description_two_named_vpns">อุปกรณ์นี้เชื่อมต่ออินเทอร์เน็ตผ่าน %1$s และ %2$s ผู้ดูแลระบบไอทีสามารถดูกิจกรรมที่คุณทำในเครือข่าย ซึ่งรวมถึงอีเมลและข้อมูลการท่องเว็บได้</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s อาจเข้าถึงข้อมูลที่เชื่อมโยงกับอุปกรณ์นี้ จัดการแอป และเปลี่ยนการตั้งค่าอุปกรณ์ได้
 
 หากมีคำถาม โปรดติดต่อ %2$s"</string>
@@ -1422,6 +1423,8 @@ mm"</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>เลือก&lt;font color=#a5220e>\"ลบออกและรีเซ็ต\"&lt;/font> และรอจนกว่าอุปกรณ์รีบูต.;&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">ลบข้อมูลอย่างไร?</string>
     <string name="phone_locked_string">อุปกรณ์ดังกล่าวถูกล็อกอยู่</string>
+    <string name="pin_toast">เลื่อนขึ้นจากด้านล่างของหน้าจอและหยุดชั่วคราวเพื่อเลิกปักหมุดแอปนี้</string>
+    <string name="pin_toast_nav">กดปุ่มด้านหลังและปุ่มดูตัวอย่างค้างไว้เพื่อเลิกปักหมุดแอปนี้</string>
     <string name="pip_close">ปิด</string>
     <string name="pip_collapse">ยุบ</string>
     <string name="pip_edu_text">กดปุ่ม <annotation icon="home_icon"> หน้าแรก </annotation> สองครั้งเพื่อเปิดการควบคุม</string>
@@ -1823,6 +1826,8 @@ mm"</string>
     <string name="status_bar_clock_date_format_12">E d MMM</string>
     <string name="status_bar_clock_date_time_format">E d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E d MMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">อีเทอร์เน็ต</string>
     <string name="status_bar_settings_auto_rotation">หมุนหน้าจออัตโนมัติ</string>
     <string name="status_bar_work">โปรไฟล์งาน</string>

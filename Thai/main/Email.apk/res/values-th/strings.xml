@@ -33,7 +33,6 @@
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="close">ปิด</string>
     <string name="copy">คัดลอก</string>
-    <string name="copy_toast_msg">คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -45,9 +44,6 @@
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="evening">บ่าย</string>
     <string name="expand_button_title">ขั้นสูง</string>
-    <string name="fallback_menu_item_copy_link">คัดลอกลิงก์</string>
-    <string name="fallback_menu_item_open_in_browser">เปิดในเบราว์เซอร์</string>
-    <string name="fallback_menu_item_share_link">แชร์ลิงก์</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -193,6 +189,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>

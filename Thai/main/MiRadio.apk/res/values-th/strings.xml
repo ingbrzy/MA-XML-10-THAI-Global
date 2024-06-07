@@ -47,7 +47,7 @@
     <string name="global_app_description_title">ถอนการติดตั้งวิทยุ FM?</string>
     <string name="global_remove_app_description_content">วิทยุ FM เป็นแอประบบ คุณจะไม่สามารถฟังวิทยุออกอากาศได้หลังจากที่คุณลบปุ่มลัดหน้าจอหลักออก</string>
     <string name="global_remove_app_description_title">ลบ \"วิทยุ FM\" ออกจากหน้าจอหลัก?</string>
-    <string name="group_favor">สถานีที่ตั้งไว้</string>
+    <string name="group_favor">ที่ตั้งไว้</string>
     <string name="group_other">อื่นๆ</string>
     <string name="hint_frequency">ความถี่: %1$s ~ %2$s</string>
     <string name="hint_label">ป้ายชื่อ</string>
@@ -58,7 +58,7 @@
     <string name="menu_new_station">เพิ่ม</string>
     <string name="menu_online_service">บริการออนไลน์</string>
     <string name="menu_privacy">นโยบายความเป็นส่วนตัว</string>
-    <string name="menu_record_list">กำลังบันทึก</string>
+    <string name="menu_record_list">การบันทึก</string>
     <string name="menu_record_start">เริ่มการบันทึก</string>
     <string name="menu_record_stop">หยุดการบันทึก</string>
     <string name="menu_save_station_list">เพิ่มลงในสถานีที่ตั้งไว้</string>
@@ -87,6 +87,9 @@
     <string name="stations_list">รายชื่อสถานี</string>
     <string name="stations_list_empty">ไม่มีสถานี</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="talkback_back">ย้อนกลับ</string>
+    <string name="talkback_close">ปิด</string>
+    <string name="talkback_speed">ความเร็ว</string>
     <string name="toast_added_to_list">เพิ่มในรายการแล้ว</string>
     <string name="toast_added_to_presets">เพิ่มลงในสถานีที่ตั้งไว้แล้ว</string>
     <string name="toast_fm_error_startfailed">การอัดวิทยุผิดพลาด แอปอื่นอาจจะกำลังใช้งานฟังก์ชันการบันทึกเสียง</string>
@@ -99,11 +102,10 @@
     <string name="toast_sleep_mode">วิทยุจะหยุดเล่นใน %s</string>
     <string name="toast_sleep_mode_exit">ยกเลิกการตั้งเวลาปิดแล้ว</string>
     <string name="turn_off_fm">ปิดวิทยุ FM</string>
-    <string name="txt_divider">" | "</string>
     <string name="txt_sleep_mode">โหมดพักหน้าจอ</string>
     <string name="using_recorder_cancel">ปฏิเสธ</string>
     <string name="using_recorder_confirm">อนุญาต</string>
     <string name="using_recorder_dialog_message">วิทยุจำเป็นต้องเข้าถึงบริการการบันทึกอุปกรณ์ของคุณในการทำงานตามปกติ</string>
-    <string name="using_recorder_dialog_title">ต้องการคำร้องขออนุญาต</string>
+    <string name="using_recorder_dialog_title">ต้องการการอนุญาต</string>
     <string name="view_stations_list">แสดงรายชื่อสถานี</string>
 </resources>

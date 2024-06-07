@@ -41,9 +41,6 @@
         <item quantity="other">กรอกลับ %d วินาที</item>
         <item quantity="one">กรอกลับ %d วินาที</item>
     </plurals>
-    <plurals name="feed_back_home">
-        <item quantity="other">กำลังกลับไปที่หน้าหลักภายใน %1$d วินาที…</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
