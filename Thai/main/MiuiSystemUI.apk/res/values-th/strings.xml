@@ -1223,7 +1223,6 @@ mm"</string>
     <string name="monitoring_description_personal_profile_named_vpn">แอปส่วนตัวเชื่อมต่ออินเทอร์เน็ตผ่าน%1$s ผู้ให้บริการ VPN สามารถดูกิจกรรมที่คุณทำในเครือข่ายซึ่งรวมถึงอีเมลและข้อมูลการท่องเว็บได้</string>
     <string name="monitoring_description_two_named_vpns">อุปกรณ์นี้เชื่อมต่ออินเทอร์เน็ตผ่าน %1$s และ %2$s ผู้ดูแลระบบไอทีสามารถดูกิจกรรมที่คุณทำในเครือข่าย ซึ่งรวมถึงอีเมลและข้อมูลการท่องเว็บได้</string>
     <string name="monitoring_description_vpn_settings">เปิดการตั้งค่า VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s อาจเข้าถึงข้อมูลที่เชื่อมโยงกับอุปกรณ์นี้ จัดการแอป และเปลี่ยนการตั้งค่าอุปกรณ์ได้
 
 หากมีคำถาม โปรดติดต่อ %2$s"</string>
@@ -1826,8 +1825,6 @@ mm"</string>
     <string name="status_bar_clock_date_format_12">E d MMM</string>
     <string name="status_bar_clock_date_time_format">E d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E d MMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">อีเทอร์เน็ต</string>
     <string name="status_bar_settings_auto_rotation">หมุนหน้าจออัตโนมัติ</string>
     <string name="status_bar_work">โปรไฟล์งาน</string>

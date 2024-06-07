@@ -157,7 +157,6 @@
     <string name="dynamic_weather">สภาพอากาศ</string>
     <string name="early_morning">เช้า</string>
     <string name="edit_city">จัดการเมือง</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">กำลังอัปเดต…</string>
     <string name="empty_view_net_unavailable">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="empty_view_refresh">ลองอีกครั้ง</string>
@@ -267,7 +266,6 @@
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
     <string name="hourly_forcast_now">ขณะนี้</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">ติดตั้งตอนนี้</string>
     <string name="indices_title_chance_of_rain">โอกาสที่จะเกิดฝนตก</string>
@@ -278,10 +276,7 @@
     <string name="indices_wind_direction_north">เหนือ</string>
     <string name="indices_wind_direction_south">ใต้</string>
     <string name="indices_wind_direction_west">ตะวันตก</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">รังสียูวี</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">เปิดใช้บริการตำแหน่งพิกัด</string>
     <string name="location_tag">ค้นหาตำแหน่งพิกัด</string>
     <string name="manager_city_option_add_home">เพิ่มไปยังหน้าเริ่มต้น</string>
@@ -434,7 +429,6 @@
     <string name="share_button">แชร์</string>
     <string name="share_menu_title">แชร์</string>
     <string name="share_subject">แชร์</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ไม่สามารถจัดเก็บภาพหน้าจอได้</string>
     <string name="shortcut_short_label_24_hour_forecast">พยากรณ์ %d ชั่วโมง</string>

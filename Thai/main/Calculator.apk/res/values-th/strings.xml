@@ -574,7 +574,6 @@ LPR หนึ่งปีและห้าปีจะเสนอราคา�
     <string name="unit_data_display_currency_btn">งุลตรัมภูฏาน</string>
     <string name="unit_data_display_currency_bwp">ปูลาบอตสวานา</string>
     <string name="unit_data_display_currency_byn">รูเบิลเบลารุส</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">ดอลลาร์แคนาดา</string>
     <string name="unit_data_display_currency_cdf">ฟรังก์คองโก</string>
     <string name="unit_data_display_currency_chf">ฟรังก์สวิส</string>

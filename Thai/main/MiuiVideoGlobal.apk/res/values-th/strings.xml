@@ -135,7 +135,6 @@
     <string name="cast_forward">กรอไปข้างหน้า</string>
     <string name="cast_forward_10">กรอไปข้างหน้า 10 วินาที</string>
     <string name="cast_forward_30">กรอไปข้างหน้า 30 วินาที</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">สด</string>
     <string name="cast_mute">ปิดเสียง</string>
     <string name="cast_notification_connected_message">เชื่อมต่อ %1$s แล้ว</string>
@@ -1018,7 +1017,6 @@ Mi วิดีโอ จำเป็นต้องรวบรวมข้อ�
     <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
     <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
     <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
     <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
@@ -1108,7 +1106,6 @@ Mi วิดีโอ จำเป็นต้องรวบรวมข้อ�
     <string name="online_play_start_ready_loading_tip_kb">กำลังโหลด %.2f KB/s</string>
     <string name="online_play_start_ready_loading_tip_mb">กำลังโหลด %.2f MB/s</string>
     <string name="online_play_title">ป้อน URL</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">การสมัครสมาชิกล่าสุด</string>
     <string name="order_recently_updated">อัปเดตล่าสุด</string>
     <string name="out_of_memory_background_playback_is_suspended">หยุดเล่นบนพื้นหลังชั่วคราวเนื่องจากหน่วยความจำไม่เพียงพอ</string>
@@ -1515,7 +1512,6 @@ Mi วิดีโอ จำเป็นต้องรวบรวมข้อ�
     <string name="sns_sign_in">ลงชื่อเข้าใช้ด้วยวิธีอื่น</string>
     <string name="source">"แหล่งที่มา: "</string>
     <string name="start_download_tip">เพิ่มลงในคิวแล้ว ตรวจสอบความคืบหน้าในโปรไฟล์ > ดาวน์โหลด</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD การ์ด</string>
     <string name="storage_internal_sdcard">พื้นที่จัดเก็บข้อมูลในเครื่อง</string>
     <string name="subscribe">ติดตาม</string>
